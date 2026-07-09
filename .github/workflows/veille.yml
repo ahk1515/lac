@@ -1,0 +1,42 @@
+name: Veille RSS
+
+# QUAND lancer ?
+on:
+  workflow_dispatch:        # bouton manuel
+  schedule:
+    - cron: "0 */4 * * *"   # toutes les 4 heures
+
+permissions:
+  contents: write
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Préparer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install feedparser
+
+      # Étape 1 : COLLECTE (extraire, normaliser, ranger le brut + exploitable)
+      - name: Collecte
+        run: python collecte.py
+
+      # Étape 2 : TRAITEMENT (enrichir -> métadonnée pays, puis exploiter -> analyse)
+      - name: Traitement
+        run: python traitement.py
+
+      - name: Sauvegarder le lac
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add lac/
+          git commit -m "Veille du $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "Rien de nouveau"
+          git push
