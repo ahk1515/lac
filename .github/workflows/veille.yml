@@ -25,18 +25,22 @@ jobs:
       - name: Installer les dépendances
         run: pip install feedparser
 
-      # Étape 1 : COLLECTE (extraire, normaliser, ranger le brut + exploitable)
+      # Étape 1 : COLLECTE (extraire, normaliser, ranger brut + exploitable)
       - name: Collecte
         run: python collecte.py
 
-      # Étape 2 : TRAITEMENT (enrichir -> métadonnée pays, puis exploiter -> analyse)
+      # Étape 2 : TRAITEMENT (enrichir -> métadonnée pays, puis exploiter -> fréquence + matrice)
       - name: Traitement
         run: python traitement.py
+
+      # Étape 3 : MOTS-CLÉS (mots distinctifs par pays, sur tous les pays présents)
+      - name: Mots-clés par pays
+        run: python motscles.py
 
       - name: Sauvegarder le lac
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add lac/
-          git commit -m "Veille du $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "Rien de nouveau"
+          git commit -m "Veille du \$(date -u '+%Y-%m-%d %H:%M') UTC" || echo "Rien de nouveau"
           git push
