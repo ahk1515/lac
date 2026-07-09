@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T10:33:29.031961+00:00",
+  "_id": "ca7ec724e372",
+  "brut": {
+    "title": "Loin des tropiques, la Suisse est devenue forte de café",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Loin des tropiques, la Suisse est devenue forte de café"
+    },
+    "published": "Thu, 09 Jul 2026 05:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      3,
+      0,
+      10,
+      3,
+      190,
+      0
+    ],
+    "summary": "Le pays alpin, qui ne possède pourtant aucun plant sur son territoire, est l’un des leaders du secteur. Sa recette : dominer le négoce et la transformation des fèves, et même s’imposer sur le marché des machines à café.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pays alpin, qui ne possède pourtant aucun plant sur son territoire, est l’un des leaders du secteur. Sa recette : dominer le négoce et la transformation des fèves, et même s’imposer sur le marché des machines à café."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/09/loin-des-tropiques-la-suisse-est-devenue-forte-de-cafe_6722005_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/09/loin-des-tropiques-la-suisse-est-devenue-forte-de-cafe_6722005_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/09/loin-des-tropiques-la-suisse-est-devenue-forte-de-cafe_6722005_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/08/13/0/5114/2557/644/322/60/0/3ba1d0a_upload-1-1mzwgi1iwih8-000-34z997t.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une unité de production dans une usine Nespresso, à Orbe (Suisse), le 25 juin 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "STEFAN WERMUTH/AFP"
+      }
+    ],
+    "credit": "STEFAN WERMUTH/AFP"
+  }
+}

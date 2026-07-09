@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T10:33:29.028728+00:00",
+  "_id": "b27f4b13f9a3",
+  "brut": {
+    "title": "Epidémie d’Ebola en RDC : le bilan atteint 600 morts, selon l’OMS",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Epidémie d’Ebola en RDC : le bilan atteint 600 morts, selon l’OMS"
+    },
+    "published": "Thu, 09 Jul 2026 12:24:38 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      10,
+      24,
+      38,
+      3,
+      190,
+      0
+    ],
+    "summary": "Le dernier bilan de l’Organisation mondiale de la santé, publié jeudi, fait état de 1 759 cas confirmés recensés dans le pays, tandis que le bilan est maintenu à deux morts pour 20 cas confirmés en Ouganda voisin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le dernier bilan de l’Organisation mondiale de la santé, publié jeudi, fait état de 1 759 cas confirmés recensés dans le pays, tandis que le bilan est maintenu à deux morts pour 20 cas confirmés en Ouganda voisin."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/09/epidemie-d-ebola-en-rdc-le-bilan-atteint-600-morts-selon-l-oms_6722070_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/09/epidemie-d-ebola-en-rdc-le-bilan-atteint-600-morts-selon-l-oms_6722070_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/09/epidemie-d-ebola-en-rdc-le-bilan-atteint-600-morts-selon-l-oms_6722070_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/333/0/4000/2000/644/322/60/0/fbf98db_upload-1-bcs5vfeg4mf6-39-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La mère (au centre, en arrière-plan) de Kasande Kisembo, 8 ans, morte du virus Ebola, lors de l’enterrement de sa fille réalisé par les équipes de volontaires de la Croix-Rouge congolaise, au cimetière Shari-Taga à Bunia, dans l’est de la République démocratique du Congo, le 21 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILÉMON BARBIER/HORS FORMAT POUR « LE MONDE »"
+      }
+    ],
+    "credit": "PHILÉMON BARBIER/HORS FORMAT POUR « LE MONDE »"
+  }
+}

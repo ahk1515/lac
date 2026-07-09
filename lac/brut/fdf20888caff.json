@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T10:33:29.244722+00:00",
+  "_id": "fdf20888caff",
+  "brut": {
+    "title": "Ukraine : Donald Trump et l'Otan confirment leur aide militaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ukraine : Donald Trump et l'Otan confirment leur aide militaire"
+    },
+    "summary": "En présence du président ukrainien, Volodymyr Zelensky, les dirigeants américain et européen ont confirmé leur soutien à Kiev avec, notamment, la promesse d'une aide militaire concrète.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En présence du président ukrainien, Volodymyr Zelensky, les dirigeants américain et européen ont confirmé leur soutien à Kiev avec, notamment, la promesse d'une aide militaire concrète."
+    },
+    "published": "Thu, 09 Jul 2026 08:06:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      6,
+      6,
+      21,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ukraine-donald-trump-et-l-otan-confirment-leur-aide-militaire_8100533.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/CeGtSJRnNsPqTv-0Fdsxq1oyogA/194x0:1531x752/432x243/filters:format(jpg)/2026/07/09/6a4f353d0dd55402438503.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ukraine-donald-trump-et-l-otan-confirment-leur-aide-militaire_8100533.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ukraine-donald-trump-et-l-otan-confirment-leur-aide-militaire_8100533.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

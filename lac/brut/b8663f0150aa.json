@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T10:33:29.243660+00:00",
+  "_id": "b8663f0150aa",
+  "brut": {
+    "title": "Festival d'Avignon : un drapeau géant de la Palestine déployé sur la place du palais des Papes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Festival d'Avignon : un drapeau géant de la Palestine déployé sur la place du palais des Papes"
+    },
+    "summary": "Cette action a été organisée par un collectif, en réaction aux propos du maire d'Avignon, jugeant que la cause palestinienne était trop présente lors de la dernière édition.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette action a été organisée par un collectif, en réaction aux propos du maire d'Avignon, jugeant que la cause palestinienne était trop présente lors de la dernière édition."
+    },
+    "published": "Thu, 09 Jul 2026 11:16:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      9,
+      16,
+      6,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/festival-avignon/festival-d-avignon-un-drapeau-geant-de-la-palestine-deploye-sur-la-place-du-palais-des-papes_8100800.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/poD9cwP0-jMpfGlz272B_PFQvBw/0x49:3513x2024/432x243/filters:format(jpg)/2024/10/11/drapeau-palestinien-6709459657fbe055344270.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/festival-avignon/festival-d-avignon-un-drapeau-geant-de-la-palestine-deploye-sur-la-place-du-palais-des-papes_8100800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/festival-avignon/festival-d-avignon-un-drapeau-geant-de-la-palestine-deploye-sur-la-place-du-palais-des-papes_8100800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

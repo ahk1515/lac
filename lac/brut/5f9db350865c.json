@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T10:33:29.246491+00:00",
+  "_id": "5f9db350865c",
+  "brut": {
+    "title": "Donald Trump transforme des supporters en influenceurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump transforme des supporters en influenceurs"
+    },
+    "summary": "🇺🇸 \"L'Amérique est un pays sûr, propre et accueillant“ : Donald Trump transforme des supporters en influenceurs pour promouvoir son bilan et sa vision de l’Amérique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇺🇸 \"L'Amérique est un pays sûr, propre et accueillant“ : Donald Trump transforme des supporters en influenceurs pour promouvoir son bilan et sa vision de l’Amérique."
+    },
+    "published": "Wed, 08 Jul 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      8,
+      20,
+      0,
+      2,
+      2,
+      189,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/coupe-du-monde/donald-trump-transforme-des-supporters-en-influenceurs_8100041.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/6pusE6i80VWft2LTPRXLpasKB3I/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/07/08/6a4e94b2d18eb397017987.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/coupe-du-monde/donald-trump-transforme-des-supporters-en-influenceurs_8100041.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/coupe-du-monde/donald-trump-transforme-des-supporters-en-influenceurs_8100041.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

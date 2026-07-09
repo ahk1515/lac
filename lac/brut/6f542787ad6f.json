@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T10:33:29.244410+00:00",
+  "_id": "6f542787ad6f",
+  "brut": {
+    "title": "Eurozapping : jusqu'à 48 degrés attendus en Espagne, l'Europe suffoque",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Eurozapping : jusqu'à 48 degrés attendus en Espagne, l'Europe suffoque"
+    },
+    "summary": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du mercredi 8 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du mercredi 8 juillet."
+    },
+    "published": "Thu, 09 Jul 2026 08:43:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      6,
+      43,
+      5,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/eurozapping-jusqu-a-48-degres-attendus-en-espagne-l-europe-suffoque_8100539.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/upduPca6rOBSGFHlN3nRZxHSzWQ/184x0:1548x767/432x243/filters:format(jpg)/2026/07/09/6a4f3dbb30a10899843751.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/eurozapping-jusqu-a-48-degres-attendus-en-espagne-l-europe-suffoque_8100539.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/eurozapping-jusqu-a-48-degres-attendus-en-espagne-l-europe-suffoque_8100539.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

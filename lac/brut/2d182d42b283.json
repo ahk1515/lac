@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T10:33:29.243828+00:00",
+  "_id": "2d182d42b283",
+  "brut": {
+    "title": "Marine Le Pen, présidentielle, Moyen-Orient... Le \"8h30 franceinfo\" d'Éric Coquerel",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Marine Le Pen, présidentielle, Moyen-Orient... Le \"8h30 franceinfo\" d'Éric Coquerel"
+    },
+    "summary": "Le député LFI de Seine-Saint-Denis était l'invité du \"8h30 franceinfo\", le jeudi 9 juillet 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le député LFI de Seine-Saint-Denis était l'invité du \"8h30 franceinfo\", le jeudi 9 juillet 2026."
+    },
+    "published": "Thu, 09 Jul 2026 11:01:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      9,
+      1,
+      11,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/marine-le-pen-presidentielle-moyen-orient-le-8h30-franceinfo-d-eric-coquerel_8061818.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/g0cRr-c-vNIf5-Hw7vC4NQcbrrE/21x0:1053x580/432x243/filters:format(jpg)/2026/07/09/6a4f5b44b420b229336122.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/marine-le-pen-presidentielle-moyen-orient-le-8h30-franceinfo-d-eric-coquerel_8061818.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/marine-le-pen-presidentielle-moyen-orient-le-8h30-franceinfo-d-eric-coquerel_8061818.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

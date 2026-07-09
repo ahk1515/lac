@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T10:33:29.247212+00:00",
+  "_id": "9deb005844c7",
+  "brut": {
+    "title": "La Russie interdit les exportations de gazole face aux pénuries provoquées par les frappes ukrainiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie interdit les exportations de gazole face aux pénuries provoquées par les frappes ukrainiennes"
+    },
+    "summary": "Cela \"permettra d'augmenter les approvisionnements sur le marché intérieur\", a assuré le vice-Premier ministre Alexandre Novak mercredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cela \"permettra d'augmenter les approvisionnements sur le marché intérieur\", a assuré le vice-Premier ministre Alexandre Novak mercredi."
+    },
+    "published": "Wed, 08 Jul 2026 17:59:59 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      8,
+      15,
+      59,
+      59,
+      2,
+      189,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-les-exportations-de-gazole-face-aux-penuries-provoquees-par-les-frappes-ukrainiennes_8099834.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UWQefqNbmb5VWM-oh_XPA0qW7HE/0x0:1024x576/432x243/filters:format(jpg)/2026/07/08/6a4e733dab7c6336160000.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-les-exportations-de-gazole-face-aux-penuries-provoquees-par-les-frappes-ukrainiennes_8099834.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-les-exportations-de-gazole-face-aux-penuries-provoquees-par-les-frappes-ukrainiennes_8099834.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T10:33:29.029245+00:00",
+  "_id": "73bfb821f989",
+  "brut": {
+    "title": "Inondations en Chine : au moins 39 morts dans le Guangxi, le typhon Bavi menace l’est du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Inondations en Chine : au moins 39 morts dans le Guangxi, le typhon Bavi menace l’est du pays"
+    },
+    "published": "Thu, 09 Jul 2026 11:36:17 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      9,
+      36,
+      17,
+      3,
+      190,
+      0
+    ],
+    "summary": "Des intempéries extrêmes ont frappé le centre et le sud du pays ces derniers jours, et le typhon Bavi est attendu en fin de semaine dans la région : à Taïwan vendredi et samedi, avant d’atteindre samedi soir la côte est de la Chine, au sud de Shanghaï.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des intempéries extrêmes ont frappé le centre et le sud du pays ces derniers jours, et le typhon Bavi est attendu en fin de semaine dans la région : à Taïwan vendredi et samedi, avant d’atteindre samedi soir la côte est de la Chine, au sud de Shanghaï."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/09/inondations-en-chine-au-moins-39-morts-dans-le-guangxi-le-typhon-bavi-menace-l-est-du-pays_6722064_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/09/inondations-en-chine-au-moins-39-morts-dans-le-guangxi-le-typhon-bavi-menace-l-est-du-pays_6722064_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/09/inondations-en-chine-au-moins-39-morts-dans-le-guangxi-le-typhon-bavi-menace-l-est-du-pays_6722064_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/792/0/9504/4752/644/322/60/0/7bc43bb_ftp-1-ijt0fyh4yue1-2026-07-09t021204z-1852972326-rc2i9mabi3vr-rtrmadp-3-asia-weather-china.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un habitant déblaye la boue d’une maison inondée après les fortes pluies provoquées par le typhon Maysak, à Hengzhou, dans la région du Guangxi (Chine), le 8 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "cnsphoto/via REUTERS"
+      }
+    ],
+    "credit": "cnsphoto/via REUTERS"
+  }
+}

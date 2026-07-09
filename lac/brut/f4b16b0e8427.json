@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T10:33:29.029633+00:00",
+  "_id": "f4b16b0e8427",
+  "brut": {
+    "title": "Eurostar tire la sonnette d’alarme sur la saturation de la gare londonienne de Saint-Pancras",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Eurostar tire la sonnette d’alarme sur la saturation de la gare londonienne de Saint-Pancras"
+    },
+    "published": "Thu, 09 Jul 2026 11:10:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      9,
+      10,
+      25,
+      3,
+      190,
+      0
+    ],
+    "updated": "Thu, 09 Jul 2026 11:45:31 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      9,
+      9,
+      45,
+      31,
+      3,
+      190,
+      0
+    ],
+    "summary": "Alors que la concurrence ferroviaire entre Paris et Londres arrive dans les années 2030, et qu’Eurostar a commandé de nouveaux trains, la capacité des gares, surtout à Londres, fragilise le développement du marché.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que la concurrence ferroviaire entre Paris et Londres arrive dans les années 2030, et qu’Eurostar a commandé de nouveaux trains, la capacité des gares, surtout à Londres, fragilise le développement du marché."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/09/eurostar-tire-la-sonnette-d-alarme-sur-la-saturation-de-la-gare-londonienne-de-saint-pancras_6722053_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/09/eurostar-tire-la-sonnette-d-alarme-sur-la-saturation-de-la-gare-londonienne-de-saint-pancras_6722053_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/09/eurostar-tire-la-sonnette-d-alarme-sur-la-saturation-de-la-gare-londonienne-de-saint-pancras_6722053_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2020/12/20/405/0/4853/2426/644/322/60/0/52e09c9_61a65b4c7786428dbabda8fbcb2f1051-61a65b4c7786428dbabda8fbcb2f1051-0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Comptoir Eurostar, à la gare du Nord, à Paris, le 31 janvier 2020."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Francois Mori / AP"
+      }
+    ],
+    "credit": "Francois Mori / AP"
+  }
+}
