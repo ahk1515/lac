@@ -1,0 +1,19 @@
+# Référentiel pays (démarrage). Format :  CODE | variantes séparées par des virgules
+# Les variantes sont ce qu'on cherche dans le texte (minuscule, sans accent au besoin).
+# On étoffera depuis Wikidata plus tard. Ici, un socle pour tester.
+
+FRA | france, francais, francaise, paris, elysee
+USA | etats-unis, etats unis, americain, americaine, washington, maison-blanche, maison blanche
+CHN | chine, chinois, chinoise, pekin, beijing
+RUS | russie, russe, moscou, kremlin, poutine
+IND | inde, indien, indienne, new delhi, delhi
+DEU | allemagne, allemand, allemande, berlin
+GBR | royaume-uni, royaume uni, britannique, londres, angleterre
+UKR | ukraine, ukrainien, ukrainienne, kiev, kyiv
+ISR | israel, israelien, israelienne, tel-aviv, jerusalem
+IRN | iran, iranien, iranienne, teheran
+MLI | mali, malien, malienne, bamako
+DZA | algerie, algerien, algerienne, alger
+MAR | maroc, marocain, marocaine, rabat
+JPN | japon, japonais, japonaise, tokyo
+BRA | bresil, bresilien, bresilienne, brasilia
