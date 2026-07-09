@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T21:22:06.927050+00:00",
+  "_id": "0ed2357c6218",
+  "brut": {
+    "title": "Les hostilités se poursuivent entre l’Iran et les États-Unis, alors que Donald Trump se dit menacé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les hostilités se poursuivent entre l’Iran et les États-Unis, alors que Donald Trump se dit menacé"
+    },
+    "summary": "De nouvelles frappes américaines massives se sont abattues contre l'Iran dans la nuit de mercredi 8 à jeudi 9 juillet. Une centaine de sites ont été visés. Les tensions interviennent en pleines funérailles du Guide suprême et au moment où des questions se posent sur la sécurité du président américain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De nouvelles frappes américaines massives se sont abattues contre l'Iran dans la nuit de mercredi 8 à jeudi 9 juillet. Une centaine de sites ont été visés. Les tensions interviennent en pleines funérailles du Guide suprême et au moment où des questions se posent sur la sécurité du président américain."
+    },
+    "published": "Thu, 09 Jul 2026 20:55:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      18,
+      55,
+      41,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-hostilites-se-poursuivent-entre-l-iran-et-les-etats-unis-alors-que-donald-trump-se-dit-menace_8101754.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/OQ3Hc7B5267JCXAS-LSwLBsQFEA/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4fecc6a4f31282689440.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-hostilites-se-poursuivent-entre-l-iran-et-les-etats-unis-alors-que-donald-trump-se-dit-menace_8101754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-hostilites-se-poursuivent-entre-l-iran-et-les-etats-unis-alors-que-donald-trump-se-dit-menace_8101754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

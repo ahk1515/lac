@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T21:22:06.926566+00:00",
+  "_id": "d3d346ae11f2",
+  "brut": {
+    "title": "Chine : un incendie mortel dans une usine de chaussures fait des dizaines de morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chine : un incendie mortel dans une usine de chaussures fait des dizaines de morts"
+    },
+    "summary": "En Chine, un terrible incendie a dévasté une usine de chaussures. Des personnes sont restées coincées à l’intérieur plusieurs heures après le début du sinistre. Le président Xi Jinping a dit craindre de nombreuses pertes alors qu’un premier bilan fait état d’au moins 28 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Chine, un terrible incendie a dévasté une usine de chaussures. Des personnes sont restées coincées à l’intérieur plusieurs heures après le début du sinistre. Le président Xi Jinping a dit craindre de nombreuses pertes alors qu’un premier bilan fait état d’au moins 28 morts."
+    },
+    "published": "Thu, 09 Jul 2026 21:56:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      19,
+      56,
+      46,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/chine-un-incendie-mortel-dans-une-usine-de-chaussures-fait-des-dizaines-de-morts_8101811.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ekNeAJxT0x3b_qMIhpBQLfyU0Lw/287x0:1591x733/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4ffb9010604141641593.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/chine-un-incendie-mortel-dans-une-usine-de-chaussures-fait-des-dizaines-de-morts_8101811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/chine-un-incendie-mortel-dans-une-usine-de-chaussures-fait-des-dizaines-de-morts_8101811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

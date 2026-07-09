@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T21:22:06.927197+00:00",
+  "_id": "b7a8d9ba0c15",
+  "brut": {
+    "title": "Le transfert de la tapisserie de Bayeux vers le British Museum de Londres a débuté",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le transfert de la tapisserie de Bayeux vers le British Museum de Londres a débuté"
+    },
+    "summary": "La tapisserie de Bayeux est prêtée pendant un an au British Museum pour y être exposée du 10 septembre au 11 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La tapisserie de Bayeux est prêtée pendant un an au British Museum pour y être exposée du 10 septembre au 11 juillet."
+    },
+    "published": "Thu, 09 Jul 2026 20:02:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      18,
+      2,
+      14,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/patrimoine/le-transfert-de-la-tapisserie-de-bayeux-vers-le-british-museum-de-londres-a-debute_8101700.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/cCQtJOm_xf-HIe36Ql-YDw0bsGA/0x67:5616x3226/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4fe201274a1747273608.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/patrimoine/le-transfert-de-la-tapisserie-de-bayeux-vers-le-british-museum-de-londres-a-debute_8101700.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/patrimoine/le-transfert-de-la-tapisserie-de-bayeux-vers-le-british-museum-de-londres-a-debute_8101700.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

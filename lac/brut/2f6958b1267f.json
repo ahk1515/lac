@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T21:22:06.926749+00:00",
+  "_id": "2f6958b1267f",
+  "brut": {
+    "title": "Des attaques israéliennes font six morts dans la bande de Gaza, selon les secours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des attaques israéliennes font six morts dans la bande de Gaza, selon les secours"
+    },
+    "summary": "L'une de ces frappes a visé le véhicule de Hazem Qassem, porte-parole du mouvement islamiste palestinien Hamas.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'une de ces frappes a visé le véhicule de Hazem Qassem, porte-parole du mouvement islamiste palestinien Hamas."
+    },
+    "published": "Thu, 09 Jul 2026 21:34:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      19,
+      34,
+      3,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/des-attaques-israeliennes-font-six-morts-dans-la-bande-de-gaza-selon-les-secours_8101799.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Eu495UQAf0lkpaM8Jbk0cbFcB50/0x0:6720x3780/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4ff721e41fb523286243.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/des-attaques-israeliennes-font-six-morts-dans-la-bande-de-gaza-selon-les-secours_8101799.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/des-attaques-israeliennes-font-six-morts-dans-la-bande-de-gaza-selon-les-secours_8101799.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

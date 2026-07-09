@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T21:22:06.925061+00:00",
+  "_id": "71bef534702e",
+  "brut": {
+    "title": "Le Royaume-Uni atteint sa huitième journée à plus de 34°C depuis le début de l'année, un record",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Royaume-Uni atteint sa huitième journée à plus de 34°C depuis le début de l'année, un record"
+    },
+    "summary": "Le précédent record était de sept jours, atteint à la fois en 2020 et en 1976 selon le Met Office.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le précédent record était de sept jours, atteint à la fois en 2020 et en 1976 selon le Met Office."
+    },
+    "published": "Thu, 09 Jul 2026 22:59:34 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      20,
+      59,
+      34,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-royaume-uni-atteint-sa-huitieme-journee-a-plus-de-34-c-depuis-le-debut-de-l-annee-un-record_8101715.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/A0uyRtTs71WCV9dosy_IbjIRk-c/0x400:7692x4727/432x243/filters:format(jpg):quality(50)/2026/07/09/6a500b654fb94098199836.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-royaume-uni-atteint-sa-huitieme-journee-a-plus-de-34-c-depuis-le-debut-de-l-annee-un-record_8101715.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-royaume-uni-atteint-sa-huitieme-journee-a-plus-de-34-c-depuis-le-debut-de-l-annee-un-record_8101715.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
