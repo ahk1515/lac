@@ -1,0 +1,38 @@
+name: Collecte RSS
+
+# QUAND lancer la collecte ?
+on:
+  workflow_dispatch:        # bouton manuel "Run workflow" (pour tester quand tu veux)
+  schedule:
+    - cron: "0 */4 * * *"   # + automatiquement toutes les 4 heures
+
+# Autoriser le workflow à écrire dans le dépôt (pour y ranger le lac)
+permissions:
+  contents: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest   # machine fournie gratuitement par GitHub
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Préparer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer feedparser
+        run: pip install feedparser
+
+      - name: Lancer la collecte
+        run: python collecte.py
+
+      - name: Sauvegarder le lac dans le dépôt
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add lac/
+          git commit -m "Collecte du $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "Rien de nouveau à sauvegarder"
+          git push

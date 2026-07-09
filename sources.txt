@@ -1,0 +1,7 @@
+# Liste des flux RSS à collecter.
+# Une ligne par source, au format :   nom_court | url_du_flux
+# Les lignes commençant par # sont ignorées.
+# Pour ajouter une source : ajoute une ligne. Pour en retirer une : mets un # devant.
+
+lemonde_intl | https://www.lemonde.fr/international/rss_full.xml
+franceinfo_monde | https://www.franceinfo.fr/monde.rss
