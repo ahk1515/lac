@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T17:54:51.172203+00:00",
+  "_id": "a66b6a99aaaa",
+  "brut": {
+    "title": "La Ville de Bayeux obtient 1 066 tickets gratuits pour l'exposition de la tapisserie de Bayeux au British Museum à Londres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Ville de Bayeux obtient 1 066 tickets gratuits pour l'exposition de la tapisserie de Bayeux au British Museum à Londres"
+    },
+    "summary": "Ce nombre de billets fait référence à la date de la bataille d'Hastings, représentée sur la tapisserie de Bayeux, qui s'est déroulée au cours de la conquête normande de l'Angleterre, le 14 octobre 1066.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce nombre de billets fait référence à la date de la bataille d'Hastings, représentée sur la tapisserie de Bayeux, qui s'est déroulée au cours de la conquête normande de l'Angleterre, le 14 octobre 1066."
+    },
+    "published": "Thu, 09 Jul 2026 17:25:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      15,
+      25,
+      4,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/patrimoine/la-ville-de-bayeux-obtient-1-066-tickets-gratuits-pour-l-exposition-de-la-tapisserie-de-bayeux-au-british-museum-a-londres_8101457.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qiW_UpmFfTxq_R8kIga-hvLMOao/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4fbcda8698c810549128.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/patrimoine/la-ville-de-bayeux-obtient-1-066-tickets-gratuits-pour-l-exposition-de-la-tapisserie-de-bayeux-au-british-museum-a-londres_8101457.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/patrimoine/la-ville-de-bayeux-obtient-1-066-tickets-gratuits-pour-l-exposition-de-la-tapisserie-de-bayeux-au-british-museum-a-londres_8101457.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

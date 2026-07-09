@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T17:54:50.770204+00:00",
+  "_id": "bc253b5d2deb",
+  "brut": {
+    "title": "En Chine, un incendie fait au moins 28 morts dans une usine de chaussures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, un incendie fait au moins 28 morts dans une usine de chaussures"
+    },
+    "published": "Thu, 09 Jul 2026 17:37:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      15,
+      37,
+      47,
+      3,
+      190,
+      0
+    ],
+    "updated": "Thu, 09 Jul 2026 17:52:03 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      9,
+      15,
+      52,
+      3,
+      3,
+      190,
+      0
+    ],
+    "summary": "Des personnes sont encore coincées à l’intérieur plusieurs heures après le début du sinistre. Près de 200 pompiers et secouristes sont mobilisés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des personnes sont encore coincées à l’intérieur plusieurs heures après le début du sinistre. Près de 200 pompiers et secouristes sont mobilisés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/09/en-chine-un-incendie-fait-au-moins-28-morts-dans-une-usine-de-chaussures_6722114_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/09/en-chine-un-incendie-fait-au-moins-28-morts-dans-une-usine-de-chaussures_6722114_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/09/en-chine-un-incendie-fait-au-moins-28-morts-dans-une-usine-de-chaussures_6722114_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/620/0/3819/1909/644/322/60/0/700496e_ftp-1-zexq23jfvf3m-aaf0e26f9dd14c7a8792dfcfab163b59-0-0f15137ab9864601a50ad28f7ccdefa0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Incendie dans une usine de chaussures, à Jinjiang (Chine), le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Zheng Liang/Xinhua via AP"
+      }
+    ],
+    "credit": "Zheng Liang/Xinhua via AP"
+  }
+}

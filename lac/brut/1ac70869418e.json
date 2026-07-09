@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T17:54:51.171801+00:00",
+  "_id": "1ac70869418e",
+  "brut": {
+    "title": "Le Mexique va engager des poursuites pénales aux Etats-Unis pour la mort de ses ressortissants aux mains de la police de l'immigration",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Mexique va engager des poursuites pénales aux Etats-Unis pour la mort de ses ressortissants aux mains de la police de l'immigration"
+    },
+    "summary": "Au total, 17 Mexicains sont morts dans les centres de l'ICE ou lors d'opérations de ses agents depuis le retour de Donald Trump au pouvoir, en janvier 2025.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au total, 17 Mexicains sont morts dans les centres de l'ICE ou lors d'opérations de ses agents depuis le retour de Donald Trump au pouvoir, en janvier 2025."
+    },
+    "published": "Thu, 09 Jul 2026 19:30:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      17,
+      30,
+      46,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/le-mexique-va-engager-des-poursuites-penales-pour-la-mort-de-ses-ressortissants-aux-mains-de-l-ice_8101655.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gAVPabmICKKq81Ye0qGnPAjx3vw/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4fd81f321df792221462.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/le-mexique-va-engager-des-poursuites-penales-pour-la-mort-de-ses-ressortissants-aux-mains-de-l-ice_8101655.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/le-mexique-va-engager-des-poursuites-penales-pour-la-mort-de-ses-ressortissants-aux-mains-de-l-ice_8101655.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

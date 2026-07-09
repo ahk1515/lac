@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T17:54:50.770382+00:00",
+  "_id": "851f9003ee5b",
+  "brut": {
+    "title": "Au Sénégal, le président Bassirou Diomaye Faye poursuit son émancipation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Sénégal, le président Bassirou Diomaye Faye poursuit son émancipation"
+    },
+    "published": "Thu, 09 Jul 2026 17:30:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      15,
+      30,
+      8,
+      3,
+      190,
+      0
+    ],
+    "summary": "Après avoir limogé son ancien camarade Ousmane Sonko de la primature, le chef de l’Etat lance sa propre formation politique. A six mois des prochaines élections locales, il tente de se constituer légitimité et assise politiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après avoir limogé son ancien camarade Ousmane Sonko de la primature, le chef de l’Etat lance sa propre formation politique. A six mois des prochaines élections locales, il tente de se constituer légitimité et assise politiques."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/09/au-senegal-le-president-bassirou-diomaye-faye-poursuit-son-emancipation_6722112_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/09/au-senegal-le-president-bassirou-diomaye-faye-poursuit-son-emancipation_6722112_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/09/au-senegal-le-president-bassirou-diomaye-faye-poursuit-son-emancipation_6722112_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/18/90/0/6500/3250/644/322/60/0/0662fbc_ftp-1-qvmk1d0zrgum-2026-06-18t221112z-1993001739-rc2awlai1mjg-rtrmadp-3-ghana-slavery.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président sénégalais Bassirou Diomaye Faye (au centre), à Accra, au Ghana, le 18 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Francis Kokoroko/REUTERS"
+      }
+    ],
+    "credit": "Francis Kokoroko/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T17:54:50.770003+00:00",
+  "_id": "eca80f3253b4",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Thu, 09 Jul 2026 17:38:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      15,
+      38,
+      36,
+      3,
+      190,
+      0
+    ],
+    "updated": "Thu, 09 Jul 2026 19:11:15 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      9,
+      17,
+      11,
+      15,
+      3,
+      190,
+      0
+    ],
+    "summary": "Un cargo et un remorqueur russes ont aussi été atteints par des frappes, tout comme un terminal pétrolier dans la région de Rostov et un dépôt de munitions dans la république autoproclamée de Louhansk. Ces revendications ukrainiennes confirment les déclarations des autorités locales russes jeudi matin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un cargo et un remorqueur russes ont aussi été atteints par des frappes, tout comme un terminal pétrolier dans la région de Rostov et un dépôt de munitions dans la république autoproclamée de Louhansk. Ces revendications ukrainiennes confirment les déclarations des autorités locales russes jeudi matin."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-les-attaques-ukrainiennes-ne-font-que-prolonger-le-conflit-denonce-le-kremlin_6720832_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-les-attaques-ukrainiennes-ne-font-que-prolonger-le-conflit-denonce-le-kremlin_6720832_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-les-attaques-ukrainiennes-ne-font-que-prolonger-le-conflit-denonce-le-kremlin_6720832_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/08/120/0/3840/1920/644/322/60/0/2ce56c0_ftp-1-eobseuohd4w6-2026-07-08t083218z-650090972-rc2k9maqu8hb-rtrmadp-3-ukraine-crisis-russia-drones.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur ces images prises par un drone, un pétrolier russe en feu, visé par des frappes ukrainiennes, en mer d’Azov, le 8 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Commander of Unmanned Aerial Sys/via REUTERS"
+      }
+    ],
+    "credit": "Commander of Unmanned Aerial Sys/via REUTERS"
+  }
+}

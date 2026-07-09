@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T17:54:50.769010+00:00",
+  "_id": "1e1abcb5e9e7",
+  "brut": {
+    "title": "Le défile du 14-Juillet sera ouvert par 500 soldats étrangers de la coalition des volontaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le défile du 14-Juillet sera ouvert par 500 soldats étrangers de la coalition des volontaires"
+    },
+    "published": "Thu, 09 Jul 2026 19:36:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      17,
+      36,
+      27,
+      3,
+      190,
+      0
+    ],
+    "summary": "Ce défilé, le dixième et dernier d’Emmanuel Macron en tant que chef d’Etat, doit illustrer le « réarmement stratégique de la France et le réveil stratégique européen », selon l’Elysée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce défilé, le dixième et dernier d’Emmanuel Macron en tant que chef d’Etat, doit illustrer le « réarmement stratégique de la France et le réveil stratégique européen », selon l’Elysée."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/09/le-defile-du-14-juillet-sera-ouvert-par-500-soldats-etrangers-de-la-coalition-des-volontaires_6722133_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/09/le-defile-du-14-juillet-sera-ouvert-par-500-soldats-etrangers-de-la-coalition-des-volontaires_6722133_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/09/le-defile-du-14-juillet-sera-ouvert-par-500-soldats-etrangers-de-la-coalition-des-volontaires_6722133_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/720/0/8640/4320/644/322/60/0/c2e774f_ftp-1-cz5aubpp7qae-3f73336475b8413ca9771c070026411c-0-43707c212e214e1998932545f36b30f1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats ukrainiens lors d’une répétition du défilé du 14-Juillet, sur les Champs-Elysées, à Paris, le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Michel Euler/AP"
+      }
+    ],
+    "credit": "Michel Euler/AP"
+  }
+}
