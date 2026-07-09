@@ -2,7 +2,7 @@
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 7
+    "co_citations": 8
   },
   {
     "pays_a": "FRA",
@@ -26,6 +26,16 @@
   },
   {
     "pays_a": "JPN",
+    "pays_b": "USA",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "FRA",
+    "pays_b": "IRN",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "FRA",
     "pays_b": "USA",
     "co_citations": 1
   },

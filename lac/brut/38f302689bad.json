@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T13:01:19.378066+00:00",
+  "_id": "38f302689bad",
+  "brut": {
+    "title": "DOCUMENT FRANCEINFO. A bord du porte-avions \"Charles-de-Gaulle\", de retour d'une mission au Moyen-Orient",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "DOCUMENT FRANCEINFO. A bord du porte-avions \"Charles-de-Gaulle\", de retour d'une mission au Moyen-Orient"
+    },
+    "summary": "Initialement déployé pour un exercice militaire en Méditerranée, le porte-avions français a été redirigé vers le Moyen-Orient, où il a évolué pendant plusieurs mois dans un contexte de guerre dans la région.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Initialement déployé pour un exercice militaire en Méditerranée, le porte-avions français a été redirigé vers le Moyen-Orient, où il a évolué pendant plusieurs mois dans un contexte de guerre dans la région."
+    },
+    "published": "Thu, 09 Jul 2026 14:37:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      12,
+      37,
+      51,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/armee-securite-defense/document-franceinfo-a-bord-du-porte-avions-charles-de-gaulle-de-retour-d-une-mission-au-moyen-orient_8101007.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/69BUmy6_-jCoWuVkpOXwDupYf98/0x102:4033x2371/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4f8e495f877731904993.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/armee-securite-defense/document-franceinfo-a-bord-du-porte-avions-charles-de-gaulle-de-retour-d-une-mission-au-moyen-orient_8101007.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/armee-securite-defense/document-franceinfo-a-bord-du-porte-avions-charles-de-gaulle-de-retour-d-une-mission-au-moyen-orient_8101007.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
