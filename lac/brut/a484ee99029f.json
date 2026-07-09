@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-09T14:17:28.067162+00:00",
+  "_id": "a484ee99029f",
+  "brut": {
+    "title": "Défense : Berlin va acquérir des missiles de longue portée américains Tomahawk",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Défense : Berlin va acquérir des missiles de longue portée américains Tomahawk"
+    },
+    "published": "Thu, 09 Jul 2026 16:11:29 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      14,
+      11,
+      29,
+      3,
+      190,
+      0
+    ],
+    "summary": "Lors du sommet d’Ankara, le chancelier allemand, Friedrich Merz, affirme avoir obtenu l’accord américain pour acheter ces armes dont la portée avoisine les 1 500 kilomètres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Lors du sommet d’Ankara, le chancelier allemand, Friedrich Merz, affirme avoir obtenu l’accord américain pour acheter ces armes dont la portée avoisine les 1 500 kilomètres."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/09/defense-berlin-va-acquerir-des-missiles-de-longue-portee-americains-tomahawk_6722095_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/09/defense-berlin-va-acquerir-des-missiles-de-longue-portee-americains-tomahawk_6722095_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/09/defense-berlin-va-acquerir-des-missiles-de-longue-portee-americains-tomahawk_6722095_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/181/0/6000/3000/644/322/60/0/0954d70_ftp-1-1ekgxncbtvra-5575845-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Tir d’un missile Tomahawk, au large de la côte ouest des Etats-Unis, par le HMAS « Brisbane », sur une photo fournie le 10 décembre 2024 par le ministère de la défense australien."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

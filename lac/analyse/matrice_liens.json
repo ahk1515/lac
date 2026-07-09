@@ -2,22 +2,37 @@
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 8
+    "co_citations": 12
   },
   {
     "pays_a": "FRA",
     "pays_b": "MAR",
-    "co_citations": 6
+    "co_citations": 8
   },
   {
-    "pays_a": "UKR",
+    "pays_a": "TUR",
     "pays_b": "USA",
-    "co_citations": 3
+    "co_citations": 6
   },
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 2
+    "co_citations": 5
+  },
+  {
+    "pays_a": "UKR",
+    "pays_b": "USA",
+    "co_citations": 4
+  },
+  {
+    "pays_a": "IRN",
+    "pays_b": "TUR",
+    "co_citations": 3
+  },
+  {
+    "pays_a": "TUR",
+    "pays_b": "UKR",
+    "co_citations": 3
   },
   {
     "pays_a": "IRN",
@@ -26,7 +41,17 @@
   },
   {
     "pays_a": "JPN",
+    "pays_b": "TUR",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "JPN",
     "pays_b": "USA",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "GBR",
+    "pays_b": "TUR",
     "co_citations": 1
   },
   {
@@ -36,6 +61,16 @@
   },
   {
     "pays_a": "FRA",
+    "pays_b": "USA",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "IRN",
+    "pays_b": "UKR",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "ISR",
     "pays_b": "USA",
     "co_citations": 1
   },
@@ -50,13 +85,63 @@
     "co_citations": 1
   },
   {
+    "pays_a": "CAF",
+    "pays_b": "FRA",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "CAF",
+    "pays_b": "RUS",
+    "co_citations": 1
+  },
+  {
     "pays_a": "FRA",
     "pays_b": "RUS",
     "co_citations": 1
   },
   {
+    "pays_a": "BFA",
+    "pays_b": "MLI",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "BFA",
+    "pays_b": "NER",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "BFA",
+    "pays_b": "RUS",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "MLI",
+    "pays_b": "NER",
+    "co_citations": 1
+  },
+  {
     "pays_a": "MLI",
     "pays_b": "RUS",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "NER",
+    "pays_b": "RUS",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "ISR",
+    "pays_b": "LBN",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "DEU",
+    "pays_b": "TUR",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "DEU",
+    "pays_b": "USA",
     "co_citations": 1
   }
 ]

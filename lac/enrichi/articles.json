@@ -67,6 +67,7 @@
     "pays": [
       "IRN",
       "JPN",
+      "TUR",
       "USA"
     ]
   },
@@ -177,7 +178,9 @@
     "texte": "🇺🇸 \"L'Amérique est un pays sûr, propre et accueillant“ : Donald Trump transforme des supporters en influenceurs pour promouvoir son bilan et sa vision de l’Amérique.",
     "url": "https://www.franceinfo.fr/coupe-du-monde/donald-trump-transforme-des-supporters-en-influenceurs_8100041.html#xtor=RSS-3-%5Bgeneral%5D",
     "id": "5f9db350865c",
-    "pays": []
+    "pays": [
+      "USA"
+    ]
   },
   {
     "date": "Wed, 08 Jul 2026 21:56:59 +0200",
@@ -188,7 +191,8 @@
     "url": "https://www.franceinfo.fr/monde/otan/le-president-turc-recep-tayyip-erdogan-a-offert-un-pistolet-aux-dirigeants-presents-au-sommet-de-l-otan_8100107.html#xtor=RSS-3-%5Bgeneral%5D",
     "id": "a0eced6969d1",
     "pays": [
-      "GBR"
+      "GBR",
+      "TUR"
     ]
   },
   {
@@ -200,7 +204,8 @@
     "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/iran-donald-trump-promet-de-frapper-fort_8100074.html#xtor=RSS-3-%5Bgeneral%5D",
     "id": "3890c7079113",
     "pays": [
-      "IRN"
+      "IRN",
+      "USA"
     ]
   },
   {
@@ -213,6 +218,7 @@
     "id": "e6ca528c8e14",
     "pays": [
       "IRN",
+      "TUR",
       "USA"
     ]
   },
@@ -238,7 +244,8 @@
     "url": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-les-exportations-de-gazole-face-aux-penuries-provoquees-par-les-frappes-ukrainiennes_8099834.html#xtor=RSS-3-%5Bgeneral%5D",
     "id": "9deb005844c7",
     "pays": [
-      "RUS"
+      "RUS",
+      "UKR"
     ]
   },
   {
@@ -287,6 +294,7 @@
     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-autorise-kiev-a-produire-des-missiles-patriot-mais-leur-fabrication-va-demander-des-mois-peut-etre-davantage-selon-une-journaliste-ukrainienne_8100668.html#xtor=RSS-3-%5Bgeneral%5D",
     "id": "d63e459cd5e9",
     "pays": [
+      "TUR",
       "UKR",
       "USA"
     ]
@@ -313,6 +321,59 @@
     "id": "a48808a2f9ea",
     "pays": [
       "FRA",
+      "IRN",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 09 Jul 2026 15:41:40 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Le président turc offre en cadeau un revolver et six balles aux leaders de l'Otan",
+    "texte": "Recep Tayyip Erdogan a donné mercredi, à chaque leader un revolver gravé à son nom et six balles réelles, avec une note dispensant les armes des contrôles à l'exportation.",
+    "url": "https://www.franceinfo.fr/monde/turquie/le-president-turc-offre-en-cadeau-un-revolver-et-six-balles-aux-leaders-de-l-otan_8101181.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "3fa428145422",
+    "pays": [
+      "TUR"
+    ]
+  },
+  {
+    "date": "Thu, 09 Jul 2026 15:23:52 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Soutien à l'Ukraine, guerre au Moyen-Orient, Groenland... Ce qu'il faut retenir du sommet de l'Otan en Turquie",
+    "texte": "La reprise des frappes entre les Etats-Unis et l'Iran s'est invitée dans les échanges entre dirigeants. Malgré les déclarations parfois explosives et incohérentes de Donald Trump, les Etats membres ont voulu afficher un front commun.",
+    "url": "https://www.franceinfo.fr/monde/otan/soutien-a-l-ukraine-guerre-au-moyen-orient-groenland-ce-qu-il-faut-retenir-du-sommet-de-l-otan-en-turquie_8100680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "8b8013c79c29",
+    "pays": [
+      "IRN",
+      "TUR",
+      "UKR",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 09 Jul 2026 15:17:42 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Quel est le dispositif de sécurité prévu pour le match France-Maroc en quarts de finale de la Coupe du monde 2026 ?",
+    "texte": "Pour l'occasion, 20 000 policiers et gendarmes sont déployés jeudi sur le territoire national, dont environ 8 000 à Paris, selon les informations de France Télévisions. Dans la capitale, la fermeture de la circulation à tous les véhicules est prévue dès 22 heures, sur la place de l'Etoile et ses abords.",
+    "url": "https://www.franceinfo.fr/coupe-du-monde/quel-est-le-dispositif-de-securite-prevu-pour-le-match-france-maroc-en-quarts-de-finale-de-la-coupe-du-monde-2026_8100773.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "147e30d64ca8",
+    "pays": [
+      "FRA",
+      "MAR"
+    ]
+  },
+  {
+    "date": "Thu, 09 Jul 2026 15:02:54 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Frappes américaines contre l'Iran : Donald Trump publie des vidéos de frappes... de l'an dernier, dans une autre ville iranienne",
+    "texte": "Le Président américain est accusé de propager de fausses informations après avoir relayé plusieurs vidéos de frappes sur l'Iran datant du mois de juin 2025. Le président américain n'a pas démenti.",
+    "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/frappes-americaines-contre-l-iran-donald-trump-publie-des-videos-de-frappes-du-mois-dernier-dans-une-autre-ville-iranienne_8101052.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "9146d846e450",
+    "pays": [
       "IRN",
       "USA"
     ]
@@ -360,7 +421,10 @@
     "texte": "Estimant que rien ne peut désormais l’empêcher de se présenter à la présidentielle de 2027, Marine Le Pen use d’une stratégie déjà éprouvée par Donald Trump, Benyamin Nétanyahou ou Nigel Farage : instaurer un rapport de force avec la justice pour parvenir à ses fins.",
     "url": "https://www.lemonde.fr/idees/article/2026/07/09/les-populistes-et-la-tentation-de-l-impunite_6722061_3232.html",
     "id": "50a2d43319af",
-    "pays": []
+    "pays": [
+      "ISR",
+      "USA"
+    ]
   },
   {
     "date": "Thu, 09 Jul 2026 11:10:25 +0200",
@@ -430,6 +494,7 @@
     "url": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-deux-navires-attaques-en-mer-d-azov-dans-la-nuit-et-un-depot-petrolier-russe-en-feu-dans-la-region-de-tver_6720832_3210.html",
     "id": "49d8bc1b59d6",
     "pays": [
+      "RUS",
       "UKR"
     ]
   },
@@ -466,6 +531,7 @@
     "url": "https://www.lemonde.fr/afrique/article/2026/07/09/un-lanceur-d-alerte-a-l-origine-de-revelations-sur-la-machine-de-propagande-russe-en-centrafrique-se-voit-refuser-l-asile-en-france_6722021_3212.html",
     "id": "2f3aa025a891",
     "pays": [
+      "CAF",
       "FRA",
       "RUS"
     ]
@@ -479,6 +545,7 @@
     "url": "https://www.lemonde.fr/international/article/2026/07/09/au-sommet-de-l-otan-donald-trump-alterne-menaces-et-effusions-rassure-ses-allies-et-apporte-un-nouveau-soutien-a-l-ukraine_6722015_3210.html",
     "id": "d6edb53fde07",
     "pays": [
+      "TUR",
       "UKR",
       "USA"
     ]
@@ -552,7 +619,9 @@
     "url": "https://www.lemonde.fr/international/article/2026/07/09/serguei-lavrov-ministre-des-affaires-etrangeres-russe-en-visite-au-niger-dit-vouloir-poursuivre-le-soutien-militaire-aux-etats-du-sahel_6721939_3210.html",
     "id": "c1f3df9ec1ed",
     "pays": [
+      "BFA",
       "MLI",
+      "NER",
       "RUS"
     ]
   },
@@ -588,6 +657,7 @@
     "url": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-les-attaques-ukrainiennes-ne-font-que-prolonger-le-conflit-estime-dmitri-peskov-kiev-affirme-avoir-bombarde-12-petroliers-russes_6720832_3210.html",
     "id": "6deab38356af",
     "pays": [
+      "RUS",
       "UKR"
     ]
   },
@@ -612,7 +682,8 @@
     "url": "https://www.lemonde.fr/international/article/2026/07/09/frappes-israeliennes-sur-le-sud-du-liban-en-mars-amnesty-international-appelle-a-ouvrir-une-enquete-pour-crimes-de-guerre_6722074_3210.html",
     "id": "634ccc3652eb",
     "pays": [
-      "ISR"
+      "ISR",
+      "LBN"
     ]
   },
   {
@@ -623,6 +694,46 @@
     "texte": "Les Bleus et les Lions de l’Atlas s’affrontent, jeudi, pour une place en demi-finales du tournoi de football. Dans la capitale française, certains supporteurs ont déjà fait leur choix. Pour d’autres, cela se révèle plus compliqué.",
     "url": "https://www.lemonde.fr/sport/article/2026/07/09/soutenir-l-equipe-de-france-ou-celle-du-maroc-en-quarts-de-finale-de-la-coupe-du-monde-le-dilemme-de-la-communaute-marocaine-de-paris_6722073_3242.html",
     "id": "5f2b64ad9071",
+    "pays": [
+      "FRA",
+      "MAR"
+    ]
+  },
+  {
+    "date": "Thu, 09 Jul 2026 16:11:29 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Défense : Berlin va acquérir des missiles de longue portée américains Tomahawk",
+    "texte": "Lors du sommet d’Ankara, le chancelier allemand, Friedrich Merz, affirme avoir obtenu l’accord américain pour acheter ces armes dont la portée avoisine les 1 500 kilomètres.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/09/defense-berlin-va-acquerir-des-missiles-de-longue-portee-americains-tomahawk_6722095_3210.html",
+    "id": "a484ee99029f",
+    "pays": [
+      "DEU",
+      "TUR",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 09 Jul 2026 15:37:10 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : l’Iran affirme avoir bombardé la base aérienne d’Azraq, en Jordanie, qui abrite des unités américaines",
+    "texte": "« Si les terroristes américains répètent leur agression, aucune base américaine dans la région ne sera à l’abri de nos tirs nourris », mettent en garde les gardiens de la révolution dans un communiqué. La base d’Azraq est l’une des plus importantes de la force aérienne jordanienne, et est située à une centaine de kilomètres à l’est d’Amman.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-bombarde-la-base-aerienne-d-azraq-en-jordanie-qui-abrite-des-unites-americaines_6721826_3210.html",
+    "id": "c5f1b0e0f10f",
+    "pays": [
+      "IRN",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 09 Jul 2026 15:00:00 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "France-Maroc : pour Achraf Hakimi, une Coupe du monde comme si de rien n’était, malgré l’affaire de viol qui le poursuit",
+    "texte": "Le capitaine du Maroc essaie de se focaliser sur le terrain. En pleine compétition, il s’est pourvu en cassation après son renvoi en procès pour viol, pour des faits remontant à février 2023.",
+    "url": "https://www.lemonde.fr/sport/article/2026/07/09/france-maroc-pour-achraf-hakimi-une-coupe-du-monde-comme-si-de-rien-n-etait-malgre-l-affaire-de-viol-qui-le-poursuit_6722086_3242.html",
+    "id": "a462971fd35f",
     "pays": [
       "FRA",
       "MAR"

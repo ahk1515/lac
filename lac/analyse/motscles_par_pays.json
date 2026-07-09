@@ -1,684 +1,1056 @@
 {
+  "BFA": [
+    {
+      "mot": "sahel",
+      "score": 8.16
+    },
+    {
+      "mot": "niger",
+      "score": 8.16
+    },
+    {
+      "mot": "poursuivre",
+      "score": 8.16
+    },
+    {
+      "mot": "russe",
+      "score": 5.38
+    },
+    {
+      "mot": "serguei",
+      "score": 4.08
+    },
+    {
+      "mot": "lavrov",
+      "score": 4.08
+    },
+    {
+      "mot": "affaires",
+      "score": 4.08
+    },
+    {
+      "mot": "etrangeres",
+      "score": 4.08
+    },
+    {
+      "mot": "visite",
+      "score": 4.08
+    },
+    {
+      "mot": "vouloir",
+      "score": 4.08
+    },
+    {
+      "mot": "juntes",
+      "score": 4.08
+    },
+    {
+      "mot": "regroupe",
+      "score": 4.08
+    },
+    {
+      "mot": "mali",
+      "score": 4.08
+    },
+    {
+      "mot": "burkina",
+      "score": 4.08
+    },
+    {
+      "mot": "faso",
+      "score": 4.08
+    }
+  ],
+  "CAF": [
+    {
+      "mot": "centrafrique",
+      "score": 8.16
+    },
+    {
+      "mot": "russe",
+      "score": 5.38
+    },
+    {
+      "mot": "lanceur",
+      "score": 4.08
+    },
+    {
+      "mot": "alerte",
+      "score": 4.08
+    },
+    {
+      "mot": "origine",
+      "score": 4.08
+    },
+    {
+      "mot": "revelations",
+      "score": 4.08
+    },
+    {
+      "mot": "machine",
+      "score": 4.08
+    },
+    {
+      "mot": "propagande",
+      "score": 4.08
+    },
+    {
+      "mot": "refuser",
+      "score": 4.08
+    },
+    {
+      "mot": "asile",
+      "score": 4.08
+    },
+    {
+      "mot": "ephrem",
+      "score": 4.08
+    },
+    {
+      "mot": "yalike",
+      "score": 4.08
+    },
+    {
+      "mot": "ngonzo",
+      "score": 4.08
+    },
+    {
+      "mot": "participe",
+      "score": 4.08
+    },
+    {
+      "mot": "campagnes",
+      "score": 4.08
+    }
+  ],
   "CHN": [
     {
       "mot": "chine",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "typhon",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "bavi",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "samedi",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "militaire",
-      "score": 5.13
+      "score": 5.38
     },
     {
       "mot": "sud",
-      "score": 4.68
+      "score": 4.94
+    },
+    {
+      "mot": "pays",
+      "score": 4.11
     },
     {
       "mot": "inondations",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "guangxi",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "intemperies",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "extremes",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "centre",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "derniers",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "attendu",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "fin",
-      "score": 3.95
+      "score": 4.08
+    }
+  ],
+  "DEU": [
+    {
+      "mot": "portee",
+      "score": 8.16
     },
     {
-      "mot": "taiwan",
-      "score": 3.95
+      "mot": "berlin",
+      "score": 4.08
+    },
+    {
+      "mot": "acquerir",
+      "score": 4.08
+    },
+    {
+      "mot": "longue",
+      "score": 4.08
+    },
+    {
+      "mot": "tomahawk",
+      "score": 4.08
+    },
+    {
+      "mot": "chancelier",
+      "score": 4.08
+    },
+    {
+      "mot": "allemand",
+      "score": 4.08
+    },
+    {
+      "mot": "friedrich",
+      "score": 4.08
+    },
+    {
+      "mot": "merz",
+      "score": 4.08
+    },
+    {
+      "mot": "obtenu",
+      "score": 4.08
+    },
+    {
+      "mot": "accord",
+      "score": 4.08
+    },
+    {
+      "mot": "acheter",
+      "score": 4.08
+    },
+    {
+      "mot": "avoisine",
+      "score": 4.08
+    },
+    {
+      "mot": "defense",
+      "score": 3.38
+    },
+    {
+      "mot": "americains",
+      "score": 3.38
     }
   ],
   "FRA": [
     {
       "mot": "france",
-      "score": 26.21
+      "score": 30.17
     },
     {
       "mot": "maroc",
-      "score": 18.05
-    },
-    {
-      "mot": "monde",
-      "score": 13.1
-    },
-    {
-      "mot": "finale",
-      "score": 12.96
+      "score": 22.56
     },
     {
       "mot": "coupe",
-      "score": 12.96
+      "score": 15.98
     },
     {
-      "mot": "equipe",
-      "score": 11.71
+      "mot": "monde",
+      "score": 15.97
+    },
+    {
+      "mot": "finale",
+      "score": 14.92
     },
     {
       "mot": "quarts",
-      "score": 11.71
+      "score": 13.71
     },
     {
       "mot": "jeudi",
-      "score": 10.87
+      "score": 12.74
+    },
+    {
+      "mot": "equipe",
+      "score": 12.34
     },
     {
       "mot": "football",
-      "score": 9.77
+      "score": 10.15
     },
     {
       "mot": "lions",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "atlas",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "bleus",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "histoire",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "affrontent",
-      "score": 8.56
+      "score": 8.94
     },
     {
-      "mot": "eurodepute",
-      "score": 7.9
+      "mot": "competition",
+      "score": 8.94
     }
   ],
   "GBR": [
     {
-      "mot": "turc",
-      "score": 7.9
-    },
-    {
       "mot": "femme",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "graciee",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "eurostar",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "londres",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "seismes",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "ministre",
-      "score": 7.69
+      "score": 8.07
+    },
+    {
+      "mot": "turc",
+      "score": 6.77
     },
     {
       "mot": "annees",
-      "score": 6.52
+      "score": 6.77
     },
     {
       "mot": "ans",
-      "score": 5.13
-    },
-    {
-      "mot": "recep",
-      "score": 3.95
-    },
-    {
-      "mot": "tayyip",
-      "score": 3.95
-    },
-    {
-      "mot": "erdogan",
-      "score": 3.95
+      "score": 5.38
     },
     {
       "mot": "offert",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "pistolet",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "presents",
-      "score": 3.95
+      "score": 4.08
+    },
+    {
+      "mot": "egalement",
+      "score": 4.08
+    },
+    {
+      "mot": "joint",
+      "score": 4.08
+    },
+    {
+      "mot": "present",
+      "score": 4.08
     }
   ],
   "IRN": [
     {
       "mot": "iran",
-      "score": 27.86
-    },
-    {
-      "mot": "teheran",
-      "score": 12.96
+      "score": 31.5
     },
     {
       "mot": "frappes",
-      "score": 12.48
+      "score": 17.8
     },
     {
-      "mot": "retour",
-      "score": 11.71
+      "mot": "teheran",
+      "score": 13.71
     },
     {
       "mot": "reprise",
-      "score": 11.71
+      "score": 13.71
     },
     {
       "mot": "donald",
-      "score": 10.52
+      "score": 13.44
     },
     {
       "mot": "trump",
-      "score": 10.52
+      "score": 13.44
+    },
+    {
+      "mot": "moyen",
+      "score": 12.79
+    },
+    {
+      "mot": "orient",
+      "score": 12.79
+    },
+    {
+      "mot": "etats",
+      "score": 12.42
+    },
+    {
+      "mot": "retour",
+      "score": 12.34
+    },
+    {
+      "mot": "americaines",
+      "score": 12.34
+    },
+    {
+      "mot": "guerre",
+      "score": 11.76
+    },
+    {
+      "mot": "unis",
+      "score": 11.28
     },
     {
       "mot": "cessez",
-      "score": 10.26
+      "score": 10.76
     },
     {
       "mot": "feu",
-      "score": 10.26
-    },
-    {
-      "mot": "annonce",
-      "score": 10.26
-    },
-    {
-      "mot": "jean",
-      "score": 9.77
-    },
-    {
-      "mot": "sebastien",
-      "score": 9.77
-    },
-    {
-      "mot": "soldaini",
-      "score": 9.77
-    },
-    {
-      "mot": "tensions",
-      "score": 9.77
-    },
-    {
-      "mot": "prix",
-      "score": 9.77
+      "score": 10.76
     }
   ],
   "ISR": [
     {
       "mot": "amnesty",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "international",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "mars",
-      "score": 6.52
+      "score": 6.77
     },
     {
       "mot": "enquete",
-      "score": 6.52
+      "score": 6.77
     },
     {
-      "mot": "israeliennes",
-      "score": 3.95
+      "mot": "populistes",
+      "score": 4.08
     },
     {
-      "mot": "liban",
-      "score": 3.95
+      "mot": "tentation",
+      "score": 4.08
     },
     {
-      "mot": "appelle",
-      "score": 3.95
+      "mot": "impunite",
+      "score": 4.08
     },
     {
-      "mot": "ouvrir",
-      "score": 3.95
+      "mot": "peut",
+      "score": 4.08
     },
     {
-      "mot": "crimes",
-      "score": 3.95
+      "mot": "desormais",
+      "score": 4.08
     },
     {
-      "mot": "ong",
-      "score": 3.95
+      "mot": "presenter",
+      "score": 4.08
     },
     {
-      "mot": "bombardements",
-      "score": 3.95
+      "mot": "use",
+      "score": 4.08
     },
     {
-      "mot": "menes",
-      "score": 3.95
+      "mot": "strategie",
+      "score": 4.08
     },
     {
-      "mot": "israel",
-      "score": 3.95
+      "mot": "eprouvee",
+      "score": 4.08
     },
     {
-      "mot": "coute",
-      "score": 3.95
+      "mot": "benyamin",
+      "score": 4.08
     },
     {
-      "mot": "civils",
-      "score": 3.95
+      "mot": "netanyahou",
+      "score": 4.08
     }
   ],
   "JPN": [
     {
       "mot": "islamique",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "japon",
-      "score": 7.9
-    },
-    {
-      "mot": "missiles",
-      "score": 5.71
+      "score": 8.16
     },
     {
       "mot": "republique",
-      "score": 5.71
+      "score": 5.96
+    },
+    {
+      "mot": "missiles",
+      "score": 5.38
     },
     {
       "mot": "tires",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "lapsus",
-      "score": 3.95
-    },
-    {
-      "mot": "pleine",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "confondant",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "manifestement",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "archipel",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "nippon",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "bourde",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "relayee",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "massivement",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "reseaux",
-      "score": 3.95
+      "score": 4.08
+    },
+    {
+      "mot": "sociaux",
+      "score": 4.08
+    }
+  ],
+  "LBN": [
+    {
+      "mot": "amnesty",
+      "score": 8.16
+    },
+    {
+      "mot": "international",
+      "score": 8.16
+    },
+    {
+      "mot": "mars",
+      "score": 6.77
+    },
+    {
+      "mot": "enquete",
+      "score": 6.77
+    },
+    {
+      "mot": "israeliennes",
+      "score": 4.08
+    },
+    {
+      "mot": "liban",
+      "score": 4.08
+    },
+    {
+      "mot": "appelle",
+      "score": 4.08
+    },
+    {
+      "mot": "ouvrir",
+      "score": 4.08
+    },
+    {
+      "mot": "crimes",
+      "score": 4.08
+    },
+    {
+      "mot": "ong",
+      "score": 4.08
+    },
+    {
+      "mot": "bombardements",
+      "score": 4.08
+    },
+    {
+      "mot": "menes",
+      "score": 4.08
+    },
+    {
+      "mot": "israel",
+      "score": 4.08
+    },
+    {
+      "mot": "coute",
+      "score": 4.08
+    },
+    {
+      "mot": "civils",
+      "score": 4.08
     }
   ],
   "MAR": [
     {
       "mot": "france",
-      "score": 20.59
+      "score": 24.85
     },
     {
       "mot": "maroc",
-      "score": 20.05
-    },
-    {
-      "mot": "monde",
-      "score": 13.1
-    },
-    {
-      "mot": "finale",
-      "score": 12.96
+      "score": 24.44
     },
     {
       "mot": "coupe",
-      "score": 12.96
+      "score": 15.98
     },
     {
-      "mot": "equipe",
-      "score": 11.71
+      "mot": "monde",
+      "score": 15.97
+    },
+    {
+      "mot": "finale",
+      "score": 14.92
     },
     {
       "mot": "quarts",
-      "score": 11.71
+      "score": 13.71
+    },
+    {
+      "mot": "equipe",
+      "score": 12.34
     },
     {
       "mot": "football",
-      "score": 9.77
+      "score": 10.15
+    },
+    {
+      "mot": "jeudi",
+      "score": 9.56
     },
     {
       "mot": "lions",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "atlas",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "bleus",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "marocaine",
-      "score": 8.56
+      "score": 8.94
     },
     {
       "mot": "affrontent",
-      "score": 8.56
+      "score": 8.94
     },
     {
-      "mot": "amitie",
-      "score": 7.9
-    },
-    {
-      "mot": "arbitres",
-      "score": 7.9
+      "mot": "competition",
+      "score": 8.94
     }
   ],
   "MLI": [
     {
       "mot": "sahel",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "niger",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "poursuivre",
-      "score": 7.9
+      "score": 8.16
     },
     {
       "mot": "russe",
-      "score": 5.13
+      "score": 5.38
     },
     {
       "mot": "serguei",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "lavrov",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "affaires",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "etrangeres",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "visite",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "vouloir",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "juntes",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "regroupe",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "mali",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "burkina",
-      "score": 3.95
+      "score": 4.08
     },
     {
       "mot": "faso",
-      "score": 3.95
+      "score": 4.08
+    }
+  ],
+  "NER": [
+    {
+      "mot": "sahel",
+      "score": 8.16
+    },
+    {
+      "mot": "niger",
+      "score": 8.16
+    },
+    {
+      "mot": "poursuivre",
+      "score": 8.16
+    },
+    {
+      "mot": "russe",
+      "score": 5.38
+    },
+    {
+      "mot": "serguei",
+      "score": 4.08
+    },
+    {
+      "mot": "lavrov",
+      "score": 4.08
+    },
+    {
+      "mot": "affaires",
+      "score": 4.08
+    },
+    {
+      "mot": "etrangeres",
+      "score": 4.08
+    },
+    {
+      "mot": "visite",
+      "score": 4.08
+    },
+    {
+      "mot": "vouloir",
+      "score": 4.08
+    },
+    {
+      "mot": "juntes",
+      "score": 4.08
+    },
+    {
+      "mot": "regroupe",
+      "score": 4.08
+    },
+    {
+      "mot": "mali",
+      "score": 4.08
+    },
+    {
+      "mot": "burkina",
+      "score": 4.08
+    },
+    {
+      "mot": "faso",
+      "score": 4.08
     }
   ],
   "RUS": [
     {
+      "mot": "russes",
+      "score": 20.85
+    },
+    {
       "mot": "russe",
-      "score": 15.39
-    },
-    {
-      "mot": "russie",
-      "score": 11.41
-    },
-    {
-      "mot": "centrafrique",
-      "score": 7.9
-    },
-    {
-      "mot": "sahel",
-      "score": 7.9
-    },
-    {
-      "mot": "niger",
-      "score": 7.9
-    },
-    {
-      "mot": "poursuivre",
-      "score": 7.9
-    },
-    {
-      "mot": "militaire",
-      "score": 7.69
-    },
-    {
-      "mot": "soutien",
-      "score": 7.03
-    },
-    {
-      "mot": "penuries",
-      "score": 6.52
-    },
-    {
-      "mot": "cooperation",
-      "score": 6.52
-    },
-    {
-      "mot": "vladimir",
-      "score": 6.52
-    },
-    {
-      "mot": "poutine",
-      "score": 6.52
+      "score": 16.15
     },
     {
       "mot": "ukrainiennes",
-      "score": 5.13
+      "score": 13.46
     },
     {
-      "mot": "ministre",
-      "score": 5.13
+      "mot": "russie",
+      "score": 11.92
     },
     {
       "mot": "autorites",
-      "score": 5.13
+      "score": 10.76
+    },
+    {
+      "mot": "kiev",
+      "score": 8.53
+    },
+    {
+      "mot": "centrafrique",
+      "score": 8.16
+    },
+    {
+      "mot": "sahel",
+      "score": 8.16
+    },
+    {
+      "mot": "niger",
+      "score": 8.16
+    },
+    {
+      "mot": "poursuivre",
+      "score": 8.16
+    },
+    {
+      "mot": "militaire",
+      "score": 8.07
+    },
+    {
+      "mot": "soutien",
+      "score": 6.86
+    },
+    {
+      "mot": "penuries",
+      "score": 6.77
+    },
+    {
+      "mot": "cooperation",
+      "score": 6.77
+    },
+    {
+      "mot": "petroliers",
+      "score": 6.77
+    }
+  ],
+  "TUR": [
+    {
+      "mot": "missiles",
+      "score": 16.15
+    },
+    {
+      "mot": "sommet",
+      "score": 14.92
+    },
+    {
+      "mot": "otan",
+      "score": 13.99
+    },
+    {
+      "mot": "donald",
+      "score": 11.76
+    },
+    {
+      "mot": "trump",
+      "score": 11.76
+    },
+    {
+      "mot": "turc",
+      "score": 10.15
+    },
+    {
+      "mot": "patriot",
+      "score": 10.15
+    },
+    {
+      "mot": "president",
+      "score": 9.4
+    },
+    {
+      "mot": "ankara",
+      "score": 8.94
+    },
+    {
+      "mot": "armes",
+      "score": 8.94
+    },
+    {
+      "mot": "turquie",
+      "score": 8.94
+    },
+    {
+      "mot": "iran",
+      "score": 8.22
+    },
+    {
+      "mot": "islamique",
+      "score": 8.16
+    },
+    {
+      "mot": "japon",
+      "score": 8.16
+    },
+    {
+      "mot": "revolver",
+      "score": 8.16
     }
   ],
   "UKR": [
     {
       "mot": "russes",
-      "score": 19.97
+      "score": 20.85
     },
     {
       "mot": "kiev",
-      "score": 16.04
+      "score": 17.05
     },
     {
       "mot": "ukraine",
-      "score": 12.96
+      "score": 14.92
     },
     {
       "mot": "ukrainiennes",
-      "score": 10.26
+      "score": 13.46
     },
     {
       "mot": "patriot",
-      "score": 9.77
+      "score": 10.15
     },
     {
       "mot": "ukrainienne",
-      "score": 9.77
+      "score": 10.15
     },
     {
       "mot": "confirment",
-      "score": 8.56
+      "score": 8.94
     },
     {
-      "mot": "missiles",
-      "score": 8.56
-    },
-    {
-      "mot": "aide",
-      "score": 7.9
+      "mot": "declarations",
+      "score": 8.94
     },
     {
       "mot": "donald",
-      "score": 7.02
+      "score": 8.4
     },
     {
       "mot": "trump",
-      "score": 7.02
+      "score": 8.4
     },
     {
-      "mot": "volodymyr",
-      "score": 6.52
+      "mot": "aide",
+      "score": 8.16
     },
     {
-      "mot": "zelensky",
-      "score": 6.52
+      "mot": "missiles",
+      "score": 8.07
     },
     {
-      "mot": "autorise",
-      "score": 6.52
+      "mot": "otan",
+      "score": 7.99
     },
     {
-      "mot": "produire",
-      "score": 6.52
+      "mot": "soutien",
+      "score": 6.86
+    },
+    {
+      "mot": "frappes",
+      "score": 6.85
     }
   ],
   "USA": [
     {
-      "mot": "iran",
-      "score": 17.6
-    },
-    {
-      "mot": "etats",
-      "score": 15.79
-    },
-    {
-      "mot": "unis",
-      "score": 14.97
-    },
-    {
-      "mot": "missiles",
-      "score": 14.26
-    },
-    {
       "mot": "donald",
-      "score": 14.03
+      "score": 25.19
     },
     {
       "mot": "trump",
-      "score": 14.03
+      "score": 25.19
     },
     {
-      "mot": "otan",
-      "score": 10.8
+      "mot": "iran",
+      "score": 24.65
     },
     {
-      "mot": "americain",
-      "score": 10.26
+      "mot": "etats",
+      "score": 19.52
     },
     {
-      "mot": "president",
-      "score": 10.03
-    },
-    {
-      "mot": "patriot",
-      "score": 9.77
+      "mot": "unis",
+      "score": 16.92
     },
     {
       "mot": "frappes",
-      "score": 9.7
+      "score": 16.43
+    },
+    {
+      "mot": "missiles",
+      "score": 16.15
+    },
+    {
+      "mot": "americain",
+      "score": 16.0
+    },
+    {
+      "mot": "president",
+      "score": 13.16
     },
     {
       "mot": "sommet",
-      "score": 9.37
+      "score": 12.79
     },
     {
-      "mot": "mercredi",
-      "score": 9.36
+      "mot": "americaines",
+      "score": 12.34
+    },
+    {
+      "mot": "otan",
+      "score": 11.99
+    },
+    {
+      "mot": "reprise",
+      "score": 11.43
     },
     {
       "mot": "teheran",
-      "score": 8.64
+      "score": 11.43
     },
     {
-      "mot": "nuit",
-      "score": 8.56
+      "mot": "avoir",
+      "score": 11.15
     }
   ]
 }
