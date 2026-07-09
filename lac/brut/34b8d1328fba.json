@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-09T12:12:36.671954+00:00",
+  "_id": "34b8d1328fba",
+  "brut": {
+    "title": "\"Il vaut mieux ne pas aborder certains sujets\" : de retour d’Iran, l'envoyé spécial de franceinfo témoigne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Il vaut mieux ne pas aborder certains sujets\" : de retour d’Iran, l'envoyé spécial de franceinfo témoigne"
+    },
+    "summary": "Envoyé spécial de franceinfo en Iran, le journaliste Jean-Sébastien Soldaïni témoigne au lendemain de son retour des conditions particulières de son reportage, dans ce pays où le travail des journalistes est, encore plus qu’avant, étroitement surveillé par le régime.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Envoyé spécial de franceinfo en Iran, le journaliste Jean-Sébastien Soldaïni témoigne au lendemain de son retour des conditions particulières de son reportage, dans ce pays où le travail des journalistes est, encore plus qu’avant, étroitement surveillé par le régime."
+    },
+    "published": "Thu, 09 Jul 2026 13:12:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      9,
+      11,
+      12,
+      19,
+      3,
+      190,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/il-vaut-mieux-ne-pas-aborder-certains-sujets-de-retour-d-iran-l-envoye-special-de-franceinfo-temoigne_8100983.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_QGGOIsqadw0vQeKWs1Syatw90k/0x0:2160x3840/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/07/09/6a4f7b551483d178906051.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/il-vaut-mieux-ne-pas-aborder-certains-sujets-de-retour-d-iran-l-envoye-special-de-franceinfo-temoigne_8100983.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/il-vaut-mieux-ne-pas-aborder-certains-sujets-de-retour-d-iran-l-envoye-special-de-franceinfo-temoigne_8100983.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
