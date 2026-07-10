@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T07:34:08.921781+00:00",
+  "_id": "0aaf54df05a1",
+  "brut": {
+    "title": "A Porto Rico, les habitants excédés par les coupures d’eau et d’électricité à répétition",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Porto Rico, les habitants excédés par les coupures d’eau et d’électricité à répétition"
+    },
+    "published": "Fri, 10 Jul 2026 05:30:09 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      3,
+      30,
+      9,
+      4,
+      191,
+      0
+    ],
+    "summary": "Une centaine de jours sans eau ont été observés depuis le début de l’année dans le centre-ville de San Juan, en raison, notamment, du manque d’entretien du réseau, perturbant le quotidien des riverains et des commerçants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une centaine de jours sans eau ont été observés depuis le début de l’année dans le centre-ville de San Juan, en raison, notamment, du manque d’entretien du réseau, perturbant le quotidien des riverains et des commerçants."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/10/a-porto-rico-les-habitants-excedes-par-les-coupures-d-eau-et-d-electricite-a-repetition_6722347_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/10/a-porto-rico-les-habitants-excedes-par-les-coupures-d-eau-et-d-electricite-a-repetition_6722347_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/10/a-porto-rico-les-habitants-excedes-par-les-coupures-d-eau-et-d-electricite-a-repetition_6722347_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/684/0/8192/4096/644/322/60/0/7b81474_upload-1-54mk0a0nj0pr-000-b7846qd.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un homme remplit des récipients avec l’eau d’un camion-citerne, dans le Vieux San Juan (Porto Rico), le 15 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RICARDO ARDUENGO/AFP"
+      }
+    ],
+    "credit": "RICARDO ARDUENGO/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T07:34:09.172769+00:00",
+  "_id": "7c8118cf79c2",
+  "brut": {
+    "title": "Un feu de forêt fait au moins onze morts en Andalousie dans le sud de l'Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un feu de forêt fait au moins onze morts en Andalousie dans le sud de l'Espagne"
+    },
+    "summary": "Les autorités régionales ont revu à la baisse leur bilan, après avoir évoqué douze victimes dans un hameau de la province d'Almeria. Une unité d'urgence de l'armée va être déployée sur le terrain pour tenter de contenir les flammes qui se sont déclenchées jeudi en fin d'après-midi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités régionales ont revu à la baisse leur bilan, après avoir évoqué douze victimes dans un hameau de la province d'Almeria. Une unité d'urgence de l'armée va être déployée sur le terrain pour tenter de contenir les flammes qui se sont déclenchées jeudi en fin d'après-midi."
+    },
+    "published": "Fri, 10 Jul 2026 08:37:17 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      6,
+      37,
+      17,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UkG3E3VkJ4JQxNNHrEXoAJRNKtk/0x20:900x527/432x243/filters:format(jpg):quality(50)/2026/07/10/6a507758affed850911334.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

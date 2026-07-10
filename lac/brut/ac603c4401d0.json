@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T07:34:09.171863+00:00",
+  "_id": "ac603c4401d0",
+  "brut": {
+    "title": "Eurozapping : comment les pays font face à la vague de chaleur ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Eurozapping : comment les pays font face à la vague de chaleur ?"
+    },
+    "summary": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du jeudi 9 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du jeudi 9 juillet."
+    },
+    "published": "Fri, 10 Jul 2026 09:24:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      7,
+      24,
+      51,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/eurozapping-comment-les-pays-font-face-a-la-vague-de-chaleur_8102351.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/pYnXxNc55QghTrC8mdRszXicmpc/196x0:1560x767/432x243/filters:format(jpg):quality(50)/2026/07/10/6a509b2fa30ec789867507.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/eurozapping-comment-les-pays-font-face-a-la-vague-de-chaleur_8102351.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/eurozapping-comment-les-pays-font-face-a-la-vague-de-chaleur_8102351.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T07:34:09.172288+00:00",
+  "_id": "f76826dd2e50",
+  "brut": {
+    "title": "Usine en flammes : incendie mortel en Chine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Usine en flammes : incendie mortel en Chine"
+    },
+    "summary": "Ce terrible incendie en Chine : un immense feu a dévasté une usine de chaussures. Des personnes ont été coincées à l'intérieur plusieurs heures après le début du sinistre. Le président Xi Jin Ping a dit craindre de lourdes pertes. Selon un 1er bilan, il y a au moins 28 m0rts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce terrible incendie en Chine : un immense feu a dévasté une usine de chaussures. Des personnes ont été coincées à l'intérieur plusieurs heures après le début du sinistre. Le président Xi Jin Ping a dit craindre de lourdes pertes. Selon un 1er bilan, il y a au moins 28 m0rts."
+    },
+    "published": "Fri, 10 Jul 2026 08:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      6,
+      0,
+      1,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/usine-en-flammes-incendie-mortel-en-chine_8101784.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/2U72VG1okdejRbE0Dm40qXW6tvc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/09/6a4ff040c6d19908987694.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/usine-en-flammes-incendie-mortel-en-chine_8101784.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/usine-en-flammes-incendie-mortel-en-chine_8101784.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

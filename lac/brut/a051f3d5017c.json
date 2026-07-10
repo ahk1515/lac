@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T07:34:08.920419+00:00",
+  "_id": "a051f3d5017c",
+  "brut": {
+    "title": "France-Maroc : la joie des supporteurs après la victoire des Bleus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "France-Maroc : la joie des supporteurs après la victoire des Bleus"
+    },
+    "published": "Fri, 10 Jul 2026 09:03:34 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      7,
+      3,
+      34,
+      4,
+      191,
+      0
+    ],
+    "summary": "La qualification de l’équipe de France contre le Maroc (2-0) pour les demi-finales du Mondial 2026 a provoqué des scènes de joie aux Etats-Unis et dans la capitale française.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La qualification de l’équipe de France contre le Maroc (2-0) pour les demi-finales du Mondial 2026 a provoqué des scènes de joie aux Etats-Unis et dans la capitale française."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/10/france-maroc-la-joie-des-supporteurs-apres-la-victoire-des-bleus_6722402_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/10/france-maroc-la-joie-des-supporteurs-apres-la-victoire-des-bleus_6722402_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/10/france-maroc-la-joie-des-supporteurs-apres-la-victoire-des-bleus_6722402_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/47/0/4579/2289/644/322/60/0/33af394_ftp-1-77jlgip70cdo-5582695-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’attaquant français Kylian Mbappé (nº 10) inscrit le premier but de son équipe lors du quart de finale de la Coupe du monde de football 2026 opposant la France au Maroc, au Boston Stadium de Foxborough, le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CHARLY TRIBALLEAU/AFP"
+      }
+    ],
+    "credit": "CHARLY TRIBALLEAU/AFP"
+  }
+}

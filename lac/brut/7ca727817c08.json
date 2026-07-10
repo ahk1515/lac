@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T07:34:08.922011+00:00",
+  "_id": "7ca727817c08",
+  "brut": {
+    "title": "Bienvenue à Metaplant, l’usine américaine ultra-automatisée de Hyundai en Géorgie, où les salariés côtoient des robots",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bienvenue à Metaplant, l’usine américaine ultra-automatisée de Hyundai en Géorgie, où les salariés côtoient des robots"
+    },
+    "published": "Fri, 10 Jul 2026 05:30:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      3,
+      30,
+      7,
+      4,
+      191,
+      0
+    ],
+    "updated": "Fri, 10 Jul 2026 08:25:54 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      10,
+      6,
+      25,
+      54,
+      4,
+      191,
+      0
+    ],
+    "summary": "Plus de 300 000 véhicules sortent par an de cette usine que le constructeur sud-coréen possède aux Etats-Unis. Il en a fait sa vitrine pour la course au leadership dans le domaine de la robotique, notamment humanoïde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plus de 300 000 véhicules sortent par an de cette usine que le constructeur sud-coréen possède aux Etats-Unis. Il en a fait sa vitrine pour la course au leadership dans le domaine de la robotique, notamment humanoïde."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/10/bienvenue-a-metaplant-l-usine-ultra-automatisee-hyundai-a-ellabell-en-georgie-ou-les-salaries-cotoient-des-robots_6722348_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/10/bienvenue-a-metaplant-l-usine-ultra-automatisee-hyundai-a-ellabell-en-georgie-ou-les-salaries-cotoient-des-robots_6722348_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/10/bienvenue-a-metaplant-l-usine-ultra-automatisee-hyundai-a-ellabell-en-georgie-ou-les-salaries-cotoient-des-robots_6722348_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/06/503/0/4000/2000/644/322/60/0/b10c2b3_upload-1-kgpas7d8ws3q-gettyimages-2227279546.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A l’aide de sa caméra, un robot Spot détecte les défauts sur la carrosserie d’une voiture, dans l’usine Hyundai d’Ellabell, en Géorgie (Etats-Unis), le 11 juin 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Elijah Nouvelage/Bloomberg via Getty Images"
+      }
+    ],
+    "credit": "Elijah Nouvelage/Bloomberg via Getty Images"
+  }
+}

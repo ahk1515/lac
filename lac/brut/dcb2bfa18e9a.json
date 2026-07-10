@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T07:34:08.920860+00:00",
+  "_id": "dcb2bfa18e9a",
+  "brut": {
+    "title": "La tapisserie de Bayeux est arrivée au British Museum, à Londres, pour un prêt historique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tapisserie de Bayeux est arrivée au British Museum, à Londres, pour un prêt historique"
+    },
+    "published": "Fri, 10 Jul 2026 08:19:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      6,
+      19,
+      27,
+      4,
+      191,
+      0
+    ],
+    "updated": "Fri, 10 Jul 2026 09:10:27 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      10,
+      7,
+      10,
+      27,
+      4,
+      191,
+      0
+    ],
+    "summary": "« C’est un moment unique, fruit d’un travail acharné, d’une planification minutieuse », s’est réjoui le directeur du British Museum, Nicholas Cullinan. La tapisserie sera exposée dans ce musée du 10 septembre 2026 au 11 juillet 2027.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« C’est un moment unique, fruit d’un travail acharné, d’une planification minutieuse », s’est réjoui le directeur du British Museum, Nicholas Cullinan. La tapisserie sera exposée dans ce musée du 10 septembre 2026 au 11 juillet 2027."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/07/10/la-tapisserie-de-bayeux-est-arrivee-au-british-museum-a-londres-pour-un-pret-historique_6722399_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/07/10/la-tapisserie-de-bayeux-est-arrivee-au-british-museum-a-londres-pour-un-pret-historique_6722399_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/07/10/la-tapisserie-de-bayeux-est-arrivee-au-british-museum-a-londres-pour-un-pret-historique_6722399_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/676/0/8118/4059/644/322/60/0/821a6ad_ftp-1-8d7wbuabhgua-5584004-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des employés déchargent une caisse spécialement conçue pour transporter la tapisserie de Bayeux jusqu’au British Museum, dans le centre de Londres, tôt dans la matinée du 10 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RICHARD A. BROOKS / AFP"
+      }
+    ],
+    "credit": "RICHARD A. BROOKS / AFP"
+  }
+}
