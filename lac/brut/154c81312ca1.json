@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T21:05:07.784281+00:00",
+  "_id": "154c81312ca1",
+  "brut": {
+    "title": "12 m0rts en Espagne : l'incendie le plus meurtrier depuis 40 ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "12 m0rts en Espagne : l'incendie le plus meurtrier depuis 40 ans"
+    },
+    "summary": "Un vi0lent incendie a ravagé une zone touristique près d’Almeria, en Andalousie, faisant au moins 12 m0rts et 23 disparus. Les flammes ont progressé à une vitesse fulgurante, piégeant de nombreux touristes contraints de fuir à pied ou en voiture.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un vi0lent incendie a ravagé une zone touristique près d’Almeria, en Andalousie, faisant au moins 12 m0rts et 23 disparus. Les flammes ont progressé à une vitesse fulgurante, piégeant de nombreux touristes contraints de fuir à pied ou en voiture."
+    },
+    "published": "Fri, 10 Jul 2026 21:10:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      19,
+      10,
+      6,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/12-m0rts-en-espagne-l-incendie-le-plus-meurtrier-depuis-40-ans_8103293.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/sxa8O6v0qB1XW-CyEfg58SUA7LY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/10/6a5143574b62d843924961.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/12-m0rts-en-espagne-l-incendie-le-plus-meurtrier-depuis-40-ans_8103293.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/12-m0rts-en-espagne-l-incendie-le-plus-meurtrier-depuis-40-ans_8103293.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

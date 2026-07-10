@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T21:05:07.250177+00:00",
+  "_id": "582ddefbdf0a",
+  "brut": {
+    "title": "Au Royaume-Uni, la police ouvre une enquête pour meurtre après la mort d’Ann Widdecombe, ancienne députée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Royaume-Uni, la police ouvre une enquête pour meurtre après la mort d’Ann Widdecombe, ancienne députée"
+    },
+    "published": "Fri, 10 Jul 2026 20:03:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      18,
+      3,
+      6,
+      4,
+      191,
+      0
+    ],
+    "summary": "La police, qui ne dispose « d’aucune information permettant d’affirmer qu’il s’agit d’un crime à caractère politique », précise que la piste terroriste a été écartée à ce stade.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La police, qui ne dispose « d’aucune information permettant d’affirmer qu’il s’agit d’un crime à caractère politique », précise que la piste terroriste a été écartée à ce stade."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/10/au-royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-d-ann-widdecombe-ancienne-deputee_6722505_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/10/au-royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-d-ann-widdecombe-ancienne-deputee_6722505_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/10/au-royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-d-ann-widdecombe-ancienne-deputee_6722505_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/0/0/4390/2195/644/322/60/0/940e65d_ftp-1-7spwc8uoz6wi-2026-07-10t055235z-4226650-rc2tama6x108-rtrmadp-3-people-widdecombe.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ann Widdecombe, lors d’un meeting électoral du Brexit Party, à Londres, le 21 mai 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Henry Nicholls/REUTERS"
+      }
+    ],
+    "credit": "Henry Nicholls/REUTERS"
+  }
+}

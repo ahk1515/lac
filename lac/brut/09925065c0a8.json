@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T21:05:07.249837+00:00",
+  "_id": "09925065c0a8",
+  "brut": {
+    "title": "En Allemagne, les déboires du maire conservateur de Berlin fragilisent la CDU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, les déboires du maire conservateur de Berlin fragilisent la CDU"
+    },
+    "published": "Fri, 10 Jul 2026 20:30:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      18,
+      30,
+      11,
+      4,
+      191,
+      0
+    ],
+    "updated": "Fri, 10 Jul 2026 22:10:54 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      10,
+      20,
+      10,
+      54,
+      4,
+      191,
+      0
+    ],
+    "summary": "Kai Wegner, issu de l’aile droite du parti, ne s’est pas remis des polémiques qui ont accompagné sa gestion de la panne d’électricité de janvier. Il a annoncé, vendredi 10 juillet, qu’il ne se représenterait pas à la tête de la ville, en septembre. Son départ pourrait rouvrir la voie à une coalition de gauche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Kai Wegner, issu de l’aile droite du parti, ne s’est pas remis des polémiques qui ont accompagné sa gestion de la panne d’électricité de janvier. Il a annoncé, vendredi 10 juillet, qu’il ne se représenterait pas à la tête de la ville, en septembre. Son départ pourrait rouvrir la voie à une coalition de gauche."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/10/en-allemagne-les-deboires-du-maire-conservateur-de-berlin-fragilisent-la-cdu_6722512_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/10/en-allemagne-les-deboires-du-maire-conservateur-de-berlin-fragilisent-la-cdu_6722512_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/10/en-allemagne-les-deboires-du-maire-conservateur-de-berlin-fragilisent-la-cdu_6722512_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/216/0/4050/2025/644/322/60/0/c9e5242_ftp-1-5pz67zb13tih-2026-07-10t140922z-1624592207-rc21bmavxtgq-rtrmadp-3-germany-politics-berlin.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Kai Wegner, maire de Berlin, à Berlin, 10 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Lisi Niesner/REUTERS"
+      }
+    ],
+    "credit": "Lisi Niesner/REUTERS"
+  }
+}

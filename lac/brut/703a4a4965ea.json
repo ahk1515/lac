@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T21:05:07.784553+00:00",
+  "_id": "703a4a4965ea",
+  "brut": {
+    "title": "12 personnes sont mortes en Espagne dans l'incendie le plus meurtrier depuis 40 ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "12 personnes sont mortes en Espagne dans l'incendie le plus meurtrier depuis 40 ans"
+    },
+    "summary": "Dans le sud de l'Espagne, en Andalousie, un violent feu de forêt a fait au moins une douzaine de morts. Vingt-trois personnes sont également portées disparues. L’incendie a progressé rapidement et a fini par piéger de nombreux touristes fuyant à pied et en voiture.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le sud de l'Espagne, en Andalousie, un violent feu de forêt a fait au moins une douzaine de morts. Vingt-trois personnes sont également portées disparues. L’incendie a progressé rapidement et a fini par piéger de nombreux touristes fuyant à pied et en voiture."
+    },
+    "published": "Fri, 10 Jul 2026 22:30:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      20,
+      30,
+      14,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/12-personnes-sont-mortes-en-espagne-dans-l-incendie-le-plus-meurtrier-depuis-40-ans_8103242.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2yj4IXQw047n9tYICQBSBfziDww/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/10/6a51393128538962648592.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/12-personnes-sont-mortes-en-espagne-dans-l-incendie-le-plus-meurtrier-depuis-40-ans_8103242.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/12-personnes-sont-mortes-en-espagne-dans-l-incendie-le-plus-meurtrier-depuis-40-ans_8103242.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
