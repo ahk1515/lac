@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T10:52:18.195989+00:00",
+  "_id": "57b1e333c8f9",
+  "brut": {
+    "title": "Mali : l’armée et les Russes reprennent la ville d’Anéfis, dans le Nord",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mali : l’armée et les Russes reprennent la ville d’Anéfis, dans le Nord"
+    },
+    "published": "Fri, 10 Jul 2026 11:12:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      9,
+      12,
+      12,
+      4,
+      191,
+      0
+    ],
+    "summary": "Samedi dernier, les djihadistes du Groupe de soutien de l’islam et des musulmans (GSIM) et les indépendantistes du Front de libération de l’Azawad (FLA) ont mené de nouvelles attaques coordonnées du nord au sud du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Samedi dernier, les djihadistes du Groupe de soutien de l’islam et des musulmans (GSIM) et les indépendantistes du Front de libération de l’Azawad (FLA) ont mené de nouvelles attaques coordonnées du nord au sud du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/10/mali-l-armee-et-les-russes-reprennent-la-ville-d-anefis-dans-le-nord_6722416_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/10/mali-l-armee-et-les-russes-reprennent-la-ville-d-anefis-dans-le-nord_6722416_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/10/mali-l-armee-et-les-russes-reprennent-la-ville-d-anefis-dans-le-nord_6722416_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/04/808/0/1250/625/644/322/60/0/48859ea_ftp-1-izdibsllicbf-2026-07-04t112142z-60258624-rc2z6maqcyua-rtrmadp-3-mali-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur cette capture d’écran diffusée sur les réseaux sociaux, des combattants dans des véhicules, à Anéfis (Mali), le 4 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SOCIAL MEDIA/REUTERS"
+      }
+    ],
+    "credit": "SOCIAL MEDIA/REUTERS"
+  }
+}

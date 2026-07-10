@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T10:52:18.195242+00:00",
+  "_id": "499fcf58e74b",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : 283 combats enregistrés entre les armées russe et ukrainienne au cours des dernières vingt-quatre heures, selon l’état-major ukrainien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : 283 combats enregistrés entre les armées russe et ukrainienne au cours des dernières vingt-quatre heures, selon l’état-major ukrainien"
+    },
+    "published": "Fri, 10 Jul 2026 12:23:39 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      10,
+      23,
+      39,
+      4,
+      191,
+      0
+    ],
+    "updated": "Fri, 10 Jul 2026 12:39:58 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      10,
+      10,
+      39,
+      58,
+      4,
+      191,
+      0
+    ],
+    "summary": "Des attaques nocturnes de drones ukrainiens ont, par ailleurs, provoqué un incendie dans une raffinerie dans le kraï de Krasnodar, dans le sud de la Russie, ont déclaré les autorités russes, qui ont annoncé la destruction de 376 drones ukrainiens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des attaques nocturnes de drones ukrainiens ont, par ailleurs, provoqué un incendie dans une raffinerie dans le kraï de Krasnodar, dans le sud de la Russie, ont déclaré les autorités russes, qui ont annoncé la destruction de 376 drones ukrainiens."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-283-combats-enregistres-entre-les-armees-russe-et-ukrainienne-au-cours-des-dernieres-vingt-quatre-heures-selon-l-etat-major-ukrainien_6720832_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-283-combats-enregistres-entre-les-armees-russe-et-ukrainienne-au-cours-des-dernieres-vingt-quatre-heures-selon-l-etat-major-ukrainien_6720832_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-283-combats-enregistres-entre-les-armees-russe-et-ukrainienne-au-cours-des-dernieres-vingt-quatre-heures-selon-l-etat-major-ukrainien_6720832_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/373/0/4716/2358/644/322/60/0/f97fff7_ftp-1-far0t71gknpo-2026-07-10t081952z-395323891-rc2eamaak1mf-rtrmadp-3-ukraine-crisis-frontline-donetsk-region.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un soldat du 49ᵉ bataillon d’assaut autonome des forces armées ukrainiennes en patrouille, dans la ville de Droujkivka (Ukraine), dans la région de Donetsk, le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANATOLII STEPANOV/REUTERS"
+      }
+    ],
+    "credit": "ANATOLII STEPANOV/REUTERS"
+  }
+}

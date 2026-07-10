@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T10:52:18.196888+00:00",
+  "_id": "6ed5753bb9a8",
+  "brut": {
+    "title": "France-Maroc : les sentiments mêlés des Franco-Marocains au milieu de la liesse suscitée par la victoire de l’équipe de France en quarts de finale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "France-Maroc : les sentiments mêlés des Franco-Marocains au milieu de la liesse suscitée par la victoire de l’équipe de France en quarts de finale"
+    },
+    "published": "Fri, 10 Jul 2026 06:16:13 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      4,
+      16,
+      13,
+      4,
+      191,
+      0
+    ],
+    "updated": "Fri, 10 Jul 2026 11:17:24 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      10,
+      9,
+      17,
+      24,
+      4,
+      191,
+      0
+    ],
+    "summary": "Dans le quartier de Barbès, à Paris, où des écrans retransmettaient le match, jeudi, certains spectateurs soutenaient les Lions de l’Atlas, d’autres les Bleus, sans que rien ne trouble l’ambiance de fête.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le quartier de Barbès, à Paris, où des écrans retransmettaient le match, jeudi, certains spectateurs soutenaient les Lions de l’Atlas, d’autres les Bleus, sans que rien ne trouble l’ambiance de fête."
+    },
+    "id": "https://www.lemonde.fr/sport/article/2026/07/10/les-sentiments-meles-des-franco-marocains-au-milieu-de-la-liesse-suscitee-par-la-victoire-de-l-equipe-de-france-en-quart-de-finale_6722388_3242.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sport/article/2026/07/10/les-sentiments-meles-des-franco-marocains-au-milieu-de-la-liesse-suscitee-par-la-victoire-de-l-equipe-de-france-en-quart-de-finale_6722388_3242.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sport/article/2026/07/10/les-sentiments-meles-des-franco-marocains-au-milieu-de-la-liesse-suscitee-par-la-victoire-de-l-equipe-de-france-en-quart-de-finale_6722388_3242.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/258/0/5493/2746/644/322/60/0/c3031a7_ftp-1-txn9jmtlbwvd-2026-07-09t205402z-2005150278-up1em791m21fe-rtrmadp-3-soccer-worldcup-fra-mar-fans-paris.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des supporteurs marocains, lors du match France-Maroc, à Paris, le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sarah Meyssonnier/REUTERS"
+      }
+    ],
+    "credit": "Sarah Meyssonnier/REUTERS"
+  }
+}
