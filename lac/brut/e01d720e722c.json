@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T17:47:06.033621+00:00",
+  "_id": "e01d720e722c",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des bombardements russes dans l’oblast de Donetsk et à Zaporijia ont fait cinq morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des bombardements russes dans l’oblast de Donetsk et à Zaporijia ont fait cinq morts"
+    },
+    "published": "Fri, 10 Jul 2026 18:50:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      16,
+      50,
+      12,
+      4,
+      191,
+      0
+    ],
+    "updated": "Fri, 10 Jul 2026 18:53:44 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      10,
+      16,
+      53,
+      44,
+      4,
+      191,
+      0
+    ],
+    "summary": "Au moins 25 chefs d’Etat et de gouvernement, dont Volodymyr Zelensky, sont attendus lundi à Paris pour une réunion de la coalition des volontaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins 25 chefs d’Etat et de gouvernement, dont Volodymyr Zelensky, sont attendus lundi à Paris pour une réunion de la coalition des volontaires."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-des-bombardements-russes-dans-l-oblast-de-donetsk-et-a-zaporijia-ont-fait-cinq-morts_6720832_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-des-bombardements-russes-dans-l-oblast-de-donetsk-et-a-zaporijia-ont-fait-cinq-morts_6720832_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-des-bombardements-russes-dans-l-oblast-de-donetsk-et-a-zaporijia-ont-fait-cinq-morts_6720832_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/396/0/5975/2987/644/322/60/0/c64aa4e_ftp-1-7pz8ilnoeq0j-2026-07-10t160035z-888046569-rc22bmai0htk-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes après une frappe aérienne russe, à Zaporijia (Ukraine), le 10 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

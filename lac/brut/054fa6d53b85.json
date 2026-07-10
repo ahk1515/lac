@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T17:47:06.033426+00:00",
+  "_id": "054fa6d53b85",
+  "brut": {
+    "title": "Menace d’une nouvelle flambée des prix sur le diesel",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Menace d’une nouvelle flambée des prix sur le diesel"
+    },
+    "published": "Fri, 10 Jul 2026 19:00:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      17,
+      0,
+      30,
+      4,
+      191,
+      0
+    ],
+    "summary": "La Russie a interdit toute exportation du produit raffiné jusqu’à la fin du mois. Cette décision accroît les tensions sur les approvisionnements dans le monde, au moment où les hostilités reprennent au Moyen-Orient.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Russie a interdit toute exportation du produit raffiné jusqu’à la fin du mois. Cette décision accroît les tensions sur les approvisionnements dans le monde, au moment où les hostilités reprennent au Moyen-Orient."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/10/menace-d-une-nouvelle-flambee-des-prix-sur-le-diesel_6722499_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/10/menace-d-une-nouvelle-flambee-des-prix-sur-le-diesel_6722499_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/10/menace-d-une-nouvelle-flambee-des-prix-sur-le-diesel_6722499_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/03/20/484/0/5808/2904/644/322/60/0/916270a_ftp-1-fjnu15xh0gdz-2026-03-20t212134z-1029875059-rc2j8ka05uff-rtrmadp-3-petrobras-fuel.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des employés d’une station-service ajustent le prix de l’essence, qui ne cesse de croître, à Porto Alegre, au Brésil, le 20 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Diego Vara/REUTERS"
+      }
+    ],
+    "credit": "Diego Vara/REUTERS"
+  }
+}

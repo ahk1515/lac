@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T17:47:06.304933+00:00",
+  "_id": "805fd3a7eabb",
+  "brut": {
+    "title": "Alphadi, le couturier qui ne se décourage pas de prêcher pour la mode africaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alphadi, le couturier qui ne se décourage pas de prêcher pour la mode africaine"
+    },
+    "summary": "Grâce au Festival international de la mode africaine, il a offert une vitrine internationale à ses compatriotes créateurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Grâce au Festival international de la mode africaine, il a offert une vitrine internationale à ses compatriotes créateurs."
+    },
+    "published": "Fri, 10 Jul 2026 18:43:24 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      16,
+      43,
+      24,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/mode/alphadi-le-couturier-qui-ne-se-decourage-pas-de-precher-pour-la-mode-africaine_8100974.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MZseoJn5dbhK4MmdDhfw2yCrnEg/0x50:788x494/432x243/filters:format(jpg):quality(50)/2026/07/10/6a51141fd1367916222632.jpeg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/mode/alphadi-le-couturier-qui-ne-se-decourage-pas-de-precher-pour-la-mode-africaine_8100974.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/mode/alphadi-le-couturier-qui-ne-se-decourage-pas-de-precher-pour-la-mode-africaine_8100974.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T17:47:06.034705+00:00",
+  "_id": "925bc13f78b6",
+  "brut": {
+    "title": "Dans les centres de rétention administrative, les femmes face à des vulnérabilités multiples",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans les centres de rétention administrative, les femmes face à des vulnérabilités multiples"
+    },
+    "published": "Fri, 10 Jul 2026 17:00:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      15,
+      0,
+      41,
+      4,
+      191,
+      0
+    ],
+    "summary": "Les associations intervenant dans les CRA alertent sur les conséquences psychologiques d’un enfermement prolongé pour des femmes déjà fragilisées par l’exil, la précarité ou encore les violences conjugales et sexuelles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les associations intervenant dans les CRA alertent sur les conséquences psychologiques d’un enfermement prolongé pour des femmes déjà fragilisées par l’exil, la précarité ou encore les violences conjugales et sexuelles."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/07/10/dans-les-centres-de-retention-administrative-les-femmes-face-a-des-vulnerabilites-multiples_6722473_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/07/10/dans-les-centres-de-retention-administrative-les-femmes-face-a-des-vulnerabilites-multiples_6722473_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/07/10/dans-les-centres-de-retention-administrative-les-femmes-face-a-des-vulnerabilites-multiples_6722473_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/06/923/0/6429/3214/644/322/60/0/046ef5e_upload-1-pbdhq9cs2lt6-000-82l47zu.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant le centre de rétention administrative (CRA) de Mayotte, à Pamandzi, le 29 octobre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MARINE GACHET/AFP"
+      }
+    ],
+    "credit": "MARINE GACHET/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T17:47:06.305214+00:00",
+  "_id": "297f0091cd52",
+  "brut": {
+    "title": "L'Iran menace de frapper Israël en cas de nouvelle attaque contre ses infrastructures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Iran menace de frapper Israël en cas de nouvelle attaque contre ses infrastructures"
+    },
+    "summary": "Le Premier ministre israélien s'est entretenu jeudi soir avec Donald Trump, qui l'a informé des \"derniers mouvements\" américains dans le Golfe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Premier ministre israélien s'est entretenu jeudi soir avec Donald Trump, qui l'a informé des \"derniers mouvements\" américains dans le Golfe."
+    },
+    "published": "Fri, 10 Jul 2026 17:11:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      15,
+      11,
+      25,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/teheran-menace-de-frapper-israel-en-cas-de-nouvelle-attaque-contre-ses-infrastructures_8102858.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9jlu50Pr0FSG_kKGzvekneQ0CUc/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/07/10/6a510731e9ff8790097356.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/teheran-menace-de-frapper-israel-en-cas-de-nouvelle-attaque-contre-ses-infrastructures_8102858.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/teheran-menace-de-frapper-israel-en-cas-de-nouvelle-attaque-contre-ses-infrastructures_8102858.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

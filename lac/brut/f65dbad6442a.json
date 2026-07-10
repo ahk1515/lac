@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T17:47:06.033798+00:00",
+  "_id": "f65dbad6442a",
+  "brut": {
+    "title": "La Chine a réussi à rattraper un lanceur de fusée, une première pour le pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Chine a réussi à rattraper un lanceur de fusée, une première pour le pays"
+    },
+    "published": "Fri, 10 Jul 2026 18:50:00 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      16,
+      50,
+      0,
+      4,
+      191,
+      0
+    ],
+    "summary": "Un dispositif en mer, composé d’un filet géant et de câbles, a permis de ralentir l’arrivée du premier étage de la fusée Longue Marche de l’agence spatiale chinoise CASC.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un dispositif en mer, composé d’un filet géant et de câbles, a permis de ralentir l’arrivée du premier étage de la fusée Longue Marche de l’agence spatiale chinoise CASC."
+    },
+    "id": "https://www.lemonde.fr/sciences/video/2026/07/10/la-chine-a-reussi-a-rattraper-un-lanceur-de-fusee-une-premiere-pour-le-pays_6722494_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/video/2026/07/10/la-chine-a-reussi-a-rattraper-un-lanceur-de-fusee-une-premiere-pour-le-pays_6722494_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/video/2026/07/10/la-chine-a-reussi-a-rattraper-un-lanceur-de-fusee-une-premiere-pour-le-pays_6722494_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/688/0/8256/4128/644/322/60/0/b0c9bf9_ftp-1-3tzcvaj10om1-5587463-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

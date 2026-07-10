@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T17:47:06.033176+00:00",
+  "_id": "110c9b5860fa",
+  "brut": {
+    "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse record",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse record"
+    },
+    "published": "Fri, 10 Jul 2026 19:39:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      17,
+      39,
+      1,
+      4,
+      191,
+      0
+    ],
+    "summary": "La maladie se répand plus rapidement que les seize épidémies précédentes qu’a connues le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux acteurs de terrain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La maladie se répand plus rapidement que les seize épidémies précédentes qu’a connues le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux acteurs de terrain."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/528/0/4000/2000/644/322/60/0/b6a626a_upload-1-djcod4jwmzbj-33-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’enterrement de Kasande Kisembo, 8 ans, morte du virus Ebola, à Bunia, dans l’est de la République démocratique du Congo, le 21 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILÉMON BARBIER/HORS FORMAT POUR « LE MONDE »"
+      }
+    ],
+    "credit": "PHILÉMON BARBIER/HORS FORMAT POUR « LE MONDE »"
+  }
+}
