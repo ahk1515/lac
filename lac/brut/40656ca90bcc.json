@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T14:24:16.774146+00:00",
+  "_id": "40656ca90bcc",
+  "brut": {
+    "title": "Au Japon, l’aéroport du Kansai, à Osaka, se vante de n’avoir jamais perdu un seul bagage",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Japon, l’aéroport du Kansai, à Osaka, se vante de n’avoir jamais perdu un seul bagage"
+    },
+    "published": "Fri, 10 Jul 2026 14:00:09 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      12,
+      0,
+      9,
+      4,
+      191,
+      0
+    ],
+    "summary": "Inauguré en 1994, l’aéroport nippon, aujourd’hui géré par le français Vinci, utilise des systèmes électromécaniques et des processus de vérifications multiples pour assurer la bonne livraison des bagages.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Inauguré en 1994, l’aéroport nippon, aujourd’hui géré par le français Vinci, utilise des systèmes électromécaniques et des processus de vérifications multiples pour assurer la bonne livraison des bagages."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/10/au-japon-l-aeroport-du-kansai-a-osaka-se-vante-de-n-avoir-jamais-perdu-un-seul-bagage_6722439_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/10/au-japon-l-aeroport-du-kansai-a-osaka-se-vante-de-n-avoir-jamais-perdu-un-seul-bagage_6722439_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/10/au-japon-l-aeroport-du-kansai-a-osaka-se-vante-de-n-avoir-jamais-perdu-un-seul-bagage_6722439_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/0/0/3000/1500/644/322/60/0/9a85a4f_upload-1-oq0qnq3ltokj-020-2249986685.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Hall des départs de l’aéroport international du Kansai, à Osaka, au Japon, le 4 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BUDDHIKA WEERASINGHE/Getty Images via AFP"
+      }
+    ],
+    "credit": "BUDDHIKA WEERASINGHE/Getty Images via AFP"
+  }
+}

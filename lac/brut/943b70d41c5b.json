@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T14:24:16.773655+00:00",
+  "_id": "943b70d41c5b",
+  "brut": {
+    "title": "Donald Trump révoque les chefs d’une agence électorale avant les élections de mi-mandat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump révoque les chefs d’une agence électorale avant les élections de mi-mandat"
+    },
+    "published": "Fri, 10 Jul 2026 15:27:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      13,
+      27,
+      46,
+      4,
+      191,
+      0
+    ],
+    "summary": "La Commission d’assistance aux élections une agence publique créée en 2002, est chargée de certifier les équipements de vote et de distribuer des centaines de millions de dollars d’aide fédérale au titre des élections, rappelle la chaîne CNN.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Commission d’assistance aux élections une agence publique créée en 2002, est chargée de certifier les équipements de vote et de distribuer des centaines de millions de dollars d’aide fédérale au titre des élections, rappelle la chaîne CNN."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/10/donald-trump-revoque-les-chefs-d-une-agence-electorale-avant-les-elections-de-mi-mandat_6722452_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/10/donald-trump-revoque-les-chefs-d-une-agence-electorale-avant-les-elections-de-mi-mandat_6722452_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/10/donald-trump-revoque-les-chefs-d-une-agence-electorale-avant-les-elections-de-mi-mandat_6722452_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/720/0/8640/4320/644/322/60/0/9f20ad6_ftp-1-1w7ihwi66gy8-2cbac8e25ac94a3c89837a3695a788bf-0-03b37960a94149879b1baa96cbcf3bee.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, à Suffolk (Royaume-Uni), le 8 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alex Brandon/AP"
+      }
+    ],
+    "credit": "Alex Brandon/AP"
+  }
+}

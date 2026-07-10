@@ -1,11 +1,11 @@
 [
   {
-    "pays": "USA",
-    "citations": 39
+    "pays": "FRA",
+    "citations": 40
   },
   {
-    "pays": "FRA",
-    "citations": 36
+    "pays": "USA",
+    "citations": 40
   },
   {
     "pays": "IRN",
@@ -21,11 +21,11 @@
   },
   {
     "pays": "UKR",
-    "citations": 14
+    "citations": 15
   },
   {
     "pays": "GBR",
-    "citations": 11
+    "citations": 12
   },
   {
     "pays": "TUR",
@@ -38,6 +38,10 @@
   {
     "pays": "CHN",
     "citations": 6
+  },
+  {
+    "pays": "JPN",
+    "citations": 2
   },
   {
     "pays": "DEU",
@@ -58,10 +62,6 @@
   {
     "pays": "LBN",
     "citations": 2
-  },
-  {
-    "pays": "JPN",
-    "citations": 1
   },
   {
     "pays": "BFA",

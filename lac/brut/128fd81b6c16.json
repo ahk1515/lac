@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-10T14:24:16.774314+00:00",
+  "_id": "128fd81b6c16",
+  "brut": {
+    "title": "Au Chili, dans le détroit de Magellan, des autochtones revendiquent l’usage ancestral des espaces côtiers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Chili, dans le détroit de Magellan, des autochtones revendiquent l’usage ancestral des espaces côtiers"
+    },
+    "published": "Fri, 10 Jul 2026 13:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      11,
+      0,
+      5,
+      4,
+      191,
+      0
+    ],
+    "summary": "Des descendants du peuple indigène Kawesqar demandent à faire reconnaître leur usage coutumier pour perpétuer leurs traditions et contrer l’expansion de la salmoniculture. José Antonio Kast, le président d’extrême droite, y voit un frein à l’investissement et prévoit de modifier la loi sur les espaces côtiers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des descendants du peuple indigène Kawesqar demandent à faire reconnaître leur usage coutumier pour perpétuer leurs traditions et contrer l’expansion de la salmoniculture. José Antonio Kast, le président d’extrême droite, y voit un frein à l’investissement et prévoit de modifier la loi sur les espaces côtiers."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/10/au-chili-dans-le-detroit-de-magellan-des-autochtones-revendiquent-l-usage-ancestral-des-espaces-cotiers_6722432_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/10/au-chili-dans-le-detroit-de-magellan-des-autochtones-revendiquent-l-usage-ancestral-des-espaces-cotiers_6722432_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/10/au-chili-dans-le-detroit-de-magellan-des-autochtones-revendiquent-l-usage-ancestral-des-espaces-cotiers_6722432_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/07/560/0/6720/3360/644/322/60/0/3bb55c4_upload-1-3xhuo68ap7g6-000-44bp4m4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue de Punta Arenas, au Chili, le 2 mai 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TOMAS GUTIERREZ/AFP"
+      }
+    ],
+    "credit": "TOMAS GUTIERREZ/AFP"
+  }
+}

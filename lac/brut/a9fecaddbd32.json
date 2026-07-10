@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-10T14:24:17.008321+00:00",
+  "_id": "a9fecaddbd32",
+  "brut": {
+    "title": "Emmanuel Macron accueillera 25 chefs d'Etat et de gouvernement, dont Volodymyr Zelensky, lundi à Paris dans le cadre de la Coalition des volontaires\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron accueillera 25 chefs d'Etat et de gouvernement, dont Volodymyr Zelensky, lundi à Paris dans le cadre de la Coalition des volontaires\""
+    },
+    "summary": "L'objectif est de \"pousser\" à un cessez-le-feu et à une \"reprise\" des négociations de paix, stipule la présidence française.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'objectif est de \"pousser\" à un cessez-le-feu et à une \"reprise\" des négociations de paix, stipule la présidence française."
+    },
+    "published": "Fri, 10 Jul 2026 15:35:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      13,
+      35,
+      44,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-accueillera-25-chefs-d-etat-et-de-gouvernement-dont-volodymyr-zelensky-lundi-a-paris-dans-le-cadre-de-la-coalition-des-volontaires_8102741.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/v2LMAdsBjGd1LlESz9kJPkM4R9E/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/10/6a50f33fcda00824204584.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-accueillera-25-chefs-d-etat-et-de-gouvernement-dont-volodymyr-zelensky-lundi-a-paris-dans-le-cadre-de-la-coalition-des-volontaires_8102741.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-accueillera-25-chefs-d-etat-et-de-gouvernement-dont-volodymyr-zelensky-lundi-a-paris-dans-le-cadre-de-la-coalition-des-volontaires_8102741.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
