@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T06:11:53.359728+00:00",
+  "_id": "f2728c10a0ef",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : six blessés dans des attaques de missiles russes sur Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : six blessés dans des attaques de missiles russes sur Kiev"
+    },
+    "published": "Sat, 11 Jul 2026 06:35:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      4,
+      35,
+      1,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 07:42:45 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      5,
+      42,
+      45,
+      5,
+      192,
+      0
+    ],
+    "summary": "Selon le maire de la capitale ukrainienne, trois personnes ont dû être hospitalisées. Le chef de l’administration militaire locale avait appelé dans la nuit la population à se réfugier dans des « lieux sûrs ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le maire de la capitale ukrainienne, trois personnes ont dû être hospitalisées. Le chef de l’administration militaire locale avait appelé dans la nuit la population à se réfugier dans des « lieux sûrs »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/256/0/3512/1756/644/322/60/0/544ea24_ftp-1-iz2nektzyvck-5592705-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après l'explosion d'un missile russe, à Kiev, le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EVGEN KOTENKO/AFP"
+      }
+    ],
+    "credit": "EVGEN KOTENKO/AFP"
+  }
+}

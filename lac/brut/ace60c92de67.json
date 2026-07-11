@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T06:11:53.529019+00:00",
+  "_id": "ace60c92de67",
+  "brut": {
+    "title": "Guerre en Ukraine : une attaque de missiles russes fait six blessés à Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : une attaque de missiles russes fait six blessés à Kiev"
+    },
+    "summary": "Depuis juin, la capitale ukrainienne est la cible de frappes massives, menées avec un nombre croissant de missiles..",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis juin, la capitale ukrainienne est la cible de frappes massives, menées avec un nombre croissant de missiles.."
+    },
+    "published": "Sat, 11 Jul 2026 07:41:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      5,
+      41,
+      11,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-8hBi29ED1lp9iOmF19Nx322BTY/0x127:3937x2341/432x243/filters:format(jpg):quality(50)/2026/07/11/6a51d725ce585995340469.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

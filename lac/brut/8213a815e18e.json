@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T06:11:53.528628+00:00",
+  "_id": "8213a815e18e",
+  "brut": {
+    "title": "L'Iran dit avoir \"tenu parole\", Donald Trump maintient que le cessez-le-feu est \"terminé\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Iran dit avoir \"tenu parole\", Donald Trump maintient que le cessez-le-feu est \"terminé\""
+    },
+    "summary": "Les affrontements ont repris mardi entre Iraniens et Américains. Les frappes échangées depuis par les deux ennemis ont été les plus importantes depuis la signature, le 17 juin, d'un protocole d'accord visant à trouver une fin définitive à la guerre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les affrontements ont repris mardi entre Iraniens et Américains. Les frappes échangées depuis par les deux ennemis ont été les plus importantes depuis la signature, le 17 juin, d'un protocole d'accord visant à trouver une fin définitive à la guerre."
+    },
+    "published": "Sat, 11 Jul 2026 08:02:58 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      6,
+      2,
+      58,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-avoir-tenu-parole-donald-trump-maintient-que-le-cessez-le-feu-est-termine_8103683.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/SotFsi8RYlEeYTjgSvZnqNAkJEA/0x32:6000x3407/432x243/filters:format(jpg):quality(50)/2026/07/11/6a51dbfa02db6915688142.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-avoir-tenu-parole-donald-trump-maintient-que-le-cessez-le-feu-est-termine_8103683.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-avoir-tenu-parole-donald-trump-maintient-que-le-cessez-le-feu-est-termine_8103683.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
