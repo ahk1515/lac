@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T20:45:04.275949+00:00",
+  "_id": "d0df0dc1ad53",
+  "brut": {
+    "title": "Le typhon Bavi a atteint la Chine, où près de deux millions de personnes ont été évacuées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le typhon Bavi a atteint la Chine, où près de deux millions de personnes ont été évacuées"
+    },
+    "published": "Sat, 11 Jul 2026 19:43:32 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      17,
+      43,
+      32,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 20:39:15 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      18,
+      39,
+      15,
+      5,
+      192,
+      0
+    ],
+    "summary": "Le typhon a d’abord atteint la ville de Yuhuan (Est), samedi soir, et devait poursuivre sa route vers le nord-ouest en faiblissant. Pour l’heure, aucune victime n’est à déplorer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le typhon a d’abord atteint la ville de Yuhuan (Est), samedi soir, et devait poursuivre sa route vers le nord-ouest en faiblissant. Pour l’heure, aucune victime n’est à déplorer."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/11/le-typhon-bavi-a-atteint-la-chine-ou-pres-de-2-millions-de-personnes-ont-ete-evacuees_6722699_3245.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/11/le-typhon-bavi-a-atteint-la-chine-ou-pres-de-2-millions-de-personnes-ont-ete-evacuees_6722699_3245.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/11/le-typhon-bavi-a-atteint-la-chine-ou-pres-de-2-millions-de-personnes-ont-ete-evacuees_6722699_3245.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/320/0/4197/2098/644/322/60/0/5eed511_ftp-1-btegu6diujat-5593424-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des piétons sous une pluie battante et des vents violents, avant l’arrivée du typhon Bavi, à Keelung (Taïwan), le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "I-HWA CHENG/AFP"
+      }
+    ],
+    "credit": "I-HWA CHENG/AFP"
+  }
+}

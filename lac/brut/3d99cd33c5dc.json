@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T20:45:04.455894+00:00",
+  "_id": "3d99cd33c5dc",
+  "brut": {
+    "title": "Face aux menaces de mort, Donald Trump renforce sa sécurité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face aux menaces de mort, Donald Trump renforce sa sécurité"
+    },
+    "summary": "Face aux menaces de l'Iran, Donald Trump annonce que \"1 000 missiles\" sont parés à frapper en cas d'attaque. Visé par plusieurs tentatives d'assassinat en 2 ans, le président voit sa sécurité drastiquement renforcée à la Maison Blanche, désormais protégée par des périmètres mobiles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face aux menaces de l'Iran, Donald Trump annonce que \"1 000 missiles\" sont parés à frapper en cas d'attaque. Visé par plusieurs tentatives d'assassinat en 2 ans, le président voit sa sécurité drastiquement renforcée à la Maison Blanche, désormais protégée par des périmètres mobiles."
+    },
+    "published": "Sat, 11 Jul 2026 21:01:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      19,
+      1,
+      25,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/face-aux-menaces-de-mort-donald-trump-renforce-sa-securite_8104388.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LcmXH70z7WIDc_GAmadph-Mt7bY/54x0:1486x805/432x243/filters:format(jpg):quality(50)/2026/07/11/6a5292a5d02a9248981395.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/face-aux-menaces-de-mort-donald-trump-renforce-sa-securite_8104388.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/face-aux-menaces-de-mort-donald-trump-renforce-sa-securite_8104388.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

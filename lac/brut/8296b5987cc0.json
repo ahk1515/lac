@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T20:45:04.456747+00:00",
+  "_id": "8296b5987cc0",
+  "brut": {
+    "title": "L'armée arrive en renfort face à l'incendie meurtrier qui sévit dans le sud de l'Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée arrive en renfort face à l'incendie meurtrier qui sévit dans le sud de l'Espagne"
+    },
+    "summary": "C'est le choc et l'émotion dans le sud de l'Espagne après la mort de 12 personnes dans un incendie de forêt qui n’est toujours pas maîtrisé samedi 11 juillet. La Guardia Civil est désormais à la recherche des disparus, ils sont une vingtaine. Il s'agirait essentiellement de touristes britanniques et belges.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "C'est le choc et l'émotion dans le sud de l'Espagne après la mort de 12 personnes dans un incendie de forêt qui n’est toujours pas maîtrisé samedi 11 juillet. La Guardia Civil est désormais à la recherche des disparus, ils sont une vingtaine. Il s'agirait essentiellement de touristes britanniques et belges."
+    },
+    "published": "Sat, 11 Jul 2026 20:33:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      18,
+      33,
+      7,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/l-armee-arrive-en-renfort-face-a-l-incendie-meurtrier-qui-sevit-dans-le-sud-de-l-espagne_8104379.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TwBMchYKpJmVqKYBJWn8FEX0LqY/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/11/6a528b5e2e79b247717620.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/l-armee-arrive-en-renfort-face-a-l-incendie-meurtrier-qui-sevit-dans-le-sud-de-l-espagne_8104379.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/l-armee-arrive-en-renfort-face-a-l-incendie-meurtrier-qui-sevit-dans-le-sud-de-l-espagne_8104379.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
