@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T09:28:12.666630+00:00",
+  "_id": "a9f971510017",
+  "brut": {
+    "title": "En Malaisie, le durian devient un enjeu de campagne électorale dans l’Etat de Johor",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Malaisie, le durian devient un enjeu de campagne électorale dans l’Etat de Johor"
+    },
+    "published": "Sat, 11 Jul 2026 09:46:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      7,
+      46,
+      27,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 11:24:10 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      9,
+      24,
+      10,
+      5,
+      192,
+      0
+    ],
+    "summary": "A la veille d’élections législatives locales, le 11 juillet, la chute des prix du « roi des fruits », provoquée par une récolte exceptionnelle, place le premier ministre, Anwar Ibrahim, face à des producteurs en difficulté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la veille d’élections législatives locales, le 11 juillet, la chute des prix du « roi des fruits », provoquée par une récolte exceptionnelle, place le premier ministre, Anwar Ibrahim, face à des producteurs en difficulté."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/11/en-malaisie-le-durian-devient-un-enjeu-de-campagne-electorale-dans-l-etat-de-johor_6722678_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/11/en-malaisie-le-durian-devient-un-enjeu-de-campagne-electorale-dans-l-etat-de-johor_6722678_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/11/en-malaisie-le-durian-devient-un-enjeu-de-campagne-electorale-dans-l-etat-de-johor_6722678_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/136/0/4898/2449/644/322/60/0/f218823_ftp-1-wpywlxzbaebw-5574906-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Anwar Ibrahim, premier ministre malaisien, à Putrajaya, le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HASNOOR HUSSAIN/AFP"
+      }
+    ],
+    "credit": "HASNOOR HUSSAIN/AFP"
+  }
+}

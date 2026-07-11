@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T09:28:12.806450+00:00",
+  "_id": "1405aa1fe5ca",
+  "brut": {
+    "title": "Le régime iranien veut-il assassiner Donald Trump ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le régime iranien veut-il assassiner Donald Trump ?"
+    },
+    "summary": "La tension ne retombe pas entre l'Iran et les États-Unis. Après les funérailles du guide suprême iranien Ali Khamenei qui se sont déroulées jusqu'au 10 juillet, des banderoles contre Donald Trump ont été déployées. Des slogans appelant à sa mort ont été scandés sur fond de reprise de frappes entre l'Iran et les États-Unis. Selon des informations d'Israël, l'Iran préparerait un nouveau plan pour assassiner le locataire de la Maison blanche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La tension ne retombe pas entre l'Iran et les États-Unis. Après les funérailles du guide suprême iranien Ali Khamenei qui se sont déroulées jusqu'au 10 juillet, des banderoles contre Donald Trump ont été déployées. Des slogans appelant à sa mort ont été scandés sur fond de reprise de frappes entre l'Iran et les États-Unis. Selon des informations d'Israël, l'Iran préparerait un nouveau plan pour assassiner le locataire de la Maison blanche."
+    },
+    "published": "Sat, 11 Jul 2026 09:35:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      7,
+      35,
+      4,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/le-regime-iranien-veut-il-assassiner-donald-trump_8103764.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0y0uObc2kR1FEtumGO-oGqMp0_I/162x0:1330x657/432x243/filters:format(jpg):quality(50)/2026/07/11/6a51ec02aa19a114376033.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/le-regime-iranien-veut-il-assassiner-donald-trump_8103764.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/le-regime-iranien-veut-il-assassiner-donald-trump_8103764.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

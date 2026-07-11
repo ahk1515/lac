@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T09:28:12.666807+00:00",
+  "_id": "1a33e743a21f",
+  "brut": {
+    "title": "Pourquoi y a-t-il eu une guerre civile en Espagne ? Comprendre en trois minutes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pourquoi y a-t-il eu une guerre civile en Espagne ? Comprendre en trois minutes"
+    },
+    "published": "Sat, 11 Jul 2026 08:17:38 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      6,
+      17,
+      38,
+      5,
+      192,
+      0
+    ],
+    "summary": "Il y a quatre-vingt-dix ans, plusieurs généraux espagnols lançaient un soulèvement contre la jeune République. C’est le début de trois années de guerre civile.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il y a quatre-vingt-dix ans, plusieurs généraux espagnols lançaient un soulèvement contre la jeune République. C’est le début de trois années de guerre civile."
+    },
+    "id": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/07/11/pourquoi-y-a-t-il-eu-une-guerre-civile-en-espagne-comprendre-en-trois-minutes_6722676_6176282.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/07/11/pourquoi-y-a-t-il-eu-une-guerre-civile-en-espagne-comprendre-en-trois-minutes_6722676_6176282.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/07/11/pourquoi-y-a-t-il-eu-une-guerre-civile-en-espagne-comprendre-en-trois-minutes_6722676_6176282.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/60/0/1920/960/644/322/60/0/ffd5855_upload-1-l3jxigqlmase-tiles-4.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Arthur Navet / Le \"Monde\""
+      }
+    ],
+    "credit": "Arthur Navet / Le \"Monde\""
+  }
+}

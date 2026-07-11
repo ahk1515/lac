@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T09:28:12.806819+00:00",
+  "_id": "1431bf5613ce",
+  "brut": {
+    "title": "Au Royaume-Uni, la police ouvre une enquête pour meurtre après la mort d'une ancienne députée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Royaume-Uni, la police ouvre une enquête pour meurtre après la mort d'une ancienne députée"
+    },
+    "summary": "Ann Widdecombe, 78 ans, était une fervente supportrice du Brexit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ann Widdecombe, 78 ans, était une fervente supportrice du Brexit."
+    },
+    "published": "Sat, 11 Jul 2026 11:03:24 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      9,
+      3,
+      24,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-d-une-ancienne-deputee_8103746.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/i4v5gyitHcq9lHuan6PzBC5cFLk/0x0:4608x2592/432x243/filters:format(jpg):quality(50)/2026/07/11/6a51e9c191a5c732133088.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-d-une-ancienne-deputee_8103746.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-d-une-ancienne-deputee_8103746.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

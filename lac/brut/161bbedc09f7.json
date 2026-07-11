@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T09:28:12.806968+00:00",
+  "_id": "161bbedc09f7",
+  "brut": {
+    "title": "Le bilan du double séisme au Venezuela dépasse les 4 000 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le bilan du double séisme au Venezuela dépasse les 4 000 morts"
+    },
+    "summary": "Le nombre de blessés reste identique, à 16 740, selon le gouvernement. L'ONU estime par ailleurs que le nombre de disparus pourrait atteindre 50 000.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nombre de blessés reste identique, à 16 740, selon le gouvernement. L'ONU estime par ailleurs que le nombre de disparus pourrait atteindre 50 000."
+    },
+    "published": "Sat, 11 Jul 2026 11:06:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      9,
+      6,
+      26,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-depasse-les-4-000-morts_8103686.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rwZsRdzK8UNVYiH15u8tv7_-dy4/0x363:6192x3846/432x243/filters:format(jpg):quality(50)/2026/07/11/6a51df52ef6a1674640395.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-depasse-les-4-000-morts_8103686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-depasse-les-4-000-morts_8103686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
