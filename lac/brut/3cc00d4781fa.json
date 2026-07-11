@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T02:33:24.248691+00:00",
+  "_id": "3cc00d4781fa",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, qui subit d’une attaque de missiles russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, qui subit d’une attaque de missiles russes"
+    },
+    "published": "Sat, 11 Jul 2026 03:09:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      1,
+      9,
+      26,
+      5,
+      192,
+      0
+    ],
+    "summary": "Le chef de l’administration militaire de la capitale ukrainienne a appelé la population à se réfugier dans des « lieux sûrs ». Au moins cinq explosions ont retenti, selon des journalistes de l’AFP présents sur place.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef de l’administration militaire de la capitale ukrainienne a appelé la population à se réfugier dans des « lieux sûrs ». Au moins cinq explosions ont retenti, selon des journalistes de l’AFP présents sur place."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-qui-subit-d-une-attaque-de-missiles-russes_6720832_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-qui-subit-d-une-attaque-de-missiles-russes_6720832_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-qui-subit-d-une-attaque-de-missiles-russes_6720832_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/08/424/0/2533/1266/644/322/60/0/4ace598_ftp-1-lxzsor2mmjen-5566439-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Kiev, le 8 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service d’Etat pour les situations d’urgence de l’Ukraine via AFP"
+      }
+    ],
+    "credit": "Service d’Etat pour les situations d’urgence de l’Ukraine via AFP"
+  }
+}

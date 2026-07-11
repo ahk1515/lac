@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T02:33:24.249272+00:00",
+  "_id": "45a0f0d73654",
+  "brut": {
+    "title": "Nouvelle coupure générale d’électricité à Cuba, sous blocus pétrolier américain, la quatrième en moins de six mois",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Nouvelle coupure générale d’électricité à Cuba, sous blocus pétrolier américain, la quatrième en moins de six mois"
+    },
+    "published": "Sat, 11 Jul 2026 00:19:20 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      22,
+      19,
+      20,
+      4,
+      191,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 02:16:07 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      0,
+      16,
+      7,
+      5,
+      192,
+      0
+    ],
+    "summary": "Les autorités cubaines accusent Washington d’avoir aggravé la crise énergétique avec son blocus pétrolier, alors que l’île peine à assurer une production électrique suffisante avec des infrastructures vieillissantes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités cubaines accusent Washington d’avoir aggravé la crise énergétique avec son blocus pétrolier, alors que l’île peine à assurer une production électrique suffisante avec des infrastructures vieillissantes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/11/nouvelle-coupure-generale-d-electricite-a-cuba-sous-blocus-petrolier-americain-la-quatrieme-en-moins-de-six-mois_6722515_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/11/nouvelle-coupure-generale-d-electricite-a-cuba-sous-blocus-petrolier-americain-la-quatrieme-en-moins-de-six-mois_6722515_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/11/nouvelle-coupure-generale-d-electricite-a-cuba-sous-blocus-petrolier-americain-la-quatrieme-en-moins-de-six-mois_6722515_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/673/0/8077/4038/644/322/60/0/f6a1b03_ftp-1-j2305ndltzqz-5590901-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue sur La Havane, le 10 juillet 2026, alors que Cuba connaît une nouvelle coupure générale d’électricité."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YAMIL LAGE/AFP"
+      }
+    ],
+    "credit": "YAMIL LAGE/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T02:33:24.309861+00:00",
+  "_id": "3452f67070f9",
+  "brut": {
+    "title": "Au Liban, une frappe israélienne fait au moins un mort dans le sud du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Liban, une frappe israélienne fait au moins un mort dans le sud du pays"
+    },
+    "summary": "Les hostilités n'ont pas cessé malgré la signature par le Liban et Israël d'un accord-cadre pour une \"paix durable\" le 26 juin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les hostilités n'ont pas cessé malgré la signature par le Liban et Israël d'un accord-cadre pour une \"paix durable\" le 26 juin."
+    },
+    "published": "Fri, 10 Jul 2026 23:21:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      21,
+      21,
+      40,
+      4,
+      191,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-une-frappe-israelienne-fait-au-moins-un-mort-dans-le-sud-du-pays_8103380.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/XA44UuTUkiH49xswJlgAZygcb8Q/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/10/6a51614deb900223431479.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-une-frappe-israelienne-fait-au-moins-un-mort-dans-le-sud-du-pays_8103380.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-une-frappe-israelienne-fait-au-moins-un-mort-dans-le-sud-du-pays_8103380.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

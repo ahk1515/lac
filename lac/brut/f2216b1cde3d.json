@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T02:33:24.248879+00:00",
+  "_id": "f2216b1cde3d",
+  "brut": {
+    "title": "L’Algérie et le Mali amorcent une détente",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Algérie et le Mali amorcent une détente"
+    },
+    "published": "Sat, 11 Jul 2026 02:20:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      0,
+      20,
+      36,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 03:56:28 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      1,
+      56,
+      28,
+      5,
+      192,
+      0
+    ],
+    "summary": "Les deux pays ont annoncé la réouverture réciproque de leurs espaces aériens et le retour de leurs ambassadeurs. La tension était montée entre les deux voisins depuis l’arrivée de la junte au pouvoir à Bamako à la suite de deux coups d’Etat en 2020 et 2021.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les deux pays ont annoncé la réouverture réciproque de leurs espaces aériens et le retour de leurs ambassadeurs. La tension était montée entre les deux voisins depuis l’arrivée de la junte au pouvoir à Bamako à la suite de deux coups d’Etat en 2020 et 2021."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/11/l-algerie-et-le-mali-amorcent-une-detente_6722550_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/11/l-algerie-et-le-mali-amorcent-une-detente_6722550_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/11/l-algerie-et-le-mali-amorcent-une-detente_6722550_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/735/0/6960/3480/644/322/60/0/341c727_ftp-1-wlhqdxaoghpp-b42ef5b1090445ccac8c137237e894e3-0-ebccd38ab068432cb0d5be465b8bc140.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le général Assimi Goïta, leader de la junte au Mali, lors des funérailles du ministre de la défense Sadio Camara, tué dans une attaque djihadiste. A Bamako, le 30 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Boubacary Bocoum/AP"
+      }
+    ],
+    "credit": "Boubacary Bocoum/AP"
+  }
+}

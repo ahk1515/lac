@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T02:33:24.249087+00:00",
+  "_id": "6a566bf67c34",
+  "brut": {
+    "title": "Double séisme au Venezuela : le bilan dépasse les 4 000 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Double séisme au Venezuela : le bilan dépasse les 4 000 morts"
+    },
+    "published": "Sat, 11 Jul 2026 01:04:32 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      10,
+      23,
+      4,
+      32,
+      4,
+      191,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 02:18:54 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      0,
+      18,
+      54,
+      5,
+      192,
+      0
+    ],
+    "summary": "Selon les autorités, 4 118 personnes ont été tuées et 16 740 autres blessées. Un tremblement de terre de magnitude 3 a touché Caracas vendredi provoquant le trouble dans la capitale sur le qui-vive depuis le 24 juin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les autorités, 4 118 personnes ont été tuées et 16 740 autres blessées. Un tremblement de terre de magnitude 3 a touché Caracas vendredi provoquant le trouble dans la capitale sur le qui-vive depuis le 24 juin."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/11/double-seisme-au-venezuela-le-bilan-depasse-les-4-000-morts_6722516_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/11/double-seisme-au-venezuela-le-bilan-depasse-les-4-000-morts_6722516_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/11/double-seisme-au-venezuela-le-bilan-depasse-les-4-000-morts_6722516_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/1376/0/8256/4128/644/322/60/0/e493bde_ftp-1-ussy0evfgiuo-5588451-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes et des proches de personnes disparues recherchent des corps dans les ruines d’un immeuble en partie détruit par le double séisme du 24 juin, à Caraballeda, dans l’Etat de La Guaira (Venezuela), le 10 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MARTIN BERNETTI/AFP"
+      }
+    ],
+    "credit": "MARTIN BERNETTI/AFP"
+  }
+}
