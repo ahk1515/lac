@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T13:16:49.419484+00:00",
+  "_id": "7803703f8c70",
+  "brut": {
+    "title": "Typhon Bavi : près de 2 millions de personnes évacuées en Chine, des pluies très abondantes attendues dans l’est du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Typhon Bavi : près de 2 millions de personnes évacuées en Chine, des pluies très abondantes attendues dans l’est du pays"
+    },
+    "published": "Sat, 11 Jul 2026 14:08:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      12,
+      8,
+      12,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 14:24:22 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      12,
+      24,
+      22,
+      5,
+      192,
+      0
+    ],
+    "summary": "Le typhon devrait toucher la province du Zhejiang (Est) dimanche matin. Samedi, c’est surtout sur Taïwan qu’il a déversé de fortes pluies.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le typhon devrait toucher la province du Zhejiang (Est) dimanche matin. Samedi, c’est surtout sur Taïwan qu’il a déversé de fortes pluies."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/11/typhon-bavi-pres-de-2-millions-de-personnes-evacuees-en-chine-des-pluies-tres-abondantes-attendues-dans-l-est-du-pays_6722699_3245.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/11/typhon-bavi-pres-de-2-millions-de-personnes-evacuees-en-chine-des-pluies-tres-abondantes-attendues-dans-l-est-du-pays_6722699_3245.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/11/typhon-bavi-pres-de-2-millions-de-personnes-evacuees-en-chine-des-pluies-tres-abondantes-attendues-dans-l-est-du-pays_6722699_3245.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/320/0/4197/2098/644/322/60/0/5eed511_ftp-1-btegu6diujat-5593424-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des piétons sous une pluie battante et des vents violents, avant l’arrivée du typhon Bavi, à Keelung (Taïwan), le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "I-HWA CHENG/AFP"
+      }
+    ],
+    "credit": "I-HWA CHENG/AFP"
+  }
+}

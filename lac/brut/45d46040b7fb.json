@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T13:16:49.419725+00:00",
+  "_id": "45d46040b7fb",
+  "brut": {
+    "title": "En Iran, le Guide suprême, Mojtaba Khamenei, menace les Etats-Unis dans un message écrit en promettant de venger la mort de son père",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Iran, le Guide suprême, Mojtaba Khamenei, menace les Etats-Unis dans un message écrit en promettant de venger la mort de son père"
+    },
+    "published": "Sat, 11 Jul 2026 13:57:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      11,
+      57,
+      30,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 14:59:38 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      12,
+      59,
+      38,
+      5,
+      192,
+      0
+    ],
+    "summary": "Ali Khamenei, l’ancien dirigeant de la République islamique d’Iran, a été tué le 28 février dans des frappes américano-israéliennes. Retardées en raison de la guerre, ses funérailles ont eu lieu cette semaine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ali Khamenei, l’ancien dirigeant de la République islamique d’Iran, a été tué le 28 février dans des frappes américano-israéliennes. Retardées en raison de la guerre, ses funérailles ont eu lieu cette semaine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/11/en-iran-le-guide-supreme-mojtaba-khamenei-menace-les-etats-unis-dans-un-message-ecrit-en-promettant-de-venger-la-mort-de-son-pere_6722705_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/11/en-iran-le-guide-supreme-mojtaba-khamenei-menace-les-etats-unis-dans-un-message-ecrit-en-promettant-de-venger-la-mort-de-son-pere_6722705_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/11/en-iran-le-guide-supreme-mojtaba-khamenei-menace-les-etats-unis-dans-un-message-ecrit-en-promettant-de-venger-la-mort-de-son-pere_6722705_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/500/0/6000/3000/644/322/60/0/45b6f37_ftp-1-6biqhynpwhmx-2c21839e65d44a5b93f93a9269355321-0-223bf119cb9447f69793c2f930a755f9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mostafa Khamenei, le frère du nouveau Guide suprême iranien Mojtaba Khamenei, devant le cercueil de leur père, l’ayatollah Ali Khamenei à Machhad (Iran), le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Iranian Supreme Leader Office via AP"
+      }
+    ],
+    "credit": "Iranian Supreme Leader Office via AP"
+  }
+}

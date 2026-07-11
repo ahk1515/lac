@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T13:16:49.420317+00:00",
+  "_id": "d78b38279e9e",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov"
+    },
+    "published": "Sat, 11 Jul 2026 11:29:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      9,
+      29,
+      21,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sat, 11 Jul 2026 13:41:01 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      11,
+      11,
+      41,
+      1,
+      5,
+      192,
+      0
+    ],
+    "summary": "Le chef des forces de système sans pilote de l’armée ukrainienne, Robert Brovdi, a déclaré que 21 pétroliers, deux cargos, un navire spécial et quatre remorqueurs de la flotte fantôme russe avaient été atteints, samedi. « Au total, 76 navires ont été touchés en six jours », a-t-il affirmé sur Telegram.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef des forces de système sans pilote de l’armée ukrainienne, Robert Brovdi, a déclaré que 21 pétroliers, deux cargos, un navire spécial et quatre remorqueurs de la flotte fantôme russe avaient été atteints, samedi. « Au total, 76 navires ont été touchés en six jours », a-t-il affirmé sur Telegram."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-kiev-ciblee-pour-la-troisieme-fois-de-la-semaine-par-des-bombardements-russes-onze-blesses-signales-dans-la-capitale_6720832_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-kiev-ciblee-pour-la-troisieme-fois-de-la-semaine-par-des-bombardements-russes-onze-blesses-signales-dans-la-capitale_6720832_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-kiev-ciblee-pour-la-troisieme-fois-de-la-semaine-par-des-bombardements-russes-onze-blesses-signales-dans-la-capitale_6720832_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/83/0/3558/1779/644/322/60/0/b58cc98_ftp-1-cm5s1efsxkgf-2026-07-10t191305z-1028444043-rc27bmae52rp-rtrmadp-3-ukraine-crisis-zelenskiy.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur cette image diffusée par l’armée ukrainienne, un pétrolier russe visé par une frappe dans la mer d’Azov, le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Commander of Unmanned Aerial Systems Force via REUTERS"
+      }
+    ],
+    "credit": "Commander of Unmanned Aerial Systems Force via REUTERS"
+  }
+}

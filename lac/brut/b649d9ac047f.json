@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-11T13:16:49.420155+00:00",
+  "_id": "b649d9ac047f",
+  "brut": {
+    "title": "VIDEO. Au moins 12 morts dans un violent incendie qui ravage l’Andalousie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO. Au moins 12 morts dans un violent incendie qui ravage l’Andalousie"
+    },
+    "published": "Sat, 11 Jul 2026 13:19:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      11,
+      19,
+      8,
+      5,
+      192,
+      0
+    ],
+    "summary": "Plusieurs centaines de pompiers et de militaires continuent de lutter contre le sinistre, qui connaît samedi une évolution favorable, selon les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs centaines de pompiers et de militaires continuent de lutter contre le sinistre, qui connaît samedi une évolution favorable, selon les autorités."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/07/11/video-au-moins-12-morts-dans-un-violent-incendie-qui-ravage-l-andalousie_6722703_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/07/11/video-au-moins-12-morts-dans-un-violent-incendie-qui-ravage-l-andalousie_6722703_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/07/11/video-au-moins-12-morts-dans-un-violent-incendie-qui-ravage-l-andalousie_6722703_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/466/0/5597/2798/644/322/60/0/f977d0a_ftp-1-ako1y9t2l73s-2026-07-10t192038z-458088574-rc23bmaw75us-rtrmadp-3-europe-weather-spain-wildfire.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jon Nazca / REUTERS"
+      }
+    ],
+    "credit": "Jon Nazca / REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T13:16:49.604543+00:00",
+  "_id": "1376064ea7ad",
+  "brut": {
+    "title": "Incendie dans le sud de l'Espagne : \"Franchement, j'ai vu la mort\", témoigne une touriste française",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendie dans le sud de l'Espagne : \"Franchement, j'ai vu la mort\", témoigne une touriste française"
+    },
+    "summary": "L'incendie dans le sud Espagne a déjà ravagé 6 000 hectares et causé la mort de 12 personnes. Face à ce brasier inarrêtable, 1 400 habitants ont été évacués, dont des touristes français. Le feu reste actif malgré une légère amélioration météo ce samedi 11 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incendie dans le sud Espagne a déjà ravagé 6 000 hectares et causé la mort de 12 personnes. Face à ce brasier inarrêtable, 1 400 habitants ont été évacués, dont des touristes français. Le feu reste actif malgré une légère amélioration météo ce samedi 11 juillet."
+    },
+    "published": "Sat, 11 Jul 2026 14:37:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      12,
+      37,
+      33,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-franchement-j-ai-vu-la-mort-temoigne-une-touriste-francaise_8104055.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HWV1TJlN1cNSy3_GBDSOtPno4DY/0x0:1409x793/432x243/filters:format(jpg):quality(50)/2026/07/11/6a523908383be347913266.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-franchement-j-ai-vu-la-mort-temoigne-une-touriste-francaise_8104055.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-franchement-j-ai-vu-la-mort-temoigne-une-touriste-francaise_8104055.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
