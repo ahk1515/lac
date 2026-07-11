@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T16:57:18.686443+00:00",
+  "_id": "a8855e2431e1",
+  "brut": {
+    "title": "Près de 2 millions de personnes évacuées en Chine à l'approche du typhon Bavi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 2 millions de personnes évacuées en Chine à l'approche du typhon Bavi"
+    },
+    "summary": "Le typhon devrait provoquer des \"pluies exceptionnellement abondantes\" dans les provinces du Zhejiang et du Fujian (est), selon un média d'Etat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le typhon devrait provoquer des \"pluies exceptionnellement abondantes\" dans les provinces du Zhejiang et du Fujian (est), selon un média d'Etat."
+    },
+    "published": "Sat, 11 Jul 2026 17:18:28 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      15,
+      18,
+      28,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/pres-de-deux-millions-de-personnes-evacuees-en-chine-a-l-approche-du-typhon-bavi-qui-a-frappe-taiwan-et-plusieurs-iles-japonaises_8104136.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/eP55qmeLpuq0Dx8_72TRbLwOZXA/0x263:5056x3107/432x243/filters:format(jpg):quality(50)/2026/07/11/6a5251913a833239935139.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/pres-de-deux-millions-de-personnes-evacuees-en-chine-a-l-approche-du-typhon-bavi-qui-a-frappe-taiwan-et-plusieurs-iles-japonaises_8104136.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/pres-de-deux-millions-de-personnes-evacuees-en-chine-a-l-approche-du-typhon-bavi-qui-a-frappe-taiwan-et-plusieurs-iles-japonaises_8104136.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

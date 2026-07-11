@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-11T16:57:18.687146+00:00",
+  "_id": "589206abe514",
+  "brut": {
+    "title": "La rose de Damas, une fleur aux nombreuses vertus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La rose de Damas, une fleur aux nombreuses vertus"
+    },
+    "summary": "Notre série un air d'ailleurs nous mène aujourd'hui en Syrie où la culture de la rose de Damas est centrale, un véritable trésor national, récolté à la main, elle se transforme en huiles essentielles, en parfums et en produits comestibles que les pâtissiers s'arrachent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Notre série un air d'ailleurs nous mène aujourd'hui en Syrie où la culture de la rose de Damas est centrale, un véritable trésor national, récolté à la main, elle se transforme en huiles essentielles, en parfums et en produits comestibles que les pâtissiers s'arrachent."
+    },
+    "published": "Sat, 11 Jul 2026 15:54:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      13,
+      54,
+      16,
+      5,
+      192,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/syrie/la-rose-de-damas-une-fleur-aux-nombreuses-vertus_8104124.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zyUcXmjhjqTDbDvLnBPB9BpNdUE/62x0:1362x731/432x243/filters:format(jpg):quality(50)/2026/07/11/6a524aa018d4e678072047.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/syrie/la-rose-de-damas-une-fleur-aux-nombreuses-vertus_8104124.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/syrie/la-rose-de-damas-une-fleur-aux-nombreuses-vertus_8104124.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
