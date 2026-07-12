@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T13:17:20.323772+00:00",
+  "_id": "a62e07cd6bdf",
+  "brut": {
+    "title": "Russie : la guerre sape le contrat social entre Poutine et sa population",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Russie : la guerre sape le contrat social entre Poutine et sa population"
+    },
+    "published": "Sun, 12 Jul 2026 14:08:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      12,
+      8,
+      21,
+      6,
+      193,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 14:31:16 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      12,
+      31,
+      16,
+      6,
+      193,
+      0
+    ],
+    "summary": "L’irruption des attaques ukrainiennes sur l’ensemble du territoire accroît les inquiétudes des Russes sur la capacité du régime à protéger leurs besoins vitaux, alors que la situation économique se détériore.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’irruption des attaques ukrainiennes sur l’ensemble du territoire accroît les inquiétudes des Russes sur la capacité du régime à protéger leurs besoins vitaux, alors que la situation économique se détériore."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/12/russie-la-guerre-sape-le-contrat-social-entre-poutine-et-sa-population_6722899_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/12/russie-la-guerre-sape-le-contrat-social-entre-poutine-et-sa-population_6722899_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/12/russie-la-guerre-sape-le-contrat-social-entre-poutine-et-sa-population_6722899_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/649/0/7788/3894/644/322/60/0/cfc86c6_ftp-1-6w6hk2dlpv6m-5585549-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "File d’attente devant une station essence, à Moscou, le 10 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "IGOR IVANKO/AFP"
+      }
+    ],
+    "credit": "IGOR IVANKO/AFP"
+  }
+}

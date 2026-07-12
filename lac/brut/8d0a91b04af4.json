@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T13:17:20.424931+00:00",
+  "_id": "8d0a91b04af4",
+  "brut": {
+    "title": "L'incendie qui a fait 12 morts dans le sud de l'Espagne est stabilisé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incendie qui a fait 12 morts dans le sud de l'Espagne est stabilisé"
+    },
+    "summary": "Le retour à leur domicile des quelque 1 000 personnes évacuées qui n'avaient pas encore pu rentrer chez elles est autorisé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le retour à leur domicile des quelque 1 000 personnes évacuées qui n'avaient pas encore pu rentrer chez elles est autorisé."
+    },
+    "published": "Sun, 12 Jul 2026 12:46:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      10,
+      46,
+      26,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-a-fait-12-morts-dans-le-sud-de-l-espagne-est-stabilise_8104988.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_0fz16G4bBnTxok_7WmzDSuJq90/0x0:5177x2912/432x243/filters:format(jpg):quality(50)/2026/07/12/6a53669e4bc62555149524.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-a-fait-12-morts-dans-le-sud-de-l-espagne-est-stabilise_8104988.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-a-fait-12-morts-dans-le-sud-de-l-espagne-est-stabilise_8104988.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

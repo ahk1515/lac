@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T13:17:20.424614+00:00",
+  "_id": "5a53ddcd6330",
+  "brut": {
+    "title": "Des frappes russes ont fait quatre morts en Ukraine dans la nuit, selon les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des frappes russes ont fait quatre morts en Ukraine dans la nuit, selon les autorités"
+    },
+    "summary": "Ces frappes ont lieu à la veille d'une rencontre à Paris des pays alliés de Kiev au sein de la \"Coalition des volontaires\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces frappes ont lieu à la veille d'une rencontre à Paris des pays alliés de Kiev au sein de la \"Coalition des volontaires\"."
+    },
+    "published": "Sun, 12 Jul 2026 14:38:20 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      12,
+      38,
+      20,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-ont-fait-quatre-morts-dans-la-nuit-selon-les-autorites_8105066.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wOv0EmEKR8KvAC8pFXsfCP6SNMI/0x113:6048x3515/432x243/filters:format(jpg):quality(50)/2026/07/12/6a537af7e34e8297350311.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-ont-fait-quatre-morts-dans-la-nuit-selon-les-autorites_8105066.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-ont-fait-quatre-morts-dans-la-nuit-selon-les-autorites_8105066.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

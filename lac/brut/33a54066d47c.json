@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T13:17:20.424059+00:00",
+  "_id": "33a54066d47c",
+  "brut": {
+    "title": "Volodymyr Zelensky annonce le départ de sa Première ministre et un remaniement du gouvernement ukrainien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Volodymyr Zelensky annonce le départ de sa Première ministre et un remaniement du gouvernement ukrainien"
+    },
+    "summary": "\"Des changements interviendront également au sein de la direction des forces de l’ordre\", a déclaré le président ukrainien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Des changements interviendront également au sein de la direction des forces de l’ordre\", a déclaré le président ukrainien."
+    },
+    "published": "Sun, 12 Jul 2026 14:50:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      12,
+      50,
+      27,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-annonce-le-depart-de-sa-premiere-ministre-et-un-remaniement-du-gouvernement-ukrainien_8105111.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6Vb3Jlhd8iqqh977S8FfjuuLQJs/0x0:2981x1676/432x243/filters:format(jpg):quality(50)/2026/07/12/6a5387b11ec85865798244.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-annonce-le-depart-de-sa-premiere-ministre-et-un-remaniement-du-gouvernement-ukrainien_8105111.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-annonce-le-depart-de-sa-premiere-ministre-et-un-remaniement-du-gouvernement-ukrainien_8105111.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T13:17:20.424775+00:00",
+  "_id": "8f3c6356e041",
+  "brut": {
+    "title": "\"La Dernière Séance\" de Pan Nalin, une autofiction sensible sous forme de lettre d'amour au cinéma",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"La Dernière Séance\" de Pan Nalin, une autofiction sensible sous forme de lettre d'amour au cinéma"
+    },
+    "summary": "Pour ce récit plein de beauté, le réalisateur indien romantise une partie de son enfance dans la campagne du sud de l'Inde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour ce récit plein de beauté, le réalisateur indien romantise une partie de son enfance dans la campagne du sud de l'Inde."
+    },
+    "published": "Sun, 12 Jul 2026 14:47:13 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      12,
+      47,
+      13,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/la-derniere-seance-de-pan-nalin-une-autofiction-sensible-sous-forme-de-lettre-d-amour-au-cinema_8101148.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_CNSTBGRwi4XvssWGj0nO9DwVF4/0x0:1600x900/432x243/filters:format(jpg):quality(50)/2026/07/09/6a4f99387b25e367398456.jpeg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/la-derniere-seance-de-pan-nalin-une-autofiction-sensible-sous-forme-de-lettre-d-amour-au-cinema_8101148.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/la-derniere-seance-de-pan-nalin-une-autofiction-sensible-sous-forme-de-lettre-d-amour-au-cinema_8101148.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
