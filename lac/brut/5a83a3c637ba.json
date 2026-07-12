@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T09:50:02.175591+00:00",
+  "_id": "5a83a3c637ba",
+  "brut": {
+    "title": "Le typhon Bavi, rétrogradé en tempête tropicale, frappe la Chine de pluies torrentielles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le typhon Bavi, rétrogradé en tempête tropicale, frappe la Chine de pluies torrentielles"
+    },
+    "summary": "En anticipation, plus de 1,7 million de personnes avaient été évacuées dans la province du Zhejiang.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En anticipation, plus de 1,7 million de personnes avaient été évacuées dans la province du Zhejiang."
+    },
+    "published": "Sun, 12 Jul 2026 11:03:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      9,
+      3,
+      25,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/le-typhon-bavi-retrograde-en-tempete-tropicale-frappe-la-chine-de-pluies-torrentielles_8104895.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VmhbGCY_q0hCFMwAxSECZskswAM/0x698:4554x3259/432x243/filters:format(jpg):quality(50)/2026/07/12/6a534c5506315410708712.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/le-typhon-bavi-retrograde-en-tempete-tropicale-frappe-la-chine-de-pluies-torrentielles_8104895.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/le-typhon-bavi-retrograde-en-tempete-tropicale-frappe-la-chine-de-pluies-torrentielles_8104895.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T09:50:02.175230+00:00",
+  "_id": "56fc8add1a9f",
+  "brut": {
+    "title": "Les États-Unis frappent 140 cibles militaires en Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les États-Unis frappent 140 cibles militaires en Iran"
+    },
+    "summary": "La trêve a volé en éclats. Les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz. Dans la nuit, Téhéran a annoncé la fermeture \"jusqu'à nouvel ordre\" du détroit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La trêve a volé en éclats. Les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz. Dans la nuit, Téhéran a annoncé la fermeture \"jusqu'à nouvel ordre\" du détroit."
+    },
+    "published": "Sun, 12 Jul 2026 11:10:50 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      9,
+      10,
+      50,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/les-etats-unis-frappent-140-cibles-militaires-en-iran_8104958.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dZOXchUs3l8uwyUGqet0JAFlUQU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/12/6a5359ebcb5a3667028387.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/les-etats-unis-frappent-140-cibles-militaires-en-iran_8104958.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/les-etats-unis-frappent-140-cibles-militaires-en-iran_8104958.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

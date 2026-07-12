@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T09:50:02.175427+00:00",
+  "_id": "dc1aff33ba76",
+  "brut": {
+    "title": "La Corée du Sud émet une alerte maximale inédite pour fortes chaleurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Corée du Sud émet une alerte maximale inédite pour fortes chaleurs"
+    },
+    "summary": "Ce nouveau palier a été créé cette année en prévision d'événements extrêmes liés au changement climatique, en raison d'une vague de très fortes chaleurs dans le Sud-Est.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce nouveau palier a été créé cette année en prévision d'événements extrêmes liés au changement climatique, en raison d'une vague de très fortes chaleurs dans le Sud-Est."
+    },
+    "published": "Sun, 12 Jul 2026 10:57:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      8,
+      57,
+      36,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/coree-du-sud/la-coree-du-sud-emet-une-alerte-maximale-inedite-pour-fortes-chaleurs_8104718.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/39kgVUAedwJitc2xeepY8RW8Zgk/0x0:5325x2995/432x243/filters:format(jpg):quality(50)/2026/07/12/6a5351d45eaa7885772791.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/coree-du-sud/la-coree-du-sud-emet-une-alerte-maximale-inedite-pour-fortes-chaleurs_8104718.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/coree-du-sud/la-coree-du-sud-emet-une-alerte-maximale-inedite-pour-fortes-chaleurs_8104718.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

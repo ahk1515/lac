@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T09:50:02.175742+00:00",
+  "_id": "857729ede077",
+  "brut": {
+    "title": "En Turquie, une série Netflix relance l'intérêt autour du Musée de l'Innocence",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Turquie, une série Netflix relance l'intérêt autour du Musée de l'Innocence"
+    },
+    "summary": "\"Le Musée de l'Innocence\" est à la base un roman du prix Nobel de littérature Orhan Pamuk. Quelques années après sa parution, un véritable musée éponyme a ouvert à Istanbul... dont l'affluence connaît un regain depuis l'adaptation du livre en série sur Netflix.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Le Musée de l'Innocence\" est à la base un roman du prix Nobel de littérature Orhan Pamuk. Quelques années après sa parution, un véritable musée éponyme a ouvert à Istanbul... dont l'affluence connaît un regain depuis l'adaptation du livre en série sur Netflix."
+    },
+    "published": "Sun, 12 Jul 2026 10:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      8,
+      0,
+      2,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/en-turquie-une-serie-netflix-relance-l-interet-autour-du-musee-de-l-innocence_8064155.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/8KxVDu3KBwaQZ97TZdumr24XOQY/296x105:1571x823/432x243/filters:format(jpg):quality(50)/2026/07/11/6a524f8750f65830253709.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/en-turquie-une-serie-netflix-relance-l-interet-autour-du-musee-de-l-innocence_8064155.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/en-turquie-une-serie-netflix-relance-l-interet-autour-du-musee-de-l-innocence_8064155.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

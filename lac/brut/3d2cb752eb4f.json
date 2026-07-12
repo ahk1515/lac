@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T09:50:01.986964+00:00",
+  "_id": "3d2cb752eb4f",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les forces armées ukrainiennes annoncent avoir frappé la raffinerie de pétrole de Syzran, dans l’oblast russe de Samara",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les forces armées ukrainiennes annoncent avoir frappé la raffinerie de pétrole de Syzran, dans l’oblast russe de Samara"
+    },
+    "published": "Sun, 12 Jul 2026 09:45:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      7,
+      45,
+      40,
+      6,
+      193,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 11:10:53 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      9,
+      10,
+      53,
+      6,
+      193,
+      0
+    ],
+    "summary": "Le gouverneur régional de l’oblast de Samara, Viatcheslav Fedorichtchev, avait précédemment fait état d’une attaque de drones ukrainiens. « Un homme a été tué », avait-il précisé, et trois personnes blessées, parmi lesquelles un enfant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouverneur régional de l’oblast de Samara, Viatcheslav Fedorichtchev, avait précédemment fait état d’une attaque de drones ukrainiens. « Un homme a été tué », avait-il précisé, et trois personnes blessées, parmi lesquelles un enfant."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-forces-armees-ukrainiennes-annoncent-avoir-frappe-la-raffinerie-de-petrole-de-syzran-dans-l-oblast-russe-de-samara_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-forces-armees-ukrainiennes-annoncent-avoir-frappe-la-raffinerie-de-petrole-de-syzran-dans-l-oblast-russe-de-samara_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-forces-armees-ukrainiennes-annoncent-avoir-frappe-la-raffinerie-de-petrole-de-syzran-dans-l-oblast-russe-de-samara_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/27/0/1280/640/644/322/60/0/7e1af86_upload-1-b3zfrxgqix6d-photo-2026-07-11-22-15-37-20260712-023049.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur cette capture d’écran d’une vidéo relayée sur Telegram, de la fumée au-dessus de la raffinerie de Szyran (Russie) après une frappe ukrainienne, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Telegram/Exilenova_plus"
+      }
+    ],
+    "credit": "Telegram/Exilenova_plus"
+  }
+}

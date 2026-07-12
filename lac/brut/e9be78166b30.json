@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T09:50:02.176047+00:00",
+  "_id": "e9be78166b30",
+  "brut": {
+    "title": "REPORTAGE. Paysage brûlé, odeur de fumée, cendres partout... Des sinistrés de l'incendie en Espagne découvrent les dégâts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. Paysage brûlé, odeur de fumée, cendres partout... Des sinistrés de l'incendie en Espagne découvrent les dégâts"
+    },
+    "summary": "Le feu qui s'est déclaré au sud du pays, en Andalousie, a parcouru 6 600 hectares et fait 12 morts. Il y a encore une vingtaine de disparus, dont une Française.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le feu qui s'est déclaré au sud du pays, en Andalousie, a parcouru 6 600 hectares et fait 12 morts. Il y a encore une vingtaine de disparus, dont une Française."
+    },
+    "published": "Sun, 12 Jul 2026 09:13:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      7,
+      13,
+      1,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/reportage-paysage-brule-odeur-de-fumee-cendres-partout-des-sinistres-de-l-incendie-en-espagne-decouvrent-les-degats_8104826.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rEUTSq1aSlrz6GplDR2QNEiG4yA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/12/6a533c2e80742462699648.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/reportage-paysage-brule-odeur-de-fumee-cendres-partout-des-sinistres-de-l-incendie-en-espagne-decouvrent-les-degats_8104826.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/reportage-paysage-brule-odeur-de-fumee-cendres-partout-des-sinistres-de-l-incendie-en-espagne-decouvrent-les-degats_8104826.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

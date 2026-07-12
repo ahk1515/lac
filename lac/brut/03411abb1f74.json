@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T09:50:01.986766+00:00",
+  "_id": "03411abb1f74",
+  "brut": {
+    "title": "« Ici, on rit. Il n’y a pas de meilleur médicament » : au Canada, le restaurant déjeuner, oasis sociale des aînés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Ici, on rit. Il n’y a pas de meilleur médicament » : au Canada, le restaurant déjeuner, oasis sociale des aînés"
+    },
+    "published": "Sun, 12 Jul 2026 11:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      9,
+      0,
+      2,
+      6,
+      193,
+      0
+    ],
+    "summary": "« Cartes vermeil ». Une fois par mois, un de nos journalistes raconte comment on vieillit hors de nos frontières. Au Canada, les restaurants déjeuner, ou « diners » en anglais, occupent une place singulière dans le paysage. Ouverts dès l’aube, ils dépassent, chez les seniors, leur fonction alimentaire pour devenir un lieu d’ancrage au quotidien…",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Cartes vermeil ». Une fois par mois, un de nos journalistes raconte comment on vieillit hors de nos frontières. Au Canada, les restaurants déjeuner, ou « diners » en anglais, occupent une place singulière dans le paysage. Ouverts dès l’aube, ils dépassent, chez les seniors, leur fonction alimentaire pour devenir un lieu d’ancrage au quotidien…"
+    },
+    "id": "https://www.lemonde.fr/intimites/article/2026/07/12/ici-on-rit-il-n-y-a-pas-de-meilleur-medicament-au-canada-le-restaurant-dejeuner-oasis-sociale-des-aines_6722887_6190330.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/intimites/article/2026/07/12/ici-on-rit-il-n-y-a-pas-de-meilleur-medicament-au-canada-le-restaurant-dejeuner-oasis-sociale-des-aines_6722887_6190330.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/intimites/article/2026/07/12/ici-on-rit-il-n-y-a-pas-de-meilleur-medicament-au-canada-le-restaurant-dejeuner-oasis-sociale-des-aines_6722887_6190330.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/23/450/0/3000/1500/644/322/60/0/cdfad11_upload-1-ceqrztwmz6il-lemonde-cartesvermeil-restaurantlapatrie-creditclaralacasse-web-6.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au restaurant La Patrie, un retraité anciennement travailleur en construction, discute avec Anne Lacasse, serveuse."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Clara Lacasse pour Le Monde"
+      }
+    ],
+    "credit": "Clara Lacasse pour Le Monde"
+  }
+}
