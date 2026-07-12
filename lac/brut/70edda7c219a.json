@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T20:44:55.070638+00:00",
+  "_id": "70edda7c219a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a annoncé le départ de la première ministre, Ioulia Svyrydenko",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a annoncé le départ de la première ministre, Ioulia Svyrydenko"
+    },
+    "published": "Sun, 12 Jul 2026 19:24:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      17,
+      24,
+      1,
+      6,
+      193,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 20:58:59 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      18,
+      58,
+      59,
+      6,
+      193,
+      0
+    ],
+    "summary": "Volodymyr Zelensky a annoncé dimanche le départ de la première ministre, Ioulia Svyrydenko, en poste depuis un an, et un remaniement du gouvernement, pour correspondre à une modification de la « stratégie politique » ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Volodymyr Zelensky a annoncé dimanche le départ de la première ministre, Ioulia Svyrydenko, en poste depuis un an, et un remaniement du gouvernement, pour correspondre à une modification de la « stratégie politique » ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-le-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-le-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-le-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/272/0/2000/1000/644/322/60/0/29cca18_ftp-1-m7spqu2wrqck-1ca8c3bc37b9442888f8dd8b7f200654-0-b8d75f9ddff1477ab23a665a98928520.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les secours sur les lieux d’une attaque aérienne russe, à Soumy (Ukraine), le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ukrainian Emergency Service via AP"
+      }
+    ],
+    "credit": "Ukrainian Emergency Service via AP"
+  }
+}

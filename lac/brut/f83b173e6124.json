@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T20:44:55.253269+00:00",
+  "_id": "f83b173e6124",
+  "brut": {
+    "title": "Menaces de mort : la riposte de Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Menaces de mort : la riposte de Donald Trump"
+    },
+    "summary": "L'actualité internationale : le régime iranien et l'ayatollah Khamenei ont-ils fait de Donald Trump une cible ? Le président américain a déjà répondu à cette menace.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'actualité internationale : le régime iranien et l'ayatollah Khamenei ont-ils fait de Donald Trump une cible ? Le président américain a déjà répondu à cette menace."
+    },
+    "published": "Sun, 12 Jul 2026 19:38:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      17,
+      38,
+      10,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/menaces-de-mort-la-riposte-de-donald-trump_8105405.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9kABHCPu4MTU8TIcPQUp9Pg9XdM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/12/6a53d0e901fd6258767928.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/menaces-de-mort-la-riposte-de-donald-trump_8105405.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/menaces-de-mort-la-riposte-de-donald-trump_8105405.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

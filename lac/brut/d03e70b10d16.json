@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-12T20:44:55.253506+00:00",
+  "_id": "d03e70b10d16",
+  "brut": {
+    "title": "Roi Charles III : Harry et Meghan de retour à Londres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Roi Charles III : Harry et Meghan de retour à Londres"
+    },
+    "summary": "Le temps des réconciliations au sein de la famille royale d'Angleterre est-il venu ? Pour la première fois depuis 2022, le Roi Charles 3 a reçu le Prince Harry, son épouse Meghan et leurs enfants dans sa résidence personnelle de Highgrove dans le sud ouest du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le temps des réconciliations au sein de la famille royale d'Angleterre est-il venu ? Pour la première fois depuis 2022, le Roi Charles 3 a reçu le Prince Harry, son épouse Meghan et leurs enfants dans sa résidence personnelle de Highgrove dans le sud ouest du pays."
+    },
+    "published": "Sun, 12 Jul 2026 19:36:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      17,
+      36,
+      40,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii-harry-et-meghan-de-retour-a-londres_8105399.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RdVCsSTbdsLzMtzfjxVWs6zlkB4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/12/6a53d00ac5ea6551113864.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii-harry-et-meghan-de-retour-a-londres_8105399.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii-harry-et-meghan-de-retour-a-londres_8105399.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

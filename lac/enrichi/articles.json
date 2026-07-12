@@ -1472,6 +1472,53 @@
     ]
   },
   {
+    "date": "Sun, 12 Jul 2026 22:33:22 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Incendie en Espagne : un système d'alerte remis en question",
+    "texte": "L'incendie en Espagne a ravagé 7000 hectares, soulevant une vive polémique sur l'absence d'alerte générale. Alors que des habitants dénoncent un manque de communication, les autorités andalouses justifient ce choix par la volonté d'éviter des \"mouvements de panique\" massifs.",
+    "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-espagne-un-systeme-d-alerte-remis-en-question_8105447.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "04bde3792f1a",
+    "pays": []
+  },
+  {
+    "date": "Sun, 12 Jul 2026 19:38:10 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Menaces de mort : la riposte de Donald Trump",
+    "texte": "L'actualité internationale : le régime iranien et l'ayatollah Khamenei ont-ils fait de Donald Trump une cible ? Le président américain a déjà répondu à cette menace.",
+    "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/menaces-de-mort-la-riposte-de-donald-trump_8105405.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "f83b173e6124",
+    "pays": [
+      "IRN",
+      "USA"
+    ]
+  },
+  {
+    "date": "Sun, 12 Jul 2026 19:36:40 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Roi Charles III : Harry et Meghan de retour à Londres",
+    "texte": "Le temps des réconciliations au sein de la famille royale d'Angleterre est-il venu ? Pour la première fois depuis 2022, le Roi Charles 3 a reçu le Prince Harry, son épouse Meghan et leurs enfants dans sa résidence personnelle de Highgrove dans le sud ouest du pays.",
+    "url": "https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii-harry-et-meghan-de-retour-a-londres_8105399.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "d03e70b10d16",
+    "pays": [
+      "GBR"
+    ]
+  },
+  {
+    "date": "Sun, 12 Jul 2026 20:38:21 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Que s'est-il passé lors de l'incendie qui a fait 12 morts et plusieurs disparus dans le sud de l'Espagne ?",
+    "texte": "L'incendie est \"stabilisé\", a annoncé le président de la région d'Andalousie dimanche. Les autorités restent prudentes quant au nombre de disparus, dont une Française.",
+    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/que-s-est-il-passe-lors-de-l-incendie-qui-a-fait-12-morts-dans-le-sud-de-l-espagne_8105144.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "a17e0712442e",
+    "pays": [
+      "FRA"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -3183,6 +3230,30 @@
     "pays": [
       "IRN",
       "USA"
+    ]
+  },
+  {
+    "date": "Sun, 12 Jul 2026 19:30:02 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Venezuela : « Les Etats-Unis vont devoir investir massivement dans le pays, ou prendre le risque de voir leur “protectorat” tomber dans le chaos »",
+    "texte": "Menaçant d’effondrement la société et l’Etat vénézuéliens, le double séisme qui a frappé le pays le 24 juin met à mal la stratégie de prédation économique des ressources menée par l’administration Trump, analyse le chercheur Thomas Posado dans une tribune au « Monde ».",
+    "url": "https://www.lemonde.fr/idees/article/2026/07/12/venezuela-les-etats-unis-vont-devoir-investir-massivement-dans-le-pays-ou-prendre-le-risque-de-voir-leur-protectorat-tomber-dans-le-chaos_6722924_3232.html",
+    "id": "9a3694086696",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Sun, 12 Jul 2026 19:24:01 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a annoncé le départ de la première ministre, Ioulia Svyrydenko",
+    "texte": "Volodymyr Zelensky a annoncé dimanche le départ de la première ministre, Ioulia Svyrydenko, en poste depuis un an, et un remaniement du gouvernement, pour correspondre à une modification de la « stratégie politique » ukrainienne.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-le-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html",
+    "id": "70edda7c219a",
+    "pays": [
+      "UKR"
     ]
   }
 ]
