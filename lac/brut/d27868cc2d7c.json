@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T02:39:54.824192+00:00",
+  "_id": "d27868cc2d7c",
+  "brut": {
+    "title": "Canicule : la Corée du Sud déclenche sa première alerte maximale pour chaleur extrême",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Canicule : la Corée du Sud déclenche sa première alerte maximale pour chaleur extrême"
+    },
+    "published": "Sun, 12 Jul 2026 04:35:49 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      2,
+      35,
+      49,
+      6,
+      193,
+      0
+    ],
+    "summary": "C’est la première fois depuis la mise en place du nouveau dispositif par Séoul que cette alerte, qui signale « un risque considérablement accru de graves problèmes de santé », est activée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "C’est la première fois depuis la mise en place du nouveau dispositif par Séoul que cette alerte, qui signale « un risque considérablement accru de graves problèmes de santé », est activée."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/12/canicule-la-coree-du-sud-declenche-sa-premiere-alerte-maximale-pour-chaleur-extreme_6722810_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/12/canicule-la-coree-du-sud-declenche-sa-premiere-alerte-maximale-pour-chaleur-extreme_6722810_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/12/canicule-la-coree-du-sud-declenche-sa-premiere-alerte-maximale-pour-chaleur-extreme_6722810_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/07/334/0/4018/2009/644/322/60/0/2433022_ftp-1-qssw6dwnjflw-1307285c0cfd4e68b812c9322c7ae5ae-0-9acc4f81990d4dcab3204d94de9f97bc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vague de chaleur à Séoul, en Corée du Sud, le 7 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ahn Young-joon/AP"
+      }
+    ],
+    "credit": "Ahn Young-joon/AP"
+  }
+}

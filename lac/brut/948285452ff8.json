@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T02:39:54.824388+00:00",
+  "_id": "948285452ff8",
+  "brut": {
+    "title": "Canada : une fusillade à Toronto fait deux morts et plusieurs blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Canada : une fusillade à Toronto fait deux morts et plusieurs blessés"
+    },
+    "published": "Sun, 12 Jul 2026 04:23:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      2,
+      23,
+      19,
+      6,
+      193,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 04:35:17 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      2,
+      35,
+      17,
+      6,
+      193,
+      0
+    ],
+    "summary": "L’attaque a eu lieu samedi dans une zone où se déroule un festival de rue dédié à la salsa. L’auteur des tirs est toujours en fuite, selon la police.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’attaque a eu lieu samedi dans une zone où se déroule un festival de rue dédié à la salsa. L’auteur des tirs est toujours en fuite, selon la police."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/12/canada-une-fusillade-a-toronto-fait-deux-morts-et-plusieurs-blesses_6722809_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/12/canada-une-fusillade-a-toronto-fait-deux-morts-et-plusieurs-blesses_6722809_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/12/canada-une-fusillade-a-toronto-fait-deux-morts-et-plusieurs-blesses_6722809_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/1187/0/5500/2750/644/322/60/0/f041f69_ftp-1-h4bmrmiwnkn2-2026-07-12t020146z-799802196-rc21cmacz2eq-rtrmadp-3-canada-toronto-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un véhicule de police se fraye un chemin après une fusillade mortelle à Toronto, au Canada, le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Cole Burston/REUTERS"
+      }
+    ],
+    "credit": "Cole Burston/REUTERS"
+  }
+}

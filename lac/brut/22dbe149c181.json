@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T02:39:54.824687+00:00",
+  "_id": "22dbe149c181",
+  "brut": {
+    "title": "Une nouvelle vague de chaleur extrême aux Etats-Unis place 44 millions d’Américains sous alerte canicule",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une nouvelle vague de chaleur extrême aux Etats-Unis place 44 millions d’Américains sous alerte canicule"
+    },
+    "published": "Sat, 11 Jul 2026 23:37:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      11,
+      21,
+      37,
+      15,
+      5,
+      192,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 03:03:59 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      1,
+      3,
+      59,
+      6,
+      193,
+      0
+    ],
+    "summary": "Les températures très supérieures aux normales saisonnières sur les Rocheuses, les plaines du Nord et le Sud-Est vont ensuite s’étendre sur l’ouest et le centre du pays, menaçant d’entraver la lutte contre les incendies.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les températures très supérieures aux normales saisonnières sur les Rocheuses, les plaines du Nord et le Sud-Est vont ensuite s’étendre sur l’ouest et le centre du pays, menaçant d’entraver la lutte contre les incendies."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/11/une-nouvelle-vague-de-chaleur-extreme-aux-etats-unis-place-44-millions-d-americains-sous-alerte-canicule_6722740_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/11/une-nouvelle-vague-de-chaleur-extreme-aux-etats-unis-place-44-millions-d-americains-sous-alerte-canicule_6722740_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/11/une-nouvelle-vague-de-chaleur-extreme-aux-etats-unis-place-44-millions-d-americains-sous-alerte-canicule_6722740_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/04/380/0/3982/1991/644/322/60/0/0181c9b_ftp-1-lc3whqiva4mg-2026-07-04t221931z-1760359564-rc287maapyw2-rtrmadp-3-usa-250.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la Grande Foire américaine, sur le National Mall, à Washington, le 4 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Cheney Orr/REUTERS"
+      }
+    ],
+    "credit": "Cheney Orr/REUTERS"
+  }
+}
