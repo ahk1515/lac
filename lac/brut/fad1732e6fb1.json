@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T06:31:57.367387+00:00",
+  "_id": "fad1732e6fb1",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Sun, 12 Jul 2026 05:29:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      3,
+      29,
+      51,
+      6,
+      193,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 07:03:02 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      5,
+      3,
+      2,
+      6,
+      193,
+      0
+    ],
+    "summary": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés. Ailleurs dans le pays, des frappes russes ont tué cinq personnes à Soumy, dans le Nord-Est, et deux dans la région d’Odessa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés. Ailleurs dans le pays, des frappes russes ont tué cinq personnes à Soumy, dans le Nord-Est, et deux dans la région d’Odessa."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-dernieres-informations_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-dernieres-informations_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-dernieres-informations_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/171/0/1600/800/644/322/60/0/ef17894_ftp-1-uaggttwhpmhq-2026-07-11t153716z-565892437-rc2rbmajeoac-rtrmadp-3-ukraine-crisis-attack-sumy.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers interviennent sur le site d’une frappe aérienne russe, à Soumy, en Ukraine. Photo diffusée le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service de presse du Service national des situations d’urgence d’Ukraine dans la région de Soumy/REUTERS."
+      }
+    ],
+    "credit": "Service de presse du Service national des situations d’urgence d’Ukraine dans la région de Soumy/REUTERS."
+  }
+}

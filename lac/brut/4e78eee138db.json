@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T06:31:57.367017+00:00",
+  "_id": "4e78eee138db",
+  "brut": {
+    "title": "En 1976, les soldats perdus de l’extrême droite française au Liban",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En 1976, les soldats perdus de l’extrême droite française au Liban"
+    },
+    "published": "Sun, 12 Jul 2026 06:00:29 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      4,
+      0,
+      29,
+      6,
+      193,
+      0
+    ],
+    "summary": "Sans expérience militaire, plusieurs jeunes militants français de la droite radicale en manque d’aventure sont partis prendre les armes aux côtés des phalangistes chrétiens pendant la guerre civile. Un épisode devenu mythique dans leur camp politique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sans expérience militaire, plusieurs jeunes militants français de la droite radicale en manque d’aventure sont partis prendre les armes aux côtés des phalangistes chrétiens pendant la guerre civile. Un épisode devenu mythique dans leur camp politique."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/07/12/en-1976-les-soldats-perdus-de-l-extreme-droite-francaise-au-liban_6722861_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/12/en-1976-les-soldats-perdus-de-l-extreme-droite-francaise-au-liban_6722861_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/07/12/en-1976-les-soldats-perdus-de-l-extreme-droite-francaise-au-liban_6722861_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/07/189/0/1500/750/644/322/60/0/b132c8d_ftp-1-ua1xqvygmcvj-434956-3488531.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des combattants français au Liban pendant la guerre civile."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Courtesy Wassim Jabre"
+      }
+    ],
+    "credit": "Courtesy Wassim Jabre"
+  }
+}

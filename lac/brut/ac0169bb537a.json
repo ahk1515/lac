@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T06:31:57.366868+00:00",
+  "_id": "ac0169bb537a",
+  "brut": {
+    "title": "A l’étroit sur l’île Maurice, Arnaud Lagesse, patron du conglomérat IBL, veut profiter de la consommation galopante en Afrique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A l’étroit sur l’île Maurice, Arnaud Lagesse, patron du conglomérat IBL, veut profiter de la consommation galopante en Afrique"
+    },
+    "published": "Sun, 12 Jul 2026 06:00:55 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      4,
+      0,
+      55,
+      6,
+      193,
+      0
+    ],
+    "summary": "Héritier d’une des « grandes familles » mauriciennes d’origine française, le dirigeant a fait doubler de taille son conglomérat, aux 256 filiales, en trois ans. Son pari : sortir de la tranquille République de Maurice pour étendre son empire sur le continent africain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Héritier d’une des « grandes familles » mauriciennes d’origine française, le dirigeant a fait doubler de taille son conglomérat, aux 256 filiales, en trois ans. Son pari : sortir de la tranquille République de Maurice pour étendre son empire sur le continent africain."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/12/a-l-etroit-sur-l-ile-maurice-arnaud-lagesse-patron-du-conglomerat-ibl-veut-profiter-de-la-consommation-galopante-en-afrique_6722866_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/12/a-l-etroit-sur-l-ile-maurice-arnaud-lagesse-patron-du-conglomerat-ibl-veut-profiter-de-la-consommation-galopante-en-afrique_6722866_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/12/a-l-etroit-sur-l-ile-maurice-arnaud-lagesse-patron-du-conglomerat-ibl-veut-profiter-de-la-consommation-galopante-en-afrique_6722866_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/168/0/3543/1771/644/322/60/0/f9f1d3d_upload-1-gsjta0kq9u2g-monde-serie-fortunesafricaines-1-300dpifond-retouche.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anne-Gaëlle Amiot"
+      }
+    ],
+    "credit": "Anne-Gaëlle Amiot"
+  }
+}
