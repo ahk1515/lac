@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T16:57:29.451558+00:00",
+  "_id": "5e276f5e4cd1",
+  "brut": {
+    "title": "Gaza : quatre personnes ont été tuées dans un bombardement israélien, selon la défense civile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : quatre personnes ont été tuées dans un bombardement israélien, selon la défense civile"
+    },
+    "published": "Sun, 12 Jul 2026 17:22:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      15,
+      22,
+      45,
+      6,
+      193,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 17:35:08 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      15,
+      35,
+      8,
+      6,
+      193,
+      0
+    ],
+    "summary": "L’armée israélienne a affirmé qu’elle visait une « infrastructure terroriste » après avoir tiré sur un atelier de métallurgie situé dans un quartier du sud de la ville de Gaza, sans apporter plus d’éléments.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée israélienne a affirmé qu’elle visait une « infrastructure terroriste » après avoir tiré sur un atelier de métallurgie situé dans un quartier du sud de la ville de Gaza, sans apporter plus d’éléments."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/07/12/gaza-quatre-personnes-ont-ete-tuees-dans-un-bombardement-israelien-selon-la-defense-civile_6722913_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/07/12/gaza-quatre-personnes-ont-ete-tuees-dans-un-bombardement-israelien-selon-la-defense-civile_6722913_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/07/12/gaza-quatre-personnes-ont-ete-tuees-dans-un-bombardement-israelien-selon-la-defense-civile_6722913_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/477/0/5900/2950/644/322/60/0/197b136_ftp-1-xabmbhqok7ot-2026-07-12t142736z-1522306982-rc2ecmau5szd-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "De la fumée après un bombardement israélien sur une fonderie, dans le sud de la ville de Gaza, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dawoud Abu Alkas/REUTERS"
+      }
+    ],
+    "credit": "Dawoud Abu Alkas/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-12T16:57:29.451795+00:00",
+  "_id": "f37e3a775961",
+  "brut": {
+    "title": "En Jamaïque, levée de boucliers contre l’accueil de ressortissants de pays tiers expulsés des Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Jamaïque, levée de boucliers contre l’accueil de ressortissants de pays tiers expulsés des Etats-Unis"
+    },
+    "published": "Sun, 12 Jul 2026 17:00:00 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      15,
+      0,
+      0,
+      6,
+      193,
+      0
+    ],
+    "updated": "Sun, 12 Jul 2026 17:05:22 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      12,
+      15,
+      5,
+      22,
+      6,
+      193,
+      0
+    ],
+    "summary": "Un accord conclu entre Washington et Kingston, dont les termes n’ont pas été publiés, prévoit d’envoyer sur l’île caribéenne plusieurs dizaines d’étrangers par mois. ONG et Eglises se mobilisent contre ce procédé, déjà adopté par une trentaine de pays à travers le monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un accord conclu entre Washington et Kingston, dont les termes n’ont pas été publiés, prévoit d’envoyer sur l’île caribéenne plusieurs dizaines d’étrangers par mois. ONG et Eglises se mobilisent contre ce procédé, déjà adopté par une trentaine de pays à travers le monde."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/12/en-jamaique-levee-de-boucliers-contre-l-accueil-de-ressortissants-de-pays-tiers-expulses-des-etats-unis_6722910_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/12/en-jamaique-levee-de-boucliers-contre-l-accueil-de-ressortissants-de-pays-tiers-expulses-des-etats-unis_6722910_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/12/en-jamaique-levee-de-boucliers-contre-l-accueil-de-ressortissants-de-pays-tiers-expulses-des-etats-unis_6722910_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/17/140/0/5259/2629/644/322/60/0/685a5d9_ftp-1-cbnsap1clrng-1bb23da1becc40f59c94e52710e31db2-0-e218b20ae562453eafb6fb33d15799b7.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Marco Rubio, secrétaire d’Etat américain et Andrew Holness, premier ministre jamaïcain, à Kingston, le 26 mars 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nathan Howard/Reuters via AP"
+      }
+    ],
+    "credit": "Nathan Howard/Reuters via AP"
+  }
+}
