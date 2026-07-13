@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T17:53:52.728336+00:00",
+  "_id": "e8a6beb56a77",
+  "brut": {
+    "title": "A Genève, l’argent prospère à l’abri des regards indiscrets",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Genève, l’argent prospère à l’abri des regards indiscrets"
+    },
+    "published": "Mon, 13 Jul 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      15,
+      0,
+      2,
+      0,
+      194,
+      0
+    ],
+    "summary": "La ville de Jean Calvin et de la Réforme est devenue le refuge des grandes fortunes d’hier et d’aujourd’hui et l’une des plus grandes places financières offshore du monde. Si les grandes familles protestantes ont su faire fructifier l’argent des autres, ce sont désormais les tradeurs qui ont une influence croissante.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La ville de Jean Calvin et de la Réforme est devenue le refuge des grandes fortunes d’hier et d’aujourd’hui et l’une des plus grandes places financières offshore du monde. Si les grandes familles protestantes ont su faire fructifier l’argent des autres, ce sont désormais les tradeurs qui ont une influence croissante."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/a-geneve-l-argent-prospere-a-l-abri-des-regards-indiscrets_6723101_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/a-geneve-l-argent-prospere-a-l-abri-des-regards-indiscrets_6723101_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/a-geneve-l-argent-prospere-a-l-abri-des-regards-indiscrets_6723101_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/90/0/1600/800/644/322/60/0/ae6709e_upload-1-voxbgfdao9dl-lux-ip3viso24082991-preview.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’horloger Rolex ne publie aucun résultat. On suppose que son chiffre d’affaires a atteint les 10 milliards de francs suisses en 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vincent Isore/IP3"
+      }
+    ],
+    "credit": "Vincent Isore/IP3"
+  }
+}

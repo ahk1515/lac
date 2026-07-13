@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T17:53:52.728155+00:00",
+  "_id": "a6e4219d9a3b",
+  "brut": {
+    "title": "Incendie en Andalousie : quatre Britanniques et une Française parmi les victimes ; le feu est désormais stabilisé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie en Andalousie : quatre Britanniques et une Française parmi les victimes ; le feu est désormais stabilisé"
+    },
+    "published": "Mon, 13 Jul 2026 17:29:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      15,
+      29,
+      18,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 17:54:54 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      15,
+      54,
+      54,
+      0,
+      194,
+      0
+    ],
+    "summary": "Annoncée dimanche par les autorités, la maîtrise du sinistre a permis le retour progressif de centaines d’habitants évacués, certains ayant pu regagner leur domicile dès la nuit de samedi à dimanche. Le bilan des victimes pourrait encore évoluer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Annoncée dimanche par les autorités, la maîtrise du sinistre a permis le retour progressif de centaines d’habitants évacués, certains ayant pu regagner leur domicile dès la nuit de samedi à dimanche. Le bilan des victimes pourrait encore évoluer."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-quatre-britanniques-et-une-francaise-parmi-les-victimes-le-feu-est-desormais-stabilise_6723031_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-quatre-britanniques-et-une-francaise-parmi-les-victimes-le-feu-est-desormais-stabilise_6723031_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-quatre-britanniques-et-une-francaise-parmi-les-victimes-le-feu-est-desormais-stabilise_6723031_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/478/0/5736/2868/644/322/60/0/59b85aa_ftp-1-z5habux7yckn-5602838-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un feu de forêt a ravagé une partie du hameau d’Almocaizar, dans la province d’Almeria, en Espagne, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOSÉ JORDAN/AFP"
+      }
+    ],
+    "credit": "JOSÉ JORDAN/AFP"
+  }
+}

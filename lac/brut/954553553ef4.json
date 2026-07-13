@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T17:53:53.343045+00:00",
+  "_id": "954553553ef4",
+  "brut": {
+    "title": "Procida, l'île enchantée du golfe de Naples",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Procida, l'île enchantée du golfe de Naples"
+    },
+    "summary": "Petite île volcanique du golfe de Naples, Procida séduit par ses façades colorées, son authenticité et ses traditions préservées. Entre patrimoine, pêche et gastronomie, ses habitants perpétuent un art de vivre qui fait tout le charme de ce joyau méditerranéen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Petite île volcanique du golfe de Naples, Procida séduit par ses façades colorées, son authenticité et ses traditions préservées. Entre patrimoine, pêche et gastronomie, ses habitants perpétuent un art de vivre qui fait tout le charme de ce joyau méditerranéen."
+    },
+    "published": "Mon, 13 Jul 2026 18:07:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      16,
+      7,
+      21,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/procida-l-ile-enchantee-du-golfe-de-naples_8106422.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GZHmQ98aPPs-5dkb5M449zSufTo/0x20:1460x842/432x243/filters:format(jpg):quality(50)/2026/07/13/6a5507c98dbbc200896225.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/procida-l-ile-enchantee-du-golfe-de-naples_8106422.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/procida-l-ile-enchantee-du-golfe-de-naples_8106422.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T17:53:52.727351+00:00",
+  "_id": "9c1ef40e83a3",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme vouloir instaurer une taxe de 20 % sur le fret maritime dans le détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme vouloir instaurer une taxe de 20 % sur le fret maritime dans le détroit d’Ormuz"
+    },
+    "published": "Mon, 13 Jul 2026 19:11:31 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      17,
+      11,
+      31,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 19:49:56 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      17,
+      49,
+      56,
+      0,
+      194,
+      0
+    ],
+    "summary": "Le président américain a également déclaré rétablir le blocus naval des ports iraniens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain a également déclaré rétablir le blocus naval des ports iraniens."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-au-moyen-orient-donald-trump-affirme-vouloir-instaurer-une-taxe-de-20-sur-le-fret-maritime-dans-le-detroit-d-ormuz_6722873_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-au-moyen-orient-donald-trump-affirme-vouloir-instaurer-une-taxe-de-20-sur-le-fret-maritime-dans-le-detroit-d-ormuz_6722873_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-au-moyen-orient-donald-trump-affirme-vouloir-instaurer-une-taxe-de-20-sur-le-fret-maritime-dans-le-detroit-d-ormuz_6722873_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/500/0/6000/3000/644/322/60/0/8195c29_ftp-1-uz6myjshoo1o-ec48a42f3f85489ab27a8b28a0f15d66-1-5a149cfa30084bb7ae22fd0238ab7bc3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "De la fumée s’échappe du port iranien de Bandar-e Abbas, le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Razieh Poudat / Iranian Students News Agency via AP"
+      }
+    ],
+    "credit": "Razieh Poudat / Iranian Students News Agency via AP"
+  }
+}
