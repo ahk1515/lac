@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T02:41:24.614267+00:00",
+  "_id": "289a35cbe7e1",
+  "brut": {
+    "title": "Le bilan de l'incendie en Andalousie passe à 13 morts, après le décès d'une Britannique de 93 ans à l'hôpital",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le bilan de l'incendie en Andalousie passe à 13 morts, après le décès d'une Britannique de 93 ans à l'hôpital"
+    },
+    "summary": "La victime de l'incendie a été admise à l'hôpital vendredi avec \"des brûlures sur 20 % de la surface corporelle\". Une Française fait toujours partie des disparus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La victime de l'incendie a été admise à l'hôpital vendredi avec \"des brûlures sur 20 % de la surface corporelle\". Une Française fait toujours partie des disparus."
+    },
+    "published": "Sun, 12 Jul 2026 22:49:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      20,
+      49,
+      2,
+      6,
+      193,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/le-bilan-de-l-incendie-en-andalousie-passe-a-13-morts-apres-le-deces-d-une-britannique-de-93-ans-a-l-hopital_8105516.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hYkUkFcYwtbW1kcYVpjXt6krm6Q/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/12/6a53fe31c864b669645403.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/le-bilan-de-l-incendie-en-andalousie-passe-a-13-morts-apres-le-deces-d-une-britannique-de-93-ans-a-l-hopital_8105516.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/le-bilan-de-l-incendie-en-andalousie-passe-a-13-morts-apres-le-deces-d-une-britannique-de-93-ans-a-l-hopital_8105516.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

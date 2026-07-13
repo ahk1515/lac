@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T02:41:24.369949+00:00",
+  "_id": "2a7321e6b968",
+  "brut": {
+    "title": "Le Royaume-Uni débloque 250 millions de livres pour protéger la communauté juive après une série d’attaques antisémites",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Royaume-Uni débloque 250 millions de livres pour protéger la communauté juive après une série d’attaques antisémites"
+    },
+    "published": "Mon, 13 Jul 2026 03:02:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      1,
+      2,
+      51,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 03:15:49 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      1,
+      15,
+      49,
+      0,
+      194,
+      0
+    ],
+    "summary": "D’une durée de trois ans, le plan prévoit notamment un renforcement de la présence policière autour des synagogues et des écoles juives, en particulier à Londres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "D’une durée de trois ans, le plan prévoit notamment un renforcement de la présence policière autour des synagogues et des écoles juives, en particulier à Londres."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/le-royaume-uni-debloque-250-millions-de-livres-pour-proteger-la-communaute-juive-apres-une-serie-d-attaques-antisemites_6722964_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/le-royaume-uni-debloque-250-millions-de-livres-pour-proteger-la-communaute-juive-apres-une-serie-d-attaques-antisemites_6722964_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/le-royaume-uni-debloque-250-millions-de-livres-pour-proteger-la-communaute-juive-apres-une-serie-d-attaques-antisemites_6722964_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/04/30/366/0/5000/2500/644/322/60/0/aa64eab_ftp-1-zjasnbdkwyim-5909706-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des participants à un rassemblement organisé devant Downing Street, à Londres, le 30 avril 2026, après l’agression au couteau de deux hommes juifs, la veille, dans le quartier de Golders Green, au nord-ouest de la capitale."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CARLOS JASSO/AFP"
+      }
+    ],
+    "credit": "CARLOS JASSO/AFP"
+  }
+}

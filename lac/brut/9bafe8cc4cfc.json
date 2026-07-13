@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T02:41:24.370205+00:00",
+  "_id": "9bafe8cc4cfc",
+  "brut": {
+    "title": "« Merci, chère Hongrie, d’avoir prouvé que tout est toujours possible, même dans les pays où tout semble barricadé »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Merci, chère Hongrie, d’avoir prouvé que tout est toujours possible, même dans les pays où tout semble barricadé »"
+    },
+    "published": "Mon, 13 Jul 2026 03:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      1,
+      0,
+      1,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 03:18:08 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      1,
+      18,
+      8,
+      0,
+      194,
+      0
+    ],
+    "summary": "Jean-Baptiste Chastand, correspondant du « Monde » en Europe centrale, a choisi d’adresser sa dernière « Lettre de » à ce pays « hostile et surprenant » qu’il a couvert pendant plus de dix ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Jean-Baptiste Chastand, correspondant du « Monde » en Europe centrale, a choisi d’adresser sa dernière « Lettre de » à ce pays « hostile et surprenant » qu’il a couvert pendant plus de dix ans."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/merci-chere-hongrie-d-avoir-prouve-que-tout-est-toujours-possible-meme-dans-les-pays-ou-tout-semble-barricade_6722963_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/merci-chere-hongrie-d-avoir-prouve-que-tout-est-toujours-possible-meme-dans-les-pays-ou-tout-semble-barricade_6722963_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/merci-chere-hongrie-d-avoir-prouve-que-tout-est-toujours-possible-meme-dans-les-pays-ou-tout-semble-barricade_6722963_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/04/12/227/0/4000/2000/644/322/60/0/ca3f557_ftp-1-bdzqby4rsttp-7ff5295e6b4342188037076ad01d97db-0-24a67f843e9d40f58fd1322214819d6e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans les rues de Budapest, après l’annonce des résultats des élections législatives hongroises, le 12 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Denes Erdos/AP"
+      }
+    ],
+    "credit": "Denes Erdos/AP"
+  }
+}

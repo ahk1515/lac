@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T02:41:24.370388+00:00",
+  "_id": "e44f9e2950ba",
+  "brut": {
+    "title": "En Thaïlande, au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Thaïlande, au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok"
+    },
+    "published": "Mon, 13 Jul 2026 01:59:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      12,
+      23,
+      59,
+      33,
+      6,
+      193,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 02:53:48 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      0,
+      53,
+      48,
+      0,
+      194,
+      0
+    ],
+    "summary": "« La fumée a probablement été la cause principale des décès », a estimé le gouverneur de Bangkok, Chadchart Sittipunt, lors d’un point presse. Les autorités thaïlandaises ont ouvert une enquête pour déterminer les circonstances du drame.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La fumée a probablement été la cause principale des décès », a estimé le gouverneur de Bangkok, Chadchart Sittipunt, lors d’un point presse. Les autorités thaïlandaises ont ouvert une enquête pour déterminer les circonstances du drame."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/en-thailande-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-bangkok_6722962_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/en-thailande-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-bangkok_6722962_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/en-thailande-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-bangkok_6722962_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/1114/0/7237/3618/644/322/60/0/ceff6af_ftp-1-4h2z6ns3desl-5606732-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La police monte la garde après qu’un important incendie meurtrier a ravagé un bar dans la périphérie de Bangkok, en Thaïlande, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CHANAKARN LAOSARAKHAM/AFP"
+      }
+    ],
+    "credit": "CHANAKARN LAOSARAKHAM/AFP"
+  }
+}
