@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T06:52:11.268389+00:00",
+  "_id": "f2d060d40feb",
+  "brut": {
+    "title": "Emmanuel Macron et les armées, dix ans de relations entre défiance, espoirs, et non-dits",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Macron et les armées, dix ans de relations entre défiance, espoirs, et non-dits"
+    },
+    "published": "Mon, 13 Jul 2026 05:38:22 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      3,
+      38,
+      22,
+      0,
+      194,
+      0
+    ],
+    "summary": "Le chef de l’Etat doit prononcer son dernier discours aux armées, lundi, alors que ses deux mandats auront été marqués par une hausse spectaculaire du budget de la défense et un basculement stratégique majeur face aux nouvelles menaces.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef de l’Etat doit prononcer son dernier discours aux armées, lundi, alors que ses deux mandats auront été marqués par une hausse spectaculaire du budget de la défense et un basculement stratégique majeur face aux nouvelles menaces."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/504/0/6048/3024/644/322/60/0/41eb1da_upload-1-ugm1luniiij7-000-92td8nv-1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron sur la base militaire d’Istres (Bouches-du-Rhône), lors de la revue des troupes, pour les vœux à l’armée, le 15 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILIPPE MAGONI/AFP"
+      }
+    ],
+    "credit": "PHILIPPE MAGONI/AFP"
+  }
+}

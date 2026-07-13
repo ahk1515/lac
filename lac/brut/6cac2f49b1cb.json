@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T06:52:11.268565+00:00",
+  "_id": "6cac2f49b1cb",
+  "brut": {
+    "title": "Incendie en Andalousie : la mort d’une Britannique à l’hôpital porte à treize le nombre de victimes, le feu est désormais stabilisé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie en Andalousie : la mort d’une Britannique à l’hôpital porte à treize le nombre de victimes, le feu est désormais stabilisé"
+    },
+    "published": "Mon, 13 Jul 2026 05:24:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      3,
+      24,
+      19,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 07:47:16 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      5,
+      47,
+      16,
+      0,
+      194,
+      0
+    ],
+    "summary": "Annoncée dimanche par les autorités, la maîtrise du sinistre a permis le retour progressif de centaines d’habitants évacués, certains ayant pu regagner leur domicile dès la nuit de samedi à dimanche. Le bilan des victimes pourrait encore évoluer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Annoncée dimanche par les autorités, la maîtrise du sinistre a permis le retour progressif de centaines d’habitants évacués, certains ayant pu regagner leur domicile dès la nuit de samedi à dimanche. Le bilan des victimes pourrait encore évoluer."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-la-mort-d-une-britannique-a-l-hopital-porte-a-13-le-nombre-de-victimes-le-feu-est-desormais-stabilise_6723031_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-la-mort-d-une-britannique-a-l-hopital-porte-a-13-le-nombre-de-victimes-le-feu-est-desormais-stabilise_6723031_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-la-mort-d-une-britannique-a-l-hopital-porte-a-13-le-nombre-de-victimes-le-feu-est-desormais-stabilise_6723031_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/478/0/5736/2868/644/322/60/0/59b85aa_ftp-1-z5habux7yckn-5602838-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un feu de forêt a ravagé une partie du hameau d’Almocaizar, dans la province d’Almeria, en Espagne, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOSÉ JORDAN/AFP"
+      }
+    ],
+    "credit": "JOSÉ JORDAN/AFP"
+  }
+}

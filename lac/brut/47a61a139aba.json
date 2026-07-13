@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T06:52:11.268200+00:00",
+  "_id": "47a61a139aba",
+  "brut": {
+    "title": "Jean Bédel Bokassa, empereur déchu, dictateur en son château",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Jean Bédel Bokassa, empereur déchu, dictateur en son château"
+    },
+    "published": "Mon, 13 Jul 2026 06:00:24 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      4,
+      0,
+      24,
+      0,
+      194,
+      0
+    ],
+    "summary": "« Chefs d’Etat africains en exil » (1/6). L’ancien dirigeant centrafricain, parvenu au pouvoir en 1966, lors d’un putsch, est renversé treize ans plus tard avec l’aide de la France. Il finit par s’y réfugier, dans une demeure majestueuse des Yvelines, où il règne sur ses proches.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Chefs d’Etat africains en exil » (1/6). L’ancien dirigeant centrafricain, parvenu au pouvoir en 1966, lors d’un putsch, est renversé treize ans plus tard avec l’aide de la France. Il finit par s’y réfugier, dans une demeure majestueuse des Yvelines, où il règne sur ses proches."
+    },
+    "id": "https://www.lemonde.fr/series-d-ete/article/2026/07/13/jean-bedel-bokassa-empereur-dechu-dictateur-en-son-chateau_6723038_3451060.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/13/jean-bedel-bokassa-empereur-dechu-dictateur-en-son-chateau_6723038_3451060.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/series-d-ete/article/2026/07/13/jean-bedel-bokassa-empereur-dechu-dictateur-en-son-chateau_6723038_3451060.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/06/1510/0/3150/1575/644/322/60/0/1a140b2_upload-1-mmlaeeaeom7w-auindo-se-riede-te-1-bokassa-modif.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGIO AQUINDO"
+      }
+    ],
+    "credit": "SERGIO AQUINDO"
+  }
+}

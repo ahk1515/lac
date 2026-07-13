@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T06:52:11.705498+00:00",
+  "_id": "8ea7b197c578",
+  "brut": {
+    "title": "En Russie, des attaques de drones ukrainiens font trois morts et cinq blessés dans la région de Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Russie, des attaques de drones ukrainiens font trois morts et cinq blessés dans la région de Moscou"
+    },
+    "summary": "L'Ukraine a intensifié ses attaques de drones ces dernières semaines, et la capitale russe n'est pas épargnée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Ukraine a intensifié ses attaques de drones ces dernières semaines, et la capitale russe n'est pas épargnée."
+    },
+    "published": "Mon, 13 Jul 2026 07:05:57 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      5,
+      5,
+      57,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-des-attaques-de-drones-ukrainiens-font-trois-morts-et-cinq-blesses-dans-la-region-de-moscou_8105705.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Zlg-H2Z8hrU1xrlSvrAjdWMWa0k/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/07/13/6a546ef7a3b09562913515.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-des-attaques-de-drones-ukrainiens-font-trois-morts-et-cinq-blesses-dans-la-region-de-moscou_8105705.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-des-attaques-de-drones-ukrainiens-font-trois-morts-et-cinq-blesses-dans-la-region-de-moscou_8105705.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

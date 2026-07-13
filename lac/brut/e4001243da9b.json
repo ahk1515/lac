@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T06:52:11.705095+00:00",
+  "_id": "e4001243da9b",
+  "brut": {
+    "title": "J.D. Vance (1/5) : le \"péquenaud\" de l'Ohio",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "J.D. Vance (1/5) : le \"péquenaud\" de l'Ohio"
+    },
+    "summary": "Il est l'exemple même de la réussite à l'américaine. Issu d'une famille modeste de l'Ohio, J.D. grandit dans l'Amérique des déshérités, touchée par le déclin industriel et la pauvreté, qui se sent méprisée par les élites. Il va faire de cet héritage une force, pour devenir, à seulement 40 ans, vice-président des États-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il est l'exemple même de la réussite à l'américaine. Issu d'une famille modeste de l'Ohio, J.D. grandit dans l'Amérique des déshérités, touchée par le déclin industriel et la pauvreté, qui se sent méprisée par les élites. Il va faire de cet héritage une force, pour devenir, à seulement 40 ans, vice-président des États-Unis."
+    },
+    "published": "Mon, 13 Jul 2026 07:10:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      5,
+      10,
+      3,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/j-d-vance-1-5-le-pequenaud-de-l-ohio_8088392.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UVi6mQsdf8Eb8ilWOxG6ktbasB0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/06/6a4b85a991565995373642.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/j-d-vance-1-5-le-pequenaud-de-l-ohio_8088392.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/j-d-vance-1-5-le-pequenaud-de-l-ohio_8088392.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

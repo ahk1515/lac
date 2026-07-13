@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T06:52:11.266314+00:00",
+  "_id": "abe39f1943e6",
+  "brut": {
+    "title": "Au Maroc, le journaliste Ali Lmrabet interpellé pour « diffusion de fausses informations »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Maroc, le journaliste Ali Lmrabet interpellé pour « diffusion de fausses informations »"
+    },
+    "published": "Mon, 13 Jul 2026 07:51:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      5,
+      51,
+      35,
+      0,
+      194,
+      0
+    ],
+    "summary": "Figure de la presse indépendante marocaine, exilé à l’étranger depuis plusieurs années, le Franco-Marocain avait été interdit d’exercer le journalisme au Maroc entre avril 2005 et avril 2015, à la suite de déclarations sur les Sahraouis des camps de Tindouf. Il a déjà fait de la prison en 2003 pour « outrage au roi ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Figure de la presse indépendante marocaine, exilé à l’étranger depuis plusieurs années, le Franco-Marocain avait été interdit d’exercer le journalisme au Maroc entre avril 2005 et avril 2015, à la suite de déclarations sur les Sahraouis des camps de Tindouf. Il a déjà fait de la prison en 2003 pour « outrage au roi »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/au-maroc-le-journaliste-ali-lmrabet-interpelle-pour-diffusion-de-fausses-informations_6723056_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/au-maroc-le-journaliste-ali-lmrabet-interpelle-pour-diffusion-de-fausses-informations_6723056_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/au-maroc-le-journaliste-ali-lmrabet-interpelle-pour-diffusion-de-fausses-informations_6723056_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2015/06/30/0/0/3809/1904/644/322/60/0/3f9d8b0_5863446-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le journaliste franco-marocain Ali Lmrabet, à Genève, en Suisse, le 29 juin 2015."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FABRICE COFFRINI/AFP"
+      }
+    ],
+    "credit": "FABRICE COFFRINI/AFP"
+  }
+}

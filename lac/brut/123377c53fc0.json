@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T06:52:11.266837+00:00",
+  "_id": "123377c53fc0",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des attaques de drones ukrainiens font quatre morts dans la région de Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des attaques de drones ukrainiens font quatre morts dans la région de Moscou"
+    },
+    "published": "Mon, 13 Jul 2026 07:22:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      5,
+      22,
+      10,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 07:59:31 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      5,
+      59,
+      31,
+      0,
+      194,
+      0
+    ],
+    "summary": "Sept personnes ont aussi été blessées. Le gouverneur a rapporté que 81 drones ukrainiens avaient été abattus dans la région au cours de la nuit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sept personnes ont aussi été blessées. Le gouverneur a rapporté que 81 drones ukrainiens avaient été abattus dans la région au cours de la nuit."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-font-trois-morts-dans-la-region-de-moscou_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-font-trois-morts-dans-la-region-de-moscou_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-font-trois-morts-dans-la-region-de-moscou_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/08/6/0/5349/2674/644/322/60/0/368d9b6_ftp-1-25bhlo1k5dzu-2026-07-08t063104z-615768241-rc2u1mamkaz1-rtrmadp-3-ukraine-crisis-drones-crimea.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des militaires ukrainiens préparent un drone d’attaque alors qu’ils sont en poste près de la ligne de front, dans un lieu non divulgué du sud de l’Ukraine, à une date non précisée de l’année 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}
