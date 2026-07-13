@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T11:09:44.268792+00:00",
+  "_id": "b191bdea3685",
+  "brut": {
+    "title": "En Allemagne, quatre cimentiers européens s’unissent pour un projet de capture du CO₂",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, quatre cimentiers européens s’unissent pour un projet de capture du CO₂"
+    },
+    "published": "Mon, 13 Jul 2026 11:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      9,
+      0,
+      10,
+      0,
+      194,
+      0
+    ],
+    "summary": "Le procédé vise à produire du clinker, matière de base du ciment, à partir d’oxygène pur à la place de l’air ambiant. Ce qui permet d’émettre du dioxyde de carbone plus concentré et plus simple à capturer, afin d’éviter les rejets dans l’atmosphère.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le procédé vise à produire du clinker, matière de base du ciment, à partir d’oxygène pur à la place de l’air ambiant. Ce qui permet d’émettre du dioxyde de carbone plus concentré et plus simple à capturer, afin d’éviter les rejets dans l’atmosphère."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/13/en-allemagne-quatre-cimentiers-europeens-s-unissent-pour-un-projet-de-capture-du-co_6723071_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/13/en-allemagne-quatre-cimentiers-europeens-s-unissent-pour-un-projet-de-capture-du-co_6723071_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/13/en-allemagne-quatre-cimentiers-europeens-s-unissent-pour-un-projet-de-capture-du-co_6723071_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/420/0/7214/3607/644/322/60/0/fdc122d_upload-1-b8za66wlo5et-ci4c-pressrelease-02-ci4c-plant.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le centre de recherche et de développement CI4C, dans la cimenterie du groupe Schwenk, à Heidenheim an der Brenz (Bade-Wurtemberg), le 15 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CI4C Plant"
+      }
+    ],
+    "credit": "CI4C Plant"
+  }
+}

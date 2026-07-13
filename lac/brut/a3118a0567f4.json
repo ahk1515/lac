@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T11:09:44.518582+00:00",
+  "_id": "a3118a0567f4",
+  "brut": {
+    "title": "Incendie en Espagne : la Française portée disparue est enseignante dans le Vaucluse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendie en Espagne : la Française portée disparue est enseignante dans le Vaucluse"
+    },
+    "summary": "Il s'agit d'une professeure de mathématiques qui venait de partir en vacances en famille dans la zone frappée par le violent incendie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il s'agit d'une professeure de mathématiques qui venait de partir en vacances en famille dans la zone frappée par le violent incendie."
+    },
+    "published": "Mon, 13 Jul 2026 12:02:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      10,
+      2,
+      6,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-espagne-la-francaise-portee-disparue-est-enseignante-dans-le-vaucluse_8106050.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/X4LLz-lxCtLOP53F_LjReLxYkk0/0x0:4000x2250/432x243/filters:format(jpg):quality(50)/2026/07/13/6a54b77fb91ae113532097.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-espagne-la-francaise-portee-disparue-est-enseignante-dans-le-vaucluse_8106050.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-espagne-la-francaise-portee-disparue-est-enseignante-dans-le-vaucluse_8106050.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

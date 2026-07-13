@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T11:09:44.269129+00:00",
+  "_id": "f951381c623a",
+  "brut": {
+    "title": "Le mangaka Daisuke Igarashi fait entrer le surnaturel dans la vie de tous les jours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le mangaka Daisuke Igarashi fait entrer le surnaturel dans la vie de tous les jours"
+    },
+    "published": "Mon, 13 Jul 2026 10:01:37 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      8,
+      1,
+      37,
+      0,
+      194,
+      0
+    ],
+    "summary": "L’auteur de « Petite forêt » et des « Enfants de la mer » est présent à Japan Expo pour présenter son dernier manga en date, « Kamakura Bakeneko Club », qui mêle tranches de vie et folklore, une habitude chez cet artiste.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’auteur de « Petite forêt » et des « Enfants de la mer » est présent à Japan Expo pour présenter son dernier manga en date, « Kamakura Bakeneko Club », qui mêle tranches de vie et folklore, une habitude chez cet artiste."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/07/13/le-mangaka-daisuke-igarashi-fait-entrer-le-surnaturel-dans-la-vie-de-tous-les-jours_6723066_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/07/13/le-mangaka-daisuke-igarashi-fait-entrer-le-surnaturel-dans-la-vie-de-tous-les-jours_6723066_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/07/13/le-mangaka-daisuke-igarashi-fait-entrer-le-surnaturel-dans-la-vie-de-tous-les-jours_6723066_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/08/117/0/2046/1023/644/322/60/0/b1dc3fc_upload-1-1flnzmrgqb2n-selfportrait-igarashi-21.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Autoportrait de Daisuke Igarashi."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "COLLECTION PERSONNELLE"
+      }
+    ],
+    "credit": "COLLECTION PERSONNELLE"
+  }
+}

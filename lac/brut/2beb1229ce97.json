@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T11:09:44.267775+00:00",
+  "_id": "2beb1229ce97",
+  "brut": {
+    "title": "Dans le sud du Liban, le camp palestinien de Bourj Al-Chemali enterre ses morts de la guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sud du Liban, le camp palestinien de Bourj Al-Chemali enterre ses morts de la guerre"
+    },
+    "published": "Mon, 13 Jul 2026 13:00:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      11,
+      0,
+      4,
+      0,
+      194,
+      0
+    ],
+    "summary": "L’engagement de combattants palestiniens dans la guerre au Liban aux côtés du Hezbollah est limité. Mais il témoigne d’une mobilisation persistante au sein de factions pour la plupart alliées de Téhéran, dans le sillage de la guerre d’anéantissement menée dans la bande de Gaza par l’armée israélienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’engagement de combattants palestiniens dans la guerre au Liban aux côtés du Hezbollah est limité. Mais il témoigne d’une mobilisation persistante au sein de factions pour la plupart alliées de Téhéran, dans le sillage de la guerre d’anéantissement menée dans la bande de Gaza par l’armée israélienne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/dans-le-sud-du-liban-le-camp-palestinien-de-bourj-al-chemali-enterre-ses-morts-de-la-guerre_6723079_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/dans-le-sud-du-liban-le-camp-palestinien-de-bourj-al-chemali-enterre-ses-morts-de-la-guerre_6723079_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/dans-le-sud-du-liban-le-camp-palestinien-de-bourj-al-chemali-enterre-ses-morts-de-la-guerre_6723079_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/272/0/4549/2274/644/322/60/0/18a2af3_upload-1-gvzeiaj7033p-sipa-01270749-000001.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants inspectent le lieu d’une frappe israélienne, à Bourj Al-Chemali, dans le sud du Liban, le 28 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ali Hashisho/Xinhua via SIPA"
+      }
+    ],
+    "credit": "Ali Hashisho/Xinhua via SIPA"
+  }
+}

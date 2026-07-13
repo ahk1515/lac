@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T11:09:44.268957+00:00",
+  "_id": "92c83675377a",
+  "brut": {
+    "title": "EN DIRECT, Emmanuel Macron prononce son dernier discours aux armées : la paix, la liberté, le droit doivent être défendus « toujours et au prix du sang, s’il le faut »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, Emmanuel Macron prononce son dernier discours aux armées : la paix, la liberté, le droit doivent être défendus « toujours et au prix du sang, s’il le faut »"
+    },
+    "published": "Mon, 13 Jul 2026 11:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      9,
+      0,
+      3,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 12:52:33 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      10,
+      52,
+      33,
+      0,
+      194,
+      0
+    ],
+    "summary": "Le président de la République s’est adressé aux armées à l’hôtel de Brienne lors de son allocution traditionnelle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président de la République s’est adressé aux armées à l’hôtel de Brienne lors de son allocution traditionnelle."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-emmanuel-macron-suivez-le-dernier-discours-aux-armees-du-chef-de-l-etat_6723070_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-emmanuel-macron-suivez-le-dernier-discours-aux-armees-du-chef-de-l-etat_6723070_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-emmanuel-macron-suivez-le-dernier-discours-aux-armees-du-chef-de-l-etat_6723070_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/411/0/4932/2466/644/322/60/0/aeb224b_ftp-1-4qfw6d0rw27g-f103d955a10d4d4cb2a5b30fca9bd5c2-0-9a70aa00e79d435e869388ef814bf57f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron, sur l’île de la Cité, à Paris, dimanche 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Thomas Samson/AFP"
+      }
+    ],
+    "credit": "Thomas Samson/AFP"
+  }
+}
