@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T14:31:43.106915+00:00",
+  "_id": "7a936b7a0d1d",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en France pour un sommet à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en France pour un sommet à Paris"
+    },
+    "published": "Mon, 13 Jul 2026 15:52:42 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      13,
+      52,
+      42,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 16:05:59 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      14,
+      5,
+      59,
+      0,
+      194,
+      0
+    ],
+    "summary": "Emmanuel Macron réunit au Quai d’Orsay un sommet de la coalition des volontaires pour l’Ukraine, en présence du président ukrainien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Macron réunit au Quai d’Orsay un sommet de la coalition des volontaires pour l’Ukraine, en présence du président ukrainien."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-france-pour-un-sommet-a-paris_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-france-pour-un-sommet-a-paris_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-france-pour-un-sommet-a-paris_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/632/0/7563/3781/644/322/60/0/67b570b_ftp-1-p8wy9wpzu24k-5610612-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président de la République, Emmanuel Macron, accueille son homologue ukrainien, Volodymyr Zelensky, au Quai d’Orsay, à Paris, le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TOM NICHOLSON / AFP"
+      }
+    ],
+    "credit": "TOM NICHOLSON / AFP"
+  }
+}

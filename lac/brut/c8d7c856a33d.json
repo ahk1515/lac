@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T14:31:43.107190+00:00",
+  "_id": "c8d7c856a33d",
+  "brut": {
+    "title": "Meurtre d’Ann Widdecombe : la police antiterroriste britannique saisie de l’enquête",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Meurtre d’Ann Widdecombe : la police antiterroriste britannique saisie de l’enquête"
+    },
+    "published": "Mon, 13 Jul 2026 15:35:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      13,
+      35,
+      6,
+      0,
+      194,
+      0
+    ],
+    "summary": "Le chef adjoint de la police locale avait initialement affirmé ne disposer « d’aucune information permettant d’affirmer qu’il s’ag[issait] d’un crime à caractère politique ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef adjoint de la police locale avait initialement affirmé ne disposer « d’aucune information permettant d’affirmer qu’il s’ag[issait] d’un crime à caractère politique »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/13/meurtre-d-ann-widdecombe-la-police-antiterroriste-britannique-saisie-de-l-enquete_6723090_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/13/meurtre-d-ann-widdecombe-la-police-antiterroriste-britannique-saisie-de-l-enquete_6723090_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/13/meurtre-d-ann-widdecombe-la-police-antiterroriste-britannique-saisie-de-l-enquete_6723090_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/492/0/5897/2948/644/322/60/0/ac58cb5_ftp-1-ufsski589mhk-5610111-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ann Widdecombe prononce un discours lors de la journée d’ouverture de la conférence annuelle du parti Reform UK à Birmingham, le 20 septembre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OLI SCARFF / AFP"
+      }
+    ],
+    "credit": "OLI SCARFF / AFP"
+  }
+}
