@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T20:56:05.242403+00:00",
+  "_id": "9ac3cf29c47e",
+  "brut": {
+    "title": "L'opposant russe Boris Nadejdine, ancien candidat à l'élection présidentielle, arrêté à Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'opposant russe Boris Nadejdine, ancien candidat à l'élection présidentielle, arrêté à Moscou"
+    },
+    "summary": "L'ancien député libéral, l'un des rares à critiquer publiquement Vladimir Poutine et l'invasion russe de l'Ukraine sans être en prison ou en exil, avait été classé \"agent de l'étranger\" vendredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ancien député libéral, l'un des rares à critiquer publiquement Vladimir Poutine et l'invasion russe de l'Ukraine sans être en prison ou en exil, avait été classé \"agent de l'étranger\" vendredi."
+    },
+    "published": "Mon, 13 Jul 2026 21:25:20 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      19,
+      25,
+      20,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-ancien-candidat-a-l-election-presidentielle-arrete-a-moscou_8106662.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YDUBZ261shLGHKr9-sk1IGWXOM8/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/07/13/6a553b77c6b3b997525036.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-ancien-candidat-a-l-election-presidentielle-arrete-a-moscou_8106662.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-ancien-candidat-a-l-election-presidentielle-arrete-a-moscou_8106662.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

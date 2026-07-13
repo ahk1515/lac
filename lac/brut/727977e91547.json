@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T20:56:05.242085+00:00",
+  "_id": "727977e91547",
+  "brut": {
+    "title": "Détroit d'Ormuz : Donald Trump veut imposer son péage",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Détroit d'Ormuz : Donald Trump veut imposer son péage"
+    },
+    "summary": "Donald Trump monte d'un écran et menace de rétablir le blocus naval dans le détroit d'Ormuz. Les États-Unis ont pilonné une dizaine de cibles iraniennes la nuit dernière. En représailles, l'Iran a de nouveau frappé la Jordanie, Bahreïn et le Koweït.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump monte d'un écran et menace de rétablir le blocus naval dans le détroit d'Ormuz. Les États-Unis ont pilonné une dizaine de cibles iraniennes la nuit dernière. En représailles, l'Iran a de nouveau frappé la Jordanie, Bahreïn et le Koweït."
+    },
+    "published": "Mon, 13 Jul 2026 22:17:42 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      17,
+      42,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/detroit-d-ormuz-donald-trump-veut-imposer-son-peage_8106710.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/INCfruPjws4TUt7vVVp6EJNmjL4/143x0:1578x807/432x243/filters:format(jpg):quality(50)/2026/07/13/6a55452b8892b030877085.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/detroit-d-ormuz-donald-trump-veut-imposer-son-peage_8106710.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/detroit-d-ormuz-donald-trump-veut-imposer-son-peage_8106710.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-13T20:56:04.944928+00:00",
+  "_id": "aa3dde6f7c18",
+  "brut": {
+    "title": "Donald Trump annonce la mise en place d’un péage maritime sur le détroit d’Ormuz, où le trafic de navires s’est effondré",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump annonce la mise en place d’un péage maritime sur le détroit d’Ormuz, où le trafic de navires s’est effondré"
+    },
+    "published": "Mon, 13 Jul 2026 20:36:42 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      18,
+      36,
+      42,
+      0,
+      194,
+      0
+    ],
+    "updated": "Mon, 13 Jul 2026 22:01:21 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      1,
+      21,
+      0,
+      194,
+      0
+    ],
+    "summary": "Le président américain a déclaré, lundi 13 juillet, qu’il allait rétablir le blocus des ports iraniens et affirmé vouloir instaurer une taxe de 20 % pour les bateaux souhaitant traverser le détroit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain a déclaré, lundi 13 juillet, qu’il allait rétablir le blocus des ports iraniens et affirmé vouloir instaurer une taxe de 20 % pour les bateaux souhaitant traverser le détroit."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/13/donald-trump-annonce-la-mise-en-place-d-un-peage-maritime-sur-le-detroit-d-ormuz-ou-le-trafic-de-navires-s-est-effondre_6723132_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/13/donald-trump-annonce-la-mise-en-place-d-un-peage-maritime-sur-le-detroit-d-ormuz-ou-le-trafic-de-navires-s-est-effondre_6723132_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/13/donald-trump-annonce-la-mise-en-place-d-un-peage-maritime-sur-le-detroit-d-ormuz-ou-le-trafic-de-navires-s-est-effondre_6723132_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/274/0/3287/1643/644/322/60/0/4078ee9_ftp-1-g1dmuyj3ncss-a29a7d71c042454d8b866179ba914e64-0-2c981d5350114570a38489cd0631aecf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, devant la Maison Blanche, à Washington, le 13 juillet  2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alex Brandon / AP"
+      }
+    ],
+    "credit": "Alex Brandon / AP"
+  }
+}

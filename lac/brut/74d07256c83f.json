@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-13T20:56:05.241870+00:00",
+  "_id": "74d07256c83f",
+  "brut": {
+    "title": "Le bilan du double séisme au Venezuela dépasse les 4 500 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le bilan du double séisme au Venezuela dépasse les 4 500 morts"
+    },
+    "summary": "Les deux tremblements de terre ont principalement touché la capitale Caracas et l'Etat voisin de La Guaira, le 24 juin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les deux tremblements de terre ont principalement touché la capitale Caracas et l'Etat voisin de La Guaira, le 24 juin."
+    },
+    "published": "Mon, 13 Jul 2026 22:20:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      20,
+      7,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-depasse-les-4-500-morts_8106707.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/48Luofs6XOi3aDWujvX8QPbD4Bo/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/13/6a5547fd577ee548663090.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-depasse-les-4-500-morts_8106707.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-depasse-les-4-500-morts_8106707.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
