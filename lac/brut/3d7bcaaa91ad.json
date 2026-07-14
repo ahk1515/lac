@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T09:57:17.475897+00:00",
+  "_id": "3d7bcaaa91ad",
+  "brut": {
+    "title": "EN DIRECT, 14-Juillet : la Légion étrangère défile à son tour, avant les hélicoptères et les chars",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, 14-Juillet : la Légion étrangère défile à son tour, avant les hélicoptères et les chars"
+    },
+    "published": "Tue, 14 Jul 2026 08:06:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      6,
+      6,
+      1,
+      1,
+      195,
+      0
+    ],
+    "updated": "Tue, 14 Jul 2026 11:47:52 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      9,
+      47,
+      52,
+      1,
+      195,
+      0
+    ],
+    "summary": "Le défilé, qui prend place sur l’avenue des Champs-Elysées, entre l’Arc de triomphe et la place de la Concorde, est placé sous le signe du « réveil stratégique de l’Europe », dans un contexte de menaces sur le front est et de désengagement américain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le défilé, qui prend place sur l’avenue des Champs-Elysées, entre l’Arc de triomphe et la place de la Concorde, est placé sous le signe du « réveil stratégique de l’Europe », dans un contexte de menaces sur le front est et de désengagement américain."
+    },
+    "id": "https://www.lemonde.fr/politique/live/2026/07/14/en-direct-14-juillet-suivez-le-dernier-defile-d-emmanuel-macron-dans-un-contexte-de-rearmement-europeen-et-sous-le-signe-du-soutien-a-l-ukraine_6723269_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/live/2026/07/14/en-direct-14-juillet-suivez-le-dernier-defile-d-emmanuel-macron-dans-un-contexte-de-rearmement-europeen-et-sous-le-signe-du-soutien-a-l-ukraine_6723269_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/live/2026/07/14/en-direct-14-juillet-suivez-le-dernier-defile-d-emmanuel-macron-dans-un-contexte-de-rearmement-europeen-et-sous-le-signe-du-soutien-a-l-ukraine_6723269_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/547/0/5120/2560/644/322/60/0/d1f95d2_upload-1-0sux4wmugkej-e2f12c9f-cf8a-4f1b-832f-4411e16beed6.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron descend du véhicule de commandement, lors du défilé du 14-Juillet, à Paris."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+      }
+    ],
+    "credit": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+  }
+}

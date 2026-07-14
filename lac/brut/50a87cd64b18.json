@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T09:57:17.475711+00:00",
+  "_id": "50a87cd64b18",
+  "brut": {
+    "title": "L’Ukraine étend ses attaques à la mer d’Azov, un axe maritime crucial pour la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Ukraine étend ses attaques à la mer d’Azov, un axe maritime crucial pour la Russie"
+    },
+    "published": "Tue, 14 Jul 2026 09:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      7,
+      0,
+      5,
+      1,
+      195,
+      0
+    ],
+    "updated": "Tue, 14 Jul 2026 11:43:15 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      9,
+      43,
+      15,
+      1,
+      195,
+      0
+    ],
+    "summary": "Après l’asphyxie de la Crimée, occupée par Moscou depuis 2014, les drones ukrainiens mènent une impitoyable bataille navale contre la flotte fantôme russe, accusée de contourner les sanctions. La circulation de ces navires en mer d’Azov a quasi cessé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après l’asphyxie de la Crimée, occupée par Moscou depuis 2014, les drones ukrainiens mènent une impitoyable bataille navale contre la flotte fantôme russe, accusée de contourner les sanctions. La circulation de ces navires en mer d’Azov a quasi cessé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/l-ukraine-etend-ses-attaques-a-la-mer-d-azov-un-axe-maritime-crucial-pour-la-russie_6723272_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/l-ukraine-etend-ses-attaques-a-la-mer-d-azov-un-axe-maritime-crucial-pour-la-russie_6723272_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/l-ukraine-etend-ses-attaques-a-la-mer-d-azov-un-axe-maritime-crucial-pour-la-russie_6723272_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/83/0/3558/1779/644/322/60/0/2eb72d0_ftp-1-cuhwo7ulxdrz-2026-07-09t104259z-1765130317-rc2aamah55f9-rtrmadp-3-ukraine-crisis-tankers.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un pétrolier russe visé par un drone ukrainien lors d’une frappe dans la mer d’Azov, dans une vidéo diffusée le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Commander of Unmanned Aerial Sys / via REUTERS"
+      }
+    ],
+    "credit": "Commander of Unmanned Aerial Sys / via REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T09:57:17.716561+00:00",
+  "_id": "18b89d810819",
+  "brut": {
+    "title": "Incendies, 14-Juillet, Moyen-Orient... Le \"8h30 franceinfo\" du général Patrick Dutartre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendies, 14-Juillet, Moyen-Orient... Le \"8h30 franceinfo\" du général Patrick Dutartre"
+    },
+    "summary": "L'ancien général de l’armée de l’Air, ancien pilote de chasse et ancien leader de la Patrouille de France était l'invité du \"8h30 franceinfo\", mardi 14 juillet 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ancien général de l’armée de l’Air, ancien pilote de chasse et ancien leader de la Patrouille de France était l'invité du \"8h30 franceinfo\", mardi 14 juillet 2026."
+    },
+    "published": "Tue, 14 Jul 2026 11:01:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      9,
+      1,
+      40,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/incendies-14-juillet-moyen-orient-le-8h30-franceinfo-du-general-patrick-dutartre_8063783.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/EZwmtyvU5DRk5Ys-7yJFCOT22bo/37x0:2011x1110/432x243/filters:format(jpg):quality(50)/2026/07/14/6a55e2adf1aec625418348.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/incendies-14-juillet-moyen-orient-le-8h30-franceinfo-du-general-patrick-dutartre_8063783.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/incendies-14-juillet-moyen-orient-le-8h30-franceinfo-du-general-patrick-dutartre_8063783.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
