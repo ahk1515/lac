@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T17:13:24.066442+00:00",
+  "_id": "56c489bd2e10",
+  "brut": {
+    "title": "A Cuba, une troisième coupure électrique générale en moins de dix jours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Cuba, une troisième coupure électrique générale en moins de dix jours"
+    },
+    "published": "Tue, 14 Jul 2026 18:56:55 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      16,
+      56,
+      55,
+      1,
+      195,
+      0
+    ],
+    "summary": "Depuis la fin de 2024, le réseau électrique de l’île, soumise à un blocus pétrolier américain, subit régulièrement des coupures générales ou partielles en raison de la vétusté des infrastructures et de la pénurie de carburant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis la fin de 2024, le réseau électrique de l’île, soumise à un blocus pétrolier américain, subit régulièrement des coupures générales ou partielles en raison de la vétusté des infrastructures et de la pénurie de carburant."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/a-cuba-une-troisieme-coupure-electrique-generale-en-moins-de-dix-jours_6723335_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/a-cuba-une-troisieme-coupure-electrique-generale-en-moins-de-dix-jours_6723335_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/a-cuba-une-troisieme-coupure-electrique-generale-en-moins-de-dix-jours_6723335_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/688/0/8256/4128/644/322/60/0/02a73b9_ftp-1-zppsaazjytpv-5619049-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un feu de signalisation éteint à La Havane, le 14 juillet 2026, alors que Cuba connaît une panne électrique générale."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YAMIL LAGE / AFP"
+      }
+    ],
+    "credit": "YAMIL LAGE / AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T17:13:24.066975+00:00",
+  "_id": "0daa31046db8",
+  "brut": {
+    "title": "Au Maroc, la garde à vue du journaliste Ali Lmrabet prolongée de vingt-quatre heures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Maroc, la garde à vue du journaliste Ali Lmrabet prolongée de vingt-quatre heures"
+    },
+    "published": "Tue, 14 Jul 2026 18:26:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      16,
+      26,
+      18,
+      1,
+      195,
+      0
+    ],
+    "updated": "Tue, 14 Jul 2026 18:43:49 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      16,
+      43,
+      49,
+      1,
+      195,
+      0
+    ],
+    "summary": "Voix critique de la monarchie et des institutions du royaume, le Franco-Marocain a été arrêté à l’aéroport de Tanger, dimanche 12 juillet. Le parquet lui reproche la publication de contenus « diffamatoires et injurieux ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Voix critique de la monarchie et des institutions du royaume, le Franco-Marocain a été arrêté à l’aéroport de Tanger, dimanche 12 juillet. Le parquet lui reproche la publication de contenus « diffamatoires et injurieux »."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/14/au-maroc-la-garde-a-vue-du-journaliste-ali-lmrabet-prolongee-de-vingt-quatre-heures_6723332_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/14/au-maroc-la-garde-a-vue-du-journaliste-ali-lmrabet-prolongee-de-vingt-quatre-heures_6723332_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/14/au-maroc-la-garde-a-vue-du-journaliste-ali-lmrabet-prolongee-de-vingt-quatre-heures_6723332_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2015/06/30/103/0/4058/2029/644/322/60/0/96c2392_5863443-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ali Lmrabet, journaliste franco-marocain, à Genève (Suisse), le 29 juin 2015."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FABRICE COFFRINI/AFP"
+      }
+    ],
+    "credit": "FABRICE COFFRINI/AFP"
+  }
+}

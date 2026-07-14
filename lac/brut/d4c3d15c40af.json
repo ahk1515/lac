@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T17:13:24.066696+00:00",
+  "_id": "d4c3d15c40af",
+  "brut": {
+    "title": "En RDC, un policier sur deux n’existe pas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En RDC, un policier sur deux n’existe pas"
+    },
+    "published": "Tue, 14 Jul 2026 18:45:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      16,
+      45,
+      4,
+      1,
+      195,
+      0
+    ],
+    "summary": "Un audit sur les effectifs de la police nationale, publié jeudi 9 juillet, révèle que près de 64 000 officiers congolais sur 157 800 sont « non actifs » ou « fictifs ». Des emplois factices qui coûteraient entre 87 millions à 204 millions d’euros par an à l’Etat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un audit sur les effectifs de la police nationale, publié jeudi 9 juillet, révèle que près de 64 000 officiers congolais sur 157 800 sont « non actifs » ou « fictifs ». Des emplois factices qui coûteraient entre 87 millions à 204 millions d’euros par an à l’Etat."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/14/en-rdc-un-policier-sur-deux-n-existe-pas_6723334_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/14/en-rdc-un-policier-sur-deux-n-existe-pas_6723334_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/14/en-rdc-un-policier-sur-deux-n-existe-pas_6723334_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/1000/0/6048/3024/644/322/60/0/5913560_upload-1-6zjpkgfj68uw-000-36yl4gm.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers congolais lors d’un défilé, à Kinshasa, le 24 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HARDY BOPE/AFP"
+      }
+    ],
+    "credit": "HARDY BOPE/AFP"
+  }
+}

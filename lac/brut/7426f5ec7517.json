@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T17:13:24.662305+00:00",
+  "_id": "7426f5ec7517",
+  "brut": {
+    "title": "Près de 40 personnes enlevées en Colombie par les guérilleros de l'Armée de libération nationale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 40 personnes enlevées en Colombie par les guérilleros de l'Armée de libération nationale"
+    },
+    "summary": "Le rapt a eu lieu dans la région reculée de Choco, où la guérilla est très présente et se finance grâce au trafic de drogue et à l'exploitation illégale de mines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le rapt a eu lieu dans la région reculée de Choco, où la guérilla est très présente et se finance grâce au trafic de drogue et à l'exploitation illégale de mines."
+    },
+    "published": "Tue, 14 Jul 2026 18:54:59 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      16,
+      54,
+      59,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ameriques/pres-de-40-personnes-enlevees-en-colombie-par-la-guerilla-de-l-eln-annonce-l-armee_8107865.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JM6xd-0ct4PFdF_Kr81aQ-SP4IY/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/14/6a566533f14b6547896098.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ameriques/pres-de-40-personnes-enlevees-en-colombie-par-la-guerilla-de-l-eln-annonce-l-armee_8107865.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ameriques/pres-de-40-personnes-enlevees-en-colombie-par-la-guerilla-de-l-eln-annonce-l-armee_8107865.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

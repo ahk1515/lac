@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T17:13:24.068054+00:00",
+  "_id": "b6027be1a3a1",
+  "brut": {
+    "title": "Gaza : huit morts après une frappe israélienne sur un commissariat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : huit morts après une frappe israélienne sur un commissariat"
+    },
+    "published": "Tue, 14 Jul 2026 15:59:50 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      13,
+      59,
+      50,
+      1,
+      195,
+      0
+    ],
+    "updated": "Tue, 14 Jul 2026 17:44:13 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      15,
+      44,
+      13,
+      1,
+      195,
+      0
+    ],
+    "summary": "L’armée israélienne a confirmé, mardi, avoir mené un bombardement dans la région et a affirmé qu’elle visait des « terroristes », sans fournir plus de détails.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée israélienne a confirmé, mardi, avoir mené un bombardement dans la région et a affirmé qu’elle visait des « terroristes », sans fournir plus de détails."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/gaza-huit-morts-apres-une-frappe-israelienne-sur-un-commissariat_6723315_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/gaza-huit-morts-apres-une-frappe-israelienne-sur-un-commissariat_6723315_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/gaza-huit-morts-apres-une-frappe-israelienne-sur-un-commissariat_6723315_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/500/0/6000/3000/644/322/60/0/1d3403a_ftp-1-vxgfboto9q70-5617483-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une femme lors des funérailles de plusieurs victimes tuées après qu’un commissariat de police a été frappé par un bombardement israélien, dans le nord de la bande de Gaza, le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OMAR AL-QATTAA / AFP"
+      }
+    ],
+    "credit": "OMAR AL-QATTAA / AFP"
+  }
+}

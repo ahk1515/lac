@@ -17,7 +17,7 @@
   {
     "pays_a": "FRA",
     "pays_b": "UKR",
-    "co_citations": 15
+    "co_citations": 16
   },
   {
     "pays_a": "FRA",
@@ -51,6 +51,11 @@
   },
   {
     "pays_a": "FRA",
+    "pays_b": "USA",
+    "co_citations": 4
+  },
+  {
+    "pays_a": "FRA",
     "pays_b": "GBR",
     "co_citations": 4
   },
@@ -67,11 +72,6 @@
   {
     "pays_a": "FRA",
     "pays_b": "IRN",
-    "co_citations": 3
-  },
-  {
-    "pays_a": "FRA",
-    "pays_b": "USA",
     "co_citations": 3
   },
   {
