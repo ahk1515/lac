@@ -1,31 +1,31 @@
 [
   {
     "pays": "USA",
-    "citations": 100
+    "citations": 106
   },
   {
     "pays": "FRA",
-    "citations": 79
+    "citations": 83
   },
   {
     "pays": "IRN",
-    "citations": 63
+    "citations": 65
   },
   {
     "pays": "UKR",
-    "citations": 45
+    "citations": 48
   },
   {
     "pays": "RUS",
-    "citations": 40
+    "citations": 41
   },
   {
     "pays": "GBR",
-    "citations": 24
+    "citations": 25
   },
   {
     "pays": "MAR",
-    "citations": 20
+    "citations": 21
   },
   {
     "pays": "ISR",
@@ -41,7 +41,7 @@
   },
   {
     "pays": "DEU",
-    "citations": 6
+    "citations": 7
   },
   {
     "pays": "LBN",
@@ -73,6 +73,10 @@
   },
   {
     "pays": "BFA",
+    "citations": 1
+  },
+  {
+    "pays": "BRA",
     "citations": 1
   }
 ]

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T06:10:05.337905+00:00",
+  "_id": "ba4c853755f5",
+  "brut": {
+    "title": "DIRECT. Cérémonies du 14-Juillet : suivez le traditionnel défilé militaire sur les Champs-Elysées à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "DIRECT. Cérémonies du 14-Juillet : suivez le traditionnel défilé militaire sur les Champs-Elysées à Paris"
+    },
+    "summary": "A l'occasion de la Fête nationale, le chef de l'Etat préside le dixième et dernier défilé du 14-Juillet de ses quinquennats. La cérémonie militaire s'annonce spectaculaire et plus massive que les années précédentes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A l'occasion de la Fête nationale, le chef de l'Etat préside le dixième et dernier défilé du 14-Juillet de ses quinquennats. La cérémonie militaire s'annonce spectaculaire et plus massive que les années précédentes."
+    },
+    "published": "Tue, 14 Jul 2026 08:03:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      6,
+      3,
+      30,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/france/14-juillet/direct-ceremonies-du-14-juillet-suivez-le-traditionnel-defile-militaire-sur-les-champs-elysees-a-paris_8086544.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/FSjnCYdi7m0sg5rfNHttz3YFhug/0x712:6843x4562/432x243/filters:format(jpg):quality(50)/2026/07/02/6a46452c5f039679745888.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/france/14-juillet/direct-ceremonies-du-14-juillet-suivez-le-traditionnel-defile-militaire-sur-les-champs-elysees-a-paris_8086544.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/france/14-juillet/direct-ceremonies-du-14-juillet-suivez-le-traditionnel-defile-militaire-sur-les-champs-elysees-a-paris_8086544.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

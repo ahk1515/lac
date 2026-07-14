@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T06:10:05.201077+00:00",
+  "_id": "f0dff846b23e",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des explosions entendues dans la nuit à Kiev ; deux incendies maîtrisés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des explosions entendues dans la nuit à Kiev ; deux incendies maîtrisés"
+    },
+    "published": "Tue, 14 Jul 2026 08:03:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      6,
+      3,
+      46,
+      1,
+      195,
+      0
+    ],
+    "summary": "Ces déflagrations ont été entendues mardi peu après minuit dans la capitale ukrainienne. « Les systèmes de défense aérienne sont en action dans la capitale. L’ennemi attaque Kiev avec des missiles balistiques », a fait savoir le maire sur Telegram.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces déflagrations ont été entendues mardi peu après minuit dans la capitale ukrainienne. « Les systèmes de défense aérienne sont en action dans la capitale. L’ennemi attaque Kiev avec des missiles balistiques », a fait savoir le maire sur Telegram."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-des-explosions-entendues-dans-la-nuit-a-kiev-deux-incendies-maitrises_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-des-explosions-entendues-dans-la-nuit-a-kiev-deux-incendies-maitrises_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-des-explosions-entendues-dans-la-nuit-a-kiev-deux-incendies-maitrises_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/961/0/5765/2882/644/322/60/0/afdd169_ftp-1-4cdik6znokoy-2026-07-11t053238z-1648500721-rc2ebma5r89v-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la suite de frappes de missiles russes, à Kiev, le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}

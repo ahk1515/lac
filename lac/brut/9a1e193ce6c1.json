@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T06:10:05.202759+00:00",
+  "_id": "9a1e193ce6c1",
+  "brut": {
+    "title": "Entre Emmanuel Macron et Volodymyr Zelensky, une relation à part, ponctuée de malentendus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Entre Emmanuel Macron et Volodymyr Zelensky, une relation à part, ponctuée de malentendus"
+    },
+    "published": "Tue, 14 Jul 2026 05:00:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      3,
+      0,
+      12,
+      1,
+      195,
+      0
+    ],
+    "summary": "Des soldats ukrainiens défileront, mardi 14 juillet, sur l’avenue des Champs-Elysées, et le président ukrainien se tiendra auprès de son homologue français, marque du soutien de Paris à Kiev et de la proximité entre les deux chefs d’Etat. Une relation qui n’est pas toujours allée de soi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des soldats ukrainiens défileront, mardi 14 juillet, sur l’avenue des Champs-Elysées, et le président ukrainien se tiendra auprès de son homologue français, marque du soutien de Paris à Kiev et de la proximité entre les deux chefs d’Etat. Une relation qui n’est pas toujours allée de soi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/entre-emmanuel-macron-et-volodymyr-zelensky-une-relation-a-part-ponctuee-de-malentendus_6723242_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/entre-emmanuel-macron-et-volodymyr-zelensky-une-relation-a-part-ponctuee-de-malentendus_6723242_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/entre-emmanuel-macron-et-volodymyr-zelensky-une-relation-a-part-ponctuee-de-malentendus_6723242_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/208/0/2500/1250/644/322/60/0/8e23ada_upload-1-aiu4iomg6e5a-jmug260713035.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président de l'Ukraine, Volodymyr Zelensky, et Emmanuel Macron, lors du sommet de la coalition des volontaires, aux Invalides, à Paris, le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JULIEN MUGUET POUR « LE MONDE »"
+      }
+    ],
+    "credit": "JULIEN MUGUET POUR « LE MONDE »"
+  }
+}

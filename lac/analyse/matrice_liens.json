@@ -2,12 +2,12 @@
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 54
+    "co_citations": 56
   },
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 28
+    "co_citations": 29
   },
   {
     "pays_a": "FRA",
@@ -17,7 +17,7 @@
   {
     "pays_a": "FRA",
     "pays_b": "UKR",
-    "co_citations": 11
+    "co_citations": 12
   },
   {
     "pays_a": "FRA",
@@ -107,6 +107,11 @@
   {
     "pays_a": "MLI",
     "pays_b": "RUS",
+    "co_citations": 2
+  },
+  {
+    "pays_a": "GBR",
+    "pays_b": "UKR",
     "co_citations": 2
   },
   {
@@ -200,8 +205,23 @@
     "co_citations": 1
   },
   {
-    "pays_a": "GBR",
+    "pays_a": "DEU",
+    "pays_b": "GBR",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "DEU",
+    "pays_b": "RUS",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "DEU",
     "pays_b": "UKR",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "GBR",
+    "pays_b": "RUS",
     "co_citations": 1
   }
 ]
