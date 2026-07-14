@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T13:40:39.546719+00:00",
+  "_id": "411c8a4f706e",
+  "brut": {
+    "title": "Huit Palestiniens tués à Gaza après une frappe israélienne sur un commissariat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Huit Palestiniens tués à Gaza après une frappe israélienne sur un commissariat"
+    },
+    "summary": "L'hôpital al-Chifa, situé au nord du territoire palestinien, a confirmé à l'AFP avoir reçu les huit dépouilles. L'armée israélienne a expliqué avoir mené une frappe dans la région, déclarant qu'elle visait des \"terroristes\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'hôpital al-Chifa, situé au nord du territoire palestinien, a confirmé à l'AFP avoir reçu les huit dépouilles. L'armée israélienne a expliqué avoir mené une frappe dans la région, déclarant qu'elle visait des \"terroristes\"."
+    },
+    "published": "Tue, 14 Jul 2026 15:29:50 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      13,
+      29,
+      50,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/huit-palestiniens-tues-a-gaza-apres-une-frappe-israelienne-sur-un-commissariat_8107640.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/sNPgh7mIXL2jiR5pG1xwrcDt9l0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/14/6a563936bc703417647368.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/huit-palestiniens-tues-a-gaza-apres-une-frappe-israelienne-sur-un-commissariat_8107640.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/huit-palestiniens-tues-a-gaza-apres-une-frappe-israelienne-sur-un-commissariat_8107640.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

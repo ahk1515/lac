@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T13:40:39.546517+00:00",
+  "_id": "b450c0318e8d",
+  "brut": {
+    "title": "Aux États-Unis, un chien-robot équipé d'un lance-flammes vendu au grand public",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, un chien-robot équipé d'un lance-flammes vendu au grand public"
+    },
+    "summary": "Baptisé Thermonator, ce chien-robot équipé d'un lance-flammes est commercialisé aux États-Unis. Présenté comme un outil pouvant servir à l'armée, à l'agriculture ou encore à la prévention des incendies, cet engin est vendu près de 8 400 euros.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Baptisé Thermonator, ce chien-robot équipé d'un lance-flammes est commercialisé aux États-Unis. Présenté comme un outil pouvant servir à l'armée, à l'agriculture ou encore à la prévention des incendies, cet engin est vendu près de 8 400 euros."
+    },
+    "published": "Tue, 14 Jul 2026 15:30:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      13,
+      30,
+      2,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-un-chien-robot-equipe-d-un-lance-flammes-vendu-au-grand-public_8076278.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/Hm3qLKE7XmrorccebCaDpkavUZ0/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/14/6a55fc05861df147187488.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-un-chien-robot-equipe-d-un-lance-flammes-vendu-au-grand-public_8076278.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-un-chien-robot-equipe-d-un-lance-flammes-vendu-au-grand-public_8076278.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

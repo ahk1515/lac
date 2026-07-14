@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T13:40:39.547562+00:00",
+  "_id": "5cb255540072",
+  "brut": {
+    "title": "Faute d'homologation officielle, l'Italie débranche un radar routier sur cinq",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Faute d'homologation officielle, l'Italie débranche un radar routier sur cinq"
+    },
+    "summary": "Face à un vide juridique depuis 1992, les décisions de justice annulant des amendes se multipliaient. Le ministère des Transports en a tiré les conséquences.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face à un vide juridique depuis 1992, les décisions de justice annulant des amendes se multipliaient. Le ministère des Transports en a tiré les conséquences."
+    },
+    "published": "Tue, 14 Jul 2026 13:03:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      11,
+      3,
+      12,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/automobile/faute-d-homologation-officielle-l-italie-debranche-un-radar-routier-sur-cinq_8107421.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NQENWFlwXDmACcwfZccksdgSceA/0x148:6720x3926/432x243/filters:format(jpg):quality(50)/2024/04/26/maxmatinnews569352-662ba1ae8d2f2625189218.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/automobile/faute-d-homologation-officielle-l-italie-debranche-un-radar-routier-sur-cinq_8107421.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/automobile/faute-d-homologation-officielle-l-italie-debranche-un-radar-routier-sur-cinq_8107421.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T13:40:39.185105+00:00",
+  "_id": "19705e38c80f",
+  "brut": {
+    "title": "VIDEO L’intervention de l’ICE dans le Maine, qui a tué un homme, filmée par une caméra de vidéosurveillance",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO L’intervention de l’ICE dans le Maine, qui a tué un homme, filmée par une caméra de vidéosurveillance"
+    },
+    "published": "Tue, 14 Jul 2026 14:12:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      12,
+      12,
+      12,
+      1,
+      195,
+      0
+    ],
+    "summary": "Les agents de la police de l’immigration américaine ont tué Joan Sebastian Guerrero, un Colombien de 26 ans, lundi 13 juillet à Biddeford. Il aurait été confondu avec une autre personne ciblée par les agents fédéraux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les agents de la police de l’immigration américaine ont tué Joan Sebastian Guerrero, un Colombien de 26 ans, lundi 13 juillet à Biddeford. Il aurait été confondu avec une autre personne ciblée par les agents fédéraux."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/14/l-intervention-de-l-ice-dans-le-maine-qui-a-tue-un-homme-filmee-par-une-camera-de-videosurveillance_6723304_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/14/l-intervention-de-l-ice-dans-le-maine-qui-a-tue-un-homme-filmee-par-une-camera-de-videosurveillance_6723304_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/14/l-intervention-de-l-ice-dans-le-maine-qui-a-tue-un-homme-filmee-par-une-camera-de-videosurveillance_6723304_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/0/0/1252/626/644/322/60/0/eea6ba5_ftp-1-tjprshcu1sme-2026-07-14t052621z-1794149358-rc2hdma67z49-rtrmadp-3-usa-migration-maine-shooting.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Platinum Suds Laundromat/Platinu / via REUTERS"
+      }
+    ],
+    "credit": "Platinum Suds Laundromat/Platinu / via REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T13:40:39.185844+00:00",
+  "_id": "3cff9c0852bd",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : le Parlement ukrainien approuve la démission de la première ministre, Ioulia Svyrydenko",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : le Parlement ukrainien approuve la démission de la première ministre, Ioulia Svyrydenko"
+    },
+    "published": "Tue, 14 Jul 2026 12:23:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      10,
+      23,
+      6,
+      1,
+      195,
+      0
+    ],
+    "updated": "Tue, 14 Jul 2026 15:28:34 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      13,
+      28,
+      34,
+      1,
+      195,
+      0
+    ],
+    "summary": "La Rada s’est prononcée, mardi, en faveur de la démission de la cheffe du gouvernement ukrainien, ouvrant la voie à la formation d’un nouvel exécutif. Le président, Volodymyr Zelensky, avait annoncé, dimanche, ce remaniement dans le cadre d’« une nouvelle stratégie politique », sans donner plus de détails.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Rada s’est prononcée, mardi, en faveur de la démission de la cheffe du gouvernement ukrainien, ouvrant la voie à la formation d’un nouvel exécutif. Le président, Volodymyr Zelensky, avait annoncé, dimanche, ce remaniement dans le cadre d’« une nouvelle stratégie politique », sans donner plus de détails."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-kiev-affirme-viser-les-petroliers-de-transbordement-russes-en-mer-d-azov-pour-freiner-les-exportations-de-brut_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-kiev-affirme-viser-les-petroliers-de-transbordement-russes-en-mer-d-azov-pour-freiner-les-exportations-de-brut_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-kiev-affirme-viser-les-petroliers-de-transbordement-russes-en-mer-d-azov-pour-freiner-les-exportations-de-brut_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/07/31/989/0/7656/3828/644/322/60/0/185dfe8_ftp-import-images-1-hro51kzhdk6b-809764d7b92340438882725a5d64a61d-0-fb136221306f4942bd463c1ab5ae5296.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La première ministre ukrainienne, Ioulia Svyrydenko, et le ministre de l’intérieur, Ihor Klymenko, à Kiev, le 31 juillet 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP"
+  }
+}

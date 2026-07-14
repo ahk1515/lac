@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T13:40:39.185249+00:00",
+  "_id": "1d2bedb7f508",
+  "brut": {
+    "title": "VIDEO Les images du défile du 14-Juillet, en présence de Volodymyr Zelensky et de la coalition des volontaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Les images du défile du 14-Juillet, en présence de Volodymyr Zelensky et de la coalition des volontaires"
+    },
+    "published": "Tue, 14 Jul 2026 14:07:13 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      12,
+      7,
+      13,
+      1,
+      195,
+      0
+    ],
+    "summary": "Le président ukrainien, Volodymyr Zelensky, ainsi que 24 chefs d’Etat ou de gouvernement européens ont assisté au défilé, au lendemain d’un sommet dans la capitale française des 37 pays de la coalition des volontaires pour l’Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien, Volodymyr Zelensky, ainsi que 24 chefs d’Etat ou de gouvernement européens ont assisté au défilé, au lendemain d’un sommet dans la capitale française des 37 pays de la coalition des volontaires pour l’Ukraine."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/14/les-images-du-defile-du-14-juillet-en-presence-de-volodymyr-zelensky-et-de-la-coalition-des-volontaires_6723303_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/14/les-images-du-defile-du-14-juillet-en-presence-de-volodymyr-zelensky-et-de-la-coalition-des-volontaires_6723303_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/14/les-images-du-defile-du-14-juillet-en-presence-de-volodymyr-zelensky-et-de-la-coalition-des-volontaires_6723303_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/642/0/7704/3852/644/322/60/0/fd96847_ftp-1-bkc4x3j0ofzg-5616956-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUDOVIC MARIN / AFP"
+      }
+    ],
+    "credit": "LUDOVIC MARIN / AFP"
+  }
+}

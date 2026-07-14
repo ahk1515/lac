@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T13:40:39.547465+00:00",
+  "_id": "4eff9e7fc697",
+  "brut": {
+    "title": "Des militaires ukrainiens marchent à Paris pour le défilé du 14-Juillet aux côtés de la \"Coalition des volontaires\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des militaires ukrainiens marchent à Paris pour le défilé du 14-Juillet aux côtés de la \"Coalition des volontaires\""
+    },
+    "summary": "Sous le regard d'Emmanuel Macron et de Volodymyr Zelensky, 25 soldats ukrainiens qui combattent depuis plus de quatre ans contre les Russes, ont descendu mardi l'avenue des Champs-Elysées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sous le regard d'Emmanuel Macron et de Volodymyr Zelensky, 25 soldats ukrainiens qui combattent depuis plus de quatre ans contre les Russes, ont descendu mardi l'avenue des Champs-Elysées."
+    },
+    "published": "Tue, 14 Jul 2026 13:05:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      11,
+      5,
+      15,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/france/14-juillet/des-militaires-ukrainiens-marchent-a-paris-pour-le-defile-du-14-juillet-aux-cotes-de-la-coalition-des-volontaires_8107502.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4mGH_YsBB8avoMnrWtI4bEcV7wE/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/14/6a5617151ff4e630449010.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/france/14-juillet/des-militaires-ukrainiens-marchent-a-paris-pour-le-defile-du-14-juillet-aux-cotes-de-la-coalition-des-volontaires_8107502.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/france/14-juillet/des-militaires-ukrainiens-marchent-a-paris-pour-le-defile-du-14-juillet-aux-cotes-de-la-coalition-des-volontaires_8107502.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
