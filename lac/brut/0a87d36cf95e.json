@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T20:59:17.154495+00:00",
+  "_id": "0a87d36cf95e",
+  "brut": {
+    "title": "Emmanuel Macron remet la Légion d’honneur à Keir Starmer",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Macron remet la Légion d’honneur à Keir Starmer"
+    },
+    "published": "Tue, 14 Jul 2026 20:51:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      18,
+      51,
+      35,
+      1,
+      195,
+      0
+    ],
+    "summary": "Le président français lui a remis cette décoration lundi, alors que Keir Starmer se trouvait à Paris pour un sommet de la coalition des volontaires rassemblant les pays soutenant l’Ukraine, et pour assister au traditionnel défilé militaire du 14-Juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président français lui a remis cette décoration lundi, alors que Keir Starmer se trouvait à Paris pour un sommet de la coalition des volontaires rassemblant les pays soutenant l’Ukraine, et pour assister au traditionnel défilé militaire du 14-Juillet."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/emmanuel-macron-remet-la-legion-d-honneur-a-keir-starmer_6723343_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/emmanuel-macron-remet-la-legion-d-honneur-a-keir-starmer_6723343_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/emmanuel-macron-remet-la-legion-d-honneur-a-keir-starmer_6723343_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/381/0/2052/1026/644/322/60/0/15645c8_ftp-1-b4rxzeqquf54-0f08882242c749f096b70ae95bf3286f-0-64e8c2182133484b8a788605f3c1744a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président Emmanuel Macron et le premier ministre britannique, Keir Starmer, après le défilé militaire sur les Champs-Elysées, à Paris, le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Thomas Padilla/AP Photo"
+      }
+    ],
+    "credit": "Thomas Padilla/AP Photo"
+  }
+}

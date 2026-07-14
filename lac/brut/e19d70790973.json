@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T20:59:17.154689+00:00",
+  "_id": "e19d70790973",
+  "brut": {
+    "title": "En Colombie, 39 personnes enlevées par la guérilla de l’ELN, selon l’armée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, 39 personnes enlevées par la guérilla de l’ELN, selon l’armée"
+    },
+    "published": "Tue, 14 Jul 2026 19:51:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      17,
+      51,
+      41,
+      1,
+      195,
+      0
+    ],
+    "updated": "Tue, 14 Jul 2026 20:11:41 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      18,
+      11,
+      41,
+      1,
+      195,
+      0
+    ],
+    "summary": "D’inspiration guévariste et armée depuis 1964, ce groupe n’a pas participé à l’historique accord de paix qui, il y a dix ans, a désarmé la majeure partie de l’ex-guérilla des FARC.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "D’inspiration guévariste et armée depuis 1964, ce groupe n’a pas participé à l’historique accord de paix qui, il y a dix ans, a désarmé la majeure partie de l’ex-guérilla des FARC."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/en-colombie-39-personnes-enlevees-par-la-guerilla-de-l-eln-selon-l-armee_6723340_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/en-colombie-39-personnes-enlevees-par-la-guerilla-de-l-eln-selon-l-armee_6723340_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/en-colombie-39-personnes-enlevees-par-la-guerilla-de-l-eln-selon-l-armee_6723340_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/17/384/0/4608/2304/644/322/60/0/8fd36cc_ftp-1-26hyszgnngno-2026-06-17t231053z-1330285422-rc2msladdzwc-rtrmadp-3-colombia-eln.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un commandant de l’ELN, dans la région du Choco, en Colombie, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jair Coll / REUTERS"
+      }
+    ],
+    "credit": "Jair Coll / REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T20:59:17.901310+00:00",
+  "_id": "54035b53fc2c",
+  "brut": {
+    "title": "L'Etat de New York met en pause la construction de centres de données, une première aux Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Etat de New York met en pause la construction de centres de données, une première aux Etats-Unis"
+    },
+    "summary": "\"Le développement des centres de données menace de faire grimper les factures d'eau et d'électricité, de puiser dans nos ressources naturelles et de créer de l'incertitude pour les New-Yorkais\", a défendu la gouverneure de l'Etat, Kathy Hochul.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Le développement des centres de données menace de faire grimper les factures d'eau et d'électricité, de puiser dans nos ressources naturelles et de créer de l'incertitude pour les New-Yorkais\", a défendu la gouverneure de l'Etat, Kathy Hochul."
+    },
+    "published": "Tue, 14 Jul 2026 22:54:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      20,
+      54,
+      46,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/l-etat-de-new-york-met-en-pause-la-construction-de-centres-de-donnees-une-premiere-aux-etats-unis_8108030.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZvpCBpVqa57DHTl5rvnYY5nP3XI/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/14/6a56a1f22820b495252013.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/l-etat-de-new-york-met-en-pause-la-construction-de-centres-de-donnees-une-premiere-aux-etats-unis_8108030.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/l-etat-de-new-york-met-en-pause-la-construction-de-centres-de-donnees-une-premiere-aux-etats-unis_8108030.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

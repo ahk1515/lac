@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T20:59:17.901726+00:00",
+  "_id": "a58284c5ae28",
+  "brut": {
+    "title": "Le début de l'été a été le plus chaud en Espagne depuis les premiers relevés en 1961",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le début de l'été a été le plus chaud en Espagne depuis les premiers relevés en 1961"
+    },
+    "summary": "L'Espagne continentale a enregistré ses températures moyennes quotidiennes et ses températures minimales moyennes les plus élevées pour un mois de juin depuis au moins 1950.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Espagne continentale a enregistré ses températures moyennes quotidiennes et ses températures minimales moyennes les plus élevées pour un mois de juin depuis au moins 1950."
+    },
+    "published": "Tue, 14 Jul 2026 21:54:54 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      19,
+      54,
+      54,
+      1,
+      195,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-debut-de-l-ete-a-ete-le-plus-chaud-en-espagne-depuis-les-premiers-releves-en-1961_8107997.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QhIQGTyQHW5GVjocgamy8pKlafw/0x114:1024x690/432x243/filters:format(jpg):quality(50)/2026/07/14/6a56939d84430730556793.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-debut-de-l-ete-a-ete-le-plus-chaud-en-espagne-depuis-les-premiers-releves-en-1961_8107997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-debut-de-l-ete-a-ete-le-plus-chaud-en-espagne-depuis-les-premiers-releves-en-1961_8107997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

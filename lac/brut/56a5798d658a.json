@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T20:59:17.154119+00:00",
+  "_id": "56a5798d658a",
+  "brut": {
+    "title": "Attaques dans le détroit d’Ormuz : la tension s’étend au Yémen",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attaques dans le détroit d’Ormuz : la tension s’étend au Yémen"
+    },
+    "published": "Tue, 14 Jul 2026 22:08:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      20,
+      8,
+      35,
+      1,
+      195,
+      0
+    ],
+    "summary": "Ces derniers jours, des échanges de tirs entre les houthistes, soutenus par l’Iran, et l’Arabie saoudite, alliée du gouvernement yéménite reconnu internationalement, font craindre une reprise de ce conflit supposé gelé depuis 2022.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces derniers jours, des échanges de tirs entre les houthistes, soutenus par l’Iran, et l’Arabie saoudite, alliée du gouvernement yéménite reconnu internationalement, font craindre une reprise de ce conflit supposé gelé depuis 2022."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/attaques-dans-le-detroit-d-ormuz-la-tension-s-etend-au-yemen_6723346_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/attaques-dans-le-detroit-d-ormuz-la-tension-s-etend-au-yemen_6723346_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/attaques-dans-le-detroit-d-ormuz-la-tension-s-etend-au-yemen_6723346_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/304/0/3648/1824/644/322/60/0/65171d8_ftp-1-bmlbfqgn56ct-9993548e32e4493f898dec6b030ec04e-0-1e7b307331254dfb934a84ab57465c39.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette capture d’écran d’une vidéo diffusée le 13 juillet 2026 par Al-Masirah TV, une chaîne d’information contrôlée par les houthis, montre le bombardement de la piste de l’aéroport international de Sanaa."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Al-Masirah TV via AP"
+      }
+    ],
+    "credit": "Al-Masirah TV via AP"
+  }
+}
