@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T02:24:58.739086+00:00",
+  "_id": "3439852c5bda",
+  "brut": {
+    "title": "En Argentine, un théâtre si vivant",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Argentine, un théâtre si vivant"
+    },
+    "published": "Tue, 14 Jul 2026 03:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      1,
+      0,
+      2,
+      1,
+      195,
+      0
+    ],
+    "summary": "Buenos Aires s’affirme comme l’épicentre d’un théâtre hispanophone créatif, aux propositions aussi précaires qu’abondantes, caractérisées par un jeu généreux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Buenos Aires s’affirme comme l’épicentre d’un théâtre hispanophone créatif, aux propositions aussi précaires qu’abondantes, caractérisées par un jeu généreux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/en-argentine-un-theatre-si-vivant_6723174_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/en-argentine-un-theatre-si-vivant_6723174_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/en-argentine-un-theatre-si-vivant_6723174_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/496/0/5955/2977/644/322/60/0/09a86b7_upload-1-gm0rom72rlmk-bor-8951.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une représentation de la pièce « Las Adoro », en Argentine."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Irish Suárez/Service de presse de la pièce « Las Adoro »"
+      }
+    ],
+    "credit": "Irish Suárez/Service de presse de la pièce « Las Adoro »"
+  }
+}

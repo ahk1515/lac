@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-14T02:24:59.013946+00:00",
+  "_id": "f56b2c8b4257",
+  "brut": {
+    "title": "Coalition des volontaires : les alliés de l'Ukraine dînent à l'Elysée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Coalition des volontaires : les alliés de l'Ukraine dînent à l'Elysée"
+    },
+    "summary": "Plusieurs chefs d'Etat et de gouvernement ont été invités à dîner à l'Elysée lundi 13 juillet, en marge du sommet de la Coalition des volontaires. Lors de ce sommet qui s'est tenu à Paris, les alliés ont réaffirmé leur soutien à l'Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plusieurs chefs d'Etat et de gouvernement ont été invités à dîner à l'Elysée lundi 13 juillet, en marge du sommet de la Coalition des volontaires. Lors de ce sommet qui s'est tenu à Paris, les alliés ont réaffirmé leur soutien à l'Ukraine."
+    },
+    "published": "Mon, 13 Jul 2026 23:28:58 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      21,
+      28,
+      58,
+      0,
+      194,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/armee-securite-defense/coalition-des-volontaires-les-allies-de-l-ukraine-dinent-a-l-elysee_8106752.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/izuZETK40DNvhQhn_qA2vpzQMK8/53x0:629x1024/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/13/6a55585cc610b424198091.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/armee-securite-defense/coalition-des-volontaires-les-allies-de-l-ukraine-dinent-a-l-elysee_8106752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/armee-securite-defense/coalition-des-volontaires-les-allies-de-l-ukraine-dinent-a-l-elysee_8106752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

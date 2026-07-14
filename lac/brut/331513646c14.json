@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T02:24:58.739337+00:00",
+  "_id": "331513646c14",
+  "brut": {
+    "title": "Venezuela : la présidente remplace le ministre des affaires étrangères",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Venezuela : la présidente remplace le ministre des affaires étrangères"
+    },
+    "published": "Tue, 14 Jul 2026 02:57:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      0,
+      57,
+      2,
+      1,
+      195,
+      0
+    ],
+    "summary": "Le représentant du pays aux Etats-Unis, Félix Plasencia, a été nommé à ce poste en remplacement d’Yvan Gil.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le représentant du pays aux Etats-Unis, Félix Plasencia, a été nommé à ce poste en remplacement d’Yvan Gil."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/venezuela-la-presidente-remplace-le-ministre-des-affaires-etrangeres_6723173_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/venezuela-la-presidente-remplace-le-ministre-des-affaires-etrangeres_6723173_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/venezuela-la-presidente-remplace-le-ministre-des-affaires-etrangeres_6723173_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/272/0/3270/1635/644/322/60/0/a372ea1_ftp-1-yau7odjdtnal-5613475-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Felix Plasencia à l’aéroport international de Miami, en Floride, le 30 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CHANDAN KHANNA / AFP"
+      }
+    ],
+    "credit": "CHANDAN KHANNA / AFP"
+  }
+}

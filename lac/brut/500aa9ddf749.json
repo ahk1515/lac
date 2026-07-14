@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T02:24:58.740039+00:00",
+  "_id": "500aa9ddf749",
+  "brut": {
+    "title": "Incendie en Andalousie : cinq Britanniques, trois Belges, une Française et un Espagnol parmi les 13 victimes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie en Andalousie : cinq Britanniques, trois Belges, une Française et un Espagnol parmi les 13 victimes"
+    },
+    "published": "Tue, 14 Jul 2026 00:56:22 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      22,
+      56,
+      22,
+      0,
+      194,
+      0
+    ],
+    "updated": "Tue, 14 Jul 2026 02:28:29 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      0,
+      28,
+      29,
+      1,
+      195,
+      0
+    ],
+    "summary": "Les corps de trois personnes restent non identifiés et l’inconnue demeure sur d’autres potentielles victimes. Le premier ministre espagnol, Pedro Sanchez, s’est rendu lundi sur les lieux du feu, l’un des plus meurtriers de l’histoire récente du pays, et a appelé à développer une culture de la « prévention ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les corps de trois personnes restent non identifiés et l’inconnue demeure sur d’autres potentielles victimes. Le premier ministre espagnol, Pedro Sanchez, s’est rendu lundi sur les lieux du feu, l’un des plus meurtriers de l’histoire récente du pays, et a appelé à développer une culture de la « prévention »."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/14/incendie-en-andalousie-cinq-britanniques-trois-belges-une-francaise-et-un-espagnol-parmi-les-13-victimes_6723137_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/14/incendie-en-andalousie-cinq-britanniques-trois-belges-une-francaise-et-un-espagnol-parmi-les-13-victimes_6723137_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/14/incendie-en-andalousie-cinq-britanniques-trois-belges-une-francaise-et-un-espagnol-parmi-les-13-victimes_6723137_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/500/0/6048/3024/644/322/60/0/1b94157_ftp-1-ijb9k8f3aryn-5611087-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue du paysage calciné quelques jours après un incendie de forêt qui a fait au moins 13 morts, à Bedar, près d’Almeria (Espagne), le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JORGE GUERRERO/AFP"
+      }
+    ],
+    "credit": "JORGE GUERRERO/AFP"
+  }
+}

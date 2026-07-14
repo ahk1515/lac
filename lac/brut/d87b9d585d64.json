@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-14T02:24:58.739876+00:00",
+  "_id": "d87b9d585d64",
+  "brut": {
+    "title": "En Hongrie, le Parlement vote la destitution du président de la République",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Hongrie, le Parlement vote la destitution du président de la République"
+    },
+    "published": "Tue, 14 Jul 2026 01:21:59 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      23,
+      21,
+      59,
+      0,
+      194,
+      0
+    ],
+    "summary": "La réforme de la Constitution, initiée par le parti du premier ministre Péter Magyar, interdit également à deux tiers des députés du Fidesz de se représenter au Parlement lors des prochaines législatives, en 2030.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La réforme de la Constitution, initiée par le parti du premier ministre Péter Magyar, interdit également à deux tiers des députés du Fidesz de se représenter au Parlement lors des prochaines législatives, en 2030."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/14/en-hongrie-le-parlement-vote-la-destitution-du-president-de-la-republique_6723138_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/14/en-hongrie-le-parlement-vote-la-destitution-du-president-de-la-republique_6723138_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/14/en-hongrie-le-parlement-vote-la-destitution-du-president-de-la-republique_6723138_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/0/0/5019/2509/644/322/60/0/19db243_ftp-1-xcobrtd2mk3j-5595692-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Tamas Sulyok, président hongrois, à Budapest, le 10 mars 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ATTILA KISBENEDEK/AFP"
+      }
+    ],
+    "credit": "ATTILA KISBENEDEK/AFP"
+  }
+}
