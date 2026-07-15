@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T20:58:56.591751+00:00",
+  "_id": "d698328651b3",
+  "brut": {
+    "title": "Canicule à l'italienne : Système D et dérision",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Canicule à l'italienne : Système D et dérision"
+    },
+    "summary": "Piscine mobile sur un pick-up ou Vespa option parasol, les Italiens font preuve d'inventivité et d'autodérision face à des températures qui vont dépasser les 40 degrés dans plusieurs villes du pays. 13 villes seront en alerte rouge jeudi 16 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Piscine mobile sur un pick-up ou Vespa option parasol, les Italiens font preuve d'inventivité et d'autodérision face à des températures qui vont dépasser les 40 degrés dans plusieurs villes du pays. 13 villes seront en alerte rouge jeudi 16 juillet."
+    },
+    "published": "Wed, 15 Jul 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      20,
+      0,
+      1,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-a-l-italienne-systeme-d-et-derision_8109095.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/3RSJwQuZLzJpS87dHnqrJllNQmM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/15/6a57a7176d8de967296740.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-a-l-italienne-systeme-d-et-derision_8109095.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-a-l-italienne-systeme-d-et-derision_8109095.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

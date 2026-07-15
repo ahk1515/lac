@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T20:58:56.591927+00:00",
+  "_id": "16d9bff1de15",
+  "brut": {
+    "title": "À Cuba, le système de santé au bord de la rupture",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Cuba, le système de santé au bord de la rupture"
+    },
+    "summary": "🇨🇺 La crise économique et le blocus pétrolier de Washington mettent à rude épreuve les 🏥 hôpitaux et les services médicaux cubains. Pénuries de pièces détachées et vieillissement des technologies limitent la prise en charge des patients. #franceinfoRF",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇨🇺 La crise économique et le blocus pétrolier de Washington mettent à rude épreuve les 🏥 hôpitaux et les services médicaux cubains. Pénuries de pièces détachées et vieillissement des technologies limitent la prise en charge des patients. #franceinfoRF"
+    },
+    "published": "Wed, 15 Jul 2026 20:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      18,
+      0,
+      2,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/cuba/a-cuba-le-systeme-de-sante-au-bord-de-la-rupture_8107685.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/p8UtT3cRfFsQFyXxcRUsh7BKQqM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/14/6a5643643c71e736845659.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/cuba/a-cuba-le-systeme-de-sante-au-bord-de-la-rupture_8107685.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/cuba/a-cuba-le-systeme-de-sante-au-bord-de-la-rupture_8107685.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

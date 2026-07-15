@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T20:58:56.301526+00:00",
+  "_id": "20ea4e080446",
+  "brut": {
+    "title": "Dans le Sahara libyen, une nouvelle rébellion fragilise l’emprise du clan du maréchal Khalifa Haftar",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le Sahara libyen, une nouvelle rébellion fragilise l’emprise du clan du maréchal Khalifa Haftar"
+    },
+    "published": "Wed, 15 Jul 2026 20:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      18,
+      0,
+      10,
+      2,
+      196,
+      0
+    ],
+    "summary": "L’Armée nationale libyenne, toute puissante en Cyrénaïque, voit son autorité de plus en plus contestée dans le Fezzan, province désertique riche en hydrocarbures.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Armée nationale libyenne, toute puissante en Cyrénaïque, voit son autorité de plus en plus contestée dans le Fezzan, province désertique riche en hydrocarbures."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/15/dans-le-sahara-libyen-une-nouvelle-rebellion-fragilise-l-emprise-du-clan-du-marechal-khalifa-haftar_6723605_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/15/dans-le-sahara-libyen-une-nouvelle-rebellion-fragilise-l-emprise-du-clan-du-marechal-khalifa-haftar_6723605_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/15/dans-le-sahara-libyen-une-nouvelle-rebellion-fragilise-l-emprise-du-clan-du-marechal-khalifa-haftar_6723605_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/0/0/1588/794/644/322/60/0/211a427_upload-1-qyw4z2thvn4h-capture-d-e-cran-2026-07-14-a-15-32-44.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur une capture d’écran d’une vidéo postée sur le compte Facebook de la Chambre des opérations pour la libération du Sud (COLS), Mohamed Wardougou (au centre), posant devant une dizaine de pick-up, dans un lieu indéterminé, le 27 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Chambre des opérations pour la libération du Sud/Facebook"
+      }
+    ],
+    "credit": "Chambre des opérations pour la libération du Sud/Facebook"
+  }
+}

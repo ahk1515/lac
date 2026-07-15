@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T20:58:56.301345+00:00",
+  "_id": "f00fb5293332",
+  "brut": {
+    "title": "L’Union européenne accepte les mesures correctives de X après l’amende de 120 millions d’euros prononcée à la fin de 2025",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Union européenne accepte les mesures correctives de X après l’amende de 120 millions d’euros prononcée à la fin de 2025"
+    },
+    "published": "Wed, 15 Jul 2026 20:39:22 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      18,
+      39,
+      22,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 20:44:10 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      18,
+      44,
+      10,
+      2,
+      196,
+      0
+    ],
+    "summary": "« C’est un pas important dans la bonne direction », a salué Thomas Regnier, porte-parole de la Commission européenne en matière de numérique. Cela ne met cependant pas un terme au litige, l’ex-Twitter ayant fait appel de l’amende européenne en février.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« C’est un pas important dans la bonne direction », a salué Thomas Regnier, porte-parole de la Commission européenne en matière de numérique. Cela ne met cependant pas un terme au litige, l’ex-Twitter ayant fait appel de l’amende européenne en février."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/07/15/l-union-europeenne-accepte-les-mesures-correctives-de-x-apres-l-amende-de-120-millions-d-euros-prononcee-a-la-fin-de-2025_6723612_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/15/l-union-europeenne-accepte-les-mesures-correctives-de-x-apres-l-amende-de-120-millions-d-euros-prononcee-a-la-fin-de-2025_6723612_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/07/15/l-union-europeenne-accepte-les-mesures-correctives-de-x-apres-l-amende-de-120-millions-d-euros-prononcee-a-la-fin-de-2025_6723612_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/08/214/0/2567/1283/644/322/60/0/0acb7f6_ftp-1-xugt2iodnu8h-2026-07-08t205010z-814711673-rc2y8la6l3sl-rtrmadp-3-usa-sec-musk.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Elon Musk, directeur du réseau social X, à Pékin, le 14 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evan Vucci / REUTERS"
+      }
+    ],
+    "credit": "Evan Vucci / REUTERS"
+  }
+}

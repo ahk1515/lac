@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T20:58:56.591814+00:00",
+  "_id": "3de5a4d38adc",
+  "brut": {
+    "title": "L'ICE tue deux personnes par balles aux États-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ICE tue deux personnes par balles aux États-Unis"
+    },
+    "summary": "Aux États-Unis, la police de l'immigration impliquée dans deux morts en l'espace d'une semaine. Donald Trump a demandé à l'ICE de maintenir ses contrôles routiers, suspendus après ces deux décès.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, la police de l'immigration impliquée dans deux morts en l'espace d'une semaine. Donald Trump a demandé à l'ICE de maintenir ses contrôles routiers, suspendus après ces deux décès."
+    },
+    "published": "Wed, 15 Jul 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      20,
+      0,
+      1,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-ice-tue-deux-personnes-par-balles-aux-etats-unis_8109395.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_8zqN7h6E1x0XoFAZca76D_Ocmo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/15/6a57e21ca712e679087155.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-ice-tue-deux-personnes-par-balles-aux-etats-unis_8109395.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-ice-tue-deux-personnes-par-balles-aux-etats-unis_8109395.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T20:58:56.301443+00:00",
+  "_id": "f20136f16810",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
+    },
+    "published": "Wed, 15 Jul 2026 20:37:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      18,
+      37,
+      14,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 22:15:18 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      20,
+      15,
+      18,
+      2,
+      196,
+      0
+    ],
+    "summary": "« Ces frappes visent les capacités militaires iraniennes utilisées pour menacer les navires transitant librement par le détroit d’Ormuz », a précisé l’armée américaine, tandis que des explosions ont été entendues dans la ville iranienne d’Ahvaz.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Ces frappes visent les capacités militaires iraniennes utilisées pour menacer les navires transitant librement par le détroit d’Ormuz », a précisé l’armée américaine, tandis que des explosions ont été entendues dans la ville iranienne d’Ahvaz."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-dernieres-informations-apres-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6722873_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-dernieres-informations-apres-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6722873_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-dernieres-informations-apres-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6722873_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/15/109/0/3500/1750/644/322/60/0/3338adf_ftp-1-bqovemmi51cj-5626082-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur cette capture d’écran d’une vidéo diffusée par l’armée américaine, une frappe contre des cibles en Iran, le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "US Central Command/AFP"
+      }
+    ],
+    "credit": "US Central Command/AFP"
+  }
+}

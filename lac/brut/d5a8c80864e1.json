@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T20:58:56.591610+00:00",
+  "_id": "d5a8c80864e1",
+  "brut": {
+    "title": "Canada : un mur de feu dévaste 50 000 hectares",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Canada : un mur de feu dévaste 50 000 hectares"
+    },
+    "summary": "Un train a traversé un immense brasier, en Ontario, dans l'est du Canada. L'équipage a dû l'abandonner en urgence avant de prendre la fuite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un train a traversé un immense brasier, en Ontario, dans l'est du Canada. L'équipage a dû l'abandonner en urgence avant de prendre la fuite."
+    },
+    "published": "Wed, 15 Jul 2026 22:25:57 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      20,
+      25,
+      57,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/canada-un-mur-de-feu-devaste-50-000-hectares_8109407.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/qNyfgQFwIOeuUCGJyVHMT5yw5MU/120x0:1591x827/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57e8126c29c890994898.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/canada-un-mur-de-feu-devaste-50-000-hectares_8109407.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/canada-un-mur-de-feu-devaste-50-000-hectares_8109407.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

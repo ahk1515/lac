@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T20:58:56.591684+00:00",
+  "_id": "a9f401036e37",
+  "brut": {
+    "title": "Le coût d'une alimentation saine a augmenté de 25% en cinq ans, selon l'ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le coût d'une alimentation saine a augmenté de 25% en cinq ans, selon l'ONU"
+    },
+    "summary": "L'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO) encourage la production locale, qui réduirait le coût d'une alimentation saine de 34% à l'échelle mondiale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO) encourage la production locale, qui réduirait le coût d'une alimentation saine de 34% à l'échelle mondiale."
+    },
+    "published": "Wed, 15 Jul 2026 22:26:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      20,
+      26,
+      45,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8uEjOULiSWYNtr6MfH1qtLfbIbE/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57eca6dedd2528617911.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
