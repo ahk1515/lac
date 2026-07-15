@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T02:22:49.474677+00:00",
+  "_id": "296643047af4",
+  "brut": {
+    "title": "Incendie en Andalousie : toutes les dépouilles ont été identifiées, douze ressortissants étrangers parmi les treize victimes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie en Andalousie : toutes les dépouilles ont été identifiées, douze ressortissants étrangers parmi les treize victimes"
+    },
+    "published": "Wed, 15 Jul 2026 01:52:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      23,
+      52,
+      35,
+      1,
+      195,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 02:30:50 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      0,
+      30,
+      50,
+      2,
+      196,
+      0
+    ],
+    "summary": "L’état des douze corps retrouvés sur les lieux du drame a contraint les médecins légistes à procéder à des comparaisons génétiques, pour établir l’identité des victimes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’état des douze corps retrouvés sur les lieux du drame a contraint les médecins légistes à procéder à des comparaisons génétiques, pour établir l’identité des victimes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/15/incendie-en-andalousie-toutes-les-depouilles-ont-ete-identifiees-douze-ressortissants-etrangers-parmi-les-treize-victimes_6723137_3245.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/15/incendie-en-andalousie-toutes-les-depouilles-ont-ete-identifiees-douze-ressortissants-etrangers-parmi-les-treize-victimes_6723137_3245.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/15/incendie-en-andalousie-toutes-les-depouilles-ont-ete-identifiees-douze-ressortissants-etrangers-parmi-les-treize-victimes_6723137_3245.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/500/0/6048/3024/644/322/60/0/1b94157_ftp-1-ijb9k8f3aryn-5611087-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Paysage calciné quelques jours après un incendie de forêt qui a fait au moins 13 morts, à Bedar, près d’Almeria (Espagne), le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JORGE GUERRERO/AFP"
+      }
+    ],
+    "credit": "JORGE GUERRERO/AFP"
+  }
+}

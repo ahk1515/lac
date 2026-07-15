@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T02:22:49.475221+00:00",
+  "_id": "242a99fb2a18",
+  "brut": {
+    "title": "En Colombie, l’armée annonce la libération de 39 personnes enlevées par la guérilla de l’ELN",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, l’armée annonce la libération de 39 personnes enlevées par la guérilla de l’ELN"
+    },
+    "published": "Wed, 15 Jul 2026 00:32:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      22,
+      32,
+      14,
+      1,
+      195,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 01:56:03 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      14,
+      23,
+      56,
+      3,
+      1,
+      195,
+      0
+    ],
+    "summary": "D’inspiration guévariste et armée depuis 1964, ce groupe n’a pas participé à l’historique accord de paix qui, il y a dix ans, a permis le désarmement de la majeure partie de l’ex-guérilla des FARC.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "D’inspiration guévariste et armée depuis 1964, ce groupe n’a pas participé à l’historique accord de paix qui, il y a dix ans, a permis le désarmement de la majeure partie de l’ex-guérilla des FARC."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/15/en-colombie-l-armee-annonce-la-liberation-de-39-personnes-enlevees-par-la-guerilla-de-l-eln_6723340_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/15/en-colombie-l-armee-annonce-la-liberation-de-39-personnes-enlevees-par-la-guerilla-de-l-eln_6723340_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/15/en-colombie-l-armee-annonce-la-liberation-de-39-personnes-enlevees-par-la-guerilla-de-l-eln_6723340_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/17/384/0/4608/2304/644/322/60/0/8fd36cc_ftp-1-26hyszgnngno-2026-06-17t231053z-1330285422-rc2msladdzwc-rtrmadp-3-colombia-eln.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un commandant de l’ELN, dans la région du Choco, en Colombie, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jair Coll / REUTERS"
+      }
+    ],
+    "credit": "Jair Coll / REUTERS"
+  }
+}

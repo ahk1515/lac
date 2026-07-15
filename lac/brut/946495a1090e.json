@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T02:22:49.474411+00:00",
+  "_id": "946495a1090e",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont lancé « une nouvelle série de frappes contre l’Iran », Téhéran réplique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont lancé « une nouvelle série de frappes contre l’Iran », Téhéran réplique"
+    },
+    "published": "Wed, 15 Jul 2026 02:35:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      0,
+      35,
+      45,
+      2,
+      196,
+      0
+    ],
+    "summary": "L’Iran a visé une base militaire en Jordanie, selon une agence de presse officielle iranienne, les sirènes d’alerte aérienne ont été déclenchées à Bahreïn et le Koweït fait face à des « attaques hostiles de drones ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Iran a visé une base militaire en Jordanie, selon une agence de presse officielle iranienne, les sirènes d’alerte aérienne ont été déclenchées à Bahreïn et le Koweït fait face à des « attaques hostiles de drones »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-une-nouvelle-serie-de-frappes-contre-l-iran-teheran-replique_6722873_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-une-nouvelle-serie-de-frappes-contre-l-iran-teheran-replique_6722873_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-une-nouvelle-serie-de-frappes-contre-l-iran-teheran-replique_6722873_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/332/0/5097/2548/644/322/60/0/cb820a0_ftp-1-qnzuoiv8bubn-2026-07-14t231952z-434015547-rc2zdmayto4i-rtrmadp-3-iran-crisis.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran d’une vidéo publiée par une agence de presse officielle iranienne le 14 juillet 2026, montrant, selon cette source, le lancement d’un drone par l’Iran depuis un lieu inconnu afin d’attaquer la base militaire d’Azraq, en Jordanie."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Islamic Republic of Iran Broadcasting via REUTERS"
+      }
+    ],
+    "credit": "Islamic Republic of Iran Broadcasting via REUTERS"
+  }
+}

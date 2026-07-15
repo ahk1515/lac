@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T02:22:49.474872+00:00",
+  "_id": "1b6ac521ee6a",
+  "brut": {
+    "title": "Le régulateur américain de l’aviation annonce une « étape majeure » pour l’autorisation des taxis volants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le régulateur américain de l’aviation annonce une « étape majeure » pour l’autorisation des taxis volants"
+    },
+    "published": "Wed, 15 Jul 2026 01:38:58 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      14,
+      23,
+      38,
+      58,
+      1,
+      195,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 02:41:10 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      0,
+      41,
+      10,
+      2,
+      196,
+      0
+    ],
+    "summary": "L’instance a affirmé avoir testé avec succès un véhicule électrique à décollage et à atterrissage vertical. L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’instance a affirmé avoir testé avec succès un véhicule électrique à décollage et à atterrissage vertical. L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/447/0/6819/3409/644/322/60/0/0c9fd84_upload-1-8wimrlussrhy-2025-06-03t180901z-498654176-rc23veasj0sn-rtrmadp-3-new-york-plane.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un avion électrique, ALIA, de la société BETA Technologies, au-dessus de l’aéroport John F. Kennedy à New York, le 3 juin 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kylie Cooper/REUTERS"
+      }
+    ],
+    "credit": "Kylie Cooper/REUTERS"
+  }
+}
