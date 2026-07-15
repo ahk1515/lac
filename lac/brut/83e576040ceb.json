@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T10:01:40.002507+00:00",
+  "_id": "83e576040ceb",
+  "brut": {
+    "title": "Rachat de Warner Bros Discovery par Paramount : le syndicat des scénaristes monte au créneau",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Rachat de Warner Bros Discovery par Paramount : le syndicat des scénaristes monte au créneau"
+    },
+    "summary": "Le syndicat WGA craint que ce nouveau conglomérat débouche sur des baisses de salaires, des suppressions d'emplois et la diminution du nombre de programmes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le syndicat WGA craint que ce nouveau conglomérat débouche sur des baisses de salaires, des suppressions d'emplois et la diminution du nombre de programmes."
+    },
+    "published": "Wed, 15 Jul 2026 10:33:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      8,
+      33,
+      40,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/rachat-de-warner-bros-discovery-par-paramount-le-syndicat-des-scenaristes-monte-au-creneau_8108474.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gINvDvgcJbTWnG_yNxEheKj6JFA/0x73:5662x3258/432x243/filters:format(jpg):quality(50)/2026/07/15/6a5734a42953e944693200.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/rachat-de-warner-bros-discovery-par-paramount-le-syndicat-des-scenaristes-monte-au-creneau_8108474.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/rachat-de-warner-bros-discovery-par-paramount-le-syndicat-des-scenaristes-monte-au-creneau_8108474.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

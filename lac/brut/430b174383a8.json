@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T10:01:39.835555+00:00",
+  "_id": "430b174383a8",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque nocturne d’envergure contre 20 navires russes en mer Noire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque nocturne d’envergure contre 20 navires russes en mer Noire"
+    },
+    "published": "Wed, 15 Jul 2026 11:28:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      9,
+      28,
+      11,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 11:55:50 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      9,
+      55,
+      50,
+      2,
+      196,
+      0
+    ],
+    "summary": "Selon l’armée ukrainienne, ses unités de drones ont neutralisé, dans la nuit de mardi à mercredi, 17 pétroliers, deux méthaniers et un remorqueur russes. Elle avait affirmé, mardi, avoir touché 116 navires russes en neuf jours, dont de nombreux pétroliers de transbordement, en mer d’Azov.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon l’armée ukrainienne, ses unités de drones ont neutralisé, dans la nuit de mardi à mercredi, 17 pétroliers, deux méthaniers et un remorqueur russes. Elle avait affirmé, mardi, avoir touché 116 navires russes en neuf jours, dont de nombreux pétroliers de transbordement, en mer d’Azov."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-nocturne-d-envergure-contre-20-navires-russes-en-mer-noire_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-nocturne-d-envergure-contre-20-navires-russes-en-mer-noire_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-nocturne-d-envergure-contre-20-navires-russes-en-mer-noire_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/0/0/3558/1779/644/322/60/0/44ebfae_ftp-1-sib6ia7s1mml-2026-07-09t104259z-934470017-rc2aamatlhku-rtrmadp-3-ukraine-crisis-tankers.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran d’une vidéo diffusée le 9 juillet 2026 par l’armée ukrainienne montrant, selon elle, un pétrolier russe lors d’une frappe de drone ukrainien menée dans une zone identifiée comme la mer d’Azov."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Armée ukrainienne via REUTERS"
+      }
+    ],
+    "credit": "Armée ukrainienne via REUTERS"
+  }
+}
