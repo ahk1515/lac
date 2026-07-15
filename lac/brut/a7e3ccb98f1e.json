@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T17:16:18.539791+00:00",
+  "_id": "a7e3ccb98f1e",
+  "brut": {
+    "title": "Incendies au Canada : un train pris au piège dans un brasier",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendies au Canada : un train pris au piège dans un brasier"
+    },
+    "summary": "Au Canada, un train de fret s’est retrouvé piégé au milieu des flammes. Depuis plusieurs jours, le pays est en proie à des incendies qui ont déjà ravagé plus de 53 000 hectares.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Canada, un train de fret s’est retrouvé piégé au milieu des flammes. Depuis plusieurs jours, le pays est en proie à des incendies qui ont déjà ravagé plus de 53 000 hectares."
+    },
+    "published": "Wed, 15 Jul 2026 18:44:56 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      16,
+      44,
+      56,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/incendies-au-canada-un-train-pris-au-piege-dans-un-brasier_8109230.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3fSUk3euYxsXZhKoplL7sMlo3g8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/15/6a57b8f28a38b825083409.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/incendies-au-canada-un-train-pris-au-piege-dans-un-brasier_8109230.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/incendies-au-canada-un-train-pris-au-piege-dans-un-brasier_8109230.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

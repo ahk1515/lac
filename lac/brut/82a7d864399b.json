@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T17:16:18.360584+00:00",
+  "_id": "82a7d864399b",
+  "brut": {
+    "title": "Donald Trump demande à l’ICE de maintenir ses contrôles routiers, suspendus après la mort de deux personnes tuées par des agents",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump demande à l’ICE de maintenir ses contrôles routiers, suspendus après la mort de deux personnes tuées par des agents"
+    },
+    "published": "Wed, 15 Jul 2026 16:55:29 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      14,
+      55,
+      29,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 17:13:11 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      15,
+      13,
+      11,
+      2,
+      196,
+      0
+    ],
+    "summary": "Chargés de mettre en œuvre la campagne d’expulsion massive voulue par le président américain, les agents de la police de l’immigration font l’objet d’une vive opposition à travers le pays en raison de leurs méthodes agressives.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Chargés de mettre en œuvre la campagne d’expulsion massive voulue par le président américain, les agents de la police de l’immigration font l’objet d’une vive opposition à travers le pays en raison de leurs méthodes agressives."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/15/donald-trump-demande-a-l-ice-de-maintenir-ses-controles-routiers-suspendus-apres-la-mort-de-deux-personnes-tuees-par-des-agents_6723576_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/15/donald-trump-demande-a-l-ice-de-maintenir-ses-controles-routiers-suspendus-apres-la-mort-de-deux-personnes-tuees-par-des-agents_6723576_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/15/donald-trump-demande-a-l-ice-de-maintenir-ses-controles-routiers-suspendus-apres-la-mort-de-deux-personnes-tuees-par-des-agents_6723576_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/250/0/3000/1500/644/322/60/0/b551950_ftp-1-fr8snbrdaxzf-5619942-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des manifestants devant un bureau fédéral de l’immigration après la mort d’un livreur colombien tué par des agents de l’ICE.  À Scarborough (Maine), le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RYAN MURPHY/AFP"
+      }
+    ],
+    "credit": "RYAN MURPHY/AFP"
+  }
+}

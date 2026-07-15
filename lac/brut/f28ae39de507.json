@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T17:16:18.540967+00:00",
+  "_id": "f28ae39de507",
+  "brut": {
+    "title": "Dans ce pays, il est interdit de filmer la pauvreté",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans ce pays, il est interdit de filmer la pauvreté"
+    },
+    "summary": "Au Burkina Faso, il est désormais interdit de filmer des personnes pauvres pour inciter aux dons. On t’explique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Burkina Faso, il est désormais interdit de filmer des personnes pauvres pour inciter aux dons. On t’explique."
+    },
+    "published": "Wed, 15 Jul 2026 16:10:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      14,
+      10,
+      40,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/dans-ce-pays-il-est-interdit-de-filmer-la-pauvrete_8108927.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RFZqC_7IuXAHKuQTBF_aTzpKURI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/15/6a5794be06a19977141838.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/dans-ce-pays-il-est-interdit-de-filmer-la-pauvrete_8108927.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/dans-ce-pays-il-est-interdit-de-filmer-la-pauvrete_8108927.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

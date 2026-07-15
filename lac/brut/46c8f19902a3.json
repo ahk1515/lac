@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T17:16:18.360218+00:00",
+  "_id": "46c8f19902a3",
+  "brut": {
+    "title": "Les banques américaines engrangent des profits exceptionnels grâce à la Bourse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les banques américaines engrangent des profits exceptionnels grâce à la Bourse"
+    },
+    "published": "Wed, 15 Jul 2026 17:00:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      15,
+      0,
+      8,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 18:31:14 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      16,
+      31,
+      14,
+      2,
+      196,
+      0
+    ],
+    "summary": "La volatilité des marchés profite pleinement aux géants de Wall Street, qui voient leurs profits trimestriels exploser collectivement de 40 %.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La volatilité des marchés profite pleinement aux géants de Wall Street, qui voient leurs profits trimestriels exploser collectivement de 40 %."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/15/les-banques-americaines-engrangent-des-profits-exceptionnels-grace-a-la-bourse_6723579_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/15/les-banques-americaines-engrangent-des-profits-exceptionnels-grace-a-la-bourse_6723579_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/15/les-banques-americaines-engrangent-des-profits-exceptionnels-grace-a-la-bourse_6723579_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/06/720/0/8640/4320/644/322/60/0/d3afe0e_ftp-1-axetpnxw71e6-0e63710987b34f65a4eb45bf33befbf2-0-1749cc0263804418bc911bc68358de3b.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans la salle des marchés de la Bourse de New York, le 6 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Seth Wenig/AP Photo/Seth Wenig"
+      }
+    ],
+    "credit": "Seth Wenig/AP Photo/Seth Wenig"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T17:16:18.359937+00:00",
+  "_id": "81cf09fa5c80",
+  "brut": {
+    "title": "La Fraternité Saint-Pie X, frappée d’excommunication, dépose un recours auprès du Vatican",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Fraternité Saint-Pie X, frappée d’excommunication, dépose un recours auprès du Vatican"
+    },
+    "published": "Wed, 15 Jul 2026 17:01:39 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      15,
+      1,
+      39,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 17:39:57 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      15,
+      39,
+      57,
+      2,
+      196,
+      0
+    ],
+    "summary": "Fondée par l’évêque français Marcel Lefebvre, cette communauté intégriste forte d’environ 600 000 fidèles dans le monde avait déjà été à l’origine d’une première rupture avec le Vatican en 1988.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Fondée par l’évêque français Marcel Lefebvre, cette communauté intégriste forte d’environ 600 000 fidèles dans le monde avait déjà été à l’origine d’une première rupture avec le Vatican en 1988."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/15/frappee-d-excommunication-la-fraternite-saint-pie-x-depose-un-recours-aupres-du-vatican_6723581_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/15/frappee-d-excommunication-la-fraternite-saint-pie-x-depose-un-recours-aupres-du-vatican_6723581_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/15/frappee-d-excommunication-la-fraternite-saint-pie-x-depose-un-recours-aupres-du-vatican_6723581_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/01/416/0/5000/2500/644/322/60/0/31c3d7f_ftp-1-wrglqtptrovw-5498600-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Davide Pagliarani, supérieur général de la Fraternité Saint-Pie X, lors de l’ordination schismatique d’évêques, à Econe (Suisse), le 1ᵉʳ juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FABRICE COFFRINI/AFP"
+      }
+    ],
+    "credit": "FABRICE COFFRINI/AFP"
+  }
+}

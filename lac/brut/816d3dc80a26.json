@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T17:16:18.541267+00:00",
+  "_id": "816d3dc80a26",
+  "brut": {
+    "title": "À Tokyo, la mairie subventionne indirectement la climatisation de ses habitants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Tokyo, la mairie subventionne indirectement la climatisation de ses habitants"
+    },
+    "summary": "Au Japon, face aux fortes chaleurs estivales, les autorités prennent en charge une partie des dépenses des ménages afin de les encourager à faire fonctionner leurs climatiseurs et de limiter les risques sanitaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Japon, face aux fortes chaleurs estivales, les autorités prennent en charge une partie des dépenses des ménages afin de les encourager à faire fonctionner leurs climatiseurs et de limiter les risques sanitaires."
+    },
+    "published": "Wed, 15 Jul 2026 15:39:23 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      13,
+      39,
+      23,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-tokyo-la-mairie-subventionne-indirectement-la-climatisation-de-ses-habitants_8078183.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9BOf-A80z6xi0w2ksX9DEn5k4fA/0x128:2091x1305/432x243/filters:format(jpg):quality(50)/2026/07/15/6a576cffda09e500133552.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-tokyo-la-mairie-subventionne-indirectement-la-climatisation-de-ses-habitants_8078183.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-tokyo-la-mairie-subventionne-indirectement-la-climatisation-de-ses-habitants_8078183.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
