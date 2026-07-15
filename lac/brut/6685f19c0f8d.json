@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T06:12:53.953513+00:00",
+  "_id": "6685f19c0f8d",
+  "brut": {
+    "title": "Aux Etats-Unis, l’administration Trump ordonne la suspension des contrôles routiers effectués par l’ICE après la mort de deux personnes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, l’administration Trump ordonne la suspension des contrôles routiers effectués par l’ICE après la mort de deux personnes"
+    },
+    "published": "Wed, 15 Jul 2026 05:47:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      3,
+      47,
+      11,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 07:42:36 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      5,
+      42,
+      36,
+      2,
+      196,
+      0
+    ],
+    "summary": "La décision survient au lendemain de la mort par balles d’un Colombien de 25 ans à Biddeford, petite ville du Maine, alors qu’il se trouvait dans sa voiture.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La décision survient au lendemain de la mort par balles d’un Colombien de 25 ans à Biddeford, petite ville du Maine, alors qu’il se trouvait dans sa voiture."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/15/l-administration-trump-ordonne-la-suspension-des-controles-routiers-de-l-ice_6723489_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/15/l-administration-trump-ordonne-la-suspension-des-controles-routiers-de-l-ice_6723489_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/15/l-administration-trump-ordonne-la-suspension-des-controles-routiers-de-l-ice_6723489_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/928/0/5568/2784/644/322/60/0/7a694cc_ftp-1-6rbwtm8jhchb-5623441-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation contre l’ICE après la mort de Joan Sebastian Guerrero, à Portland (Maine), le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOSEPH PREZIOSO/AFP"
+      }
+    ],
+    "credit": "JOSEPH PREZIOSO/AFP"
+  }
+}

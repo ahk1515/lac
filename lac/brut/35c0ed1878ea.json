@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T06:12:53.954117+00:00",
+  "_id": "35c0ed1878ea",
+  "brut": {
+    "title": "En Turquie, le souvenir amer du putsch militaire manqué du 15 juillet 2016",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Turquie, le souvenir amer du putsch militaire manqué du 15 juillet 2016"
+    },
+    "published": "Wed, 15 Jul 2026 05:00:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      3,
+      0,
+      15,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 07:35:36 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      5,
+      35,
+      36,
+      2,
+      196,
+      0
+    ],
+    "summary": "Une union sacrée avait suivi la tentative de militaires de renverser le régime de Recep Tayyip Erdogan, mais l’événement a marqué le début d’une répression accrue et d’une restriction des libertés dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une union sacrée avait suivi la tentative de militaires de renverser le régime de Recep Tayyip Erdogan, mais l’événement a marqué le début d’une répression accrue et d’une restriction des libertés dans le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/15/en-turquie-le-souvenir-amer-du-putsch-manque-du-15-juillet-2016_6723451_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/15/en-turquie-le-souvenir-amer-du-putsch-manque-du-15-juillet-2016_6723451_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/15/en-turquie-le-souvenir-amer-du-putsch-manque-du-15-juillet-2016_6723451_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/500/0/3000/1500/644/322/60/0/e4ff832_upload-1-z8vw9x7vf9ts-000-d91jm.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des militaires turcs sur le pont Fatih Sultan Mehmet enjambant le Bosphore, à Istanbul, le 16 juillet 2016."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GURCAN OZTURK/AFP"
+      }
+    ],
+    "credit": "GURCAN OZTURK/AFP"
+  }
+}

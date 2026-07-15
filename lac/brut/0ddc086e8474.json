@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T06:12:54.692634+00:00",
+  "_id": "0ddc086e8474",
+  "brut": {
+    "title": "Le retour de BTS en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le retour de BTS en France"
+    },
+    "summary": "🎤C’est le grand retour des 🇰🇷BTS en France après sept ans d’absence. Les 17 et 18 juillet, RM, Jin, Suga, J-Hope, Jimin, V et Jungkook seront au Stade de France. En tout, près de 160 000 fans feront le déplacement. Pendant leur pause, certains membres ont participé à des événements dans l’Hexagone. De quoi renforcer le lien entre le groupe et les ARMY français.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🎤C’est le grand retour des 🇰🇷BTS en France après sept ans d’absence. Les 17 et 18 juillet, RM, Jin, Suga, J-Hope, Jimin, V et Jungkook seront au Stade de France. En tout, près de 160 000 fans feront le déplacement. Pendant leur pause, certains membres ont participé à des événements dans l’Hexagone. De quoi renforcer le lien entre le groupe et les ARMY français."
+    },
+    "published": "Wed, 15 Jul 2026 06:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      4,
+      0,
+      3,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/musique/le-retour-de-bts-en-france_8107694.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zLQjaTEXe6x-y2bGJde6hLOGZ6Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/14/6a5645e3b9150186861399.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/musique/le-retour-de-bts-en-france_8107694.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/musique/le-retour-de-bts-en-france_8107694.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

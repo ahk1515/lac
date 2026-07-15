@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T06:12:53.953885+00:00",
+  "_id": "83640a4f07f8",
+  "brut": {
+    "title": "A Ningbo, le plus grand port du monde, la Chine déroule sa toute-puissance commerciale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Ningbo, le plus grand port du monde, la Chine déroule sa toute-puissance commerciale"
+    },
+    "published": "Wed, 15 Jul 2026 05:30:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      3,
+      30,
+      11,
+      2,
+      196,
+      0
+    ],
+    "summary": "« La ruée sur les ports » (6/16). Bâtie non loin de Shanghaï, cette immense infrastructure portuaire, qui voit défiler plus de 1 milliard de tonnes de marchandises par an, est l’un des chaînons-clés forgés par Pékin pour imposer sa puissance industrielle exportatrice au reste du monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La ruée sur les ports » (6/16). Bâtie non loin de Shanghaï, cette immense infrastructure portuaire, qui voit défiler plus de 1 milliard de tonnes de marchandises par an, est l’un des chaînons-clés forgés par Pékin pour imposer sa puissance industrielle exportatrice au reste du monde."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/15/a-ningbo-le-plus-grand-port-du-monde-la-chine-deroule-sa-toute-puissance-commerciale_6723487_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/15/a-ningbo-le-plus-grand-port-du-monde-la-chine-deroule-sa-toute-puissance-commerciale_6723487_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/15/a-ningbo-le-plus-grand-port-du-monde-la-chine-deroule-sa-toute-puissance-commerciale_6723487_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/250/0/3000/1500/644/322/60/0/1dcacb7_upload-1-rfvd2kkp50em-ningbo-good.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mayeule Guespereau"
+      }
+    ],
+    "credit": "Mayeule Guespereau"
+  }
+}

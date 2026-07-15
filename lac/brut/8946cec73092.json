@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-15T06:12:53.952984+00:00",
+  "_id": "8946cec73092",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations au 15 juillet 2026",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations au 15 juillet 2026"
+    },
+    "published": "Wed, 15 Jul 2026 06:58:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      4,
+      58,
+      52,
+      2,
+      196,
+      0
+    ],
+    "updated": "Wed, 15 Jul 2026 08:03:35 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      15,
+      6,
+      3,
+      35,
+      2,
+      196,
+      0
+    ],
+    "summary": "La Russie a revendiqué des frappes contre trois cargos situés près de la ville portuaire d’Odessa et contre des installations navales et pétrolières de cet oblast ukrainien bordé par la mer Noire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Russie a revendiqué des frappes contre trois cargos situés près de la ville portuaire d’Odessa et contre des installations navales et pétrolières de cet oblast ukrainien bordé par la mer Noire."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-les-dernieres-informations-au-15-juillet-2026_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-les-dernieres-informations-au-15-juillet-2026_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-les-dernieres-informations-au-15-juillet-2026_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/263/0/3467/1733/644/322/60/0/b866599_ftp-1-5sfdvo5exfac-2026-07-14t091149z-1130646884-rc2idma28qgs-rtrmadp-3-ukraine-crisis-attack-odesa.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un navire en flammes après une attaque russe en mer Noire, près du port ukrainien d’Odessa, le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Victor Sayenko/REUTERS"
+      }
+    ],
+    "credit": "Victor Sayenko/REUTERS"
+  }
+}
