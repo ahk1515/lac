@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-15T13:41:21.501415+00:00",
+  "_id": "41230a6324d7",
+  "brut": {
+    "title": "Selon les premières données sur la surmortalité, la vague de chaleur a fait au moins 10 000 victimes en Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon les premières données sur la surmortalité, la vague de chaleur a fait au moins 10 000 victimes en Europe"
+    },
+    "summary": "Plus de 10 000 morts en une semaine : c'est le bilan provisoire de la vague de chaleur de fin juin en Europe, selon le réseau européen de surveillance de la mortalité EuroMOMO. Le média public tchèque Česká televize revient sur ces chiffres dans cet article.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 10 000 morts en une semaine : c'est le bilan provisoire de la vague de chaleur de fin juin en Europe, selon le réseau européen de surveillance de la mortalité EuroMOMO. Le média public tchèque Česká televize revient sur ces chiffres dans cet article."
+    },
+    "published": "Wed, 15 Jul 2026 12:27:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      10,
+      27,
+      30,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/selon-les-premieres-donnees-sur-la-surmortalite-la-vague-de-chaleur-a-fait-au-moins-10-000-victimes-en-europe_8108672.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ok3FWCM2msOLxQbktzX7qKxcRzY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2023/07/18/64b6a4b0acfb2_080-hl-apadovani-2112695.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/selon-les-premieres-donnees-sur-la-surmortalite-la-vague-de-chaleur-a-fait-au-moins-10-000-victimes-en-europe_8108672.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/selon-les-premieres-donnees-sur-la-surmortalite-la-vague-de-chaleur-a-fait-au-moins-10-000-victimes-en-europe_8108672.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
