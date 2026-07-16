@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T06:16:59.431872+00:00",
+  "_id": "a5289999f5ad",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Thu, 16 Jul 2026 07:10:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      5,
+      10,
+      19,
+      3,
+      197,
+      0
+    ],
+    "updated": "Thu, 16 Jul 2026 08:07:08 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      16,
+      6,
+      7,
+      8,
+      3,
+      197,
+      0
+    ],
+    "summary": "Une série d’explosions a retenti peu après minuit à Kiev, après une alerte signalant l’approche de plusieurs missiles balistiques. Cette attaque russe survient quelques heures après la visite à Kiev de la présidente de la Commission européenne, Ursula von der Leyen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une série d’explosions a retenti peu après minuit à Kiev, après une alerte signalant l’approche de plusieurs missiles balistiques. Cette attaque russe survient quelques heures après la visite à Kiev de la présidente de la Commission européenne, Ursula von der Leyen."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/235/0/2590/1295/644/322/60/0/b5d5274_ftp-1-7sun5kpjvlfw-2026-07-16t022309z-817724546-rc2nemawsros-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la suite d’une attaque aérienne de l’armée russe, à Kiev, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gleb Garanich/REUTERS"
+      }
+    ],
+    "credit": "Gleb Garanich/REUTERS"
+  }
+}

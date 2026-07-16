@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T06:16:59.432090+00:00",
+  "_id": "a3d2d6f8007d",
+  "brut": {
+    "title": "Aux Etats-Unis, Donald Trump tente de prendre le contrôle de l’organisation des élections",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, Donald Trump tente de prendre le contrôle de l’organisation des élections"
+    },
+    "published": "Thu, 16 Jul 2026 07:00:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      5,
+      0,
+      8,
+      3,
+      197,
+      0
+    ],
+    "updated": "Thu, 16 Jul 2026 08:02:57 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      16,
+      6,
+      2,
+      57,
+      3,
+      197,
+      0
+    ],
+    "summary": "Le président américain s’emploie à imposer son « SAVE America Act », un texte qui durcirait les conditions de vote et pourrait pénaliser les plus modestes et les minorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain s’emploie à imposer son « SAVE America Act », un texte qui durcirait les conditions de vote et pourrait pénaliser les plus modestes et les minorités."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/16/aux-etats-unis-donald-trump-tente-de-prendre-le-controle-de-l-organisation-des-elections_6723738_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/16/aux-etats-unis-donald-trump-tente-de-prendre-le-controle-de-l-organisation-des-elections_6723738_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/16/aux-etats-unis-donald-trump-tente-de-prendre-le-controle-de-l-organisation-des-elections_6723738_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/0/0/8256/4128/644/322/60/0/45bbbc4_ftp-1-jzfs4yi1s7et-5613566-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, à la Maison Blanche, à Washington, le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAUL LOEB/AFP"
+      }
+    ],
+    "credit": "SAUL LOEB/AFP"
+  }
+}

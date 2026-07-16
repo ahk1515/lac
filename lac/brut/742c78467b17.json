@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T06:16:59.432368+00:00",
+  "_id": "742c78467b17",
+  "brut": {
+    "title": "Les révélations d’un lanceur d’alerte sur l’arsenal sécuritaire du Maroc, des logiciels espions aux caméras dans les climatisations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les révélations d’un lanceur d’alerte sur l’arsenal sécuritaire du Maroc, des logiciels espions aux caméras dans les climatisations"
+    },
+    "published": "Thu, 16 Jul 2026 06:30:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      4,
+      30,
+      2,
+      3,
+      197,
+      0
+    ],
+    "updated": "Thu, 16 Jul 2026 07:58:03 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      16,
+      5,
+      58,
+      3,
+      3,
+      197,
+      0
+    ],
+    "summary": "Mouchards installés avec une clé USB, téléphones vendus avec des logiciels espions, écoutes et caméras cachées… En plus du logiciel Pegasus, le royaume chérifien a constitué un puissant arsenal répressif, déployé contre des journalistes ou des cibles politiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mouchards installés avec une clé USB, téléphones vendus avec des logiciels espions, écoutes et caméras cachées… En plus du logiciel Pegasus, le royaume chérifien a constitué un puissant arsenal répressif, déployé contre des journalistes ou des cibles politiques."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/250/0/3000/1500/644/322/60/0/d9f1c6b_upload-1-yzxmbgfltolx-pegasus-tete-final.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MAYEULE GUESPEREAU/« LE MONDE »"
+      }
+    ],
+    "credit": "MAYEULE GUESPEREAU/« LE MONDE »"
+  }
+}
