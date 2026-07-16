@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-16T02:30:35.585359+00:00",
+  "_id": "a28d5f1fec2a",
+  "brut": {
+    "title": "Des tacos au menu gastronomique, la cuisine mexicaine cartonne en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des tacos au menu gastronomique, la cuisine mexicaine cartonne en France"
+    },
+    "summary": "Tacos ou fajitas à déguster sur le pouce… La cuisine mexicaine est la nouvelle tendance culinaire qui cartonne en France. Épicée à volonté et souvent à des prix abordables, cette gastronomie classée au patrimoine mondial de l'Unesco connait un véritable engouement et peut même gagner des étoiles Michelin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tacos ou fajitas à déguster sur le pouce… La cuisine mexicaine est la nouvelle tendance culinaire qui cartonne en France. Épicée à volonté et souvent à des prix abordables, cette gastronomie classée au patrimoine mondial de l'Unesco connait un véritable engouement et peut même gagner des étoiles Michelin."
+    },
+    "published": "Thu, 16 Jul 2026 00:08:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      22,
+      8,
+      21,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/des-tacos-au-menu-gastronomique-la-cuisine-mexicaine-cartonne-en-france_8109458.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YMm8wzQwVzrEURFfLYzqQz8fgj8/196x0:1468x715/432x243/filters:format(jpg):quality(50)/2026/07/16/6a5804bb0efe2392087249.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/des-tacos-au-menu-gastronomique-la-cuisine-mexicaine-cartonne-en-france_8109458.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/des-tacos-au-menu-gastronomique-la-cuisine-mexicaine-cartonne-en-france_8109458.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

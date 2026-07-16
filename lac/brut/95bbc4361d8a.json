@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T02:30:35.375816+00:00",
+  "_id": "95bbc4361d8a",
+  "brut": {
+    "title": "A Rio de Janeiro, les colonies de pêcheurs pourraient disparaître",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Rio de Janeiro, les colonies de pêcheurs pourraient disparaître"
+    },
+    "published": "Thu, 16 Jul 2026 03:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      1,
+      0,
+      5,
+      3,
+      197,
+      0
+    ],
+    "summary": "Créés il y a plus d’un siècle, les groupements de pêche artisanale voient leurs prises réduites, principalement du fait de la pollution et des navires industriels. La relève n’est pas assurée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Créés il y a plus d’un siècle, les groupements de pêche artisanale voient leurs prises réduites, principalement du fait de la pollution et des navires industriels. La relève n’est pas assurée."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/16/a-rio-de-janeiro-les-colonies-de-pecheurs-pourraient-disparaitre_6723689_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/16/a-rio-de-janeiro-les-colonies-de-pecheurs-pourraient-disparaitre_6723689_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/16/a-rio-de-janeiro-les-colonies-de-pecheurs-pourraient-disparaitre_6723689_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/15/457/0/7214/3607/644/322/60/0/125dc8d_upload-1-0mjs6ecucblv-000-33gm8yr.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pêcheurs mettent leur barque à l’eau sur la plage de Copacabana, à Rio de Janeiro (Brésil), le 23 mai 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CARL DE SOUZA/AFP"
+      }
+    ],
+    "credit": "CARL DE SOUZA/AFP"
+  }
+}

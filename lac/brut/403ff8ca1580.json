@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-16T02:30:35.586009+00:00",
+  "_id": "403ff8ca1580",
+  "brut": {
+    "title": "Un train cerné par les flammes au Canada",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un train cerné par les flammes au Canada"
+    },
+    "summary": "C'est une scène presque irréelle au Canada. Un train s’est retrouvé cerné par des flammes immenses dans l'est du pays, en Ontario. L’équipage a dû abandonner le convoi et prendre la fuite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "C'est une scène presque irréelle au Canada. Un train s’est retrouvé cerné par des flammes immenses dans l'est du pays, en Ontario. L’équipage a dû abandonner le convoi et prendre la fuite."
+    },
+    "published": "Wed, 15 Jul 2026 23:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      15,
+      21,
+      0,
+      2,
+      2,
+      196,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/canada/un-train-cerne-par-les-flammes-au-canada_8109374.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/83ruA4znzEJRyAi2AERNQAHY3WY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/15/6a57dddd0e1a8655292727.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/canada/un-train-cerne-par-les-flammes-au-canada_8109374.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/canada/un-train-cerne-par-les-flammes-au-canada_8109374.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
