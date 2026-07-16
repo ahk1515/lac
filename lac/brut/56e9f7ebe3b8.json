@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-16T10:07:45.584357+00:00",
+  "_id": "56e9f7ebe3b8",
+  "brut": {
+    "title": "L'épidémie d'Ebola continue de progresser en République démocratique du Congo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épidémie d'Ebola continue de progresser en République démocratique du Congo"
+    },
+    "summary": "Le virus Ebola, présent sur le continent depuis cinq décennies, se répand à un \"rythme sans précédent\" d'après l'Organisation mondiale de la santé. Alors que les hôpitaux saturent, les 700 morts officiels en République démocratique du Congo, pourraient être en réalité bien plus nombreux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le virus Ebola, présent sur le continent depuis cinq décennies, se répand à un \"rythme sans précédent\" d'après l'Organisation mondiale de la santé. Alors que les hôpitaux saturent, les 700 morts officiels en République démocratique du Congo, pourraient être en réalité bien plus nombreux."
+    },
+    "published": "Thu, 16 Jul 2026 09:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      7,
+      0,
+      1,
+      3,
+      197,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-epidemie-d-ebola-continue-de-progresser-en-republique-democratique-du-congo_8063819.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/r2qN6klGnQ2OtI5MY5fXfBaYsHQ/0x26:512x314/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58792631f95047925508.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-epidemie-d-ebola-continue-de-progresser-en-republique-democratique-du-congo_8063819.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-epidemie-d-ebola-continue-de-progresser-en-republique-democratique-du-congo_8063819.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

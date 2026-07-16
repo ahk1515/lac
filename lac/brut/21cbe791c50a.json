@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-16T10:07:45.583721+00:00",
+  "_id": "21cbe791c50a",
+  "brut": {
+    "title": "À Gaza, l'urgence pour sauver un patrimoine culturel en péril",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Gaza, l'urgence pour sauver un patrimoine culturel en péril"
+    },
+    "summary": "Alors que les bombardements continuent dans la bande de Gaza, artistes, associations et habitants se mobilisent pour préserver un patrimoine historique et culturel ayant déjà subi de lourds dégâts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alors que les bombardements continuent dans la bande de Gaza, artistes, associations et habitants se mobilisent pour préserver un patrimoine historique et culturel ayant déjà subi de lourds dégâts."
+    },
+    "published": "Thu, 16 Jul 2026 10:34:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      8,
+      34,
+      21,
+      3,
+      197,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/patrimoine/a-gaza-l-urgence-pour-sauver-un-patrimoine-culturel-en-peril_8109905.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/PRejMoI-YMt6YH21tnSrPm9zZII/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58943f7e926407098868.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/patrimoine/a-gaza-l-urgence-pour-sauver-un-patrimoine-culturel-en-peril_8109905.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/patrimoine/a-gaza-l-urgence-pour-sauver-un-patrimoine-culturel-en-peril_8109905.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

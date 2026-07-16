@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T10:07:45.406054+00:00",
+  "_id": "1befa39d94da",
+  "brut": {
+    "title": "VIDEO Les images de Toronto (Canada), enveloppée par la fumée émanant de feux de forêt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Les images de Toronto (Canada), enveloppée par la fumée émanant de feux de forêt"
+    },
+    "published": "Thu, 16 Jul 2026 11:18:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      9,
+      18,
+      18,
+      3,
+      197,
+      0
+    ],
+    "updated": "Thu, 16 Jul 2026 11:20:15 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      16,
+      9,
+      20,
+      15,
+      3,
+      197,
+      0
+    ],
+    "summary": "Les feux en cours dans le nord-ouest de l’Ontario ont plongé la métropole dans un épais nuage de pollution, poussant les autorités à appeler les habitants à ne pas sortir. L’est des Etats-Unis est également affecté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les feux en cours dans le nord-ouest de l’Ontario ont plongé la métropole dans un épais nuage de pollution, poussant les autorités à appeler les habitants à ne pas sortir. L’est des Etats-Unis est également affecté."
+    },
+    "id": "https://www.lemonde.fr/planete/video/2026/07/16/les-images-de-toronto-au-canada-enveloppee-par-la-fumee-emanant-de-feux-de-foret_6723774_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/video/2026/07/16/les-images-de-toronto-au-canada-enveloppee-par-la-fumee-emanant-de-feux-de-foret_6723774_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/video/2026/07/16/les-images-de-toronto-au-canada-enveloppee-par-la-fumee-emanant-de-feux-de-foret_6723774_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/655/0/7845/3922/644/322/60/0/9f068af_ftp-1-ht2htktybnbf-5633934-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "COLE BURSTON / AFP"
+      }
+    ],
+    "credit": "COLE BURSTON / AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T10:07:45.405681+00:00",
+  "_id": "91361f8e60ee",
+  "brut": {
+    "title": "En Algérie, au moins 11 morts dans l’incendie d’un orphelinat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Algérie, au moins 11 morts dans l’incendie d’un orphelinat"
+    },
+    "published": "Thu, 16 Jul 2026 11:30:55 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      9,
+      30,
+      55,
+      3,
+      197,
+      0
+    ],
+    "updated": "Thu, 16 Jul 2026 12:02:36 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      16,
+      10,
+      2,
+      36,
+      3,
+      197,
+      0
+    ],
+    "summary": "Le feu s’est déclaré à la Fondation de l’enfance assistée, située dans la commune de El-Mohammadia, selon la Protection civile. Les causes du sinistre ne sont pas encore connues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le feu s’est déclaré à la Fondation de l’enfance assistée, située dans la commune de El-Mohammadia, selon la Protection civile. Les causes du sinistre ne sont pas encore connues."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/16/en-algerie-au-moins-11-morts-dans-l-incendie-d-un-orphelinat_6723778_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/16/en-algerie-au-moins-11-morts-dans-l-incendie-d-un-orphelinat_6723778_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/16/en-algerie-au-moins-11-morts-dans-l-incendie-d-un-orphelinat_6723778_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/82/0/960/480/644/322/60/0/e7f2b67_upload-1-0m7rdo1ypeaa-img-3205.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Intervention des pompiers sur le site de l’incendie qui a touché la Fondation de l’enfance assistée, dans la commune de El-Mohammadia, à l’est d’Alger. Photo diffusée par la protection civile algérienne le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Protection civile en Algérie/Facebook"
+      }
+    ],
+    "credit": "Protection civile en Algérie/Facebook"
+  }
+}
