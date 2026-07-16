@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-16T20:56:19.515885+00:00",
+  "_id": "a18fbf30e1bf",
+  "brut": {
+    "title": "Une étude alerte sur le risque de déforestation en Amazonie après la fin d'un moratoire sur le soja",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une étude alerte sur le risque de déforestation en Amazonie après la fin d'un moratoire sur le soja"
+    },
+    "summary": "Après l'entrée en vigueur du moratoire, la déforestation liée au soja est tombée à un niveau proche de zéro.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après l'entrée en vigueur du moratoire, la déforestation liée au soja est tombée à un niveau proche de zéro."
+    },
+    "published": "Thu, 16 Jul 2026 22:23:28 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      20,
+      23,
+      28,
+      3,
+      197,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ameriques/amazonie/une-etude-alerte-sur-le-risque-de-deforestation-en-amazonie-apres-la-fin-d-un-moratoire-sur-le-soja_8110823.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Y8EYe1wbmwjYFiCiT5SjUWwdZzE/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/16/6a593d74a28bf563068957.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ameriques/amazonie/une-etude-alerte-sur-le-risque-de-deforestation-en-amazonie-apres-la-fin-d-un-moratoire-sur-le-soja_8110823.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ameriques/amazonie/une-etude-alerte-sur-le-risque-de-deforestation-en-amazonie-apres-la-fin-d-un-moratoire-sur-le-soja_8110823.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

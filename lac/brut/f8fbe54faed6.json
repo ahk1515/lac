@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T20:56:19.143790+00:00",
+  "_id": "f8fbe54faed6",
+  "brut": {
+    "title": "Un agent chargé du prompteur de Donald Trump, suspecté d’avoir parié de l’argent sur ses discours, a été suspendu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un agent chargé du prompteur de Donald Trump, suspecté d’avoir parié de l’argent sur ses discours, a été suspendu"
+    },
+    "published": "Thu, 16 Jul 2026 21:43:20 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      19,
+      43,
+      20,
+      3,
+      197,
+      0
+    ],
+    "summary": "Il utilisait la plateforme de prédiction Kalshi, qui permet notamment aux internautes de parier sur la possibilité qu’une phrase ou un mot soient prononcés, et avait ainsi encaissé plus de 100 000 dollars.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il utilisait la plateforme de prédiction Kalshi, qui permet notamment aux internautes de parier sur la possibilité qu’une phrase ou un mot soient prononcés, et avait ainsi encaissé plus de 100 000 dollars."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/16/un-agent-charge-du-prompteur-de-donald-trump-suspecte-d-avoir-parie-de-l-argent-sur-ses-discours-a-ete-suspendu_6723846_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/16/un-agent-charge-du-prompteur-de-donald-trump-suspecte-d-avoir-parie-de-l-argent-sur-ses-discours-a-ete-suspendu_6723846_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/16/un-agent-charge-du-prompteur-de-donald-trump-suspecte-d-avoir-parie-de-l-argent-sur-ses-discours-a-ete-suspendu_6723846_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/542/0/6500/3250/644/322/60/0/684721f_upload-1-tpsvyfzuorza-2025-09-11t141931z-1697369722-rc2qpgatj0cp-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, aidé d’un prompteur, pendant un discours, à Washington, le 11 septembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evelyn Hockstein/REUTERS"
+      }
+    ],
+    "credit": "Evelyn Hockstein/REUTERS"
+  }
+}

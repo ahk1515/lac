@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T20:56:19.143965+00:00",
+  "_id": "ac57a6856a65",
+  "brut": {
+    "title": "Ukraine : des manifestations en soutien au ministre de la défense Mykhaïlo Fedorov",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ukraine : des manifestations en soutien au ministre de la défense Mykhaïlo Fedorov"
+    },
+    "published": "Thu, 16 Jul 2026 20:55:43 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      18,
+      55,
+      43,
+      3,
+      197,
+      0
+    ],
+    "summary": "Des manifestations ont eu lieu dans les grandes villes en Ukraine. Ariane Chemin, journaliste du « Monde » a filmé ces images à Kiev, où quelques centaines d’Ukrainiens sont venues soutenir le ministre de la défense Mykhaïlo Fedorov, remercié par Volodymyr Zelensky.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des manifestations ont eu lieu dans les grandes villes en Ukraine. Ariane Chemin, journaliste du « Monde » a filmé ces images à Kiev, où quelques centaines d’Ukrainiens sont venues soutenir le ministre de la défense Mykhaïlo Fedorov, remercié par Volodymyr Zelensky."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/16/ukraine-des-manifestations-en-soutien-au-ministre-de-la-defense-mykhailo-fedorov_6723844_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/16/ukraine-des-manifestations-en-soutien-au-ministre-de-la-defense-mykhailo-fedorov_6723844_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/16/ukraine-des-manifestations-en-soutien-au-ministre-de-la-defense-mykhailo-fedorov_6723844_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/443/0/2953/1476/644/322/60/0/ba6a63e_upload-1-52qhmqrnv9is-2026-07-16-heg-ukraine-0159.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation en soutien au ministre de la défense Mykhaïlo Fedorov  qui a été « démissionner » par Volodymyr Zelensky sous les fenêtres du palais présidentiel. 2026-07-16-Kiev-Ukraine"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Guillaume Herbaut/Vu’ pour « Le Monde »"
+      }
+    ],
+    "credit": "Guillaume Herbaut/Vu’ pour « Le Monde »"
+  }
+}
