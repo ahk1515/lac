@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-16T13:47:47.948128+00:00",
+  "_id": "9def9e9bd98d",
+  "brut": {
+    "title": "Arrestations à Hong Kong : craintes d'un durcissement de la censure des livres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Arrestations à Hong Kong : craintes d'un durcissement de la censure des livres"
+    },
+    "summary": "Depuis le renforcement de la loi sur la sécurité nationale à Hong Kong, en 2024, les actes de répression se poursuivent contre les espaces culturels.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis le renforcement de la loi sur la sécurité nationale à Hong Kong, en 2024, les actes de répression se poursuivent contre les espaces culturels."
+    },
+    "published": "Thu, 16 Jul 2026 15:42:49 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      13,
+      42,
+      49,
+      3,
+      197,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/livres/arrestations-a-hong-kong-craintes-d-un-durcissement-de-la-censure-des-livres_8110301.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jXkcJAKEiYoMynf_yGGR5NHQaRM/520x763:6243x3982/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58da74a5fd4008582280.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/livres/arrestations-a-hong-kong-craintes-d-un-durcissement-de-la-censure-des-livres_8110301.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/livres/arrestations-a-hong-kong-craintes-d-un-durcissement-de-la-censure-des-livres_8110301.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

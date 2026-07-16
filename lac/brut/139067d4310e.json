@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T13:47:47.767308+00:00",
+  "_id": "139067d4310e",
+  "brut": {
+    "title": "Cyberattaque contre les transports londoniens : prison ferme pour deux surdoués du piratage",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cyberattaque contre les transports londoniens : prison ferme pour deux surdoués du piratage"
+    },
+    "published": "Thu, 16 Jul 2026 15:41:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      13,
+      41,
+      41,
+      3,
+      197,
+      0
+    ],
+    "summary": "Thalha Jubair, 20 ans, et Owen Flowers, 18 ans, avaient plaidé coupable le mois dernier pour l’une des plus vastes fuites de données du Royaume-Uni, reconnaissant avoir piraté en 2024 le réseau de Transport for London.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Thalha Jubair, 20 ans, et Owen Flowers, 18 ans, avaient plaidé coupable le mois dernier pour l’une des plus vastes fuites de données du Royaume-Uni, reconnaissant avoir piraté en 2024 le réseau de Transport for London."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/07/16/cyberattaque-contre-les-transports-londoniens-prison-ferme-pour-deux-surdoues-du-piratage_6723811_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/16/cyberattaque-contre-les-transports-londoniens-prison-ferme-pour-deux-surdoues-du-piratage_6723811_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/07/16/cyberattaque-contre-les-transports-londoniens-prison-ferme-pour-deux-surdoues-du-piratage_6723811_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/610/0/7306/3653/644/322/60/0/f58a303_upload-1-r2iqo3m6g2n7-2026-04-24t132110z-1173727179-rc2pvka4ubvd-rtrmadp-3-britain-strikes-transport.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans la station de métro de South Kensington, à Londres, le 24 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KEVIN COOMBS/REUTERS"
+      }
+    ],
+    "credit": "KEVIN COOMBS/REUTERS"
+  }
+}
