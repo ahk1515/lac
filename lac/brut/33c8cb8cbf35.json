@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T17:14:18.296816+00:00",
+  "_id": "33c8cb8cbf35",
+  "brut": {
+    "title": "Le journaliste français Christophe Gleizes, détenu en Algérie, a reçu une deuxième visite consulaire le 7 juillet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le journaliste français Christophe Gleizes, détenu en Algérie, a reçu une deuxième visite consulaire le 7 juillet"
+    },
+    "published": "Thu, 16 Jul 2026 16:37:48 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      14,
+      37,
+      48,
+      3,
+      197,
+      0
+    ],
+    "summary": "Alors que la procédure judiciaire est close, la France mise sur la diplomatie et l’éventuel appui de ses alliés pour accélérer le retour de Christophe Gleizes, détenu depuis plus d’un an en Algérie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que la procédure judiciaire est close, la France mise sur la diplomatie et l’éventuel appui de ses alliés pour accélérer le retour de Christophe Gleizes, détenu depuis plus d’un an en Algérie."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/16/le-journaliste-francais-christophe-gleizes-detenu-en-algerie-a-recu-une-deuxieme-visite-consulaire-le-7-juillet_6723816_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/16/le-journaliste-francais-christophe-gleizes-detenu-en-algerie-a-recu-une-deuxieme-visite-consulaire-le-7-juillet_6723816_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/16/le-journaliste-francais-christophe-gleizes-detenu-en-algerie-a-recu-une-deuxieme-visite-consulaire-le-7-juillet_6723816_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/15/287/0/3442/1721/644/322/60/0/b288759_ftp-1-p0rlhjt766cc-5327556-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des journalistes français en soutien à leur confrère Christophe Gleizes, détenu en Algérie, avant une conférence de presse de la Coupe du monde de football, à New York, le 15 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FRANCK FIFE/AFP"
+      }
+    ],
+    "credit": "FRANCK FIFE/AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-16T17:14:18.296055+00:00",
+  "_id": "e453c4b3e1dd",
+  "brut": {
+    "title": "Guerre au Soudan : l’UE réticente à désigner les paramilitaires des FSR comme une organisation terroriste",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre au Soudan : l’UE réticente à désigner les paramilitaires des FSR comme une organisation terroriste"
+    },
+    "published": "Thu, 16 Jul 2026 19:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      17,
+      0,
+      10,
+      3,
+      197,
+      0
+    ],
+    "summary": "Malgré une résolution du Parlement européen invitant le Conseil à inscrire les Forces de soutien rapide sur la liste des groupes terroristes, l’instance refuse pour l’heure de franchir le pas. L’unanimité des 27 chefs d’Etat requise ne serait pas réunie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Malgré une résolution du Parlement européen invitant le Conseil à inscrire les Forces de soutien rapide sur la liste des groupes terroristes, l’instance refuse pour l’heure de franchir le pas. L’unanimité des 27 chefs d’Etat requise ne serait pas réunie."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/16/guerre-au-soudan-l-ue-reticente-a-designer-les-paramilitaires-des-fsr-comme-une-organisation-terroriste_6723834_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/16/guerre-au-soudan-l-ue-reticente-a-designer-les-paramilitaires-des-fsr-comme-une-organisation-terroriste_6723834_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/16/guerre-au-soudan-l-ue-reticente-a-designer-les-paramilitaires-des-fsr-comme-une-organisation-terroriste_6723834_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/720/0/8640/4320/644/322/60/0/a6787b5_ftp-1-tm0pxytnza1b-bcf7d4e3cfd84c5ea702faf097934249-3-e2eb66837872481691268b0ffe598880.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Soudanais Hussein Mohamed Shareef montre la cicatrice causée par le tir d’un paramilitaire des Forces de soutien rapide dans le camp d’Al Heshan, à Omdourman. A Port-Soudan, au Soudan, le 15 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bernat Armangue/AP"
+      }
+    ],
+    "credit": "Bernat Armangue/AP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-16T17:14:18.355539+00:00",
+  "_id": "7eb753f147eb",
+  "brut": {
+    "title": "Mostra de Venise : \"Ink\", le biopic de Danny Boyle sur Rupert Murdoch, ouvre le festival",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Mostra de Venise : \"Ink\", le biopic de Danny Boyle sur Rupert Murdoch, ouvre le festival"
+    },
+    "summary": "Le film, adapté d'une pièce éponyme signée du scénariste James Graham, sera présenté en avant-première lors de la soirée sur la lagune.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le film, adapté d'une pièce éponyme signée du scénariste James Graham, sera présenté en avant-première lors de la soirée sur la lagune."
+    },
+    "published": "Thu, 16 Jul 2026 18:34:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      16,
+      34,
+      12,
+      3,
+      197,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/mostra-de-venise-ink-le-biopic-de-danny-boyle-sur-rupert-murdoch-ouvre-le-festival_8110592.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jn6PK39cgBju0tp8ELaf25waTvs/688x0:4563x2179/432x243/filters:format(jpg):quality(50)/2026/07/16/6a59002f9773f385880676.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/mostra-de-venise-ink-le-biopic-de-danny-boyle-sur-rupert-murdoch-ouvre-le-festival_8110592.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/mostra-de-venise-ink-le-biopic-de-danny-boyle-sur-rupert-murdoch-ouvre-le-festival_8110592.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
