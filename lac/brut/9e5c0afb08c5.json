@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T13:25:25.770017+00:00",
+  "_id": "9e5c0afb08c5",
+  "brut": {
+    "title": "Espagne : plus de 12 000 hectares brûlés près de Saragosse en moins de trois jours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : plus de 12 000 hectares brûlés près de Saragosse en moins de trois jours"
+    },
+    "published": "Fri, 17 Jul 2026 12:09:29 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      10,
+      9,
+      29,
+      4,
+      198,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 13:41:10 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      11,
+      41,
+      10,
+      4,
+      198,
+      0
+    ],
+    "summary": "Un nouvel incendie s’est déclaré en Aragon, dans le nord-est de l’Espagne, mercredi 15 juillet, ravageant en moins de trois jours un tiers de la surface brûlée en France depuis le début de l’année. Il n’a pour l’instant pas de fait de victimes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un nouvel incendie s’est déclaré en Aragon, dans le nord-est de l’Espagne, mercredi 15 juillet, ravageant en moins de trois jours un tiers de la surface brûlée en France depuis le début de l’année. Il n’a pour l’instant pas de fait de victimes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/17/espagne-plus-de-12-000-hectares-brules-pres-de-saragosse-un-incendie-au-risque-de-propagation-tres-eleve_6724172_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/17/espagne-plus-de-12-000-hectares-brules-pres-de-saragosse-un-incendie-au-risque-de-propagation-tres-eleve_6724172_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/17/espagne-plus-de-12-000-hectares-brules-pres-de-saragosse-un-incendie-au-risque-de-propagation-tres-eleve_6724172_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/113/0/3599/1799/644/322/60/0/def4826_ftp-1-ii06jnmxfkbu-2026-07-16t203436z-959616130-rc22fma38ppg-rtrmadp-3-europe-weather-spain-wildfire.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un pompier intervient à Uncastillo, dans la province d’Aragon, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Unité d’urgence de l’armée espagnole via REUTERS"
+      }
+    ],
+    "credit": "Unité d’urgence de l’armée espagnole via REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T13:25:25.768136+00:00",
+  "_id": "18d020824f51",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les forces spéciales ukrainiennes ont détruit un bombardier stratégique russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les forces spéciales ukrainiennes ont détruit un bombardier stratégique russe"
+    },
+    "published": "Fri, 17 Jul 2026 15:01:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      13,
+      1,
+      7,
+      4,
+      198,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 15:05:25 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      13,
+      5,
+      25,
+      4,
+      198,
+      0
+    ],
+    "summary": "Un bombardier russe Tu-95 a été détruit sur la base aérienne d’Enguels, dans l’oblast de Saratov, a annoncé, vendredi, le président ukrainien. Cent quinze drones et cinq missiles russes ont, par ailleurs, été interceptés dans la nuit, mais sept sites ont été touchés, selon l’armée de l’air ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un bombardier russe Tu-95 a été détruit sur la base aérienne d’Enguels, dans l’oblast de Saratov, a annoncé, vendredi, le président ukrainien. Cent quinze drones et cinq missiles russes ont, par ailleurs, été interceptés dans la nuit, mais sept sites ont été touchés, selon l’armée de l’air ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-forces-speciales-ukrainiennes-ont-detruit-un-bombardier-strategique-russe_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-forces-speciales-ukrainiennes-ont-detruit-un-bombardier-strategique-russe_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-forces-speciales-ukrainiennes-ont-detruit-un-bombardier-strategique-russe_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/622/0/7462/3731/644/322/60/0/5b418d9_upload-1-ptyb555ex04e-000-49936zp.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des avions russes Tupolev Tu-95 détruits sur la base aérienne de Belaya, dans l’oblast d’Irkoutsk (Russie), sur cette vue satellite du 4 juin 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Maxar Technologies/AFP"
+      }
+    ],
+    "credit": "Maxar Technologies/AFP"
+  }
+}
