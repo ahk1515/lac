@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T02:32:48.788546+00:00",
+  "_id": "570ac65d5717",
+  "brut": {
+    "title": "En Espagne, un incendie près de Saragosse a déjà ravagé 7 600 hectares et mettra \"des jours à être maîtrisé\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, un incendie près de Saragosse a déjà ravagé 7 600 hectares et mettra \"des jours à être maîtrisé\""
+    },
+    "summary": "Il s'agit de \"l'un des feux de forêt les plus graves et les plus complexes\" que l'Aragon ait connus depuis des années, selon un haut responsable du gouvernement régional.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il s'agit de \"l'un des feux de forêt les plus graves et les plus complexes\" que l'Aragon ait connus depuis des années, selon un haut responsable du gouvernement régional."
+    },
+    "published": "Thu, 16 Jul 2026 23:31:55 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      21,
+      31,
+      55,
+      3,
+      197,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rvFgeQHjxFsHecMqSKkPSu0hMzQ/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/07/16/6a594d817248b921392268.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

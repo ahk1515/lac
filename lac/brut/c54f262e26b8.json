@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T02:32:48.485847+00:00",
+  "_id": "c54f262e26b8",
+  "brut": {
+    "title": "Coupe du monde 2026 : la FIFA annonce une enquête après la banderole sur les Malouines brandie par des joueurs argentins",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Coupe du monde 2026 : la FIFA annonce une enquête après la banderole sur les Malouines brandie par des joueurs argentins"
+    },
+    "published": "Fri, 17 Jul 2026 02:27:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      0,
+      27,
+      12,
+      4,
+      198,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 02:48:05 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      0,
+      48,
+      5,
+      4,
+      198,
+      0
+    ],
+    "summary": "L’archipel britannique situé à 600 km des côtes argentines demeure un sujet sensible dans les relations entre Londres et Buenos Aires, ravivé par une provocation de l’Albiceleste après sa victoire sur les Three Lions lors du Mondial de football.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’archipel britannique situé à 600 km des côtes argentines demeure un sujet sensible dans les relations entre Londres et Buenos Aires, ravivé par une provocation de l’Albiceleste après sa victoire sur les Three Lions lors du Mondial de football."
+    },
+    "id": "https://www.lemonde.fr/sport/article/2026/07/17/mondial-2026-la-fifa-annonce-une-enquete-apres-la-banderole-sur-les-malouines-brandie-par-des-joueurs-argentins_6723983_3242.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sport/article/2026/07/17/mondial-2026-la-fifa-annonce-une-enquete-apres-la-banderole-sur-les-malouines-brandie-par-des-joueurs-argentins_6723983_3242.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sport/article/2026/07/17/mondial-2026-la-fifa-annonce-une-enquete-apres-la-banderole-sur-les-malouines-brandie-par-des-joueurs-argentins_6723983_3242.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/15/1203/0/7222/3611/644/322/60/0/165656b_ftp-1-cdnfku96m5qu-3d4cdccc87544c4a944993ff2c5afb63-0-4fe1740cd8084fa59b357600a7bd8118.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le footballeur argentin Giovani Lo Celso brandit une bannière « Les Malouines sont à l’Argentine », lors du match contre l’Angleterre, à Atlanta (Géorgie), le 15 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Rebecca Blackwell/AP"
+      }
+    ],
+    "credit": "Rebecca Blackwell/AP"
+  }
+}

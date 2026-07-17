@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T02:32:48.486420+00:00",
+  "_id": "d62a922be200",
+  "brut": {
+    "title": "Ahmed Ben Bella, des prisons d’Alger aux vignobles suisses",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ahmed Ben Bella, des prisons d’Alger aux vignobles suisses"
+    },
+    "published": "Thu, 16 Jul 2026 23:00:09 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      21,
+      0,
+      9,
+      3,
+      197,
+      0
+    ],
+    "summary": "« Chefs d’Etat africains en exil » (5/6). Poussé dehors par le colonel Boumediene en 1965, le premier président de l’Algérie indépendante a passé quinze années dans les geôles d’Alger. Dans les années 1980, il se retranche dans le village suisse de Begnins, entouré de quelques proches. Il a renoué avec l’islam, mais reste fidèle à son combat contre l’impérialisme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Chefs d’Etat africains en exil » (5/6). Poussé dehors par le colonel Boumediene en 1965, le premier président de l’Algérie indépendante a passé quinze années dans les geôles d’Alger. Dans les années 1980, il se retranche dans le village suisse de Begnins, entouré de quelques proches. Il a renoué avec l’islam, mais reste fidèle à son combat contre l’impérialisme."
+    },
+    "id": "https://www.lemonde.fr/series-d-ete/article/2026/07/16/ahmed-ben-bella-des-prisons-d-alger-aux-vignobles-suisses_6723850_3451060.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/16/ahmed-ben-bella-des-prisons-d-alger-aux-vignobles-suisses_6723850_3451060.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/series-d-ete/article/2026/07/16/ahmed-ben-bella-des-prisons-d-alger-aux-vignobles-suisses_6723850_3451060.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/966/0/2205/1102/644/322/60/0/c88ab3a_upload-1-dq1ivj7v7hqp-aquindo-se-riede-te-5-benbella.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGIO AQUINDO"
+      }
+    ],
+    "credit": "SERGIO AQUINDO"
+  }
+}

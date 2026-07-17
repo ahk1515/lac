@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T02:32:48.485417+00:00",
+  "_id": "41d39cd9a557",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran riposte aux frappes américaines en attaquant le Koweït, Bahreïn et le Qatar",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : l’Iran riposte aux frappes américaines en attaquant le Koweït, Bahreïn et le Qatar"
+    },
+    "published": "Fri, 17 Jul 2026 04:04:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      2,
+      4,
+      45,
+      4,
+      198,
+      0
+    ],
+    "summary": "Les trois pays du Golfe disent avoir intercepté des drones et des missiles lancés par Téhéran sur leurs territoires respectifs, en réponse aux bombardements américains sur des infrastructures de transports iraniennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les trois pays du Golfe disent avoir intercepté des drones et des missiles lancés par Téhéran sur leurs territoires respectifs, en réponse aux bombardements américains sur des infrastructures de transports iraniennes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-iran-riposte-aux-frappes-americaines-en-attaquant-le-koweit-bahrein-et-le-qatar_6722873_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-iran-riposte-aux-frappes-americaines-en-attaquant-le-koweit-bahrein-et-le-qatar_6722873_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-iran-riposte-aux-frappes-americaines-en-attaquant-le-koweit-bahrein-et-le-qatar_6722873_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/101/0/3000/1500/644/322/60/0/3ca2e27_ftp-1-moaraj2n308n-5636563-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une capture d’écran d’une vidéo publiée le 16 juillet 2026 par le site Sepah News des Gardiens de la révolution iraniens, montre le lancement d’un missile depuis un lieu non divulgué en direction de cibles américaines en Jordanie, au Koweït et à Bahreïn."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEPAHNEWS via AFP"
+      }
+    ],
+    "credit": "SEPAHNEWS via AFP"
+  }
+}

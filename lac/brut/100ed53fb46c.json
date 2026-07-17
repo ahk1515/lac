@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T02:32:48.486242+00:00",
+  "_id": "100ed53fb46c",
+  "brut": {
+    "title": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Truth Social lance un accès prioritaire et payant aux publications de Donald Trump"
+    },
+    "published": "Fri, 17 Jul 2026 01:51:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      23,
+      51,
+      12,
+      3,
+      197,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 02:30:53 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      0,
+      30,
+      53,
+      4,
+      198,
+      0
+    ],
+    "summary": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers qui dépendent de marges de quelques secondes pour prendre leurs décisions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain envisage de monétiser ses communications sur son réseau social, à destination des traders et des médias financiers qui dépendent de marges de quelques secondes pour prendre leurs décisions."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/17/truth-social-lance-un-acces-prioritaire-et-payant-aux-publications-de-donald-trump_6723917_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/137/0/501/250/644/322/60/0/1c6fa8f_upload-1-4nk0wpanznmd-capture-d-e-cran-2026-07-17-a-01-43-17.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une capture d’écran du compte Truth Social de Donald Trump réalisée le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "realDonaldTrump/Truth Social"
+      }
+    ],
+    "credit": "realDonaldTrump/Truth Social"
+  }
+}

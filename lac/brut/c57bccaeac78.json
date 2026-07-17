@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T02:32:48.486058+00:00",
+  "_id": "c57bccaeac78",
+  "brut": {
+    "title": "Mexique : assassinat d’un journaliste dans le centre du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mexique : assassinat d’un journaliste dans le centre du pays"
+    },
+    "published": "Fri, 17 Jul 2026 01:52:38 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      23,
+      52,
+      38,
+      3,
+      197,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 02:24:28 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      0,
+      24,
+      28,
+      4,
+      198,
+      0
+    ],
+    "summary": "Josué Martinez « assurait la couverture de sujets liés à la sécurité et d’événements à fort impact » dans sa localité de San Martin Texmelucan, à proximité de Mexico.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Josué Martinez « assurait la couverture de sujets liés à la sécurité et d’événements à fort impact » dans sa localité de San Martin Texmelucan, à proximité de Mexico."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/17/mexique-assassinat-d-un-journaliste-dans-le-centre-du-pays_6723950_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/17/mexique-assassinat-d-un-journaliste-dans-le-centre-du-pays_6723950_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/17/mexique-assassinat-d-un-journaliste-dans-le-centre-du-pays_6723950_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/73/0/1080/540/644/322/60/0/0f316e1_upload-1-w21tu17nfnft-749269416-1571021694637489-3600247134893799357-n.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Avis de décès du journaliste Josué Martinez, publié par le gouvernement de San Martin Texmelucan, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gobierno de San Martín Texmelucan/Facebook"
+      }
+    ],
+    "credit": "Gobierno de San Martín Texmelucan/Facebook"
+  }
+}

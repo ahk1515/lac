@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T02:32:48.485654+00:00",
+  "_id": "f1ff07cfa39d",
+  "brut": {
+    "title": "En Côte d’Ivoire, les hommes politiques se ruent sur les clubs de football",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Côte d’Ivoire, les hommes politiques se ruent sur les clubs de football"
+    },
+    "published": "Fri, 17 Jul 2026 03:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      1,
+      0,
+      5,
+      4,
+      198,
+      0
+    ],
+    "summary": "Plusieurs membres du gouvernement et cadres du parti au pouvoir possèdent, président ou parrainent des clubs. Un instrument d’influence qui s’est accentué ces dernières années.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs membres du gouvernement et cadres du parti au pouvoir possèdent, président ou parrainent des clubs. Un instrument d’influence qui s’est accentué ces dernières années."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/17/en-cote-d-ivoire-les-hommes-politiques-se-ruent-sur-les-clubs-de-football_6724016_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/17/en-cote-d-ivoire-les-hommes-politiques-se-ruent-sur-les-clubs-de-football_6724016_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/17/en-cote-d-ivoire-les-hommes-politiques-se-ruent-sur-les-clubs-de-football_6724016_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/98/0/2048/1024/644/322/60/0/3a0f74f_upload-1-7fhdhvdc43j4-637365976-1227490089496841-1751329832398990059-n.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le vice-premier ministre et ministre de la défense ivoirienne, Téné Birahima Ouattara, au centre, reçoit le prix de l’homme de l’année 2025 de la Fédération ivoirienne de football à Abidjan (Côte d’Ivoire), le 19 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fédération Ivoirienne de Football/Facebook"
+      }
+    ],
+    "credit": "Fédération Ivoirienne de Football/Facebook"
+  }
+}

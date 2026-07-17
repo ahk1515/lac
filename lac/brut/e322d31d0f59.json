@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T02:32:48.788384+00:00",
+  "_id": "e322d31d0f59",
+  "brut": {
+    "title": "Vacances d'été : la revanche du Nord",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Vacances d'été : la revanche du Nord"
+    },
+    "summary": "Alors que les budgets sont contraints pour les vacances, de plus en plus de personnes plébiscitent les plages du Nord. Des vacances plus fraîches et moins chères que dans le Sud.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alors que les budgets sont contraints pour les vacances, de plus en plus de personnes plébiscitent les plages du Nord. Des vacances plus fraîches et moins chères que dans le Sud."
+    },
+    "published": "Thu, 16 Jul 2026 23:32:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      16,
+      21,
+      32,
+      3,
+      3,
+      197,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/vacances-d-ete-la-revanche-du-nord_8110880.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/KrAU4DmoaR0-OwV5ZbvcdGBa3gE/148x0:1574x802/432x243/filters:format(jpg):quality(50)/2026/07/16/6a594a3210659089457981.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/vacances-d-ete-la-revanche-du-nord_8110880.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/vacances-d-ete-la-revanche-du-nord_8110880.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
