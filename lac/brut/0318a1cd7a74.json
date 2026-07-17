@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T06:13:59.729475+00:00",
+  "_id": "0318a1cd7a74",
+  "brut": {
+    "title": "Géopolitique : le siège de Nuuk (4/4)",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Géopolitique : le siège de Nuuk (4/4)"
+    },
+    "published": "Fri, 17 Jul 2026 05:00:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      3,
+      0,
+      18,
+      4,
+      198,
+      0
+    ],
+    "summary": "Dans ce quatrième épisode de podcast de la série « Géopolitique », consacrée à la nouvelle donne internationale en perte de repères, Sylvie Kauffmann et Delphine Papin, respectivement éditorialiste et responsable de l’innovation cartographique au « Monde », imaginent un scénario géopolitique fictif où Donald Trump décide d’envahir le Groenland.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans ce quatrième épisode de podcast de la série « Géopolitique », consacrée à la nouvelle donne internationale en perte de repères, Sylvie Kauffmann et Delphine Papin, respectivement éditorialiste et responsable de l’innovation cartographique au « Monde », imaginent un scénario géopolitique fictif où Donald Trump décide d’envahir le Groenland."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/07/17/geopolitique-le-siege-de-nuuk-4-4_6724084_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/07/17/geopolitique-le-siege-de-nuuk-4-4_6724084_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/07/17/geopolitique-le-siege-de-nuuk-4-4_6724084_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/0/0/1800/900/644/322/60/0/e4f9d09_upload-1-kfctc18whpzz-groenlandok.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain Donald Trump a déclaré que le Groenland, territoire autonome danois, devrait être « contrôlé par les Etats-Unis », le 7 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AP Photo/Evgeniy Maloletka"
+      }
+    ],
+    "credit": "AP Photo/Evgeniy Maloletka"
+  }
+}

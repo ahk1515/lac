@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T06:13:59.728169+00:00",
+  "_id": "526dbc4f829e",
+  "brut": {
+    "title": "Les coulisses du dernier G7 d’Emmanuel Macron, racontées par le photographe Kamil Zihnioglu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les coulisses du dernier G7 d’Emmanuel Macron, racontées par le photographe Kamil Zihnioglu"
+    },
+    "published": "Fri, 17 Jul 2026 07:00:00 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      5,
+      0,
+      0,
+      4,
+      198,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 07:37:09 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      5,
+      37,
+      9,
+      4,
+      198,
+      0
+    ],
+    "summary": "Il y a un protocole, et il y a Donald Trump. C’est, en substance, ce que retient le photographe Kamil Zihnioglu de ses trois jours passés à couvrir, pour « Le Monde », le sommet du G7 à Evian-les-Bains (Haute-Savoie).",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il y a un protocole, et il y a Donald Trump. C’est, en substance, ce que retient le photographe Kamil Zihnioglu de ses trois jours passés à couvrir, pour « Le Monde », le sommet du G7 à Evian-les-Bains (Haute-Savoie)."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/17/les-coulisses-du-dernier-g7-d-emmanuel-macron-racontees-par-le-photographe-kamil-zihnioglu_6724135_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/17/les-coulisses-du-dernier-g7-d-emmanuel-macron-racontees-par-le-photographe-kamil-zihnioglu_6724135_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/17/les-coulisses-du-dernier-g7-d-emmanuel-macron-racontees-par-le-photographe-kamil-zihnioglu_6724135_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/18/0/0/5000/2500/644/322/60/0/5fc8fd6_upload-1-m5nwut8a843f-kzihnioglu-evian-g7-15062026-3-55.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+      }
+    ],
+    "credit": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+  }
+}
