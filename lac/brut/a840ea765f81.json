@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T20:54:02.595282+00:00",
+  "_id": "a840ea765f81",
+  "brut": {
+    "title": "Plus de 200 incendies restent hors de contrôle au Canada, notamment en Ontario",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 200 incendies restent hors de contrôle au Canada, notamment en Ontario"
+    },
+    "summary": "Près de 2,8 millions d'hectares ont brûlé depuis le début de l'année dans le pays, selon le gouvernement fédéral. Vendredi dernier, ce chiffre était de près de 1,6 million d'hectares.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 2,8 millions d'hectares ont brûlé depuis le début de l'année dans le pays, selon le gouvernement fédéral. Vendredi dernier, ce chiffre était de près de 1,6 million d'hectares."
+    },
+    "published": "Fri, 17 Jul 2026 20:15:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      18,
+      15,
+      5,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/canada/plus-de-200-incendies-restent-hors-de-controle-au-canada-notamment-dans-la-province-de-l-ontario_8112206.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/iriTrAmyRFPI9foih3VGn1PAKGs/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a70cf46498040365495.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/canada/plus-de-200-incendies-restent-hors-de-controle-au-canada-notamment-dans-la-province-de-l-ontario_8112206.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/canada/plus-de-200-incendies-restent-hors-de-controle-au-canada-notamment-dans-la-province-de-l-ontario_8112206.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

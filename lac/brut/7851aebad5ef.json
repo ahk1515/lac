@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T20:54:02.595132+00:00",
+  "_id": "7851aebad5ef",
+  "brut": {
+    "title": "Au nord-est de l'Espagne, les pompiers confrontés aux murs de flammes d'un gigantesque incendie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au nord-est de l'Espagne, les pompiers confrontés aux murs de flammes d'un gigantesque incendie"
+    },
+    "summary": "Plus de 12 000 hectares ont été réduits en fumée dans la région de Saragosse, dans le nord de l'Espagne. Les pompiers se retrouvent au cœur du brasier pour tenter de le combattre, vendredi 17 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 12 000 hectares ont été réduits en fumée dans la région de Saragosse, dans le nord de l'Espagne. Les pompiers se retrouvent au cœur du brasier pour tenter de le combattre, vendredi 17 juillet."
+    },
+    "published": "Fri, 17 Jul 2026 21:03:00 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      19,
+      3,
+      0,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/au-nord-est-de-l-espagne-les-pompiers-confrontes-aux-murs-de-flammes-d-un-gigantesque-incendie_8112245.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/SO9br-bfAmOKe-U3MXRia4aOMxw/0x64:1370x835/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a79119530b951570668.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/au-nord-est-de-l-espagne-les-pompiers-confrontes-aux-murs-de-flammes-d-un-gigantesque-incendie_8112245.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/au-nord-est-de-l-espagne-les-pompiers-confrontes-aux-murs-de-flammes-d-un-gigantesque-incendie_8112245.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

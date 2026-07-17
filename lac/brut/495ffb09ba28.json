@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T20:54:02.467584+00:00",
+  "_id": "495ffb09ba28",
+  "brut": {
+    "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton"
+    },
+    "published": "Fri, 17 Jul 2026 20:03:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      18,
+      3,
+      45,
+      4,
+      198,
+      0
+    ],
+    "summary": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par la DGSI. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué vendredi 17 juillet par le ministre des affaires étrangères.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par la DGSI. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué vendredi 17 juillet par le ministre des affaires étrangères."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/255/0/2040/1020/644/322/60/0/e0db418_upload-1-njhbl2zd5dyp-20260717tgb4906.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors de l’incendie sur le site de Thales à Plouzané (Finistère), où sont notamment fabriqués des équipements pour le Rafale et la discrétion acoustique des sous-marins, le 10 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Frédéric Jacq/PHOTOPQR/LE TELEGRAMME/MAXPPP"
+      }
+    ],
+    "credit": "Frédéric Jacq/PHOTOPQR/LE TELEGRAMME/MAXPPP"
+  }
+}

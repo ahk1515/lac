@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T20:54:02.467967+00:00",
+  "_id": "2fca9ebc65df",
+  "brut": {
+    "title": "Ebola : au Kenya, plusieurs Américains ont été placés en quarantaine ; le gouvernement dit ne pas en avoir été informé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola : au Kenya, plusieurs Américains ont été placés en quarantaine ; le gouvernement dit ne pas en avoir été informé"
+    },
+    "published": "Fri, 17 Jul 2026 19:48:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      17,
+      48,
+      3,
+      4,
+      198,
+      0
+    ],
+    "summary": "C’est la première fois que les Etats-Unis confirment la présence d’Américains dans ce centre géré par le Centre de contrôle des maladies américain – un projet pourtant suspendu par la justice kényane.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "C’est la première fois que les Etats-Unis confirment la présence d’Américains dans ce centre géré par le Centre de contrôle des maladies américain – un projet pourtant suspendu par la justice kényane."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/17/ebola-au-kenya-plusieurs-americains-ont-ete-places-en-quarantaine-le-gouvernement-dit-ne-pas-en-avoir-ete-informe_6724231_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/17/ebola-au-kenya-plusieurs-americains-ont-ete-places-en-quarantaine-le-gouvernement-dit-ne-pas-en-avoir-ete-informe_6724231_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/17/ebola-au-kenya-plusieurs-americains-ont-ete-places-en-quarantaine-le-gouvernement-dit-ne-pas-en-avoir-ete-informe_6724231_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/491/0/5900/2950/644/322/60/0/7eacbfd_ftp-1-laos2ex3uoo0-2026-07-17t075901z-741315118-rc25qla57g5f-rtrmadp-3-health-ebola-usa-kenya.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une manifestation contre le centre de quarantaine construit par les Etats-Unis à Laïkipia, au Kenya, le 9 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Monicah Mwangi / REUTERS"
+      }
+    ],
+    "credit": "Monicah Mwangi / REUTERS"
+  }
+}

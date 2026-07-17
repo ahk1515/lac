@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T20:54:02.594262+00:00",
+  "_id": "861a05d798d6",
+  "brut": {
+    "title": "Une frappe israélienne fait huit morts près d'un marché dans la bande de Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une frappe israélienne fait huit morts près d'un marché dans la bande de Gaza"
+    },
+    "summary": "L'armée israélienne, de son côté, assure avoir \"frappé une cellule terroriste de l'organisation terroriste du Jihad islamique\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne, de son côté, assure avoir \"frappé une cellule terroriste de l'organisation terroriste du Jihad islamique\"."
+    },
+    "published": "Fri, 17 Jul 2026 22:45:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      20,
+      45,
+      46,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-fait-huit-morts-pres-d-un-marche-dans-la-bande-de-gaza_8112332.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dcmvqYeI5W2JtIxahXfRZZEfDIk/0x87:1024x663/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a93ea3627c483592750.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-fait-huit-morts-pres-d-un-marche-dans-la-bande-de-gaza_8112332.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-fait-huit-morts-pres-d-un-marche-dans-la-bande-de-gaza_8112332.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

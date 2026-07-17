@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T20:54:02.467777+00:00",
+  "_id": "03bf2a059ecf",
+  "brut": {
+    "title": "A Gaza, un bombardement israélien lors de funérailles tue huit personnes et en blesse 22 autres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, un bombardement israélien lors de funérailles tue huit personnes et en blesse 22 autres"
+    },
+    "published": "Fri, 17 Jul 2026 19:54:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      17,
+      54,
+      51,
+      4,
+      198,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 20:21:40 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      18,
+      21,
+      40,
+      4,
+      198,
+      0
+    ],
+    "summary": "Le Hamas a condamné l’attaque, la qualifiant de « massacre brutal » de personnes en deuil. De son côté, l’armée israélienne a déclaré avoir ciblé une cellule du ​Jihad islamique palestinien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Hamas a condamné l’attaque, la qualifiant de « massacre brutal » de personnes en deuil. De son côté, l’armée israélienne a déclaré avoir ciblé une cellule du ​Jihad islamique palestinien."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/17/une-frappe-israelienne-visant-des-funerailles-fait-8-morts-et-22-blesses-a-gaza_6724232_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/17/une-frappe-israelienne-visant-des-funerailles-fait-8-morts-et-22-blesses-a-gaza_6724232_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/17/une-frappe-israelienne-visant-des-funerailles-fait-8-morts-et-22-blesses-a-gaza_6724232_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/456/0/5472/2736/644/322/60/0/b02416a_ftp-1-n8bhiucu7ar8-5635002-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur le site d’une frappe israélienne, dans le camp de réfugiés d’Al-Boureij, dans la bande de Gaza, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EYAD BABA/AFP"
+      }
+    ],
+    "credit": "EYAD BABA/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T20:54:02.594654+00:00",
+  "_id": "6302807af316",
+  "brut": {
+    "title": "Espagne : des incendies hors de contrôle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Espagne : des incendies hors de contrôle"
+    },
+    "summary": "Plus de 12 000 hectares sont déjà partis en fumée dans le nord de l'Espagne, près de Saragosse. Au cœur du brasier, les pompiers luttent sans relâche pour tenter de contenir l'incendie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 12 000 hectares sont déjà partis en fumée dans le nord de l'Espagne, près de Saragosse. Au cœur du brasier, les pompiers luttent sans relâche pour tenter de contenir l'incendie."
+    },
+    "published": "Fri, 17 Jul 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      20,
+      0,
+      2,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/espagne-des-incendies-hors-de-controle_8112284.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vN_GYB4Qd5M5m__LeCXfUk-A9k4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/17/6a5a811ea39a0862319841.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/espagne-des-incendies-hors-de-controle_8112284.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/espagne-des-incendies-hors-de-controle_8112284.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
