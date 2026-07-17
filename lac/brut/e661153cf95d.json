@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T17:10:10.218037+00:00",
+  "_id": "e661153cf95d",
+  "brut": {
+    "title": "Gaza aussi célèbre cette Coupe du monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Gaza aussi célèbre cette Coupe du monde"
+    },
+    "summary": "Des cris de joie et de bonheur, à travers les ruines : c’est ce que l’on peut voir actuellement à Gaza. A travers la Coupe du Monde de foot, les Gazaouïs ont un peu de répit, malgré les frappes israéliennes.  #actu",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des cris de joie et de bonheur, à travers les ruines : c’est ce que l’on peut voir actuellement à Gaza. A travers la Coupe du Monde de foot, les Gazaouïs ont un peu de répit, malgré les frappes israéliennes.  #actu"
+    },
+    "published": "Fri, 17 Jul 2026 17:24:43 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      15,
+      24,
+      43,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/gaza-aussi-celebre-cette-coupe-du-monde_8111984.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wl_smE-l7CCJ7Ad6Phqvjbrb--o/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/17/6a5a4924edba5379087570.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/gaza-aussi-celebre-cette-coupe-du-monde_8111984.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/gaza-aussi-celebre-cette-coupe-du-monde_8111984.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

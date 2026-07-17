@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T17:10:10.217568+00:00",
+  "_id": "ae90963609bf",
+  "brut": {
+    "title": "Déserts blanc ou noir, grotte… Les paysages lunaires du désert égyptien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Déserts blanc ou noir, grotte… Les paysages lunaires du désert égyptien"
+    },
+    "summary": "Votre \"13 Heures Découverte\" vous emmène ce vendredi dans un paysage que l'on croirait venu d'une autre planète : en Égypte, au milieu du désert blanc. Un décor presque irréel, sculpté par le vent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Votre \"13 Heures Découverte\" vous emmène ce vendredi dans un paysage que l'on croirait venu d'une autre planète : en Égypte, au milieu du désert blanc. Un décor presque irréel, sculpté par le vent."
+    },
+    "published": "Fri, 17 Jul 2026 18:05:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      16,
+      5,
+      52,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/egypte/deserts-blanc-noir-grotte-les-paysages-lunaires-du-desert-egyptien_8111993.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3PQu0m925Ekt_704lAPOiVOfOvM/95x0:1347x704/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a52551f952667689507.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/egypte/deserts-blanc-noir-grotte-les-paysages-lunaires-du-desert-egyptien_8111993.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/egypte/deserts-blanc-noir-grotte-les-paysages-lunaires-du-desert-egyptien_8111993.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

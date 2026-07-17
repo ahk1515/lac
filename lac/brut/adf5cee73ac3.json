@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T17:10:09.951753+00:00",
+  "_id": "adf5cee73ac3",
+  "brut": {
+    "title": "Emmanuel Macron appelle à se « méfier » des sondages prédisant la victoire de Marine Le Pen en 2027",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Macron appelle à se « méfier » des sondages prédisant la victoire de Marine Le Pen en 2027"
+    },
+    "published": "Fri, 17 Jul 2026 17:19:56 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      15,
+      19,
+      56,
+      4,
+      198,
+      0
+    ],
+    "summary": "Le président français s’exprimait au cours d’une conférence de presse conjointe avec le chancelier allemand, Friedrich Merz, qui a, de son côté, promis de « tendre la main » à tout dirigeant qui sera élu en France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président français s’exprimait au cours d’une conférence de presse conjointe avec le chancelier allemand, Friedrich Merz, qui a, de son côté, promis de « tendre la main » à tout dirigeant qui sera élu en France."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/07/17/emmanuel-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-marine-le-pen-en-2027_6724214_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/07/17/emmanuel-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-marine-le-pen-en-2027_6724214_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/07/17/emmanuel-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-marine-le-pen-en-2027_6724214_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/528/0/5500/2750/644/322/60/0/042f186_ftp-1-8o3vcl03tmb4-2026-07-17t150413z-900822855-rc2rfmakijo0-rtrmadp-3-germany-france-merz-macron.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Thilo Schmuelgen/REUTERS"
+      }
+    ],
+    "credit": "Thilo Schmuelgen/REUTERS"
+  }
+}

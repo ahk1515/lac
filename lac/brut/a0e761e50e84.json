@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T17:10:09.950919+00:00",
+  "_id": "a0e761e50e84",
+  "brut": {
+    "title": "La main de la Russie derrière le rapprochement entre le Mali et l’Algérie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La main de la Russie derrière le rapprochement entre le Mali et l’Algérie"
+    },
+    "published": "Fri, 17 Jul 2026 18:00:00 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      16,
+      0,
+      0,
+      4,
+      198,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 18:35:30 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      16,
+      35,
+      30,
+      4,
+      198,
+      0
+    ],
+    "summary": "Bamako et Alger ont mis fin, le 10 juillet, à quinze mois de crise diplomatique. Un rapprochement encouragé par Moscou et favorisé par la médiation du Niger.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bamako et Alger ont mis fin, le 10 juillet, à quinze mois de crise diplomatique. Un rapprochement encouragé par Moscou et favorisé par la médiation du Niger."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/17/derriere-le-rapprochement-entre-le-mali-et-l-algerie-la-main-de-la-russie_6724221_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/17/derriere-le-rapprochement-entre-le-mali-et-l-algerie-la-main-de-la-russie_6724221_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/17/derriere-le-rapprochement-entre-le-mali-et-l-algerie-la-main-de-la-russie_6724221_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/457/0/5481/2740/644/322/60/0/f115555_upload-1-cbty1qt0vv1k-2025-06-23t152737z-1106021629-rc2f8faorfpx-rtrmadp-3-russia-mali.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chef de la junte du Mali, le général Assimi Goïta, et le président russe, Vladimir Poutine, au Kremlin, à Moscou, le 23 juin 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Pavel Bednyakov/REUTERS"
+      }
+    ],
+    "credit": "Pavel Bednyakov/REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T17:10:10.217330+00:00",
+  "_id": "85affa4f25e3",
+  "brut": {
+    "title": "Un tremblement de terre de magnitude 7,3 frappe le sud du Mexique, une alerte tsunami enclenchée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un tremblement de terre de magnitude 7,3 frappe le sud du Mexique, une alerte tsunami enclenchée"
+    },
+    "summary": "Aucune victime n'est à déplorer à ce stade, d'après de premiers rapports issus de différentes régions mexicaines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aucune victime n'est à déplorer à ce stade, d'après de premiers rapports issus de différentes régions mexicaines."
+    },
+    "published": "Fri, 17 Jul 2026 18:38:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      16,
+      38,
+      30,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-tremblement-de-terre-de-magnitude-7-3-frappe-le-sud-du-mexique-une-alerte-tsunami-enclenchee_8112122.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-K-upLO87Y680xKno0wzX_aQGyM/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a5a69d8f80843938801.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-tremblement-de-terre-de-magnitude-7-3-frappe-le-sud-du-mexique-une-alerte-tsunami-enclenchee_8112122.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-tremblement-de-terre-de-magnitude-7-3-frappe-le-sud-du-mexique-une-alerte-tsunami-enclenchee_8112122.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
