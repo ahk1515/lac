@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T09:56:10.067125+00:00",
+  "_id": "b998bda8b489",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : 12 navires russes touchés cette nuit par des drones en mer Noire, selon les forces ukrainiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : 12 navires russes touchés cette nuit par des drones en mer Noire, selon les forces ukrainiennes"
+    },
+    "published": "Fri, 17 Jul 2026 10:44:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      8,
+      44,
+      30,
+      4,
+      198,
+      0
+    ],
+    "updated": "Fri, 17 Jul 2026 10:52:56 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      17,
+      8,
+      52,
+      56,
+      4,
+      198,
+      0
+    ],
+    "summary": "Cent quinze drones et cinq missiles russes ont par ailleurs été interceptés dans la nuit, mais sept sites ont été touchés, selon l’armée de l’air ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cent quinze drones et cinq missiles russes ont par ailleurs été interceptés dans la nuit, mais sept sites ont été touchés, selon l’armée de l’air ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-douze-navires-russes-touches-cette-nuit-par-des-drones-en-mer-noire-selon-les-forces-ukrainiennes_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-douze-navires-russes-touches-cette-nuit-par-des-drones-en-mer-noire-selon-les-forces-ukrainiennes_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-douze-navires-russes-touches-cette-nuit-par-des-drones-en-mer-noire-selon-les-forces-ukrainiennes_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/98/0/3571/1785/644/322/60/0/ab55c34_ftp-1-ry9lagrbpkbx-2026-07-09t101029z-1536672474-rc24pba4yfa2-rtrmadp-3-syria-economy-russia-logistics.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un navire russe en mer Noire, en décembre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Umit Bektas / REUTERS"
+      }
+    ],
+    "credit": "Umit Bektas / REUTERS"
+  }
+}

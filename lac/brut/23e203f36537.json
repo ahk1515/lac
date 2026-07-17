@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T09:56:10.895062+00:00",
+  "_id": "23e203f36537",
+  "brut": {
+    "title": "En Corée du Sud, des soirées organisées pour permettre aux personnes introverties de trouver l'âme sœur",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Corée du Sud, des soirées organisées pour permettre aux personnes introverties de trouver l'âme sœur"
+    },
+    "summary": "Une partie de la jeunesse coréenne boude les grandes fêtes arrosées avec plein d'amis. Pour trouver l'âme sœur, elle privilégie une nouvelle forme de soirées organisées spécialement pour les personnes plus réservées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une partie de la jeunesse coréenne boude les grandes fêtes arrosées avec plein d'amis. Pour trouver l'âme sœur, elle privilégie une nouvelle forme de soirées organisées spécialement pour les personnes plus réservées."
+    },
+    "published": "Fri, 17 Jul 2026 10:29:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      8,
+      29,
+      47,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-des-soirees-organisees-pour-permettre-aux-personnes-introverties-de-trouver-l-ame-s-ur_8081720.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MIU_mOTlu-2bcWoSJbmR7QCJpoU/0x110:2121x1304/432x243/filters:format(jpg):quality(50)/2026/07/17/6a59e2e074b6e218903081.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-des-soirees-organisees-pour-permettre-aux-personnes-introverties-de-trouver-l-ame-s-ur_8081720.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-des-soirees-organisees-pour-permettre-aux-personnes-introverties-de-trouver-l-ame-s-ur_8081720.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

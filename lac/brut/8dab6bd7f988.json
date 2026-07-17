@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-17T09:56:10.066570+00:00",
+  "_id": "8dab6bd7f988",
+  "brut": {
+    "title": "Quels sont les enjeux et modalités des prochaines élections législatives en Israël ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quels sont les enjeux et modalités des prochaines élections législatives en Israël ?"
+    },
+    "published": "Fri, 17 Jul 2026 11:00:13 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      9,
+      0,
+      13,
+      4,
+      198,
+      0
+    ],
+    "summary": "Le scrutin se tiendra le 27 octobre. Plusieurs candidats émergent pour tenter de remplacer Benyamin Nétanyahou à la tête d’une coalition, mais les programmes, notamment sécuritaires, demeurent assez semblables.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le scrutin se tiendra le 27 octobre. Plusieurs candidats émergent pour tenter de remplacer Benyamin Nétanyahou à la tête d’une coalition, mais les programmes, notamment sécuritaires, demeurent assez semblables."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/17/quels-sont-les-enjeux-et-modalites-des-prochaines-elections-legislatives-en-israel_6724161_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/17/quels-sont-les-enjeux-et-modalites-des-prochaines-elections-legislatives-en-israel_6724161_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/17/quels-sont-les-enjeux-et-modalites-des-prochaines-elections-legislatives-en-israel_6724161_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/05/20/458/0/5500/2750/644/322/60/0/b891252_ftp-1-lhdpswqbtmbp-2026-05-20t103503z-1299266299-rc2xcla8ui3e-rtrmadp-3-israel-politics-election.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A l’issue d’un vote visant à dissoudre la Knesset, le Parlement israélien, avant la fin de son mandat, à Jérusalem, le 20 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ronen Zvulun/REUTERS"
+      }
+    ],
+    "credit": "Ronen Zvulun/REUTERS"
+  }
+}

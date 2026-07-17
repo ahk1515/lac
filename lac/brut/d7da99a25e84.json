@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T09:56:10.895213+00:00",
+  "_id": "d7da99a25e84",
+  "brut": {
+    "title": "À cause des incendies au Canada, New York et le nord des États-Unis suffoquent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À cause des incendies au Canada, New York et le nord des États-Unis suffoquent"
+    },
+    "summary": "Les incendies continuent de faire rage au Canada, où 850 feux de forêt sont toujours en cours vendredi 17 juillet. Ils ont des conséquences jusqu’aux États-Unis, notamment dans la région de New York, où la qualité de l’air va atteindre un niveau très dangereux pour la santé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les incendies continuent de faire rage au Canada, où 850 feux de forêt sont toujours en cours vendredi 17 juillet. Ils ont des conséquences jusqu’aux États-Unis, notamment dans la région de New York, où la qualité de l’air va atteindre un niveau très dangereux pour la santé."
+    },
+    "published": "Fri, 17 Jul 2026 10:10:42 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      8,
+      10,
+      42,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/a-cause-des-incendies-au-canada-new-york-et-le-nord-des-etats-unis-suffoquent_8111360.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Zjuhzykat2GeXtufvwHvNdFuCmk/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/17/6a59e1b20c3c2912030134.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/a-cause-des-incendies-au-canada-new-york-et-le-nord-des-etats-unis-suffoquent_8111360.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/a-cause-des-incendies-au-canada-new-york-et-le-nord-des-etats-unis-suffoquent_8111360.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

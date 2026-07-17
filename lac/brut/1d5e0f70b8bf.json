@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-17T09:56:10.894736+00:00",
+  "_id": "1d5e0f70b8bf",
+  "brut": {
+    "title": "Suspecté d'avoir parié sur les discours de Donald Trump, un technicien chargé du prompteur présidentiel suspendu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Suspecté d'avoir parié sur les discours de Donald Trump, un technicien chargé du prompteur présidentiel suspendu"
+    },
+    "summary": "Selon des médias américains, cet agent, qui travaillait déjà pour Donald Trump pendant son premier mandat, avait gagné plus de 100 000 dollars grâce à ses paris.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon des médias américains, cet agent, qui travaillait déjà pour Donald Trump pendant son premier mandat, avait gagné plus de 100 000 dollars grâce à ses paris."
+    },
+    "published": "Fri, 17 Jul 2026 11:03:32 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      9,
+      3,
+      32,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/suspecte-d-avoir-parie-sur-les-discours-de-donald-trump-un-technicien-charge-du-prompteur-presidentiel-suspendu_8111429.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4kACkr1-BpAAJdLn7pVKXdfD6ag/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/14/6a55d134043cc986814071.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/suspecte-d-avoir-parie-sur-les-discours-de-donald-trump-un-technicien-charge-du-prompteur-presidentiel-suspendu_8111429.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/suspecte-d-avoir-parie-sur-les-discours-de-donald-trump-un-technicien-charge-du-prompteur-presidentiel-suspendu_8111429.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
