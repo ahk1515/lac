@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-18T16:57:02.759505+00:00",
+  "_id": "fea454779ed1",
+  "brut": {
+    "title": "Un glissement de terrain meurtrier en Chine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un glissement de terrain meurtrier en Chine"
+    },
+    "summary": "Un glissement de terrain, survenu vendredi 17 juillet, dans le sud-est de la Chine a fait au moins huit morts et 34 disparus, ont annoncé les médias d'Etat et les autorités locales. Le président Xi Jinping a exhorté les autorités à déterminer la cause de la catastrophe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un glissement de terrain, survenu vendredi 17 juillet, dans le sud-est de la Chine a fait au moins huit morts et 34 disparus, ont annoncé les médias d'Etat et les autorités locales. Le président Xi Jinping a exhorté les autorités à déterminer la cause de la catastrophe."
+    },
+    "published": "Sat, 18 Jul 2026 15:30:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      13,
+      30,
+      27,
+      5,
+      199,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/un-glissement-de-terrain-meurtrier-en-chine_8113076.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/6Qbf4IqvRo4ZkPiuof023CFrlPk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/18/6a5b7fd73dc4f986653494.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/un-glissement-de-terrain-meurtrier-en-chine_8113076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/un-glissement-de-terrain-meurtrier-en-chine_8113076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

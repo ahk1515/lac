@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T16:57:02.645187+00:00",
+  "_id": "24638d9bb6dc",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : soixante-neuf affrontements sur le front depuis le début de la journée, selon l’état-major ukrainien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : soixante-neuf affrontements sur le front depuis le début de la journée, selon l’état-major ukrainien"
+    },
+    "published": "Sat, 18 Jul 2026 18:06:43 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      16,
+      6,
+      43,
+      5,
+      199,
+      0
+    ],
+    "updated": "Sat, 18 Jul 2026 18:28:43 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      18,
+      16,
+      28,
+      43,
+      5,
+      199,
+      0
+    ],
+    "summary": "Volodymyr Zelensky a par ailleurs affirmé que l’Ukraine avait frappé deux importantes installations dans les régions de Moscou et de Tambov, utilisées selon lui pour acheminer des composants sous sanctions destinés à la fabrication de drones et d’équipements de navigation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Volodymyr Zelensky a par ailleurs affirmé que l’Ukraine avait frappé deux importantes installations dans les régions de Moscou et de Tambov, utilisées selon lui pour acheminer des composants sous sanctions destinés à la fabrication de drones et d’équipements de navigation."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/496/0/5949/2974/644/322/60/0/ff6f8be_ftp-1-sgusjcihnijd-2026-07-16t082759z-866495659-rc2eema6m3nd-rtrmadp-3-ukraine-crisis-east-frontline.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une voiture, visée par un drone russe, brûle dans une rue de Kramatorsk, une localité ukrainienne toute proche de la ligne de front, le 15 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "UKRAINIAN ARMED FORCES / via REUTERS"
+      }
+    ],
+    "credit": "UKRAINIAN ARMED FORCES / via REUTERS"
+  }
+}

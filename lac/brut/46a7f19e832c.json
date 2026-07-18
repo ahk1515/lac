@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-18T16:57:02.758730+00:00",
+  "_id": "46a7f19e832c",
+  "brut": {
+    "title": "Guerre un Ukraine : plus de 300 drones lancés vers Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre un Ukraine : plus de 300 drones lancés vers Moscou"
+    },
+    "summary": "Une attaque de drones ukrainienne a fait au moins 7 m0rts et 25 blessés à Kotovsk, petite ville de l'ouest de la Russie, samedi 18 juillet. Kiev a considérablement intensifié ses offensives ces dernières semaines, frappant des cibles en profondeur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque de drones ukrainienne a fait au moins 7 m0rts et 25 blessés à Kotovsk, petite ville de l'ouest de la Russie, samedi 18 juillet. Kiev a considérablement intensifié ses offensives ces dernières semaines, frappant des cibles en profondeur."
+    },
+    "published": "Sat, 18 Jul 2026 17:42:22 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      15,
+      42,
+      22,
+      5,
+      199,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-un-ukraine-plus-de-300-drones-lances-vers-moscou_8113187.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/c780C0ZSKCXUsTIZo5beZpN5XAY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/18/6a5b9ec12e3ed064052521.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-un-ukraine-plus-de-300-drones-lances-vers-moscou_8113187.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-un-ukraine-plus-de-300-drones-lances-vers-moscou_8113187.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
