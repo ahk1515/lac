@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-18T09:23:55.804963+00:00",
+  "_id": "a20c3052c9c4",
+  "brut": {
+    "title": "REPORTAGE. Après sept ans d'absence, BTS retrouve la scène française et fait exulter le Stade de France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. Après sept ans d'absence, BTS retrouve la scène française et fait exulter le Stade de France"
+    },
+    "summary": "Le groupe coréen a donné ce vendredi soir le premier de ses deux concerts d'affilée à guichets fermés au Stade de France. Fraîchement sortis de service militaire, les sept membres font étape à Paris dans le cadre de leur tournée mondiale autour de leur dernier album, \"Arirang\". Nous y étions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le groupe coréen a donné ce vendredi soir le premier de ses deux concerts d'affilée à guichets fermés au Stade de France. Fraîchement sortis de service militaire, les sept membres font étape à Paris dans le cadre de leur tournée mondiale autour de leur dernier album, \"Arirang\". Nous y étions."
+    },
+    "published": "Sat, 18 Jul 2026 10:40:31 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      8,
+      40,
+      31,
+      5,
+      199,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/musique/reportage-apres-sept-ans-d-absence-bts-retrouve-la-scene-francaise-et-fait-exulter-le-stade-de-france_8112737.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/pDHw9Gecq9YfMUK65bXCcAVoinU/0x0:3520x1980/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5b2ba64ec88442574405.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/musique/reportage-apres-sept-ans-d-absence-bts-retrouve-la-scene-francaise-et-fait-exulter-le-stade-de-france_8112737.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/musique/reportage-apres-sept-ans-d-absence-bts-retrouve-la-scene-francaise-et-fait-exulter-le-stade-de-france_8112737.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

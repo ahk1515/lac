@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T09:23:55.665832+00:00",
+  "_id": "30ad955b3da8",
+  "brut": {
+    "title": "La tapisserie de Bayeux, arrivée à Londres, désormais aux bons soins du British Museum",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tapisserie de Bayeux, arrivée à Londres, désormais aux bons soins du British Museum"
+    },
+    "published": "Sat, 18 Jul 2026 10:00:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      8,
+      0,
+      6,
+      5,
+      199,
+      0
+    ],
+    "updated": "Sat, 18 Jul 2026 10:42:47 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      18,
+      8,
+      42,
+      47,
+      5,
+      199,
+      0
+    ],
+    "summary": "La broderie millénaire de 70 mètres qui relate la conquête de l’Angleterre par Guillaume de Normandie a été extraite de sa caisse. Lundi 20 juillet, commencera un long travail d’observation de son état puis, d’ici quelques jours, elle sera déposée dans une vitrine faite sur mesure.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La broderie millénaire de 70 mètres qui relate la conquête de l’Angleterre par Guillaume de Normandie a été extraite de sa caisse. Lundi 20 juillet, commencera un long travail d’observation de son état puis, d’ici quelques jours, elle sera déposée dans une vitrine faite sur mesure."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/07/18/la-tapisserie-de-bayeux-arrivee-a-londres-desormais-aux-bons-soins-du-british-museum_6724568_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/07/18/la-tapisserie-de-bayeux-arrivee-a-londres-desormais-aux-bons-soins-du-british-museum_6724568_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/07/18/la-tapisserie-de-bayeux-arrivee-a-londres-desormais-aux-bons-soins-du-british-museum_6724568_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/408/0/6971/3485/644/322/60/0/207a6a9_ftp-1-fss92pahy6o2-5644140-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Catherine Pégard, la ministre de la culture française (troisième à gauche), lors de la présentation de la tapisserie de Bayeux, au British Museum, à Londres, le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TOBY SHEPHEARD/AFP"
+      }
+    ],
+    "credit": "TOBY SHEPHEARD/AFP"
+  }
+}

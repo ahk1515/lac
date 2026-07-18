@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T09:23:55.665278+00:00",
+  "_id": "d0da136d4bc0",
+  "brut": {
+    "title": "Donald Trump et ses inquiétantes obsessions électorales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump et ses inquiétantes obsessions électorales"
+    },
+    "published": "Sat, 18 Jul 2026 11:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      9,
+      0,
+      10,
+      5,
+      199,
+      0
+    ],
+    "summary": "En jetant la suspicion sur les élections, du fait de son incapacité à reconnaître le verdict du peuple lorsqu’il lui est défavorable, le président américain sape les fondements de la démocratie aux Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En jetant la suspicion sur les élections, du fait de son incapacité à reconnaître le verdict du peuple lorsqu’il lui est défavorable, le président américain sape les fondements de la démocratie aux Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/07/18/donald-trump-et-ses-inquietantes-obsessions-electorales_6724574_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/07/18/donald-trump-et-ses-inquietantes-obsessions-electorales_6724574_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/07/18/donald-trump-et-ses-inquietantes-obsessions-electorales_6724574_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/38/0/7839/3919/644/322/60/0/b937aa7_ftp-1-x1sw4uytmefv-2026-07-17t012638z-1047961860-rc2dfmaaw90q-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, à Washington, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAUL LOEB/REUTERS"
+      }
+    ],
+    "credit": "SAUL LOEB/REUTERS"
+  }
+}

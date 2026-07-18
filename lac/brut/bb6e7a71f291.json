@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-18T09:23:55.805328+00:00",
+  "_id": "bb6e7a71f291",
+  "brut": {
+    "title": "Royaume-Uni : Andy Burnham, futur Premier ministre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Royaume-Uni : Andy Burnham, futur Premier ministre"
+    },
+    "summary": "Andy Burnham sera le prochain Premier ministre du Royaume-Uni. Vendredi 17 juillet, il a été élu à la tête du Parti travailliste britannique, le Labour, lors d'un congrès extraordinaire à Londres. Quelle sera sa politique ? Il est considéré comme plus à gauche que son prédécesseur, Keir Starmer, qui a démissionné.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Andy Burnham sera le prochain Premier ministre du Royaume-Uni. Vendredi 17 juillet, il a été élu à la tête du Parti travailliste britannique, le Labour, lors d'un congrès extraordinaire à Londres. Quelle sera sa politique ? Il est considéré comme plus à gauche que son prédécesseur, Keir Starmer, qui a démissionné."
+    },
+    "published": "Sat, 18 Jul 2026 08:33:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      6,
+      33,
+      7,
+      5,
+      199,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/royaume-uni-andy-burnham-futur-premier-ministre_8112710.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qMaEZ1UorWjVtlHZks1kpNxdQXQ/155x0:1315x652/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5b1a8102a5e782169619.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/royaume-uni-andy-burnham-futur-premier-ministre_8112710.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/royaume-uni-andy-burnham-futur-premier-ministre_8112710.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

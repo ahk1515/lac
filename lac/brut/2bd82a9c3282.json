@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-18T09:23:55.805485+00:00",
+  "_id": "2bd82a9c3282",
+  "brut": {
+    "title": "Iran : l'armée américaine annonce de nouvelles frappes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Iran : l'armée américaine annonce de nouvelles frappes"
+    },
+    "summary": "Les États-Unis ont frappé l'Iran pour la septième nuit consécutive vendredi 17 juillet sur ordre de Donald Trump pour affaiblir davantage les capacités militaires iraniennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les États-Unis ont frappé l'Iran pour la septième nuit consécutive vendredi 17 juillet sur ordre de Donald Trump pour affaiblir davantage les capacités militaires iraniennes."
+    },
+    "published": "Sat, 18 Jul 2026 08:15:56 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      6,
+      15,
+      56,
+      5,
+      199,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/iran-l-armee-americaine-annonce-de-nouvelles-frappes_8112680.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HVl1I8K-79XTGUeFEIFcQRnWYUI/132x0:1327x672/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5b160e0708e982240460.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/iran-l-armee-americaine-annonce-de-nouvelles-frappes_8112680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/iran-l-armee-americaine-annonce-de-nouvelles-frappes_8112680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
