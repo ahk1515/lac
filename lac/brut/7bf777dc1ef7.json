@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T06:04:04.103375+00:00",
+  "_id": "7bf777dc1ef7",
+  "brut": {
+    "title": "Frontex continue sa mission en Grèce, malgré de graves violations des droits des migrants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Frontex continue sa mission en Grèce, malgré de graves violations des droits des migrants"
+    },
+    "published": "Sat, 18 Jul 2026 06:00:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      4,
+      0,
+      14,
+      5,
+      199,
+      0
+    ],
+    "summary": "Combien de temps Frontex tolérera-t-elle les violations croissantes des droits des migrants en Grèce ? Une enquête du « Monde » documente les multiples alertes adressées par le Bureau des droits fondamentaux de l’agence européenne, qui jusqu’ici n’ont pas déclenché de réaction significative.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Combien de temps Frontex tolérera-t-elle les violations croissantes des droits des migrants en Grèce ? Une enquête du « Monde » documente les multiples alertes adressées par le Bureau des droits fondamentaux de l’agence européenne, qui jusqu’ici n’ont pas déclenché de réaction significative."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/07/18/frontex-continue-sa-mission-en-grece-malgre-de-graves-violations-des-droits-des-migrants_6724350_4355770.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/18/frontex-continue-sa-mission-en-grece-malgre-de-graves-violations-des-droits-des-migrants_6724350_4355770.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/07/18/frontex-continue-sa-mission-en-grece-malgre-de-graves-violations-des-droits-des-migrants_6724350_4355770.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/295/0/3543/1771/644/322/60/0/de7c267_upload-1-bkn4sl0ezsba-2026-02-21t135719z-1741947265-rc2bqjabvhzw-rtrmadp-3-migration-europe-greece-shipwreck.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un transfert de migrants secourus en mer, depuis un navire de Frontex vers un plus petit bateau, au large de la Crète (Grèce), le 21 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stefanos Rapanis/REUTERS"
+      }
+    ],
+    "credit": "Stefanos Rapanis/REUTERS"
+  }
+}
