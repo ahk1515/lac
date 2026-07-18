@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T13:12:27.750115+00:00",
+  "_id": "bceb825d745a",
+  "brut": {
+    "title": "VIDEO Norvège : un incendie détruit plus d’une centaine de logements",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Norvège : un incendie détruit plus d’une centaine de logements"
+    },
+    "published": "Sat, 18 Jul 2026 13:54:29 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      11,
+      54,
+      29,
+      5,
+      199,
+      0
+    ],
+    "updated": "Sat, 18 Jul 2026 14:02:24 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      18,
+      12,
+      2,
+      24,
+      5,
+      199,
+      0
+    ],
+    "summary": "Dans le sud de la Norvège, une centaine d’habitants ont été évacués suite à l’un des plus grands feux qu’ait connus dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sud de la Norvège, une centaine d’habitants ont été évacués suite à l’un des plus grands feux qu’ait connus dans le pays."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/07/18/video-norvege-un-incendie-detruit-plus-d-une-centaine-de-logements_6724683_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/07/18/video-norvege-un-incendie-detruit-plus-d-une-centaine-de-logements_6724683_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/07/18/video-norvege-un-incendie-detruit-plus-d-une-centaine-de-logements_6724683_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/714/0/8414/4207/644/322/60/0/8cc230b_ftp-1-z5yt1kkaplz4-1808b6de1e344ee68a10ca028316530b-0-bd73a61dc91d4b1a8d4e6e3e3fbe606c.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Thomas Fure / Thomas Fure/NTB Scanpix via AP"
+      }
+    ],
+    "credit": "Thomas Fure / Thomas Fure/NTB Scanpix via AP"
+  }
+}

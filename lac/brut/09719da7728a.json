@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T13:12:27.749868+00:00",
+  "_id": "09719da7728a",
+  "brut": {
+    "title": "30 000 morts en cinq jours : en Inde, le coût humain exorbitant des canicules",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "30 000 morts en cinq jours : en Inde, le coût humain exorbitant des canicules"
+    },
+    "published": "Sat, 18 Jul 2026 14:00:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      12,
+      0,
+      4,
+      5,
+      199,
+      0
+    ],
+    "summary": "Le pays le plus peuplé au monde est aussi l’un des plus exposé aux chaleurs humides extrêmes. Une étude vient de calculer pour la première fois la surmortalité liée aux chaleurs extrêmes en Inde, de plus en plus fréquentes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pays le plus peuplé au monde est aussi l’un des plus exposé aux chaleurs humides extrêmes. Une étude vient de calculer pour la première fois la surmortalité liée aux chaleurs extrêmes en Inde, de plus en plus fréquentes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/18/30-000-morts-en-cinq-jours-en-inde-le-cout-humain-exorbitant-des-canicules_6724684_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/18/30-000-morts-en-cinq-jours-en-inde-le-cout-humain-exorbitant-des-canicules_6724684_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/18/30-000-morts-en-cinq-jours-en-inde-le-cout-humain-exorbitant-des-canicules_6724684_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/686/0/8231/4115/644/322/60/0/76cb0a3_ftp-1-t7oqiijwf583-cd56ecc9d3834ff3ba82c6b10fd1a90f-2-4b17a935d8fb45c4a07eddb9b1c459f6.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un docteur examine un enfant souffrant d’un malaise lié à la chaleur, dans un hôpital public à Banda, dans le nord de l’Inde, le 19 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Rajesh Kumar Singh/AP Photo"
+      }
+    ],
+    "credit": "Rajesh Kumar Singh/AP Photo"
+  }
+}
