@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T20:45:07.102755+00:00",
+  "_id": "2753458c1072",
+  "brut": {
+    "title": "Au Canada, les feux à répétition bouleversent la forêt boréale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Canada, les feux à répétition bouleversent la forêt boréale"
+    },
+    "published": "Sat, 18 Jul 2026 20:01:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      18,
+      1,
+      44,
+      5,
+      199,
+      0
+    ],
+    "summary": "Près d’un millier d’incendies sont actifs à l’échelle du Canada, dégageant des fumées jusqu’aux Etats-Unis. Même si les moyens d’intervention se renforcent, les spécialistes pensent que la forêt ne pourra plus être la même face à ces mégafeux qui se répètent chaque été.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près d’un millier d’incendies sont actifs à l’échelle du Canada, dégageant des fumées jusqu’aux Etats-Unis. Même si les moyens d’intervention se renforcent, les spécialistes pensent que la forêt ne pourra plus être la même face à ces mégafeux qui se répètent chaque été."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/18/au-canada-les-feux-a-repetition-bouleversent-la-foret-boreale_6724998_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/18/au-canada-les-feux-a-repetition-bouleversent-la-foret-boreale_6724998_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/18/au-canada-les-feux-a-repetition-bouleversent-la-foret-boreale_6724998_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/665/0/7964/3982/644/322/60/0/e9f5468_ftp-1-cwhefptofgvf-11afee8ea4084e77b50667432342c8b3-0-4b8e8941dbe745a9af21b66b8752a290.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre de l’Ontario, Doug Ford, durant une conférence de presse sur les incendies en cours dans son Etat. A Toronto (Canada), le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Cole Burston / Cole Burston/The Canadian Press via AP"
+      }
+    ],
+    "credit": "Cole Burston / Cole Burston/The Canadian Press via AP"
+  }
+}

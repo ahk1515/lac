@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T20:45:07.102963+00:00",
+  "_id": "a0ae76b9dabc",
+  "brut": {
+    "title": "Cisjordanie : un adolescent palestinien, jeune footballeur, est mort lors d’une attaque de colons israéliens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cisjordanie : un adolescent palestinien, jeune footballeur, est mort lors d’une attaque de colons israéliens"
+    },
+    "published": "Sat, 18 Jul 2026 19:49:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      18,
+      17,
+      49,
+      12,
+      5,
+      199,
+      0
+    ],
+    "summary": "Fadi Hamdallah Al-Nassan, 17 ans, qui jouait dans le club d’Al-Mughayyir, a succombé samedi matin à ses blessures, selon la Fédération palestinienne de football.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Fadi Hamdallah Al-Nassan, 17 ans, qui jouait dans le club d’Al-Mughayyir, a succombé samedi matin à ses blessures, selon la Fédération palestinienne de football."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/18/cisjordanie-un-adolescent-palestinien-jeune-footballeur-est-mort-lors-d-une-attaque-de-colons-israeliens_6724964_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/18/cisjordanie-un-adolescent-palestinien-jeune-footballeur-est-mort-lors-d-une-attaque-de-colons-israeliens_6724964_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/18/cisjordanie-un-adolescent-palestinien-jeune-footballeur-est-mort-lors-d-une-attaque-de-colons-israeliens_6724964_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/347/0/4163/2081/644/322/60/0/f3f96c3_ftp-1-ds472zqcga1o-5650518-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un proche pleure devant le corps de Fadi Hamdallah Al-Nassan, lors de ses funérailles dans le village d’Al-Mughayyir, à l’est de Ramallah, en Cisjordanie occupée, le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JAAFAR ASHTIYEH / AFP"
+      }
+    ],
+    "credit": "JAAFAR ASHTIYEH / AFP"
+  }
+}
