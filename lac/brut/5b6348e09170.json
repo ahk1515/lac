@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-18T02:24:07.431617+00:00",
+  "_id": "5b6348e09170",
+  "brut": {
+    "title": "Au Venezuela, le bilan du double séisme dépasse désormais les 5 000 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Venezuela, le bilan du double séisme dépasse désormais les 5 000 morts"
+    },
+    "summary": "Depuis les deux tremblements de terre du 24 juin, les autorités n'évoquent pas le nombre des disparus. L'ONU avait estimé qu'il pouvait atteindre jusqu'à 50 000 le surlendemain du drame.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis les deux tremblements de terre du 24 juin, les autorités n'évoquent pas le nombre des disparus. L'ONU avait estimé qu'il pouvait atteindre jusqu'à 50 000 le surlendemain du drame."
+    },
+    "published": "Fri, 17 Jul 2026 23:27:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      21,
+      27,
+      33,
+      4,
+      198,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-du-double-seisme-depasse-desormais-les-5-000-morts_8112368.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8h7uU8uYBVKHHT-up-BzXdp5aKA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a9b9f3479c315506167.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-du-double-seisme-depasse-desormais-les-5-000-morts_8112368.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-du-double-seisme-depasse-desormais-les-5-000-morts_8112368.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

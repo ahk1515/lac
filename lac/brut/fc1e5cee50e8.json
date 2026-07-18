@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-18T02:24:06.997792+00:00",
+  "_id": "fc1e5cee50e8",
+  "brut": {
+    "title": "La fumée des incendies au Canada se répand dans le nord-est des Etats-Unis, inquiétude avant la finale de la Coupe du monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La fumée des incendies au Canada se répand dans le nord-est des Etats-Unis, inquiétude avant la finale de la Coupe du monde"
+    },
+    "published": "Sat, 18 Jul 2026 00:52:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      17,
+      22,
+      52,
+      40,
+      4,
+      198,
+      0
+    ],
+    "updated": "Sat, 18 Jul 2026 03:53:13 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      18,
+      1,
+      53,
+      13,
+      5,
+      199,
+      0
+    ],
+    "summary": "Dans la région de New York, où doit se disputer dimanche la finale du Mondial entre l’Espagne et l’Argentine, la qualité de l’air s’est améliorée depuis jeudi, mais reste jugée dangereuse pour les personnes à risque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la région de New York, où doit se disputer dimanche la finale du Mondial entre l’Espagne et l’Argentine, la qualité de l’air s’est améliorée depuis jeudi, mais reste jugée dangereuse pour les personnes à risque."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/18/la-fumee-des-incendies-au-canada-se-repand-dans-le-nord-est-des-etats-unis-inquietudes-avant-la-finale-de-la-coupe-du-monde_6724242_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/18/la-fumee-des-incendies-au-canada-se-repand-dans-le-nord-est-des-etats-unis-inquietudes-avant-la-finale-de-la-coupe-du-monde_6724242_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/18/la-fumee-des-incendies-au-canada-se-repand-dans-le-nord-est-des-etats-unis-inquietudes-avant-la-finale-de-la-coupe-du-monde_6724242_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/667/0/8007/4003/644/322/60/0/8b3d8d1_ftp-1-5ypsewvgxzxy-5639240-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des enfants jouent dans un parc à New York (Etats-Unis), sous un ciel voilé par les fumées des incendies qui sévissent au Canada, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANGELA WEISS/AFP"
+      }
+    ],
+    "credit": "ANGELA WEISS/AFP"
+  }
+}
