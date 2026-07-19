@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T13:15:09.248053+00:00",
+  "_id": "71dba82f3082",
+  "brut": {
+    "title": "Au Mali, au moins 50 militaires tués dans une attaque d’indépendantistes et de djihadistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mali, au moins 50 militaires tués dans une attaque d’indépendantistes et de djihadistes"
+    },
+    "published": "Sun, 19 Jul 2026 14:52:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      12,
+      52,
+      30,
+      6,
+      200,
+      0
+    ],
+    "summary": "La coalition des indépendantistes touareg et des djihadistes a tendu une embuscade samedi contre un convoi de l’armée qui quittait la ville stratégique d’Anéfis, dans le nord du pays, pour se rendre dans la grande ville de Gao.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La coalition des indépendantistes touareg et des djihadistes a tendu une embuscade samedi contre un convoi de l’armée qui quittait la ville stratégique d’Anéfis, dans le nord du pays, pour se rendre dans la grande ville de Gao."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/19/au-mali-au-moins-50-militaires-tues-dans-une-attaque-d-independantistes-et-de-djihadistes_6725956_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/19/au-mali-au-moins-50-militaires-tues-dans-une-attaque-d-independantistes-et-de-djihadistes_6725956_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/19/au-mali-au-moins-50-militaires-tues-dans-une-attaque-d-independantistes-et-de-djihadistes_6725956_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/31/0/1000/500/644/322/60/0/772822d_ftp-1-dnxpxseg7bfn-1fe19611738342b09fbe289abaac2491-1-b509611473d84e98a0351e64be2c2765.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des combattants indépendantistes et djihadistes du Front de libération de l’Azawad (FLA), à Gao, dans le nord du Mali, le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Front de libération de l’Azawad via AP"
+      }
+    ],
+    "credit": "Front de libération de l’Azawad via AP"
+  }
+}

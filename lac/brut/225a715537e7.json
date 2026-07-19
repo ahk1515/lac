@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T13:15:09.511272+00:00",
+  "_id": "225a715537e7",
+  "brut": {
+    "title": "Guerre au Moyen-Orient : la réplique des États-Unis après la mort de deux de ses soldats",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre au Moyen-Orient : la réplique des États-Unis après la mort de deux de ses soldats"
+    },
+    "summary": "Les États-Unis ont frappé l’Iran pour la huitième nuit consécutive, samedi 18 juillet, une réponse de Washington après la mort de deux de ses militaires en Jordanie. Le protocole d'accord de paix, signé il y a tout juste un mois, à Versailles, a volé en éclats.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les États-Unis ont frappé l’Iran pour la huitième nuit consécutive, samedi 18 juillet, une réponse de Washington après la mort de deux de ses militaires en Jordanie. Le protocole d'accord de paix, signé il y a tout juste un mois, à Versailles, a volé en éclats."
+    },
+    "published": "Sun, 19 Jul 2026 14:11:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      12,
+      11,
+      1,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/moyen-orient/guerre-au-moyen-orient-la-replique-des-etats-unis-apres-la-mort-de-deux-de-ses-soldats_8113994.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/qLEXqm8zEPsU-iYZz1TWa8-GU-g/0x103:1682x1050/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cbebdaf3c7723867902.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/moyen-orient/guerre-au-moyen-orient-la-replique-des-etats-unis-apres-la-mort-de-deux-de-ses-soldats_8113994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/moyen-orient/guerre-au-moyen-orient-la-replique-des-etats-unis-apres-la-mort-de-deux-de-ses-soldats_8113994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

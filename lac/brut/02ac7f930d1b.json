@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T13:15:09.511574+00:00",
+  "_id": "02ac7f930d1b",
+  "brut": {
+    "title": "Au moins 50 militaires tués dans une attaque des indépendantistes et des jihadistes au Mali",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 50 militaires tués dans une attaque des indépendantistes et des jihadistes au Mali"
+    },
+    "summary": "Le Mali est en proie depuis 2012 à une profonde crise sécuritaire nourrie notamment par les violences de groupes affiliés aux organisations jihadistes Al-Qaïda et Etat islamique, ainsi que de groupes criminels communautaires et de mouvements touaregs indépendantistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Mali est en proie depuis 2012 à une profonde crise sécuritaire nourrie notamment par les violences de groupes affiliés aux organisations jihadistes Al-Qaïda et Etat islamique, ainsi que de groupes criminels communautaires et de mouvements touaregs indépendantistes."
+    },
+    "published": "Sun, 19 Jul 2026 13:17:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      11,
+      17,
+      12,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/au-moins-50-militaires-tues-dans-une-attaque-des-independantistes-et-des-jihadistes-au-mali_8113877.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/60drazGw_Llz-fh6Ek8ALor8ca8/0x345:4802x3047/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cb1de2cd19614697459.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/au-moins-50-militaires-tues-dans-une-attaque-des-independantistes-et-des-jihadistes-au-mali_8113877.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/au-moins-50-militaires-tues-dans-une-attaque-des-independantistes-et-des-jihadistes-au-mali_8113877.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

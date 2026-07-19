@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T13:15:09.247880+00:00",
+  "_id": "b5b8c1d933d0",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : un missile iranien visant la ville jordanienne d’Aqaba a été intercepté par les forces israéliennes et jordaniennes, selon l’armée israélienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : un missile iranien visant la ville jordanienne d’Aqaba a été intercepté par les forces israéliennes et jordaniennes, selon l’armée israélienne"
+    },
+    "published": "Sun, 19 Jul 2026 15:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      13,
+      0,
+      3,
+      6,
+      200,
+      0
+    ],
+    "updated": "Sun, 19 Jul 2026 15:02:00 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      19,
+      13,
+      2,
+      0,
+      6,
+      200,
+      0
+    ],
+    "summary": "L’armée israélienne affirme que Téhéran a lancé des missiles vers Aqaba, près de la ville israélienne d’Eilat, sur la mer Rouge. Peu avant cette annonce, les sirènes d’alerte avaient retenti dans la capitale jordanienne, selon l’AFP.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée israélienne affirme que Téhéran a lancé des missiles vers Aqaba, près de la ville israélienne d’Eilat, sur la mer Rouge. Peu avant cette annonce, les sirènes d’alerte avaient retenti dans la capitale jordanienne, selon l’AFP."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-iran-un-missile-iranien-visant-la-ville-jordanienne-d-aqaba-a-ete-intercepte-par-les-forces-israeliennes-et-jordaniennes-selon-l-armee-israelienne_6725301_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-iran-un-missile-iranien-visant-la-ville-jordanienne-d-aqaba-a-ete-intercepte-par-les-forces-israeliennes-et-jordaniennes-selon-l-armee-israelienne_6725301_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-iran-un-missile-iranien-visant-la-ville-jordanienne-d-aqaba-a-ete-intercepte-par-les-forces-israeliennes-et-jordaniennes-selon-l-armee-israelienne_6725301_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/416/0/5000/2500/644/322/60/0/de1b4aa_ftp-1-auxssqyot80b-2026-07-17t084426z-930419253-rc25cmagzloe-rtrmadp-3-iran-crisis-reactions.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une sculpture représentant un missile, sur une place de Téhéran, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Majid Asgaripour / via REUTERS"
+      }
+    ],
+    "credit": "Majid Asgaripour / via REUTERS"
+  }
+}

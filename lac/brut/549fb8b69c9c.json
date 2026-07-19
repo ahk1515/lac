@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T13:15:09.248188+00:00",
+  "_id": "549fb8b69c9c",
+  "brut": {
+    "title": "Incendies en Espagne : 13 000 hectares brûlés dans un incendie à 100 kilomètres au nord de Madrid",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendies en Espagne : 13 000 hectares brûlés dans un incendie à 100 kilomètres au nord de Madrid"
+    },
+    "published": "Sun, 19 Jul 2026 12:14:23 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      10,
+      14,
+      23,
+      6,
+      200,
+      0
+    ],
+    "updated": "Sun, 19 Jul 2026 12:29:56 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      19,
+      10,
+      29,
+      56,
+      6,
+      200,
+      0
+    ],
+    "summary": "Ce feu de forêt vient s’ajouter à celui, « loin d’être stabilisé », qui s’est déclaré mercredi près de Saragosse, dans le nord-est du pays, et qui a ravagé près de 16 000 hectares.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce feu de forêt vient s’ajouter à celui, « loin d’être stabilisé », qui s’est déclaré mercredi près de Saragosse, dans le nord-est du pays, et qui a ravagé près de 16 000 hectares."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/incendies-en-espagne-12-000-hectares-brules-dans-un-incendie-a-100-kilometres-au-nord-de-madrid_6725785_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/incendies-en-espagne-12-000-hectares-brules-dans-un-incendie-a-100-kilometres-au-nord-de-madrid_6725785_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/incendies-en-espagne-12-000-hectares-brules-dans-un-incendie-a-100-kilometres-au-nord-de-madrid_6725785_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/44/0/2182/1091/644/322/60/0/c4d07c9_ftp-1-k4jp3l6hrv09-5644292-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette capture d’écran, tirée d’une vidéo fournie le 17 juillet 2026 par l’unité militaire d’urgence (UME) espagnole, montre l’unité combattant un immense incendie de forêt durant la nuit dans une zone peu peuplée de la région d’Aragon."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HANDOUT / AFP"
+      }
+    ],
+    "credit": "HANDOUT / AFP"
+  }
+}

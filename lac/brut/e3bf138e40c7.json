@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T13:15:09.511157+00:00",
+  "_id": "e3bf138e40c7",
+  "brut": {
+    "title": "Qui est Andy Burnham, le futur nouveau Premier ministre britannique ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Qui est Andy Burnham, le futur nouveau Premier ministre britannique ?"
+    },
+    "summary": "A 56 ans, Andy Burnham s'apprête à devenir Premier ministre Britannique. Qui est celui que l'on surnomme le roi du Nord, dirigeant travailliste et ancien maire populaire de Manchester ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A 56 ans, Andy Burnham s'apprête à devenir Premier ministre Britannique. Qui est celui que l'on surnomme le roi du Nord, dirigeant travailliste et ancien maire populaire de Manchester ?"
+    },
+    "published": "Sun, 19 Jul 2026 14:20:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      12,
+      20,
+      30,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/qui-est-andy-burnham-le-futur-nouveau-premier-ministre-britannique_8113997.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/dmMm3qLimGHKsRHJNX11gjOxigE/0x67:1478x899/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cc0ea23369550635802.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/qui-est-andy-burnham-le-futur-nouveau-premier-ministre-britannique_8113997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/qui-est-andy-burnham-le-futur-nouveau-premier-ministre-britannique_8113997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
