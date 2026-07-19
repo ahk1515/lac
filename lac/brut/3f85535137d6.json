@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T02:36:15.343388+00:00",
+  "_id": "3f85535137d6",
+  "brut": {
+    "title": "En Hongrie, le président pro-Orban annonce qu’il signera la réforme constitutionnelle actant la fin de son mandat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Hongrie, le président pro-Orban annonce qu’il signera la réforme constitutionnelle actant la fin de son mandat"
+    },
+    "published": "Sun, 19 Jul 2026 02:08:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      0,
+      8,
+      16,
+      6,
+      200,
+      0
+    ],
+    "updated": "Sun, 19 Jul 2026 02:15:27 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      19,
+      0,
+      15,
+      27,
+      6,
+      200,
+      0
+    ],
+    "summary": "Selon l’amendement constitutionnel voté par les députés, Tamas Sulyok quittera ses fonctions dès dimanche, à minuit. La présidente du Parlement assurera l’intérim jusqu’à la désignation d’un nouveau chef de l’Etat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon l’amendement constitutionnel voté par les députés, Tamas Sulyok quittera ses fonctions dès dimanche, à minuit. La présidente du Parlement assurera l’intérim jusqu’à la désignation d’un nouveau chef de l’Etat."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/en-hongrie-le-president-pro-orban-annonce-qu-il-signera-la-reforme-constitutionnelle-actant-la-fin-de-son-mandat_6725231_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/en-hongrie-le-president-pro-orban-annonce-qu-il-signera-la-reforme-constitutionnelle-actant-la-fin-de-son-mandat_6725231_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/en-hongrie-le-president-pro-orban-annonce-qu-il-signera-la-reforme-constitutionnelle-actant-la-fin-de-son-mandat_6725231_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/333/0/3861/1930/644/322/60/0/8b9275e_upload-1-430gtp2nnmp2-2026-05-09t094910z-579804723-rc2k5lak0514-rtrmadp-3-hungary-politics-inauguration.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président hongrois, Tamas Sulyok, au Parlement à Budapest, le 9 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bernadett Szabo/REUTERS"
+      }
+    ],
+    "credit": "Bernadett Szabo/REUTERS"
+  }
+}

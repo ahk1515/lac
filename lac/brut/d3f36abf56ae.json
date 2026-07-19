@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T02:36:15.343127+00:00",
+  "_id": "d3f36abf56ae",
+  "brut": {
+    "title": "A Gaza, des frappes israéliennes tuent onze personnes dont trois enfants, annonce la défense civile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, des frappes israéliennes tuent onze personnes dont trois enfants, annonce la défense civile"
+    },
+    "published": "Sun, 19 Jul 2026 04:08:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      2,
+      8,
+      16,
+      6,
+      200,
+      0
+    ],
+    "summary": "Les cinq membres d’une même famille ont été tués dans ces frappes, samedi, selon le service de secours, qui opère sous l’autorité du Hamas, un bilan confirmé par l’hôpital qui a reçu les corps.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les cinq membres d’une même famille ont été tués dans ces frappes, samedi, selon le service de secours, qui opère sous l’autorité du Hamas, un bilan confirmé par l’hôpital qui a reçu les corps."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/1000/0/6000/3000/644/322/60/0/3feee57_ftp-1-7pz63pihi71w-af887162c2b141e89ce624dec3916f9a-0-d6d6e720bb12427181fa3cd089ba4c18.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes en deuil transportent les corps des membres d’une famille tués dans des frappes israéliennes, dans la ville de Gaza, le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jehad Alshrafi/AP"
+      }
+    ],
+    "credit": "Jehad Alshrafi/AP"
+  }
+}
