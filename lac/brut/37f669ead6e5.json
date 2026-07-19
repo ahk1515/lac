@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T16:57:05.613733+00:00",
+  "_id": "37f669ead6e5",
+  "brut": {
+    "title": "En Cisjordanie, une mosquée et plusieurs bâtiments incendiés lors d’une attaque de colons",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie, une mosquée et plusieurs bâtiments incendiés lors d’une attaque de colons"
+    },
+    "published": "Sun, 19 Jul 2026 15:27:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      13,
+      27,
+      41,
+      6,
+      200,
+      0
+    ],
+    "summary": "L’attaque nocturne contre la mosquée Al-Taqwa s’inscrit dans une série d’agressions quasi quotidiennes visant des villages palestiniens depuis le début du conflit à Gaza.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’attaque nocturne contre la mosquée Al-Taqwa s’inscrit dans une série d’agressions quasi quotidiennes visant des villages palestiniens depuis le début du conflit à Gaza."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/en-cisjordanie-une-mosquee-et-plusieurs-batiments-incendies-lors-d-une-attaque-de-colons_6725959_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/en-cisjordanie-une-mosquee-et-plusieurs-batiments-incendies-lors-d-une-attaque-de-colons_6725959_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/en-cisjordanie-une-mosquee-et-plusieurs-batiments-incendies-lors-d-une-attaque-de-colons_6725959_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/19/322/0/3862/1931/644/322/60/0/d13d087_ftp-1-0m8htqildx8s-5656325-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Deux Palestiniens sortent un tapis de prière calciné, à l’entrée incendiée de la mosquée Al-Taqwa, en Cisjordanie occupée, le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HAZEM BADER / AFP"
+      }
+    ],
+    "credit": "HAZEM BADER / AFP"
+  }
+}

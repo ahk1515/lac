@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T16:57:05.982498+00:00",
+  "_id": "48038f4f2844",
+  "brut": {
+    "title": "Le chef Jules Niang, ambassadeur de la Mauritanie et du Sénégal",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le chef Jules Niang, ambassadeur de la Mauritanie et du Sénégal"
+    },
+    "summary": "Dans sa cuisine, le chef marie produits africains et français. Il entend aussi avoir un impact au Sénégal et en Mauritanie, dont il est originaire. Il a ainsi lancé des fermes pour assurer la subsistance des populations locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans sa cuisine, le chef marie produits africains et français. Il entend aussi avoir un impact au Sénégal et en Mauritanie, dont il est originaire. Il a ainsi lancé des fermes pour assurer la subsistance des populations locales."
+    },
+    "published": "Sun, 19 Jul 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      15,
+      0,
+      2,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/le-chef-jules-niang-ambassadeur-de-la-mauritanie-et-du-senegal_8092292.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MZfIDfe4SM04V56JI_CxQNmnVYI/0x0:1600x900/432x243/filters:format(jpg):quality(50)/2026/07/03/6a4781fe5d605082679908.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/le-chef-jules-niang-ambassadeur-de-la-mauritanie-et-du-senegal_8092292.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/le-chef-jules-niang-ambassadeur-de-la-mauritanie-et-du-senegal_8092292.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

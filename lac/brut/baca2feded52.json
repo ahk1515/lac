@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T16:57:05.613362+00:00",
+  "_id": "baca2feded52",
+  "brut": {
+    "title": "Mali : dans Kidal, avec la rébellion du Front de libération de l’Azawad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mali : dans Kidal, avec la rébellion du Front de libération de l’Azawad"
+    },
+    "published": "Sun, 19 Jul 2026 15:47:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      13,
+      47,
+      27,
+      6,
+      200,
+      0
+    ],
+    "summary": "Le photographe algérien Samir Maouche s’est rendu dans la région de Kidal, contrôlée par les indépendantistes du Front de libération de l’Azawad (FLA) dans les semaines qui ont suivi leur offensive du 25 avril dans le nord et le centre du Mali.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le photographe algérien Samir Maouche s’est rendu dans la région de Kidal, contrôlée par les indépendantistes du Front de libération de l’Azawad (FLA) dans les semaines qui ont suivi leur offensive du 25 avril dans le nord et le centre du Mali."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/mali-dans-kidal-avec-la-rebellion-du-front-de-liberation-de-l-azawad_6725961_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/mali-dans-kidal-avec-la-rebellion-du-front-de-liberation-de-l-azawad_6725961_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/mali-dans-kidal-avec-la-rebellion-du-front-de-liberation-de-l-azawad_6725961_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/06/456/0/5473/2736/644/322/60/0/fe5302f_upload-1-8rgnpom9hwj3-smaouche-27.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Saïd Ag Madi, 21 ans, combattant du Front de libération de l’Azawad (FLA), dans une salle de classe à Kidal (Mali), le 17 mai 2026. En 2022, suite à la mort de son cousin lors d'une embuscade près de Kidal, il a décidé de rejoindre la lutte armée du FLA."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Samir Maouche"
+      }
+    ],
+    "credit": "Samir Maouche"
+  }
+}

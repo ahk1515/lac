@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T16:57:05.982692+00:00",
+  "_id": "5cef69d721a3",
+  "brut": {
+    "title": "Des incidents mineurs de contamination radioactive dans la seule centrale nucléaire d'Afrique du Sud",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des incidents mineurs de contamination radioactive dans la seule centrale nucléaire d'Afrique du Sud"
+    },
+    "summary": "L'incident a été détecté lors de travaux de maintenance programmés. Les autorités assurent qu'il est sans danger pour la population.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incident a été détecté lors de travaux de maintenance programmés. Les autorités assurent qu'il est sans danger pour la population."
+    },
+    "published": "Sun, 19 Jul 2026 16:42:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      14,
+      42,
+      2,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/afrique-du-sud/des-incidents-mineurs-de-contamination-radioactive-dans-une-centrale-nucleaire-d-afrique-du-sud-aucun-risque-pour-le-public-selon-les-autorites_8114108.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KGZYu4Hzm0xz_TbyQTBPmwJrdkQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5ce17b524e2630213717.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/afrique-du-sud/des-incidents-mineurs-de-contamination-radioactive-dans-une-centrale-nucleaire-d-afrique-du-sud-aucun-risque-pour-le-public-selon-les-autorites_8114108.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/afrique-du-sud/des-incidents-mineurs-de-contamination-radioactive-dans-une-centrale-nucleaire-d-afrique-du-sud-aucun-risque-pour-le-public-selon-les-autorites_8114108.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

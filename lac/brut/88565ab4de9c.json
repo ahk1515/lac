@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T16:57:05.612808+00:00",
+  "_id": "88565ab4de9c",
+  "brut": {
+    "title": "Un concert de la DJ Barbara Butch interrompu par des militants propalestiniens à Grenoble",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un concert de la DJ Barbara Butch interrompu par des militants propalestiniens à Grenoble"
+    },
+    "published": "Sun, 19 Jul 2026 18:01:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      16,
+      1,
+      15,
+      6,
+      200,
+      0
+    ],
+    "summary": "La mairie de Grenoble dénonce « une agression intolérable » contre Barbara Butch, tandis que LFI évoque une « manifestation pacifique » et conteste tout appel à la violence.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mairie de Grenoble dénonce « une agression intolérable » contre Barbara Butch, tandis que LFI évoque une « manifestation pacifique » et conteste tout appel à la violence."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/07/19/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-a-grenoble_6726132_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/07/19/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-a-grenoble_6726132_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/07/19/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-a-grenoble_6726132_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/19/625/0/7488/3744/644/322/60/0/d25906d_upload-1-62ifivjf8tqc-000-a29d9mw.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Barbara Butch à Paris, en mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOEL SAGET / AFP"
+      }
+    ],
+    "credit": "JOEL SAGET / AFP"
+  }
+}

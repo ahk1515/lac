@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T16:57:05.982262+00:00",
+  "_id": "a2d4fa35b391",
+  "brut": {
+    "title": "En Italie, le corps calciné d'un journaliste retrouvé près de Naples, la piste d'un homicide privilégiée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, le corps calciné d'un journaliste retrouvé près de Naples, la piste d'un homicide privilégiée"
+    },
+    "summary": "La dépouille, identifiée comme celle de Luigi Esposito, a été retrouvée par les pompiers appelés pour un incendie à Eboli, au sud de Naples. Selon les premiers éléments communiqués par le parquet, il aurait été \"tué par balle\", puis \"brûlé au milieu de la végétation\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La dépouille, identifiée comme celle de Luigi Esposito, a été retrouvée par les pompiers appelés pour un incendie à Eboli, au sud de Naples. Selon les premiers éléments communiqués par le parquet, il aurait été \"tué par balle\", puis \"brûlé au milieu de la végétation\"."
+    },
+    "published": "Sun, 19 Jul 2026 18:37:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      16,
+      37,
+      52,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/en-italie-le-corps-calcine-d-un-journaliste-retrouve-pres-de-naples-la-piste-d-un-homicide-privilegiee_8114168.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kS1AEIcOGmwCzQGiGXf2I19Icrg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5cfd2bc5997601769321.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/en-italie-le-corps-calcine-d-un-journaliste-retrouve-pres-de-naples-la-piste-d-un-homicide-privilegiee_8114168.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/en-italie-le-corps-calcine-d-un-journaliste-retrouve-pres-de-naples-la-piste-d-un-homicide-privilegiee_8114168.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

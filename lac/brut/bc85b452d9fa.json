@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T16:57:05.613181+00:00",
+  "_id": "bc85b452d9fa",
+  "brut": {
+    "title": "En Russie, le discours antiguerre ne passe toujours pas à deux mois des élections législatives",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Russie, le discours antiguerre ne passe toujours pas à deux mois des élections législatives"
+    },
+    "published": "Sun, 19 Jul 2026 17:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      15,
+      0,
+      5,
+      6,
+      200,
+      0
+    ],
+    "updated": "Sun, 19 Jul 2026 18:17:55 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      19,
+      16,
+      17,
+      55,
+      6,
+      200,
+      0
+    ],
+    "summary": "Le Kremlin s’acharne à museler les rares candidats à la députation opposés à la guerre en Ukraine, alors que la population et quelques industriels se prennent à imaginer la paix.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Kremlin s’acharne à museler les rares candidats à la députation opposés à la guerre en Ukraine, alors que la population et quelques industriels se prennent à imaginer la paix."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/en-russie-le-discours-antiguerre-ne-passe-toujours-pas_6725998_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/en-russie-le-discours-antiguerre-ne-passe-toujours-pas_6725998_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/en-russie-le-discours-antiguerre-ne-passe-toujours-pas_6725998_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/602/0/5450/2725/644/322/60/0/c02050c_ftp-1-hxoaigkwdeyb-5643135-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le candidat libéral Boris Nadejdine, lors de son audience au tribunal de Dolgoproudni (Russie), le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALEXANDER NEMENOV/AFP"
+      }
+    ],
+    "credit": "ALEXANDER NEMENOV/AFP"
+  }
+}
