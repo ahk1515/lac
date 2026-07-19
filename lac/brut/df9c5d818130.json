@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T06:29:26.424666+00:00",
+  "_id": "df9c5d818130",
+  "brut": {
+    "title": "« Nétanyahou considère toujours comme des héros les poseurs de bombes de l’hôtel King David, en 1946 à Jérusalem »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Nétanyahou considère toujours comme des héros les poseurs de bombes de l’hôtel King David, en 1946 à Jérusalem »"
+    },
+    "published": "Sun, 19 Jul 2026 07:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      5,
+      0,
+      10,
+      6,
+      200,
+      0
+    ],
+    "summary": "Le premier ministre israélien n’a jamais cessé de justifier l’attentat qui a tué le plus grand nombre de civils dans la Palestine sous mandat britannique, explique l’historien Jean-Pierre Filiu dans sa chronique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le premier ministre israélien n’a jamais cessé de justifier l’attentat qui a tué le plus grand nombre de civils dans la Palestine sous mandat britannique, explique l’historien Jean-Pierre Filiu dans sa chronique."
+    },
+    "id": "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/19/netanyahou-considere-toujours-comme-des-heros-les-poseurs-de-bombes-de-l-hotel-king-david-en-1946-a-jerusalem_6725413_6116995.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/19/netanyahou-considere-toujours-comme-des-heros-les-poseurs-de-bombes-de-l-hotel-king-david-en-1946-a-jerusalem_6725413_6116995.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/19/netanyahou-considere-toujours-comme-des-heros-les-poseurs-de-bombes-de-l-hotel-king-david-en-1946-a-jerusalem_6725413_6116995.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/110/0/5282/2641/644/322/60/0/a468206_ftp-1-3djuh7gven4z-5638282-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre israélien, Benyamin Nétanyahou, à la Knesset, le Parlement israélien, à Jérusalem, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ILIA YEFIMOVICH / AFP"
+      }
+    ],
+    "credit": "ILIA YEFIMOVICH / AFP"
+  }
+}

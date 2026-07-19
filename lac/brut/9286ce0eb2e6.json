@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T06:29:26.425627+00:00",
+  "_id": "9286ce0eb2e6",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins un mort dans des frappes visant Kiev, au lendemain d’attaques ukrainiennes meurtrières en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins un mort dans des frappes visant Kiev, au lendemain d’attaques ukrainiennes meurtrières en Russie"
+    },
+    "published": "Sun, 19 Jul 2026 05:42:29 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      3,
+      42,
+      29,
+      6,
+      200,
+      0
+    ],
+    "updated": "Sun, 19 Jul 2026 08:01:59 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      19,
+      6,
+      1,
+      59,
+      6,
+      200,
+      0
+    ],
+    "summary": "Depuis juin, la capitale ukrainienne est régulièrement visée par des frappes russes menées à l’aide de missiles balistiques, rapides et plus difficiles à intercepter que les drones ou les missiles de croisière.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis juin, la capitale ukrainienne est régulièrement visée par des frappes russes menées à l’aide de missiles balistiques, rapides et plus difficiles à intercepter que les drones ou les missiles de croisière."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-au-moins-un-mort-dans-des-frappes-visant-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-en-russie_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-au-moins-un-mort-dans-des-frappes-visant-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-en-russie_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-au-moins-un-mort-dans-des-frappes-visant-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-en-russie_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/19/442/0/6000/3000/644/322/60/0/d53eb68_ftp-1-nx6kcg04d2bg-2026-07-19t024946z-299543413-rc2ngmaei3s2-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une explosion lors de frappes russes sur Kiev, le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gleb Garanich/REUTERS"
+      }
+    ],
+    "credit": "Gleb Garanich/REUTERS"
+  }
+}

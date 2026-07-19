@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T06:29:26.528946+00:00",
+  "_id": "e0f88153c641",
+  "brut": {
+    "title": "La Russie bombarde Kiev au lendemain d'attaques ukrainiennes meurtrières",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie bombarde Kiev au lendemain d'attaques ukrainiennes meurtrières"
+    },
+    "summary": "Une personne a été tuée et 13 blessées lors de l'attaque, ont déclaré les services de secours ukrainiens, selon qui les bombardements ont visé cinq districts de la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une personne a été tuée et 13 blessées lors de l'attaque, ont déclaré les services de secours ukrainiens, selon qui les bombardements ont visé cinq districts de la capitale."
+    },
+    "published": "Sun, 19 Jul 2026 08:22:31 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      6,
+      22,
+      31,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-1-mort-et-13-blesses-recenses_8113676.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/tUcIrIwoujYE3bpoCJlbDP0A7GU/0x281:3000x1969/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c62fa50886837594818.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-1-mort-et-13-blesses-recenses_8113676.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-1-mort-et-13-blesses-recenses_8113676.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
