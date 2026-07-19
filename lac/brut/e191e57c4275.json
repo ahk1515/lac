@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T09:50:48.119002+00:00",
+  "_id": "e191e57c4275",
+  "brut": {
+    "title": "Nabil Attar, un chef syrien réfugié à Orléans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Nabil Attar, un chef syrien réfugié à Orléans"
+    },
+    "summary": "🇸🇾👨🏽‍🍳🇫🇷 En cuisine, Nabil Attar fait revivre ses souvenirs de Syrie. Fin 2015, ce haut cadre en informatique fuit Damas, craignant pour la sécurité de ses enfants. Au péril de sa vie il parvient à rejoindre la France et s'installe avec sa famille à Orléans, ville où il a désormais ouvert son restaurant, le Narenj.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇸🇾👨🏽‍🍳🇫🇷 En cuisine, Nabil Attar fait revivre ses souvenirs de Syrie. Fin 2015, ce haut cadre en informatique fuit Damas, craignant pour la sécurité de ses enfants. Au péril de sa vie il parvient à rejoindre la France et s'installe avec sa famille à Orléans, ville où il a désormais ouvert son restaurant, le Narenj."
+    },
+    "published": "Sun, 19 Jul 2026 10:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      8,
+      0,
+      5,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/nabil-attar-un-chef-syrien-refugie-a-orleans_8111948.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/z6i615--n7QIWLGwl4MtrH6-J4M/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/17/6a5a45c1b52aa568960361.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/nabil-attar-un-chef-syrien-refugie-a-orleans_8111948.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/nabil-attar-un-chef-syrien-refugie-a-orleans_8111948.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

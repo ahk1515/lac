@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T09:50:48.119936+00:00",
+  "_id": "8fcd4f3b1f2d",
+  "brut": {
+    "title": "Espagne : aucun répit pour les pompiers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Espagne : aucun répit pour les pompiers"
+    },
+    "summary": "L'incendie qui s'est déclaré mercredi 15 juillet 2026 dans la province de Saragosse, dans le nord-est de l'Espagne, est devenu le pire de la saison dans le pays. Il a désormais ravagé 15 000 hectares dans un rayon de 60 kilomètres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incendie qui s'est déclaré mercredi 15 juillet 2026 dans la province de Saragosse, dans le nord-est de l'Espagne, est devenu le pire de la saison dans le pays. Il a désormais ravagé 15 000 hectares dans un rayon de 60 kilomètres."
+    },
+    "published": "Sun, 19 Jul 2026 08:34:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      6,
+      34,
+      19,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/espagne-aucun-repit-pour-les-pompiers_8113709.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JngCG0PZQhoI7w-R_QhPEasrIn8/182x0:1315x637/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c689e54f8a787366679.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/espagne-aucun-repit-pour-les-pompiers_8113709.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/espagne-aucun-repit-pour-les-pompiers_8113709.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

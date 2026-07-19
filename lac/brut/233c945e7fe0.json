@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T09:50:47.960681+00:00",
+  "_id": "233c945e7fe0",
+  "brut": {
+    "title": "Incendie dans un bar à Bangkok : le bilan porté à 34 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie dans un bar à Bangkok : le bilan porté à 34 morts"
+    },
+    "published": "Sun, 19 Jul 2026 10:30:28 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      8,
+      30,
+      28,
+      6,
+      200,
+      0
+    ],
+    "updated": "Sun, 19 Jul 2026 11:26:44 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      19,
+      9,
+      26,
+      44,
+      6,
+      200,
+      0
+    ],
+    "summary": "Les autorités ont annoncé le lancement d’une vaste campagne d’inspections de sécurité. Les autopsies ont révélé que la majorité des victimes avaient succombé à l’inhalation de fumées toxiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités ont annoncé le lancement d’une vaste campagne d’inspections de sécurité. Les autopsies ont révélé que la majorité des victimes avaient succombé à l’inhalation de fumées toxiques."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/incendie-dans-un-bar-a-bangkok-le-bilan-porte-a-34-morts_6725617_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/incendie-dans-un-bar-a-bangkok-le-bilan-porte-a-34-morts_6725617_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/incendie-dans-un-bar-a-bangkok-le-bilan-porte-a-34-morts_6725617_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/13/651/0/7808/3904/644/322/60/0/916f5c9_ftp-1-ikevoblfoszx-5608589-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au lendemain de l’incendie, des policiers et secouristes inspectent le Rong Beer Na Lat Phrao à Bangkok, le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LILLIAN SUWANRUMPHA / AFP"
+      }
+    ],
+    "credit": "LILLIAN SUWANRUMPHA / AFP"
+  }
+}

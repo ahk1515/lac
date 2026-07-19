@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T09:50:48.118678+00:00",
+  "_id": "6d0a940e92b2",
+  "brut": {
+    "title": "Un ferry a fait naufrage avec 116 personnes à bord au large des côtes du Guyana",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un ferry a fait naufrage avec 116 personnes à bord au large des côtes du Guyana"
+    },
+    "summary": "\"Les opérations d'urgence ont été déclenchées en mobilisant des moyens publics et privés. Cette opération est actuellement en cours. À ce stade, nous avons déjà récupéré huit personnes vivantes\", a affirmé le ministre dans une vidéo publiée sur Facebook.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Les opérations d'urgence ont été déclenchées en mobilisant des moyens publics et privés. Cette opération est actuellement en cours. À ce stade, nous avons déjà récupéré huit personnes vivantes\", a affirmé le ministre dans une vidéo publiée sur Facebook."
+    },
+    "published": "Sun, 19 Jul 2026 11:28:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      9,
+      28,
+      40,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/un-ferry-a-fait-naufrage-avec-116-personnes-a-bord-au-large-des-cotes-du-guyana_8113817.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/zjqcCUyXVlRpS9pSBM3_kAZqHrk/0x64:689x452/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c96b3ace17958928794.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/un-ferry-a-fait-naufrage-avec-116-personnes-a-bord-au-large-des-cotes-du-guyana_8113817.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/un-ferry-a-fait-naufrage-avec-116-personnes-a-bord-au-large-des-cotes-du-guyana_8113817.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T09:50:48.119638+00:00",
+  "_id": "8d7cbdfca7a9",
+  "brut": {
+    "title": "Ukraine : Zelensky contesté après un remaniement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ukraine : Zelensky contesté après un remaniement"
+    },
+    "summary": "Les manifestations se poursuivent en Ukraine après la décision du gouvernement de limoger Mykhaïlo Fedorov, ministre de la Défense. La stratégie contre la Russie est-elle en cause ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les manifestations se poursuivent en Ukraine après la décision du gouvernement de limoger Mykhaïlo Fedorov, ministre de la Défense. La stratégie contre la Russie est-elle en cause ?"
+    },
+    "published": "Sun, 19 Jul 2026 08:55:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      6,
+      55,
+      21,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ukraine-zelensky-conteste-apres-un-remaniement_8113730.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2rGHm-o4XrBZH9QIRg0aQH0LkaI/214x0:1283x601/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c744d8bf80290871312.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ukraine-zelensky-conteste-apres-un-remaniement_8113730.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ukraine-zelensky-conteste-apres-un-remaniement_8113730.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

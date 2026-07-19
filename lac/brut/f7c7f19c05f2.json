@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T09:50:48.118414+00:00",
+  "_id": "f7c7f19c05f2",
+  "brut": {
+    "title": "En Espagne, plus de 12 000 hectares réduits en cendres dans un incendie localisé à 100 kilomètres au nord de Madrid",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, plus de 12 000 hectares réduits en cendres dans un incendie localisé à 100 kilomètres au nord de Madrid"
+    },
+    "summary": "Le feu de forêt, qui ravage la région de Guadalajara et notamment le parc naturel de la Sierra Norte, n'a pour l'instant pas fait de victime, mais reste qualifié de \"difficile\" par le président de la région de Castille-La-Manche et les autorités locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le feu de forêt, qui ravage la région de Guadalajara et notamment le parc naturel de la Sierra Norte, n'a pour l'instant pas fait de victime, mais reste qualifié de \"difficile\" par le président de la région de Castille-La-Manche et les autorités locales."
+    },
+    "published": "Sun, 19 Jul 2026 11:45:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      9,
+      45,
+      3,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/en-espagne-plus-de-12-000-hectares-reduits-en-cendres-dans-un-incendie-localise-a-100-kilometres-au-nord-de-madrid_8113856.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Kgyjbm3owK1ODAcSEW1GOH0mo_k/0x625:6000x4000/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c9c2e53617737116844.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/en-espagne-plus-de-12-000-hectares-reduits-en-cendres-dans-un-incendie-localise-a-100-kilometres-au-nord-de-madrid_8113856.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/en-espagne-plus-de-12-000-hectares-reduits-en-cendres-dans-un-incendie-localise-a-100-kilometres-au-nord-de-madrid_8113856.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

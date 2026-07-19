@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-19T09:50:48.119463+00:00",
+  "_id": "e13d0926b547",
+  "brut": {
+    "title": "Des frappes israéliennes à Gaza tuent 11 personnes dont trois enfants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des frappes israéliennes à Gaza tuent 11 personnes dont trois enfants"
+    },
+    "summary": "Au moins 1 144 Palestiniens ont été tués dans l'enclave depuis son entrée en vigueur en octobre 2025, selon le ministère de la Santé du territoire, dont les chiffres sont jugés fiables par l'ONU.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 1 144 Palestiniens ont été tués dans l'enclave depuis son entrée en vigueur en octobre 2025, selon le ministère de la Santé du territoire, dont les chiffres sont jugés fiables par l'ONU."
+    },
+    "published": "Sun, 19 Jul 2026 09:11:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      7,
+      11,
+      26,
+      6,
+      200,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-tuent-11-personnes-dont-trois-enfants_8113700.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DCZMwzbRQvlnInvJrOqOnHk16ns/0x700:6720x4480/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5c73fcd3d50343329338.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-tuent-11-personnes-dont-trois-enfants_8113700.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-tuent-11-personnes-dont-trois-enfants_8113700.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
