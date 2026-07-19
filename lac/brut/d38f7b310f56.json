@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T20:45:22.712595+00:00",
+  "_id": "d38f7b310f56",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : un militaire américain tué dans le nord de l’Irak, annonce l’armée américaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : un militaire américain tué dans le nord de l’Irak, annonce l’armée américaine"
+    },
+    "published": "Sun, 19 Jul 2026 21:52:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      19,
+      52,
+      27,
+      6,
+      200,
+      0
+    ],
+    "summary": "Cet évènement survient quelques jours après la mort, vendredi 17 juillet, de deux soldats américains et la disparition d’un troisième à la suite d’une attaque iranienne en Jordanie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cet évènement survient quelques jours après la mort, vendredi 17 juillet, de deux soldats américains et la disparition d’un troisième à la suite d’une attaque iranienne en Jordanie."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-au-moyen-orient-un-militaire-americain-tue-dans-le-nord-de-l-irak-annonce-l-armee-americaine_6725301_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-au-moyen-orient-un-militaire-americain-tue-dans-le-nord-de-l-irak-annonce-l-armee-americaine_6725301_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-au-moyen-orient-un-militaire-americain-tue-dans-le-nord-de-l-irak-annonce-l-armee-americaine_6725301_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/456/0/5472/2736/644/322/60/0/99464a0_ftp-1-9pk5cj8gnr0u-2026-07-18t152526z-761817720-rc27gmauoin8-rtrmadp-3-iran-crisis.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une femme passe devant un panneau d’affichage représentant le président américain Donald Trump allongé dans un cercueil, à Téhéran, en Iran, le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Majid Asgaripour / via REUTERS"
+      }
+    ],
+    "credit": "Majid Asgaripour / via REUTERS"
+  }
+}

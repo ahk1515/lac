@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-19T20:45:22.712828+00:00",
+  "_id": "ab5c2ddb3c71",
+  "brut": {
+    "title": "Au Pérou, six morts et 32 blessés dans un séisme de magnitude 5,1",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Pérou, six morts et 32 blessés dans un séisme de magnitude 5,1"
+    },
+    "published": "Sun, 19 Jul 2026 19:57:48 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      19,
+      17,
+      57,
+      48,
+      6,
+      200,
+      0
+    ],
+    "updated": "Sun, 19 Jul 2026 20:29:14 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      19,
+      18,
+      29,
+      14,
+      6,
+      200,
+      0
+    ],
+    "summary": "La faible profondeur du séisme, ajoutée à la présence de logements construits avec des matériaux traditionnels comme les briques d’argile crue et le bois, a contribué à provoquer de graves dégâts dans plusieurs localités, selon l’Institut national de protection civile.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La faible profondeur du séisme, ajoutée à la présence de logements construits avec des matériaux traditionnels comme les briques d’argile crue et le bois, a contribué à provoquer de graves dégâts dans plusieurs localités, selon l’Institut national de protection civile."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/19/perou-cinq-morts-et-21-blesses-dans-un-seisme-de-magnitude-5-1_6726299_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/perou-cinq-morts-et-21-blesses-dans-un-seisme-de-magnitude-5-1_6726299_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/19/perou-cinq-morts-et-21-blesses-dans-un-seisme-de-magnitude-5-1_6726299_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/19/458/0/5500/2750/644/322/60/0/fb212e1_ftp-1-mpkghux0enge-2026-07-19t170235z-1581248661-rc2cwlazcfwf-rtrmadp-3-peru-quake.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une maison détruite après le séisme qui a frappé le centre du Pérou samedi, à Chupuro (Pérou), le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YERSHON VILCA / REUTERS"
+      }
+    ],
+    "credit": "YERSHON VILCA / REUTERS"
+  }
+}
