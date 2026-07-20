@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-20T14:03:30.069323+00:00",
+  "_id": "5450e576d9d4",
+  "brut": {
+    "title": "Soldats tués au Moyen-Orient : la réplique des États-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Soldats tués au Moyen-Orient : la réplique des États-Unis"
+    },
+    "summary": "Les États-Unis ont intensifié leurs frappes contre l’Iran après la mort de deux soldats américains en Jordanie. Téhéran menace plusieurs pays du Golfe, dont le Koweït, tandis qu’Israël se dit prêt à intervenir en cas de nouvelles attaques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les États-Unis ont intensifié leurs frappes contre l’Iran après la mort de deux soldats américains en Jordanie. Téhéran menace plusieurs pays du Golfe, dont le Koweït, tandis qu’Israël se dit prêt à intervenir en cas de nouvelles attaques."
+    },
+    "published": "Mon, 20 Jul 2026 14:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      12,
+      0,
+      3,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/soldats-tues-au-moyen-orient-la-replique-des-etats-unis_8114963.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/buqjN7mRJEx57jtH51l2kFtTFdo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/20/6a5df455d9025055383677.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/soldats-tues-au-moyen-orient-la-replique-des-etats-unis_8114963.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/soldats-tues-au-moyen-orient-la-replique-des-etats-unis_8114963.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

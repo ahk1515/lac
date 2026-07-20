@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T14:03:29.874394+00:00",
+  "_id": "ae159ab15b60",
+  "brut": {
+    "title": "Le Hamas annonce l’élection de Khalil Al-Hayya comme nouveau dirigeant du mouvement islamiste palestinien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Hamas annonce l’élection de Khalil Al-Hayya comme nouveau dirigeant du mouvement islamiste palestinien"
+    },
+    "published": "Mon, 20 Jul 2026 15:41:42 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      13,
+      41,
+      42,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 15:47:47 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      13,
+      47,
+      47,
+      0,
+      201,
+      0
+    ],
+    "summary": "L’ancien président du bureau politique du Hamas, Yahya Sinouar, avait été tué en octobre 2024 par l’armée israélienne dans la bande de Gaza. Sans désigner immédiatement de successeur, le mouvement avait privilégié une direction collégiale, jusqu’à cette élection.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ancien président du bureau politique du Hamas, Yahya Sinouar, avait été tué en octobre 2024 par l’armée israélienne dans la bande de Gaza. Sans désigner immédiatement de successeur, le mouvement avait privilégié une direction collégiale, jusqu’à cette élection."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/hamas-le-negociateur-en-chef-khalil-al-hayya-elu-dirigeant-du-mouvement-islamiste-palestinien_6727327_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/hamas-le-negociateur-en-chef-khalil-al-hayya-elu-dirigeant-du-mouvement-islamiste-palestinien_6727327_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/hamas-le-negociateur-en-chef-khalil-al-hayya-elu-dirigeant-du-mouvement-islamiste-palestinien_6727327_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/309/0/2900/1450/644/322/60/0/4aa4f36_ftp-1-bdv8o5ba8reu-2026-07-20t122458z-1821028812-rc2ohma50977-rtrmadp-3-israel-palestinians-hamas-hayya.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Khalil Al-Hayya, nouveau chef du Hamas, lors d’un rassemblement anti-israélien organisé par le mouvement islamiste à Gaza, le 4 mars 2008."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammed Salem / REUTERS"
+      }
+    ],
+    "credit": "Mohammed Salem / REUTERS"
+  }
+}

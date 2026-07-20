@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T14:03:29.875076+00:00",
+  "_id": "b367799b5195",
+  "brut": {
+    "title": "Incendies en Espagne : 26 000 hectares brûlés au nord de Madrid",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendies en Espagne : 26 000 hectares brûlés au nord de Madrid"
+    },
+    "published": "Mon, 20 Jul 2026 13:40:38 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      11,
+      40,
+      38,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 14:26:29 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      12,
+      26,
+      29,
+      0,
+      201,
+      0
+    ],
+    "summary": "Le feu de forêt qui est parti du village de La Mierla, dans la région de Guadalajara, en Castille-La-Manche, dans le centre de l’Espagne, préoccupe les autorités, à la veille d’une nouvelle vague de chaleur dans le pays, favorisant les feux dévastateurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le feu de forêt qui est parti du village de La Mierla, dans la région de Guadalajara, en Castille-La-Manche, dans le centre de l’Espagne, préoccupe les autorités, à la veille d’une nouvelle vague de chaleur dans le pays, favorisant les feux dévastateurs."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/20/incendies-en-espagne-26-000-hectares-brules-au-nord-de-madrid_6727222_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/20/incendies-en-espagne-26-000-hectares-brules-au-nord-de-madrid_6727222_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/20/incendies-en-espagne-26-000-hectares-brules-au-nord-de-madrid_6727222_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/213/0/4000/2000/644/322/60/0/310e4b2_ftp-1-zhdwi5jydmds-5666550-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Incendie dans le secteur de La Mierla (Castille-La-Manche), en Espagne, le 20 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "INFOCAM (service de prévention des incendies de Castille-La Manche)/UME/AFP"
+      }
+    ],
+    "credit": "INFOCAM (service de prévention des incendies de Castille-La Manche)/UME/AFP"
+  }
+}

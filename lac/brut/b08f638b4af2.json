@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T14:03:29.874762+00:00",
+  "_id": "b08f638b4af2",
+  "brut": {
+    "title": "En Cisjordanie occupée, deux Palestiniens ont été tués par l’armée israélienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie occupée, deux Palestiniens ont été tués par l’armée israélienne"
+    },
+    "published": "Mon, 20 Jul 2026 14:03:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      12,
+      3,
+      5,
+      0,
+      201,
+      0
+    ],
+    "summary": "L’armée israélienne a déclaré que ses soldats avaient ouvert le feu après que des Palestiniens eurent lancé des pierres en leur direction.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée israélienne a déclaré que ses soldats avaient ouvert le feu après que des Palestiniens eurent lancé des pierres en leur direction."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/en-cisjordanie-occupee-deux-palestiniens-ont-ete-tues-par-l-armee-israelienne_6727256_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/en-cisjordanie-occupee-deux-palestiniens-ont-ete-tues-par-l-armee-israelienne_6727256_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/en-cisjordanie-occupee-deux-palestiniens-ont-ete-tues-par-l-armee-israelienne_6727256_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/06/1028/0/5760/2880/644/322/60/0/851765f_upload-1-ug34gm1svxcd-lgeai-routes-colonisation-49.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une étoile de David installée devant un village de bédouins abandonné à la suite de l'arrivée de colons israéliens, dans la vallée du Jourdain, Cisjordanie occupée, le 3 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LAURENCE GEAI/MYOP POUR « LE MONDE »"
+      }
+    ],
+    "credit": "LAURENCE GEAI/MYOP POUR « LE MONDE »"
+  }
+}

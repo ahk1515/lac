@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-20T14:03:30.068929+00:00",
+  "_id": "1ed8157f3102",
+  "brut": {
+    "title": "L'incendie à 100 km au nord de Madrid a déjà ravagé 26 000 hectares, entraînant l'évacuation de 1 200 personnes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incendie à 100 km au nord de Madrid a déjà ravagé 26 000 hectares, entraînant l'évacuation de 1 200 personnes"
+    },
+    "summary": "Ce feu de forêt est parti d'un village, dans la région de Castille-La Manche, dans le centre de l'Espagne. Les pouvoirs publics ont ordonné l'évacuation de 28 hameaux disséminés dans la zone.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce feu de forêt est parti d'un village, dans la région de Castille-La Manche, dans le centre de l'Espagne. Les pouvoirs publics ont ordonné l'évacuation de 28 hameaux disséminés dans la zone."
+    },
+    "published": "Mon, 20 Jul 2026 14:37:34 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      12,
+      37,
+      34,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-a-100-km-au-nord-de-madrid-a-ravage-26-000-hectares-entrainant-l-evacuation-de-1-200-personnes_8115071.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QU9tuo_GMnnwGuordgYkA6xT8cY/0x37:1024x613/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e13e45a6b3113515282.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-a-100-km-au-nord-de-madrid-a-ravage-26-000-hectares-entrainant-l-evacuation-de-1-200-personnes_8115071.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-a-100-km-au-nord-de-madrid-a-ravage-26-000-hectares-entrainant-l-evacuation-de-1-200-personnes_8115071.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

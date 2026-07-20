@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T14:03:29.874587+00:00",
+  "_id": "9f388223e6ab",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie accuse Kiev d’avoir attaqué un bus, causant la mort de cinq personnes dans l’oblast frontalier de Belgorod",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie accuse Kiev d’avoir attaqué un bus, causant la mort de cinq personnes dans l’oblast frontalier de Belgorod"
+    },
+    "published": "Mon, 20 Jul 2026 14:51:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      12,
+      51,
+      41,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 15:15:23 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      13,
+      15,
+      23,
+      0,
+      201,
+      0
+    ],
+    "summary": "Le gouverneur régional de Belgorod a dénoncé « une attaque ciblée et cynique » ayant visé « un bus transportant des passagers » à Chebekino. Un enfant fait partie des victimes, selon la même source.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouverneur régional de Belgorod a dénoncé « une attaque ciblée et cynique » ayant visé « un bus transportant des passagers » à Chebekino. Un enfant fait partie des victimes, selon la même source."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-la-russie-accuse-kiev-d-avoir-bombarde-un-bus-causant-la-mort-de-cinq-personnes-dans-l-oblast-frontalier-de-belgorod_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-la-russie-accuse-kiev-d-avoir-bombarde-un-bus-causant-la-mort-de-cinq-personnes-dans-l-oblast-frontalier-de-belgorod_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-la-russie-accuse-kiev-d-avoir-bombarde-un-bus-causant-la-mort-de-cinq-personnes-dans-l-oblast-frontalier-de-belgorod_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/557/0/7390/3695/644/322/60/0/3aebfab_ftp-1-ynucmqnblgz3-2026-07-20t061729z-599023546-rc2ehmaucxw1-rtrmadp-3-ukraine-crisis-russia-drones.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ciel de Podolsk, ville de la région de Moscou, après des attaques de drones ukrainiens, le 20 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-20T14:03:30.068398+00:00",
+  "_id": "772b4572afb2",
+  "brut": {
+    "title": "Le Hamas annonce l'élection de Khalil al-Hayya comme nouveau chef du mouvement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Hamas annonce l'élection de Khalil al-Hayya comme nouveau chef du mouvement"
+    },
+    "summary": "Sa candidature a reçu un soutien quasi unanime, de Gaza comme de l'étranger, selon un haut responsable du mouvement islamiste palestinien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sa candidature a reçu un soutien quasi unanime, de Gaza comme de l'étranger, selon un haut responsable du mouvement islamiste palestinien."
+    },
+    "published": "Mon, 20 Jul 2026 15:38:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      13,
+      38,
+      47,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/le-hamas-annonce-l-election-de-khalil-al-hayya-comme-nouveau-chef-du-mouvement_8115125.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/BLJYRiWbUa651Qd0jFY0WtsIEn8/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e2227cd0f4571213330.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/le-hamas-annonce-l-election-de-khalil-al-hayya-comme-nouveau-chef-du-mouvement_8115125.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/le-hamas-annonce-l-election-de-khalil-al-hayya-comme-nouveau-chef-du-mouvement_8115125.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

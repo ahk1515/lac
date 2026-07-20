@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-20T14:03:30.069184+00:00",
+  "_id": "f180be39dc84",
+  "brut": {
+    "title": "Andy Burnham nommé officiellement Premier ministre du Royaume-Uni par le roi Charles III",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Andy Burnham nommé officiellement Premier ministre du Royaume-Uni par le roi Charles III"
+    },
+    "summary": "Le nouveau chef du Labour, maire du Grand Manchester jusqu'au mois dernier, succède au démissionnaire Keir Starmer, qui était arrivé au pouvoir en juillet 2024.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nouveau chef du Labour, maire du Grand Manchester jusqu'au mois dernier, succède au démissionnaire Keir Starmer, qui était arrivé au pouvoir en juillet 2024."
+    },
+    "published": "Mon, 20 Jul 2026 15:32:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      13,
+      32,
+      8,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jPLOfPoaDN6cJ0b6AbVPhdWsJ0k/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e0ef93588d082866021.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
