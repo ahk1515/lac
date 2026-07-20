@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-20T06:44:24.926601+00:00",
+  "_id": "f8b875b58595",
+  "brut": {
+    "title": "Israël envisage l'utilisation de crocodiles pour empêcher l'évasion de ses prisonniers palestiniens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël envisage l'utilisation de crocodiles pour empêcher l'évasion de ses prisonniers palestiniens"
+    },
+    "summary": "Le gouvernement israélien a pour projet d'utiliser des crocodiles pour dissuader des prisonniers palestiniens de s'échapper. Il vient même de changer la classification de l'espèce pour pouvoir se servir de ces animaux dans le cadre d'activités liées à la sécurité du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le gouvernement israélien a pour projet d'utiliser des crocodiles pour dissuader des prisonniers palestiniens de s'échapper. Il vient même de changer la classification de l'espèce pour pouvoir se servir de ces animaux dans le cadre d'activités liées à la sécurité du pays."
+    },
+    "published": "Mon, 20 Jul 2026 08:13:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      6,
+      13,
+      26,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/israel-envisage-l-utilisation-de-crocodiles-pour-empecher-l-evasion-de-ses-prisonniers-palestiniens_8064608.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uNdV7zYYKDYsE3qmeuBL35nv6Bw/0x277:5338x3280/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5db83e6f6b7457993873.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/israel-envisage-l-utilisation-de-crocodiles-pour-empecher-l-evasion-de-ses-prisonniers-palestiniens_8064608.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/israel-envisage-l-utilisation-de-crocodiles-pour-empecher-l-evasion-de-ses-prisonniers-palestiniens_8064608.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T06:44:24.614232+00:00",
+  "_id": "92c47b906906",
+  "brut": {
+    "title": "Coupe du monde 2026 : l’Espagne décroche sa deuxième étoile face à l’Argentine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Coupe du monde 2026 : l’Espagne décroche sa deuxième étoile face à l’Argentine"
+    },
+    "published": "Mon, 20 Jul 2026 08:16:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      6,
+      16,
+      44,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 08:20:15 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      6,
+      20,
+      15,
+      0,
+      201,
+      0
+    ],
+    "summary": "La Roja a trouvé la faille en prolongations pour s’imposer 1-0 face aux Argentins et remporter sa deuxième étoile de Coupe du monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Roja a trouvé la faille en prolongations pour s’imposer 1-0 face aux Argentins et remporter sa deuxième étoile de Coupe du monde."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/20/coupe-du-monde-2026-l-espagne-decroche-sa-deuxieme-etoile-face-a-l-argentine_6726843_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/20/coupe-du-monde-2026-l-espagne-decroche-sa-deuxieme-etoile-face-a-l-argentine_6726843_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/20/coupe-du-monde-2026-l-espagne-decroche-sa-deuxieme-etoile-face-a-l-argentine_6726843_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/106/0/1276/638/644/322/60/0/7fad2e6_ftp-1-8ava1spjyo1q-5a90d5e2b37c4c36894dc16c0d1b2a47-0-ecab6e60e4984bb1b1df27bed62f9834.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’Espagnol Rodri (16) embrasse le trophée alors que l’Espagne célèbre sa victoire en finale de la Coupe du monde de football contre l’Argentine, à East Rutherford (New Jersey), près de New York, le dimanche 19 juillet 2026. (Photo AP/Adam Hunger)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Adam Hunger / AP Photo/Adam Hunger"
+      }
+    ],
+    "credit": "Adam Hunger / AP Photo/Adam Hunger"
+  }
+}

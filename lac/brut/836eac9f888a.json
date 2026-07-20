@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-20T06:44:24.926696+00:00",
+  "_id": "836eac9f888a",
+  "brut": {
+    "title": "Guerre en Iran : Donald Trump va-t-il vitrifier le pays ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Iran : Donald Trump va-t-il vitrifier le pays ?"
+    },
+    "summary": "Les États-Unis promettent de punir l'Iran après des tirs sur des Américains. Des moyens militaires supplémentaires arrivent dans la région et les bombardements ciblés se poursuivent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les États-Unis promettent de punir l'Iran après des tirs sur des Américains. Des moyens militaires supplémentaires arrivent dans la région et les bombardements ciblés se poursuivent."
+    },
+    "published": "Mon, 20 Jul 2026 08:08:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      6,
+      8,
+      51,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-iran-donald-trump-va-t-il-vitrifier-le-pays_8114681.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/5exP0__G0_0EXJ9IguZHy8qZwI8/233x0:1473x697/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5db84feaeea718256473.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-iran-donald-trump-va-t-il-vitrifier-le-pays_8114681.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-iran-donald-trump-va-t-il-vitrifier-le-pays_8114681.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

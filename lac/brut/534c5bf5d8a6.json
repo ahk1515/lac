@@ -1,0 +1,63 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T06:44:24.614424+00:00",
+  "_id": "534c5bf5d8a6",
+  "brut": {
+    "title": "Naufrage d’un ferry au Guyana : deux morts, 67 rescapés et un nombre incertain de disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Naufrage d’un ferry au Guyana : deux morts, 67 rescapés et un nombre incertain de disparus"
+    },
+    "published": "Mon, 20 Jul 2026 06:28:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      4,
+      28,
+      1,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 07:27:53 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      5,
+      27,
+      53,
+      0,
+      201,
+      0
+    ],
+    "summary": "Le navire a chaviré au nord-ouest, au large de l’Essequibo, région revendiquée par le Venezuela. Le nombre exact de disparus n’est pas confirmé à ce stade, le manifeste du navire s’étant révélé imprécis, selon les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le navire a chaviré au nord-ouest, au large de l’Essequibo, région revendiquée par le Venezuela. Le nombre exact de disparus n’est pas confirmé à ce stade, le manifeste du navire s’étant révélé imprécis, selon les autorités."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/naufrage-d-un-ferry-au-guyana-deux-morts-et-au-moins-66-personnes-toujours-portees-disparues_6726266_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/naufrage-d-un-ferry-au-guyana-deux-morts-et-au-moins-66-personnes-toujours-portees-disparues_6726266_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/naufrage-d-un-ferry-au-guyana-deux-morts-et-au-moins-66-personnes-toujours-portees-disparues_6726266_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/19/128/0/904/452/644/322/60/0/158c319_upload-1-dhcsuojmbb2l-capture-d-ecran-2026-07-19-204906.png"
+      }
+    ]
+  }
+}

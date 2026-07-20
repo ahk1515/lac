@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T06:44:24.614814+00:00",
+  "_id": "9d9f8c53482c",
+  "brut": {
+    "title": "Dans l’océan Indien, le port de Colombo pris dans les rivalités entre l’Inde et la Chine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans l’océan Indien, le port de Colombo pris dans les rivalités entre l’Inde et la Chine"
+    },
+    "published": "Mon, 20 Jul 2026 05:15:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      3,
+      15,
+      11,
+      0,
+      201,
+      0
+    ],
+    "summary": "« La ruée sur les ports » (11/16). Situé au carrefour des principales voies maritimes reliant l’Asie, le Moyen-Orient et l’Europe, le port du Sri Lanka voit New Delhi et Pékin se disputer ses terminaux pour y renforcer leur influence. La rivalité entre les deux puissances asiatiques s’étend désormais à l’ensemble de l’océan Indien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La ruée sur les ports » (11/16). Situé au carrefour des principales voies maritimes reliant l’Asie, le Moyen-Orient et l’Europe, le port du Sri Lanka voit New Delhi et Pékin se disputer ses terminaux pour y renforcer leur influence. La rivalité entre les deux puissances asiatiques s’étend désormais à l’ensemble de l’océan Indien."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/20/dans-l-ocean-indien-le-port-de-colombo-pris-dans-les-rivalites-entre-l-inde-et-la-chine_6726600_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/20/dans-l-ocean-indien-le-port-de-colombo-pris-dans-les-rivalites-entre-l-inde-et-la-chine_6726600_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/20/dans-l-ocean-indien-le-port-de-colombo-pris-dans-les-rivalites-entre-l-inde-et-la-chine_6726600_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/250/0/3000/1500/644/322/60/0/e24c5d2_upload-1-qyvuiqwv9fag-colombo-good.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Airbus/Data SIO/NOAA/US Navy/NGA/GEBCO  ; DINUKA LIYANAWATTE/REUTERS"
+      }
+    ],
+    "credit": "Airbus/Data SIO/NOAA/US Navy/NGA/GEBCO  ; DINUKA LIYANAWATTE/REUTERS"
+  }
+}
