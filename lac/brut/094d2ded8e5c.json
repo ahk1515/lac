@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T21:11:38.159675+00:00",
+  "_id": "094d2ded8e5c",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’armée jordanienne dit avoir abattu trois missiles iraniens ; Donald Trump menace une nouvelle fois Téhéran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : l’armée jordanienne dit avoir abattu trois missiles iraniens ; Donald Trump menace une nouvelle fois Téhéran"
+    },
+    "published": "Mon, 20 Jul 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      20,
+      0,
+      1,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 22:47:18 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      20,
+      47,
+      18,
+      0,
+      201,
+      0
+    ],
+    "summary": "La République islamique poursuit ses attaques contre des cibles américaines dans plusieurs pays de la région. Le président américain a affirmé que pour chaque soldat américain tué l’Iran « payera plusieurs fois le prix ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La République islamique poursuit ses attaques contre des cibles américaines dans plusieurs pays de la région. Le président américain a affirmé que pour chaque soldat américain tué l’Iran « payera plusieurs fois le prix »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-jordanienne-dit-avoir-abattu-trois-missiles-iraniens-apres-de-nouvelles-menaces-americaines_6725301_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-jordanienne-dit-avoir-abattu-trois-missiles-iraniens-apres-de-nouvelles-menaces-americaines_6725301_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-jordanienne-dit-avoir-abattu-trois-missiles-iraniens-apres-de-nouvelles-menaces-americaines_6725301_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/416/0/5000/2500/644/322/60/0/c89af2d_ftp-1-wex8dgdhr7j1-2026-07-12t083139z-1832828998-rc25cma4i15b-rtrmadp-3-iran-crisis.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une sculpture représentant un missile, sur une place de Téhéran, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Majid Asgaripour / via REUTERS"
+      }
+    ],
+    "credit": "Majid Asgaripour / via REUTERS"
+  }
+}

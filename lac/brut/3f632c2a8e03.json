@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-20T21:11:38.728568+00:00",
+  "_id": "3f632c2a8e03",
+  "brut": {
+    "title": "Ce village mexicain est en guerre contre les bateaux de croisière",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce village mexicain est en guerre contre les bateaux de croisière"
+    },
+    "summary": "🇲🇽❌ Non aux bateaux de croisière ! Mahahual est un petit village de pêcheurs dans le sud-ouest du Mexique. Son écosystème et sa tranquillité sont menacés par les croisières xxl qui déversent des flots de touristes. Mais la population se bat et obtient gain de cause face aux géants du tourisme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇲🇽❌ Non aux bateaux de croisière ! Mahahual est un petit village de pêcheurs dans le sud-ouest du Mexique. Son écosystème et sa tranquillité sont menacés par les croisières xxl qui déversent des flots de touristes. Mais la population se bat et obtient gain de cause face aux géants du tourisme."
+    },
+    "published": "Mon, 20 Jul 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      20,
+      0,
+      1,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ce-village-mexicain-est-en-guerre-contre-les-bateaux-de-croisiere_8115197.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VZhoAT2qO8cgdC1dzxcjPpXksuY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/20/6a5e2d99d177f712130305.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ce-village-mexicain-est-en-guerre-contre-les-bateaux-de-croisiere_8115197.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ce-village-mexicain-est-en-guerre-contre-les-bateaux-de-croisiere_8115197.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

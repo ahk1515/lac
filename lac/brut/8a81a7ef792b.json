@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T21:11:38.159470+00:00",
+  "_id": "8a81a7ef792b",
+  "brut": {
+    "title": "Au Royaume-Uni, le suspect du meurtre d’Ann Widdecombe a été inculpé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Royaume-Uni, le suspect du meurtre d’Ann Widdecombe a été inculpé"
+    },
+    "published": "Mon, 20 Jul 2026 22:43:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      20,
+      43,
+      10,
+      0,
+      201,
+      0
+    ],
+    "summary": "« Les investigations de la police sur les motivations du prévenu se poursuivent, y compris sur une éventuelle motivation politique ou terroriste », a précisé le procureur en chef, alors que Joshua Kerry doit être présenté à un juge, mardi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Les investigations de la police sur les motivations du prévenu se poursuivent, y compris sur une éventuelle motivation politique ou terroriste », a précisé le procureur en chef, alors que Joshua Kerry doit être présenté à un juge, mardi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/au-royaume-uni-le-suspect-du-meurtre-d-ann-widdecombe-a-ete-inculpe_6727881_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/au-royaume-uni-le-suspect-du-meurtre-d-ann-widdecombe-a-ete-inculpe_6727881_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/au-royaume-uni-le-suspect-du-meurtre-d-ann-widdecombe-a-ete-inculpe_6727881_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/376/0/4512/2256/644/322/60/0/8a88753_ftp-1-ztfgfxje4uiy-2026-07-11t152853z-953918451-rc2obmak48y4-rtrmadp-3-britain-crime-widdecombe.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers britanniques menant des investigations près de la maison d’Ann Widdecombe, le 11 juillet 2026 à Haytor, en Angleterre."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jack Taylor / REUTERS"
+      }
+    ],
+    "credit": "Jack Taylor / REUTERS"
+  }
+}

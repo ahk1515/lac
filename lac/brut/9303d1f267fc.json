@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T21:11:38.159877+00:00",
+  "_id": "9303d1f267fc",
+  "brut": {
+    "title": "Dans le nord du Chili, touché par une tempête qui a causé cinq morts, le président décrète l’état de catastrophe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le nord du Chili, touché par une tempête qui a causé cinq morts, le président décrète l’état de catastrophe"
+    },
+    "published": "Mon, 20 Jul 2026 21:52:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      19,
+      52,
+      14,
+      0,
+      201,
+      0
+    ],
+    "summary": "Dimanche, « la quantité de pluie qui tombe habituellement en un mois est tombée en une heure », a fait savoir le sous-secrétaire d’Etat à l’intérieur, au sujet de cet événement qui a débuté le 15 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dimanche, « la quantité de pluie qui tombe habituellement en un mois est tombée en une heure », a fait savoir le sous-secrétaire d’Etat à l’intérieur, au sujet de cet événement qui a débuté le 15 juillet."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/dans-le-nord-du-chili-touche-par-une-tempete-qui-a-cause-cinq-morts-le-president-decrete-l-etat-de-catastrophe_6727815_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/dans-le-nord-du-chili-touche-par-une-tempete-qui-a-cause-cinq-morts-le-president-decrete-l-etat-de-catastrophe_6727815_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/dans-le-nord-du-chili-touche-par-une-tempete-qui-a-cause-cinq-morts-le-president-decrete-l-etat-de-catastrophe_6727815_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/496/0/6016/3008/644/322/60/0/73df782_ftp-1-8trcbyz866x3-5668631-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres de l’armée chilienne aident des habitants de la région rurale de Coquimbo, en proie aux fortes intempéries que connaît le pays, le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALEJANDRO PIZARRO / AFP"
+      }
+    ],
+    "credit": "ALEJANDRO PIZARRO / AFP"
+  }
+}

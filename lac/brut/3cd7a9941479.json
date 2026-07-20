@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T21:11:38.160053+00:00",
+  "_id": "3cd7a9941479",
+  "brut": {
+    "title": "Naufrage d’un ferry au large du Guyana : au moins 10 morts, selon un bilan encore provisoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Naufrage d’un ferry au large du Guyana : au moins 10 morts, selon un bilan encore provisoire"
+    },
+    "published": "Mon, 20 Jul 2026 21:37:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      19,
+      37,
+      19,
+      0,
+      201,
+      0
+    ],
+    "summary": "Le navire a chaviré dans la nuit de samedi 18 à dimanche 19 juillet au large de l’Essequibo, région revendiquée par le Venezuela. Le nombre exact de disparus n’est pas confirmé à ce stade, le manifeste du navire s’étant révélé imprécis, selon les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le navire a chaviré dans la nuit de samedi 18 à dimanche 19 juillet au large de l’Essequibo, région revendiquée par le Venezuela. Le nombre exact de disparus n’est pas confirmé à ce stade, le manifeste du navire s’étant révélé imprécis, selon les autorités."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/naufrage-d-un-ferry-au-large-du-guyana-au-moins-10-morts-selon-un-bilan-encore-provisoire_6727782_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/naufrage-d-un-ferry-au-large-du-guyana-au-moins-10-morts-selon-un-bilan-encore-provisoire_6727782_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/naufrage-d-un-ferry-au-large-du-guyana-au-moins-10-morts-selon-un-bilan-encore-provisoire_6727782_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/200/0/1600/800/644/322/60/0/b573cd1_ftp-1-qt7vqbauqozk-2026-07-20t034720z-3228025-rc2fhmavasb1-rtrmadp-3-guyana-ferry.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’embarcation de secouristes guyaniens sur les lieux du naufrage, au large du Guyana, le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bishop Juan Edghill via REUTERS"
+      }
+    ],
+    "credit": "Bishop Juan Edghill via REUTERS"
+  }
+}
