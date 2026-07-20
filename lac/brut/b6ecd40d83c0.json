@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T18:01:28.462595+00:00",
+  "_id": "b6ecd40d83c0",
+  "brut": {
+    "title": "Génocide des Tutsi : peine confirmée en appel pour un ancien médecin rwandais condamné à vingt-sept ans de prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Génocide des Tutsi : peine confirmée en appel pour un ancien médecin rwandais condamné à vingt-sept ans de prison"
+    },
+    "published": "Mon, 20 Jul 2026 16:25:50 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      14,
+      25,
+      50,
+      0,
+      201,
+      0
+    ],
+    "summary": "L’ancien médecin-enseignant de l’université de Butare était rejugé pour avoir relayé les mots d’ordre des autorités hutu incitant la population à s’en prendre à la minorité tutsi, notamment lors d’un discours prononcé le 14 mai 1994.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ancien médecin-enseignant de l’université de Butare était rejugé pour avoir relayé les mots d’ordre des autorités hutu incitant la population à s’en prendre à la minorité tutsi, notamment lors d’un discours prononcé le 14 mai 1994."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/20/genocide-des-tutsi-peine-confirmee-en-appel-pour-un-ancien-medecin-rwandais-condamne-a-vingt-sept-ans-de-prison_6727334_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/20/genocide-des-tutsi-peine-confirmee-en-appel-pour-un-ancien-medecin-rwandais-condamne-a-vingt-sept-ans-de-prison_6727334_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/20/genocide-des-tutsi-peine-confirmee-en-appel-pour-un-ancien-medecin-rwandais-condamne-a-vingt-sept-ans-de-prison_6727334_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/376/0/4516/2258/644/322/60/0/557bef7_upload-1-m4irneq4oe60-000-36hq63q.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Eugène Rwamucyo à la cour d’assises de Paris, en octobre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "STEPHANE DE SAKUTIN / AFP"
+      }
+    ],
+    "credit": "STEPHANE DE SAKUTIN / AFP"
+  }
+}

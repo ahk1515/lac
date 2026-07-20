@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T18:01:28.462211+00:00",
+  "_id": "3795c4409223",
+  "brut": {
+    "title": "Dans le sud du Liban, à l’hôpital du Secours populaire de Nabatiyé, les soignants tentent de surmonter les traumatismes de la guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sud du Liban, à l’hôpital du Secours populaire de Nabatiyé, les soignants tentent de surmonter les traumatismes de la guerre"
+    },
+    "published": "Mon, 20 Jul 2026 17:00:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      15,
+      0,
+      6,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 17:57:30 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      15,
+      57,
+      30,
+      0,
+      201,
+      0
+    ],
+    "summary": "Médecins sans frontières propose des consultations individuelles et des groupes de parole à des professionnels éprouvés par quatre mois de conflit et une situation sécuritaire toujours instable.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Médecins sans frontières propose des consultations individuelles et des groupes de parole à des professionnels éprouvés par quatre mois de conflit et une situation sécuritaire toujours instable."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/dans-le-sud-du-liban-a-l-hopital-du-secours-populaire-de-nabatiye-les-soignants-tentent-de-surmonter-les-traumatismes-de-la-guerre_6727338_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/dans-le-sud-du-liban-a-l-hopital-du-secours-populaire-de-nabatiye-les-soignants-tentent-de-surmonter-les-traumatismes-de-la-guerre_6727338_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/dans-le-sud-du-liban-a-l-hopital-du-secours-populaire-de-nabatiye-les-soignants-tentent-de-surmonter-les-traumatismes-de-la-guerre_6727338_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/05/31/690/0/4000/2000/644/322/60/0/7c6f5d4_upload-1-q3hktdt7ba52-raf-liban-nabatieh-05-26-010.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres du personnel médical se reposent dans un couloir de l’hôpital Al-Najda Al-Chaabia (« secours populaire »), à Nabatiyé, au Liban, le 30 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RAFAEL YAGHOBZADEH POUR « LE MONDE »"
+      }
+    ],
+    "credit": "RAFAEL YAGHOBZADEH POUR « LE MONDE »"
+  }
+}

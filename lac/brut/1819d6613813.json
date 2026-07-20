@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T18:01:28.460688+00:00",
+  "_id": "1819d6613813",
+  "brut": {
+    "title": "Inde : mobilisée dans la rue, la génération Z ne relâche pas la pression sur le gouvernement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Inde : mobilisée dans la rue, la génération Z ne relâche pas la pression sur le gouvernement"
+    },
+    "published": "Mon, 20 Jul 2026 19:30:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      17,
+      30,
+      11,
+      0,
+      201,
+      0
+    ],
+    "summary": "De nouvelles manifestations, d’ampleur inédite depuis 2019, se sont tenues, lundi, à proximité du Parlement, à l’appel du Parti du peuple des cafards qui rassemble de larges pans de la jeunesse indienne. Confrontée à un chômage massif et à de nombreux suicides, elle est déterminée à demander des comptes aux dirigeants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De nouvelles manifestations, d’ampleur inédite depuis 2019, se sont tenues, lundi, à proximité du Parlement, à l’appel du Parti du peuple des cafards qui rassemble de larges pans de la jeunesse indienne. Confrontée à un chômage massif et à de nombreux suicides, elle est déterminée à demander des comptes aux dirigeants."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/inde-mobilisee-dans-la-rue-la-generation-z-ne-relache-pas-la-pression-sur-le-gouvernement_6727580_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/inde-mobilisee-dans-la-rue-la-generation-z-ne-relache-pas-la-pression-sur-le-gouvernement_6727580_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/inde-mobilisee-dans-la-rue-la-generation-z-ne-relache-pas-la-pression-sur-le-gouvernement_6727580_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/535/0/6421/3210/644/322/60/0/63d2bc4_ftp-1-npywgrxcksfa-5666720-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des partisans du Cockroach Janta Party (le Parti du peuple des cafards) manifestent pour réclamer la démission du ministre indien de l’éducation, Dharmendra Pradhan, à New Delhi, le 20 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ARUN SANKAR/AFP"
+      }
+    ],
+    "credit": "ARUN SANKAR/AFP"
+  }
+}
