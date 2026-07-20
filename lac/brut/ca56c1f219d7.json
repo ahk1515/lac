@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T10:51:04.130154+00:00",
+  "_id": "ca56c1f219d7",
+  "brut": {
+    "title": "En Inde, la police disperse une manifestation contre les fraudes aux examens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Inde, la police disperse une manifestation contre les fraudes aux examens"
+    },
+    "published": "Mon, 20 Jul 2026 09:50:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      7,
+      50,
+      51,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 10:04:11 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      8,
+      4,
+      11,
+      0,
+      201,
+      0
+    ],
+    "summary": "Lancé en mai par un étudiant indien fraîchement diplômé aux Etats-Unis, le parti des « cafards » tente de fédérer la colère qui gronde en Inde contre les ratés et les scandales qui affectent régulièrement les examens de l’enseignement supérieur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Lancé en mai par un étudiant indien fraîchement diplômé aux Etats-Unis, le parti des « cafards » tente de fédérer la colère qui gronde en Inde contre les ratés et les scandales qui affectent régulièrement les examens de l’enseignement supérieur."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/145/0/5737/2868/644/322/60/0/b7700f6_ftp-1-brq70o31t6y8-2026-07-20t012308z-58344606-rc2chmanr5sa-rtrmadp-3-india-gen-z.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les forces armées et la police indienne, lors d’une manifestation organisée par le Parti du peuple des cafards, à New Delhi, en Inde, le 20 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anushree Fadnavis/REUTERS"
+      }
+    ],
+    "credit": "Anushree Fadnavis/REUTERS"
+  }
+}

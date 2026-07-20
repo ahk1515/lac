@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T10:51:04.130330+00:00",
+  "_id": "5779c6187fc9",
+  "brut": {
+    "title": "La Guinée demande à la France la restitution de manuscrits pillés pendant la colonisation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Guinée demande à la France la restitution de manuscrits pillés pendant la colonisation"
+    },
+    "published": "Mon, 20 Jul 2026 09:30:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      7,
+      30,
+      8,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 10:47:19 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      8,
+      47,
+      19,
+      0,
+      201,
+      0
+    ],
+    "summary": "Conakry souhaite notamment récupérer le Coran de Samory Touré, l’une des grandes figures guinéennes de la résistance à la conquête coloniale française.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Conakry souhaite notamment récupérer le Coran de Samory Touré, l’une des grandes figures guinéennes de la résistance à la conquête coloniale française."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/20/la-guinee-demande-a-la-france-la-restitution-de-manuscrits-pilles-pendant-la-colonisation_6726912_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/20/la-guinee-demande-a-la-france-la-restitution-de-manuscrits-pilles-pendant-la-colonisation_6726912_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/20/la-guinee-demande-a-la-france-la-restitution-de-manuscrits-pilles-pendant-la-colonisation_6726912_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/327/0/877/438/644/322/60/0/a3ef054_upload-1-8qkrbk4mkazf-te-le-chargement.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Samory Touré après sa capture par l’armée française, en septembre 1898."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Henri Gaden/Archives de Bordeaux Métropole"
+      }
+    ],
+    "credit": "Henri Gaden/Archives de Bordeaux Métropole"
+  }
+}

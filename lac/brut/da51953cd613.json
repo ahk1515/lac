@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T10:51:04.129800+00:00",
+  "_id": "da51953cd613",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : quelque 400 drones lancés dans la région de Moscou, 235 combats... Les dernières informations sur le conflit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : quelque 400 drones lancés dans la région de Moscou, 235 combats... Les dernières informations sur le conflit"
+    },
+    "published": "Mon, 20 Jul 2026 10:24:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      8,
+      24,
+      35,
+      0,
+      201,
+      0
+    ],
+    "summary": "Dans la nuit de dimanche à lundi, l’armée russe a de son côté attaqué l’Ukraine avec deux missiles et 94 drones alors que l’armée ukrainienne a abattu 81 drones, a rapporté l’armée de l’air.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la nuit de dimanche à lundi, l’armée russe a de son côté attaqué l’Ukraine avec deux missiles et 94 drones alors que l’armée ukrainienne a abattu 81 drones, a rapporté l’armée de l’air."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-quelque-400-drones-lances-dans-la-region-de-moscou-235-combats-les-dernieres-informations-sur-le-conflit_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-quelque-400-drones-lances-dans-la-region-de-moscou-235-combats-les-dernieres-informations-sur-le-conflit_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-quelque-400-drones-lances-dans-la-region-de-moscou-235-combats-les-dernieres-informations-sur-le-conflit_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/872/0/3926/1963/644/322/60/0/c321f61_ftp-1-zxiifu48q1gp-2026-07-20t072634z-281063774-rc2jhmazc7fa-rtrmadp-3-ukraine-crisis-russia-drones.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ciel de Podolsk, ville de la région de Moscou, après des attaques de drones ukrainiens, le 20 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

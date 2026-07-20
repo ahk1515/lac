@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T10:51:04.130526+00:00",
+  "_id": "33a7e81b74d5",
+  "brut": {
+    "title": "Coupe du monde 2026 : en Espagne, un adolescent meurt lors des célébrations de la victoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Coupe du monde 2026 : en Espagne, un adolescent meurt lors des célébrations de la victoire"
+    },
+    "published": "Mon, 20 Jul 2026 09:04:53 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      7,
+      4,
+      53,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 09:50:19 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      7,
+      50,
+      19,
+      0,
+      201,
+      0
+    ],
+    "summary": "Le garçon de 13 ans est mort à Ciudad Rodrigo, dans l’ouest de l’Espagne, lors de l’effondrement d’une fontaine, ont rapporté les services de secours de Castille-et-Léon ajoutant qu’une autre personne a été blessée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le garçon de 13 ans est mort à Ciudad Rodrigo, dans l’ouest de l’Espagne, lors de l’effondrement d’une fontaine, ont rapporté les services de secours de Castille-et-Léon ajoutant qu’une autre personne a été blessée."
+    },
+    "id": "https://www.lemonde.fr/football/article/2026/07/20/coupe-du-monde-2026-en-espagne-un-adolescent-meurt-lors-des-celebrations-de-la-victoire_6726910_1616938.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/football/article/2026/07/20/coupe-du-monde-2026-en-espagne-un-adolescent-meurt-lors-des-celebrations-de-la-victoire_6726910_1616938.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/football/article/2026/07/20/coupe-du-monde-2026-en-espagne-un-adolescent-meurt-lors-des-celebrations-de-la-victoire_6726910_1616938.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/684/0/8192/4096/644/322/60/0/c7c0a5d_ftp-1-g10bgsi9psup-2026-07-20t012523z-701138158-up1em7k03y9x6-rtrmadp-3-soccer-worldcup-esp-arg-fans-madrid.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Supporteurs espagnols après la victoire de la Roja à la Coupe du monde 2026, à Madrid, le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alejandro Martinez Velez/REUTERS"
+      }
+    ],
+    "credit": "Alejandro Martinez Velez/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-20T10:51:04.129152+00:00",
+  "_id": "0a1e81841001",
+  "brut": {
+    "title": "Pérou : un séisme de magnitude 5,1 fait au moins six morts et 32 blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pérou : un séisme de magnitude 5,1 fait au moins six morts et 32 blessés"
+    },
+    "published": "Mon, 20 Jul 2026 11:11:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      9,
+      11,
+      11,
+      0,
+      201,
+      0
+    ],
+    "updated": "Mon, 20 Jul 2026 11:41:35 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      20,
+      9,
+      41,
+      35,
+      0,
+      201,
+      0
+    ],
+    "summary": "Le tremblement de terre s’est produit samedi à 21 h 24 (2 h 24 GMT dimanche), à une profondeur de 24 kilomètres, et son épicentre a été localisé dans le district de Chongos Bajo, à quelque 300 kilomètres à l’est de Lima, dans la région de Junin, a précisé l’Institut géophysique du Pérou.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le tremblement de terre s’est produit samedi à 21 h 24 (2 h 24 GMT dimanche), à une profondeur de 24 kilomètres, et son épicentre a été localisé dans le district de Chongos Bajo, à quelque 300 kilomètres à l’est de Lima, dans la région de Junin, a précisé l’Institut géophysique du Pérou."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/20/perou-un-seisme-de-magnitude-5-1-fait-au-moins-six-morts-et-32-blesses_6727017_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/20/perou-un-seisme-de-magnitude-5-1-fait-au-moins-six-morts-et-32-blesses_6727017_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/20/perou-un-seisme-de-magnitude-5-1-fait-au-moins-six-morts-et-32-blesses_6727017_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/458/0/5500/2750/644/322/60/0/4a2985e_ftp-1-uvqydyjgojxj-2026-07-20t011059z-992332059-rc2owla8byvd-rtrmadp-3-peru-quake.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue de la place principale endommagée à la suite du séisme de magnitude 5,6 qui a frappé le centre du Pérou samedi, à Pumpunya (province de Chupaca, région de Junín, Pérou), le 19 juillet 2026. REUTERS/Yershon Vilca"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YERSHON VILCA / REUTERS"
+      }
+    ],
+    "credit": "YERSHON VILCA / REUTERS"
+  }
+}
