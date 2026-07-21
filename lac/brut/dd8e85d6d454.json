@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T10:24:44.580155+00:00",
+  "_id": "dd8e85d6d454",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : plus de 5 millions de réfugiés ukrainiens accueillis en Europe depuis le début de la guerre, selon le HCR",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : plus de 5 millions de réfugiés ukrainiens accueillis en Europe depuis le début de la guerre, selon le HCR"
+    },
+    "published": "Tue, 21 Jul 2026 10:47:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      8,
+      47,
+      47,
+      1,
+      202,
+      0
+    ],
+    "summary": "Le nombre de réfugiés ukrainiens dans le monde (hors Russie) s’élevait à 5,762 millions de personnes au 30 avril 2026, dont 5,213 millions enregistrés en Europe et 549 000 hors du continent, selon le dernier bulletin mensuel du ministère de l’économie et de l’environnement d’Ukraine, qui cite les données du Haut-Commissariat des Nations unies pour les réfugiés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le nombre de réfugiés ukrainiens dans le monde (hors Russie) s’élevait à 5,762 millions de personnes au 30 avril 2026, dont 5,213 millions enregistrés en Europe et 549 000 hors du continent, selon le dernier bulletin mensuel du ministère de l’économie et de l’environnement d’Ukraine, qui cite les données du Haut-Commissariat des Nations unies pour les réfugiés."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-plus-de-5-millions-de-refugies-ukrainiens-accueillis-en-europe-depuis-le-debut-de-la-guerre-selon-le-hcr_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-plus-de-5-millions-de-refugies-ukrainiens-accueillis-en-europe-depuis-le-debut-de-la-guerre-selon-le-hcr_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-plus-de-5-millions-de-refugies-ukrainiens-accueillis-en-europe-depuis-le-debut-de-la-guerre-selon-le-hcr_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/385/0/2953/1476/644/322/60/0/5ec180e_upload-1-0pw0t8prghwq-2026-07-10-heg-ukraine-0069.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cratère formé par un missile balistique durant des bombardements russes qui ont causé la mort de 31 personnes, à Kiev, le 10 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Guillaume Herbaut pour « LE MONDE »"
+      }
+    ],
+    "credit": "Guillaume Herbaut pour « LE MONDE »"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T10:24:44.580571+00:00",
+  "_id": "619f4b4bddbc",
+  "brut": {
+    "title": "Face aux Etats-Unis, l’Iran parie sur une guerre d’usure",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Face aux Etats-Unis, l’Iran parie sur une guerre d’usure"
+    },
+    "published": "Tue, 21 Jul 2026 10:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      8,
+      0,
+      2,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 10:21:40 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      8,
+      21,
+      40,
+      1,
+      202,
+      0
+    ],
+    "summary": "Alors que les frappes américaines se poursuivent en Iran, Téhéran évite, pour l’instant, une confrontation totale. Son calcul repose sur la menace de provoquer une perturbation énergétique mondiale pour contraindre Washington à revoir sa stratégie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les frappes américaines se poursuivent en Iran, Téhéran évite, pour l’instant, une confrontation totale. Son calcul repose sur la menace de provoquer une perturbation énergétique mondiale pour contraindre Washington à revoir sa stratégie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/0/0/3840/1920/644/322/60/0/6023bb4_upload-1-tfgml9g3kju5-mei202607197789.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un pont détruit par une frappe américaine à Bandar-e Abbas, dans le sud de l’Iran, le 17 juillet."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Morteza Akhoondi/MEIMAGES/MAXPPP"
+      }
+    ],
+    "credit": "Morteza Akhoondi/MEIMAGES/MAXPPP"
+  }
+}

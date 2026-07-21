@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T10:24:44.581245+00:00",
+  "_id": "c6a07df73193",
+  "brut": {
+    "title": "Copenhague, le nouveau laboratoire de la pop",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Copenhague, le nouveau laboratoire de la pop"
+    },
+    "published": "Tue, 21 Jul 2026 06:00:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      4,
+      0,
+      11,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 11:42:19 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      9,
+      42,
+      19,
+      1,
+      202,
+      0
+    ],
+    "summary": "Une nouvelle scène danoise, essentiellement féminine, propose depuis quelques années une pop alternative, minimaliste et sensuelle. Les musiciens, souvent formés au Conservatoire de la ville, exportent leur musique au-delà des frontières scandinaves.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une nouvelle scène danoise, essentiellement féminine, propose depuis quelques années une pop alternative, minimaliste et sensuelle. Les musiciens, souvent formés au Conservatoire de la ville, exportent leur musique au-delà des frontières scandinaves."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/07/21/copenhague-le-nouveau-laboratoire-de-la-pop_6728155_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/07/21/copenhague-le-nouveau-laboratoire-de-la-pop_6728155_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/07/21/copenhague-le-nouveau-laboratoire-de-la-pop_6728155_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/288/0/2000/1000/644/322/60/0/3ef36c8_upload-1-p2zan1anlgql-rmc-facade.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La façade du Conservatoire de musique rythmique (RMC) à Copenhague, en 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RMC"
+      }
+    ],
+    "credit": "RMC"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T10:24:44.769324+00:00",
+  "_id": "46cabbbadfa4",
+  "brut": {
+    "title": "Espagne : 26 000 hectares brûlés et des habitants évacués face à un incendie hors de contrôle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Espagne : 26 000 hectares brûlés et des habitants évacués face à un incendie hors de contrôle"
+    },
+    "summary": "En Espagne, les incendies continuent de ravager plusieurs régions. Dans le centre du pays, plus de 26 000 hectares ont brûlé en cinq jours, contraignant des centaines d’habitants à évacuer. Les fortes chaleurs, avec plus de 40 degrés attendus, compliquent les opérations des secours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, les incendies continuent de ravager plusieurs régions. Dans le centre du pays, plus de 26 000 hectares ont brûlé en cinq jours, contraignant des centaines d’habitants à évacuer. Les fortes chaleurs, avec plus de 40 degrés attendus, compliquent les opérations des secours."
+    },
+    "published": "Tue, 21 Jul 2026 10:48:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      8,
+      48,
+      15,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/espagne-26-000-hectares-brules-et-des-habitants-evacues-face-a-un-incendie-hors-de-controle_8116094.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2XI0twpjwZlIpYrujqqHW-hRvRs/0x21:845x497/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f31ad09143494975711.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/espagne-26-000-hectares-brules-et-des-habitants-evacues-face-a-un-incendie-hors-de-controle_8116094.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/espagne-26-000-hectares-brules-et-des-habitants-evacues-face-a-un-incendie-hors-de-controle_8116094.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

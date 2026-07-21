@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T10:24:44.769663+00:00",
+  "_id": "5323abf3300d",
+  "brut": {
+    "title": "Coupe du monde 2026 : les Espagnols accueillis en héros à Madrid",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Coupe du monde 2026 : les Espagnols accueillis en héros à Madrid"
+    },
+    "summary": "Les joueurs espagnols sont arrivés à Madrid après leur victoire à la Coupe du monde 2026. Ils ont présenté le trophée devant près d'un million de personnes, après avoir été reçus par le roi Felipe VI.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les joueurs espagnols sont arrivés à Madrid après leur victoire à la Coupe du monde 2026. Ils ont présenté le trophée devant près d'un million de personnes, après avoir été reçus par le roi Felipe VI."
+    },
+    "published": "Tue, 21 Jul 2026 10:07:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      8,
+      7,
+      16,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/coupe-du-monde-2026-les-espagnols-accueillis-en-heros-a-madrid_8116019.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/cGlio61mAE-FKYMLthMOJZHsL6Y/233x0:1464x692/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f24dc02910534939953.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/coupe-du-monde-2026-les-espagnols-accueillis-en-heros-a-madrid_8116019.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/coupe-du-monde-2026-les-espagnols-accueillis-en-heros-a-madrid_8116019.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

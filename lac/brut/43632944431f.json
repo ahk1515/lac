@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T10:24:44.580770+00:00",
+  "_id": "43632944431f",
+  "brut": {
+    "title": "Au Liban, l’armée se déploie dans les « zones pilotes » du sud du pays, première étape de l’accord avec Israël",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Liban, l’armée se déploie dans les « zones pilotes » du sud du pays, première étape de l’accord avec Israël"
+    },
+    "published": "Tue, 21 Jul 2026 09:31:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      7,
+      31,
+      14,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 09:56:53 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      7,
+      56,
+      53,
+      1,
+      202,
+      0
+    ],
+    "summary": "L’établissement de ces zones, parrainées par Washinghton et confiées à l’armée libanaise, est prévu par l’accord-cadre signé en juin par Israël et le Liban pour mettre fin à l’état de guerre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’établissement de ces zones, parrainées par Washinghton et confiées à l’armée libanaise, est prévu par l’accord-cadre signé en juin par Israël et le Liban pour mettre fin à l’état de guerre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/21/au-liban-l-armee-se-deploie-dans-les-zones-pilotes-du-sud_6728394_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/21/au-liban-l-armee-se-deploie-dans-les-zones-pilotes-du-sud_6728394_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/21/au-liban-l-armee-se-deploie-dans-les-zones-pilotes-du-sud_6728394_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/275/0/6000/3000/644/322/60/0/9207648_ftp-1-agg1c0xtnghw-17511c7f409942ecaf226577b37bc1a0-0-68702e2aff7a47a3861622b209f913c8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Checkpoint maintenu par l’armée libanaise dans le village de Froun, au sud du Liban, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammed Zaatari/AP Photo"
+      }
+    ],
+    "credit": "Mohammed Zaatari/AP Photo"
+  }
+}

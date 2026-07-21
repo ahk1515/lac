@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T10:24:44.770330+00:00",
+  "_id": "063607fcc088",
+  "brut": {
+    "title": "Pour quelles raisons le prix des carburants à la pompe repart-il à la hausse ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour quelles raisons le prix des carburants à la pompe repart-il à la hausse ?"
+    },
+    "summary": "Le litre de Super vient de repasser au-dessus de 2 euros en moyenne, idem pour le diesel. Ce qui fait craindre aux automobilistes une vraie reprise de la flambée des tarifs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le litre de Super vient de repasser au-dessus de 2 euros en moyenne, idem pour le diesel. Ce qui fait craindre aux automobilistes une vraie reprise de la flambée des tarifs."
+    },
+    "published": "Tue, 21 Jul 2026 09:34:29 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      7,
+      34,
+      29,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/pour-quelles-raisons-le-prix-des-carburants-a-la-pompe-repart-il-a-la-hausse_8086430.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/FJeAOjBuyZWGgPz4YFWU5GSSWwU/0x261:5000x3074/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f0d5d77d3a182374540.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/pour-quelles-raisons-le-prix-des-carburants-a-la-pompe-repart-il-a-la-hausse_8086430.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/pour-quelles-raisons-le-prix-des-carburants-a-la-pompe-repart-il-a-la-hausse_8086430.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

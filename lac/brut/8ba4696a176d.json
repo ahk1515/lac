@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T10:24:44.770643+00:00",
+  "_id": "8ba4696a176d",
+  "brut": {
+    "title": "Incendies en Espagne : 26 000 hectares partis en fumée au nord de Madrid",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendies en Espagne : 26 000 hectares partis en fumée au nord de Madrid"
+    },
+    "summary": "Espagne fait face à un feu d'une ampleur impressionnante. parti du village de la Mierla, s'est rapidement propagé jusqu'à atteindre le parc naturel de la Sierra Norte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Espagne fait face à un feu d'une ampleur impressionnante. parti du village de la Mierla, s'est rapidement propagé jusqu'à atteindre le parc naturel de la Sierra Norte."
+    },
+    "published": "Tue, 21 Jul 2026 09:18:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      7,
+      18,
+      6,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/incendie-en-espagne-26-000-hectares-partis-en-fumee-au-nord-de-madrid_8115953.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/BilGjL9VqERb9rcctpK2cClCtzU/181x0:1394x682/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f13a69501e028884945.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/incendie-en-espagne-26-000-hectares-partis-en-fumee-au-nord-de-madrid_8115953.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/incendie-en-espagne-26-000-hectares-partis-en-fumee-au-nord-de-madrid_8115953.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
