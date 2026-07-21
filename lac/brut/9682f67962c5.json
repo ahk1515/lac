@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T06:27:13.352466+00:00",
+  "_id": "9682f67962c5",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : enveloppe du FMI pour Kiev, cinq morts dans la région russe de Belgorod... Les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : enveloppe du FMI pour Kiev, cinq morts dans la région russe de Belgorod... Les dernières informations"
+    },
+    "published": "Tue, 21 Jul 2026 07:03:58 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      5,
+      3,
+      58,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 08:03:46 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      6,
+      3,
+      46,
+      1,
+      202,
+      0
+    ],
+    "summary": "Ce versement entre dans le cadre du programme de prêt du Fonds monétaire international, qui attend de l’Ukraine le maintien de sa stabilité économique et la poursuite de plusieurs réformes, notamment en matière de corruption, de fiscalité et de monnaie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce versement entre dans le cadre du programme de prêt du Fonds monétaire international, qui attend de l’Ukraine le maintien de sa stabilité économique et la poursuite de plusieurs réformes, notamment en matière de corruption, de fiscalité et de monnaie."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/11/385/0/2953/1476/644/322/60/0/5ec180e_upload-1-0pw0t8prghwq-2026-07-10-heg-ukraine-0069.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cratère formé par un missile balistique durant des bombardements russes qui ont causé la mort de 31 personnes, à Kiev, le 10 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Guillaume Herbaut pour « LE MONDE »"
+      }
+    ],
+    "credit": "Guillaume Herbaut pour « LE MONDE »"
+  }
+}

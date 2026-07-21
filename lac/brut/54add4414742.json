@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T06:27:13.353216+00:00",
+  "_id": "54add4414742",
+  "brut": {
+    "title": "Espagne : l’écho du silence (2/5)",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : l’écho du silence (2/5)"
+    },
+    "published": "Tue, 21 Jul 2026 05:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      3,
+      0,
+      10,
+      1,
+      202,
+      0
+    ],
+    "summary": "Dans ce deuxième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse au déroulé de la guerre d’Espagne et aux combats qui ont emporté son arrière-grand-père, mort en 1938, et dont elle cherche toujours la trace.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans ce deuxième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse au déroulé de la guerre d’Espagne et aux combats qui ont emporté son arrière-grand-père, mort en 1938, et dont elle cherche toujours la trace."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/07/21/espagne-l-echo-du-silence-2-5_6728084_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/07/21/espagne-l-echo-du-silence-2-5_6728084_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/07/21/espagne-l-echo-du-silence-2-5_6728084_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/236/0/3000/1500/644/322/60/0/a3a9e2a_upload-1-trfesor2dawk-carre.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Léa Girardot"
+      }
+    ],
+    "credit": "Léa Girardot"
+  }
+}

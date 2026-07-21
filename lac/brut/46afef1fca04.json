@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T06:27:13.491186+00:00",
+  "_id": "46afef1fca04",
+  "brut": {
+    "title": "Qui est Khalil al-Hayya, le nouveau chef politique du Hamas ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Qui est Khalil al-Hayya, le nouveau chef politique du Hamas ?"
+    },
+    "summary": "Élu à la tête du Hamas, Khalil al-Hayya succède à Yahya Sinouar. Négociateur du cessez-le-feu avec Israël, il hérite d'un mouvement décapité, isolé et aux marges de manœuvre très limitées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Élu à la tête du Hamas, Khalil al-Hayya succède à Yahya Sinouar. Négociateur du cessez-le-feu avec Israël, il hérite d'un mouvement décapité, isolé et aux marges de manœuvre très limitées."
+    },
+    "published": "Tue, 21 Jul 2026 07:31:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      5,
+      31,
+      21,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/qui-est-khalil-al-hayya-le-nouveau-chef-politique-du-hamas_8064602.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/k2NrnoTP8KGr5ZC48pT-5wUKgIc/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f032583c9e477340757.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/qui-est-khalil-al-hayya-le-nouveau-chef-politique-du-hamas_8064602.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/qui-est-khalil-al-hayya-le-nouveau-chef-politique-du-hamas_8064602.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

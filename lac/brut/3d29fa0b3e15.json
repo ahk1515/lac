@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T06:27:13.491698+00:00",
+  "_id": "3d29fa0b3e15",
+  "brut": {
+    "title": "Des Européens plus vieux et moins nombreux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des Européens plus vieux et moins nombreux"
+    },
+    "summary": "🇪🇺 👴🏼Nous vivons plus longtemps, avons moins d’enfants et la population vieillit. Conséquence : l'Union européenne s'apprête à entamer son déclin démographique. De 451,8 millions d'habitants en 2025, la population des Vingt-Sept pourrait chuter à moins de 400 millions d'ici 2100, selon les dernières projections.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇪🇺 👴🏼Nous vivons plus longtemps, avons moins d’enfants et la population vieillit. Conséquence : l'Union européenne s'apprête à entamer son déclin démographique. De 451,8 millions d'habitants en 2025, la population des Vingt-Sept pourrait chuter à moins de 400 millions d'ici 2100, selon les dernières projections."
+    },
+    "published": "Tue, 21 Jul 2026 06:00:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      4,
+      0,
+      4,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/union-europeenne/des-europeens-plus-vieux-et-moins-nombreux_8112107.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/csuUuFiGWwfvm5VSiAA16Z-tdx0/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/17/6a5a554c5247a322064631.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/des-europeens-plus-vieux-et-moins-nombreux_8112107.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/union-europeenne/des-europeens-plus-vieux-et-moins-nombreux_8112107.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
