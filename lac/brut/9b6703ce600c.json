@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T17:17:54.313938+00:00",
+  "_id": "9b6703ce600c",
+  "brut": {
+    "title": "L'Union Européenne supprime définitivement sa subvention pour la Biennale de Venise en raison de la présence russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Union Européenne supprime définitivement sa subvention pour la Biennale de Venise en raison de la présence russe"
+    },
+    "summary": "Cette dotation accordée à la plus grande manifestation d'art contemporain au monde devait s’élever à deux millions d’euros.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette dotation accordée à la plus grande manifestation d'art contemporain au monde devait s’élever à deux millions d’euros."
+    },
+    "published": "Tue, 21 Jul 2026 16:40:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      14,
+      40,
+      15,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/arts-expos/l-union-europeenne-supprime-definitivement-sa-subvention-pour-la-biennale-de-venise-en-raison-de-la-presence-russe_8116604.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yKODvhw96fOoN25LfddVEkdrmVs/0x243:4087x2542/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f8302452e9741307642.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/arts-expos/l-union-europeenne-supprime-definitivement-sa-subvention-pour-la-biennale-de-venise-en-raison-de-la-presence-russe_8116604.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/arts-expos/l-union-europeenne-supprime-definitivement-sa-subvention-pour-la-biennale-de-venise-en-raison-de-la-presence-russe_8116604.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

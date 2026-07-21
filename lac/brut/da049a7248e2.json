@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T17:17:54.204260+00:00",
+  "_id": "da049a7248e2",
+  "brut": {
+    "title": "El Mahdi Lyoubi, rappeur marocain emprisonné pour ses textes critiques envers la monarchie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "El Mahdi Lyoubi, rappeur marocain emprisonné pour ses textes critiques envers la monarchie"
+    },
+    "published": "Tue, 21 Jul 2026 16:00:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      14,
+      0,
+      4,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 16:34:59 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      14,
+      34,
+      59,
+      1,
+      202,
+      0
+    ],
+    "summary": "L’artiste, connu sous le nom de scène de Mehdi Black Wind et résident français, a été arrêté alors qu’il effectuait des repérages pour un documentaire. Il est poursuivi pour « outrage à une institution constitutionnelle ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’artiste, connu sous le nom de scène de Mehdi Black Wind et résident français, a été arrêté alors qu’il effectuait des repérages pour un documentaire. Il est poursuivi pour « outrage à une institution constitutionnelle »."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/21/el-mahdi-lyoubi-rappeur-marocain-emprisonne-pour-ses-textes-critiques-envers-la-monarchie_6728820_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/21/el-mahdi-lyoubi-rappeur-marocain-emprisonne-pour-ses-textes-critiques-envers-la-monarchie_6728820_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/21/el-mahdi-lyoubi-rappeur-marocain-emprisonne-pour-ses-textes-critiques-envers-la-monarchie_6728820_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/0/524/4072/2036/644/322/60/0/4bda375_upload-1-evgzwyuwzyet-capture-d-e-cran-2026-07-21-a-14-18-11.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le rappeur Mehdi Black Wind, de son vrai nom El Mahdi Lyoubi, sur une capture d’écran d’une de ses vidéos, publiée le 6 février 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BLACK WIND/YOUTUBE"
+      }
+    ],
+    "credit": "BLACK WIND/YOUTUBE"
+  }
+}

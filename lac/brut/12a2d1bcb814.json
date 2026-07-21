@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T17:17:54.202976+00:00",
+  "_id": "12a2d1bcb814",
+  "brut": {
+    "title": "Bande de Gaza : les secours recensent 12 personnes tuées par des bombardements israéliens, dont six membres d’une même famille",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bande de Gaza : les secours recensent 12 personnes tuées par des bombardements israéliens, dont six membres d’une même famille"
+    },
+    "published": "Tue, 21 Jul 2026 19:13:37 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      17,
+      13,
+      37,
+      1,
+      202,
+      0
+    ],
+    "summary": "Le Haut-Commissariat des Nations unies aux droits de l’homme a dénoncé, mardi, une récente « intensification » des attaques israéliennes dans la bande de Gaza, qui ont fait selon lui au moins 57 morts entre le 13 et le 20 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Haut-Commissariat des Nations unies aux droits de l’homme a dénoncé, mardi, une récente « intensification » des attaques israéliennes dans la bande de Gaza, qui ont fait selon lui au moins 57 morts entre le 13 et le 20 juillet."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/21/bande-de-gaza-les-secours-recensent-12-personnes-tuees-par-des-bombardements-israeliens-dont-six-membres-d-une-meme-famille_6729074_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/21/bande-de-gaza-les-secours-recensent-12-personnes-tuees-par-des-bombardements-israeliens-dont-six-membres-d-une-meme-famille_6729074_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/21/bande-de-gaza-les-secours-recensent-12-personnes-tuees-par-des-bombardements-israeliens-dont-six-membres-d-une-meme-famille_6729074_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/853/0/5472/2736/644/322/60/0/5bdeda5_ftp-1-u2xmlh4xli1z-2026-07-21t095756z-1163311390-rc28imay7z5n-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un proche transporte le corps de la petite Palestinienne Ameera Al-Masri, tuée avec ses parents et ses trois frères et sœurs lors d’un bombardement israélien sur leur appartement, à Gaza, le 21 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dawoud Abu Alkas/REUTERS"
+      }
+    ],
+    "credit": "Dawoud Abu Alkas/REUTERS"
+  }
+}

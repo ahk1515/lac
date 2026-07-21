@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T17:17:54.314408+00:00",
+  "_id": "d15f118ace7d",
+  "brut": {
+    "title": "Un doctorant iranien de l'université d'Orléans condamné en appel à de la prison ferme pour apologie du terrorisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un doctorant iranien de l'université d'Orléans condamné en appel à de la prison ferme pour apologie du terrorisme"
+    },
+    "summary": "Lors de sa soutenance, l'homme a notamment dédié sa thèse à l'ancien guide suprême iranien, Ali Khamenei.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Lors de sa soutenance, l'homme a notamment dédié sa thèse à l'ancien guide suprême iranien, Ali Khamenei."
+    },
+    "published": "Tue, 21 Jul 2026 15:57:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      13,
+      57,
+      18,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/un-doctorant-iranien-de-l-universite-d-orleans-condamne-en-appel-a-de-la-prison-ferme-pour-apologie-du-terrorisme_8116508.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ahosqnm2cUA07SbpKG8Z1cinviU/0x62:1200x737/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f7ab207180326175421.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/un-doctorant-iranien-de-l-universite-d-orleans-condamne-en-appel-a-de-la-prison-ferme-pour-apologie-du-terrorisme_8116508.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/un-doctorant-iranien-de-l-universite-d-orleans-condamne-en-appel-a-de-la-prison-ferme-pour-apologie-du-terrorisme_8116508.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
