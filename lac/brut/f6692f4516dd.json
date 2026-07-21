@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T13:46:53.220307+00:00",
+  "_id": "f6692f4516dd",
+  "brut": {
+    "title": "Israël en seconde ligne face à l’Iran, en pleine escalade entre Téhéran et Washington",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël en seconde ligne face à l’Iran, en pleine escalade entre Téhéran et Washington"
+    },
+    "published": "Tue, 21 Jul 2026 14:30:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      12,
+      30,
+      19,
+      1,
+      202,
+      0
+    ],
+    "summary": "Impliqué directement lors de la première phase de la guerre contre l’Iran, l’Etat hébreu se dit prêt à mener des actions « aussi bien défensives qu’offensives ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Impliqué directement lors de la première phase de la guerre contre l’Iran, l’Etat hébreu se dit prêt à mener des actions « aussi bien défensives qu’offensives »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/21/israel-en-seconde-ligne-face-a-l-iran-en-pleine-escalade-entre-teheran-et-washington_6728746_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/21/israel-en-seconde-ligne-face-a-l-iran-en-pleine-escalade-entre-teheran-et-washington_6728746_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/21/israel-en-seconde-ligne-face-a-l-iran-en-pleine-escalade-entre-teheran-et-washington_6728746_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/15/924/0/6160/3080/644/322/60/0/7d71468_upload-1-5o9psc98mxci-ll-tel-aviv-universite-02.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un soldat israélien parachutiste à Tel-Aviv, le 15 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUCIEN LUNG/RIVA PRESS POUR « LE MONDE »"
+      }
+    ],
+    "credit": "LUCIEN LUNG/RIVA PRESS POUR « LE MONDE »"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T13:46:53.219908+00:00",
+  "_id": "8314ecb1beec",
+  "brut": {
+    "title": "Attaque armée à Stade dans un centre d’accueil, en Allemagne : l’auteur s’est suicidé en prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attaque armée à Stade dans un centre d’accueil, en Allemagne : l’auteur s’est suicidé en prison"
+    },
+    "published": "Tue, 21 Jul 2026 15:29:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      13,
+      29,
+      8,
+      1,
+      202,
+      0
+    ],
+    "summary": "Le jour de l’attaque, à la fin du mois de juin, l’homme avait rendez-vous avec plusieurs des victimes afin de discuter de la garde de sa fille, qui se trouvait sur les lieux avec sa mère. Quatre femmes et deux hommes, des travailleurs sociaux chargés de la protection de l’enfance, ont été tués.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le jour de l’attaque, à la fin du mois de juin, l’homme avait rendez-vous avec plusieurs des victimes afin de discuter de la garde de sa fille, qui se trouvait sur les lieux avec sa mère. Quatre femmes et deux hommes, des travailleurs sociaux chargés de la protection de l’enfance, ont été tués."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/21/attaque-armee-a-stade-dans-un-centre-d-accueil-en-allemagne-l-auteur-s-est-suicide-en-prison_6728784_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/21/attaque-armee-a-stade-dans-un-centre-d-accueil-en-allemagne-l-auteur-s-est-suicide-en-prison_6728784_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/21/attaque-armee-a-stade-dans-un-centre-d-accueil-en-allemagne-l-auteur-s-est-suicide-en-prison_6728784_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/504/0/6048/3024/644/322/60/0/a1e92d5_ftp-1-f6hn7gz5xojp-2026-06-29t150246z-313028402-rc2q3mam3d7e-rtrmadp-3-germany-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les secouristes et les policiers à la suite d’une attaque armée dans un centre d’aide à la jeunesse de la ville de Stade, dans le nord de l’Allemagne, le 29 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jonas Walzberg / REUTERS"
+      }
+    ],
+    "credit": "Jonas Walzberg / REUTERS"
+  }
+}

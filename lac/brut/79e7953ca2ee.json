@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T13:46:53.523321+00:00",
+  "_id": "79e7953ca2ee",
+  "brut": {
+    "title": "L'incendie à 100 km de Madrid est \"l'un des plus complexes\" de l'histoire de l'Espagne, selon les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incendie à 100 km de Madrid est \"l'un des plus complexes\" de l'histoire de l'Espagne, selon les autorités"
+    },
+    "summary": "Ce feu est complexe car il s'est déclaré dans une zone presque vide de population, particulièrement aride avec énormément de broussailles laissées à l'abandon, facilitant sa propagation rapide.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce feu est complexe car il s'est déclaré dans une zone presque vide de population, particulièrement aride avec énormément de broussailles laissées à l'abandon, facilitant sa propagation rapide."
+    },
+    "published": "Tue, 21 Jul 2026 14:50:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      12,
+      50,
+      12,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-a-100-km-de-madrid-est-l-un-des-plus-complexes-de-l-histoire-de-l-espagne-selon-les-autorites_8116409.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2qW09UGfjfMtnj-jCsi6hXqJZaQ/0x14:1024x590/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5f67b608eb2614494327.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-a-100-km-de-madrid-est-l-un-des-plus-complexes-de-l-histoire-de-l-espagne-selon-les-autorites_8116409.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-a-100-km-de-madrid-est-l-un-des-plus-complexes-de-l-histoire-de-l-espagne-selon-les-autorites_8116409.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

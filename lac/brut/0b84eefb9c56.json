@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T13:46:53.220870+00:00",
+  "_id": "0b84eefb9c56",
+  "brut": {
+    "title": "Incendies en Espagne : 29 000 hectares brûlés au nord de Madrid ; le feu est « l’un des plus complexes » de l’histoire du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendies en Espagne : 29 000 hectares brûlés au nord de Madrid ; le feu est « l’un des plus complexes » de l’histoire du pays"
+    },
+    "published": "Tue, 21 Jul 2026 12:23:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      10,
+      23,
+      25,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 13:21:00 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      11,
+      21,
+      0,
+      1,
+      202,
+      0
+    ],
+    "summary": "Le feu de forêt, qui fait rage dans la province de Guadalajara, a mobilisé plus de 600 pompiers durant la nuit de lundi à mardi et continue de préoccuper les autorités alors que débute mardi une nouvelle vague de chaleur, favorisant les feux dévastateurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le feu de forêt, qui fait rage dans la province de Guadalajara, a mobilisé plus de 600 pompiers durant la nuit de lundi à mardi et continue de préoccuper les autorités alors que débute mardi une nouvelle vague de chaleur, favorisant les feux dévastateurs."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/21/incendies-en-espagne-29-000-hectares-brules-au-nord-de-madrid-le-feu-est-l-un-des-plus-complexes-de-l-histoire-du-pays_6728573_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/21/incendies-en-espagne-29-000-hectares-brules-au-nord-de-madrid-le-feu-est-l-un-des-plus-complexes-de-l-histoire-du-pays_6728573_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/21/incendies-en-espagne-29-000-hectares-brules-au-nord-de-madrid-le-feu-est-l-un-des-plus-complexes-de-l-histoire-du-pays_6728573_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/513/0/3490/1745/644/322/60/0/d654058_ftp-1-an6lbyg15wfn-5666889-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers luttant contre un feu de forêt à proximité d’habitations dans le secteur de La Mierla, près de Guadalajara, à une centaine de kilomètres au nord de Madrid."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service de prévention des incendies de Castille-La Manche (INFOCAM)/AFP"
+      }
+    ],
+    "credit": "Service de prévention des incendies de Castille-La Manche (INFOCAM)/AFP"
+  }
+}

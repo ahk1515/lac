@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T13:46:53.523086+00:00",
+  "_id": "b16783bdd60f",
+  "brut": {
+    "title": "Confrontation violente en mer de Chine méridionale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Confrontation violente en mer de Chine méridionale"
+    },
+    "summary": "Des heurts ont eu lieu en mer de Chine méridionale entre marins philippins et chinois, lundi 20 juillet. Les deux pays se rejettent la responsabilité de l’incident. Manille affirme qu’un de ses marins a été blessé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des heurts ont eu lieu en mer de Chine méridionale entre marins philippins et chinois, lundi 20 juillet. Les deux pays se rejettent la responsabilité de l’incident. Manille affirme qu’un de ses marins a été blessé."
+    },
+    "published": "Tue, 21 Jul 2026 15:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      13,
+      0,
+      1,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/confrontation-violente-en-mer-de-chine-meridionale_8116442.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/kw539iSBtRzxravYZ7YkrEO0O4Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/21/6a5f67610e948773867145.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/confrontation-violente-en-mer-de-chine-meridionale_8116442.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/confrontation-violente-en-mer-de-chine-meridionale_8116442.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

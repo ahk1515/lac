@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T13:46:53.219706+00:00",
+  "_id": "764f4573c0ff",
+  "brut": {
+    "title": "Une nouvelle espèce de singe identifiée dans le parc national de la Lomami, en République démocratique du Congo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une nouvelle espèce de singe identifiée dans le parc national de la Lomami, en République démocratique du Congo"
+    },
+    "published": "Tue, 21 Jul 2026 15:30:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      13,
+      30,
+      8,
+      1,
+      202,
+      0
+    ],
+    "summary": "Photographié pour la première fois en 2008, ce petit colobe aux lèvres rose orangé vient d’être officiellement décrit par une équipe internationale de chercheurs. Il pourrait être directement classé comme « en danger ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Photographié pour la première fois en 2008, ce petit colobe aux lèvres rose orangé vient d’être officiellement décrit par une équipe internationale de chercheurs. Il pourrait être directement classé comme « en danger »."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/21/une-nouvelle-espece-de-singe-identifiee-dans-le-parc-national-de-la-lomami-en-republique-democratique-du-congo_6728785_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/21/une-nouvelle-espece-de-singe-identifiee-dans-le-parc-national-de-la-lomami-en-republique-democratique-du-congo_6728785_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/21/une-nouvelle-espece-de-singe-identifiee-dans-le-parc-national-de-la-lomami-en-republique-democratique-du-congo_6728785_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/333/0/4000/2000/644/322/60/0/7f22d4f_upload-1-z6ynajiubly7-c-congoensis-frankfurt-zoological-society.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Deux « Colobus congoensis », ou « likwelis », détectés dans le parc national de la Lomami, en République démocratique du Congo, le 30 septembre 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Daniel Rosengren/Frankfurt Zoological Society"
+      }
+    ],
+    "credit": "Daniel Rosengren/Frankfurt Zoological Society"
+  }
+}
