@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T02:34:23.695303+00:00",
+  "_id": "9df974619140",
+  "brut": {
+    "title": "« Le pays est sous-coté » : en Ethiopie, les touristes de plus en plus nombreux, malgré l’insécurité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le pays est sous-coté » : en Ethiopie, les touristes de plus en plus nombreux, malgré l’insécurité"
+    },
+    "published": "Tue, 21 Jul 2026 03:00:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      1,
+      0,
+      4,
+      1,
+      202,
+      0
+    ],
+    "summary": "En neuf mois, le nombre de visiteurs étrangers dans le pays a bondi de 15 %, soit la croissance la plus forte du continent africain. Des chiffres savamment mis en avant par le gouvernement, qui a fait du secteur l’un des piliers de son économie malgré les dangers dans certaines régions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En neuf mois, le nombre de visiteurs étrangers dans le pays a bondi de 15 %, soit la croissance la plus forte du continent africain. Des chiffres savamment mis en avant par le gouvernement, qui a fait du secteur l’un des piliers de son économie malgré les dangers dans certaines régions."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/21/le-pays-est-sous-cote-en-ethiopie-les-touristes-de-plus-en-plus-nombreux-malgre-l-insecurite_6728017_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/21/le-pays-est-sous-cote-en-ethiopie-les-touristes-de-plus-en-plus-nombreux-malgre-l-insecurite_6728017_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/21/le-pays-est-sous-cote-en-ethiopie-les-touristes-de-plus-en-plus-nombreux-malgre-l-insecurite_6728017_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/668/0/4000/2000/644/322/60/0/7800db9_upload-1-mjdtqghjevef-000-34mn9jh.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vers un canyon de sel, près de Dallol (Ethiopie), dans la dépression de Danakil, en région d’Afar, le 24 mars 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MICHELE SPATARI/AFP"
+      }
+    ],
+    "credit": "MICHELE SPATARI/AFP"
+  }
+}

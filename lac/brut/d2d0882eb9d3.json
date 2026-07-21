@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T02:34:23.847190+00:00",
+  "_id": "d2d0882eb9d3",
+  "brut": {
+    "title": "Guerre en Ukraine : au moins 14 personnes sont mortes lundi dans des frappes russes et ukrainiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : au moins 14 personnes sont mortes lundi dans des frappes russes et ukrainiennes"
+    },
+    "summary": "Des bombardements ukrainiens ont fait au moins six morts dans la région russe de Belgorod, tandis qu'au moins huit personnes ont été tuées en Ukraine par plusieurs frappes russes, selon les autorités locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des bombardements ukrainiens ont fait au moins six morts dans la région russe de Belgorod, tandis qu'au moins huit personnes ont été tuées en Ukraine par plusieurs frappes russes, selon les autorités locales."
+    },
+    "published": "Mon, 20 Jul 2026 23:13:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      21,
+      13,
+      18,
+      0,
+      201,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/EHJpuSWQBERO2PJ89XPGBaMdWgA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e8f2fd9e02846661353.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
