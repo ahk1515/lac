@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T21:08:05.410852+00:00",
+  "_id": "75ea80741de1",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée, Oleksandr Syrsky",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée, Oleksandr Syrsky"
+    },
+    "published": "Tue, 21 Jul 2026 20:12:28 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      18,
+      12,
+      28,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 22:09:57 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      20,
+      9,
+      57,
+      1,
+      202,
+      0
+    ],
+    "summary": "Plusieurs jours de manifestations de grande ampleur à Kiev et dans d’autres villes du pays avaient réclamé la démission de M. Syrsky, à qui ses détracteurs reprochent de faire peu de cas des pertes humaines. Il est remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapatiï.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs jours de manifestations de grande ampleur à Kiev et dans d’autres villes du pays avaient réclamé la démission de M. Syrsky, à qui ses détracteurs reprochent de faire peu de cas des pertes humaines. Il est remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapatiï."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/178/0/2138/1069/644/322/60/0/26e5948_ftp-1-bxse4szum1w8-5676527-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette photographie, prise et diffusée par le service de presse de la présidence ukrainienne le 4 octobre 2024, montre le commandant en chef des forces armées ukrainiennes, Oleksandr Syrsky, en visite auprès de la 82e brigade d’assaut aéroporté dans un lieu tenu secret de la région de Soumy."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HANDOUT / AFP"
+      }
+    ],
+    "credit": "HANDOUT / AFP"
+  }
+}

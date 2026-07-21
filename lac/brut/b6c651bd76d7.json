@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T21:08:05.635628+00:00",
+  "_id": "b6c651bd76d7",
+  "brut": {
+    "title": "L'échelle du ciel : \"C'est comme marcher dans les nuages\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'échelle du ciel : \"C'est comme marcher dans les nuages\""
+    },
+    "summary": "Une échelle tendue entre deux falaises dans le ciel de Chine à plus de 1000 m d'altitude. Une promenade dans le ciel de Zhangjiajie  riche en sensations fortes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une échelle tendue entre deux falaises dans le ciel de Chine à plus de 1000 m d'altitude. Une promenade dans le ciel de Zhangjiajie  riche en sensations fortes."
+    },
+    "published": "Tue, 21 Jul 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      20,
+      0,
+      1,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/l-echelle-du-ciel-c-est-comme-marcher-dans-les-nuages_8116763.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/pmWjphtW0eKWf7cxgmgoqXDi1og/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/21/6a5f9678ead7d805234447.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/l-echelle-du-ciel-c-est-comme-marcher-dans-les-nuages_8116763.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/l-echelle-du-ciel-c-est-comme-marcher-dans-les-nuages_8116763.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

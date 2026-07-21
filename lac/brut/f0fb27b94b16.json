@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-21T21:08:05.411377+00:00",
+  "_id": "f0fb27b94b16",
+  "brut": {
+    "title": "Donald Trump annonce la reprise des vols directs vers le Liban après sa rencontre avec le président Joseph Aoun",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump annonce la reprise des vols directs vers le Liban après sa rencontre avec le président Joseph Aoun"
+    },
+    "published": "Tue, 21 Jul 2026 19:30:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      17,
+      30,
+      30,
+      1,
+      202,
+      0
+    ],
+    "updated": "Tue, 21 Jul 2026 22:55:06 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      20,
+      55,
+      6,
+      1,
+      202,
+      0
+    ],
+    "summary": "La visite de Joseph Aoun est la première d’un président libanais à Washington depuis 2009, au moment où un accord avec Israël, parrainé par les Etats-Unis, entre dans sa première phase. Dans le bureau Ovale, M. Aoun a appelé Donald Trump à « continuer de soutenir » l’armée libanaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La visite de Joseph Aoun est la première d’un président libanais à Washington depuis 2009, au moment où un accord avec Israël, parrainé par les Etats-Unis, entre dans sa première phase. Dans le bureau Ovale, M. Aoun a appelé Donald Trump à « continuer de soutenir » l’armée libanaise."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-promet-de-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun_6729108_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-promet-de-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun_6729108_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-promet-de-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun_6729108_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/488/0/5860/2930/644/322/60/0/2ba4d83_ftp-1-b2cfebjofvfi-19c582dc357d4969893ff4ee2597ac1f-0-6076e676076a41348b56e957001f72b2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président des Etats-Unis, Donald Trump (à droite), s’entretient avec le président du Liban, Joseph Aoun, dans le bureau Ovale de la Maison Blanche, à Washington, le 21 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mark Schiefelbein / AP Photo/Mark Schiefelbein"
+      }
+    ],
+    "credit": "Mark Schiefelbein / AP Photo/Mark Schiefelbein"
+  }
+}

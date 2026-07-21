@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-21T21:08:05.635487+00:00",
+  "_id": "ecd59d39212c",
+  "brut": {
+    "title": "Le naufrage d'un bateau au Guyana a fait au moins 41 morts, selon un nouveau bilan des autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le naufrage d'un bateau au Guyana a fait au moins 41 morts, selon un nouveau bilan des autorités"
+    },
+    "summary": "Parti dans la nuit de samedi à dimanche de la capitale Georgetown avec au moins 133 personnes à son bord, le ferry \"MV Barima\" a été renversé par une grosse vague dans la nuit de samedi à dimanche. Un précédent bilan lundi faisait état de 27 morts et 83 disparus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Parti dans la nuit de samedi à dimanche de la capitale Georgetown avec au moins 133 personnes à son bord, le ferry \"MV Barima\" a été renversé par une grosse vague dans la nuit de samedi à dimanche. Un précédent bilan lundi faisait état de 27 morts et 83 disparus."
+    },
+    "published": "Tue, 21 Jul 2026 22:17:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      20,
+      17,
+      16,
+      1,
+      202,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/tskekgEpb0ir1yYyzrZAYsJ5SoI/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5fd38a8ffcc665759399.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
