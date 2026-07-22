@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T02:33:07.967107+00:00",
+  "_id": "7e9f15209d1c",
+  "brut": {
+    "title": "Au Mexique, la « fabrication de coupables » par les autorités policières et judiciaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mexique, la « fabrication de coupables » par les autorités policières et judiciaires"
+    },
+    "published": "Wed, 22 Jul 2026 03:00:09 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      1,
+      0,
+      9,
+      2,
+      203,
+      0
+    ],
+    "summary": "A l’image des victimes de l’affaire Wallace, de nombreux innocents peuplent les prisons du pays, la police et la justice utilisant encore couramment la torture et les sévices sexuels pour obtenir des aveux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A l’image des victimes de l’affaire Wallace, de nombreux innocents peuplent les prisons du pays, la police et la justice utilisant encore couramment la torture et les sévices sexuels pour obtenir des aveux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/22/au-mexique-la-fabrication-de-coupables-par-les-autorites-policieres-et-judiciaires_6729480_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/au-mexique-la-fabrication-de-coupables-par-les-autorites-policieres-et-judiciaires_6729480_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/22/au-mexique-la-fabrication-de-coupables-par-les-autorites-policieres-et-judiciaires_6729480_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/265/0/3348/1674/644/322/60/0/8524188_upload-1-ec4wunr33xg2-ap060329024370.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une affiche est installée avec les portraits de Brenda Quevedo Cruz et Jacobo Tagle Dobin suspectés du kidnapping d’Hugo Alberto Wallace, à Mexico, le 29 mars 2006."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EDUARDO VERDUGO/AP"
+      }
+    ],
+    "credit": "EDUARDO VERDUGO/AP"
+  }
+}

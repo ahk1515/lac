@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T02:33:07.967495+00:00",
+  "_id": "ee89fa22389a",
+  "brut": {
+    "title": "Naufrage d’un ferry au Guyana : le bilan toujours provisoire réévalué à 53 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Naufrage d’un ferry au Guyana : le bilan toujours provisoire réévalué à 53 morts"
+    },
+    "published": "Wed, 22 Jul 2026 01:35:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      21,
+      23,
+      35,
+      1,
+      1,
+      202,
+      0
+    ],
+    "updated": "Wed, 22 Jul 2026 01:50:01 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      21,
+      23,
+      50,
+      1,
+      1,
+      202,
+      0
+    ],
+    "summary": "Des pêcheurs locaux associés à des plongeurs militaires français poursuivent les recherches, alors que le nombre de passagers à bord du « MV Barima » est estimé par le premier ministre à 179.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des pêcheurs locaux associés à des plongeurs militaires français poursuivent les recherches, alors que le nombre de passagers à bord du « MV Barima » est estimé par le premier ministre à 179."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/22/naufrage-d-un-ferry-au-guyana-le-bilan-toujours-provisoire-reevalue-a-53-morts_6729413_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/naufrage-d-un-ferry-au-guyana-le-bilan-toujours-provisoire-reevalue-a-53-morts_6729413_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/22/naufrage-d-un-ferry-au-guyana-le-bilan-toujours-provisoire-reevalue-a-53-morts_6729413_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/95/0/1280/640/644/322/60/0/c818a0b_ftp-1-jrs8bnbugm5c-2026-07-20t202034z-90829346-rc2uhma23541-rtrmadp-3-guyana-ferry.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des familles de victimes et de disparus du ferry « MV Barima » à Mabaruma (Guyana), le 20 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bureau de la présidence du Guyana via REUTERS"
+      }
+    ],
+    "credit": "Bureau de la présidence du Guyana via REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T02:33:07.966659+00:00",
+  "_id": "2b60b3dabdac",
+  "brut": {
+    "title": "Nicaragua : Daniel Ortega annule les prochaines élections, Washington dénonce une dérive autoritaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Nicaragua : Daniel Ortega annule les prochaines élections, Washington dénonce une dérive autoritaire"
+    },
+    "published": "Wed, 22 Jul 2026 04:00:28 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      2,
+      0,
+      28,
+      2,
+      203,
+      0
+    ],
+    "updated": "Wed, 22 Jul 2026 04:13:13 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      22,
+      2,
+      13,
+      13,
+      2,
+      203,
+      0
+    ],
+    "summary": "Face au refus du coprésident de ce pays d’Amérique centrale d’organiser le scrutin prévu en 2027, le Secrétariat d’Etat américain hausse le ton.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Face au refus du coprésident de ce pays d’Amérique centrale d’organiser le scrutin prévu en 2027, le Secrétariat d’Etat américain hausse le ton."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/22/nicaragua-daniel-ortega-annule-les-prochaines-elections-washington-denonce-une-derive-autoritaire_6729579_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/nicaragua-daniel-ortega-annule-les-prochaines-elections-washington-denonce-une-derive-autoritaire_6729579_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/22/nicaragua-daniel-ortega-annule-les-prochaines-elections-washington-denonce-une-derive-autoritaire_6729579_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/30/0/1133/566/644/322/60/0/ebae382_ftp-1-2rgttab13jid-5665201-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une photographie mise à disposition par El 19 Digital, le média officiel du gouvernement, montre le président nicaraguayen, Daniel Ortega, lors d’un événement célébrant le 47ᵉ anniversaire de la révolution nicaraguayenne, à Managua, le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CESAR PEREZ/EL 19 DIGITA via AFP"
+      }
+    ],
+    "credit": "CESAR PEREZ/EL 19 DIGITA via AFP"
+  }
+}

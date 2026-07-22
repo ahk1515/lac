@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T02:33:07.967312+00:00",
+  "_id": "1e07fddd4a6c",
+  "brut": {
+    "title": "Cuba : un cargo d’aide humanitaire envoyé par Washinton, qui maintient sa pression sur le régime",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cuba : un cargo d’aide humanitaire envoyé par Washinton, qui maintient sa pression sur le régime"
+    },
+    "published": "Wed, 22 Jul 2026 02:45:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      0,
+      45,
+      30,
+      2,
+      203,
+      0
+    ],
+    "updated": "Wed, 22 Jul 2026 03:15:17 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      22,
+      1,
+      15,
+      17,
+      2,
+      203,
+      0
+    ],
+    "summary": "Cette première tranche d’aide, qui contient des denrées alimentaires et des kits d’hygiène, faite en partenariat avec une organisation caritative américaine, avait été proposée en novembre 2025 après le passage dévastateur de l’ouragan Melissa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette première tranche d’aide, qui contient des denrées alimentaires et des kits d’hygiène, faite en partenariat avec une organisation caritative américaine, avait été proposée en novembre 2025 après le passage dévastateur de l’ouragan Melissa."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/22/cuba-un-cargo-d-aide-humanitaire-envoye-par-washinton-qui-maintient-sa-pression-sur-le-regime_6729479_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/cuba-un-cargo-d-aide-humanitaire-envoye-par-washinton-qui-maintient-sa-pression-sur-le-regime_6729479_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/22/cuba-un-cargo-d-aide-humanitaire-envoye-par-washinton-qui-maintient-sa-pression-sur-le-regime_6729479_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/756/0/4536/2268/644/322/60/0/6251c67_ftp-1-6bpk0uhimyth-eed408fed4c9498ebc1d377723731dca-0-d1b9c744a6374689908b16df79a5622e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "De la nourriture et des produits de première nécessité sont chargés à bord d’un avion à destination de Cuba, à Miami (Floride), le 21 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Lynne Sladky/AP"
+      }
+    ],
+    "credit": "Lynne Sladky/AP"
+  }
+}
