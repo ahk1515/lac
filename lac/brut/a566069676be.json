@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T21:05:50.681820+00:00",
+  "_id": "a566069676be",
+  "brut": {
+    "title": "L’Italie à nouveau secouée par des violences policières",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Italie à nouveau secouée par des violences policières"
+    },
+    "published": "Wed, 22 Jul 2026 20:19:59 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      18,
+      19,
+      59,
+      2,
+      203,
+      0
+    ],
+    "summary": "La mort d’Abderrahim Fakir, un quadragénaire d’origine marocaine, dimanche à Bologne a suscité une vague d’indignation dans le pays. Les images de son agonie filmée par un voisin ont envahi les écrans au cours des vingt-quatre heures qui ont suivi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mort d’Abderrahim Fakir, un quadragénaire d’origine marocaine, dimanche à Bologne a suscité une vague d’indignation dans le pays. Les images de son agonie filmée par un voisin ont envahi les écrans au cours des vingt-quatre heures qui ont suivi."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/22/l-italie-a-nouveau-secouee-par-des-violences-policieres_6730068_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/22/l-italie-a-nouveau-secouee-par-des-violences-policieres_6730068_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/22/l-italie-a-nouveau-secouee-par-des-violences-policieres_6730068_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/242/0/2909/1454/644/322/60/0/e6e42bc_ftp-1-iwh4fdh3pas6-2026-07-22t103429z-919063889-rc2thmam2pk2-rtrmadp-3-italy-police-death-morocco.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MICHELE LAPINI / REUTERS"
+      }
+    ],
+    "credit": "MICHELE LAPINI / REUTERS"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T21:05:50.681431+00:00",
+  "_id": "bf2a01ab89db",
+  "brut": {
+    "title": "La Maison Blanche accuse la start-up chinoise Moonshot et sa nouvelle IA de pointe d’avoir pillé Anthropic",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Maison Blanche accuse la start-up chinoise Moonshot et sa nouvelle IA de pointe d’avoir pillé Anthropic"
+    },
+    "published": "Wed, 22 Jul 2026 20:38:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      18,
+      38,
+      46,
+      2,
+      203,
+      0
+    ],
+    "summary": "« C’est une atteinte à toute économie qui valorise l’esprit d’entreprise, récompense le capital privé et repose sur une concurrence loyale et honnête », a dénoncé Jacob Helberg, le sous-secrétaire d’Etat américain aux affaires économiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« C’est une atteinte à toute économie qui valorise l’esprit d’entreprise, récompense le capital privé et repose sur une concurrence loyale et honnête », a dénoncé Jacob Helberg, le sous-secrétaire d’Etat américain aux affaires économiques."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/07/22/la-maison-blanche-accuse-la-start-up-chinoise-moonshot-et-sa-nouvelle-ia-de-pointe-d-avoir-pille-anthropic_6730070_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/22/la-maison-blanche-accuse-la-start-up-chinoise-moonshot-et-sa-nouvelle-ia-de-pointe-d-avoir-pille-anthropic_6730070_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/07/22/la-maison-blanche-accuse-la-start-up-chinoise-moonshot-et-sa-nouvelle-ia-de-pointe-d-avoir-pille-anthropic_6730070_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/516/0/6192/3096/644/322/60/0/f7ff0bb_ftp-1-s5scplah9m7u-5650032-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un stand de la start-up Moonshot présentant son dernier modèle, Kimi K3, à Shanghaï (Chine), le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HECTOR RETAMAL / AFP"
+      }
+    ],
+    "credit": "HECTOR RETAMAL / AFP"
+  }
+}
