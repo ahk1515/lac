@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-22T13:50:27.431883+00:00",
+  "_id": "d78aa45b206a",
+  "brut": {
+    "title": "Qui est El Mahdi Lyoubi, le rappeur détenu depuis dix jours au Maroc ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Qui est El Mahdi Lyoubi, le rappeur détenu depuis dix jours au Maroc ?"
+    },
+    "summary": "Le réalisateur et musicien, connu sous le nom de scène de Mehdi Black Wind, est emprisonné depuis dix jours à Casablanca. Il est entendu mercredi par la justice marocaine. Près de 700 personnalités du monde culturel et universitaire signent une tribune pour sa libération.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le réalisateur et musicien, connu sous le nom de scène de Mehdi Black Wind, est emprisonné depuis dix jours à Casablanca. Il est entendu mercredi par la justice marocaine. Près de 700 personnalités du monde culturel et universitaire signent une tribune pour sa libération."
+    },
+    "published": "Wed, 22 Jul 2026 12:40:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      10,
+      40,
+      40,
+      2,
+      203,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/musique/rap/qui-est-el-mahdi-lyoubi-le-rappeur-detenu-depuis-dix-jours-au-maroc_8117798.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VyFFl1jmAjAtn5cXmuHsku04vzo/0x0:1243x699/432x243/filters:format(jpg):quality(50)/2026/07/22/6a609d9fe5e38244979070.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/musique/rap/qui-est-el-mahdi-lyoubi-le-rappeur-detenu-depuis-dix-jours-au-maroc_8117798.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/musique/rap/qui-est-el-mahdi-lyoubi-le-rappeur-detenu-depuis-dix-jours-au-maroc_8117798.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

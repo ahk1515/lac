@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-22T13:50:27.431967+00:00",
+  "_id": "65429c0d272a",
+  "brut": {
+    "title": "À 100km de Madrid, un feu historique a ravagé 30 000 hectares",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À 100km de Madrid, un feu historique a ravagé 30 000 hectares"
+    },
+    "summary": "600 pompiers et militaires ont été mobilisés pour venir à bout de ce feu complexe qui s’est déclenché le 16 juillet dans une zone aride, à une centaine de kilomètres au nord de Madrid.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "600 pompiers et militaires ont été mobilisés pour venir à bout de ce feu complexe qui s’est déclenché le 16 juillet dans une zone aride, à une centaine de kilomètres au nord de Madrid."
+    },
+    "published": "Wed, 22 Jul 2026 12:22:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      10,
+      22,
+      36,
+      2,
+      203,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/a-100km-de-madrid-un-feu-historique-a-ravage-30-000-hectares_8117801.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/WsV86Mrl1uVyA0pVCHaADpV_CbQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/22/6a6098ba7cf5c176314754.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/a-100km-de-madrid-un-feu-historique-a-ravage-30-000-hectares_8117801.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/a-100km-de-madrid-un-feu-historique-a-ravage-30-000-hectares_8117801.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

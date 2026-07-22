@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T13:50:27.204744+00:00",
+  "_id": "49c95b26be8a",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : les gardiens de la révolution revendiquent des attaques sur des bases militaires en Jordanie ; l’armée bahreïnie déclare avoir repoussé « plusieurs attaques iraniennes »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : les gardiens de la révolution revendiquent des attaques sur des bases militaires en Jordanie ; l’armée bahreïnie déclare avoir repoussé « plusieurs attaques iraniennes »"
+    },
+    "published": "Wed, 22 Jul 2026 13:38:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      11,
+      38,
+      2,
+      2,
+      203,
+      0
+    ],
+    "updated": "Wed, 22 Jul 2026 15:00:54 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      22,
+      13,
+      0,
+      54,
+      2,
+      203,
+      0
+    ],
+    "summary": "Un média iranien a par ailleurs fait état d’une frappe américaine sur l’île de Larak, dans le détroit d’Ormuz.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un média iranien a par ailleurs fait état d’une frappe américaine sur l’île de Larak, dans le détroit d’Ormuz."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-denonce-les-attaques-repetees-et-les-menaces-des-etats-unis-contre-ses-installations-nucleaires-civiles_6725301_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-denonce-les-attaques-repetees-et-les-menaces-des-etats-unis-contre-ses-installations-nucleaires-civiles_6725301_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-denonce-les-attaques-repetees-et-les-menaces-des-etats-unis-contre-ses-installations-nucleaires-civiles_6725301_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/563/0/3378/1689/644/322/60/0/727fdf3_ftp-1-w20qefj2nkqn-2026-07-22t091733z-1315997827-rc2vimao11x4-rtrmadp-3-iran-crisis-israel-eilat.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "De la fumée s’élève après l’interception de six missiles iraniens selon les médias d’État jordaniens, vue depuis Eilat (Israël), le 22 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Limor Hevroni/REUTERS"
+      }
+    ],
+    "credit": "Limor Hevroni/REUTERS"
+  }
+}
