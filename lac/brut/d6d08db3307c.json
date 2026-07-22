@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T06:26:58.020883+00:00",
+  "_id": "d6d08db3307c",
+  "brut": {
+    "title": "Le lancement des zones pilotes dans le sud du Liban, premier test de l’accord-cadre avec Israël",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le lancement des zones pilotes dans le sud du Liban, premier test de l’accord-cadre avec Israël"
+    },
+    "published": "Wed, 22 Jul 2026 08:08:39 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      6,
+      8,
+      39,
+      2,
+      203,
+      0
+    ],
+    "summary": "Le retrait israélien de la localité de Zaoutar Al-Gharbiyyé et le déploiement de l’armée libanaise coïncident avec la rencontre à la Maison Blanche entre le président américain Donald Trump et son homologue libanais, Joseph Aoun, mardi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le retrait israélien de la localité de Zaoutar Al-Gharbiyyé et le déploiement de l’armée libanaise coïncident avec la rencontre à la Maison Blanche entre le président américain Donald Trump et son homologue libanais, Joseph Aoun, mardi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/22/le-lancement-des-zones-pilotes-dans-le-sud-du-liban-premier-test-de-l-accord-cadre-avec-israel_6729988_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/le-lancement-des-zones-pilotes-dans-le-sud-du-liban-premier-test-de-l-accord-cadre-avec-israel_6729988_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/22/le-lancement-des-zones-pilotes-dans-le-sud-du-liban-premier-test-de-l-accord-cadre-avec-israel_6729988_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/300/0/3600/1800/644/322/60/0/175d798_ftp-1-83vmv0bnvjte-5674644-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats de l’armée libanaise tiennent un check-point à l’entrée du village de Srifa, dans le sud du Liban, le 21 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FADEL ITANI / AFP"
+      }
+    ],
+    "credit": "FADEL ITANI / AFP"
+  }
+}

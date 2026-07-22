@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T06:26:58.021131+00:00",
+  "_id": "6165e2083dd6",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce un remaniement à la tête de l’armée ukrainienne après plusieurs jours de manifestations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce un remaniement à la tête de l’armée ukrainienne après plusieurs jours de manifestations"
+    },
+    "published": "Wed, 22 Jul 2026 06:51:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      4,
+      51,
+      6,
+      2,
+      203,
+      0
+    ],
+    "updated": "Wed, 22 Jul 2026 07:12:00 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      22,
+      5,
+      12,
+      0,
+      2,
+      203,
+      0
+    ],
+    "summary": "Les manifestants réclamaient le départ d’Oleksandr Syrsky, commandant en chef de l’armée, qui a été acté mardi soir par le président ukrainien. Il est remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapaty.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les manifestants réclamaient le départ d’Oleksandr Syrsky, commandant en chef de l’armée, qui a été acté mardi soir par le président ukrainien. Il est remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapaty."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/240/616/1360/680/644/322/60/0/992f22b_ftp-1-tdxnqdijicbm-56532e4f9daf4544bb7cca264295bb91-0-8a490e59c26d4d50b2a61f67df231dd6.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une photographie mise à disposition par l’organe de presse de la présidence ukrainienne, et datée du 20 juillet 2026, montre le président ukrainien, Volodymyr Zelensky, serrant la main du nouveau commandant en chef de l’armée, Mykhaïlo Drapaty, à Kiev."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bureau de presse de la présidence ukrainienne via AP"
+      }
+    ],
+    "credit": "Bureau de presse de la présidence ukrainienne via AP"
+  }
+}

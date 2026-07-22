@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T06:26:58.022078+00:00",
+  "_id": "c1cc8307ab06",
+  "brut": {
+    "title": "Espagne : l’écho du silence (3/5)",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : l’écho du silence (3/5)"
+    },
+    "published": "Wed, 22 Jul 2026 05:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      3,
+      0,
+      10,
+      2,
+      203,
+      0
+    ],
+    "summary": "Dans ce troisième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse à l’exil massif des réfugiés espagnols à la fin de la guerre d’Espagne, et aux conditions drastiques d’accueil dans des camps en France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans ce troisième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse à l’exil massif des réfugiés espagnols à la fin de la guerre d’Espagne, et aux conditions drastiques d’accueil dans des camps en France."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/07/22/espagne-l-echo-du-silence-3-5_6729646_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/07/22/espagne-l-echo-du-silence-3-5_6729646_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/07/22/espagne-l-echo-du-silence-3-5_6729646_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/236/0/3000/1500/644/322/60/0/a3a9e2a_upload-1-trfesor2dawk-carre.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Léa Girardot"
+      }
+    ],
+    "credit": "Léa Girardot"
+  }
+}
