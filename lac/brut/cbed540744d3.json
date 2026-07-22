@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-22T10:24:10.527136+00:00",
+  "_id": "cbed540744d3",
+  "brut": {
+    "title": "La maison de naissance d'Adolf Hitler en Autriche accueille désormais un commissariat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La maison de naissance d'Adolf Hitler en Autriche accueille désormais un commissariat"
+    },
+    "summary": "En la transformant en poste de police, le gouvernement autrichien espère éviter qu'elle ne devienne un lieu de pèlerinage néonazi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En la transformant en poste de police, le gouvernement autrichien espère éviter qu'elle ne devienne un lieu de pèlerinage néonazi."
+    },
+    "published": "Wed, 22 Jul 2026 09:31:28 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      7,
+      31,
+      28,
+      2,
+      203,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-maison-de-naissance-d-adolf-hitler-en-autriche-accueille-desormais-un-commissariat_8117486.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qw5-ArTC-Lty28nt5y7hGDmO6IM/0x37:1024x613/432x243/filters:format(jpg):quality(50)/2026/07/22/6a6065ce5b029712505292.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-maison-de-naissance-d-adolf-hitler-en-autriche-accueille-desormais-un-commissariat_8117486.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-maison-de-naissance-d-adolf-hitler-en-autriche-accueille-desormais-un-commissariat_8117486.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

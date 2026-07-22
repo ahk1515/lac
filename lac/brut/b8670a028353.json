@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-22T10:24:10.527304+00:00",
+  "_id": "b8670a028353",
+  "brut": {
+    "title": "Microsoft mise sur la puissance de calcul de Mistral pour répondre à l'explosion de l'IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Microsoft mise sur la puissance de calcul de Mistral pour répondre à l'explosion de l'IA"
+    },
+    "summary": "Le champion français de l'Intelligence Artificielle, le groupe Mistral, signe avec Microsoft un contrat de plusieurs milliards de dollars. Historique pour la jeune entreprise encore inconnue du grand public il y a trois ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le champion français de l'Intelligence Artificielle, le groupe Mistral, signe avec Microsoft un contrat de plusieurs milliards de dollars. Historique pour la jeune entreprise encore inconnue du grand public il y a trois ans."
+    },
+    "published": "Wed, 22 Jul 2026 09:22:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      7,
+      22,
+      44,
+      2,
+      203,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/microsoft-mise-sur-la-puissance-de-calcul-de-mistral-pour-repondre-a-l-explosion-de-l-ia_8088098.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/RoRDf0CY2LBU6bjftMK0BWMSaMA/0x253:3508x2227/432x243/filters:format(jpg):quality(50)/2026/07/22/6a606c5e929a0888589794.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/microsoft-mise-sur-la-puissance-de-calcul-de-mistral-pour-repondre-a-l-explosion-de-l-ia_8088098.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/microsoft-mise-sur-la-puissance-de-calcul-de-mistral-pour-repondre-a-l-explosion-de-l-ia_8088098.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
