@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T17:17:45.411012+00:00",
+  "_id": "83695fb98211",
+  "brut": {
+    "title": "En Algérie, le « scandale des moutons » de l’Aïd embarrasse le pouvoir",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Algérie, le « scandale des moutons » de l’Aïd embarrasse le pouvoir"
+    },
+    "published": "Wed, 22 Jul 2026 17:00:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      0,
+      8,
+      2,
+      203,
+      0
+    ],
+    "updated": "Wed, 22 Jul 2026 17:47:22 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      47,
+      22,
+      2,
+      203,
+      0
+    ],
+    "summary": "Afin d’enrayer la flambée des prix avant la « fête du sacrifice », plus de 1 million d’ovins ont été importés dans le pays. Mais cette opération d’envergure, voulue par le président Abdelmadjid Tebboune, se retrouve au cœur d’un vaste scandale judiciaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Afin d’enrayer la flambée des prix avant la « fête du sacrifice », plus de 1 million d’ovins ont été importés dans le pays. Mais cette opération d’envergure, voulue par le président Abdelmadjid Tebboune, se retrouve au cœur d’un vaste scandale judiciaire."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/22/en-algerie-le-scandale-des-moutons-de-l-aid-embarrasse-le-pouvoir_6730045_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/22/en-algerie-le-scandale-des-moutons-de-l-aid-embarrasse-le-pouvoir_6730045_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/22/en-algerie-le-scandale-des-moutons-de-l-aid-embarrasse-le-pouvoir_6730045_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/464/0/5568/2784/644/322/60/0/2fa4a22_upload-1-fvwzftnydpvf-sipa-01211450-000005.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Arrivée de moutons avant les célébrations de l’Aïd-el-Kébir, au port d’Alger, le 6 mai 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fateh Guidoum/PPAgency/SIPA"
+      }
+    ],
+    "credit": "Fateh Guidoum/PPAgency/SIPA"
+  }
+}

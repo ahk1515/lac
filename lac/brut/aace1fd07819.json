@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-22T17:17:45.819595+00:00",
+  "_id": "aace1fd07819",
+  "brut": {
+    "title": "La ministre de la Culture Catherine Pégard assure veiller à \"l'intégrité\" de la DJ Barbara Butch",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La ministre de la Culture Catherine Pégard assure veiller à \"l'intégrité\" de la DJ Barbara Butch"
+    },
+    "summary": "L'artiste doit se produire samedi soir à Saint-Martin-du-Tertre, un village de l'Yonne, dans le cadre d'un évènement musical organisé par une association locale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'artiste doit se produire samedi soir à Saint-Martin-du-Tertre, un village de l'Yonne, dans le cadre d'un évènement musical organisé par une association locale."
+    },
+    "published": "Wed, 22 Jul 2026 16:33:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      14,
+      33,
+      35,
+      2,
+      203,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/la-ministre-de-la-culture-catherine-pegard-assure-veiller-a-l-integrite-de-la-dj-barbara-butch_8117972.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LS3Ux4a4lzkGi25a_ZI4V2wjIU4/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60cf90ca9ef066364321.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/la-ministre-de-la-culture-catherine-pegard-assure-veiller-a-l-integrite-de-la-dj-barbara-butch_8117972.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/la-ministre-de-la-culture-catherine-pegard-assure-veiller-a-l-integrite-de-la-dj-barbara-butch_8117972.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

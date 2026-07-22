@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-22T17:17:45.819296+00:00",
+  "_id": "f7d6dd6f274b",
+  "brut": {
+    "title": "Des crocodiles pour surveiller des prisons en Israël ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des crocodiles pour surveiller des prisons en Israël ?"
+    },
+    "summary": "Le gouvernement de Benyamin Nétanyahou envisage de placer des crocodiles dans les prisons pour dissuader les prisonniers palestiniens de s'évader. Des travaux seraient en cours à la prison militaire de Ketziot, selon le média israélien Ynet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le gouvernement de Benyamin Nétanyahou envisage de placer des crocodiles dans les prisons pour dissuader les prisonniers palestiniens de s'évader. Des travaux seraient en cours à la prison militaire de Ketziot, selon le média israélien Ynet."
+    },
+    "published": "Wed, 22 Jul 2026 18:37:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      16,
+      37,
+      45,
+      2,
+      203,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/des-crocodiles-pour-surveiller-des-prisons-en-israel_8118269.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2By2Nz31fKSRkzUVXIRaaH3M_Vk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/22/6a60f1a896870304986953.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/des-crocodiles-pour-surveiller-des-prisons-en-israel_8118269.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/des-crocodiles-pour-surveiller-des-prisons-en-israel_8118269.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

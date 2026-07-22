@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T17:17:45.409756+00:00",
+  "_id": "d7cfcd57ea3c",
+  "brut": {
+    "title": "Russie : les entrepôts du e-commerce, nouvelles cibles des drones ukrainiens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Russie : les entrepôts du e-commerce, nouvelles cibles des drones ukrainiens"
+    },
+    "published": "Wed, 22 Jul 2026 19:09:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      17,
+      9,
+      33,
+      2,
+      203,
+      0
+    ],
+    "summary": "En moins d’une semaine, quatre centres de logistique et de stockage de Wildberries, l’équivalent russe d’Amazon, ont été visés. Ces attaques, qui ont fait au moins neuf morts, perturbent les chaînes de distribution et mettent à mal les discours de victoire du Kremlin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En moins d’une semaine, quatre centres de logistique et de stockage de Wildberries, l’équivalent russe d’Amazon, ont été visés. Ces attaques, qui ont fait au moins neuf morts, perturbent les chaînes de distribution et mettent à mal les discours de victoire du Kremlin."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/22/russie-les-entrepots-du-e-commerce-nouvelles-cibles-des-drones-ukrainiens_6730061_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/russie-les-entrepots-du-e-commerce-nouvelles-cibles-des-drones-ukrainiens_6730061_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/22/russie-les-entrepots-du-e-commerce-nouvelles-cibles-des-drones-ukrainiens_6730061_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/0/0/7162/3581/644/322/60/0/75d026f_ftp-1-5klxz2svwknl-5650893-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le complexe logistique de l’entreprise russe de commerce en ligne Wildberries, en feu après des frappes ukrainiennes, à Elektrostal (Russie), le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TATYANA MAKEYEVA/AFP"
+      }
+    ],
+    "credit": "TATYANA MAKEYEVA/AFP"
+  }
+}

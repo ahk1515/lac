@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T17:17:45.410653+00:00",
+  "_id": "f3682812727b",
+  "brut": {
+    "title": "Ma vie d’exilée russe à Paris : pour les soins et l’éducation, « la France est une version améliorée de l’URSS »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ma vie d’exilée russe à Paris : pour les soins et l’éducation, « la France est une version améliorée de l’URSS »"
+    },
+    "published": "Wed, 22 Jul 2026 17:30:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      30,
+      11,
+      2,
+      203,
+      0
+    ],
+    "summary": "« Une Russe à Paris » (2/6). Arrivée en France en 2022, la journaliste Elizaveta Osetinskaya s’est installée dans le 16ᵉ arrondissement de la capitale. Elle loue notamment le système scolaire français, dont sa fille Bella profite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Une Russe à Paris » (2/6). Arrivée en France en 2022, la journaliste Elizaveta Osetinskaya s’est installée dans le 16ᵉ arrondissement de la capitale. Elle loue notamment le système scolaire français, dont sa fille Bella profite."
+    },
+    "id": "https://www.lemonde.fr/series-d-ete/article/2026/07/22/ma-vie-d-exilee-russe-a-paris-pour-les-soins-et-l-education-la-france-est-une-version-amelioree-de-l-urss_6730051_3451060.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/22/ma-vie-d-exilee-russe-a-paris-pour-les-soins-et-l-education-la-france-est-une-version-amelioree-de-l-urss_6730051_3451060.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/series-d-ete/article/2026/07/22/ma-vie-d-exilee-russe-a-paris-pour-les-soins-et-l-education-la-france-est-une-version-amelioree-de-l-urss_6730051_3451060.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/901/0/1850/925/644/322/60/0/2f4e73f_upload-1-ty42grvy6jrq-episode-2-e-cole.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Giulia D’Anna Lupo"
+      }
+    ],
+    "credit": "Giulia D’Anna Lupo"
+  }
+}

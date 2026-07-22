@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T17:17:45.410438+00:00",
+  "_id": "b7ba9485bde4",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la nomination de Mykhaïlo Drapaty comme commandant en chef de l’armée ukrainienne ne changera pas la situation sur le front, affirme le Kremlin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la nomination de Mykhaïlo Drapaty comme commandant en chef de l’armée ukrainienne ne changera pas la situation sur le front, affirme le Kremlin"
+    },
+    "published": "Wed, 22 Jul 2026 17:46:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      46,
+      6,
+      2,
+      203,
+      0
+    ],
+    "updated": "Wed, 22 Jul 2026 17:53:03 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      53,
+      3,
+      2,
+      203,
+      0
+    ],
+    "summary": "En réponse aux mobilisations citoyennes pour demander le départ du général Oleksandr Syrsky, Volodymyr Zelensky a remplacé ce dernier par le populaire commandant des forces interarmées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En réponse aux mobilisations citoyennes pour demander le départ du général Oleksandr Syrsky, Volodymyr Zelensky a remplacé ce dernier par le populaire commandant des forces interarmées."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-la-nomination-de-mykhailo-drapaty-comme-commandant-en-chef-de-l-armee-ukrainienne-ne-changera-pas-la-situation-sur-le-front-affirme-le-kremlin_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-la-nomination-de-mykhailo-drapaty-comme-commandant-en-chef-de-l-armee-ukrainienne-ne-changera-pas-la-situation-sur-le-front-affirme-le-kremlin_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-la-nomination-de-mykhailo-drapaty-comme-commandant-en-chef-de-l-armee-ukrainienne-ne-changera-pas-la-situation-sur-le-front-affirme-le-kremlin_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/103/0/2000/1000/644/322/60/0/a749577_ftp-1-4aqu1bdlkiah-1824c79bafef4d5d9e6600895e81e569-0-f5765c5067284db0a1f7e53eaf8fd67a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Kiev. Photographie mise à disposition par l’organe de presse de la présidence ukrainienne, datée du 20 juillet 2026, qui montre le président ukrainien, Volodymyr Zelensky (troisième en partant de la gauche), entouré de l’ancien commandant en chef de l’armée Oleksandr Syrsky (à gauche) et de son remplaçant, Mykhaïlo Drapaty (à droite). A l’extrême gauche, le ministre de la défense, Ievheni Khmara."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ukrainian Presidential Press Office via AP"
+      }
+    ],
+    "credit": "Ukrainian Presidential Press Office via AP"
+  }
+}

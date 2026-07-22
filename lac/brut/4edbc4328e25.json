@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-22T17:17:45.410124+00:00",
+  "_id": "4edbc4328e25",
+  "brut": {
+    "title": "Le Mexique dépose plainte aux Etats-Unis après la mort de migrants aux mains de l’ICE, la police de l’immigration",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Mexique dépose plainte aux Etats-Unis après la mort de migrants aux mains de l’ICE, la police de l’immigration"
+    },
+    "published": "Wed, 22 Jul 2026 18:40:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      16,
+      40,
+      26,
+      2,
+      203,
+      0
+    ],
+    "summary": "Dix-sept Mexicains sont morts dans des centres de détention du service de l’immigration et des douanes ou lors de descentes effectuées par ses agents, depuis le retour de Donald Trump à la présidence, en janvier 2025.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dix-sept Mexicains sont morts dans des centres de détention du service de l’immigration et des douanes ou lors de descentes effectuées par ses agents, depuis le retour de Donald Trump à la présidence, en janvier 2025."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/22/le-mexique-depose-plainte-aux-etats-unis-apres-la-mort-de-migrants-aux-mains-de-l-ice-la-police-de-l-immigration_6730056_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/le-mexique-depose-plainte-aux-etats-unis-apres-la-mort-de-migrants-aux-mains-de-l-ice-la-police-de-l-immigration_6730056_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/22/le-mexique-depose-plainte-aux-etats-unis-apres-la-mort-de-migrants-aux-mains-de-l-ice-la-police-de-l-immigration_6730056_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/490/0/5886/2943/644/322/60/0/86843db_ftp-1-jt0k9sbxty8n-2026-07-20t002230z-33248337-rc25hmal997k-rtrmadp-3-usa-migration-texas-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le 19 juillet 2026, à Houston (Texas), des manifestants demandent justice pour Lorenzo Salgado Araujo, un ressortissant mexicain tué le 7 juillet par un agent de l’Immigration and Customs Enforcement (ICE)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Antranik Tavitian / REUTERS"
+      }
+    ],
+    "credit": "Antranik Tavitian / REUTERS"
+  }
+}
