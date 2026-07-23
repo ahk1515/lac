@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T13:55:21.787803+00:00",
+  "_id": "50a54ac8b7e9",
+  "brut": {
+    "title": "Quels sont les enjeux de l’implantation de Starlink en Afrique ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quels sont les enjeux de l’implantation de Starlink en Afrique ?"
+    },
+    "published": "Thu, 23 Jul 2026 14:28:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      12,
+      28,
+      8,
+      3,
+      204,
+      0
+    ],
+    "summary": "En l’espace de trois ans, le service d’Internet par satellite du milliardaire Elon Musk, a réussi à déployer ses services sur le continent africain malgré une forte défiance des différents gouvernements.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En l’espace de trois ans, le service d’Internet par satellite du milliardaire Elon Musk, a réussi à déployer ses services sur le continent africain malgré une forte défiance des différents gouvernements."
+    },
+    "id": "https://www.lemonde.fr/afrique/video/2026/07/23/quels-sont-les-enjeux-de-l-implantation-de-starlink-en-afrique_6730746_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/video/2026/07/23/quels-sont-les-enjeux-de-l-implantation-de-starlink-en-afrique_6730746_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/video/2026/07/23/quels-sont-les-enjeux-de-l-implantation-de-starlink-en-afrique_6730746_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/539/0/5500/2750/644/322/60/0/9d3c246_upload-1-pum86zxwahts-2025-12-01t010335z-988250759-rc2y6iafy5ni-rtrmadp-3-sudan-politics-chad.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une antenne Starlink alimentée par un panneau solaire près des tentes de réfugiés soudanais originaires du Darfour, dans le camp de réfugiés de Touloum, le 30 novembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Amr Abdallah Dalsh / REUTERS"
+      }
+    ],
+    "credit": "Amr Abdallah Dalsh / REUTERS"
+  }
+}

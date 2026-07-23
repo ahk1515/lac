@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-23T13:55:21.883050+00:00",
+  "_id": "09deabb35938",
+  "brut": {
+    "title": "Google sanctionné de 890 millions d'euros d'amendes par l'Union européenne pour des atteintes à la concurrence",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Google sanctionné de 890 millions d'euros d'amendes par l'Union européenne pour des atteintes à la concurrence"
+    },
+    "summary": "Le géant américain se voit notamment reprocher d'avoir mis en avant ses propres services dans son moteur de recherche. Une sanction qui risque de provoquer la colère de Donald Trump.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le géant américain se voit notamment reprocher d'avoir mis en avant ses propres services dans son moteur de recherche. Une sanction qui risque de provoquer la colère de Donald Trump."
+    },
+    "published": "Thu, 23 Jul 2026 13:42:24 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      11,
+      42,
+      24,
+      3,
+      204,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/google/l-union-europeenne-inflige-890-millions-d-euros-d-amendes-a-google-pour-des-atteintes-a-la-concurrence_8119202.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MFzRPfzy1QdVF6EGsmtv6PtBTRo/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a61fd215cd29793515225.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/google/l-union-europeenne-inflige-890-millions-d-euros-d-amendes-a-google-pour-des-atteintes-a-la-concurrence_8119202.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/google/l-union-europeenne-inflige-890-millions-d-euros-d-amendes-a-google-pour-des-atteintes-a-la-concurrence_8119202.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

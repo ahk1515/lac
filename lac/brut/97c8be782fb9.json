@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T13:55:21.786961+00:00",
+  "_id": "97c8be782fb9",
+  "brut": {
+    "title": "Nucléaire saoudien : Donald Trump conditionne l’accord à la reconnaissance d’Israël par Riyad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Nucléaire saoudien : Donald Trump conditionne l’accord à la reconnaissance d’Israël par Riyad"
+    },
+    "published": "Thu, 23 Jul 2026 15:07:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      13,
+      7,
+      47,
+      3,
+      204,
+      0
+    ],
+    "summary": "Le président américain a annoncé que l’accord sur le nucléaire civil entre les Etats-Unis et l’Arabie saoudite était « entièrement conditionné » à l’adhésion de Riyad aux accords d’Abraham, actant de fait une reconnaissance de l’Etat d’Israël par le royaume.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain a annoncé que l’accord sur le nucléaire civil entre les Etats-Unis et l’Arabie saoudite était « entièrement conditionné » à l’adhésion de Riyad aux accords d’Abraham, actant de fait une reconnaissance de l’Etat d’Israël par le royaume."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/23/nucleaire-saoudien-donald-trump-conditionne-l-accord-a-la-reconnaissance-d-israel-par-riyad_6730815_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/23/nucleaire-saoudien-donald-trump-conditionne-l-accord-a-la-reconnaissance-d-israel-par-riyad_6730815_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/23/nucleaire-saoudien-donald-trump-conditionne-l-accord-a-la-reconnaissance-d-israel-par-riyad_6730815_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/904/0/5423/2711/644/322/60/0/569e91d_ftp-1-c44j48iscgsp-62c016a87a8d4fb49b7e74d8ac48c61d-0-ee305628d1884bf4a01dad9f311c3b4f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, lors d’un déplacement au lycée Joseph-Wheeler, à Marietta (Géorgie), le 22 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Julia Demaree Nikhinson/AP"
+      }
+    ],
+    "credit": "Julia Demaree Nikhinson/AP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T13:55:21.787406+00:00",
+  "_id": "5bbeaa876dfe",
+  "brut": {
+    "title": "Marineland : huit dauphins transférés en Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Marineland : huit dauphins transférés en Espagne"
+    },
+    "published": "Thu, 23 Jul 2026 14:59:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      12,
+      59,
+      7,
+      3,
+      204,
+      0
+    ],
+    "updated": "Thu, 23 Jul 2026 15:00:44 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      23,
+      13,
+      0,
+      44,
+      3,
+      204,
+      0
+    ],
+    "summary": "Selon les associations, les dauphins ont été chargés dans des camions pour se rendre à l’aéroport de Nice, tout proche de Marineland, et s’envoler pour Malaga. A l’avenir, ces huit dauphins pourraient revenir en France dans un centre d’accueil en projet au zoo de Beauval.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les associations, les dauphins ont été chargés dans des camions pour se rendre à l’aéroport de Nice, tout proche de Marineland, et s’envoler pour Malaga. A l’avenir, ces huit dauphins pourraient revenir en France dans un centre d’accueil en projet au zoo de Beauval."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/23/marineland-huit-dauphins-transferes-en-espagne_6730781_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/23/marineland-huit-dauphins-transferes-en-espagne_6730781_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/23/marineland-huit-dauphins-transferes-en-espagne_6730781_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/04/10/312/0/3744/1872/644/322/60/0/20b17ba_ftp-import-images-1-dzlfxxfnpit2-5583376-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des dauphins sautent lors d’un spectacle au parc à thème Marineland à Antibes, sur la Côte d’Azur (sud-est de la France), le 17 mars 2016. Les orques et les dauphins du Marineland d’Antibes (Alpes-Maritimes) ne peuvent pas être transférés en Espagne, suite à un avis défavorable de l’autorité scientifique espagnole, et doivent y rester pour le moment, a indiqué le cabinet du ministre français de la Transition écologique à l’AFP le 10 avril 2025. (Photo de VALERY HACHE / AFP)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VALERY HACHE / AFP"
+      }
+    ],
+    "credit": "VALERY HACHE / AFP"
+  }
+}
