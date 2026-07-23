@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-23T10:21:40.572019+00:00",
+  "_id": "be9fd873c9a5",
+  "brut": {
+    "title": "TotalEnergies double son bénéfice net au 2e trimestre, à 4,7 milliards d'euros",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "TotalEnergies double son bénéfice net au 2e trimestre, à 4,7 milliards d'euros"
+    },
+    "summary": "Sur l'ensemble du premier semestre, le bénéfice net s'affiche à 11,2 milliards de dollars (9,8 milliards d'euros), en hausse de 73% sur un an.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sur l'ensemble du premier semestre, le bénéfice net s'affiche à 11,2 milliards de dollars (9,8 milliards d'euros), en hausse de 73% sur un an."
+    },
+    "published": "Thu, 23 Jul 2026 11:04:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      9,
+      4,
+      15,
+      3,
+      204,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-double-son-benefice-net-au-2e-trimestre-a-4-7-milliards-d-euros_8118845.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zJBRp01F_pVp2lju-OEicBDWKPo/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/07/23/6a61bfc43172f969530953.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-double-son-benefice-net-au-2e-trimestre-a-4-7-milliards-d-euros_8118845.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-double-son-benefice-net-au-2e-trimestre-a-4-7-milliards-d-euros_8118845.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
