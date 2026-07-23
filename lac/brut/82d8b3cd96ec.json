@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-23T21:02:48.164381+00:00",
+  "_id": "82d8b3cd96ec",
+  "brut": {
+    "title": "Malaisie : la plus haute via ferrata au monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Malaisie : la plus haute via ferrata au monde"
+    },
+    "summary": "🇲🇾😱 Pentes abruptes et cœur bien accroché pour l’ascension du mont Kinabalu (4095m) sur l'île de Bornéo, en Malaisie. La plus haute via ferrata au monde qui démarre à 3776 m d’altitude. (Collection séries d'été France TV 2024)",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇲🇾😱 Pentes abruptes et cœur bien accroché pour l’ascension du mont Kinabalu (4095m) sur l'île de Bornéo, en Malaisie. La plus haute via ferrata au monde qui démarre à 3776 m d’altitude. (Collection séries d'été France TV 2024)"
+    },
+    "published": "Thu, 23 Jul 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      20,
+      0,
+      1,
+      3,
+      204,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sports/sports-extremes/malaisie-la-plus-haute-via-ferrata-au-monde_8119754.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/zlP5c0F62ksNBO_CzcupWkIoAeI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/23/6a62594acf742146591374.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sports/sports-extremes/malaisie-la-plus-haute-via-ferrata-au-monde_8119754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sports/sports-extremes/malaisie-la-plus-haute-via-ferrata-au-monde_8119754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

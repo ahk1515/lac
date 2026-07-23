@@ -5302,6 +5302,43 @@
     ]
   },
   {
+    "date": "Thu, 23 Jul 2026 22:00:01 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Malaisie : la plus haute via ferrata au monde",
+    "texte": "🇲🇾😱 Pentes abruptes et cœur bien accroché pour l’ascension du mont Kinabalu (4095m) sur l'île de Bornéo, en Malaisie. La plus haute via ferrata au monde qui démarre à 3776 m d’altitude. (Collection séries d'été France TV 2024)",
+    "url": "https://www.franceinfo.fr/sports/sports-extremes/malaisie-la-plus-haute-via-ferrata-au-monde_8119754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "82d8b3cd96ec",
+    "pays": [
+      "FRA"
+    ]
+  },
+  {
+    "date": "Thu, 23 Jul 2026 21:41:59 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Donald Trump ne s'opposera pas à l'extradition des frères Tate, suspectés de viols et de complicité d'exploitation sexuelle, vers le Royaume-Uni",
+    "texte": "Arrêtés samedi à Miami (Etats-Unis), l'influenceur masculiniste Andrew Tate et son frère, Tristan, sont recherchés au Royaume-Uni pour viol, traite d'êtres humains à des fins d'exploitation sexuelle et agression.",
+    "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-suspectes-de-viols-et-de-complicite-d-exploitation-sexuelle-vers-le-royaume-uni_8119814.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "f25e7877aef1",
+    "pays": [
+      "GBR",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 23 Jul 2026 20:00:01 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "En Turquie, une centaine de gynécologues sanctionnés pour avoir pratiqué \"trop\" de césariennes",
+    "texte": "En Turquie, plus d’une centaine de gynécologues ont été sanctionnés par le ministère de la Santé pour avoir pratiqué un nombre de césariennes jugé \"excessif \", selon le quotidien turc \"BirGün\". \nLe gouvernement souhaite limiter le recours à cette intervention chirurgicale, particulièrement répandue dans le pays. Une mesure qui s’inscrit dans sa campagne nataliste destinée à relancer les naissances.",
+    "url": "https://www.franceinfo.fr/monde/en-turquie-une-centaine-de-gynecologues-sanctionnes-pour-avoir-pratique-des-cesariennes_8119391.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "95502c86dbd6",
+    "pays": [
+      "TUR"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -12882,6 +12919,42 @@
     "url": "https://www.lemonde.fr/economie/article/2026/07/23/la-commission-europeenne-inflige-une-amende-de-890-millions-a-google-au-risque-de-provoquer-le-courroux-de-trump_6730886_3234.html",
     "id": "e105876df9db",
     "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 23 Jul 2026 21:10:05 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : le secrétaire général de l’ONU estime que la situation au Moyen-Orient « échappe à tout contrôle »",
+    "texte": "« Les combats doivent cesser partout et la liberté de navigation doit être rétablie », a déclaré jeudi  Antonio Guterres.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-le-secretaire-general-de-l-onu-estime-que-la-situation-au-moyen-orient-echappe-a-tout-controle_6725301_3210.html",
+    "id": "b5517fb04ffc",
+    "pays": []
+  },
+  {
+    "date": "Thu, 23 Jul 2026 20:55:12 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Après l’interpellation violente de deux diplomates à Téhéran, la France s’inquiète pour ses ressortissants en Iran",
+    "texte": "L’un des deux agents de l’ambassade de France à Téhéran interpellés dimanche a été « molesté », « brutalisé » et « frappé », a dénoncé le ministre des affaires étrangères, Jean-Noël Barrot. Alors que les diplomates sont rentrés à Paris, mercredi, les autorités françaises redoutent que la République islamique renoue avec la pratique des « prises d’otage ».",
+    "url": "https://www.lemonde.fr/international/article/2026/07/23/apres-l-interpellation-violente-de-deux-diplomates-a-teheran-la-france-s-inquiete-pour-ses-ressortissants-en-iran_6731176_3210.html",
+    "id": "afe2870c53ce",
+    "pays": [
+      "FRA",
+      "IRN"
+    ]
+  },
+  {
+    "date": "Thu, 23 Jul 2026 20:00:09 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Le Koweït, l’allié des Etats-Unis devenu la cible privilégiée de l’Iran dans le Golfe",
+    "texte": "Au-delà des bombardements iraniens sur des bases militaires américaines installées dans le pays, des infrastructures civiles koweïtiennes font les frais de la reprise des hostilités entre les Etats-Unis et l’Iran, déstabilisant un système déjà fragile.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/23/le-koweit-l-allie-des-etats-unis-devenu-la-cible-privilegiee-de-l-iran-dans-le-golfe_6731137_3210.html",
+    "id": "5c2068ec56c3",
+    "pays": [
+      "IRN",
       "USA"
     ]
   }
