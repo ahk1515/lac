@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-23T06:29:46.907859+00:00",
+  "_id": "4cea19ff17bf",
+  "brut": {
+    "title": "Après avoir frappé un navire saoudien, les Houthis élargissent le conflit à la mer Rouge",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après avoir frappé un navire saoudien, les Houthis élargissent le conflit à la mer Rouge"
+    },
+    "summary": "Les rebelles yéménites, soutenus par l'Iran, ont revendiqué des frappes contre des pétroliers saoudiens dans la nuit. Le conflit s'élargit désormais à la mer Rouge, une mauvaise nouvelle pour le commerce international.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les rebelles yéménites, soutenus par l'Iran, ont revendiqué des frappes contre des pétroliers saoudiens dans la nuit. Le conflit s'élargit désormais à la mer Rouge, une mauvaise nouvelle pour le commerce international."
+    },
+    "published": "Thu, 23 Jul 2026 08:13:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      6,
+      13,
+      30,
+      3,
+      204,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-avoir-frappe-un-navire-saoudien-les-houthis-elargissent-le-conflit-a-la-mer-rouge_8064596.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UMiVqB9JlFakPXLKmsYJOMsxIAM/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/23/6a61ad6d7d124720933833.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-avoir-frappe-un-navire-saoudien-les-houthis-elargissent-le-conflit-a-la-mer-rouge_8064596.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-avoir-frappe-un-navire-saoudien-les-houthis-elargissent-le-conflit-a-la-mer-rouge_8064596.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

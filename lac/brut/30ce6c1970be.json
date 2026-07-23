@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T06:29:46.041879+00:00",
+  "_id": "30ce6c1970be",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Thu, 23 Jul 2026 07:38:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      5,
+      38,
+      2,
+      3,
+      204,
+      0
+    ],
+    "updated": "Thu, 23 Jul 2026 08:05:10 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      23,
+      6,
+      5,
+      10,
+      3,
+      204,
+      0
+    ],
+    "summary": "L’Ukraine a accusé la Russie d’entraver ses exportations agricoles en prenant de plus en plus souvent pour cible les navires-cargo utilisant ses ports et a « demandé la tenue d’une réunion d’urgence du Conseil de sécurité de l’ONU » à ce sujet pour le 27 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Ukraine a accusé la Russie d’entraver ses exportations agricoles en prenant de plus en plus souvent pour cible les navires-cargo utilisant ses ports et a « demandé la tenue d’une réunion d’urgence du Conseil de sécurité de l’ONU » à ce sujet pour le 27 juillet."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-les-dernieres-informations-au-23-juillet-2026_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-les-dernieres-informations-au-23-juillet-2026_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-les-dernieres-informations-au-23-juillet-2026_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/443/0/2953/1476/644/322/60/0/6eec99c_upload-1-ux9mxnfrwjei-2026-07-22-heg-ukraine-0361.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Victime tuée lors d’un bombardement russe sur une maison à Odessa (Ukraine), le 22 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GUILLAUME HERBAUT POUR « LE MONDE »"
+      }
+    ],
+    "credit": "GUILLAUME HERBAUT POUR « LE MONDE »"
+  }
+}

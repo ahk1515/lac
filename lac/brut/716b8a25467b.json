@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T06:29:46.042119+00:00",
+  "_id": "716b8a25467b",
+  "brut": {
+    "title": "Au Yémen, les enfants au cœur de la machine de guerre houthiste",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, les enfants au cœur de la machine de guerre houthiste"
+    },
+    "published": "Thu, 23 Jul 2026 06:00:24 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      4,
+      0,
+      24,
+      3,
+      204,
+      0
+    ],
+    "summary": "Depuis le coup d’Etat de la fin de 2014, les rebelles yéménites enrôlent de force, chaque année, des milliers de mineurs qu’ils envoient sur le front pour mener le combat contre le gouvernement et l’Arabie saoudite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis le coup d’Etat de la fin de 2014, les rebelles yéménites enrôlent de force, chaque année, des milliers de mineurs qu’ils envoient sur le front pour mener le combat contre le gouvernement et l’Arabie saoudite."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/23/au-yemen-les-enfants-au-c-ur-de-la-machine-de-guerre-houthiste_6730347_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/23/au-yemen-les-enfants-au-c-ur-de-la-machine-de-guerre-houthiste_6730347_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/23/au-yemen-les-enfants-au-c-ur-de-la-machine-de-guerre-houthiste_6730347_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/203/0/5305/2652/644/322/60/0/760f998_upload-1-ykavwqxdf9re-eawr7358.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Badr Al-Din, kidnappé avec son frère aîné par les houthistes, dans un camp de déplacés du gouvernorat de Marib, au Yémen, le 23 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "QUENTIN MÜLLER"
+      }
+    ],
+    "credit": "QUENTIN MÜLLER"
+  }
+}

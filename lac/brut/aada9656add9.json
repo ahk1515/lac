@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-23T06:29:46.907722+00:00",
+  "_id": "aada9656add9",
+  "brut": {
+    "title": "Sicile, Espagne, Écosse...Les feux ravagent l'Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sicile, Espagne, Écosse...Les feux ravagent l'Europe"
+    },
+    "summary": "La France n'est pas le seul pays touché par les incendies. En Espagne, les pompiers luttent contre un des feux \"les plus complexes\" de l'histoire. De son côté, la Sicile a recensé plus de 1 000 incendies depuis cinq jours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La France n'est pas le seul pays touché par les incendies. En Espagne, les pompiers luttent contre un des feux \"les plus complexes\" de l'histoire. De son côté, la Sicile a recensé plus de 1 000 incendies depuis cinq jours."
+    },
+    "published": "Thu, 23 Jul 2026 08:17:34 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      6,
+      17,
+      34,
+      3,
+      204,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/sicile-espagne-ecosse-les-feux-ravagent-l-europe_8118791.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/1mZKMrin5k_RiWSeLUjH2m8Jm1g/171x0:1505x750/432x243/filters:format(jpg):quality(50)/2026/07/23/6a61b0beb33d6049643799.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/sicile-espagne-ecosse-les-feux-ravagent-l-europe_8118791.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/sicile-espagne-ecosse-les-feux-ravagent-l-europe_8118791.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

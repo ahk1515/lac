@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T06:29:46.042747+00:00",
+  "_id": "218aa00025aa",
+  "brut": {
+    "title": "Espagne : l’écho du silence (4/5)",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : l’écho du silence (4/5)"
+    },
+    "published": "Thu, 23 Jul 2026 05:00:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      3,
+      0,
+      16,
+      3,
+      204,
+      0
+    ],
+    "summary": "Dans ce quatrième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse à la dictature franquiste et la répression des vaincus républicains. Toujours en écho avec l’histoire de sa propre famille.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans ce quatrième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse à la dictature franquiste et la répression des vaincus républicains. Toujours en écho avec l’histoire de sa propre famille."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/07/23/espagne-l-echo-du-silence-4-5_6730242_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/07/23/espagne-l-echo-du-silence-4-5_6730242_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/07/23/espagne-l-echo-du-silence-4-5_6730242_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/236/0/3000/1500/644/322/60/0/a3a9e2a_upload-1-trfesor2dawk-carre.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Léa Girardot"
+      }
+    ],
+    "credit": "Léa Girardot"
+  }
+}

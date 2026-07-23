@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T06:29:46.042375+00:00",
+  "_id": "76be0e71a8a9",
+  "brut": {
+    "title": "Donald Trump n’exclut plus l’escalade en Iran, menaçant de bombarder des infrastructures civiles et nucléaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump n’exclut plus l’escalade en Iran, menaçant de bombarder des infrastructures civiles et nucléaires"
+    },
+    "published": "Thu, 23 Jul 2026 05:29:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      3,
+      29,
+      47,
+      3,
+      204,
+      0
+    ],
+    "updated": "Thu, 23 Jul 2026 08:12:35 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      23,
+      6,
+      12,
+      35,
+      3,
+      204,
+      0
+    ],
+    "summary": "Après deux semaines de frappes contre la République islamique, qui n’ont permis aucune avancée, le président américain a évoqué la possibilité de viser des sites d’enrichissement d’uranium sous la montagne de Kolang, ou montagne de la pioche, dans le centre du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après deux semaines de frappes contre la République islamique, qui n’ont permis aucune avancée, le président américain a évoqué la possibilité de viser des sites d’enrichissement d’uranium sous la montagne de Kolang, ou montagne de la pioche, dans le centre du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/23/face-a-l-iran-donald-trump-multiplie-les-menaces-faute-de-prendre-l-ascendant-militaire_6730309_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/23/face-a-l-iran-donald-trump-multiplie-les-menaces-faute-de-prendre-l-ascendant-militaire_6730309_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/23/face-a-l-iran-donald-trump-multiplie-les-menaces-faute-de-prendre-l-ascendant-militaire_6730309_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/754/0/8855/4427/644/322/60/0/8be753e_upload-1-dejcitfvzvmh-000-b8uz79g.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Image satellite fournie par Vantor montrant une vue d’ensemble du complexe de tunnels sous la montagne de Kolang (ou de la pioche), près de Natanz (Iran), le 30 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VANTOR/AFP"
+      }
+    ],
+    "credit": "VANTOR/AFP"
+  }
+}
