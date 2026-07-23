@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T17:21:59.369802+00:00",
+  "_id": "39f21bea94c2",
+  "brut": {
+    "title": "En Cisjordanie, le quotidien d’un hameau palestinien harcelé par des colons",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie, le quotidien d’un hameau palestinien harcelé par des colons"
+    },
+    "published": "Thu, 23 Jul 2026 19:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      17,
+      0,
+      5,
+      3,
+      204,
+      0
+    ],
+    "summary": "Dans le village bédouin d’Umm Al-Khair, l’une des localités du sud de la Cisjordanie encerclées par des colonies et des bases militaires, la famille Al-Hathaleen subit les violences quotidiennes de ses « voisins ». Trois Palestiniens ont par ailleurs été tués les 18 et 20 juillet dans des incidents impliquant colons et soldats israéliens près de Ramallah.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le village bédouin d’Umm Al-Khair, l’une des localités du sud de la Cisjordanie encerclées par des colonies et des bases militaires, la famille Al-Hathaleen subit les violences quotidiennes de ses « voisins ». Trois Palestiniens ont par ailleurs été tués les 18 et 20 juillet dans des incidents impliquant colons et soldats israéliens près de Ramallah."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/23/en-cisjordanie-le-quotidien-d-un-hameau-palestinien-harcele-par-des-colons_6731066_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/23/en-cisjordanie-le-quotidien-d-un-hameau-palestinien-harcele-par-des-colons_6731066_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/23/en-cisjordanie-le-quotidien-d-un-hameau-palestinien-harcele-par-des-colons_6731066_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/06/720/0/5760/2880/644/322/60/0/2b495ef_upload-1-zxlooifbqysg-lgeai-routes-colonisation-6.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des colons israéliens juifs en train de construire illégalement des logements juste à côté du village bédouin d’Umm Al-Khair (Cisjordanie occupée), le 25 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LAURENCE GEAI/MYOP POUR « LE MONDE »"
+      }
+    ],
+    "credit": "LAURENCE GEAI/MYOP POUR « LE MONDE »"
+  }
+}

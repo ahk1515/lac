@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-23T17:21:59.370325+00:00",
+  "_id": "db3ff3ff3b27",
+  "brut": {
+    "title": "Russie : le Kremlin menace de « mort civique » les opposants en exil",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Russie : le Kremlin menace de « mort civique » les opposants en exil"
+    },
+    "published": "Thu, 23 Jul 2026 17:50:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      15,
+      50,
+      7,
+      3,
+      204,
+      0
+    ],
+    "updated": "Thu, 23 Jul 2026 18:39:02 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      23,
+      16,
+      39,
+      2,
+      3,
+      204,
+      0
+    ],
+    "summary": "Les députés de la Douma ont adopté, mercredi, une loi privant les opposants ayant fui la Russie d’accès aux services bancaires et aux transactions immobilières dans le pays, mais aussi aux services consulaires à l’étranger.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les députés de la Douma ont adopté, mercredi, une loi privant les opposants ayant fui la Russie d’accès aux services bancaires et aux transactions immobilières dans le pays, mais aussi aux services consulaires à l’étranger."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/23/russie-le-kremlin-menace-de-mort-civique-les-opposants-en-exil_6730994_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/23/russie-le-kremlin-menace-de-mort-civique-les-opposants-en-exil_6730994_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/23/russie-le-kremlin-menace-de-mort-civique-les-opposants-en-exil_6730994_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/263/0/8068/4034/644/322/60/0/894e3f3_upload-1-esussol93lyd-000-43r67x3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Viatcheslav Volodine, président de la Douma, à Saint-Pétersbourg (Russie), le 28 avril 2025, sur une photo diffusée par l’agence d’Etat russe Sputnik."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MIKHAIL METZEL/AFP"
+      }
+    ],
+    "credit": "MIKHAIL METZEL/AFP"
+  }
+}
