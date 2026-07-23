@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-23T02:38:18.192836+00:00",
+  "_id": "62a134e910a4",
+  "brut": {
+    "title": "Trepalle, la station des Alpes italiennes où le mercure ne franchit pas les 20 degrés en été",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Trepalle, la station des Alpes italiennes où le mercure ne franchit pas les 20 degrés en été"
+    },
+    "summary": "Si à Rome, en Italie, le mercure dépasse chaque jour les 35 degrés, certains touristes préfèrent grimper jusqu’à Trepalle, l’un des plus hauts villages d’Europe. À 2 000 mètres, pulls et vestes sont de rigueur, même en plein été.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Si à Rome, en Italie, le mercure dépasse chaque jour les 35 degrés, certains touristes préfèrent grimper jusqu’à Trepalle, l’un des plus hauts villages d’Europe. À 2 000 mètres, pulls et vestes sont de rigueur, même en plein été."
+    },
+    "published": "Wed, 22 Jul 2026 23:16:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      21,
+      16,
+      7,
+      2,
+      203,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/decouverte/vacances/trepalle-la-station-des-alpes-italiennes-ou-le-mercure-ne-franchit-pas-les-20-degres-en-ete_8118446.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/90_5er1tMQ4W7qRYZxVQdi_X2kk/0x32:1522x889/432x243/filters:format(jpg):quality(50)/2026/07/22/6a6132fd62c1f421891007.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/decouverte/vacances/trepalle-la-station-des-alpes-italiennes-ou-le-mercure-ne-franchit-pas-les-20-degres-en-ete_8118446.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/decouverte/vacances/trepalle-la-station-des-alpes-italiennes-ou-le-mercure-ne-franchit-pas-les-20-degres-en-ete_8118446.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
