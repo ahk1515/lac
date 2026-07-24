@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T17:36:42.530652+00:00",
+  "_id": "0a150a897da2",
+  "brut": {
+    "title": "VIDEO Wildberries : le « Amazon russe » en feu après des frappes de drones ukrainiens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Wildberries : le « Amazon russe » en feu après des frappes de drones ukrainiens"
+    },
+    "published": "Fri, 24 Jul 2026 17:32:32 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      15,
+      32,
+      32,
+      4,
+      205,
+      0
+    ],
+    "summary": "Depuis le 18 juillet 2026, plusieurs entrepôts du Amazon russe ont été touchés par des drones, alors que l’armée ukrainienne continue de diversifier ses cibles pour faire entrer la guerre dans le quotidien des Russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis le 18 juillet 2026, plusieurs entrepôts du Amazon russe ont été touchés par des drones, alors que l’armée ukrainienne continue de diversifier ses cibles pour faire entrer la guerre dans le quotidien des Russes."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/24/wildberries-le-amazon-russe-en-feu-apres-des-frappes-de-drones-ukrainiens_6731525_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/24/wildberries-le-amazon-russe-en-feu-apres-des-frappes-de-drones-ukrainiens_6731525_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/24/wildberries-le-amazon-russe-en-feu-apres-des-frappes-de-drones-ukrainiens_6731525_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/145/0/3889/1944/644/322/60/0/4ec6986_ftp-1-u4n9defjlgcc-2026-07-24t064034z-902227327-rc24kmaobmj8-rtrmadp-3-ukraine-crisis-russia-wildberries.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}

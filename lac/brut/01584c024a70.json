@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T17:36:42.530941+00:00",
+  "_id": "01584c024a70",
+  "brut": {
+    "title": "L’Espagne décrète l’état d’urgence pour tenter de contenir le « pire incendie de l’histoire » de la région de Madrid",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Espagne décrète l’état d’urgence pour tenter de contenir le « pire incendie de l’histoire » de la région de Madrid"
+    },
+    "published": "Fri, 24 Jul 2026 17:21:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      15,
+      21,
+      45,
+      4,
+      205,
+      0
+    ],
+    "updated": "Fri, 24 Jul 2026 18:26:57 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      24,
+      16,
+      26,
+      57,
+      4,
+      205,
+      0
+    ],
+    "summary": "Vendredi après-midi, deux des trois incendies en cours ont fusionné, formant un gigantesque brasier à une soixantaine de kilomètres à l’ouest de la capitale espagnole.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vendredi après-midi, deux des trois incendies en cours ont fusionné, formant un gigantesque brasier à une soixantaine de kilomètres à l’ouest de la capitale espagnole."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/24/l-espagne-decrete-l-etat-d-urgence-pour-tenter-de-contenir-le-pire-incendie-de-l-histoire-de-la-region-de-madrid_6731522_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/24/l-espagne-decrete-l-etat-d-urgence-pour-tenter-de-contenir-le-pire-incendie-de-l-histoire-de-la-region-de-madrid_6731522_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/24/l-espagne-decrete-l-etat-d-urgence-pour-tenter-de-contenir-le-pire-incendie-de-l-histoire-de-la-region-de-madrid_6731522_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/500/0/6000/3000/644/322/60/0/e8ca0a9_ftp-1-uzbzhsqzly7u-439c2326ebdb4a22b136ce91f09d5ee0-0-fed851045c3d4e8b83942625b0d4ffa9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’incendie en cours près de San Martin de Valdeiglesias, à l’ouest de Madrid, le 24 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Manu Fernandez/AP Photo"
+      }
+    ],
+    "credit": "Manu Fernandez/AP Photo"
+  }
+}

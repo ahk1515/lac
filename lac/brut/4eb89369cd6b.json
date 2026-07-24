@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T17:36:42.529933+00:00",
+  "_id": "4eb89369cd6b",
+  "brut": {
+    "title": "En Guinée, une mobilisation en ligne inédite après les viols de jeunes filles mineures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Guinée, une mobilisation en ligne inédite après les viols de jeunes filles mineures"
+    },
+    "published": "Fri, 24 Jul 2026 19:00:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      17,
+      0,
+      6,
+      4,
+      205,
+      0
+    ],
+    "summary": "La diffusion de vidéos montrant des viols collectifs d’adolescentes, dans la région de Kankan, a provoqué une forte émotion. Une information judiciaire est ouverte depuis avril, mais la volonté des familles de faire profil bas menace la tenue d’un procès.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La diffusion de vidéos montrant des viols collectifs d’adolescentes, dans la région de Kankan, a provoqué une forte émotion. Une information judiciaire est ouverte depuis avril, mais la volonté des familles de faire profil bas menace la tenue d’un procès."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/24/en-guinee-une-mobilisation-en-ligne-inedite-apres-les-viols-de-jeunes-filles-mineures_6731536_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/24/en-guinee-une-mobilisation-en-ligne-inedite-apres-les-viols-de-jeunes-filles-mineures_6731536_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/24/en-guinee-une-mobilisation-en-ligne-inedite-apres-les-viols-de-jeunes-filles-mineures_6731536_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/350/0/4200/2100/644/322/60/0/d07ffec_upload-1-gqjos31yiw7v-000-73c39p3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue de Conakry (Guinée), le 3 septembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PATRICK MEINHARDT/AFP"
+      }
+    ],
+    "credit": "PATRICK MEINHARDT/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T17:36:42.730025+00:00",
+  "_id": "bb4c194b06cd",
+  "brut": {
+    "title": "Six baleines bélugas transférées du Canada vers les Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Six baleines bélugas transférées du Canada vers les Etats-Unis"
+    },
+    "summary": "Fin juillet, les cétacés ont parcouru plusieurs centaines, voire milliers de kilomètres, en camion et en avion, avant d’arriver saines et sauves à Chicago et à San Antonio.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Fin juillet, les cétacés ont parcouru plusieurs centaines, voire milliers de kilomètres, en camion et en avion, avant d’arriver saines et sauves à Chicago et à San Antonio."
+    },
+    "published": "Fri, 24 Jul 2026 18:13:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      16,
+      13,
+      10,
+      4,
+      205,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/six-baleines-belugas-transferees-du-canda-vers-les-etats-unis_8121050.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/cAsFcmFJI3KbG0as0Kz0qhIzG2g/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/24/6a638ec83e055006633606.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/six-baleines-belugas-transferees-du-canda-vers-les-etats-unis_8121050.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/six-baleines-belugas-transferees-du-canda-vers-les-etats-unis_8121050.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

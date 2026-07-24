@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T17:36:42.729775+00:00",
+  "_id": "3a2ae59eba15",
+  "brut": {
+    "title": "A Londres, des policiers fluviaux tombent à l'eau après avoir percuté un pont sur la Tamise, cinq agents blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Londres, des policiers fluviaux tombent à l'eau après avoir percuté un pont sur la Tamise, cinq agents blessés"
+    },
+    "summary": "Une embarcation de la police fluviale a heurté le Westminster Bridge, en plein cœur de Londres, peu avant 16 heures, vendredi. Plusieurs agents sont tombés à l'eau mais ont pu être secourus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une embarcation de la police fluviale a heurté le Westminster Bridge, en plein cœur de Londres, peu avant 16 heures, vendredi. Plusieurs agents sont tombés à l'eau mais ont pu être secourus."
+    },
+    "published": "Fri, 24 Jul 2026 19:06:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      17,
+      6,
+      1,
+      4,
+      205,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/a-londres-des-policiers-fluviaux-tombent-a-l-eau-apres-avoir-percute-un-pont-sur-la-tamise-cinq-agents-blesses_8121083.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0VazH09epyC11ssMgwBXbFdVgZg/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/07/24/6a6398eed700e854734198.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/a-londres-des-policiers-fluviaux-tombent-a-l-eau-apres-avoir-percute-un-pont-sur-la-tamise-cinq-agents-blesses_8121083.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/a-londres-des-policiers-fluviaux-tombent-a-l-eau-apres-avoir-percute-un-pont-sur-la-tamise-cinq-agents-blesses_8121083.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
