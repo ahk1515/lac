@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T10:15:08.520081+00:00",
+  "_id": "f2e0f5e3614e",
+  "brut": {
+    "title": "A Toulouse, la guerre spatiale a déjà commencé : « La menace dans l’espace peut créer des dommages stratégiques »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Toulouse, la guerre spatiale a déjà commencé : « La menace dans l’espace peut créer des dommages stratégiques »"
+    },
+    "published": "Fri, 24 Jul 2026 12:08:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      10,
+      8,
+      8,
+      4,
+      205,
+      0
+    ],
+    "summary": "Alors que les moyens de surveillance et de transmission par satellite occupent une place de plus en plus importante dans les conflits actuels, « Le Monde » a pu exceptionnellement visiter la base spatiale française, inaugurée il y a un an à Toulouse, aux premières loges de ces nouveaux enjeux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les moyens de surveillance et de transmission par satellite occupent une place de plus en plus importante dans les conflits actuels, « Le Monde » a pu exceptionnellement visiter la base spatiale française, inaugurée il y a un an à Toulouse, aux premières loges de ces nouveaux enjeux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/24/a-toulouse-la-guerre-spatiale-a-deja-commence-la-menace-dans-l-espace-peut-creer-des-dommages-strategiques_6731490_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/a-toulouse-la-guerre-spatiale-a-deja-commence-la-menace-dans-l-espace-peut-creer-des-dommages-strategiques_6731490_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/24/a-toulouse-la-guerre-spatiale-a-deja-commence-la-menace-dans-l-espace-peut-creer-des-dommages-strategiques_6731490_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/0/0/6000/3000/644/322/60/0/87dab42_upload-1-jyrjabjovhto-000-83tn7gl.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron passe en revue les troupes de la base aérienne 101 avant l’inauguration du Commandement de l’espace français, à Toulouse, le 12 novembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GUILLAUME HORCAJUELO/AFP"
+      }
+    ],
+    "credit": "GUILLAUME HORCAJUELO/AFP"
+  }
+}

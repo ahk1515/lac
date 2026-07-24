@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T10:15:08.521448+00:00",
+  "_id": "faa833056366",
+  "brut": {
+    "title": "Donald Trump de retour au gala de la presse, trois mois après la fusillade qui en avait provoqué l’évacuation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump de retour au gala de la presse, trois mois après la fusillade qui en avait provoqué l’évacuation"
+    },
+    "published": "Fri, 24 Jul 2026 11:29:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      9,
+      29,
+      1,
+      4,
+      205,
+      0
+    ],
+    "updated": "Fri, 24 Jul 2026 11:59:31 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      24,
+      9,
+      59,
+      31,
+      4,
+      205,
+      0
+    ],
+    "summary": "Le président américain avait annoncé au début de juin avoir accepté une nouvelle invitation au dîner de l’Association des correspondants de la Maison Blanche. Il doit tenir le discours qu’il n’avait pu prononcer le 25 avril, lorsqu’une fusillade avait éclaté entre des agents fédéraux et un homme armé qui tentait de s’introduire dans la salle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain avait annoncé au début de juin avoir accepté une nouvelle invitation au dîner de l’Association des correspondants de la Maison Blanche. Il doit tenir le discours qu’il n’avait pu prononcer le 25 avril, lorsqu’une fusillade avait éclaté entre des agents fédéraux et un homme armé qui tentait de s’introduire dans la salle."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-de-retour-au-gala-de-la-presse-trois-mois-apres-la-fusillade-qui-avait-provoque-son-evacuation_6731483_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-de-retour-au-gala-de-la-presse-trois-mois-apres-la-fusillade-qui-avait-provoque-son-evacuation_6731483_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-de-retour-au-gala-de-la-presse-trois-mois-apres-la-fusillade-qui-avait-provoque-son-evacuation_6731483_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/320/0/2556/1278/644/322/60/0/6c444a5_ftp-1-6umuzfshpt8e-2026-07-23t181403z-655299646-rc2pwkas4q0q-rtrmadp-3-usa-trump-dinner.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump lors du dîner de l’Association des correspondants de la Maison Blanche (WHCA), à Washington, le 25 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jonathan Ernst / REUTERS"
+      }
+    ],
+    "credit": "Jonathan Ernst / REUTERS"
+  }
+}

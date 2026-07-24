@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T10:15:08.521768+00:00",
+  "_id": "ebb9cb6c5aec",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : un drone abattu pour la première fois en Roumanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : un drone abattu pour la première fois en Roumanie"
+    },
+    "published": "Fri, 24 Jul 2026 11:02:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      9,
+      2,
+      16,
+      4,
+      205,
+      0
+    ],
+    "updated": "Fri, 24 Jul 2026 11:12:25 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      24,
+      9,
+      12,
+      25,
+      4,
+      205,
+      0
+    ],
+    "summary": "L’armée roumaine a abattu vendredi un drone qui avait pénétré dans l’espace aérien national, a annoncé le président, Nicusor Dan.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée roumaine a abattu vendredi un drone qui avait pénétré dans l’espace aérien national, a annoncé le président, Nicusor Dan."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-un-drone-abattu-pour-la-premiere-fois-en-roumanie_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-un-drone-abattu-pour-la-premiere-fois-en-roumanie_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-un-drone-abattu-pour-la-premiere-fois-en-roumanie_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/30/108/0/3580/1790/644/322/60/0/233a86b_ftp-1-l3gvcpnhblpq-2026-06-30t125912z-1127389316-rc2b4maoavdm-rtrmadp-3-ukraine-crisis-romania-drone.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Explosion attribuée à un drone russe par l’armée roumaine, près du village de Rachelu, le 30 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ROMANIAN DEFENCE MINISTRY / via REUTERS"
+      }
+    ],
+    "credit": "ROMANIAN DEFENCE MINISTRY / via REUTERS"
+  }
+}

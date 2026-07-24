@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T10:15:08.522401+00:00",
+  "_id": "44a680cd4905",
+  "brut": {
+    "title": "En Cisjordanie, un Israélien et quatre Palestiniens tués dans des affrontements",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie, un Israélien et quatre Palestiniens tués dans des affrontements"
+    },
+    "published": "Fri, 24 Jul 2026 10:20:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      8,
+      20,
+      33,
+      4,
+      205,
+      0
+    ],
+    "updated": "Fri, 24 Jul 2026 10:36:39 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      24,
+      8,
+      36,
+      39,
+      4,
+      205,
+      0
+    ],
+    "summary": "Selon les forces de l’Etat hébreu, des randonneurs ont été pris pour cibles près d’une colonie du nord de ce territoire occupé par Israël depuis 1967. Benyamin Nétanyahou doit réunir les responsables des services de sécurité pour « discuter des modalités de la riposte ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les forces de l’Etat hébreu, des randonneurs ont été pris pour cibles près d’une colonie du nord de ce territoire occupé par Israël depuis 1967. Benyamin Nétanyahou doit réunir les responsables des services de sécurité pour « discuter des modalités de la riposte »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/24/en-cisjordanie-un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements_6731473_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/en-cisjordanie-un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements_6731473_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/24/en-cisjordanie-un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements_6731473_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/684/0/8192/4096/644/322/60/0/e8defdb_ftp-1-ouflc5stbm5z-5693536-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes et des membres des forces de l’ordre arrivent sur les lieux des affrontements, vendredi 24 juillet, à la périphérie de Tel, en Cisjordanie, territoire palestinien occupé par Israël depuis 1967."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHN WESSELS / AFP"
+      }
+    ],
+    "credit": "JOHN WESSELS / AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T10:15:09.179713+00:00",
+  "_id": "5b0790e1cc55",
+  "brut": {
+    "title": "La chanteuse Rosalía face à une polémique en Argentine après le partage d'une vidéo sur la défaite au Mondial",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La chanteuse Rosalía face à une polémique en Argentine après le partage d'une vidéo sur la défaite au Mondial"
+    },
+    "summary": "La polémique arrive quelques jours avant le concert de l'Espagnole à Buenos Aires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La polémique arrive quelques jours avant le concert de l'Espagnole à Buenos Aires."
+    },
+    "published": "Fri, 24 Jul 2026 11:47:14 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      9,
+      47,
+      14,
+      4,
+      205,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/musique/la-chanteuse-rosalia-face-a-une-polemique-en-argentine-apres-le-partage-d-une-video-sur-la-defaite-au-mondial_8120462.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CaygYwqIvAQDijADLhGLmdBT6ks/0x368:6951x4278/432x243/filters:format(jpg):quality(50)/2026/07/24/6a633308dd573657347347.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/musique/la-chanteuse-rosalia-face-a-une-polemique-en-argentine-apres-le-partage-d-une-video-sur-la-defaite-au-mondial_8120462.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/musique/la-chanteuse-rosalia-face-a-une-polemique-en-argentine-apres-le-partage-d-une-video-sur-la-defaite-au-mondial_8120462.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

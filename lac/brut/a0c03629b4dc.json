@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T10:15:08.521127+00:00",
+  "_id": "a0c03629b4dc",
+  "brut": {
+    "title": "Le Venezuela confronté à l’« énorme défi logistique » du traitement des décombres du séisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Venezuela confronté à l’« énorme défi logistique » du traitement des décombres du séisme"
+    },
+    "published": "Fri, 24 Jul 2026 11:30:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      9,
+      30,
+      6,
+      4,
+      205,
+      0
+    ],
+    "summary": "Le double tremblement de terre du 24 juin dans le nord du pays a généré plus de 2,1 millions de tonnes de débris, selon les Nations unies. Après l’apparition de sites de dépôt de gravats sur le littoral, les organisations de défense de l’environnement dénoncent une pollution des écosystèmes côtiers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le double tremblement de terre du 24 juin dans le nord du pays a généré plus de 2,1 millions de tonnes de débris, selon les Nations unies. Après l’apparition de sites de dépôt de gravats sur le littoral, les organisations de défense de l’environnement dénoncent une pollution des écosystèmes côtiers."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/24/le-venezuela-confronte-a-l-enorme-defi-logistique-du-traitement-des-decombres-du-seisme_6731484_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/24/le-venezuela-confronte-a-l-enorme-defi-logistique-du-traitement-des-decombres-du-seisme_6731484_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/24/le-venezuela-confronte-a-l-enorme-defi-logistique-du-traitement-des-decombres-du-seisme_6731484_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/126/0/4032/2016/644/322/60/0/3ab1acb_upload-1-i4ckkyhwtaqp-000-b9nk2g7.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des déchets et décombres provenant des bâtiments effondrés lors des séismes du 24 juin déversés sur la plage, et fouillés par des habitants à la recherche de ferraille, à Tanaguarena (Venezuela), le 8 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MIGUEL MEDINA/AFP"
+      }
+    ],
+    "credit": "MIGUEL MEDINA/AFP"
+  }
+}
