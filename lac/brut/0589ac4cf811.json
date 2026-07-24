@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T21:02:11.747509+00:00",
+  "_id": "0589ac4cf811",
+  "brut": {
+    "title": "En Irlande, une bombe trouvée par la police dans un véhicule, la conductrice inculpée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Irlande, une bombe trouvée par la police dans un véhicule, la conductrice inculpée"
+    },
+    "summary": "Les agents ont découvert un engin explosif dans un véhicule près de la frontière avec l'Irlande du Nord. La conductrice, âgée de 25 ans, a été placée sous contrôle judiciaire. Un homme d'une quarantaine d'années a également été interpellé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les agents ont découvert un engin explosif dans un véhicule près de la frontière avec l'Irlande du Nord. La conductrice, âgée de 25 ans, a été placée sous contrôle judiciaire. Un homme d'une quarantaine d'années a également été interpellé."
+    },
+    "published": "Fri, 24 Jul 2026 22:23:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      20,
+      23,
+      44,
+      4,
+      205,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NTfO6_zeV9clKJXplkLWk-k6iqw/0x79:1024x655/432x243/filters:format(jpg):quality(50)/2026/07/24/6a63c8983ecef273832621.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
