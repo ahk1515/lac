@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T06:25:01.250324+00:00",
+  "_id": "0cbf5251db8c",
+  "brut": {
+    "title": "En Albanie, la « révolution des flamants roses » donne des ailes à la jeunesse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Albanie, la « révolution des flamants roses » donne des ailes à la jeunesse"
+    },
+    "published": "Fri, 24 Jul 2026 06:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      4,
+      0,
+      5,
+      4,
+      205,
+      0
+    ],
+    "summary": "Depuis la fin mai, des manifestations antigouvernementales, nées de la contestation des projets immobiliers du clan Trump sur une île du pays, rassemblent des milliers d’Albanais. Parmi eux, une grande partie de la « gen Z », en colère contre un pouvoir qu’elle juge défaillant et corrompu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis la fin mai, des manifestations antigouvernementales, nées de la contestation des projets immobiliers du clan Trump sur une île du pays, rassemblent des milliers d’Albanais. Parmi eux, une grande partie de la « gen Z », en colère contre un pouvoir qu’elle juge défaillant et corrompu."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/07/24/en-albanie-la-revolution-des-flamants-roses-donne-des-ailes-a-la-jeunesse_6731419_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/24/en-albanie-la-revolution-des-flamants-roses-donne-des-ailes-a-la-jeunesse_6731419_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/07/24/en-albanie-la-revolution-des-flamants-roses-donne-des-ailes-a-la-jeunesse_6731419_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/164/0/1500/750/644/322/60/0/fd5f1fc_ftp-1-5gmwzdetbvik-436818-3490988.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans la capitale albanaise, Tirana, le 20 juin 2026, des manifestants devant le bâtiment où siège le premier ministre. Projeté sur le mur, le slogan « L’Albanie n’est pas à vendre »."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Milla Morisson/Hans Lucas pour M Le magazine du Monde"
+      }
+    ],
+    "credit": "Milla Morisson/Hans Lucas pour M Le magazine du Monde"
+  }
+}

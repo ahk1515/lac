@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T06:25:01.250126+00:00",
+  "_id": "f0846b3e431b",
+  "brut": {
+    "title": "En Russie, les autorités tentent de recruter des étudiants pour pallier le manque de soldats dans les régiments de dronistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Russie, les autorités tentent de recruter des étudiants pour pallier le manque de soldats dans les régiments de dronistes"
+    },
+    "published": "Fri, 24 Jul 2026 06:00:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      4,
+      0,
+      25,
+      4,
+      205,
+      0
+    ],
+    "summary": "Alors que la rumeur d’une nouvelle vague de mobilisation enfle sur les réseaux sociaux, le Kremlin impose aux universités de fournir 2 % de leurs effectifs au service de sa guerre contre l’Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que la rumeur d’une nouvelle vague de mobilisation enfle sur les réseaux sociaux, le Kremlin impose aux universités de fournir 2 % de leurs effectifs au service de sa guerre contre l’Ukraine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/24/en-russie-les-autorites-tentent-de-recruter-des-etudiants-pour-pallier-le-manque-de-soldats-dans-les-regiments-de-dronistes_6731422_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/en-russie-les-autorites-tentent-de-recruter-des-etudiants-pour-pallier-le-manque-de-soldats-dans-les-regiments-de-dronistes_6731422_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/24/en-russie-les-autorites-tentent-de-recruter-des-etudiants-pour-pallier-le-manque-de-soldats-dans-les-regiments-de-dronistes_6731422_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/0/0/5244/2622/644/322/60/0/7e4c271_upload-1-t0nbtqecrgtc-ap26023534956436.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un panneau publicitaire faisant la promotion d’un emploi au sein de l’armée russe porte l’inscription « Nouveau. Irremplaçable », à Saint-Pétersbourg (Russie), le 23 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dmitri Lovetsky/AP"
+      }
+    ],
+    "credit": "Dmitri Lovetsky/AP"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T06:25:01.249918+00:00",
+  "_id": "8bb3811314ee",
+  "brut": {
+    "title": "Au Brésil, le port de Pecem se rêve en champion mondial de l’hydrogène vert",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, le port de Pecem se rêve en champion mondial de l’hydrogène vert"
+    },
+    "published": "Fri, 24 Jul 2026 06:00:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      4,
+      0,
+      35,
+      4,
+      205,
+      0
+    ],
+    "summary": "« La ruée sur les ports » (15/16). Le président Lula ambitionne de transformer le port du Nordeste brésilien, une région où la production d’énergies renouvelables est abondante, en un vaste hub d’exportation d’hydrogène vert. Mais le projet peine à se concrétiser.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La ruée sur les ports » (15/16). Le président Lula ambitionne de transformer le port du Nordeste brésilien, une région où la production d’énergies renouvelables est abondante, en un vaste hub d’exportation d’hydrogène vert. Mais le projet peine à se concrétiser."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/24/au-bresil-le-port-de-pecem-se-reve-en-champion-mondial-de-l-hydrogene-vert_6731423_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/24/au-bresil-le-port-de-pecem-se-reve-en-champion-mondial-de-l-hydrogene-vert_6731423_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/24/au-bresil-le-port-de-pecem-se-reve-en-champion-mondial-de-l-hydrogene-vert_6731423_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/250/0/3000/1500/644/322/60/0/60fb9b9_upload-1-9gflkab656ut-pecem.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Francisco Proner pour « Le Monde » ; Airbus/Data SIO/NOAA/US Navy/NGA/GEBCO"
+      }
+    ],
+    "credit": "Francisco Proner pour « Le Monde » ; Airbus/Data SIO/NOAA/US Navy/NGA/GEBCO"
+  }
+}
