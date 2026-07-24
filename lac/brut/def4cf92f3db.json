@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T13:42:35.013169+00:00",
+  "_id": "def4cf92f3db",
+  "brut": {
+    "title": "Espagne : deux des trois incendies à l’ouest de Madrid ont fusionné, formant un seul brasier baptisé « Sierra de l’Ouest »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : deux des trois incendies à l’ouest de Madrid ont fusionné, formant un seul brasier baptisé « Sierra de l’Ouest »"
+    },
+    "published": "Fri, 24 Jul 2026 12:40:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      10,
+      40,
+      47,
+      4,
+      205,
+      0
+    ],
+    "updated": "Fri, 24 Jul 2026 14:55:56 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      24,
+      12,
+      55,
+      56,
+      4,
+      205,
+      0
+    ],
+    "summary": "Les services de secours de la région de Madrid ont confirmé la fusion des feux de San Martin de Valdeiglesias et de Villa del Prado, qui ont déjà ravagé 6 000 hectares. Au moins 19 000 personnes ont déjà été évacuées ou sont confinées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les services de secours de la région de Madrid ont confirmé la fusion des feux de San Martin de Valdeiglesias et de Villa del Prado, qui ont déjà ravagé 6 000 hectares. Au moins 19 000 personnes ont déjà été évacuées ou sont confinées."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/24/espagne-deux-des-trois-incendies-dans-la-region-de-madrid-sont-sur-le-point-de-fusionner-le-feu-est-hors-de-controle-annoncent-les-autorites_6731471_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/espagne-deux-des-trois-incendies-dans-la-region-de-madrid-sont-sur-le-point-de-fusionner-le-feu-est-hors-de-controle-annoncent-les-autorites_6731471_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/24/espagne-deux-des-trois-incendies-dans-la-region-de-madrid-sont-sur-le-point-de-fusionner-le-feu-est-hors-de-controle-annoncent-les-autorites_6731471_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/500/0/6000/3000/644/322/60/0/b13fd5c_ftp-1-3hptqa5dc9yj-2026-07-23t203711z-13200071-rc2wjma5v3fd-rtrmadp-3-europe-weather-spain-wildfire.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’incendie qui ravage la province d’Avila, qui borde la région madrilène, le 23 juillet 2026. Cette photographie a été prise près de la commune de Burgohondo."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ana Beltran / REUTERS"
+      }
+    ],
+    "credit": "Ana Beltran / REUTERS"
+  }
+}

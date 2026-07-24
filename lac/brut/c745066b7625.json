@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T13:42:35.091956+00:00",
+  "_id": "c745066b7625",
+  "brut": {
+    "title": "\"C'est une catastrophe\" : 19 000 personnes évacuées ou confinées dans la région de Madrid, où sévit le \"pire incendie de l'histoire\" de la zone",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"C'est une catastrophe\" : 19 000 personnes évacuées ou confinées dans la région de Madrid, où sévit le \"pire incendie de l'histoire\" de la zone"
+    },
+    "summary": "L'Union européenne a annoncé déployer quatre avions bombardiers d'eau pour lutter contre les feux en Espagne, un dispositif qui s'ajoute aux trois avions annoncés dès jeudi pour la France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Union européenne a annoncé déployer quatre avions bombardiers d'eau pour lutter contre les feux en Espagne, un dispositif qui s'ajoute aux trois avions annoncés dès jeudi pour la France."
+    },
+    "published": "Fri, 24 Jul 2026 15:06:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      13,
+      6,
+      51,
+      4,
+      205,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/c-est-une-catastrophe-19-000-personnes-evacuees-ou-confinees-dans-la-region-de-madrid-ou-sevit-le-pire-incendie-de-l-histoire-de-la-zone_8120666.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/06tvm1Hqh761f0YrqM0mTbdSOko/0x78:1500x922/432x243/filters:format(jpg):quality(50)/2026/07/24/6a635ff06d525794099074.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/c-est-une-catastrophe-19-000-personnes-evacuees-ou-confinees-dans-la-region-de-madrid-ou-sevit-le-pire-incendie-de-l-histoire-de-la-zone_8120666.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/c-est-une-catastrophe-19-000-personnes-evacuees-ou-confinees-dans-la-region-de-madrid-ou-sevit-le-pire-incendie-de-l-histoire-de-la-zone_8120666.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

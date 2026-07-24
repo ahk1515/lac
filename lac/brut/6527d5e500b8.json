@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T13:42:35.012548+00:00",
+  "_id": "6527d5e500b8",
+  "brut": {
+    "title": "La Hongrie annonce enquêter sur un troupeau de zèbres appartenant à un proche de Viktor Orban",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Hongrie annonce enquêter sur un troupeau de zèbres appartenant à un proche de Viktor Orban"
+    },
+    "published": "Fri, 24 Jul 2026 14:14:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      12,
+      14,
+      36,
+      4,
+      205,
+      0
+    ],
+    "summary": "Ces animaux sont la propriété de Lorinc Meszaros, l’un des hommes les plus riches de Hongrie, considéré comme le prête-nom de Viktor Orban.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces animaux sont la propriété de Lorinc Meszaros, l’un des hommes les plus riches de Hongrie, considéré comme le prête-nom de Viktor Orban."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/24/la-hongrie-annonce-enqueter-sur-un-troupeau-de-zebres-appartenant-a-un-proche-de-viktor-orban_6731502_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/la-hongrie-annonce-enqueter-sur-un-troupeau-de-zebres-appartenant-a-un-proche-de-viktor-orban_6731502_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/24/la-hongrie-annonce-enqueter-sur-un-troupeau-de-zebres-appartenant-a-un-proche-de-viktor-orban_6731502_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/688/0/8256/4128/644/322/60/0/0d1b39b_ftp-1-7olvmlvcaaqf-2026-07-22t144647z-1145851679-rc2wimakts7r-rtrmadp-3-hungary-politics-orban.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’ancien premier ministre hongrois Viktor Orban tient une conférence de presse, à Budapest, le 22 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marton Monus / REUTERS"
+      }
+    ],
+    "credit": "Marton Monus / REUTERS"
+  }
+}

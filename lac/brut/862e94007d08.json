@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T13:42:35.091789+00:00",
+  "_id": "862e94007d08",
+  "brut": {
+    "title": "En Ukraine, 10 morts et près de 100 blessés dans une attaque de missile russe près de Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, 10 morts et près de 100 blessés dans une attaque de missile russe près de Kiev"
+    },
+    "summary": "L'attaque de Moscou visait une exposition annoncée sur les réseaux sociaux et rassemblant des professionnels du secteur de la défense. Dans ce contexte, le procureur général d'Ukraine a annoncé l'ouverture d'une enquête pour \"négligence ayant entraîné la mort\" concernant \"d'éventuels manquements aux obligations\" lors de l'organisation de cet événement militaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'attaque de Moscou visait une exposition annoncée sur les réseaux sociaux et rassemblant des professionnels du secteur de la défense. Dans ce contexte, le procureur général d'Ukraine a annoncé l'ouverture d'une enquête pour \"négligence ayant entraîné la mort\" concernant \"d'éventuels manquements aux obligations\" lors de l'organisation de cet événement militaire."
+    },
+    "published": "Fri, 24 Jul 2026 15:27:42 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      13,
+      27,
+      42,
+      4,
+      205,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-10-morts-et-pres-de-100-blesses-dans-une-attaque-de-missile-russe-pres-de-kiev_8120759.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/pQJm9OrwlEwgOruX8MNsl-TXsqM/0x166:4300x2585/432x243/filters:format(jpg):quality(50)/2026/07/24/6a63680405648845179920.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-10-morts-et-pres-de-100-blesses-dans-une-attaque-de-missile-russe-pres-de-kiev_8120759.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-10-morts-et-pres-de-100-blesses-dans-une-attaque-de-missile-russe-pres-de-kiev_8120759.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

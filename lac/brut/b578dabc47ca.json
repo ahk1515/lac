@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T13:42:35.011949+00:00",
+  "_id": "b578dabc47ca",
+  "brut": {
+    "title": "Les Etats-Unis sanctionnent l’armée soudanaise pour l’usage d’armes chimiques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis sanctionnent l’armée soudanaise pour l’usage d’armes chimiques"
+    },
+    "published": "Fri, 24 Jul 2026 15:30:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      13,
+      30,
+      3,
+      4,
+      205,
+      0
+    ],
+    "summary": "La décision américaine intervient après le largage de barils de chlore en septembre 2024. Des faits étayés par des enquêtes du « New York Times » et de France 24, que l’armée soudanaise continue de nier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La décision américaine intervient après le largage de barils de chlore en septembre 2024. Des faits étayés par des enquêtes du « New York Times » et de France 24, que l’armée soudanaise continue de nier."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/24/les-etats-unis-sanctionnent-l-armee-soudanaise-pour-l-usage-d-armes-chimiques_6731507_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/24/les-etats-unis-sanctionnent-l-armee-soudanaise-pour-l-usage-d-armes-chimiques_6731507_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/24/les-etats-unis-sanctionnent-l-armee-soudanaise-pour-l-usage-d-armes-chimiques_6731507_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/23/0/3096/1548/644/322/60/0/0f5f0ac_upload-1-w1gowb847hyc-000-b2z79kf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Abdel Fattah Abdelrahman Al-Bourhane, le chef de l’armée et dirigeant de facto du Soudan, à Bahri, le 15 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EBRAHIM HAMID/AFP"
+      }
+    ],
+    "credit": "EBRAHIM HAMID/AFP"
+  }
+}

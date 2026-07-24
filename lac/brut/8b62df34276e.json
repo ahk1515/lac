@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T13:42:35.092278+00:00",
+  "_id": "8b62df34276e",
+  "brut": {
+    "title": "5, 10, 20, 50 euros... Vous pouvez choisir vos futurs billets",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "5, 10, 20, 50 euros... Vous pouvez choisir vos futurs billets"
+    },
+    "summary": "La présidente de la Banque centrale européenne, Christine Lagarde, a dévoilé les dix propositions des futurs billets en euros, jeudi 23 juillet. Les Européens sont désormais invités à choisir leurs designs préférés sur une plateforme en ligne. Ce vote citoyen contribuera à la décision finale de la BCE, attendue d'ici la fin de l'année 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La présidente de la Banque centrale européenne, Christine Lagarde, a dévoilé les dix propositions des futurs billets en euros, jeudi 23 juillet. Les Européens sont désormais invités à choisir leurs designs préférés sur une plateforme en ligne. Ce vote citoyen contribuera à la décision finale de la BCE, attendue d'ici la fin de l'année 2026."
+    },
+    "published": "Fri, 24 Jul 2026 14:33:56 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      12,
+      33,
+      56,
+      4,
+      205,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/union-europeenne/5-10-20-50-euros-vous-pouvez-choisir-vos-futurs-billets_8120714.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NK1O_Vcuqjne2RJW_J3ns6F3kQc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/24/6a635b8c10af9561671276.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/5-10-20-50-euros-vous-pouvez-choisir-vos-futurs-billets_8120714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/union-europeenne/5-10-20-50-euros-vous-pouvez-choisir-vos-futurs-billets_8120714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
