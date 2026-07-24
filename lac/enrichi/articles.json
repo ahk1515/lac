@@ -5339,6 +5339,31 @@
     ]
   },
   {
+    "date": "Fri, 24 Jul 2026 00:00:04 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Aux Etats-Unis, une enquête ouverte contre un agent du Secret Service de J.D. Vance pour fuite présumée d'informations",
+    "texte": "Cet agent est accusé d'avoir fait fuiter des informations à l'origine de révélations selon lesquelles le vice-président des Etats-Unis souhaitait utiliser un hélicoptère militaire pour emmener son fils au golf.",
+    "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "523806979a9d",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 23 Jul 2026 23:12:27 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Soupçonné de faire partie de la flotte fantôme russe, le pétrolier immobilisé à Marseille autorisé à repartir après paiement d'une amende",
+    "texte": "Le \"Deliver\", un navire de 275 mètres de long battant pavillon camerounais, avait été arraisonné le 23 juin au large de la Sicile par la marine française.",
+    "url": "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "196653810366",
+    "pays": [
+      "FRA",
+      "RUS"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -12956,6 +12981,80 @@
     "pays": [
       "IRN",
       "USA"
+    ]
+  },
+  {
+    "date": "Fri, 24 Jul 2026 03:17:00 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "En Tunisie, l’opposant Rached Ghannouchi, incarcéré, est dans un état « critique », selon ses avocats",
+    "texte": "La défense du chef du parti islamo-conservateur Ennahdha, âgé de 85 ans, a alerté sur une « grave détérioration » de son état de santé, après avoir appris qu’il avait perdu connaissance en prison.",
+    "url": "https://www.lemonde.fr/afrique/article/2026/07/24/en-tunisie-l-opposant-rached-ghannouchi-incarcere-est-dans-un-etat-critique-selon-ses-avocats_6731374_3212.html",
+    "id": "b7678925057f",
+    "pays": []
+  },
+  {
+    "date": "Fri, 24 Jul 2026 03:00:08 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "En Chine, la célébration opportune des Tigres volants américains",
+    "texte": "Cet escadron, qui a appuyé l’armée chinoise dans les airs contre les avancées japonaises durant la seconde guerre mondiale, est exploité diplomatiquement par Pékin pour essayer d’influer sur l’attitude de Washington à son égard.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
+    "id": "cd0a6e3fbb14",
+    "pays": [
+      "CHN",
+      "USA"
+    ]
+  },
+  {
+    "date": "Fri, 24 Jul 2026 02:20:50 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Droits de douane : Donald Trump poursuit sa guerre commerciale par tous les moyens",
+    "texte": "Les Etats-Unis ont annoncé, jeudi, la mise en place de nouvelles taxes sur les importations allant de 10 % à 12,5 % visant 60 pays, alors que les précédentes arrivaient à échéance. Ce dispositif devrait rester en place quelque temps, en attendant d’éventuelles contestations en justice.",
+    "url": "https://www.lemonde.fr/economie/article/2026/07/24/droits-de-douane-donald-trump-poursuit-sa-guerre-commerciale-par-tous-les-moyens_6731308_3234.html",
+    "id": "2132ae9d5b92",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Fri, 24 Jul 2026 01:48:49 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Donald Trump ne s’opposera pas à l’extradition des frères Tate vers le Royaume-Uni, selon la Maison Blanche",
+    "texte": "« Il n’y a aucun rôle à jouer pour nous à ce stade, et peut-être même jamais, dans cette affaire », a déclaré de son côté le secrétaire d’Etat américain, Marco Rubio, mercredi.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-vers-le-royaume-uni-selon-la-maison-blanche_6731242_3210.html",
+    "id": "f79ced6dd3d5",
+    "pays": [
+      "GBR",
+      "USA"
+    ]
+  },
+  {
+    "date": "Fri, 24 Jul 2026 01:35:03 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent bombarder l’Iran pour la treizième nuit de suite",
+    "texte": "Ces nouvelles frappes visent notamment à « réduire les menaces que fait peser le corps des gardiens de la révolution islamique sur la marine marchande », a affirmé, jeudi, le commandement militaire américain pour le Moyen-Orient.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-au-moyen-orient-les-etats-unis-annoncent-bombarder-l-iran-pour-la-treizieme-nuit-de-suite_6725301_3210.html",
+    "id": "b1d4fa5ce2de",
+    "pays": [
+      "IRN",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 23 Jul 2026 23:37:52 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de l’adoption par l’Union européenne de nouvelles sanctions contre la Russie",
+    "texte": "Salut des mesures « fortes » pour limiter les revenus russes, le président ukrainien a par ailleurs assuré qu’il comptait sur un travail « actif » autour d’un vingt-deuxième train de sanctions, censé permettre des « restrictions supplémentaires » visant la Russe.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-l-adoption-par-l-union-europeenne-de-nouvelles-sanctions-contre-la-russie_6725306_3210.html",
+    "id": "6b79bffe3b1f",
+    "pays": [
+      "RUS",
+      "UKR"
     ]
   }
 ]

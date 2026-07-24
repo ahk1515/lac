@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T02:34:53.245837+00:00",
+  "_id": "523806979a9d",
+  "brut": {
+    "title": "Aux Etats-Unis, une enquête ouverte contre un agent du Secret Service de J.D. Vance pour fuite présumée d'informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux Etats-Unis, une enquête ouverte contre un agent du Secret Service de J.D. Vance pour fuite présumée d'informations"
+    },
+    "summary": "Cet agent est accusé d'avoir fait fuiter des informations à l'origine de révélations selon lesquelles le vice-président des Etats-Unis souhaitait utiliser un hélicoptère militaire pour emmener son fils au golf.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cet agent est accusé d'avoir fait fuiter des informations à l'origine de révélations selon lesquelles le vice-président des Etats-Unis souhaitait utiliser un hélicoptère militaire pour emmener son fils au golf."
+    },
+    "published": "Fri, 24 Jul 2026 00:00:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      22,
+      0,
+      4,
+      3,
+      204,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/y_0MEsqjAy8Zy5cSSYpxGJUitGE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/23/6a628e6212a15401282707.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

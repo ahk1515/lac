@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-24T02:34:53.246115+00:00",
+  "_id": "196653810366",
+  "brut": {
+    "title": "Soupçonné de faire partie de la flotte fantôme russe, le pétrolier immobilisé à Marseille autorisé à repartir après paiement d'une amende",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Soupçonné de faire partie de la flotte fantôme russe, le pétrolier immobilisé à Marseille autorisé à repartir après paiement d'une amende"
+    },
+    "summary": "Le \"Deliver\", un navire de 275 mètres de long battant pavillon camerounais, avait été arraisonné le 23 juin au large de la Sicile par la marine française.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le \"Deliver\", un navire de 275 mètres de long battant pavillon camerounais, avait été arraisonné le 23 juin au large de la Sicile par la marine française."
+    },
+    "published": "Thu, 23 Jul 2026 23:12:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      21,
+      12,
+      27,
+      3,
+      204,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/EXwayfoTdZUVKftbW-9WcgPe3Mo/1x0:1024x575/432x243/filters:format(jpg):quality(50)/2026/07/23/6a6282bf3e3b5523930601.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

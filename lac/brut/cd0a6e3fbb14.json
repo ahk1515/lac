@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T02:34:52.978629+00:00",
+  "_id": "cd0a6e3fbb14",
+  "brut": {
+    "title": "En Chine, la célébration opportune des Tigres volants américains",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, la célébration opportune des Tigres volants américains"
+    },
+    "published": "Fri, 24 Jul 2026 03:00:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      24,
+      1,
+      0,
+      8,
+      4,
+      205,
+      0
+    ],
+    "summary": "Cet escadron, qui a appuyé l’armée chinoise dans les airs contre les avancées japonaises durant la seconde guerre mondiale, est exploité diplomatiquement par Pékin pour essayer d’influer sur l’attitude de Washington à son égard.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cet escadron, qui a appuyé l’armée chinoise dans les airs contre les avancées japonaises durant la seconde guerre mondiale, est exploité diplomatiquement par Pékin pour essayer d’influer sur l’attitude de Washington à son égard."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/0/0/2934/1467/644/322/60/0/aafd95f_upload-1-pqeupajpxc9s-a-chinese-soldier-guards-a-line-of-american-p-40-fighter-planes-painted-with-the-shark-face-emblem-of-the-flying-nara-535531.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un soldat chinois monte la garde devant des avions de chasse américains Curtiss P-40 Warhawk, de l’escadron des Tigres volants, en Chine, vers 1942."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "U.S. National Archives and Records Administration"
+      }
+    ],
+    "credit": "U.S. National Archives and Records Administration"
+  }
+}

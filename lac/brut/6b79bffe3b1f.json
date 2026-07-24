@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-24T02:34:52.979323+00:00",
+  "_id": "6b79bffe3b1f",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de l’adoption par l’Union européenne de nouvelles sanctions contre la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de l’adoption par l’Union européenne de nouvelles sanctions contre la Russie"
+    },
+    "published": "Thu, 23 Jul 2026 23:37:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      21,
+      37,
+      52,
+      3,
+      204,
+      0
+    ],
+    "summary": "Salut des mesures « fortes » pour limiter les revenus russes, le président ukrainien a par ailleurs assuré qu’il comptait sur un travail « actif » autour d’un vingt-deuxième train de sanctions, censé permettre des « restrictions supplémentaires » visant la Russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Salut des mesures « fortes » pour limiter les revenus russes, le président ukrainien a par ailleurs assuré qu’il comptait sur un travail « actif » autour d’un vingt-deuxième train de sanctions, censé permettre des « restrictions supplémentaires » visant la Russe."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-l-adoption-par-l-union-europeenne-de-nouvelles-sanctions-contre-la-russie_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-l-adoption-par-l-union-europeenne-de-nouvelles-sanctions-contre-la-russie_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-l-adoption-par-l-union-europeenne-de-nouvelles-sanctions-contre-la-russie_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/423/0/2974/1487/644/322/60/0/cfaaa68_ftp-1-1cqo0sdyr6fe-d3a94c3af0fe40368bef603a522275e7-0-0207fdebf2a64011ad4aff32b6f73f94.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Volodymyr Zelensky, à Kiev, le 23 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP"
+  }
+}
