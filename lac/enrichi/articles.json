@@ -5754,6 +5754,31 @@
     "pays": []
   },
   {
+    "date": "Sat, 25 Jul 2026 15:02:18 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Des frappes en Ukraine et en Russie font au moins 15 morts",
+    "texte": "Dans la partie occupée de la région de Zaporijjia, le responsable installé par Moscou a déclaré qu'une attaque ukrainienne sur un village au bord de la mer d'Azov avait tué huit personnes.",
+    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "97fd76ad1b48",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Sat, 25 Jul 2026 11:58:27 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "En Inde, en pleine fronde des étudiants, le ministre de l'Education annonce sa démission",
+    "texte": "Le départ de Dharmendra Pradhan était demandé en raison d'une série de fraudes aux examens universitaires.",
+    "url": "https://www.franceinfo.fr/monde/inde/contestation-des-etudiants-en-inde-le-ministre-de-l-education-annonce-sa-demission_8121827.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "ff134b7379bd",
+    "pays": [
+      "IND"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -14182,6 +14207,64 @@
     "id": "9bb4b7be6b3a",
     "pays": [
       "IRN"
+    ]
+  },
+  {
+    "date": "Sat, 25 Jul 2026 14:59:02 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "En Chine, à l’approche du typhon Noul, plus de 20 000 personnes évacuées",
+    "texte": "Le typhon devrait toucher terre dans la zone côtière s’étendant de Hongkong à la province du Guangdong (sud) entre samedi dans la soirée et dimanche matin, a déclaré le Centre météorologique national chinois.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/25/en-chine-a-l-approche-du-typhon-noul-plus-de-20-000-personnes-evacuees_6732341_3210.html",
+    "id": "1f657311e847",
+    "pays": [
+      "CHN"
+    ]
+  },
+  {
+    "date": "Sat, 25 Jul 2026 14:00:05 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "La Tunisie, autopsie d’un basculement autoritaire",
+    "texte": "Depuis que le processus de concentration des pouvoirs s’est enclenché, le 25 juillet 2021, le chef de l’Etat tunisien a peu à peu verrouillé l’espace public. Arrestations et condamnations se sont multipliées. « Le Monde » s’est plongé dans cinq ans de machine répressive.",
+    "url": "https://www.lemonde.fr/afrique/visuel/2026/07/25/tunisie-autopsie-d-un-basculement-autoritaire_6732308_3212.html",
+    "id": "1bb759a8b061",
+    "pays": []
+  },
+  {
+    "date": "Sat, 25 Jul 2026 13:53:14 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : l’Iran considère qu’il n’y a « pas de solution militaire » au conflit entre les houthistes du Yémen et l’Arabie saoudite",
+    "texte": "Dans une interview publiée samedi par le quotidien d’Etat Iran Daily, le ministre des affaires étrangères iranien, Abbas Araghtchi, a appelé au « dialogue » entre les Saoudiens et les houthistes, soutenus par Téhéran.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-l-iran-considere-qu-il-n-y-a-pas-de-solution-militaire-au-conflit-entre-les-houthistes-du-yemen-et-l-arabie-saoudite_6725301_3210.html",
+    "id": "67f7431d4694",
+    "pays": [
+      "IRN"
+    ]
+  },
+  {
+    "date": "Sat, 25 Jul 2026 12:00:11 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Dans l’océan Atlantique, la difficile lutte de la marine française contre le trafic de cocaïne",
+    "texte": "« L’Afrique sous emprise » (6/6). La France assure depuis 1990 une présence militaire quasi permanente le long du littoral ouest-africain pour tenter d’endiguer le trafic de drogue qui inonde l’Hexagone et le reste de l’Europe. Entre 2010 et 2023, le marché français des stupéfiants a presque triplé.",
+    "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/25/dans-l-ocean-atlantique-la-difficile-lutte-de-la-marine-francaise-contre-le-trafic-de-cocaine_6732170_3451060.html",
+    "id": "b133f0c8aef1",
+    "pays": [
+      "FRA"
+    ]
+  },
+  {
+    "date": "Sat, 25 Jul 2026 11:58:28 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Inde : le ministre de l’éducation démissionne sous la pression des étudiants et du Parti du peuple des cafards",
+    "texte": "A la suite de cette annonce, les représentants des étudiants indiens qui manifestaient dans la capitale New Delhi pour dénoncer les fraudes aux examens universitaires ont annoncé samedi la fin de leur mobilisation.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/25/en-inde-le-ministre-de-l-education-demissionne-sous-la-pression-des-etudiants-en-colere-contre-les-fraudes-aux-examens_6732169_3210.html",
+    "id": "307793066f3f",
+    "pays": [
+      "IND"
     ]
   }
 ]

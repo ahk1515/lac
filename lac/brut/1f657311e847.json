@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-25T13:23:13.122069+00:00",
+  "_id": "1f657311e847",
+  "brut": {
+    "title": "En Chine, à l’approche du typhon Noul, plus de 20 000 personnes évacuées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, à l’approche du typhon Noul, plus de 20 000 personnes évacuées"
+    },
+    "published": "Sat, 25 Jul 2026 14:59:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      12,
+      59,
+      2,
+      5,
+      206,
+      0
+    ],
+    "updated": "Sat, 25 Jul 2026 15:17:38 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      25,
+      13,
+      17,
+      38,
+      5,
+      206,
+      0
+    ],
+    "summary": "Le typhon devrait toucher terre dans la zone côtière s’étendant de Hongkong à la province du Guangdong (sud) entre samedi dans la soirée et dimanche matin, a déclaré le Centre météorologique national chinois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le typhon devrait toucher terre dans la zone côtière s’étendant de Hongkong à la province du Guangdong (sud) entre samedi dans la soirée et dimanche matin, a déclaré le Centre météorologique national chinois."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/25/en-chine-a-l-approche-du-typhon-noul-plus-de-20-000-personnes-evacuees_6732341_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/25/en-chine-a-l-approche-du-typhon-noul-plus-de-20-000-personnes-evacuees_6732341_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/25/en-chine-a-l-approche-du-typhon-noul-plus-de-20-000-personnes-evacuees_6732341_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/375/0/4500/2250/644/322/60/0/ec0587b_ftp-1-04uqgsh8n7zh-2026-07-20t014424z-2005828523-rc23emal3a5r-rtrmadp-3-china-disaster-training.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Séance de simulation de vents et de pluies de la force d’un typhon pendant un entraînement à la survie, au centre de formation aux catastrophes Lvxing, à Hangzhou (Chine), le 15 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Go Nakamura/REUTERS"
+      }
+    ],
+    "credit": "Go Nakamura/REUTERS"
+  }
+}

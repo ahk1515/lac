@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-25T13:23:13.248314+00:00",
+  "_id": "ff134b7379bd",
+  "brut": {
+    "title": "En Inde, en pleine fronde des étudiants, le ministre de l'Education annonce sa démission",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Inde, en pleine fronde des étudiants, le ministre de l'Education annonce sa démission"
+    },
+    "summary": "Le départ de Dharmendra Pradhan était demandé en raison d'une série de fraudes aux examens universitaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le départ de Dharmendra Pradhan était demandé en raison d'une série de fraudes aux examens universitaires."
+    },
+    "published": "Sat, 25 Jul 2026 11:58:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      9,
+      58,
+      27,
+      5,
+      206,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/inde/contestation-des-etudiants-en-inde-le-ministre-de-l-education-annonce-sa-demission_8121827.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QkqegbPhk0mNKRNTH2OcpAx_6Go/0x87:1024x663/432x243/filters:format(jpg):quality(50)/2026/07/25/6a648638b09c7134993635.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/inde/contestation-des-etudiants-en-inde-le-ministre-de-l-education-annonce-sa-demission_8121827.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/inde/contestation-des-etudiants-en-inde-le-ministre-de-l-education-annonce-sa-demission_8121827.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

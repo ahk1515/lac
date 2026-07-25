@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-25T13:23:13.248081+00:00",
+  "_id": "97fd76ad1b48",
+  "brut": {
+    "title": "Des frappes en Ukraine et en Russie font au moins 15 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des frappes en Ukraine et en Russie font au moins 15 morts"
+    },
+    "summary": "Dans la partie occupée de la région de Zaporijjia, le responsable installé par Moscou a déclaré qu'une attaque ukrainienne sur un village au bord de la mer d'Azov avait tué huit personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans la partie occupée de la région de Zaporijjia, le responsable installé par Moscou a déclaré qu'une attaque ukrainienne sur un village au bord de la mer d'Azov avait tué huit personnes."
+    },
+    "published": "Sat, 25 Jul 2026 15:02:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      13,
+      2,
+      18,
+      5,
+      206,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wD-yqMFuc--2aNMOevRfFuHlkqQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/25/6a649f5d1b298130125814.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
