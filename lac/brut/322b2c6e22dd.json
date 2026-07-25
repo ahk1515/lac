@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-25T06:16:55.116702+00:00",
+  "_id": "322b2c6e22dd",
+  "brut": {
+    "title": "Entre surveillance et censure, comment informer sur la Russie et l’Iran ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Entre surveillance et censure, comment informer sur la Russie et l’Iran ?"
+    },
+    "published": "Sat, 25 Jul 2026 07:00:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      5,
+      0,
+      7,
+      5,
+      206,
+      0
+    ],
+    "summary": "« Festival international de journalisme » (2/7). Etre journaliste en Iran et en Russie est souvent compliqué. Alors, comment continuer d’informer malgré tout ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Festival international de journalisme » (2/7). Etre journaliste en Iran et en Russie est souvent compliqué. Alors, comment continuer d’informer malgré tout ?"
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/07/25/entre-surveillance-et-censure-comment-informer-sur-la-russie-et-l-iran_6731825_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/07/25/entre-surveillance-et-censure-comment-informer-sur-la-russie-et-l-iran_6731825_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/07/25/entre-surveillance-et-censure-comment-informer-sur-la-russie-et-l-iran_6731825_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/250/0/3000/1500/644/322/60/0/882dc7d_upload-1-vjtrp158gim1-festival.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Festival international de journalisme avait lieu du 10 au 12 juillet à Couthures-sur-Garonne, organisé par le Groupe Le Monde et le Nouvel Obs."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Le Monde"
+      }
+    ],
+    "credit": "Le Monde"
+  }
+}

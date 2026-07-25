@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-25T06:16:55.117320+00:00",
+  "_id": "ca425fc432a4",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins deux personnes tuées dans une frappe russe à Soumy, dans le nord du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins deux personnes tuées dans une frappe russe à Soumy, dans le nord du pays"
+    },
+    "published": "Sat, 25 Jul 2026 06:34:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      4,
+      34,
+      25,
+      5,
+      206,
+      0
+    ],
+    "summary": "Ces frappes surviennent au lendemain d’une attaque de missile russe contre une démonstration d’équipements militaires, dans la région de Kiev, qui a tué vendredi au moins dix personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces frappes surviennent au lendemain d’une attaque de missile russe contre une démonstration d’équipements militaires, dans la région de Kiev, qui a tué vendredi au moins dix personnes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-deux-personnes-tuees-dans-une-frappe-russe-a-soumy-dans-le-nord-du-pays_6725306_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-deux-personnes-tuees-dans-une-frappe-russe-a-soumy-dans-le-nord-du-pays_6725306_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-deux-personnes-tuees-dans-une-frappe-russe-a-soumy-dans-le-nord-du-pays_6725306_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/107/0/1280/640/644/322/60/0/297baa2_ftp-1-qegajx8rq3qc-2026-07-24t200429z-212236074-rc2jkma6kd7j-rtrmadp-3-ukraine-crisis-attack-sloviansk.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des sauveteurs évacuent des blessés lors d’une frappe aérienne russe, dans la ville de Sloviansk (Ukraine), le 24 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service d’Urgences ukrainien/via REUTERS"
+      }
+    ],
+    "credit": "Service d’Urgences ukrainien/via REUTERS"
+  }
+}
