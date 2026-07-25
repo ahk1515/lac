@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-25T09:45:53.763916+00:00",
+  "_id": "73d3ddb48231",
+  "brut": {
+    "title": "Un citoyen français arbitrairement détenu en Arabie saoudite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un citoyen français arbitrairement détenu en Arabie saoudite"
+    },
+    "published": "Sat, 25 Jul 2026 11:00:13 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      9,
+      0,
+      13,
+      5,
+      206,
+      0
+    ],
+    "summary": "Depuis deux ans, Amr Abdelfattah, un chercheur français d’origine égyptienne, est incarcéré dans une prison du royaume, où il dit subir de mauvais traitements. D’abord arrêté pour des faits mineurs en juin 2024, ce père de famille a vu ces motifs requalifiés en accusations de terrorisme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis deux ans, Amr Abdelfattah, un chercheur français d’origine égyptienne, est incarcéré dans une prison du royaume, où il dit subir de mauvais traitements. D’abord arrêté pour des faits mineurs en juin 2024, ce père de famille a vu ces motifs requalifiés en accusations de terrorisme."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/25/un-citoyen-francais-arbitrairement-detenu-en-arabie-saoudite_6732131_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/25/un-citoyen-francais-arbitrairement-detenu-en-arabie-saoudite_6732131_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/25/un-citoyen-francais-arbitrairement-detenu-en-arabie-saoudite_6732131_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/482/0/7543/3771/644/322/60/0/a58039a_upload-1-6gm5fybgbz1w-ap26142540010416.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pèlerins musulmans passent un poste de contrôle de sécurité à leur arrivée à la Grande Mosquée, à l’occasion du pèlerinage annuel du Hadj, à La Mecque (Arabie saoudite), le 22 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Altaf Qadri/AP"
+      }
+    ],
+    "credit": "Altaf Qadri/AP"
+  }
+}

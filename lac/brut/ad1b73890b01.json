@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-25T09:45:54.259874+00:00",
+  "_id": "ad1b73890b01",
+  "brut": {
+    "title": "Une stagiaire de l'Otan, soupçonnée d'espionnage, arrêtée en Belgique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une stagiaire de l'Otan, soupçonnée d'espionnage, arrêtée en Belgique"
+    },
+    "summary": "Cette ressortissante canadienne d'origine chinoise travaillait au quartier général stratégique des Puissances Alliées en Europe de l'Otan, à Mons.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette ressortissante canadienne d'origine chinoise travaillait au quartier général stratégique des Puissances Alliées en Europe de l'Otan, à Mons."
+    },
+    "published": "Sat, 25 Jul 2026 09:40:00 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      7,
+      40,
+      0,
+      5,
+      206,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/otan/une-stagiaire-de-l-otan-soupconnee-d-espionnage-arretee-en-belgique_8121653.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Gpt1wcVaNPGjNNY6HKBrdk_MDMo/0x224:4300x2643/432x243/filters:format(jpg):quality(50)/2026/07/25/6a6468469ed7f126776082.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/otan/une-stagiaire-de-l-otan-soupconnee-d-espionnage-arretee-en-belgique_8121653.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/otan/une-stagiaire-de-l-otan-soupconnee-d-espionnage-arretee-en-belgique_8121653.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

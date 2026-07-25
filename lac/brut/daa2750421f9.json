@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-25T09:45:54.259964+00:00",
+  "_id": "daa2750421f9",
+  "brut": {
+    "title": "Les Houthis revendiquent une frappe en Arabie saoudite, après des attaques de Ryad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Houthis revendiquent une frappe en Arabie saoudite, après des attaques de Ryad"
+    },
+    "summary": "Ces insurgés pro-Iran ont pris pour cible des navires circulant en mer Rouge ces derniers jours, étendant le conflit au Moyen-Orient.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces insurgés pro-Iran ont pris pour cible des navires circulant en mer Rouge ces derniers jours, étendant le conflit au Moyen-Orient."
+    },
+    "published": "Sat, 25 Jul 2026 09:09:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      7,
+      9,
+      10,
+      5,
+      206,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-revendiquent-une-frappe-en-arabie-saoudite-apres-des-attaques-de-ryad_8121656.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/1JLRSivwPpl2K-hzB3E4XIA9Tig/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/25/6a64610321102428368093.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-revendiquent-une-frappe-en-arabie-saoudite-apres-des-attaques-de-ryad_8121656.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-revendiquent-une-frappe-en-arabie-saoudite-apres-des-attaques-de-ryad_8121656.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

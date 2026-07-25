@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-25T09:45:54.259647+00:00",
+  "_id": "a9c06d901dae",
+  "brut": {
+    "title": "En Espagne, les incendies dans les régions de Madrid et d'Avila ont ravagé jusqu'à 25 000 hectares",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, les incendies dans les régions de Madrid et d'Avila ont ravagé jusqu'à 25 000 hectares"
+    },
+    "summary": "Le Premier ministre a déclaré que la priorité était de \"sauver des vies\" alors que des vents \"erratiques\" risquent d'aggraver la situation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Premier ministre a déclaré que la priorité était de \"sauver des vies\" alors que des vents \"erratiques\" risquent d'aggraver la situation."
+    },
+    "published": "Sat, 25 Jul 2026 11:34:17 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      9,
+      34,
+      17,
+      5,
+      206,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-les-incendies-dans-les-regions-de-madrid-et-d-avila-ont-ravage-jusqu-a-25-000-hectares_8121785.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NCTifDbekA9sinecrawbkBJO0EI/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/25/6a6482fe855f5978996163.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-les-incendies-dans-les-regions-de-madrid-et-d-avila-ont-ravage-jusqu-a-25-000-hectares_8121785.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-les-incendies-dans-les-regions-de-madrid-et-d-avila-ont-ravage-jusqu-a-25-000-hectares_8121785.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

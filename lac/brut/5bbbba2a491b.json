@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-25T09:45:53.764630+00:00",
+  "_id": "5bbbba2a491b",
+  "brut": {
+    "title": "Frappé par des canicules à répétition, le Maroc craint de manquer d’eau",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Frappé par des canicules à répétition, le Maroc craint de manquer d’eau"
+    },
+    "published": "Sat, 25 Jul 2026 09:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      7,
+      0,
+      3,
+      5,
+      206,
+      0
+    ],
+    "summary": "En trois mois, le pays a connu quatre vagues de chaleur, avec des températures jusqu’à 12 °C au-dessus des normales saisonnières. La raréfaction de l’eau pour les populations affecte aussi l’agriculture, l’industrie et le tourisme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En trois mois, le pays a connu quatre vagues de chaleur, avec des températures jusqu’à 12 °C au-dessus des normales saisonnières. La raréfaction de l’eau pour les populations affecte aussi l’agriculture, l’industrie et le tourisme."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/25/frappe-par-des-canicules-a-repetition-le-maroc-craint-de-manquer-d-eau_6731931_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/25/frappe-par-des-canicules-a-repetition-le-maroc-craint-de-manquer-d-eau_6731931_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/25/frappe-par-des-canicules-a-repetition-le-maroc-craint-de-manquer-d-eau_6731931_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/09/669/0/8024/4012/644/322/60/0/d029a33_upload-1-wknnfpqoot1t-ap25206747304149.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un arganier touché par la sécheresse près d’Essaouira (Maroc), le 22 mai 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mosa'ab Elshamy/AP"
+      }
+    ],
+    "credit": "Mosa'ab Elshamy/AP"
+  }
+}

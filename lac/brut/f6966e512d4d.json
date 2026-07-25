@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-25T09:45:54.259757+00:00",
+  "_id": "f6966e512d4d",
+  "brut": {
+    "title": "La maison natale d'Adolf Hitler transformée en commissariat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La maison natale d'Adolf Hitler transformée en commissariat"
+    },
+    "summary": "La maison dans laquelle Adolf Hitler est né, à Braunau-sur-Inn (Autriche), a été transformée en poste de police. L'inauguration a eu lieu mardi 22 juillet. Coût des travaux : 20 M€. L'objectif est de briser l'attractivité du bâtiment qui attirait des groupes néon*zis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La maison dans laquelle Adolf Hitler est né, à Braunau-sur-Inn (Autriche), a été transformée en poste de police. L'inauguration a eu lieu mardi 22 juillet. Coût des travaux : 20 M€. L'objectif est de briser l'attractivité du bâtiment qui attirait des groupes néon*zis."
+    },
+    "published": "Sat, 25 Jul 2026 10:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      8,
+      0,
+      2,
+      5,
+      206,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/police/la-maison-natale-d-adolf-hitler-transformee-en-commissariat_8120969.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/J4uJtb1l5NZ7xW_NMpY_ioC5qEQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/24/6a6385f501815148317275.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/police/la-maison-natale-d-adolf-hitler-transformee-en-commissariat_8120969.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/police/la-maison-natale-d-adolf-hitler-transformee-en-commissariat_8120969.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
