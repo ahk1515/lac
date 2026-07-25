@@ -5653,6 +5653,29 @@
     ]
   },
   {
+    "date": "Fri, 24 Jul 2026 23:44:14 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Guerre en Ukraine : Kiev a des renseignements \"clairs\" indiquant que Moscou prépare une mobilisation militaire, affirme Volodymyr Zelensky",
+    "texte": "Cette nouvelle vague de mobilisation russe devrait survenir à l'automne, selon le président ukrainien, qui prévient que son homologue russe Vladimir Poutine \"a toujours l'intention d'étendre cette guerre\".",
+    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-a-des-renseignements-clairs-indiquant-que-moscou-prepare-une-mobilisation-militaire-affirme-volodymyr-zelensky_8121251.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "f28a70111a40",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Fri, 24 Jul 2026 23:05:12 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Espagne : une situation \"dramatique\" aux portes de Madrid, menacée par les flammes",
+    "texte": "En Espagne, plusieurs incendies hors de contrôle se trouvent à quelques kilomètres de Madrid, dans la soirée du vendredi 24 juillet. La situation est si dramatique que le Premier ministre, Pedro Sánchez, a déclenché l'état d'urgence dans plusieurs régions.",
+    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/espagne-une-situation-dramatique-aux-portes-de-madrid-menacee-par-les-flammes_8121230.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "fb0da4d33d95",
+    "pays": []
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -13839,6 +13862,32 @@
     "url": "https://www.lemonde.fr/international/article/2026/07/24/amende-a-google-l-union-europeenne-va-payer-un-tres-lourd-prix-menace-donald-trump_6731543_3210.html",
     "id": "731bfdb18ba9",
     "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Sat, 25 Jul 2026 00:56:08 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : une frappe de drone russe fait au moins deux morts à Soumy, dans le nord du pays",
+    "texte": "Ces frappes surviennent au lendemain d’une attaque de missile russe contre une démonstration d’équipements militaires, dans la région de Kiev, qui a tué vendredi au moins dix personnes et blessé près d’une centaine d’autres, à des degrés divers.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-une-frappe-de-drone-russe-fait-au-moins-deux-morts-a-soumy-dans-le-nord-du-pays_6725306_3210.html",
+    "id": "541aff1fbe3a",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Sat, 25 Jul 2026 00:42:42 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme négocier avec l’Iran tout en se disant prêt à intensifier les frappes",
+    "texte": "« On leur parle en ce moment », a déclaré le président américain à propos des dirigeants iraniens. « Je pense qu’ils deviennent de plus en plus sérieux au fil des jours, peut-être pour une raison évidente », a-t-il ajouté, faisant allusion aux bombardements quotidiens que les Etats-Unis mènent sur l’Iran, depuis près de deux semaines.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-donald-trump-affirme-negocier-avec-l-iran-tout-en-se-disant-pret-a-intensifier-les-frappes_6725301_3210.html",
+    "id": "e306c57c9cc3",
+    "pays": [
+      "IRN",
       "USA"
     ]
   }
