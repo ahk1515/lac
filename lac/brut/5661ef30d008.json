@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-25T20:51:26.499135+00:00",
+  "_id": "5661ef30d008",
+  "brut": {
+    "title": "Au Brésil, Flavio Bolsonaro investi candidat pour la présidentielle d'octobre par le principal parti de droite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Brésil, Flavio Bolsonaro investi candidat pour la présidentielle d'octobre par le principal parti de droite"
+    },
+    "summary": "Le sénateur et fils de l'ex-président Jair Bolsonaro, détenu pour tentative de coup d'Etat, a pris la parole lors d'une convention du Parti libéral à Sao Paulo.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le sénateur et fils de l'ex-président Jair Bolsonaro, détenu pour tentative de coup d'Etat, a pris la parole lors d'une convention du Parti libéral à Sao Paulo."
+    },
+    "published": "Sat, 25 Jul 2026 20:54:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      18,
+      54,
+      52,
+      5,
+      206,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/75yPtxoK0pz_PozXn1TZ5QDXqLA/0x509:5986x3876/432x243/filters:format(jpg):quality(50)/2026/07/25/6a64f35aeda28778128709.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
