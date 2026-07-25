@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-25T16:55:40.796268+00:00",
+  "_id": "22809f10cf94",
+  "brut": {
+    "title": "Les images des incendies dans la région de Madrid",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les images des incendies dans la région de Madrid"
+    },
+    "published": "Sat, 25 Jul 2026 17:32:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      25,
+      15,
+      32,
+      16,
+      5,
+      206,
+      0
+    ],
+    "summary": "Trois incendies font rage dans la région de Madrid depuis lundi 20 juillet, et près de 25 000 hectares ont été brûlés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois incendies font rage dans la région de Madrid depuis lundi 20 juillet, et près de 25 000 hectares ont été brûlés."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/25/les-images-des-incendies-a-l-ouest-de-madrid_6732387_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/25/les-images-des-incendies-a-l-ouest-de-madrid_6732387_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/25/les-images-des-incendies-a-l-ouest-de-madrid_6732387_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/25/468/0/5616/2808/644/322/60/0/fc373b7_ftp-1-anncbciddudh-5703234-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CESAR MANSO / AFP"
+      }
+    ],
+    "credit": "CESAR MANSO / AFP"
+  }
+}
