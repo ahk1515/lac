@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-26T06:35:29.242464+00:00",
+  "_id": "b1252b5ab98f",
+  "brut": {
+    "title": "Kirkenes, le petit port sur la nouvelle route de l’Arctique où grouillent les espions",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Kirkenes, le petit port sur la nouvelle route de l’Arctique où grouillent les espions"
+    },
+    "published": "Sun, 26 Jul 2026 06:01:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      4,
+      1,
+      10,
+      6,
+      207,
+      0
+    ],
+    "summary": "« La ruée sur les ports » (16/16). Le réchauffement climatique pourrait changer le destin de la petite ville norvégienne de 3 500 habitants qui se situe sur une nouvelle route maritime, libérée par la fonte de la banquise, reliant l’Europe et l’Asie. Mais la proximité de la Russie et les tensions géopolitiques contrarient ses ambitions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La ruée sur les ports » (16/16). Le réchauffement climatique pourrait changer le destin de la petite ville norvégienne de 3 500 habitants qui se situe sur une nouvelle route maritime, libérée par la fonte de la banquise, reliant l’Europe et l’Asie. Mais la proximité de la Russie et les tensions géopolitiques contrarient ses ambitions."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/26/kirkenes-le-petit-port-sur-la-nouvelle-route-de-l-arctique-ou-grouillent-les-espions_6732769_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/26/kirkenes-le-petit-port-sur-la-nouvelle-route-de-l-arctique-ou-grouillent-les-espions_6732769_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/26/kirkenes-le-petit-port-sur-la-nouvelle-route-de-l-arctique-ou-grouillent-les-espions_6732769_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/21/250/0/3000/1500/644/322/60/0/ed69161_upload-1-686fjsuuhdyx-kirkenes.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Andrea Gjestvang pour « Le Monde » ; Airbus"
+      }
+    ],
+    "credit": "Andrea Gjestvang pour « Le Monde » ; Airbus"
+  }
+}

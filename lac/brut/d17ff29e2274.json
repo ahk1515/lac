@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-26T06:35:29.241919+00:00",
+  "_id": "d17ff29e2274",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse l’Ukraine d’avoir attaqué un de ses navires en mer Caspienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse l’Ukraine d’avoir attaqué un de ses navires en mer Caspienne"
+    },
+    "published": "Sun, 26 Jul 2026 06:15:31 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      4,
+      15,
+      31,
+      6,
+      207,
+      0
+    ],
+    "updated": "Sun, 26 Jul 2026 06:17:25 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      26,
+      4,
+      17,
+      25,
+      6,
+      207,
+      0
+    ],
+    "summary": "Selon la télévision d’Etat iranienne, le chargé d’affaires ukrainien à Téhéran a été convoqué samedi au ministère des affaires étrangères pour y être sermonné par un haut fonctionnaire, pour cet « acte hostile et criminel ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon la télévision d’Etat iranienne, le chargé d’affaires ukrainien à Téhéran a été convoqué samedi au ministère des affaires étrangères pour y être sermonné par un haut fonctionnaire, pour cet « acte hostile et criminel »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/30/113/0/2000/1000/644/322/60/0/bf4a7b1_ftp-1-cw9usql3vjxy-2026-06-30t134511z-1939935827-rc2gyaa4epit-rtrmadp-3-azerbaijan-caspian.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des navires de guerre iraniens et azerbaïdjanais lors d’un exercice conjoint en mer Caspienne (Iran), sur une photo diffusée par les forces armées iraniennes en novembre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Forces armées iraniennes/West Asia News Agency via REUTERS"
+      }
+    ],
+    "credit": "Forces armées iraniennes/West Asia News Agency via REUTERS"
+  }
+}
