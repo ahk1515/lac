@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-26T09:57:57.442929+00:00",
+  "_id": "33ac50210f32",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran affirme que la guerre va « s’étendre encore » si les Etats-Unis reprennent leurs bombardements",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : l’Iran affirme que la guerre va « s’étendre encore » si les Etats-Unis reprennent leurs bombardements"
+    },
+    "published": "Sun, 26 Jul 2026 11:10:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      9,
+      10,
+      33,
+      6,
+      207,
+      0
+    ],
+    "summary": "Un porte-parole de l’armée iranienne a fait ces déclarations avant une visite prévue du premier ministre israélien, Benyamin Nétanyahou, à Washington. L’armée américaine a suspendu ses attaques sur le sol iranien depuis deux jours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un porte-parole de l’armée iranienne a fait ces déclarations avant une visite prévue du premier ministre israélien, Benyamin Nétanyahou, à Washington. L’armée américaine a suspendu ses attaques sur le sol iranien depuis deux jours."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-la-guerre-va-s-etendre-encore-si-les-etats-unis-reprennent-leurs-bombardements_6725301_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-la-guerre-va-s-etendre-encore-si-les-etats-unis-reprennent-leurs-bombardements_6725301_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-la-guerre-va-s-etendre-encore-si-les-etats-unis-reprennent-leurs-bombardements_6725301_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/0/0/3162/1581/644/322/60/0/1af7f8f_ftp-1-gk2lodtur8jv-5693806-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une fresque murale représentant le défunt guide suprême iranien, l’ayatollah Ali Khamenei, à Téhéran, le 24 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-26T09:57:57.443091+00:00",
+  "_id": "2fdff2b4347d",
+  "brut": {
+    "title": "CAN 2026 : en Afrique, le football au féminin face à ses limites malgré les ambitions affichées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "CAN 2026 : en Afrique, le football au féminin face à ses limites malgré les ambitions affichées"
+    },
+    "published": "Sun, 26 Jul 2026 09:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      7,
+      0,
+      5,
+      6,
+      207,
+      0
+    ],
+    "summary": "La 14ᵉ édition du tournoi continental démarre, dimanche 26 juillet au Maroc, avec plusieurs mois de retard sur le calendrier initial. Seize nations prennent part à la compétition dont les quatre demi-finalistes seront qualifiés pour la Coupe du monde 2027.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La 14ᵉ édition du tournoi continental démarre, dimanche 26 juillet au Maroc, avec plusieurs mois de retard sur le calendrier initial. Seize nations prennent part à la compétition dont les quatre demi-finalistes seront qualifiés pour la Coupe du monde 2027."
+    },
+    "id": "https://www.lemonde.fr/sport/article/2026/07/26/can-2026-en-afrique-le-football-au-feminin-face-a-ses-limites-malgre-les-ambitions-affichees_6733111_3242.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sport/article/2026/07/26/can-2026-en-afrique-le-football-au-feminin-face-a-ses-limites-malgre-les-ambitions-affichees_6733111_3242.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sport/article/2026/07/26/can-2026-en-afrique-le-football-au-feminin-face-a-ses-limites-malgre-les-ambitions-affichees_6733111_3242.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/500/0/6000/3000/644/322/60/0/2782518_upload-1-leq6fwtyn0bl-000-67xl8t4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les joueuses de la sélection marocaine lors de la précédente Coupe d’Afrique des nations féminine, opposant le Maroc au Nigeria, au stade Prince Moulay Abdellah, à Rabat, le 26 juillet 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ABDEL MAJID BZIOUAT/AFP"
+      }
+    ],
+    "credit": "ABDEL MAJID BZIOUAT/AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-26T09:57:57.442408+00:00",
+  "_id": "e4ac7891b69b",
+  "brut": {
+    "title": "En Cisjordanie, deux mosquées incendiées par des colons israéliens, sur fond de vives tensions après les affrontements de vendredi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie, deux mosquées incendiées par des colons israéliens, sur fond de vives tensions après les affrontements de vendredi"
+    },
+    "published": "Sun, 26 Jul 2026 11:33:20 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      9,
+      33,
+      20,
+      6,
+      207,
+      0
+    ],
+    "summary": "A la veille du week-end, quatre Palestiniens et deux Israéliens sont morts lors de violences dans un village palestinien près de Naplouse, où des colons avaient pénétré. Après ces affrontements, Israël a annoncé une opération d’ampleur dans le nord du territoire palestinien occupé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la veille du week-end, quatre Palestiniens et deux Israéliens sont morts lors de violences dans un village palestinien près de Naplouse, où des colons avaient pénétré. Après ces affrontements, Israël a annoncé une opération d’ampleur dans le nord du territoire palestinien occupé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/26/en-cisjordanie-deux-mosquees-incendiees-par-des-colons-israeliens-sur-fond-de-vives-tensions-apres-les-affrontements-de-vendredi_6733181_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/26/en-cisjordanie-deux-mosquees-incendiees-par-des-colons-israeliens-sur-fond-de-vives-tensions-apres-les-affrontements-de-vendredi_6733181_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/26/en-cisjordanie-deux-mosquees-incendiees-par-des-colons-israeliens-sur-fond-de-vives-tensions-apres-les-affrontements-de-vendredi_6733181_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/26/193/0/5392/2696/644/322/60/0/60cbefe_ftp-1-nxwhjsd25ops-2026-07-26t082505z-783985943-rc2klmaku00e-rtrmadp-3-israel-palestinians-west-bank-settlers-attack.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La mosquée incendiée de Qousra (Cisjordanie occupée), le 26 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MOHAMMAD TOROKMAN/REUTERS"
+      }
+    ],
+    "credit": "MOHAMMAD TOROKMAN/REUTERS"
+  }
+}
