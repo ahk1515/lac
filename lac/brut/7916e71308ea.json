@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-26T16:59:09.043630+00:00",
+  "_id": "7916e71308ea",
+  "brut": {
+    "title": "Des frappes en Ukraine et en Russie font au moins 10 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des frappes en Ukraine et en Russie font au moins 10 morts"
+    },
+    "summary": "Selon le ministère de la Défense russe, 133 drones ont été interceptés dans la nuit de samedi à dimanche dans différentes régions. Moscou a de son côté lancé huit missiles et 136 drones, selon l'armée de l'air ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon le ministère de la Défense russe, 133 drones ont été interceptés dans la nuit de samedi à dimanche dans différentes régions. Moscou a de son côté lancé huit missiles et 136 drones, selon l'armée de l'air ukrainienne."
+    },
+    "published": "Sun, 26 Jul 2026 17:54:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      15,
+      54,
+      52,
+      6,
+      207,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-en-ukraine-et-en-russie-font-au-moins-dix-morts_8123030.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VM8CSR0DriU6Tb0Tc33FSNhyQp0/0x56:3000x1743/432x243/filters:format(jpg):quality(50)/2026/07/26/6a6626cebaac7008440529.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-en-ukraine-et-en-russie-font-au-moins-dix-morts_8123030.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-en-ukraine-et-en-russie-font-au-moins-dix-morts_8123030.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

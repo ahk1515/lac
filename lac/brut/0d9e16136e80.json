@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-26T16:59:09.043905+00:00",
+  "_id": "0d9e16136e80",
+  "brut": {
+    "title": "REPORTAGE. Le Saint-Sépulcre, à Jérusalem, déserté par les touristes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. Le Saint-Sépulcre, à Jérusalem, déserté par les touristes"
+    },
+    "summary": "Depuis le massacre du 7 octobre 2023 et les guerres qui ont suivi, Jérusalem n'attire plus autant. C'est le cas notamment au Saint-Sépulcre. Une catastrophe pour les commerçants de la vieille ville, mais un moment privilégié pour les quelques visiteurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis le massacre du 7 octobre 2023 et les guerres qui ont suivi, Jérusalem n'attire plus autant. C'est le cas notamment au Saint-Sépulcre. Une catastrophe pour les commerçants de la vieille ville, mais un moment privilégié pour les quelques visiteurs."
+    },
+    "published": "Sun, 26 Jul 2026 17:07:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      15,
+      7,
+      1,
+      6,
+      207,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/reportage-le-saint-sepulcre-a-jerusalem-deserte-par-les-touristes_8064275.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0foLVbdYKhhZmQsGtc7yRdNbk_4/0x605:5808x3872/432x243/filters:format(jpg):quality(50)/2026/07/25/6a64d2da81607121830660.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/reportage-le-saint-sepulcre-a-jerusalem-deserte-par-les-touristes_8064275.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/reportage-le-saint-sepulcre-a-jerusalem-deserte-par-les-touristes_8064275.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
