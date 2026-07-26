@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-26T13:19:02.239458+00:00",
+  "_id": "577c99f0fe5e",
+  "brut": {
+    "title": "En Chine, une crue soudaine dans la zone touristique de Shuangshimen fait dix morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, une crue soudaine dans la zone touristique de Shuangshimen fait dix morts"
+    },
+    "published": "Sun, 26 Jul 2026 13:47:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      11,
+      47,
+      7,
+      6,
+      207,
+      0
+    ],
+    "updated": "Sun, 26 Jul 2026 13:52:54 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      26,
+      11,
+      52,
+      54,
+      6,
+      207,
+      0
+    ],
+    "summary": "Vingt-trois autres personnes ont été blessées. Shuangshimen est réputée pour ses arches de pierre naturelles, ses prairies et ses ruisseaux de montagne. C’est un lieu de camping très prisé en été.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vingt-trois autres personnes ont été blessées. Shuangshimen est réputée pour ses arches de pierre naturelles, ses prairies et ses ruisseaux de montagne. C’est un lieu de camping très prisé en été."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/26/en-chine-une-crue-soudaine-dans-la-zone-touristique-de-shuangshimen-fait-dix-morts_6733285_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/26/en-chine-une-crue-soudaine-dans-la-zone-touristique-de-shuangshimen-fait-dix-morts_6733285_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/26/en-chine-une-crue-soudaine-dans-la-zone-touristique-de-shuangshimen-fait-dix-morts_6733285_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/1de69bf_upload-1-yj2nqx8xrdsm-modei-le-1.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "« Le Monde »"
+      }
+    ],
+    "credit": "« Le Monde »"
+  }
+}

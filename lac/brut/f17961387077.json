@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-26T13:19:02.239640+00:00",
+  "_id": "f17961387077",
+  "brut": {
+    "title": "Au Niger, trois ans de séquestration pour l’ancien président Mohamed Bazoum",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Niger, trois ans de séquestration pour l’ancien président Mohamed Bazoum"
+    },
+    "published": "Sun, 26 Jul 2026 12:00:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      10,
+      0,
+      5,
+      6,
+      207,
+      0
+    ],
+    "summary": "Depuis qu’il a été renversé par le chef de sa propre garde rapprochée, le 26 juillet 2023, le général Abdourahamane Tiani, l’ancien chef de l’Etat nigérien, vit cloîtré avec sa femme, Hadiza Bazoum, dans l’enceinte du palais présidentiel, à Niamey.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis qu’il a été renversé par le chef de sa propre garde rapprochée, le 26 juillet 2023, le général Abdourahamane Tiani, l’ancien chef de l’Etat nigérien, vit cloîtré avec sa femme, Hadiza Bazoum, dans l’enceinte du palais présidentiel, à Niamey."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/26/au-niger-trois-ans-de-sequestration-pour-l-ancien-president-mohamed-bazoum_6733217_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/26/au-niger-trois-ans-de-sequestration-pour-l-ancien-president-mohamed-bazoum_6733217_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/26/au-niger-trois-ans-de-sequestration-pour-l-ancien-president-mohamed-bazoum_6733217_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/03/31/160/0/5200/2600/644/322/60/0/87e54a3_ftp-1-n6oxqt2gnlcf-5639195-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mohamed Bazoum, alors président du Niger, dans le palais présidentiel d’Abidjan, le 23 juin 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SIA KAMBOU/AFP"
+      }
+    ],
+    "credit": "SIA KAMBOU/AFP"
+  }
+}

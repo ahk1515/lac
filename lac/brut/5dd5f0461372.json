@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-26T13:19:02.534150+00:00",
+  "_id": "5dd5f0461372",
+  "brut": {
+    "title": "Une voiture fonce dans la foule lors de la Gay Pride à Berlin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une voiture fonce dans la foule lors de la Gay Pride à Berlin"
+    },
+    "summary": "Un véhicule a foncé sur la foule à la gay pride de Berlin, samedi 25 juillet, faisant au moins un mort et 16 blessés, dont trois dans un état d'urgence absolue. La police allemande a lancé dimanche un avis de recherche pour retrouver le suspect, un homme de 21 ans qui serait lié \"au milieu islamiste\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un véhicule a foncé sur la foule à la gay pride de Berlin, samedi 25 juillet, faisant au moins un mort et 16 blessés, dont trois dans un état d'urgence absolue. La police allemande a lancé dimanche un avis de recherche pour retrouver le suspect, un homme de 21 ans qui serait lié \"au milieu islamiste\"."
+    },
+    "published": "Sun, 26 Jul 2026 12:05:00 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      10,
+      5,
+      0,
+      6,
+      207,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/attaque-au-camion-a-berlin/une-voiture-fonce-dans-la-foule-lors-de-la-gay-pride-a-berlin_8122814.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Rw0OLSkqUpcJwdcnxluccbTJHvw/2292x0:5220x5204/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/26/6a65dbb2b5280401523249.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/attaque-au-camion-a-berlin/une-voiture-fonce-dans-la-foule-lors-de-la-gay-pride-a-berlin_8122814.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/attaque-au-camion-a-berlin/une-voiture-fonce-dans-la-foule-lors-de-la-gay-pride-a-berlin_8122814.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
