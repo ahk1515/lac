@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-26T20:56:47.743779+00:00",
+  "_id": "e7415ded06a7",
+  "brut": {
+    "title": "Le suspect de l'attaque meurtrière survenue samedi soir à Berlin lors de la Marche des fiertés tué par la police",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le suspect de l'attaque meurtrière survenue samedi soir à Berlin lors de la Marche des fiertés tué par la police"
+    },
+    "summary": "Samedi, un véhicule avait foncé sur la foule à la Marche des fiertés de la capitale allemande, faisant au moins un mort et 29 blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Samedi, un véhicule avait foncé sur la foule à la Marche des fiertés de la capitale allemande, faisant au moins un mort et 29 blessés."
+    },
+    "published": "Sun, 26 Jul 2026 20:03:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      18,
+      3,
+      44,
+      6,
+      207,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/N74sFznVRx06TbHvWJyJuYggzWc/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/07/26/6a66474469ab4041931644.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

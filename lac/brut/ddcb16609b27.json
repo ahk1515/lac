@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-26T20:56:47.743610+00:00",
+  "_id": "ddcb16609b27",
+  "brut": {
+    "title": "Gay Pride de Berlin : un véhicule fonce dans la foule, le suspect abattu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Gay Pride de Berlin : un véhicule fonce dans la foule, le suspect abattu"
+    },
+    "summary": "À Berlin, un véhicule a foncé dans la foule samedi 25 juillet 2026 lors de la Gay Pride faisant un mort et une trentaine de blessés. Après une chasse à l'homme de 24 heures, le suspect a été abattu. Il appartenait à la mouvance islamiste.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Berlin, un véhicule a foncé dans la foule samedi 25 juillet 2026 lors de la Gay Pride faisant un mort et une trentaine de blessés. Après une chasse à l'homme de 24 heures, le suspect a été abattu. Il appartenait à la mouvance islamiste."
+    },
+    "published": "Sun, 26 Jul 2026 21:59:22 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      26,
+      19,
+      59,
+      22,
+      6,
+      207,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/gay-pride-de-berlin-un-vehicule-fonce-dans-la-foule-le-suspect-abattu_8123246.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2SWStjBfQSt8ZQwkASvSsZri78E/0x46:1075x651/432x243/filters:format(jpg):quality(50)/2026/07/26/6a66664a3559f975859403.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/gay-pride-de-berlin-un-vehicule-fonce-dans-la-foule-le-suspect-abattu_8123246.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/gay-pride-de-berlin-un-vehicule-fonce-dans-la-foule-le-suspect-abattu_8123246.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
