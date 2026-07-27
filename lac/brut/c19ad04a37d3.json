@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T14:31:13.972439+00:00",
+  "_id": "c19ad04a37d3",
+  "brut": {
+    "title": "Le Brésil rappelle son ambassadeur en Argentine après des \"propos offensants\" de Javier Milei",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Brésil rappelle son ambassadeur en Argentine après des \"propos offensants\" de Javier Milei"
+    },
+    "summary": "Le président argentin a notamment traité, sans le nommer, le président brésilien Lula de \"voleur et de \"prisonnier\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président argentin a notamment traité, sans le nommer, le président brésilien Lula de \"voleur et de \"prisonnier\"."
+    },
+    "published": "Mon, 27 Jul 2026 15:31:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      13,
+      31,
+      46,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/argentine/le-bresil-rappelle-son-ambassadeur-en-argentine-apres-des-propos-offensants-de-javier-milei_8124074.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NL5gBTDSJmd5_XFEMeoQa-R9wWM/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/07/27/6a6758c2a980c708050609.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/argentine/le-bresil-rappelle-son-ambassadeur-en-argentine-apres-des-propos-offensants-de-javier-milei_8124074.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/argentine/le-bresil-rappelle-son-ambassadeur-en-argentine-apres-des-propos-offensants-de-javier-milei_8124074.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

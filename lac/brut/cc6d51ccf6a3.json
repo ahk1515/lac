@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T14:31:13.782616+00:00",
+  "_id": "cc6d51ccf6a3",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Arabie saoudite affirme avoir intercepté des drones provenant d’Irak",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : l’Arabie saoudite affirme avoir intercepté des drones provenant d’Irak"
+    },
+    "published": "Mon, 27 Jul 2026 14:54:48 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      12,
+      54,
+      48,
+      0,
+      208,
+      0
+    ],
+    "updated": "Mon, 27 Jul 2026 15:16:06 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      27,
+      13,
+      16,
+      6,
+      0,
+      208,
+      0
+    ],
+    "summary": "L’armée saoudienne a dit avoir « détruit plusieurs drones en provenance du territoire irakien [lancés] par des milices terroristes soutenues par l’Iran ». Ces drones « tentaient de prendre pour cible des installations pétrolières dans la région orientale [du royaume saoudien] et à Riyad », a ajouté le ministère de la défense saoudien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée saoudienne a dit avoir « détruit plusieurs drones en provenance du territoire irakien [lancés] par des milices terroristes soutenues par l’Iran ». Ces drones « tentaient de prendre pour cible des installations pétrolières dans la région orientale [du royaume saoudien] et à Riyad », a ajouté le ministère de la défense saoudien."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-l-arabie-saoudite-affirme-avoir-intercepte-des-drones-provenant-d-irak_6725301_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-l-arabie-saoudite-affirme-avoir-intercepte-des-drones-provenant-d-irak_6725301_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-l-arabie-saoudite-affirme-avoir-intercepte-des-drones-provenant-d-irak_6725301_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/26/233/0/2802/1401/644/322/60/0/1c78010_ftp-1-bk3gwhzmgd1a-5709096-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une fresque de propagande dans le centre de Téhéran, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

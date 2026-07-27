@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T14:31:13.972155+00:00",
+  "_id": "4e8c70b2bf7f",
+  "brut": {
+    "title": "Ce que l'on sait de l'attaque à la voiture bélier et à l'arme blanche pendant la Marche des fiertés de Berlin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce que l'on sait de l'attaque à la voiture bélier et à l'arme blanche pendant la Marche des fiertés de Berlin"
+    },
+    "summary": "Au moins une personne est morte et 29 autres ont été blessées samedi après qu'un véhicule a percuté la foule participant à la fête. Le suspect a été tué dimanche lors d'une intervention policière.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins une personne est morte et 29 autres ont été blessées samedi après qu'un véhicule a percuté la foule participant à la fête. Le suspect a été tué dimanche lors d'une intervention policière."
+    },
+    "published": "Mon, 27 Jul 2026 15:39:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      13,
+      39,
+      51,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/ce-que-l-on-sait-de-l-attaque-a-la-voiture-belier-et-a-l-arme-blanche-pendant-la-marche-des-fiertes-de-berlin_8123726.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jhLe9fUgy1kYyvsLh9-xxID5vUc/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/07/27/6a6749261d99e885360612.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/ce-que-l-on-sait-de-l-attaque-a-la-voiture-belier-et-a-l-arme-blanche-pendant-la-marche-des-fiertes-de-berlin_8123726.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/ce-que-l-on-sait-de-l-attaque-a-la-voiture-belier-et-a-l-arme-blanche-pendant-la-marche-des-fiertes-de-berlin_8123726.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
