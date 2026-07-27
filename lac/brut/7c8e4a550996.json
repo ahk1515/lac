@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T07:29:30.505744+00:00",
+  "_id": "7c8e4a550996",
+  "brut": {
+    "title": "Deux morts en Russie dans une attaque de drones ukrainienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux morts en Russie dans une attaque de drones ukrainienne"
+    },
+    "summary": "Les drones ukrainiens ont frappé dans la nuit de dimanche à lundi la ville de Rostov-sur-le-Don, dans le sud de la Russie, provoquant la mort d'un couple et faisant cinq blessés. Douze autres personnes ont été blessées dans la région de Belgorod, frontalière de l'Ukraine, selon les autorités locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les drones ukrainiens ont frappé dans la nuit de dimanche à lundi la ville de Rostov-sur-le-Don, dans le sud de la Russie, provoquant la mort d'un couple et faisant cinq blessés. Douze autres personnes ont été blessées dans la région de Belgorod, frontalière de l'Ukraine, selon les autorités locales."
+    },
+    "published": "Mon, 27 Jul 2026 09:11:38 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      7,
+      11,
+      38,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-morts-en-russie-dans-une-attaque-de-drones-ukrainienne_8123597.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0ku7-R1Tpaz3DRUWSYIdvkespxI/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/07/27/6a66f808b3387122801635.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-morts-en-russie-dans-une-attaque-de-drones-ukrainienne_8123597.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-morts-en-russie-dans-une-attaque-de-drones-ukrainienne_8123597.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

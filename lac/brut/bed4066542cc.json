@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T07:29:30.507141+00:00",
+  "_id": "bed4066542cc",
+  "brut": {
+    "title": "Kate Middleton (5/5) : Kate contre Meghan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Kate Middleton (5/5) : Kate contre Meghan"
+    },
+    "summary": "Une jeune fille ordinaire, devenue princesse. Depuis son mariage avec le prince William, Kate Middleton a imprimé sa marque sur la monarchie britannique tout en respectant ses traditions. Elle a fait entrer la Couronne dans la modernité d'Internet et des réseaux sociaux, avec un naturel qui suscite énormément de curiosité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une jeune fille ordinaire, devenue princesse. Depuis son mariage avec le prince William, Kate Middleton a imprimé sa marque sur la monarchie britannique tout en respectant ses traditions. Elle a fait entrer la Couronne dans la modernité d'Internet et des réseaux sociaux, avec un naturel qui suscite énormément de curiosité."
+    },
+    "published": "Mon, 27 Jul 2026 07:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      5,
+      0,
+      1,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-5-5-kate-contre-meghan_8085068.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/G_pB2TIN43-BvYZHKZD2jHE9ztE/0x93:1799x1105/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60befef422c486233143.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-5-5-kate-contre-meghan_8085068.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-5-5-kate-contre-meghan_8085068.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

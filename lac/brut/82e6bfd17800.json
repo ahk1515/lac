@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T07:29:29.948439+00:00",
+  "_id": "82e6bfd17800",
+  "brut": {
+    "title": "Aux Etats-Unis, l’opposition aux data centers grandit et devient un objet politique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, l’opposition aux data centers grandit et devient un objet politique"
+    },
+    "published": "Mon, 27 Jul 2026 05:00:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      3,
+      0,
+      8,
+      0,
+      208,
+      0
+    ],
+    "updated": "Mon, 27 Jul 2026 07:54:57 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      27,
+      5,
+      54,
+      57,
+      0,
+      208,
+      0
+    ],
+    "summary": "Un mouvement pour le moment largement « décentralisé et idéologiquement hétérogène » prend forme devant le développement effréné de l’intelligence artificielle et des conflits d’usage qu’elle génère. Donald Trump veut faire payer la facture d’électricité aux grands groupes de l’IA.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un mouvement pour le moment largement « décentralisé et idéologiquement hétérogène » prend forme devant le développement effréné de l’intelligence artificielle et des conflits d’usage qu’elle génère. Donald Trump veut faire payer la facture d’électricité aux grands groupes de l’IA."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/27/aux-etats-unis-l-opposition-aux-data-centers-grandit-et-devient-un-objet-politique_6733571_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/27/aux-etats-unis-l-opposition-aux-data-centers-grandit-et-devient-un-objet-politique_6733571_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/27/aux-etats-unis-l-opposition-aux-data-centers-grandit-et-devient-un-objet-politique_6733571_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/18/1071/0/7344/3672/644/322/60/0/b968e91_ftp-1-yu9ppg4xguzi-5653100-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation contre l’extension d’un data center à Imperial, en Californie (Etats-Unis), le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SANDY HUFFAKER/AFP"
+      }
+    ],
+    "credit": "SANDY HUFFAKER/AFP"
+  }
+}

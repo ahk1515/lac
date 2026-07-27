@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T07:29:29.948076+00:00",
+  "_id": "d849a3c02526",
+  "brut": {
+    "title": "En Espagne, la solidarité et la concorde politique prévalent face à des « incendies monstres »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, la solidarité et la concorde politique prévalent face à des « incendies monstres »"
+    },
+    "published": "Mon, 27 Jul 2026 05:00:19 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      3,
+      0,
+      19,
+      0,
+      208,
+      0
+    ],
+    "updated": "Mon, 27 Jul 2026 09:15:21 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      27,
+      7,
+      15,
+      21,
+      0,
+      208,
+      0
+    ],
+    "summary": "Les feux en cours, aux environs de Madrid et depuis samedi près de Valence, ont ravagé au total plus de 83 000 hectares et conduit à l’évacuation de 82 000 habitants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les feux en cours, aux environs de Madrid et depuis samedi près de Valence, ont ravagé au total plus de 83 000 hectares et conduit à l’évacuation de 82 000 habitants."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/27/en-espagne-la-solidarite-et-la-concorde-politique-prevalent-face-a-des-incendies-monstres_6733574_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/27/en-espagne-la-solidarite-et-la-concorde-politique-prevalent-face-a-des-incendies-monstres_6733574_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/27/en-espagne-la-solidarite-et-la-concorde-politique-prevalent-face-a-des-incendies-monstres_6733574_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/25/500/0/6000/3000/644/322/60/0/d27d346_ftp-1-esgfsc5mgc5o-5703602-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une zone calcinée, entre Colmenar del Arroyo et Chavelas (Espagne), à l’ouest de Madrid, le 25 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OSCAR DEL POZO/AFP"
+      }
+    ],
+    "credit": "OSCAR DEL POZO/AFP"
+  }
+}

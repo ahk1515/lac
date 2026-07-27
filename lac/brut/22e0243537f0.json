@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T07:29:30.506696+00:00",
+  "_id": "22e0243537f0",
+  "brut": {
+    "title": "Kate Middleton (2/5) : la princesse populaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Kate Middleton (2/5) : la princesse populaire"
+    },
+    "summary": "Une jeune fille comme les autres, devenue princesse et qui sera un jour reine d'Angleterre. Depuis son mariage avec le prince William en 2011, Kate Middleton a imprimé sa marque sur la monarchie britannique tout en respectant ses règles à la lettre. Elle a fait entrer la Couronne dans la modernité d'Internet et des réseaux sociaux, avec un naturel qui suscite énormément de curiosité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une jeune fille comme les autres, devenue princesse et qui sera un jour reine d'Angleterre. Depuis son mariage avec le prince William en 2011, Kate Middleton a imprimé sa marque sur la monarchie britannique tout en respectant ses règles à la lettre. Elle a fait entrer la Couronne dans la modernité d'Internet et des réseaux sociaux, avec un naturel qui suscite énormément de curiosité."
+    },
+    "published": "Mon, 27 Jul 2026 07:10:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      5,
+      10,
+      1,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-2-5-la-princesse-populaire_8085077.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/WiUtk7wFWHJW_dHjb3YZTQxFT94/0x285:5472x3363/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e1f6dc7e54602463474.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-2-5-la-princesse-populaire_8085077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-2-5-la-princesse-populaire_8085077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T07:29:29.947194+00:00",
+  "_id": "ded3883048ef",
+  "brut": {
+    "title": "En Colombie, le président élu annonce qu’il va rompre les relations diplomatiques avec Cuba et le Nicaragua",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, le président élu annonce qu’il va rompre les relations diplomatiques avec Cuba et le Nicaragua"
+    },
+    "published": "Mon, 27 Jul 2026 08:55:25 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      6,
+      55,
+      25,
+      0,
+      208,
+      0
+    ],
+    "summary": "Vainqueur de justesse de la dernière présidentielle, Abelardo de la Espriella avait reçu l’appui du président américain, Donald Trump, pendant la campagne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vainqueur de justesse de la dernière présidentielle, Abelardo de la Espriella avait reçu l’appui du président américain, Donald Trump, pendant la campagne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/27/en-colombie-le-president-elu-annonce-qu-il-va-rompre-les-relations-diplomatiques-avec-cuba-et-le-nicaragua_6733843_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/27/en-colombie-le-president-elu-annonce-qu-il-va-rompre-les-relations-diplomatiques-avec-cuba-et-le-nicaragua_6733843_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/27/en-colombie-le-president-elu-annonce-qu-il-va-rompre-les-relations-diplomatiques-avec-cuba-et-le-nicaragua_6733843_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/264/0/3164/1582/644/322/60/0/ae699cb_ftp-1-ompjb5yk1xn5-0a2d381ba63c4523a5a792b07bb2397b-0-0f3d8237109e4942933f3f28e3c03e86.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président élu de la Colombie, Abelardo de la Espriella, lors d’une parade militaire à Bogota, en Colombie, le 20 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Miguel Angel Lopez / AP Photo/Miguel Angel Lopez"
+      }
+    ],
+    "credit": "Miguel Angel Lopez / AP Photo/Miguel Angel Lopez"
+  }
+}

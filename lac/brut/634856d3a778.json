@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T07:29:30.506995+00:00",
+  "_id": "634856d3a778",
+  "brut": {
+    "title": "Kate Middleton (4/5) : la princesse pop star",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Kate Middleton (4/5) : la princesse pop star"
+    },
+    "summary": "Une jeune fille ordinaire, devenue princesse. Depuis son mariage avec le prince William, Kate Middleton a imprimé sa marque sur la monarchie britannique tout en respectant ses traditions. Elle a fait entrer la Couronne dans la modernité d'Internet et des réseaux sociaux, avec un naturel qui suscite énormément de curiosité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une jeune fille ordinaire, devenue princesse. Depuis son mariage avec le prince William, Kate Middleton a imprimé sa marque sur la monarchie britannique tout en respectant ses traditions. Elle a fait entrer la Couronne dans la modernité d'Internet et des réseaux sociaux, avec un naturel qui suscite énormément de curiosité."
+    },
+    "published": "Mon, 27 Jul 2026 07:05:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      5,
+      5,
+      1,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-4-5-la-princesse-pop-star_8085071.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/glMrWMGTkqXIaZVacu78Hyyoso4/0x253:3508x2227/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60b06694da3135647166.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-4-5-la-princesse-pop-star_8085071.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kate-middleton-4-5-la-princesse-pop-star_8085071.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

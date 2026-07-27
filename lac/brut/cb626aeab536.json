@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T07:29:30.506366+00:00",
+  "_id": "cb626aeab536",
+  "brut": {
+    "title": "Aux Etats-Unis, une fusillade fait trois morts et au moins quatre blessés à Seattle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux Etats-Unis, une fusillade fait trois morts et au moins quatre blessés à Seattle"
+    },
+    "summary": "Les tirs, qui ont eu lieu à proximité de la célèbre tour Space Needle, dimanche, ont blessé deux femmes, un homme et un enfant, qui ont été hospitalisés. Un suspect a été interpellé, selon la municipalité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les tirs, qui ont eu lieu à proximité de la célèbre tour Space Needle, dimanche, ont blessé deux femmes, un homme et un enfant, qui ont été hospitalisés. Un suspect a été interpellé, selon la municipalité."
+    },
+    "published": "Mon, 27 Jul 2026 08:35:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      6,
+      35,
+      33,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-deux-morts-et-au-moins-quatre-blesses-dans-une-fusillade-a-seattle_8123522.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QzH-uUoRK9G_SdMd754np-ApuFU/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/07/27/6a66e85c9b35e120203714.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-deux-morts-et-au-moins-quatre-blesses-dans-une-fusillade-a-seattle_8123522.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-deux-morts-et-au-moins-quatre-blesses-dans-une-fusillade-a-seattle_8123522.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

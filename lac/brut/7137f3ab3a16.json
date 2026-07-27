@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T07:29:30.506055+00:00",
+  "_id": "7137f3ab3a16",
+  "brut": {
+    "title": "Aux Iles Salomon, les autorités redoutent plusieurs morts après un glissement de terrain dans une mine d'or",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux Iles Salomon, les autorités redoutent plusieurs morts après un glissement de terrain dans une mine d'or"
+    },
+    "summary": "Un journal local a fait état de la découverte de \"10 corps\" sur le site minier de Gold Ridge. Un bilan que la police royale a refusé de commenter.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un journal local a fait état de la découverte de \"10 corps\" sur le site minier de Gold Ridge. Un bilan que la police royale a refusé de commenter."
+    },
+    "published": "Mon, 27 Jul 2026 08:57:53 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      6,
+      57,
+      53,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/aux-iles-salomon-plusieurs-morts-a-craindre-apres-un-glissement-de-terrain-dans-une-mine-d-or_8123552.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TpqQYbr_tbAN96DON_veV5WCIOg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/27/6a66f254c61ed955514280.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/aux-iles-salomon-plusieurs-morts-a-craindre-apres-un-glissement-de-terrain-dans-une-mine-d-or_8123552.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/aux-iles-salomon-plusieurs-morts-a-craindre-apres-un-glissement-de-terrain-dans-une-mine-d-or_8123552.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
