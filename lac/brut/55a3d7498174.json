@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T11:19:20.905627+00:00",
+  "_id": "55a3d7498174",
+  "brut": {
+    "title": "Les opérateurs télécoms et la Commission européenne s’opposent sur un bannissement de Huawei en Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les opérateurs télécoms et la Commission européenne s’opposent sur un bannissement de Huawei en Europe"
+    },
+    "published": "Mon, 27 Jul 2026 12:30:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      10,
+      30,
+      2,
+      0,
+      208,
+      0
+    ],
+    "summary": "Bruxelles reste déterminé à chasser le géant chinois des télécoms du Vieux Continent pour des motifs de sécurité. Mais une étude commandée par Orange et d’autres opérateurs alerte sur le coût d’une telle mesure, évalué entre 30 et 40 milliards d’euros.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bruxelles reste déterminé à chasser le géant chinois des télécoms du Vieux Continent pour des motifs de sécurité. Mais une étude commandée par Orange et d’autres opérateurs alerte sur le coût d’une telle mesure, évalué entre 30 et 40 milliards d’euros."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/27/les-operateurs-telecoms-et-la-commission-europeenne-s-opposent-sur-un-bannissement-de-huawei-en-europe_6734114_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/27/les-operateurs-telecoms-et-la-commission-europeenne-s-opposent-sur-un-bannissement-de-huawei-en-europe_6734114_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/27/les-operateurs-telecoms-et-la-commission-europeenne-s-opposent-sur-un-bannissement-de-huawei-en-europe_6734114_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/785/0/8192/4096/644/322/60/0/346010f_upload-1-jh8hnxuzsjju-043-dpa-pa-250122-99-673804-dpai.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un technicien de Deutsche Telekom effectue des travaux de réparation sur une antenne 5G (3,6 GHz), installée sur un pylône de téléphonie mobile, à Fürth (Allemagne), le 21 janvier 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DANIEL KARMANN/dpa Picture-Alliance via AFP"
+      }
+    ],
+    "credit": "DANIEL KARMANN/dpa Picture-Alliance via AFP"
+  }
+}

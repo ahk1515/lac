@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T11:19:20.905883+00:00",
+  "_id": "10861ccf8d44",
+  "brut": {
+    "title": "Etats-Unis : trois personnes tuées à Seattle aux abords d’un festival",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Etats-Unis : trois personnes tuées à Seattle aux abords d’un festival"
+    },
+    "published": "Mon, 27 Jul 2026 12:09:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      10,
+      9,
+      4,
+      0,
+      208,
+      0
+    ],
+    "summary": "Les autorités de la ville ont décrit une « véritable tragédie », alors que le bilan fait état d’au moins trois morts et qu’un enfant en bas âge fait partie des personnes blessées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités de la ville ont décrit une « véritable tragédie », alors que le bilan fait état d’au moins trois morts et qu’un enfant en bas âge fait partie des personnes blessées."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/27/etats-unis-trois-personnes-tuees-a-seattle-aux-abords-d-un-festival_6734081_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/27/etats-unis-trois-personnes-tuees-a-seattle-aux-abords-d-un-festival_6734081_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/27/etats-unis-trois-personnes-tuees-a-seattle-aux-abords-d-un-festival_6734081_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/379/0/4551/2275/644/322/60/0/fad4e9a_ftp-1-wr5gw235s5ew-2026-07-27t082337z-1431383482-rc23mmado849-rtrmadp-3-usa-shooting-seattle.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jason Redmond / REUTERS"
+      }
+    ],
+    "credit": "Jason Redmond / REUTERS"
+  }
+}

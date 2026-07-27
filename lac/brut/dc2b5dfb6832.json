@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T11:19:21.589699+00:00",
+  "_id": "dc2b5dfb6832",
+  "brut": {
+    "title": "Une fusillade fait 3 morts et 4 blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une fusillade fait 3 morts et 4 blessés"
+    },
+    "summary": "Une fusillade a fait trois morts et au moins quatre blessés, dont un enfant, dimanche 26 juillet, à Seattle. La police a arrêté un auteur présumé mais recherche au moins un autre tireur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une fusillade a fait trois morts et au moins quatre blessés, dont un enfant, dimanche 26 juillet, à Seattle. La police a arrêté un auteur présumé mais recherche au moins un autre tireur."
+    },
+    "published": "Mon, 27 Jul 2026 12:28:59 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      10,
+      28,
+      59,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/une-fusillade-fait-3-morts-et-4-blesses_8123927.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/j_HucyZkHWTLhUVCw9pKii4W_M8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/27/6a6732d4cc5f7840428273.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/une-fusillade-fait-3-morts-et-4-blesses_8123927.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/une-fusillade-fait-3-morts-et-4-blesses_8123927.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

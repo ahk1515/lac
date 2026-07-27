@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T11:19:20.905778+00:00",
+  "_id": "9a39e7b393af",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique des attaques contre des installations pétrolières en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique des attaques contre des installations pétrolières en Russie"
+    },
+    "published": "Mon, 27 Jul 2026 12:29:48 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      10,
+      29,
+      48,
+      0,
+      208,
+      0
+    ],
+    "updated": "Mon, 27 Jul 2026 12:32:01 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      27,
+      10,
+      32,
+      1,
+      0,
+      208,
+      0
+    ],
+    "summary": "Volodymyr Zelensky a affirmé que les forces ukrainiennes ont attaqué dans la nuit de dimanche à lundi un terminal d’exportation situé dans la région russe de Rostov, à environ 250 kilomètres de la ligne de front. Des attaques ont également visé des infrastructures pétrolières dans la région de Iaroslavl et en Oudmourtie, à quelque 1 300 kilomètres de la frontière ukrainienne, selon le président ukrainien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Volodymyr Zelensky a affirmé que les forces ukrainiennes ont attaqué dans la nuit de dimanche à lundi un terminal d’exportation situé dans la région russe de Rostov, à environ 250 kilomètres de la ligne de front. Des attaques ont également visé des infrastructures pétrolières dans la région de Iaroslavl et en Oudmourtie, à quelque 1 300 kilomètres de la frontière ukrainienne, selon le président ukrainien."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-kiev-revendique-des-attaques-contre-des-installations-petrolieres-en-russie_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-kiev-revendique-des-attaques-contre-des-installations-petrolieres-en-russie_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-kiev-revendique-des-attaques-contre-des-installations-petrolieres-en-russie_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/167/0/2820/1410/644/322/60/0/b55a286_ftp-1-mbrqaluqiwbw-7722c455af074f1083f8af0757023a92-0-030a036ea59a4aee827fd3f7906a45f5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président ukrainien, Volodymyr Zelensky, à Kiev, le 23 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bureau de presse de la présidence ukrainienne via AP"
+      }
+    ],
+    "credit": "Bureau de presse de la présidence ukrainienne via AP"
+  }
+}

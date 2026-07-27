@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T11:19:20.905960+00:00",
+  "_id": "b69d76c829bf",
+  "brut": {
+    "title": "A Seattle, aux Etats-Unis, trois morts et plusieurs blessés après une fusillade lors d’un festival gastronomique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Seattle, aux Etats-Unis, trois morts et plusieurs blessés après une fusillade lors d’un festival gastronomique"
+    },
+    "published": "Mon, 27 Jul 2026 12:00:20 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      10,
+      0,
+      20,
+      0,
+      208,
+      0
+    ],
+    "updated": "Mon, 27 Jul 2026 12:18:02 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      27,
+      10,
+      18,
+      2,
+      0,
+      208,
+      0
+    ],
+    "summary": "Un suspect s’est rendu aux forces de l’ordre tandis qu’un second tireur reste activement recherché après une fusillade qui a fait trois morts et au moins quatre blessés, dont un enfant, dimanche lors du festival Bite of Seattle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un suspect s’est rendu aux forces de l’ordre tandis qu’un second tireur reste activement recherché après une fusillade qui a fait trois morts et au moins quatre blessés, dont un enfant, dimanche lors du festival Bite of Seattle."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/27/a-seattle-aux-etats-unis-trois-morts-et-plusieurs-blesses-apres-une-fusillade-lors-d-un-festival-gastronomique_6734080_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/27/a-seattle-aux-etats-unis-trois-morts-et-plusieurs-blesses-apres-une-fusillade-lors-d-un-festival-gastronomique_6734080_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/27/a-seattle-aux-etats-unis-trois-morts-et-plusieurs-blesses-apres-une-fusillade-lors-d-un-festival-gastronomique_6734080_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/241/0/2900/1450/644/322/60/0/88ca976_ftp-1-nkstlrgc3n79-bad19cd301a4436baaf867dca83d77bd-0-6f3947abc460416bbc5dadb8420d8b67.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La police de Seattle, près du lieu de la fusillade survenue lors du festival gastronomique Bite of Seattle, dimanche 26 juillet 2026, à Seattle (Washington)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Lindsey Wasson / AP Photo/Lindsey Wasson"
+      }
+    ],
+    "credit": "Lindsey Wasson / AP Photo/Lindsey Wasson"
+  }
+}
