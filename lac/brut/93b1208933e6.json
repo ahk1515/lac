@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T21:09:03.216872+00:00",
+  "_id": "93b1208933e6",
+  "brut": {
+    "title": "En Cisjordanie occupée, une femme perd son enfant à naître à un barrage, l’armée israélienne se dédouane",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie occupée, une femme perd son enfant à naître à un barrage, l’armée israélienne se dédouane"
+    },
+    "published": "Mon, 27 Jul 2026 21:52:57 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      19,
+      52,
+      57,
+      0,
+      208,
+      0
+    ],
+    "summary": "D’après les secouristes palestiniens, l’ambulance transportant cette femme de 28 ans enceinte de six mois, qui souffrait d’une hémorragie sévère et était inconsciente, a été retenue plus de trente minutes au checkpoint d’Awarta par l’armée israélienne, alors qu’elle se rendait à l’hôpital.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "D’après les secouristes palestiniens, l’ambulance transportant cette femme de 28 ans enceinte de six mois, qui souffrait d’une hémorragie sévère et était inconsciente, a été retenue plus de trente minutes au checkpoint d’Awarta par l’armée israélienne, alors qu’elle se rendait à l’hôpital."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/27/en-cisjordanie-occupee-une-femme-perd-son-enfant-a-naitre-a-un-barrage-l-armee-israelienne-se-dedouane_6734226_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/27/en-cisjordanie-occupee-une-femme-perd-son-enfant-a-naitre-a-un-barrage-l-armee-israelienne-se-dedouane_6734226_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/27/en-cisjordanie-occupee-une-femme-perd-son-enfant-a-naitre-a-un-barrage-l-armee-israelienne-se-dedouane_6734226_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/26/449/0/5394/2697/644/322/60/0/97c0403_ftp-1-xidqfi1xqw4s-c2cd50024a304a3e9bb34c119ab31b39-0-00d3d500d75f45139e9946f84853ea5b.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats de l’armée israélienne, dans une rue de Naplouse, en Cisjordanie, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Majdi Mohammad / AP Photo/Majdi Mohammad"
+      }
+    ],
+    "credit": "Majdi Mohammad / AP Photo/Majdi Mohammad"
+  }
+}

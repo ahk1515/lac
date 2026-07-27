@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T21:09:03.217513+00:00",
+  "_id": "3ab83a6f68cb",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : l’armée russe autorisée par Vladimir Poutine à recruter 25 000 soldats de plus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : l’armée russe autorisée par Vladimir Poutine à recruter 25 000 soldats de plus"
+    },
+    "published": "Mon, 27 Jul 2026 20:05:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      18,
+      5,
+      16,
+      0,
+      208,
+      0
+    ],
+    "updated": "Mon, 27 Jul 2026 20:07:44 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      27,
+      18,
+      7,
+      44,
+      0,
+      208,
+      0
+    ],
+    "summary": "Les effectifs pourront être portés à 2 426 130 personnes, dont 1 535 000 militaires, à compter du 1ᵉʳ août. Il s’agit de la troisième augmentation depuis le début de l’année. Selon Volodymyr Zelensky, son homologue russe s’apprête à lancer une nouvelle campagne de mobilisation après les élections législatives, prévues le 21 septembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les effectifs pourront être portés à 2 426 130 personnes, dont 1 535 000 militaires, à compter du 1ᵉʳ août. Il s’agit de la troisième augmentation depuis le début de l’année. Selon Volodymyr Zelensky, son homologue russe s’apprête à lancer une nouvelle campagne de mobilisation après les élections législatives, prévues le 21 septembre."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-l-armee-russe-autorisee-par-vladimir-poutine-a-recruter-25-000-soldats-de-plus_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-l-armee-russe-autorisee-par-vladimir-poutine-a-recruter-25-000-soldats-de-plus_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-l-armee-russe-autorisee-par-vladimir-poutine-a-recruter-25-000-soldats-de-plus_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/460/0/5523/2761/644/322/60/0/52dc6b8_ftp-1-hc2jlyrl5x8e-2026-07-27t114654z-95242951-rc2bmma3ojt4-rtrmadp-3-russia-putin.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vladimir Poutine s’exprime devant les membres de la Douma, à Moscou, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sofya Sandurskaya / via REUTERS"
+      }
+    ],
+    "credit": "Sofya Sandurskaya / via REUTERS"
+  }
+}

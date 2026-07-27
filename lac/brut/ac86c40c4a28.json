@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T21:09:03.217243+00:00",
+  "_id": "ac86c40c4a28",
+  "brut": {
+    "title": "En Tunisie, Kaïs Saïed, qui fait face à une forte grogne sociale, s’isole sur la scène internationale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Tunisie, Kaïs Saïed, qui fait face à une forte grogne sociale, s’isole sur la scène internationale"
+    },
+    "published": "Mon, 27 Jul 2026 20:30:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      18,
+      30,
+      2,
+      0,
+      208,
+      0
+    ],
+    "summary": "La convocation de l’ambassadrice de France par les autorités tunisiennes, le 24 juillet, s’inscrit dans une série de tensions avec les diplomates européens. Alors que le régime accroît la répression politique et ne parvient à empêcher la détérioration des services publics.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La convocation de l’ambassadrice de France par les autorités tunisiennes, le 24 juillet, s’inscrit dans une série de tensions avec les diplomates européens. Alors que le régime accroît la répression politique et ne parvient à empêcher la détérioration des services publics."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/27/en-tunisie-kais-saied-qui-fait-face-a-une-forte-grogne-sociale-s-isole-sur-la-scene-internationale_6734223_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/27/en-tunisie-kais-saied-qui-fait-face-a-une-forte-grogne-sociale-s-isole-sur-la-scene-internationale_6734223_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/27/en-tunisie-kais-saied-qui-fait-face-a-une-forte-grogne-sociale-s-isole-sur-la-scene-internationale_6734223_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/25/474/0/4000/2000/644/322/60/0/55bdc85_ftp-1-htugn4oloajx-79d5d168b1314048906ce36def166805-0-f6e9b10af5dd4a7cafd7868b60fcb699.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation contre le président, Kaïs Saïed, dans le centre-ville de Tunis, le 25 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ons Abid/AP Photo"
+      }
+    ],
+    "credit": "Ons Abid/AP Photo"
+  }
+}

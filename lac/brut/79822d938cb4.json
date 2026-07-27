@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T21:09:03.217095+00:00",
+  "_id": "79822d938cb4",
+  "brut": {
+    "title": "Le Tchad annonce quitter la CPI à la demande des Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Tchad annonce quitter la CPI à la demande des Etats-Unis"
+    },
+    "published": "Mon, 27 Jul 2026 21:00:12 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      19,
+      0,
+      12,
+      0,
+      208,
+      0
+    ],
+    "summary": "Le retrait de N’Djamena, qui prendra effet en juillet 2027, n’affecte pas la poursuite des enquêtes déjà lancées. Le rôle trouble joué par le Tchad dans la guerre au Soudan est dans le viseur de l’instance.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le retrait de N’Djamena, qui prendra effet en juillet 2027, n’affecte pas la poursuite des enquêtes déjà lancées. Le rôle trouble joué par le Tchad dans la guerre au Soudan est dans le viseur de l’instance."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/27/le-tchad-annonce-quitter-la-cpi-a-la-demande-des-etats-unis_6734224_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/27/le-tchad-annonce-quitter-la-cpi-a-la-demande-des-etats-unis_6734224_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/27/le-tchad-annonce-quitter-la-cpi-a-la-demande-des-etats-unis_6734224_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/684/0/8192/4096/644/322/60/0/ded9d09_upload-1-vxeoyyo6et3d-000-b2kc9ay.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mahamat Idriss Déby, président tchadien, à Nairobi, au Kenya, le 12 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUDOVIC MARIN/AFP"
+      }
+    ],
+    "credit": "LUDOVIC MARIN/AFP"
+  }
+}
