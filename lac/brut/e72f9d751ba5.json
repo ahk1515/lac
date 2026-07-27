@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T17:41:30.491196+00:00",
+  "_id": "e72f9d751ba5",
+  "brut": {
+    "title": "Au Sénégal, la série « Maîtresse d’un homme marié », petite révolution dans l’audiovisuel",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Sénégal, la série « Maîtresse d’un homme marié », petite révolution dans l’audiovisuel"
+    },
+    "published": "Mon, 27 Jul 2026 19:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      17,
+      0,
+      3,
+      0,
+      208,
+      0
+    ],
+    "summary": "« Tour du monde en séries » (1/6). Six fictions étrangères qui sont le reflet de questions politiques et sociales brûlantes. Aujourd’hui, le feuilleton de Kalista Sy, qui a impulsé un style, à mi-chemin entre le mélo familial et la fresque sociale, et continue de susciter des débats.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Tour du monde en séries » (1/6). Six fictions étrangères qui sont le reflet de questions politiques et sociales brûlantes. Aujourd’hui, le feuilleton de Kalista Sy, qui a impulsé un style, à mi-chemin entre le mélo familial et la fresque sociale, et continue de susciter des débats."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/07/27/au-senegal-la-serie-maitresse-d-un-homme-marie-petite-revolution-dans-l-audiovisuel_6734217_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/07/27/au-senegal-la-serie-maitresse-d-un-homme-marie-petite-revolution-dans-l-audiovisuel_6734217_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/07/27/au-senegal-la-serie-maitresse-d-un-homme-marie-petite-revolution-dans-l-audiovisuel_6734217_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/10/38/0/3600/1800/644/322/60/0/48380c6_upload-1-vv1lxmq4kspd-000-1h12mr.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ndiaye Cire Ba (Djalika) et Halimatou Gadji (Marème) lors du tournage d’un épisode de la série télévisée sénégalaise « Maîtresse d’un homme marié », à Dakar, en mai 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEYLLOU/AFP"
+      }
+    ],
+    "credit": "SEYLLOU/AFP"
+  }
+}

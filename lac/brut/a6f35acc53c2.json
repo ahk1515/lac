@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T17:41:30.653015+00:00",
+  "_id": "a6f35acc53c2",
+  "brut": {
+    "title": "Les houthis du Yémen revendiquent de nouvelles attaques de drones contre les infrastructures pétrolières saoudiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les houthis du Yémen revendiquent de nouvelles attaques de drones contre les infrastructures pétrolières saoudiennes"
+    },
+    "summary": "Les rebelles pro-Iran affirment avoir riposté à des incursions de drones de l'Arabie saoudite. Ils avaient déjà revendiqué des frappes sur le royaume du Golfe samedi, après avoir été visés par Ryad.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les rebelles pro-Iran affirment avoir riposté à des incursions de drones de l'Arabie saoudite. Ils avaient déjà revendiqué des frappes sur le royaume du Golfe samedi, après avoir été visés par Ryad."
+    },
+    "published": "Mon, 27 Jul 2026 16:53:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      14,
+      53,
+      1,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-revendiquent-de-nouvelles-attaques-de-drones-contre-les-infrastructures-petrolieres-saoudiennes_8124155.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/An4vtDJidfiQUcgdsVHZi02Js04/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/07/27/6a676e92ecb4e541338859.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-revendiquent-de-nouvelles-attaques-de-drones-contre-les-infrastructures-petrolieres-saoudiennes_8124155.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-revendiquent-de-nouvelles-attaques-de-drones-contre-les-infrastructures-petrolieres-saoudiennes_8124155.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-27T17:41:30.491816+00:00",
+  "_id": "e16fca171098",
+  "brut": {
+    "title": "PEN America, association de défense de la liberté d’expression des écrivains, secouée par la démission de son président",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "PEN America, association de défense de la liberté d’expression des écrivains, secouée par la démission de son président"
+    },
+    "published": "Mon, 27 Jul 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      15,
+      0,
+      2,
+      0,
+      208,
+      0
+    ],
+    "summary": "La prestigieuse organisation est de nouveau aux prises avec des dissensions internes. L’écrivain Dinaw Mengestu a quitté la présidence le 9 juillet pour marquer son opposition à un article publié sur le site de l’association, relatant la mise à l’écart d’auteurs juifs et israéliens par les milieux littéraires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La prestigieuse organisation est de nouveau aux prises avec des dissensions internes. L’écrivain Dinaw Mengestu a quitté la présidence le 9 juillet pour marquer son opposition à un article publié sur le site de l’association, relatant la mise à l’écart d’auteurs juifs et israéliens par les milieux littéraires."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/07/27/pen-america-association-de-defense-de-la-liberte-d-expression-des-ecrivains-secouee-par-la-demission-de-son-president_6734206_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/07/27/pen-america-association-de-defense-de-la-liberte-d-expression-des-ecrivains-secouee-par-la-demission-de-son-president_6734206_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/07/27/pen-america-association-de-defense-de-la-liberte-d-expression-des-ecrivains-secouee-par-la-demission-de-son-president_6734206_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/22/80/0/3319/1659/644/322/60/0/b6e0997_upload-1-bb4hep5isx2m-063-2276306398.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’écrivain Dinaw Mengestu, lors d’un gala littéraire organisé par PEN America, à New York, le 14 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CRAIG BARRITT/AFP"
+      }
+    ],
+    "credit": "CRAIG BARRITT/AFP"
+  }
+}

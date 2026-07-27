@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-27T17:41:30.652401+00:00",
+  "_id": "b708a3627d18",
+  "brut": {
+    "title": "Andrea Pirlo et la Russie : imbroglio pour le foot italien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Andrea Pirlo et la Russie : imbroglio pour le foot italien"
+    },
+    "summary": "⚽️🇮🇹 Alors qu'il était annoncé comme le futur sélectionneur de l'équipe d'Italie, Andrea Pirlo ne sera finalement pas désigné. Sa candidature a été écartée après les critiques provoquées par ses liens avec des entreprises russes. Un énième imbroglio pour le foot italien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "⚽️🇮🇹 Alors qu'il était annoncé comme le futur sélectionneur de l'équipe d'Italie, Andrea Pirlo ne sera finalement pas désigné. Sa candidature a été écartée après les critiques provoquées par ses liens avec des entreprises russes. Un énième imbroglio pour le foot italien."
+    },
+    "published": "Mon, 27 Jul 2026 19:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      17,
+      0,
+      1,
+      0,
+      208,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sports/foot/andrea-pirlo-et-la-russie-imbroglio-pour-le-foot-italien_8124239.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/FRDb6q0cFOxUR5BHdgvBc-dOwVE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/27/6a6775e96144c387424678.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sports/foot/andrea-pirlo-et-la-russie-imbroglio-pour-le-foot-italien_8124239.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sports/foot/andrea-pirlo-et-la-russie-imbroglio-pour-le-foot-italien_8124239.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
