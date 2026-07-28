@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T10:33:29.326581+00:00",
+  "_id": "7b5d41a3e7c0",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Tue, 28 Jul 2026 10:44:23 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      8,
+      44,
+      23,
+      1,
+      209,
+      0
+    ],
+    "updated": "Tue, 28 Jul 2026 10:44:47 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      28,
+      8,
+      44,
+      47,
+      1,
+      209,
+      0
+    ],
+    "summary": "La région de Moscou a été attaquée par plus de 390 drones ukrainiens, selon son gouverneur, Andreï Vorobiov, qui a recensé un immeuble et des maisons endommagées, sans rapporter pour l’heure de victime.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La région de Moscou a été attaquée par plus de 390 drones ukrainiens, selon son gouverneur, Andreï Vorobiov, qui a recensé un immeuble et des maisons endommagées, sans rapporter pour l’heure de victime."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-les-dernieres-informations-au-28-juillet-2026_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-les-dernieres-informations-au-28-juillet-2026_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-les-dernieres-informations-au-28-juillet-2026_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/217/0/3625/1812/644/322/60/0/0df3f94_ftp-1-tfa1smhzmso2-2026-07-24t065954z-1388633975-rc2hgmarm2hy-rtrmadp-3-ukraine-crisis-crimea-drones.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une image mise à disposition, le 18 juillet 2026, montre un drone FP-1 décollant pour une mission de combat depuis un lieu non divulgué en Ukraine."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}

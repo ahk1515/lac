@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T10:33:29.519336+00:00",
+  "_id": "740adbc551c6",
+  "brut": {
+    "title": "Les autorités haïtiennes annoncent des élections en fin d'année, si les conditions de sécurité sont réunies",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités haïtiennes annoncent des élections en fin d'année, si les conditions de sécurité sont réunies"
+    },
+    "summary": "Le premier tour des différents scrutins doit avoir lieu le 13 décembre 2026 et le second tour le 21 février 2027, selon le calendrier publié par le Conseil électoral provisoire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le premier tour des différents scrutins doit avoir lieu le 13 décembre 2026 et le second tour le 21 février 2027, selon le calendrier publié par le Conseil électoral provisoire."
+    },
+    "published": "Tue, 28 Jul 2026 11:39:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      9,
+      39,
+      18,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ameriques/les-autorites-haitiennes-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-sont-reunies_8124908.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jdZ4rk2a6yWeeEb_LgiuzpZvygs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/28/6a6878b7e7853945716823.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ameriques/les-autorites-haitiennes-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-sont-reunies_8124908.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ameriques/les-autorites-haitiennes-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-sont-reunies_8124908.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

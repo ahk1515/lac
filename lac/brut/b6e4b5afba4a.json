@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T10:33:29.519718+00:00",
+  "_id": "b6e4b5afba4a",
+  "brut": {
+    "title": "Un séisme de magnitude 7,1 frappe le sud du Japon, faisant plusieurs blessés et des dégâts sur des immeubles, selon la Première ministre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un séisme de magnitude 7,1 frappe le sud du Japon, faisant plusieurs blessés et des dégâts sur des immeubles, selon la Première ministre"
+    },
+    "summary": "La secousse, qui a atteint le niveau maximum sur l'échelle d'intensité sismique du pays, s'est produite dans la préfecture de Kumamoto.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La secousse, qui a atteint le niveau maximum sur l'échelle d'intensité sismique du pays, s'est produite dans la préfecture de Kumamoto."
+    },
+    "published": "Tue, 28 Jul 2026 12:30:40 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      10,
+      30,
+      40,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5Rur1gGLFNKUwvR4tWxSjWyL1yQ/0x57:1024x633/432x243/filters:format(jpg):quality(50)/2026/07/28/6a6875fa21826843326207.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

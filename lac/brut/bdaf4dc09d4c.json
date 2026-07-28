@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T10:33:29.326744+00:00",
+  "_id": "bdaf4dc09d4c",
+  "brut": {
+    "title": "Japon : un séisme de magnitude 7,1 frappe Kumamoto, l’alerte tsunami levée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Japon : un séisme de magnitude 7,1 frappe Kumamoto, l’alerte tsunami levée"
+    },
+    "published": "Tue, 28 Jul 2026 10:41:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      8,
+      41,
+      4,
+      1,
+      209,
+      0
+    ],
+    "updated": "Tue, 28 Jul 2026 12:24:26 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      28,
+      10,
+      24,
+      26,
+      1,
+      209,
+      0
+    ],
+    "summary": "La secousse, d’intensité maximale sur l’échelle sismique japonaise, a fait au moins 50 blessés et entraîné la suspension du trafic ferroviaire dans tout le sud du pays, sans anomalie signalée dans les centrales nucléaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La secousse, d’intensité maximale sur l’échelle sismique japonaise, a fait au moins 50 blessés et entraîné la suspension du trafic ferroviaire dans tout le sud du pays, sans anomalie signalée dans les centrales nucléaires."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/28/japon-un-seisme-de-magnitude-7-1-frappe-kumamoto-et-declenche-une-alerte-au-tsunami_6734975_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/28/japon-un-seisme-de-magnitude-7-1-frappe-kumamoto-et-declenche-une-alerte-au-tsunami_6734975_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/28/japon-un-seisme-de-magnitude-7-1-frappe-kumamoto-et-declenche-une-alerte-au-tsunami_6734975_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/359/0/4314/2157/644/322/60/0/e981393_ftp-1-jcm3xdboq0wn-5722226-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un message d’alerte au tsunami affiché sur un écran de la chaîne NHK après le séisme qui a frappé Kumamoto. A Tokyo, le 28 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREW CABALLERO-REYNOLDS/AFP"
+      }
+    ],
+    "credit": "ANDREW CABALLERO-REYNOLDS/AFP"
+  }
+}

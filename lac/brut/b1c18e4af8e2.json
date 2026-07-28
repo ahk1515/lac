@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T10:33:29.325777+00:00",
+  "_id": "b1c18e4af8e2",
+  "brut": {
+    "title": "Au Maroc, le patron du football, Fouzi Lekjaa, enfile son costume de premier ministrable",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Maroc, le patron du football, Fouzi Lekjaa, enfile son costume de premier ministrable"
+    },
+    "published": "Tue, 28 Jul 2026 12:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      10,
+      0,
+      3,
+      1,
+      209,
+      0
+    ],
+    "summary": "Le président de la Fédération royale marocaine de football et ministre du budget a officialisé son ralliement au Parti Authenticité et modernité, le 25 juillet. Il semble désormais le mieux placé pour devenir le prochain chef du gouvernement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président de la Fédération royale marocaine de football et ministre du budget a officialisé son ralliement au Parti Authenticité et modernité, le 25 juillet. Il semble désormais le mieux placé pour devenir le prochain chef du gouvernement."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/28/au-maroc-le-patron-du-football-fouzi-lekjaa-enfile-son-costume-de-premier-ministrable_6735076_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/28/au-maroc-le-patron-du-football-fouzi-lekjaa-enfile-son-costume-de-premier-ministrable_6735076_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/28/au-maroc-le-patron-du-football-fouzi-lekjaa-enfile-son-costume-de-premier-ministrable_6735076_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/30/75/0/2080/1040/644/322/60/0/5838970_ftp-1-3isx1iyzo8me-2026-06-30t012218z-1325996038-up1em6u03t52f-rtrmadp-3-soccer-worldcup-nld-mar.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président de la Fédération royale marocaine de football, Fouzi Lekjaa, et le président de la FIFA, Gianni Infantino, avant le match Pays-Bas - Maroc, à Monterrey (Mexique), le 29 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Eloisa Sanchez/REUTERS"
+      }
+    ],
+    "credit": "Eloisa Sanchez/REUTERS"
+  }
+}

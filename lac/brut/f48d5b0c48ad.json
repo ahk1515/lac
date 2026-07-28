@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T10:33:29.326252+00:00",
+  "_id": "f48d5b0c48ad",
+  "brut": {
+    "title": "La Cisjordanie soumise au terrorisme des colons israéliens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Cisjordanie soumise au terrorisme des colons israéliens"
+    },
+    "published": "Tue, 28 Jul 2026 11:30:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      9,
+      30,
+      3,
+      1,
+      209,
+      0
+    ],
+    "summary": "Les dernières morts enregistrées vendredi 24 juillet, provoquées par un raid de colons armés dans un village palestinien proche de Naplouse, ont conforté une évidence : plus Israël colonise et plus la violence se déchaîne. Sans de fortes pressions extérieures, rien ne changera.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les dernières morts enregistrées vendredi 24 juillet, provoquées par un raid de colons armés dans un village palestinien proche de Naplouse, ont conforté une évidence : plus Israël colonise et plus la violence se déchaîne. Sans de fortes pressions extérieures, rien ne changera."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/07/28/la-cisjordanie-soumise-au-terrorisme-des-colons-israeliens_6735043_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/07/28/la-cisjordanie-soumise-au-terrorisme-des-colons-israeliens_6735043_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/07/28/la-cisjordanie-soumise-au-terrorisme-des-colons-israeliens_6735043_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/657/0/7888/3944/644/322/60/0/1013f55_ftp-1-vk0a6fuoli1x-5697464-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une attaque perpétrée par des colons israéliens dans le village palestinien de Sarra, en périphérie de Naplouse (Cisjordanie occupée), le 24 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JAAFAR ASHTIYEH/AFP"
+      }
+    ],
+    "credit": "JAAFAR ASHTIYEH/AFP"
+  }
+}
