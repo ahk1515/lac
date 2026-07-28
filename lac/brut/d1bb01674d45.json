@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T21:06:09.136834+00:00",
+  "_id": "d1bb01674d45",
+  "brut": {
+    "title": "Spot de rêve : l'île de Siargao aux Philippines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Spot de rêve : l'île de Siargao aux Philippines"
+    },
+    "summary": "🇵🇭🏝️ Entre forêt, cocotiers, mangroves et spots de plongée, l’île de Siargao aux Philippines est un véritable paradis. (Collection série d'été France TV 2025)",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇵🇭🏝️ Entre forêt, cocotiers, mangroves et spots de plongée, l’île de Siargao aux Philippines est un véritable paradis. (Collection série d'été France TV 2025)"
+    },
+    "published": "Tue, 28 Jul 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      20,
+      0,
+      2,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/spot-de-reve-l-ile-de-siargao-aux-philippines_8125463.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/mh3ahhJ_rAxfRo_de5-VIojhPRE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/28/6a689f6023099656288704.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/spot-de-reve-l-ile-de-siargao-aux-philippines_8125463.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/spot-de-reve-l-ile-de-siargao-aux-philippines_8125463.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
