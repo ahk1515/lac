@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T06:26:10.076571+00:00",
+  "_id": "3598f30bb989",
+  "brut": {
+    "title": "\"Code rouge\" : un huis clos aérien plein de turbulences entre Londres et Pékin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Code rouge\" : un huis clos aérien plein de turbulences entre Londres et Pékin"
+    },
+    "summary": "La série britannique de 6 épisodes mêle espionnage et affaires de famille avec un certain panache.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La série britannique de 6 épisodes mêle espionnage et affaires de famille avec un certain panache."
+    },
+    "published": "Tue, 28 Jul 2026 06:10:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      4,
+      10,
+      2,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/series/code-rouge-un-huis-clos-aerien-plein-de-turbulences-entre-londres-et-pekin_8118275.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/meEX_e7GIgnj6koUonJBhu9BpKQ/0x0:1214x683/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60ff03576e3457567643.jpeg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/series/code-rouge-un-huis-clos-aerien-plein-de-turbulences-entre-londres-et-pekin_8118275.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/series/code-rouge-un-huis-clos-aerien-plein-de-turbulences-entre-londres-et-pekin_8118275.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

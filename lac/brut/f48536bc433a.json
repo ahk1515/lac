@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T06:26:10.076355+00:00",
+  "_id": "f48536bc433a",
+  "brut": {
+    "title": "Au Japon, on peut désormais dormir dans un TGV à quai plutôt qu'à l'hôtel",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Japon, on peut désormais dormir dans un TGV à quai plutôt qu'à l'hôtel"
+    },
+    "summary": "Plusieurs compagnies ferroviaires japonaises commencent à tester le concept de passer la nuit dans un TGV à quai plutôt qu'à l'hôtel, notamment lors de grands festivals culturels.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plusieurs compagnies ferroviaires japonaises commencent à tester le concept de passer la nuit dans un TGV à quai plutôt qu'à l'hôtel, notamment lors de grands festivals culturels."
+    },
+    "published": "Tue, 28 Jul 2026 06:21:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      4,
+      21,
+      21,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-on-peut-desormais-dormir-dans-un-tgv-a-quai-plutot-qu-a-l-hotel_8096675.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RbV33OCd19hRuh6_yfE3dzKUOEI/0x296:5616x3455/432x243/filters:format(jpg):quality(50)/2026/07/27/6a67147cbb923003325554.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-on-peut-desormais-dormir-dans-un-tgv-a-quai-plutot-qu-a-l-hotel_8096675.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-on-peut-desormais-dormir-dans-un-tgv-a-quai-plutot-qu-a-l-hotel_8096675.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

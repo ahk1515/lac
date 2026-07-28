@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T06:26:09.841915+00:00",
+  "_id": "c53b55e56e25",
+  "brut": {
+    "title": "Dans le sud de l’Iran, une guerre loin de Téhéran mais omniprésente",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sud de l’Iran, une guerre loin de Téhéran mais omniprésente"
+    },
+    "published": "Tue, 28 Jul 2026 06:00:09 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      4,
+      0,
+      9,
+      1,
+      209,
+      0
+    ],
+    "summary": "Depuis la reprise des hostilités entre l’Iran et les Etats-Unis, les bombardements américains se concentrent sur les provinces proches du golfe Persique. A Bandar-e Abbas, sur l’île de Qechm et dans la province du Fars, les habitants racontent un quotidien marqué par la peur, les destructions et une inflation galopante.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis la reprise des hostilités entre l’Iran et les Etats-Unis, les bombardements américains se concentrent sur les provinces proches du golfe Persique. A Bandar-e Abbas, sur l’île de Qechm et dans la province du Fars, les habitants racontent un quotidien marqué par la peur, les destructions et une inflation galopante."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/28/dans-le-sud-de-l-iran-une-guerre-loin-de-teheran-mais-omnipresente_6734561_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/28/dans-le-sud-de-l-iran-une-guerre-loin-de-teheran-mais-omnipresente_6734561_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/28/dans-le-sud-de-l-iran-une-guerre-loin-de-teheran-mais-omnipresente_6734561_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/500/0/6000/3000/644/322/60/0/4015bb7_ftp-1-uwphmlkbxuyv-2026-07-27t110055z-945044300-rc22mmaj7aqf-rtrmadp-3-iran-crisis.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des navires dans le détroit d’Ormuz, près de la plage de Bandar-e Abbas (Iran), le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Razieh Poudat/ISNA via REUTERS"
+      }
+    ],
+    "credit": "Razieh Poudat/ISNA via REUTERS"
+  }
+}
