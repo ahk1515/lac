@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T14:03:59.223259+00:00",
+  "_id": "4e4ad1dae701",
+  "brut": {
+    "title": "Les pompiers progressent face aux incendies en Espagne, le Premier ministre voit \"la lumière au bout du tunnel\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les pompiers progressent face aux incendies en Espagne, le Premier ministre voit \"la lumière au bout du tunnel\""
+    },
+    "summary": "Les incendies en Espagne ont déjà ravagé environ 77 000 hectares et 63 000 personnes ont été évacuées. Il s'agit du feu de forêt \"le plus important\" de l'histoire récente de l'Espagne, selon le gouvernement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les incendies en Espagne ont déjà ravagé environ 77 000 hectares et 63 000 personnes ont été évacuées. Il s'agit du feu de forêt \"le plus important\" de l'histoire récente de l'Espagne, selon le gouvernement."
+    },
+    "published": "Tue, 28 Jul 2026 13:45:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      11,
+      45,
+      26,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/les-pompiers-progressent-face-aux-incendies-en-espagne-le-premier-ministre-voit-la-lumiere-au-bout-du-tunnel_8125394.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/B7UMNDAbvwE9ELdV5mFJPwVHOCY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/28/6a689012d607a238499340.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/les-pompiers-progressent-face-aux-incendies-en-espagne-le-premier-ministre-voit-la-lumiere-au-bout-du-tunnel_8125394.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/les-pompiers-progressent-face-aux-incendies-en-espagne-le-premier-ministre-voit-la-lumiere-au-bout-du-tunnel_8125394.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

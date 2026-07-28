@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T14:03:59.007355+00:00",
+  "_id": "72be966c9f8c",
+  "brut": {
+    "title": "Japon : un séisme de magnitude 7,1 a frappé le sud du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Japon : un séisme de magnitude 7,1 a frappé le sud du pays"
+    },
+    "published": "Tue, 28 Jul 2026 14:51:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      12,
+      51,
+      6,
+      1,
+      209,
+      0
+    ],
+    "summary": "La secousse, d’intensité maximale sur l’échelle sismique japonaise, a fait au moins 50 blessés et entraîné la suspension du trafic ferroviaire dans le sud de l’Archipel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La secousse, d’intensité maximale sur l’échelle sismique japonaise, a fait au moins 50 blessés et entraîné la suspension du trafic ferroviaire dans le sud de l’Archipel."
+    },
+    "id": "https://www.lemonde.fr/planete/video/2026/07/28/japon-un-seisme-de-magnitude-7-1-a-frappe-le-sud-du-pays_6735213_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/video/2026/07/28/japon-un-seisme-de-magnitude-7-1-a-frappe-le-sud-du-pays_6735213_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/video/2026/07/28/japon-un-seisme-de-magnitude-7-1-a-frappe-le-sud-du-pays_6735213_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/279/0/3968/1984/644/322/60/0/6691a32_ftp-1-ckzez2a7sjdj-2026-07-28t121414z-481743110-rc20nmax2lbd-rtrmadp-3-japan-quake.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KYODO / via REUTERS"
+      }
+    ],
+    "credit": "KYODO / via REUTERS"
+  }
+}

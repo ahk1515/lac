@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T14:03:59.006725+00:00",
+  "_id": "99c1798ef2d0",
+  "brut": {
+    "title": "Attentat contre la Marche des fiertés de Berlin : l’auteur avait prêté allégeance à l’EI dans une vidéo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attentat contre la Marche des fiertés de Berlin : l’auteur avait prêté allégeance à l’EI dans une vidéo"
+    },
+    "published": "Tue, 28 Jul 2026 15:40:24 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      13,
+      40,
+      24,
+      1,
+      209,
+      0
+    ],
+    "summary": "Les enquêteurs ont retrouvé sur le téléphone du suspect une vidéo dans laquelle une personne masquée s’apparentant à l’assaillant fait allégeance au groupe Etat islamique, une information confirmée pour partie par le parquet et le ministre de l’intérieur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les enquêteurs ont retrouvé sur le téléphone du suspect une vidéo dans laquelle une personne masquée s’apparentant à l’assaillant fait allégeance au groupe Etat islamique, une information confirmée pour partie par le parquet et le ministre de l’intérieur."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/28/attentat-contre-la-marche-des-fiertes-de-berlin-l-auteur-avait-prete-allegeance-a-l-ei-dans-une-video_6735249_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/28/attentat-contre-la-marche-des-fiertes-de-berlin-l-auteur-avait-prete-allegeance-a-l-ei-dans-une-video_6735249_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/28/attentat-contre-la-marche-des-fiertes-de-berlin-l-auteur-avait-prete-allegeance-a-l-ei-dans-une-video_6735249_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/1264/0/9195/4597/644/322/60/0/6845d44_ftp-1-tyoxgi6kkcco-410e8bb3438c40cf9112a3234ddf612f-1-c9a1c68b3c6747ae9d05a13f477d076f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mémorial aux victimes d’une attaque à la voiture survenue lors de la Marche des fiertés du 25 juillet, devant la porte de Brandebourg, à Berlin, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Markus Schreiber/AP Photo"
+      }
+    ],
+    "credit": "Markus Schreiber/AP Photo"
+  }
+}
