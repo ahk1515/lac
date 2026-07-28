@@ -6286,6 +6286,20 @@
     ]
   },
   {
+    "date": "Mon, 27 Jul 2026 23:56:08 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "La délégation américaine quitte une réunion du Conseil de sécurité de l'ONU pour protester contre des critiques françaises",
+    "texte": "Sur X, la mission de la France auprès des Nations unies avait comparé les Etats-Unis à la Corée du Nord et à la Russie.",
+    "url": "https://www.franceinfo.fr/monde/onu/la-delegation-americaine-quitte-une-reunion-du-conseil-de-securite-de-l-onu-pour-protester-contre-des-critiques-francaises_8124605.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "66b75cac5492",
+    "pays": [
+      "FRA",
+      "RUS",
+      "USA"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -15691,6 +15705,65 @@
     "pays": [
       "RUS",
       "UKR"
+    ]
+  },
+  {
+    "date": "Tue, 28 Jul 2026 04:10:36 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Haïti : les autorités annoncent des élections en fin d’année, si les conditions de sécurité le permettent",
+    "texte": "L’Etat haïtien n’a plus connu d’élections depuis 2016 et son dernier président, Jovenel Moïse, assassiné en 2021, n’a pas été remplacé.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/28/haiti-les-autorites-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-le-permettent_6734392_3210.html",
+    "id": "0972330e121e",
+    "pays": []
+  },
+  {
+    "date": "Tue, 28 Jul 2026 02:50:57 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "République démocratique du Congo : des attaques menées par les djihadistes ont fait au moins 31 morts en quelques jours dans le Nord-Est",
+    "texte": "Dans la province de l’Ituri, les rebelles des Forces démocratiques alliées, qui ont prêté allégeance à l’organisation Etat islamique, imposent des taxes aux habitants, menaçant de les tuer s’ils ne paient pas.",
+    "url": "https://www.lemonde.fr/afrique/article/2026/07/28/rdc-plusieurs-attaques-menees-par-les-djihadistes-des-adf-ont-fait-au-moins-31-morts-civils-en-quelques-jours-dans-le-nord-est_6734359_3212.html",
+    "id": "fec5ccf3eba7",
+    "pays": []
+  },
+  {
+    "date": "Tue, 28 Jul 2026 01:53:26 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Le chanteur américain D4vd renvoyé en procès pour le meurtre d’une adolescente",
+    "texte": "L’homme est soupçonné d’avoir poignardé à mort puis démembré, en avril 2025, Celeste Rivas Hernandez, avec qui il aurait eu des relations sexuelles dès les 13 ans de cette dernière, alors qu’il en avait 18. Il risque la prison à perpétuité, voire la peine de mort.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/28/le-chanteur-americain-d4vd-renvoye-en-proces-pour-le-meurtre-d-une-adolescente_6734326_3210.html",
+    "id": "f719561b30f1",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Tue, 28 Jul 2026 00:32:08 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : plus de 180 drones ukrainiens abattus dans la journée de lundi, selon la Russie",
+    "texte": "Les engins ont été interceptés en Russie et en Crimée, ainsi qu’en mer d’Azov et en mer Noire entre 8 heures et 20 heures, a annoncé le ministère de la défense, qui ne signale jamais d’impact. Par ailleurs, l’armée russe a été autorisée par Vladimir Poutine à recruter 25 000 soldats de plus.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-plus-de-180-drones-ukrainiens-abattus-dans-la-journee-de-lundi-selon-la-russie_6732775_3210.html",
+    "id": "2064cddf637b",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Mon, 27 Jul 2026 23:32:02 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : Donald Trump rejette les inquiétudes d’une pénurie de munitions américaines",
+    "texte": "« J’aimerais en avoir plus, pour être honnête, mais tellement a été donné à l’Ukraine », a déclaré le président américain à la presse, à bord d’Air Force One, après plusieurs mois de frappes sur l’Iran.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-donald-trump-rejette-les-inquietudes-d-une-penurie-de-munitions-americaines_6725301_3210.html",
+    "id": "b770ec5c0593",
+    "pays": [
+      "IRN",
+      "UKR",
+      "USA"
     ]
   }
 ]

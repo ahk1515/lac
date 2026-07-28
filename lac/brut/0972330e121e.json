@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T02:27:23.231573+00:00",
+  "_id": "0972330e121e",
+  "brut": {
+    "title": "Haïti : les autorités annoncent des élections en fin d’année, si les conditions de sécurité le permettent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Haïti : les autorités annoncent des élections en fin d’année, si les conditions de sécurité le permettent"
+    },
+    "published": "Tue, 28 Jul 2026 04:10:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      2,
+      10,
+      36,
+      1,
+      209,
+      0
+    ],
+    "summary": "L’Etat haïtien n’a plus connu d’élections depuis 2016 et son dernier président, Jovenel Moïse, assassiné en 2021, n’a pas été remplacé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Etat haïtien n’a plus connu d’élections depuis 2016 et son dernier président, Jovenel Moïse, assassiné en 2021, n’a pas été remplacé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/28/haiti-les-autorites-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-le-permettent_6734392_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/28/haiti-les-autorites-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-le-permettent_6734392_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/28/haiti-les-autorites-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-le-permettent_6734392_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/359/0/4928/2464/644/322/60/0/96ed70d_upload-1-5v29l0ibu0vn-000-l76cm.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un bureau de vote à Port-au-Prince, le 29 janvier 2017."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HECTOR RETAMAL/AFP"
+      }
+    ],
+    "credit": "HECTOR RETAMAL/AFP"
+  }
+}

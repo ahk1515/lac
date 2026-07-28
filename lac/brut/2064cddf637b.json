@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T02:27:23.232052+00:00",
+  "_id": "2064cddf637b",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : plus de 180 drones ukrainiens abattus dans la journée de lundi, selon la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : plus de 180 drones ukrainiens abattus dans la journée de lundi, selon la Russie"
+    },
+    "published": "Tue, 28 Jul 2026 00:32:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      22,
+      32,
+      8,
+      0,
+      208,
+      0
+    ],
+    "summary": "Les engins ont été interceptés en Russie et en Crimée, ainsi qu’en mer d’Azov et en mer Noire entre 8 heures et 20 heures, a annoncé le ministère de la défense, qui ne signale jamais d’impact. Par ailleurs, l’armée russe a été autorisée par Vladimir Poutine à recruter 25 000 soldats de plus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les engins ont été interceptés en Russie et en Crimée, ainsi qu’en mer d’Azov et en mer Noire entre 8 heures et 20 heures, a annoncé le ministère de la défense, qui ne signale jamais d’impact. Par ailleurs, l’armée russe a été autorisée par Vladimir Poutine à recruter 25 000 soldats de plus."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-plus-de-180-drones-ukrainiens-abattus-dans-la-journee-de-lundi-selon-la-russie_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-plus-de-180-drones-ukrainiens-abattus-dans-la-journee-de-lundi-selon-la-russie_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-plus-de-180-drones-ukrainiens-abattus-dans-la-journee-de-lundi-selon-la-russie_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/460/0/5523/2761/644/322/60/0/52dc6b8_ftp-1-hc2jlyrl5x8e-2026-07-27t114654z-95242951-rc2bmma3ojt4-rtrmadp-3-russia-putin.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vladimir Poutine s’exprime devant les membres de la Douma, à Moscou, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sofya Sandurskaya / via REUTERS"
+      }
+    ],
+    "credit": "Sofya Sandurskaya / via REUTERS"
+  }
+}
