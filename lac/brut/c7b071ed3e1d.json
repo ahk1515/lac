@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T17:25:41.831786+00:00",
+  "_id": "c7b071ed3e1d",
+  "brut": {
+    "title": "EN IMAGES. Bâtiments endommagés, centre commercial effondré, pont éventré… Les dégâts provoqués par le séisme de magnitude 7,1 dans le sud du Japon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "EN IMAGES. Bâtiments endommagés, centre commercial effondré, pont éventré… Les dégâts provoqués par le séisme de magnitude 7,1 dans le sud du Japon"
+    },
+    "summary": "La préfecture de Kumamoto a été touchée par une secousse qui a fait au moins un mort et plus de 50 blessés. Le deuxième étage d'un centre commercial s'est effondré, piégeant de nombreuses personnes à l'intérieur, selon les pompiers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La préfecture de Kumamoto a été touchée par une secousse qui a fait au moins un mort et plus de 50 blessés. Le deuxième étage d'un centre commercial s'est effondré, piégeant de nombreuses personnes à l'intérieur, selon les pompiers."
+    },
+    "published": "Tue, 28 Jul 2026 17:22:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      15,
+      22,
+      2,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-batiments-endommages-centre-commercial-effondre-pont-eventre-les-degats-provoques-par-le-seisme-de-magnitude-7-1-dans-le-sud-du-japon_8125514.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Ywd7ykQJTPRr7frN4VcmSDJV1Rs/0x0:5000x2812/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68ac600aa82710249670.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-batiments-endommages-centre-commercial-effondre-pont-eventre-les-degats-provoques-par-le-seisme-de-magnitude-7-1-dans-le-sud-du-japon_8125514.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-batiments-endommages-centre-commercial-effondre-pont-eventre-les-degats-provoques-par-le-seisme-de-magnitude-7-1-dans-le-sud-du-japon_8125514.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

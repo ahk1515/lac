@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T17:25:41.454444+00:00",
+  "_id": "5938ac4531f4",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de sa « belle rencontre » avec Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de sa « belle rencontre » avec Donald Trump"
+    },
+    "published": "Tue, 28 Jul 2026 18:59:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      16,
+      59,
+      41,
+      1,
+      209,
+      0
+    ],
+    "summary": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé Volodymyr Zelensky, sans plus de précisions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé Volodymyr Zelensky, sans plus de précisions."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-sa-belle-rencontre-avec-donald-trump_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-sa-belle-rencontre-avec-donald-trump_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-sa-belle-rencontre-avec-donald-trump_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/255/0/4636/2318/644/322/60/0/a050257_ftp-1-2747znim0c4i-2026-07-28t140135z-1474793078-rc22nmaqc1zi-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président ukrainien, Volodymyr Zelensky, à son arrivée à la Maison Blanche, à Washington, le 28 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Elizabeth Frantz/REUTERS"
+      }
+    ],
+    "credit": "Elizabeth Frantz/REUTERS"
+  }
+}

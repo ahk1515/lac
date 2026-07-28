@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T17:25:41.831353+00:00",
+  "_id": "8dff3bdd56fc",
+  "brut": {
+    "title": "L'ONU s'alarme de la \"détérioration rapide\" de la situation en Cisjordanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ONU s'alarme de la \"détérioration rapide\" de la situation en Cisjordanie"
+    },
+    "summary": "Le représentant adjoint de l'ONU pour le Moyen-Orient a dénoncé mardi l'\"escalade\" des violences, notamment celles des colons israéliens contre les Palestiniens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le représentant adjoint de l'ONU pour le Moyen-Orient a dénoncé mardi l'\"escalade\" des violences, notamment celles des colons israéliens contre les Palestiniens."
+    },
+    "published": "Tue, 28 Jul 2026 17:41:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      15,
+      41,
+      46,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/l-onu-s-alarme-de-la-deterioration-rapide-de-la-situation-en-cisjordanie_8125781.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/sh8jo15ZJawVhdslApgsVyZEh6k/0x80:1024x656/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68cb823c6d3189508166.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/l-onu-s-alarme-de-la-deterioration-rapide-de-la-situation-en-cisjordanie_8125781.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/l-onu-s-alarme-de-la-deterioration-rapide-de-la-situation-en-cisjordanie_8125781.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

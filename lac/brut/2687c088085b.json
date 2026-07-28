@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-28T17:25:41.832202+00:00",
+  "_id": "2687c088085b",
+  "brut": {
+    "title": "L'Union européenne condamne \"sans équivoque\" l'agression des deux diplomates français en Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Union européenne condamne \"sans équivoque\" l'agression des deux diplomates français en Iran"
+    },
+    "summary": "D'après le ministère des Affaires étrangères français, deux diplomates ont été \"détenus sans raison pendant plusieurs heures\" et \"interrogés\" par les services de sécurité iraniens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "D'après le ministère des Affaires étrangères français, deux diplomates ont été \"détenus sans raison pendant plusieurs heures\" et \"interrogés\" par les services de sécurité iraniens."
+    },
+    "published": "Tue, 28 Jul 2026 16:28:17 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      14,
+      28,
+      17,
+      1,
+      209,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/l-union-europeenne-condamne-sans-equivoque-l-agression-des-deux-diplomates-francais-en-iran_8125586.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9S_2NNhOROGm6E7gBml6gOwpt6c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68b4330dced658033628.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/l-union-europeenne-condamne-sans-equivoque-l-agression-des-deux-diplomates-francais-en-iran_8125586.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/l-union-europeenne-condamne-sans-equivoque-l-agression-des-deux-diplomates-francais-en-iran_8125586.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T17:25:41.454808+00:00",
+  "_id": "1af01de51b20",
+  "brut": {
+    "title": "Mort du journaliste sénégalais Idriss Fall, une voix influente de l’Afrique francophone",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mort du journaliste sénégalais Idriss Fall, une voix influente de l’Afrique francophone"
+    },
+    "published": "Tue, 28 Jul 2026 18:29:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      16,
+      29,
+      47,
+      1,
+      209,
+      0
+    ],
+    "summary": "Grand reporter puis rédacteur en chef du service francophone de la radio américaine Voice of America, il avait couvert de nombreux conflits en Afrique. Il est mort le 24 juillet, à l’âge de 72 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Grand reporter puis rédacteur en chef du service francophone de la radio américaine Voice of America, il avait couvert de nombreux conflits en Afrique. Il est mort le 24 juillet, à l’âge de 72 ans."
+    },
+    "id": "https://www.lemonde.fr/disparitions/article/2026/07/28/mort-du-journaliste-senegalais-idriss-fall-une-voix-influente-de-l-afrique-francophone_6735329_3382.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/disparitions/article/2026/07/28/mort-du-journaliste-senegalais-idriss-fall-une-voix-influente-de-l-afrique-francophone_6735329_3382.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/disparitions/article/2026/07/28/mort-du-journaliste-senegalais-idriss-fall-une-voix-influente-de-l-afrique-francophone_6735329_3382.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/1002/0/3264/1632/644/322/60/0/8c9be25_upload-1-lt0dx9h7akyu-cde3b769-125f-4021-a2cb-ccaf66a75773.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Idriss Fall, en 2016."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "voanews"
+      }
+    ],
+    "credit": "voanews"
+  }
+}

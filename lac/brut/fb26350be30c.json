@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-28T17:25:41.455128+00:00",
+  "_id": "fb26350be30c",
+  "brut": {
+    "title": "Séisme au Japon : tremblement de terre de magnitude 7,1, au moins un mort et des dizaines de blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Séisme au Japon : tremblement de terre de magnitude 7,1, au moins un mort et des dizaines de blessés"
+    },
+    "published": "Tue, 28 Jul 2026 18:07:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      16,
+      7,
+      52,
+      1,
+      209,
+      0
+    ],
+    "updated": "Tue, 28 Jul 2026 18:28:30 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      28,
+      16,
+      28,
+      30,
+      1,
+      209,
+      0
+    ],
+    "summary": "Plusieurs dizaines de personnes sont également portées disparues. Le deuxième étage d’un centre commercial s’est effondré, piégeant de « nombreuses personnes ». Le trafic ferroviaire a été suspendu dans tout le sud du pays, sans anomalie signalée dans les centrales nucléaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs dizaines de personnes sont également portées disparues. Le deuxième étage d’un centre commercial s’est effondré, piégeant de « nombreuses personnes ». Le trafic ferroviaire a été suspendu dans tout le sud du pays, sans anomalie signalée dans les centrales nucléaires."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/28/seisme-au-japon-tremblement-de-terre-de-magnitude-7-1-au-moins-un-mort-et-des-dizaines-de-blesses_6734975_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/28/seisme-au-japon-tremblement-de-terre-de-magnitude-7-1-au-moins-un-mort-et-des-dizaines-de-blesses_6734975_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/28/seisme-au-japon-tremblement-de-terre-de-magnitude-7-1-au-moins-un-mort-et-des-dizaines-de-blesses_6734975_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/429/0/3968/1984/644/322/60/0/94c6968_ftp-1-fgfrm0f09tpz-2026-07-28t125137z-353104138-rc20nma5eaom-rtrmadp-3-japan-quake.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cheminée effondrée à l’usine de Nippon Paper Industries, à Yatsushiro (Japon), le 28 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KYODO via REUTERS"
+      }
+    ],
+    "credit": "KYODO via REUTERS"
+  }
+}
