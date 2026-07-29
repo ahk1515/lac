@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T17:13:31.494412+00:00",
+  "_id": "bad7f29ba79c",
+  "brut": {
+    "title": "Gaza : l’armée israélienne annonce avoir bombardé une mosquée, affirmant qu’elle servait de dépôt d’armes du Hamas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : l’armée israélienne annonce avoir bombardé une mosquée, affirmant qu’elle servait de dépôt d’armes du Hamas"
+    },
+    "published": "Wed, 29 Jul 2026 17:09:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      15,
+      9,
+      6,
+      2,
+      210,
+      0
+    ],
+    "summary": "Une frappe a détruit la mosquée Al-Mouttaqine, présentée par Israël comme un site de stockage d’armes du Hamas.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une frappe a détruit la mosquée Al-Mouttaqine, présentée par Israël comme un site de stockage d’armes du Hamas."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/29/gaza-l-armee-israelienne-annonce-avoir-bombarde-une-mosquee-affirmant-qu-elle-servait-de-depot-d-armes-du-hamas_6736386_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/gaza-l-armee-israelienne-annonce-avoir-bombarde-une-mosquee-affirmant-qu-elle-servait-de-depot-d-armes-du-hamas_6736386_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/29/gaza-l-armee-israelienne-annonce-avoir-bombarde-une-mosquee-affirmant-qu-elle-servait-de-depot-d-armes-du-hamas_6736386_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/238/0/5472/2736/644/322/60/0/68d7406_ftp-1-grpfj2rm31lb-5728947-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors du bombardement de la mosquée Al-Mouttaqine par l’armée israélienne, dans la ville de Gaza, le 28 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OMAR AL-QATTAA/AFP"
+      }
+    ],
+    "credit": "OMAR AL-QATTAA/AFP"
+  }
+}

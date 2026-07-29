@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-29T17:13:31.781954+00:00",
+  "_id": "f91ba021df37",
+  "brut": {
+    "title": "La condamnation du Français Martin Ryan en Azerbaïdjan pour \"espionnage\" confirmée en appel",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La condamnation du Français Martin Ryan en Azerbaïdjan pour \"espionnage\" confirmée en appel"
+    },
+    "summary": "Ce ressortissant français avait déjà été condamné en mars. Ses dix ans de prison ont été confirmés en appel par la justice azerbaïdjanaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce ressortissant français avait déjà été condamné en mars. Ses dix ans de prison ont été confirmés en appel par la justice azerbaïdjanaise."
+    },
+    "published": "Wed, 29 Jul 2026 18:35:39 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      16,
+      35,
+      39,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/la-condamnation-du-francais-martin-ryan-en-azerbaidjan-pour-espionnage-confirmee-en-appel_8127260.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TViQ1fy-eoYr2zwH71CYJHaYfzk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a11a4aca42741660080.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/la-condamnation-du-francais-martin-ryan-en-azerbaidjan-pour-espionnage-confirmee-en-appel_8127260.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/la-condamnation-du-francais-martin-ryan-en-azerbaidjan-pour-espionnage-confirmee-en-appel_8127260.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

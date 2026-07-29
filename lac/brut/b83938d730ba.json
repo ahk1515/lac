@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-29T17:13:31.781420+00:00",
+  "_id": "b83938d730ba",
+  "brut": {
+    "title": "Incendie : des Black Hawk mobilisés par l'UE",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendie : des Black Hawk mobilisés par l'UE"
+    },
+    "summary": "🚁🔥 Des hélicoptères Black Hawk slovaques et tchèques ont été mobilisés par l'UE pour aider la France à lutter contre les incendies dans le cadre du mécanisme européen de protection civile, aux côtés d'autres moyens aériens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🚁🔥 Des hélicoptères Black Hawk slovaques et tchèques ont été mobilisés par l'UE pour aider la France à lutter contre les incendies dans le cadre du mécanisme européen de protection civile, aux côtés d'autres moyens aériens."
+    },
+    "published": "Wed, 29 Jul 2026 17:30:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      15,
+      30,
+      1,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-des-black-hawk-mobilises-par-l-ue_8127212.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/GuHfLDa0IpJ8o1ZbQ7CYOnYJO9Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/29/6a6a08d93e21c576609931.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-des-black-hawk-mobilises-par-l-ue_8127212.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-des-black-hawk-mobilises-par-l-ue_8127212.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
