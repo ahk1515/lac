@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T10:37:33.182337+00:00",
+  "_id": "b7fbebb5a0ff",
+  "brut": {
+    "title": "En Allemagne, Friedrich Merz fait face à une fronde sans prédécent au sein de son parti",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, Friedrich Merz fait face à une fronde sans prédécent au sein de son parti"
+    },
+    "published": "Wed, 29 Jul 2026 10:00:01 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      8,
+      0,
+      1,
+      2,
+      210,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 11:40:49 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      9,
+      40,
+      49,
+      2,
+      210,
+      0
+    ],
+    "summary": "Après un remaniement censé conforter son autorité, les critiques internes à l’égard du chancelier allemand se multiplient au sein de l’Union chrétienne-démocrate (CDU).",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après un remaniement censé conforter son autorité, les critiques internes à l’égard du chancelier allemand se multiplient au sein de l’Union chrétienne-démocrate (CDU)."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/29/en-allemagne-friedrich-merz-fait-face-a-une-fronde-sans-predecent-au-sein-de-son-parti_6736283_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/en-allemagne-friedrich-merz-fait-face-a-une-fronde-sans-predecent-au-sein-de-son-parti_6736283_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/29/en-allemagne-friedrich-merz-fait-face-a-une-fronde-sans-predecent-au-sein-de-son-parti_6736283_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/32/0/8256/4128/644/322/60/0/efddecb_ftp-1-u4e9yfuezr7n-5716682-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Friedrich Merz, chancelier allemand et président de la CDU, Franziska Hoppermann, secrétaire générale de la CDU et Carsten Linnemann, ministre allemand de la santé, lors d’une conférence de presse pour annoncer des changements au sein du gouvernement allemand et du parti, à Berlin, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHN MACDOUGALL/AFP"
+      }
+    ],
+    "credit": "JOHN MACDOUGALL/AFP"
+  }
+}

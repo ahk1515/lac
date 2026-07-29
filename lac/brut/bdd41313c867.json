@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-29T10:37:33.916338+00:00",
+  "_id": "bdd41313c867",
+  "brut": {
+    "title": "À Gaza, la chaleur insupportable de l'été plonge des habitants dans des conditions sanitaires déplorables",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Gaza, la chaleur insupportable de l'été plonge des habitants dans des conditions sanitaires déplorables"
+    },
+    "summary": "De nombreuses familles palestiniennes vivent dans des tentes, dans lesquelles s'infiltrent parfois des rats, des moustiques ou encore des vers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De nombreuses familles palestiniennes vivent dans des tentes, dans lesquelles s'infiltrent parfois des rats, des moustiques ou encore des vers."
+    },
+    "published": "Wed, 29 Jul 2026 11:43:39 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      9,
+      43,
+      39,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-la-chaleur-insupportable-de-l-ete-plonge-des-habitants-dans-des-conditions-sanitaires-deplorables_8126717.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kGEIiJRnOhbc04wUw_qvImnSIeU/0x625:6000x4000/432x243/filters:format(jpg):quality(50)/2026/07/29/6a69b968603de568538689.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-la-chaleur-insupportable-de-l-ete-plonge-des-habitants-dans-des-conditions-sanitaires-deplorables_8126717.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-la-chaleur-insupportable-de-l-ete-plonge-des-habitants-dans-des-conditions-sanitaires-deplorables_8126717.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-29T10:37:33.916107+00:00",
+  "_id": "16639c7be12c",
+  "brut": {
+    "title": "Ce que l'on sait des conséquences du séisme au Japon, qui a provoqué la mort d'au moins 18 personnes et causé d'importants dégâts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce que l'on sait des conséquences du séisme au Japon, qui a provoqué la mort d'au moins 18 personnes et causé d'importants dégâts"
+    },
+    "summary": "Les autorités ont signalé de nombreux dégâts sur l'île de Kyushu au lendemain d'un tremblement de terre. Des secouristes sont toujours mobilisés sur le site dévasté d'un centre commercial de la banlieue de Kumamoto.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités ont signalé de nombreux dégâts sur l'île de Kyushu au lendemain d'un tremblement de terre. Des secouristes sont toujours mobilisés sur le site dévasté d'un centre commercial de la banlieue de Kumamoto."
+    },
+    "published": "Wed, 29 Jul 2026 11:57:58 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      9,
+      57,
+      58,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/ce-que-l-on-sait-des-consequences-du-seisme-au-japon-qui-a-provoque-la-mort-d-au-moins-18-personnes-et-cause-d-importants-degats_8126573.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6KKVCCi7vB6tQ6uRlCHwDgjknPk/0x629:5000x3442/432x243/filters:format(jpg):quality(50)/2026/07/29/6a69a49722014170253180.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/ce-que-l-on-sait-des-consequences-du-seisme-au-japon-qui-a-provoque-la-mort-d-au-moins-18-personnes-et-cause-d-importants-degats_8126573.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/ce-que-l-on-sait-des-consequences-du-seisme-au-japon-qui-a-provoque-la-mort-d-au-moins-18-personnes-et-cause-d-importants-degats_8126573.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
