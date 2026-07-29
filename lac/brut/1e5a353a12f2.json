@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T02:31:19.202271+00:00",
+  "_id": "1e5a353a12f2",
+  "brut": {
+    "title": "Etats-Unis : les robots humanoïdes étrangers interdits à l’importation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Etats-Unis : les robots humanoïdes étrangers interdits à l’importation"
+    },
+    "published": "Wed, 29 Jul 2026 00:56:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      22,
+      56,
+      46,
+      1,
+      209,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 01:13:27 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      28,
+      23,
+      13,
+      27,
+      1,
+      209,
+      0
+    ],
+    "summary": "Estimant qu’ils présentent « des risques inacceptables pour la sécurité nationale » l’administration Trump a banni les « appareils robotiques avancés » dont la majorité sont produits en Chine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Estimant qu’ils présentent « des risques inacceptables pour la sécurité nationale » l’administration Trump a banni les « appareils robotiques avancés » dont la majorité sont produits en Chine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/0/0/4500/2250/644/322/60/0/d044cc0_ftp-1-hgy419zymdtt-2026-07-17t110233z-376765498-rc2kfmavg01k-rtrmadp-3-china-ai.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des robots humanoïdes sur le stand de la société chinoise Efort lors de la Conférence mondiale sur l’intelligence artificielle (WAIC) à Shanghaï (Chine), le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Go Nakamura/REUTERS"
+      }
+    ],
+    "credit": "Go Nakamura/REUTERS"
+  }
+}

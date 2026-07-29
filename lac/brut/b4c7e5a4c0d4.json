@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T02:31:19.200879+00:00",
+  "_id": "b4c7e5a4c0d4",
+  "brut": {
+    "title": "« Musango matusadonaensis », un nouveau dinosaure découvert au Zimbabwe qui arpentait la brousse il y a 210 millions d’années",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Musango matusadonaensis », un nouveau dinosaure découvert au Zimbabwe qui arpentait la brousse il y a 210 millions d’années"
+    },
+    "published": "Wed, 29 Jul 2026 02:40:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      0,
+      40,
+      36,
+      2,
+      210,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 02:57:53 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      0,
+      57,
+      53,
+      2,
+      210,
+      0
+    ],
+    "summary": "La découverte de cette espèce découle de l’examen d’un squelette déterré en 2018, dans le nord du Zimbabwe. Le dinosaure mesurait environ 4,5 m de long et pesait seulement 222 kg. Les chercheurs pensent qu’il était probablement herbivore ou omnivore.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La découverte de cette espèce découle de l’examen d’un squelette déterré en 2018, dans le nord du Zimbabwe. Le dinosaure mesurait environ 4,5 m de long et pesait seulement 222 kg. Les chercheurs pensent qu’il était probablement herbivore ou omnivore."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/07/29/musango-matusadonaensis-un-nouveau-dinosaure-decouvert-au-zimbabwe-qui-arpentait-la-brousse-il-y-a-210-millions-d-annees_6735739_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/07/29/musango-matusadonaensis-un-nouveau-dinosaure-decouvert-au-zimbabwe-qui-arpentait-la-brousse-il-y-a-210-millions-d-annees_6735739_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/07/29/musango-matusadonaensis-un-nouveau-dinosaure-decouvert-au-zimbabwe-qui-arpentait-la-brousse-il-y-a-210-millions-d-annees_6735739_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/123/0/3992/1996/644/322/60/0/15ca580_upload-1-nuycdnuvhdkm-000-32hg4u2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Excavation du squelette d’un dinosaure herrérasauridé dans la vallée du Zambèze (Zimbabwe), le 18 mai 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Murphy Allen/Virginia Tech University/AFP"
+      }
+    ],
+    "credit": "Murphy Allen/Virginia Tech University/AFP"
+  }
+}

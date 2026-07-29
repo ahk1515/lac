@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T02:31:19.201319+00:00",
+  "_id": "05d6099ad84d",
+  "brut": {
+    "title": "Aux Etats-Unis, prison à vie pour un adolescent auteur d’une tuerie dans un lycée de Géorgie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, prison à vie pour un adolescent auteur d’une tuerie dans un lycée de Géorgie"
+    },
+    "published": "Wed, 29 Jul 2026 01:34:04 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      23,
+      34,
+      4,
+      1,
+      209,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 02:14:21 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      0,
+      14,
+      21,
+      2,
+      210,
+      0
+    ],
+    "summary": "Colt Gray, âgé de 16 ans, a plaidé coupable d’avoir ouvert le feu au lycée Apalachee, dans la petite ville de Winder, en 2024. Il avait tué deux élèves ainsi que deux professeurs et avait blessé neuf personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Colt Gray, âgé de 16 ans, a plaidé coupable d’avoir ouvert le feu au lycée Apalachee, dans la petite ville de Winder, en 2024. Il avait tué deux élèves ainsi que deux professeurs et avait blessé neuf personnes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-prison-a-vie-pour-un-adolescent-auteur-d-une-tuerie-dans-un-lycee-de-georgie_6735673_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-prison-a-vie-pour-un-adolescent-auteur-d-une-tuerie-dans-un-lycee-de-georgie_6735673_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-prison-a-vie-pour-un-adolescent-auteur-d-une-tuerie-dans-un-lycee-de-georgie_6735673_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/422/0/5070/2535/644/322/60/0/23132ba_ftp-1-kd0sac19n4gv-919042d3619444b78c9451724c3ff042-0-a4661d9eef6c42feb04a0a2dc42151a0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’adolescent américain Colt Gray escorté par des adjoints du shérif pour l’audience de détermination de sa peine devant la cour supérieure du comté de Barrow, à Winder (Géorgie, Etats-Unis), le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jason Getz/Pool Atlanta Journal-Constitution via AP"
+      }
+    ],
+    "credit": "Jason Getz/Pool Atlanta Journal-Constitution via AP"
+  }
+}

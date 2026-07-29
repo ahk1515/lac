@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T02:31:19.202448+00:00",
+  "_id": "36de71791aa1",
+  "brut": {
+    "title": "Aux Etats-Unis, une réforme pour accélérer l’expulsion des demandeurs d’asile.",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, une réforme pour accélérer l’expulsion des demandeurs d’asile."
+    },
+    "published": "Wed, 29 Jul 2026 00:01:17 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      28,
+      22,
+      1,
+      17,
+      1,
+      209,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 00:19:23 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      28,
+      22,
+      19,
+      23,
+      1,
+      209,
+      0
+    ],
+    "summary": "Les demandes pourront être directement adressées à des juges sans entretien préalable avec un agent des services de l’immigration, limitant la durée pendant laquelle les requérants pourront rester dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les demandes pourront être directement adressées à des juges sans entretien préalable avec un agent des services de l’immigration, limitant la durée pendant laquelle les requérants pourront rester dans le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/136/0/5020/2510/644/322/60/0/be5264e_ftp-1-exmeogq56ssp-7732e892611749d681f805d3e78de6ea-0-d10d9a147b414d98bb4b92704a027a78.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le secrétaire à la sécurité intérieure américain, Markwayne Mullin, à l’Eisenhower Executive Office Building, à Washington, le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Julia Demaree Nikhinson/AP"
+      }
+    ],
+    "credit": "Julia Demaree Nikhinson/AP"
+  }
+}
