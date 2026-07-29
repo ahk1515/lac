@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-29T20:54:18.909484+00:00",
+  "_id": "c0b1be63c4ff",
+  "brut": {
+    "title": "Slovénie : la beauté rafraîchissante des grottes de Postojna",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Slovénie : la beauté rafraîchissante des grottes de Postojna"
+    },
+    "summary": "Pour trouver de la fraîcheur, certains touristes se rendent dans les grottes de Postojna, en Slovénie. Le réseau de 24 kilomètres de long se visite à bord d'un petit train, sous 10 degrés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour trouver de la fraîcheur, certains touristes se rendent dans les grottes de Postojna, en Slovénie. Le réseau de 24 kilomètres de long se visite à bord d'un petit train, sous 10 degrés."
+    },
+    "published": "Wed, 29 Jul 2026 20:47:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      18,
+      47,
+      18,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/slovenie-la-beaute-rafraichissante-des-grottes-de-postojna_8127587.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/HfYp6CCmHNBsy_xSABc5mI3hQ3g/157x0:1574x797/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a47bb5ed03840797364.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/slovenie-la-beaute-rafraichissante-des-grottes-de-postojna_8127587.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/slovenie-la-beaute-rafraichissante-des-grottes-de-postojna_8127587.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

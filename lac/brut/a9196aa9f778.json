@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T20:54:18.467192+00:00",
+  "_id": "a9196aa9f778",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a rencontré Donald Tusk en Pologne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a rencontré Donald Tusk en Pologne"
+    },
+    "published": "Wed, 29 Jul 2026 19:33:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      17,
+      33,
+      41,
+      2,
+      210,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 19:57:33 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      17,
+      57,
+      33,
+      2,
+      210,
+      0
+    ],
+    "summary": "A son retour des Etats-Unis, le président ukrainien a fait escale à Lublin. Le premier ministre polonais a déclaré qu’ils avaient évoqué la coopération antibalistique, sans plus de précisions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A son retour des Etats-Unis, le président ukrainien a fait escale à Lublin. Le premier ministre polonais a déclaré qu’ils avaient évoqué la coopération antibalistique, sans plus de précisions."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-rencontre-donald-tusk-en-pologne_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-rencontre-donald-tusk-en-pologne_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-rencontre-donald-tusk-en-pologne_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/0/0/5331/2665/644/322/60/0/a5354e7_ftp-1-wlo01wlv5ee7-2a280efc9c574eb482f99db41ac664f5-0-7a31c24cfcff40e1a2d43b49601ea18a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président ukrainien, Volodymyr Zelensky, à Portsmouth (Royaume-Uni), le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Simon Jones/« The Sun » via AP"
+      }
+    ],
+    "credit": "Simon Jones/« The Sun » via AP"
+  }
+}
