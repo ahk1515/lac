@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T14:07:42.701517+00:00",
+  "_id": "0f46b42f6c33",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Wed, 29 Jul 2026 15:24:24 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      13,
+      24,
+      24,
+      2,
+      210,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 15:24:53 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      13,
+      24,
+      53,
+      2,
+      210,
+      0
+    ],
+    "summary": "L’armée ukrainienne a attaqué, mercredi, un entrepôt de Wildberries, l’« Amazon russe », et plusieurs sites militaires et énergétiques en Russie, dans le district de Riazan ainsi que dans les régions de Perm et Rostov, et en mer Noire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée ukrainienne a attaqué, mercredi, un entrepôt de Wildberries, l’« Amazon russe », et plusieurs sites militaires et énergétiques en Russie, dans le district de Riazan ainsi que dans les régions de Perm et Rostov, et en mer Noire."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-les-dernieres-informations-au-29-juillet-2026_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-les-dernieres-informations-au-29-juillet-2026_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-les-dernieres-informations-au-29-juillet-2026_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/282/0/2953/1476/644/322/60/0/9b87a1f_upload-1-todic2c1e79h-2026-07-19-heg-ukraine-0042.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un soldat installe un explosif dans un drone, dans un lieu non préçisé en Ukraine, le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Guillaume Herbaut POUR « LE MONDE »"
+      }
+    ],
+    "credit": "Guillaume Herbaut POUR « LE MONDE »"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-29T14:07:42.701828+00:00",
+  "_id": "7f9b6ba95a35",
+  "brut": {
+    "title": "Séisme au Japon : les secours toujours à la recherche de survivants piégés dans un centre commercial après le séisme à Kumamoto, qui a fait au moins 13 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Séisme au Japon : les secours toujours à la recherche de survivants piégés dans un centre commercial après le séisme à Kumamoto, qui a fait au moins 13 morts"
+    },
+    "published": "Wed, 29 Jul 2026 13:40:48 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      11,
+      40,
+      48,
+      2,
+      210,
+      0
+    ],
+    "updated": "Wed, 29 Jul 2026 14:27:28 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      12,
+      27,
+      28,
+      2,
+      210,
+      0
+    ],
+    "summary": "La secousse de magnitude 7,1 qui a frappé mardi l’île de Kyushu a provoqué l’effondrement partiel d’un centre commercial et d’une usine, où des personnes restent portées disparues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La secousse de magnitude 7,1 qui a frappé mardi l’île de Kyushu a provoqué l’effondrement partiel d’un centre commercial et d’une usine, où des personnes restent portées disparues."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/29/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-13-morts_6736366_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-13-morts_6736366_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/29/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-13-morts_6736366_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/830/0/5000/2500/644/322/60/0/ce478a3_ftp-1-8h2ac21isoho-2026-07-29t095310z-352480576-rc2lnmalbq3j-rtrmadp-3-japan-quake.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au centre commercial Aeon Mall, après une explosion survenue à la suite d’un séisme d’une magnitude de 7,1 qui a frappé la préfecture de Kumamoto (Japon), le 29 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KYODO/REUTERS"
+      }
+    ],
+    "credit": "KYODO/REUTERS"
+  }
+}

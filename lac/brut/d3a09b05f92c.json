@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-29T14:07:42.934793+00:00",
+  "_id": "d3a09b05f92c",
+  "brut": {
+    "title": "\"20h30 le dimanche\". I love Belgium",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"20h30 le dimanche\". I love Belgium"
+    },
+    "summary": "Des personnalités se confient en direct à Laurent Delahousse après le journal de 20 heures sur France 2 : entretien, rencontre(s)...",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des personnalités se confient en direct à Laurent Delahousse après le journal de 20 heures sur France 2 : entretien, rencontre(s)..."
+    },
+    "published": "Wed, 29 Jul 2026 12:42:34 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      10,
+      42,
+      34,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-magazine/france-2/19h-le-dimanche/20h30-le-dimanche-i-love-belgium_8106956.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ThHzIvrbGxZrPhAYYrXN5N7G4BQ/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/14/6a561c7a89226457354834.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-magazine/france-2/19h-le-dimanche/20h30-le-dimanche-i-love-belgium_8106956.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-magazine/france-2/19h-le-dimanche/20h30-le-dimanche-i-love-belgium_8106956.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

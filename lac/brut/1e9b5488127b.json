@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-29T14:07:42.934269+00:00",
+  "_id": "1e9b5488127b",
+  "brut": {
+    "title": "Une frappe israélienne a détruit une mosquée dans la bande de Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une frappe israélienne a détruit une mosquée dans la bande de Gaza"
+    },
+    "summary": "L'armée israélienne affirme que cette mosquée servait au \"stockage d'armes\" du Hamas. Le ministère des Affaires religieuses dans la bande de Gaza a quant à lui affirmé que \"l'occupation avance de faux prétextes (...) pour justifier ces crimes\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne affirme que cette mosquée servait au \"stockage d'armes\" du Hamas. Le ministère des Affaires religieuses dans la bande de Gaza a quant à lui affirmé que \"l'occupation avance de faux prétextes (...) pour justifier ces crimes\"."
+    },
+    "published": "Wed, 29 Jul 2026 15:32:57 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      13,
+      32,
+      57,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-a-detruit-une-mosquee-dans-la-bande-de-gaza_8127161.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/p_EogswDYqggR5svaK4nvbCQIOE/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/29/6a69ff2be9b6b371987310.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-a-detruit-une-mosquee-dans-la-bande-de-gaza_8127161.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-a-detruit-une-mosquee-dans-la-bande-de-gaza_8127161.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
