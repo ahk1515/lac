@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T21:08:46.056129+00:00",
+  "_id": "52c27b60cf19",
+  "brut": {
+    "title": "Le patron de Telegram, Pavel Dourov, placé sur la liste des \"terroristes\" par la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le patron de Telegram, Pavel Dourov, placé sur la liste des \"terroristes\" par la Russie"
+    },
+    "summary": "Le patron de Telegram a assuré jeudi qu'il avait été placé sur une liste des autorités russes recensant les personnes désignées \"terroristes\" parce qu'il a refusé de se plier aux exigences de Moscou en matière de \"surveillance de masse\" et de \"censure\" sur sa plateforme de messagerie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le patron de Telegram a assuré jeudi qu'il avait été placé sur une liste des autorités russes recensant les personnes désignées \"terroristes\" parce qu'il a refusé de se plier aux exigences de Moscou en matière de \"surveillance de masse\" et de \"censure\" sur sa plateforme de messagerie."
+    },
+    "published": "Thu, 30 Jul 2026 20:12:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      18,
+      12,
+      21,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/le-patron-de-telegram-pavel-durov-place-sur-la-liste-des-terroristes-par-la-russie_8129036.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jThMep3zeIDlC8XxNOBSbls9nVg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b8e2dab6af131500541.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/le-patron-de-telegram-pavel-durov-place-sur-la-liste-des-terroristes-par-la-russie_8129036.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/le-patron-de-telegram-pavel-durov-place-sur-la-liste-des-terroristes-par-la-russie_8129036.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

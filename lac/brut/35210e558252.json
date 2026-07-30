@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T21:08:45.878114+00:00",
+  "_id": "35210e558252",
+  "brut": {
+    "title": "L’Inde adopte une loi contre les fraudes aux examens, dénoncées par les étudiants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Inde adopte une loi contre les fraudes aux examens, dénoncées par les étudiants"
+    },
+    "published": "Thu, 30 Jul 2026 20:16:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      18,
+      16,
+      15,
+      3,
+      211,
+      0
+    ],
+    "summary": "La colère étudiante est née de fraudes massives lors d’un concours national d’entrée en médecine organisé en mai, auquel plus de 2 millions de candidats s’étaient présentés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La colère étudiante est née de fraudes massives lors d’un concours national d’entrée en médecine organisé en mai, auquel plus de 2 millions de candidats s’étaient présentés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/l-inde-adopte-une-loi-contre-les-fraudes-aux-examens-denoncees-par-les-etudiants_6737067_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/l-inde-adopte-une-loi-contre-les-fraudes-aux-examens-denoncees-par-les-etudiants_6737067_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/l-inde-adopte-une-loi-contre-les-fraudes-aux-examens-denoncees-par-les-etudiants_6737067_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/25/0/0/7451/3725/644/322/60/0/31eb3a5_ftp-1-llvrsosmgxxm-5703421-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des étudiants célèbrant la démission du ministre indien de l’éducation, à Amritsar (Inde), le 25 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NARINDER NANU/AFP"
+      }
+    ],
+    "credit": "NARINDER NANU/AFP"
+  }
+}

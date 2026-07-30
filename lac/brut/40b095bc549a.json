@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T21:08:45.878301+00:00",
+  "_id": "40b095bc549a",
+  "brut": {
+    "title": "Espagne : des centaines de personnes entrées illégalement dans l’enclave espagnole de Ceuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : des centaines de personnes entrées illégalement dans l’enclave espagnole de Ceuta"
+    },
+    "published": "Thu, 30 Jul 2026 20:00:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      18,
+      0,
+      10,
+      3,
+      211,
+      0
+    ],
+    "summary": "De nombreuses images montrent des dizaines d’hommes et d’adolescents arriver à la nage, du Maroc voisin, sur les côtes de l’enclave espagnole.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De nombreuses images montrent des dizaines d’hommes et d’adolescents arriver à la nage, du Maroc voisin, sur les côtes de l’enclave espagnole."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/30/espagne-des-centaines-de-personnes-entrees-illegalement-dans-l-enclave-espagnole-de-ceuta_6737065_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/30/espagne-des-centaines-de-personnes-entrees-illegalement-dans-l-enclave-espagnole-de-ceuta_6737065_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/30/espagne-des-centaines-de-personnes-entrees-illegalement-dans-l-enclave-espagnole-de-ceuta_6737065_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/246/0/2953/1476/644/322/60/0/8137e7a_ftp-1-davy29nmsvtp-b556f5e71ec14c74ad25de62abee66b7-0-a42e2af7e5ac44318a20c2175b38170d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants traversent la frontière depuis le Maroc pour entrer dans l’enclave espagnole de Ceuta, le jeudi 30 juillet 2026. (Photo AP/Antonio Sempere)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Antonio Sempere / AP Photo/Antonio Sempere"
+      }
+    ],
+    "credit": "Antonio Sempere / AP Photo/Antonio Sempere"
+  }
+}
