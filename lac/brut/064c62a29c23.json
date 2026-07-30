@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T10:23:36.926199+00:00",
+  "_id": "064c62a29c23",
+  "brut": {
+    "title": "L’Australie poursuit Telegram en justice pour manquement à ses obligations de retrait de contenus terroristes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Australie poursuit Telegram en justice pour manquement à ses obligations de retrait de contenus terroristes"
+    },
+    "published": "Thu, 30 Jul 2026 11:26:46 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      9,
+      26,
+      46,
+      3,
+      211,
+      0
+    ],
+    "summary": "Le régulateur australien de l’Internet reproche à la plateforme de ne pas avoir supprimé à temps des vidéos violentes, dont certaines liées aux attentats de Christchurch, et réclame une amende pouvant atteindre 33,2 millions d’euros.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le régulateur australien de l’Internet reproche à la plateforme de ne pas avoir supprimé à temps des vidéos violentes, dont certaines liées aux attentats de Christchurch, et réclame une amende pouvant atteindre 33,2 millions d’euros."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/07/30/l-australie-poursuit-telegram-en-justice-pour-manquement-a-ses-obligations-de-retrait-de-contenus-terroristes_6736841_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/30/l-australie-poursuit-telegram-en-justice-pour-manquement-a-ses-obligations-de-retrait-de-contenus-terroristes_6736841_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/07/30/l-australie-poursuit-telegram-en-justice-pour-manquement-a-ses-obligations-de-retrait-de-contenus-terroristes_6736841_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/498/0/5984/2992/644/322/60/0/ebdd704_ftp-1-n3nm2gvkxv0b-79ffb3a8bfdd43f0a5547ba98939d8d9-0-6f89d3da67844593b845e1bf3e0d5b26.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’application de messagerie Telegram sur un smartphone, devant un ordinateur affichant la page Web australienne consacrée à la sécurité en ligne, à Sydney, le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Rick Rycroft/AP"
+      }
+    ],
+    "credit": "Rick Rycroft/AP"
+  }
+}

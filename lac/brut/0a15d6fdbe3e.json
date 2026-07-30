@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T10:23:37.566135+00:00",
+  "_id": "0a15d6fdbe3e",
+  "brut": {
+    "title": "Le parquet de Bolivie ordonne l'arrestation de l'ex-président Evo Morales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parquet de Bolivie ordonne l'arrestation de l'ex-président Evo Morales"
+    },
+    "summary": "Le pouvoir bolivien accuse l'ex-dirigeant de gauche d'avoir orchestré le mouvement de protestation qui a paralysé une partie du pays au printemps.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pouvoir bolivien accuse l'ex-dirigeant de gauche d'avoir orchestré le mouvement de protestation qui a paralysé une partie du pays au printemps."
+    },
+    "published": "Thu, 30 Jul 2026 10:27:50 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      8,
+      27,
+      50,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ameriques/le-parquet-de-bolivie-ordonne-l-arrestation-de-l-ex-president-evo-morales_8127920.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xhPGIYD9193ZxZr_sf2LKr3XBAg/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b0982d8e00217527925.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ameriques/le-parquet-de-bolivie-ordonne-l-arrestation-de-l-ex-president-evo-morales_8127920.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ameriques/le-parquet-de-bolivie-ordonne-l-arrestation-de-l-ex-president-evo-morales_8127920.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

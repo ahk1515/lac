@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T10:23:37.565791+00:00",
+  "_id": "69d0d5ee5262",
+  "brut": {
+    "title": "Quatre migrants ont été retrouvés morts après des tentatives de traversée de la Manche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatre migrants ont été retrouvés morts après des tentatives de traversée de la Manche"
+    },
+    "summary": "Un homme est décédé au large d'Hardelot, dans le Pas-de-Calais, et trois personnes ont péri près de Dunkerque, dans le Nord.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un homme est décédé au large d'Hardelot, dans le Pas-de-Calais, et trois personnes ont péri près de Dunkerque, dans le Nord."
+    },
+    "published": "Thu, 30 Jul 2026 11:16:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      9,
+      16,
+      10,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/quatre-migrants-ont-ete-retrouves-morts-apres-des-tentatives-de-traversee-de-la-manche_8128376.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/o2vtrI7BsWiuV_2_1L9nXlvmxfY/0x5:1024x581/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b156d46515701357967.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/quatre-migrants-ont-ete-retrouves-morts-apres-des-tentatives-de-traversee-de-la-manche_8128376.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/quatre-migrants-ont-ete-retrouves-morts-apres-des-tentatives-de-traversee-de-la-manche_8128376.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

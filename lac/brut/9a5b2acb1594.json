@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T10:23:37.566758+00:00",
+  "_id": "9a5b2acb1594",
+  "brut": {
+    "title": "L'étudiant français qui avait léché une paille à Singapour échappe à la prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'étudiant français qui avait léché une paille à Singapour échappe à la prison"
+    },
+    "summary": "L'étudiant de 19 ans, qui \"regrette profondément d'avoir causé tous ces ennuis\", a été condamné à une amende de 600 dollars (406 euros).",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'étudiant de 19 ans, qui \"regrette profondément d'avoir causé tous ces ennuis\", a été condamné à une amende de 600 dollars (406 euros)."
+    },
+    "published": "Thu, 30 Jul 2026 12:03:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      10,
+      3,
+      11,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/justice-proces/l-etudiant-francais-qui-avait-leche-une-paille-a-singapour-echappe-a-la-prison_8128112.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RKGorGosL6TZK-JAA_nSgq3H-bE/0x311:6048x3713/432x243/filters:format(jpg):quality(50)/2026/04/28/69f07407de639348426809.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/justice-proces/l-etudiant-francais-qui-avait-leche-une-paille-a-singapour-echappe-a-la-prison_8128112.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/justice-proces/l-etudiant-francais-qui-avait-leche-une-paille-a-singapour-echappe-a-la-prison_8128112.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
