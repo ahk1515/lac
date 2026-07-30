@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T13:57:55.524262+00:00",
+  "_id": "a19922e84359",
+  "brut": {
+    "title": "En Angleterre, plus de 2 800 décès sont liés aux canicules de mai et juin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Angleterre, plus de 2 800 décès sont liés aux canicules de mai et juin"
+    },
+    "summary": "cette première estimation représente déjà près du double des morts liés à la chaleur enregistrés durant tout l'été 2025 et s'approche du record historique de l'été 2022.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "cette première estimation représente déjà près du double des morts liés à la chaleur enregistrés durant tout l'été 2025 et s'approche du record historique de l'été 2022."
+    },
+    "published": "Thu, 30 Jul 2026 15:16:30 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      13,
+      16,
+      30,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-angleterre-plus-de-2-800-deces-sont-lies-aux-canicules-de-mai-et-juin_8128649.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/d0W53vuFr4lWvVjmp5ANp5tJsSM/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b4e1860c63374015722.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-angleterre-plus-de-2-800-deces-sont-lies-aux-canicules-de-mai-et-juin_8128649.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-angleterre-plus-de-2-800-deces-sont-lies-aux-canicules-de-mai-et-juin_8128649.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T13:57:55.334771+00:00",
+  "_id": "17ccc58956a1",
+  "brut": {
+    "title": "Espagne : plus de 1 500 personnes sont arrivées depuis le Maroc à Ceuta « ces derniers jours », annoncent les autorités régionales espagnoles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : plus de 1 500 personnes sont arrivées depuis le Maroc à Ceuta « ces derniers jours », annoncent les autorités régionales espagnoles"
+    },
+    "published": "Thu, 30 Jul 2026 15:44:41 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      13,
+      44,
+      41,
+      3,
+      211,
+      0
+    ],
+    "summary": "Des images filmées par des chaînes de télévision locales montrent des dizaines d’hommes et d’adolescents arriver à la nage depuis le Maroc voisin sur les côtes de l’enclave espagnole.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des images filmées par des chaînes de télévision locales montrent des dizaines d’hommes et d’adolescents arriver à la nage depuis le Maroc voisin sur les côtes de l’enclave espagnole."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/espagne-plus-de-1-500-personnes-sont-arrivees-depuis-le-maroc-a-ceuta-ces-derniers-jours-annoncent-les-autorites-regionales-espagnoles_6737020_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/espagne-plus-de-1-500-personnes-sont-arrivees-depuis-le-maroc-a-ceuta-ces-derniers-jours-annoncent-les-autorites-regionales-espagnoles_6737020_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/espagne-plus-de-1-500-personnes-sont-arrivees-depuis-le-maroc-a-ceuta-ces-derniers-jours-annoncent-les-autorites-regionales-espagnoles_6737020_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/516/0/4295/2147/644/322/60/0/281f8bc_ftp-1-kzwov13wsvnq-dfa8b234a514493dbdc362b332828127-1-1ed159dfca8346b1a52afc4c35009ce3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants tentent de pénétrer dans l’enclave espagnole de Ceuta depuis le Maroc, le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Antonio Sempere/AP Photo"
+      }
+    ],
+    "credit": "Antonio Sempere/AP Photo"
+  }
+}

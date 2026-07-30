@@ -7169,6 +7169,44 @@
     ]
   },
   {
+    "date": "Thu, 30 Jul 2026 15:35:29 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Un missile s’écrase en Pologne lors de frappes massives de la Russie contre l’Ukraine",
+    "texte": "En Ukraine, quelques heures après la mise en garde de Volodymyr Zelensky, plus de 70 missiles et près de 300 drones ont visé plusieurs régions du pays, dont la capitale, dans la nuit du mercredi 29 au jeudi 30 juillet. Au moins huit personnes ont été tuées. L’offensive a touché la Pologne.",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-missile-s-ecrase-en-pologne-lors-de-frappes-massives-de-la-russie-contre-l-ukraine_8128664.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "60343f657a61",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Thu, 30 Jul 2026 15:16:30 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "En Angleterre, plus de 2 800 décès sont liés aux canicules de mai et juin",
+    "texte": "cette première estimation représente déjà près du double des morts liés à la chaleur enregistrés durant tout l'été 2025 et s'approche du record historique de l'été 2022.",
+    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-angleterre-plus-de-2-800-deces-sont-lies-aux-canicules-de-mai-et-juin_8128649.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "a19922e84359",
+    "pays": [
+      "GBR"
+    ]
+  },
+  {
+    "date": "Thu, 30 Jul 2026 12:24:53 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "L'Ukraine a fait appel de la décision du CIO de la réintégration des athlètes russes auprès du Tribunal arbitral du sport",
+    "texte": "Pour le CNO ukrainien, la décision du CIO \"a été prise prématurément et sans vérification adéquate\" et  \"contredit les dispositions de la Charte olympique\".",
+    "url": "https://www.franceinfo.fr/les-jeux-olympiques/los-angeles-2028/l-ukraine-a-fait-appel-de-la-decision-du-cio-de-la-reintegration-des-athletes-russes-aupres-du-tribunal-arbitral-du-sport_8128463.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "9d35638ca138",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -17761,6 +17799,78 @@
     "texte": "L’ancien premier ministre Mateusz Morawiecki a décidé de former son propre groupe parlementaire, emmenant 40 des 186 députés du PiS. Un coup dur pour la principale force d’opposition polonaise, menacée par un essor inédit de l’extrême droite.",
     "url": "https://www.lemonde.fr/international/article/2026/07/30/en-pologne-le-parti-ultraconservateur-droit-et-justice-vole-en-eclats-a-un-peu-plus-d-un-an-des-elections-legislatives_6736737_3210.html",
     "id": "3f8226138b2a",
+    "pays": []
+  },
+  {
+    "date": "Thu, 30 Jul 2026 15:44:41 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Espagne : plus de 1 500 personnes sont arrivées depuis le Maroc à Ceuta « ces derniers jours », annoncent les autorités régionales espagnoles",
+    "texte": "Des images filmées par des chaînes de télévision locales montrent des dizaines d’hommes et d’adolescents arriver à la nage depuis le Maroc voisin sur les côtes de l’enclave espagnole.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/30/espagne-plus-de-1-500-personnes-sont-arrivees-depuis-le-maroc-a-ceuta-ces-derniers-jours-annoncent-les-autorites-regionales-espagnoles_6737020_3210.html",
+    "id": "17ccc58956a1",
+    "pays": [
+      "MAR"
+    ]
+  },
+  {
+    "date": "Thu, 30 Jul 2026 15:19:36 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : des morts dans une attaque américaine sur l’Iran ; Téhéran revendique des frappes contre une base américaine en Jordanie",
+    "texte": "Alors que l’Iran avait fait état d’attaques américaines dans la nuit de mercredi à jeudi, la Jordanie avait, à son tour, signalé l’interception de cinq missiles lancés d’Iran. L’attaque revendiquée par les gardiens de la révolution a visé une base américaine et mené, selon eux, à la destruction de trois avions F-35.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-au-moyen-orient-des-morts-dans-une-attaque-americaine-sur-l-iran-teheran-revendique-des-frappes-contre-une-base-americaine-en-jordanie_6725301_3210.html",
+    "id": "62fb656af7a9",
+    "pays": [
+      "IRN",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 30 Jul 2026 14:53:02 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : après la chute en Pologne d’un missile attribuée à un tir russe, l’UE dénonce une « violation inacceptable de l’espace aérien » européen",
+    "texte": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. L’OTAN dénonce aussi « une violation de l’espace aérien de la Pologne », et dit avoir déployé plusieurs avions et hélicoptères en réponse à cet incident.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-accuse-kiev-d-avoir-bombarde-le-port-de-taman-dans-la-region-de-krasnodar_6732775_3210.html",
+    "id": "490137080ba8",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Thu, 30 Jul 2026 14:01:43 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Le Japon écarte les femmes de la succession impériale au nom d’une tradition partiellement inventée",
+    "texte": "Par cette exclusion, le pays se singularise par rapport aux monarchies européennes et contribue au déclin de la popularité de la première ministre, Sanae Takaichi, dans les sondages de fin juillet.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/30/le-japon-ecarte-les-femmes-de-la-succession-imperiale-au-nom-d-une-tradition-partiellement-inventee_6737014_3210.html",
+    "id": "902f3b5b734b",
+    "pays": [
+      "JPN"
+    ]
+  },
+  {
+    "date": "Thu, 30 Jul 2026 13:00:09 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "L’Arabie saoudite est passée de la retenue à la riposte face à l’Iran et ses alliés",
+    "texte": "Longtemps soucieux d’éviter un affrontement direct, Riyad assume désormais ses opérations militaires contre les réseaux soutenus par Téhéran. La multiplication des attaques contre ses infrastructures énergétiques et la fragilisation de ses voies d’exportation pourraient contraindre le royaume à s’engager davantage dans le conflit.",
+    "url": "https://www.lemonde.fr/international/article/2026/07/30/de-la-retenue-a-la-riposte-l-arabie-saoudite-durcit-sa-posture-face-a-l-iran-et-ses-allies_6737010_3210.html",
+    "id": "5255cc3fb14b",
+    "pays": [
+      "IRN"
+    ]
+  },
+  {
+    "date": "Thu, 30 Jul 2026 12:31:44 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Quatre personnes meurent en tentant de traverser clandestinement la Manche",
+    "texte": "Trois des victimes ont trouvé la mort au large de Dunkerque et une au large d’Hardelot. La préfecture du Pas-de-Calais fait également état de six blessés, « dont un enfant de 1 an ».",
+    "url": "https://www.lemonde.fr/international/article/2026/07/30/migration-quatre-personnes-meurent-en-tentant-de-traverser-clandestinement-la-manche_6736942_3210.html",
+    "id": "90c6e53cca96",
     "pays": []
   }
 ]

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T13:57:55.335777+00:00",
+  "_id": "90c6e53cca96",
+  "brut": {
+    "title": "Quatre personnes meurent en tentant de traverser clandestinement la Manche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quatre personnes meurent en tentant de traverser clandestinement la Manche"
+    },
+    "published": "Thu, 30 Jul 2026 12:31:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      10,
+      31,
+      44,
+      3,
+      211,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 12:48:14 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      30,
+      10,
+      48,
+      14,
+      3,
+      211,
+      0
+    ],
+    "summary": "Trois des victimes ont trouvé la mort au large de Dunkerque et une au large d’Hardelot. La préfecture du Pas-de-Calais fait également état de six blessés, « dont un enfant de 1 an ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois des victimes ont trouvé la mort au large de Dunkerque et une au large d’Hardelot. La préfecture du Pas-de-Calais fait également état de six blessés, « dont un enfant de 1 an »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/migration-quatre-personnes-meurent-en-tentant-de-traverser-clandestinement-la-manche_6736942_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/migration-quatre-personnes-meurent-en-tentant-de-traverser-clandestinement-la-manche_6736942_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/migration-quatre-personnes-meurent-en-tentant-de-traverser-clandestinement-la-manche_6736942_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/530/0/6346/3173/644/322/60/0/e8619f9_upload-1-8vuzrgzgm3zx-000-34q7883.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants montent à bord d’un bateau de passeurs pour tenter de traverser la Manche, sur la plage de Gravelines, près de Dunkerque (Nord), le 26 avril 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAMEER AL-DOUMY/AFP"
+      }
+    ],
+    "credit": "SAMEER AL-DOUMY/AFP"
+  }
+}
