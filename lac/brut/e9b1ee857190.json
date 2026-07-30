@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T17:25:37.999305+00:00",
+  "_id": "e9b1ee857190",
+  "brut": {
+    "title": "IA : l’Europe met 5 milliards d’euros sur la table pour financer sept méga-usines et combler son retard sur les Etats-Unis et la Chine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "IA : l’Europe met 5 milliards d’euros sur la table pour financer sept méga-usines et combler son retard sur les Etats-Unis et la Chine"
+    },
+    "published": "Thu, 30 Jul 2026 18:23:48 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      16,
+      23,
+      48,
+      3,
+      211,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 19:03:40 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      30,
+      17,
+      3,
+      40,
+      3,
+      211,
+      0
+    ],
+    "summary": "La Commission européenne a ouvert un appel d’offres pour financer ces gigantesques structures conçues pour l’entraînement de modèles d’intelligence artificielle. Les défis sont nombreux : incertitude budgétaire, respect des normes environnementales, dépendance aux Américains…",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Commission européenne a ouvert un appel d’offres pour financer ces gigantesques structures conçues pour l’entraînement de modèles d’intelligence artificielle. Les défis sont nombreux : incertitude budgétaire, respect des normes environnementales, dépendance aux Américains…"
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/523/0/5000/2500/644/322/60/0/57a8cb3_upload-1-gj9zqufqs36m-000-1uu5r6.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les générateurs du centre de données MRS3 d’Interxion, installé dans une ancienne base de sous-marins, sur le port de Marseille, le 8 juillet 2020."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CLEMENT MAHOUDEAU/AFP"
+      }
+    ],
+    "credit": "CLEMENT MAHOUDEAU/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T17:25:38.194441+00:00",
+  "_id": "5f5f6f93f1eb",
+  "brut": {
+    "title": "Une centaine d'hectares ravagés, des habitants évacués, 120 pompiers mobilisés... Un incendie \"compliqué\" s'est déclenché mercredi dans l'est de l'Angleterre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une centaine d'hectares ravagés, des habitants évacués, 120 pompiers mobilisés... Un incendie \"compliqué\" s'est déclenché mercredi dans l'est de l'Angleterre"
+    },
+    "summary": "L'origine de l'incendie déclenché mercredi en fin d'après-midi n'est pas encore connue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'origine de l'incendie déclenché mercredi en fin d'après-midi n'est pas encore connue."
+    },
+    "published": "Thu, 30 Jul 2026 16:57:45 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      14,
+      57,
+      45,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/une-centaine-d-hectares-ravages-des-habitants-evacues-120-pompiers-mobilises-un-incendie-complique-s-est-declenche-mercredi-dans-l-est-de-l-angleterre_8128784.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/V8JuGDZ3Xw0MVUgMwsZlwJbfsPA/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b65dda8b8d584660934.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/une-centaine-d-hectares-ravages-des-habitants-evacues-120-pompiers-mobilises-un-incendie-complique-s-est-declenche-mercredi-dans-l-est-de-l-angleterre_8128784.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/une-centaine-d-hectares-ravages-des-habitants-evacues-120-pompiers-mobilises-un-incendie-complique-s-est-declenche-mercredi-dans-l-est-de-l-angleterre_8128784.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

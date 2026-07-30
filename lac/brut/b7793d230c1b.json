@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T17:25:37.998933+00:00",
+  "_id": "b7793d230c1b",
+  "brut": {
+    "title": "En Chine, le bilan du glissement de terrain à Chongqing, dans le sud-ouest du pays, s’alourdit à 51 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, le bilan du glissement de terrain à Chongqing, dans le sud-ouest du pays, s’alourdit à 51 morts"
+    },
+    "published": "Thu, 30 Jul 2026 18:37:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      16,
+      37,
+      51,
+      3,
+      211,
+      0
+    ],
+    "summary": "Ce glissement de terrain est survenu le 17 juillet, moins de deux semaines après un autre glissement de terrain dans la province du Gansu, dans le nord-ouest du pays, qui a fait 21 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce glissement de terrain est survenu le 17 juillet, moins de deux semaines après un autre glissement de terrain dans la province du Gansu, dans le nord-ouest du pays, qui a fait 21 morts."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/en-chine-le-bilan-du-glissement-de-terrain-a-chongqing-dans-le-sud-ouest-du-pays-s-alourdit-a-51-morts_6737053_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/en-chine-le-bilan-du-glissement-de-terrain-a-chongqing-dans-le-sud-ouest-du-pays-s-alourdit-a-51-morts_6737053_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/en-chine-le-bilan-du-glissement-de-terrain-a-chongqing-dans-le-sud-ouest-du-pays-s-alourdit-a-51-morts_6737053_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/923/0/8640/4320/644/322/60/0/555ba03_ftp-1-uiwx9vfaeowz-f1988e9d870d4a34afa80be255d431d2-1-0a593d2449d6406ab8d82d3816c84c1a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Recherche des victimes piégées sur le site d’un glissement de terrain dans le comté de Pengshui, à Chongqing (Chine), le 19 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Andy Wong/AP Photo"
+      }
+    ],
+    "credit": "Andy Wong/AP Photo"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T17:25:38.193983+00:00",
+  "_id": "baadba68fca5",
+  "brut": {
+    "title": "Quatre personnes, dont deux enfants, sont mortes à Gaza dans des frappes israéliennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatre personnes, dont deux enfants, sont mortes à Gaza dans des frappes israéliennes"
+    },
+    "summary": "L'armée israélienne a déclaré que ses soldats avaient \"frappé plusieurs infrastructures terroristes du Hamas au cours de la nuit\" de mercredi à jeudi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne a déclaré que ses soldats avaient \"frappé plusieurs infrastructures terroristes du Hamas au cours de la nuit\" de mercredi à jeudi."
+    },
+    "published": "Thu, 30 Jul 2026 18:00:33 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      16,
+      0,
+      33,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/quatre-personnes-dont-deux-enfants-sont-mortes-a-gaza-dans-des-frappes-israeliennes_8128919.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RKnoW9O7TJAnzYHnCsX4hqnP0kA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b7482bdbe3279327256.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/quatre-personnes-dont-deux-enfants-sont-mortes-a-gaza-dans-des-frappes-israeliennes_8128919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/quatre-personnes-dont-deux-enfants-sont-mortes-a-gaza-dans-des-frappes-israeliennes_8128919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

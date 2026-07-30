@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T17:25:37.999133+00:00",
+  "_id": "94b623266174",
+  "brut": {
+    "title": "Au Burkina Faso, le capitaine Ibrahim Traoré écarte le numéro deux de la junte",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Burkina Faso, le capitaine Ibrahim Traoré écarte le numéro deux de la junte"
+    },
+    "published": "Thu, 30 Jul 2026 18:30:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      16,
+      30,
+      2,
+      3,
+      211,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 18:56:08 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      30,
+      16,
+      56,
+      8,
+      3,
+      211,
+      0
+    ],
+    "summary": "Mois après mois, le président burkinabé élimine tous ceux qui pourraient déstabiliser son régime. Denier à en faire les frais, le capitaine Oumarou Yabré, considéré jusque-là comme le second personnage de la junte au pouvoir à Ouagadougou.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mois après mois, le président burkinabé élimine tous ceux qui pourraient déstabiliser son régime. Denier à en faire les frais, le capitaine Oumarou Yabré, considéré jusque-là comme le second personnage de la junte au pouvoir à Ouagadougou."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/30/au-burkina-faso-le-capitaine-ibrahim-traore-debranche-le-numero-deux-de-la-junte_6737051_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/30/au-burkina-faso-le-capitaine-ibrahim-traore-debranche-le-numero-deux-de-la-junte_6737051_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/30/au-burkina-faso-le-capitaine-ibrahim-traore-debranche-le-numero-deux-de-la-junte_6737051_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/12/23/865/0/8192/4096/644/322/60/0/ca4595c_ftp-1-0du94fjqbm6q-11b581fe15214272a576bef1cf8dc41d-0-68843e8befc64704a127e6022394ec22.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ibrahim Traoré, chef de la junte du Burkina Faso, à Bamako (Mali), le 23 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AP"
+      }
+    ],
+    "credit": "AP"
+  }
+}

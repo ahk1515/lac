@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T17:25:37.999769+00:00",
+  "_id": "c85e063f72bc",
+  "brut": {
+    "title": "Royaume-Uni : en une journée, 752 migrants arrivés sur neuf petits bateaux par la Manche, un pic depuis le début de l’année",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Royaume-Uni : en une journée, 752 migrants arrivés sur neuf petits bateaux par la Manche, un pic depuis le début de l’année"
+    },
+    "published": "Thu, 30 Jul 2026 17:42:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      15,
+      42,
+      6,
+      3,
+      211,
+      0
+    ],
+    "summary": "Ce pic survient alors que les autorités françaises ont déclaré que quatre migrants ont été retrouvés morts jeudi 30 juillet après des tentatives de traversées clandestines de la Manche, portant à au moins 14 le nombre de personnes mortes en France en 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce pic survient alors que les autorités françaises ont déclaré que quatre migrants ont été retrouvés morts jeudi 30 juillet après des tentatives de traversées clandestines de la Manche, portant à au moins 14 le nombre de personnes mortes en France en 2026."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/royaume-uni-en-une-journee-752-migrants-arrives-sur-neuf-petits-bateaux-par-la-manche-un-pic-depuis-le-debut-de-l-annee_6737045_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/royaume-uni-en-une-journee-752-migrants-arrives-sur-neuf-petits-bateaux-par-la-manche-un-pic-depuis-le-debut-de-l-annee_6737045_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/royaume-uni-en-une-journee-752-migrants-arrives-sur-neuf-petits-bateaux-par-la-manche-un-pic-depuis-le-debut-de-l-annee_6737045_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/128/0/3633/1816/644/322/60/0/4e44ccd_ftp-1-axvmeggp8hax-5730678-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants à bord d’une embarcation de passeurs tentant de traverser la Manche au large de la plage de Gravelines (Nord), le 29 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FRANCOIS LO PRESTI/AFP"
+      }
+    ],
+    "credit": "FRANCOIS LO PRESTI/AFP"
+  }
+}
