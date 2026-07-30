@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T06:26:27.891408+00:00",
+  "_id": "19e67008fe7f",
+  "brut": {
+    "title": "REPORTAGE. \"Cette année, la situation est encore pire\" : en Roumanie, les lourds impacts de la sécheresse qui frappe le Danube",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. \"Cette année, la situation est encore pire\" : en Roumanie, les lourds impacts de la sécheresse qui frappe le Danube"
+    },
+    "summary": "Alors que l'Europe est confrontée à plusieurs vagues de chaleur cet été, le Danube, deuxième fleuve d'Europe, enregistre ces dernières semaines des niveaux d'eau si bas qu'ils entravent la navigation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alors que l'Europe est confrontée à plusieurs vagues de chaleur cet été, le Danube, deuxième fleuve d'Europe, enregistre ces dernières semaines des niveaux d'eau si bas qu'ils entravent la navigation."
+    },
+    "published": "Thu, 30 Jul 2026 07:24:51 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      5,
+      24,
+      51,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-cette-annee-la-situation-est-encore-pire-en-roumanie-les-lourds-impacts-de-la-secheresse-qui-frappe-le-danube_8125961.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/p5sesaOfwKzxsnOsv05KaNGxsio/0x385:7748x4744/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68f22ea492e985653944.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-cette-annee-la-situation-est-encore-pire-en-roumanie-les-lourds-impacts-de-la-secheresse-qui-frappe-le-danube_8125961.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-cette-annee-la-situation-est-encore-pire-en-roumanie-les-lourds-impacts-de-la-secheresse-qui-frappe-le-danube_8125961.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T06:26:27.725366+00:00",
+  "_id": "07b2aba75609",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie bombarde les villes de Kiev, Lviv et Kryvy Rih",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie bombarde les villes de Kiev, Lviv et Kryvy Rih"
+    },
+    "published": "Thu, 30 Jul 2026 07:38:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      5,
+      38,
+      2,
+      3,
+      211,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 07:58:54 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      30,
+      5,
+      58,
+      54,
+      3,
+      211,
+      0
+    ],
+    "summary": "Le président ukrainien, Volodymyr Zelensky, avait annoncé la veille que l’armée russe préparait une salve de grande ampleur. Ces attaques russes ont fait au moins six morts à Kryvy Rih et une victime à Kiev, selon les autorités locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien, Volodymyr Zelensky, avait annoncé la veille que l’armée russe préparait une salve de grande ampleur. Ces attaques russes ont fait au moins six morts à Kryvy Rih et une victime à Kiev, selon les autorités locales."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-bombarde-les-villes-de-kiev-lviv-et-kryvy-rih_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-bombarde-les-villes-de-kiev-lviv-et-kryvy-rih_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-bombarde-les-villes-de-kiev-lviv-et-kryvy-rih_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/484/0/5024/2512/644/322/60/0/f61430e_ftp-1-xh9seq5qq6hv-2026-07-30t035416z-608615648-rc2znma6vear-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après des frappes de missiles russes sur Kiev, le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gleb Garanich/REUTERS"
+      }
+    ],
+    "credit": "Gleb Garanich/REUTERS"
+  }
+}

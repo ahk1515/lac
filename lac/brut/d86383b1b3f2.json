@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T06:26:27.726504+00:00",
+  "_id": "d86383b1b3f2",
+  "brut": {
+    "title": "Covid-19 : le calvaire d’Anthony Fauci, ancien conseiller médical à la Maison Blanche, lors d’une audition au Sénat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Covid-19 : le calvaire d’Anthony Fauci, ancien conseiller médical à la Maison Blanche, lors d’une audition au Sénat"
+    },
+    "published": "Thu, 30 Jul 2026 05:00:08 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      3,
+      0,
+      8,
+      3,
+      211,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 07:56:04 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      30,
+      5,
+      56,
+      4,
+      3,
+      211,
+      0
+    ],
+    "summary": "Le spécialiste des maladies infectieuses était auditionné mercredi après la publication de son journal intime, dans lequel il raconte la gestion de la pandémie et où transpire son caractère vaniteux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le spécialiste des maladies infectieuses était auditionné mercredi après la publication de son journal intime, dans lequel il raconte la gestion de la pandémie et où transpire son caractère vaniteux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/covid-19-le-calvaire-d-anthony-fauci-au-senat-americain_6736615_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/covid-19-le-calvaire-d-anthony-fauci-au-senat-americain_6736615_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/covid-19-le-calvaire-d-anthony-fauci-au-senat-americain_6736615_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/537/0/6442/3221/644/322/60/0/ab9c4d4_ftp-1-flno3nw2msrd-8d4131231d97456b8b67f0e72169a348-2-615575dca6544b02b17510335ae3ece7.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Anthony Fauci, devant le Sénat, au Capitole, à Washington, le 29 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Allison Robbert/AP"
+      }
+    ],
+    "credit": "Allison Robbert/AP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T06:26:27.726187+00:00",
+  "_id": "6a7c7edb78f3",
+  "brut": {
+    "title": "En Chine, la mort cachée de « Mei », une fillette de 6 ans, après une thérapie génique soulève de nombreuses questions",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, la mort cachée de « Mei », une fillette de 6 ans, après une thérapie génique soulève de nombreuses questions"
+    },
+    "published": "Thu, 30 Jul 2026 05:30:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      3,
+      30,
+      2,
+      3,
+      211,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 08:10:59 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      30,
+      6,
+      10,
+      59,
+      3,
+      211,
+      0
+    ],
+    "summary": "Atteinte d’une maladie non létale, elle avait été traitée par une thérapie génique expérimentale, révèle une enquête de la revue « Science ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Atteinte d’une maladie non létale, elle avait été traitée par une thérapie génique expérimentale, révèle une enquête de la revue « Science »."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/239/0/3000/1500/644/322/60/0/d9ae733_upload-1-ijriqqfxewhp-051-xxjpbee000864-20151017-tppfn0a001.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le neuroscientifique Qiu Zilong, à Chengdu (Chine), le 17 octobre 2015."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LI YIBO/Xinhua via AFP"
+      }
+    ],
+    "credit": "LI YIBO/Xinhua via AFP"
+  }
+}

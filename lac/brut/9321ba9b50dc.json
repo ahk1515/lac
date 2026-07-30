@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T06:26:27.891243+00:00",
+  "_id": "9321ba9b50dc",
+  "brut": {
+    "title": "Des bombardements russes font huit morts en Ukraine, dont six membres d'une famille",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des bombardements russes font huit morts en Ukraine, dont six membres d'une famille"
+    },
+    "summary": "Les frappes ont eu lieu quelques heures après que Volodymyr Zelensky a mis en garde contre une \"attaque massive\" de la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les frappes ont eu lieu quelques heures après que Volodymyr Zelensky a mis en garde contre une \"attaque massive\" de la Russie."
+    },
+    "published": "Thu, 30 Jul 2026 07:30:59 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      5,
+      30,
+      59,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-bombardements-russes-font-huit-morts-en-ukraine-dont-six-membres-d-une-meme-famille_8127863.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/APe_XVOIdZEwljb8kDRgg78xxiY/0x95:1024x671/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6ae14e4ce15651281445.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-bombardements-russes-font-huit-morts-en-ukraine-dont-six-membres-d-une-meme-famille_8127863.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-bombardements-russes-font-huit-morts-en-ukraine-dont-six-membres-d-une-meme-famille_8127863.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

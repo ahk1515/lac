@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T06:26:27.891009+00:00",
+  "_id": "7b0744e08435",
+  "brut": {
+    "title": "Le bilan du séisme au Japon est désormais de 30 morts, annonce la Première ministre Sanae Takaichi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le bilan du séisme au Japon est désormais de 30 morts, annonce la Première ministre Sanae Takaichi"
+    },
+    "summary": "Jeudi matin, 22 670 foyers et installations restaient privés d'électricité, et environ 84 000 foyers subissaient mercredi soir des coupures d'eau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Jeudi matin, 22 670 foyers et installations restaient privés d'électricité, et environ 84 000 foyers subissaient mercredi soir des coupures d'eau."
+    },
+    "published": "Thu, 30 Jul 2026 08:08:44 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      6,
+      8,
+      44,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/le-bilan-du-seisme-au-japon-est-desormais-de-30-morts-annonce-la-premiere-ministre-sanae-takaichi_8127887.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MvBXItwKAE-Cm8jUR2iqxaN9GHg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6ae99c6399e321059359.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/le-bilan-du-seisme-au-japon-est-desormais-de-30-morts-annonce-la-premiere-ministre-sanae-takaichi_8127887.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/le-bilan-du-seisme-au-japon-est-desormais-de-30-morts-annonce-la-premiere-ministre-sanae-takaichi_8127887.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
