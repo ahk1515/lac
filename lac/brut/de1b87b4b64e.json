@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-30T02:14:16.053517+00:00",
+  "_id": "de1b87b4b64e",
+  "brut": {
+    "title": "La propagandiste russe Xenia Fedorova menacée d'expulsion",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La propagandiste russe Xenia Fedorova menacée d'expulsion"
+    },
+    "summary": "L'ex-dirigeante de la chaîne pro-russe RT France est visée par un arrêté d'expulsion. Elle officie comme chroniqueuse pour plusieurs médias, dont CNews et Europe 1.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ex-dirigeante de la chaîne pro-russe RT France est visée par un arrêté d'expulsion. Elle officie comme chroniqueuse pour plusieurs médias, dont CNews et Europe 1."
+    },
+    "published": "Thu, 30 Jul 2026 00:11:22 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      22,
+      11,
+      22,
+      2,
+      210,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-propagandiste-russe-xenia-fedorova-menacee-d-expulsion_8127689.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/P3GkCnpCs3ccIqGBeG5Yb-SFDdo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/30/6a6a7a54cecae601633644.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-propagandiste-russe-xenia-fedorova-menacee-d-expulsion_8127689.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-propagandiste-russe-xenia-fedorova-menacee-d-expulsion_8127689.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T02:14:15.867365+00:00",
+  "_id": "05c7dca9973b",
+  "brut": {
+    "title": "Donald Trump dévoile un plan de rénovation de l’aéroport de Washington pour 22,5 milliards de dollars",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump dévoile un plan de rénovation de l’aéroport de Washington pour 22,5 milliards de dollars"
+    },
+    "published": "Thu, 30 Jul 2026 01:52:37 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      23,
+      52,
+      37,
+      2,
+      210,
+      0
+    ],
+    "summary": "Le ministre des transports a annoncé que le projet serait financé en partie par la compagnie United Airlines, pour qui Dulles, est un hub important.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ministre des transports a annoncé que le projet serait financé en partie par la compagnie United Airlines, pour qui Dulles, est un hub important."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/donald-trump-devoile-un-plan-de-renovation-de-l-aeroport-de-washington-pour-22-5-milliards-de-dollars_6736549_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/donald-trump-devoile-un-plan-de-renovation-de-l-aeroport-de-washington-pour-22-5-milliards-de-dollars_6736549_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/donald-trump-devoile-un-plan-de-renovation-de-l-aeroport-de-washington-pour-22-5-milliards-de-dollars_6736549_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/394/0/4726/2363/644/322/60/0/e80be48_ftp-1-v99m5bjc2eiy-5736082-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’aéroport international de Dulles (Virginie), le 29 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Finn Gomez/Getty Images/AFP"
+      }
+    ],
+    "credit": "Finn Gomez/Getty Images/AFP"
+  }
+}

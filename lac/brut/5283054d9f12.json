@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T02:14:15.868087+00:00",
+  "_id": "5283054d9f12",
+  "brut": {
+    "title": "Pakistan : l’attaque d’un poste de police fait au moins 15 morts et 22 blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pakistan : l’attaque d’un poste de police fait au moins 15 morts et 22 blessés"
+    },
+    "published": "Thu, 30 Jul 2026 00:31:11 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      22,
+      31,
+      11,
+      2,
+      210,
+      0
+    ],
+    "summary": "L’attaque a eu lieu dans la province de Khyber Pakhtunkhwa, frontalière de l’Afghanistan, en proie à un nombre croissant de violences à l’origine desquelles on trouve le groupe islamiste Tehreek-i-Taliban Pakistan.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’attaque a eu lieu dans la province de Khyber Pakhtunkhwa, frontalière de l’Afghanistan, en proie à un nombre croissant de violences à l’origine desquelles on trouve le groupe islamiste Tehreek-i-Taliban Pakistan."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/30/pakistan-l-attaque-d-un-poste-de-police-fait-au-moins-15-morts-et-22-blesses_6736483_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/30/pakistan-l-attaque-d-un-poste-de-police-fait-au-moins-15-morts-et-22-blesses_6736483_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/30/pakistan-l-attaque-d-un-poste-de-police-fait-au-moins-15-morts-et-22-blesses_6736483_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/125/0/1578/789/644/322/60/0/51c445b_upload-1-b7zbqecom09y-capture-d-e-cran-2026-07-30-a-00-13-43.png"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "« Le Monde »"
+      }
+    ],
+    "credit": "« Le Monde »"
+  }
+}

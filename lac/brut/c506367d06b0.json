@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T02:14:15.867887+00:00",
+  "_id": "c506367d06b0",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : frappes russes sur Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : frappes russes sur Kiev"
+    },
+    "published": "Thu, 30 Jul 2026 01:06:18 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      23,
+      6,
+      18,
+      2,
+      210,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 01:55:37 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      23,
+      55,
+      37,
+      2,
+      210,
+      0
+    ],
+    "summary": "Les autorités ont déclenché une alerte aux missiles russes dans la capitale ukrainienne, où de puissantes explosions ont été entendues peu après. « Les Russes ont préparé une attaque massive il y a quelques jours, et il y a une forte probabilité que la frappe soit menée cette nuit » avait mis en garde sur X, mercredi soir, le président ukrainien, Volodymyr Zelensky.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités ont déclenché une alerte aux missiles russes dans la capitale ukrainienne, où de puissantes explosions ont été entendues peu après. « Les Russes ont préparé une attaque massive il y a quelques jours, et il y a une forte probabilité que la frappe soit menée cette nuit » avait mis en garde sur X, mercredi soir, le président ukrainien, Volodymyr Zelensky."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-explosions-entendues-a-kiev_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-explosions-entendues-a-kiev_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-explosions-entendues-a-kiev_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/0/0/5413/2706/644/322/60/0/ca97ee6_ftp-1-wttcljiyrzzw-2026-07-29t234954z-726632204-rc2ynmanvol1-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants ont trouvé refuge dans le métro lors de frappes russes sur Kiev, le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alina Smutko/REUTERS"
+      }
+    ],
+    "credit": "Alina Smutko/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-30T02:14:15.868481+00:00",
+  "_id": "edc35e1e8d9d",
+  "brut": {
+    "title": "Argentine : sept morts dans le crash d’un hélicoptère de lutte contre les incendies",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Argentine : sept morts dans le crash d’un hélicoptère de lutte contre les incendies"
+    },
+    "published": "Wed, 29 Jul 2026 23:51:05 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      29,
+      21,
+      51,
+      5,
+      2,
+      210,
+      0
+    ],
+    "updated": "Thu, 30 Jul 2026 00:21:21 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      29,
+      22,
+      21,
+      21,
+      2,
+      210,
+      0
+    ],
+    "summary": "Le contact avait été perdu dans la matinée alors que l’appareil participait à une mission de formation avant d’être mobilisé pour lutter contre un incendie dans la province de La Rioja.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le contact avait été perdu dans la matinée alors que l’appareil participait à une mission de formation avant d’être mobilisé pour lutter contre un incendie dans la province de La Rioja."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/07/29/argentine-sept-morts-dans-le-crash-d-un-helicoptere-de-lutte-contre-les-incendies_6736449_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/07/29/argentine-sept-morts-dans-le-crash-d-un-helicoptere-de-lutte-contre-les-incendies_6736449_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/07/29/argentine-sept-morts-dans-le-crash-d-un-helicoptere-de-lutte-contre-les-incendies_6736449_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/34/0/1080/540/644/322/60/0/491bf25_upload-1-fthnsjfnnsag-573420016-18510824395069181-8594682981801876814-n.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un hélicoptère Bell 407 de l’armée de l’air argentine, sur une photo diffusée par l’armée de l’air argentine en novembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fuerza Aérea Argentina﻿ via Facebook"
+      }
+    ],
+    "credit": "Fuerza Aérea Argentina﻿ via Facebook"
+  }
+}
