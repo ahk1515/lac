@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T10:37:33.974658+00:00",
+  "_id": "b80ad5dbd7e3",
+  "brut": {
+    "title": "L'Espagne en proie aux flammes à la frontière avec le Portugal, 800 personnes ont été évacuées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Espagne en proie aux flammes à la frontière avec le Portugal, 800 personnes ont été évacuées"
+    },
+    "summary": "L'Europe est également en proie aux flammes en cette fin juillet. C'est notamment le cas à la frontière entre l'Espagne et le Portugal, où 11 000 hectares ont brûlé en une seule journée et plus de 800 personnes ont été évacuées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Europe est également en proie aux flammes en cette fin juillet. C'est notamment le cas à la frontière entre l'Espagne et le Portugal, où 11 000 hectares ont brûlé en une seule journée et plus de 800 personnes ont été évacuées."
+    },
+    "published": "Fri, 31 Jul 2026 10:46:36 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      8,
+      46,
+      36,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/l-espagne-en-proie-aux-flammes-a-la-frontiere-avec-le-portugal-800-personnes-ont-ete-evacuees_8129789.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8Ocrbj3XQRfUPIIRvjL5_hCN6X0/65x0:1177x625/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c5ed93ec36001945524.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/l-espagne-en-proie-aux-flammes-a-la-frontiere-avec-le-portugal-800-personnes-ont-ete-evacuees_8129789.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/l-espagne-en-proie-aux-flammes-a-la-frontiere-avec-le-portugal-800-personnes-ont-ete-evacuees_8129789.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

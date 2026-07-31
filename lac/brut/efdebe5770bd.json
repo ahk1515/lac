@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T10:37:33.974164+00:00",
+  "_id": "efdebe5770bd",
+  "brut": {
+    "title": "Un immense iceberg se retourne au large du Groenland",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un immense iceberg se retourne au large du Groenland"
+    },
+    "summary": "🇬🇱🧊 L’image saisissante d’un immense iceberg se retournant au large du Groenland près d’Illulisat. Filmée par Mona Hansen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇬🇱🧊 L’image saisissante d’un immense iceberg se retournant au large du Groenland près d’Illulisat. Filmée par Mona Hansen."
+    },
+    "published": "Fri, 31 Jul 2026 12:06:54 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      10,
+      6,
+      54,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/groenland/un-immense-iceberg-se-retourne-au-large-du-groenland_8129987.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/3X80DihayrMBYFbcpvPnAGJZFFg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/31/6a6c7391a399c171605358.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/groenland/un-immense-iceberg-se-retourne-au-large-du-groenland_8129987.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/groenland/un-immense-iceberg-se-retourne-au-large-du-groenland_8129987.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

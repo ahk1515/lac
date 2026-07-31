@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T10:37:33.974521+00:00",
+  "_id": "518257fb0f32",
+  "brut": {
+    "title": "On vous explique la crise ouverte par l'afflux de dizaines de milliers de migrants à la frontière entre le Maroc et l'enclave espagnole de Ceuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "On vous explique la crise ouverte par l'afflux de dizaines de milliers de migrants à la frontière entre le Maroc et l'enclave espagnole de Ceuta"
+    },
+    "summary": "Près de 50 000 personnes sont entrées illégalement dans le territoire, après avoir forcé la ligne de démarcation, et au moins neuf migrants sont morts noyés. L'armée a été déployée pour débloquer les routes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 50 000 personnes sont entrées illégalement dans le territoire, après avoir forcé la ligne de démarcation, et au moins neuf migrants sont morts noyés. L'armée a été déployée pour débloquer les routes."
+    },
+    "published": "Fri, 31 Jul 2026 12:11:06 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      10,
+      11,
+      6,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/on-vous-explique-la-crise-ouverte-par-l-afflux-de-milliers-de-migrants-marocains-a-la-frontiere-avec-l-enclave-de-ceuta_8129597.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KrAmnf33e_Phh3dG2zJcC4b5dFg/0x315:3024x2016/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c4333e61d8741284514.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/on-vous-explique-la-crise-ouverte-par-l-afflux-de-milliers-de-migrants-marocains-a-la-frontiere-avec-l-enclave-de-ceuta_8129597.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/on-vous-explique-la-crise-ouverte-par-l-afflux-de-milliers-de-migrants-marocains-a-la-frontiere-avec-l-enclave-de-ceuta_8129597.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

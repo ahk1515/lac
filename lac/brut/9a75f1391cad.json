@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T10:37:33.975110+00:00",
+  "_id": "9a75f1391cad",
+  "brut": {
+    "title": "Guerre en Ukraine : une nouvelle frappe vise un entrepôt de Wildberries en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : une nouvelle frappe vise un entrepôt de Wildberries en Russie"
+    },
+    "summary": "Le groupe a déclaré que, \"d'après les premières informations, il n'y a pas de victimes\" après cette attaque ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le groupe a déclaré que, \"d'après les premières informations, il n'y a pas de victimes\" après cette attaque ukrainienne."
+    },
+    "published": "Fri, 31 Jul 2026 08:46:38 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      6,
+      46,
+      38,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-nouvelle-frappe-vise-un-entrepot-de-wildberries-en-russie_8129498.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/u0fcDEdh721CE2thG6oLPLdfI14/0x69:1024x645/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c448cad899668758956.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-nouvelle-frappe-vise-un-entrepot-de-wildberries-en-russie_8129498.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-nouvelle-frappe-vise-un-entrepot-de-wildberries-en-russie_8129498.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T10:37:33.411992+00:00",
+  "_id": "086ac2287885",
+  "brut": {
+    "title": "VIDEO Séisme au Japon : les images de l’explosion d’un centre commercial",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Séisme au Japon : les images de l’explosion d’un centre commercial"
+    },
+    "published": "Fri, 31 Jul 2026 08:55:47 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      6,
+      55,
+      47,
+      4,
+      212,
+      0
+    ],
+    "summary": "L’établissement Aeon, à Kashima, sur l’île de Kyushu, dans le sud du pays, avait été évacué après le séisme, mais il a été dévasté par une explosion cinquante minutes plus tard, alors qu’un nombre inconnu de personnes s’y trouvaient encore.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’établissement Aeon, à Kashima, sur l’île de Kyushu, dans le sud du pays, avait été évacué après le séisme, mais il a été dévasté par une explosion cinquante minutes plus tard, alors qu’un nombre inconnu de personnes s’y trouvaient encore."
+    },
+    "id": "https://www.lemonde.fr/planete/video/2026/07/31/seisme-au-japon-les-images-de-l-explosion-d-un-centre-commercial-au-moins-34-morts-dans-le-pays_6737106_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/video/2026/07/31/seisme-au-japon-les-images-de-l-explosion-d-un-centre-commercial-au-moins-34-morts-dans-le-pays_6737106_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/video/2026/07/31/seisme-au-japon-les-images-de-l-explosion-d-un-centre-commercial-au-moins-34-morts-dans-le-pays_6737106_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/482/0/5760/2880/644/322/60/0/435a798_ftp-1-r6ldt7t1udxb-2026-07-30t104115z-796983111-rc2nnman2o8j-rtrmadp-3-japan-quake.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Asia Air Survey & Aero Toyota / via REUTERS"
+      }
+    ],
+    "credit": "Asia Air Survey & Aero Toyota / via REUTERS"
+  }
+}

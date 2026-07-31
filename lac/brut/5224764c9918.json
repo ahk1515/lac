@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T10:37:33.974982+00:00",
+  "_id": "5224764c9918",
+  "brut": {
+    "title": "Le photojournaliste français Antoni Lallican, tué en Ukraine, a reçu la Légion d'honneur à titre posthume",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le photojournaliste français Antoni Lallican, tué en Ukraine, a reçu la Légion d'honneur à titre posthume"
+    },
+    "summary": "Selon les autorités ukrainiennes, il faisait partie d'un groupe de reporters qui accompagnaient une unité de la 4e brigade blindée ukrainienne, près de la localité de Droujkivka, à une vingtaine de kilomètres du front oriental, lorsqu'il est mort, à l'automne 2025.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon les autorités ukrainiennes, il faisait partie d'un groupe de reporters qui accompagnaient une unité de la 4e brigade blindée ukrainienne, près de la localité de Droujkivka, à une vingtaine de kilomètres du front oriental, lorsqu'il est mort, à l'automne 2025."
+    },
+    "published": "Fri, 31 Jul 2026 09:05:35 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      7,
+      5,
+      35,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-photojournaliste-francais-antoni-lallican-tue-en-ukraine-a-recu-la-legion-d-honneur-a-titre-posthume_8129642.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/FtBDb3chfN9UdxXPlDdr8kuxAuA/90x0:1159x601/432x243/filters:format(jpg):quality(50)/2025/10/04/lallican-68e12fef2e54c157203742.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-photojournaliste-francais-antoni-lallican-tue-en-ukraine-a-recu-la-legion-d-honneur-a-titre-posthume_8129642.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-photojournaliste-francais-antoni-lallican-tue-en-ukraine-a-recu-la-legion-d-honneur-a-titre-posthume_8129642.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
