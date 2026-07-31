@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T21:02:45.849903+00:00",
+  "_id": "9ff5dcc2ae20",
+  "brut": {
+    "title": "L'Italie enregistre un séisme de magnitude 4,7 près de Naples",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Italie enregistre un séisme de magnitude 4,7 près de Naples"
+    },
+    "summary": "La région, qui abrite le plus grand cratère volcanique d'Europe, subit une activité sismique régulière.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La région, qui abrite le plus grand cratère volcanique d'Europe, subit une activité sismique régulière."
+    },
+    "published": "Fri, 31 Jul 2026 21:47:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      19,
+      47,
+      7,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/l-italie-enregistre-un-seisme-de-magnitude-4-7-pres-de-naples_8130629.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UxktTUX7xQ1lYSbdIvCd14yCZ4Y/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6cfb8042e61765420313.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/l-italie-enregistre-un-seisme-de-magnitude-4-7-pres-de-naples_8130629.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/l-italie-enregistre-un-seisme-de-magnitude-4-7-pres-de-naples_8130629.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

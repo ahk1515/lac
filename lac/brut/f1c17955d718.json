@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T21:02:45.850131+00:00",
+  "_id": "f1c17955d718",
+  "brut": {
+    "title": "Crise en Europe : 60 000 migrants entrent en Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Crise en Europe : 60 000 migrants entrent en Espagne"
+    },
+    "summary": "Ils sont arrivés par la terre, par la mer, à la nage ou sur de simples bouées. En quelques jours, plus de 60.000 migrants ont franchi la frontière entre le Maroc et l’enclave espagnole de Ceuta, faisant au moins 57 morts. Comment un tel afflux a-t-il été possible ? L’Espagne dénonce une « attaque » contre son territoire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ils sont arrivés par la terre, par la mer, à la nage ou sur de simples bouées. En quelques jours, plus de 60.000 migrants ont franchi la frontière entre le Maroc et l’enclave espagnole de Ceuta, faisant au moins 57 morts. Comment un tel afflux a-t-il été possible ? L’Espagne dénonce une « attaque » contre son territoire."
+    },
+    "published": "Fri, 31 Jul 2026 21:03:53 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      19,
+      3,
+      53,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/crise-en-europe-60-000-migrants-entrent-en-espagne_8130605.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YovaD39T5_5Uc0EDFFZDnw5iQmM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/31/6a6cf17fef952342189452.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/crise-en-europe-60-000-migrants-entrent-en-espagne_8130605.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/crise-en-europe-60-000-migrants-entrent-en-espagne_8130605.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

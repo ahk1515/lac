@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T21:02:45.850333+00:00",
+  "_id": "1c4abd4c4e64",
+  "brut": {
+    "title": "Crise en Europe : 60 000 migrants entrés en Espagne, 57 d'entre eux sont morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Crise en Europe : 60 000 migrants entrés en Espagne, 57 d'entre eux sont morts"
+    },
+    "summary": "Ils sont arrivés par la terre ou par la mer, à la nage ou avec de simples bouées. Plus de 60 000 migrants ont franchi ces derniers jours la frontière entre le Maroc et l’enclave espagnole de Ceuta, sur la côte nord de l’Afrique. Au moins 57 d’entre eux sont morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ils sont arrivés par la terre ou par la mer, à la nage ou avec de simples bouées. Plus de 60 000 migrants ont franchi ces derniers jours la frontière entre le Maroc et l’enclave espagnole de Ceuta, sur la côte nord de l’Afrique. Au moins 57 d’entre eux sont morts."
+    },
+    "published": "Fri, 31 Jul 2026 20:32:10 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      18,
+      32,
+      10,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crise-en-europe-60-000-migrants-entres-en-espagne-57-d-entre-eux-sont-morts_8130584.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/OSFHTmXTGFUVHD5v24AEWGbJBzs/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6ce8839904b745472576.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crise-en-europe-60-000-migrants-entres-en-espagne-57-d-entre-eux-sont-morts_8130584.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crise-en-europe-60-000-migrants-entres-en-espagne-57-d-entre-eux-sont-morts_8130584.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
