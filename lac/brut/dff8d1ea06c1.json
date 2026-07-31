@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T06:42:48.441777+00:00",
+  "_id": "dff8d1ea06c1",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : le point sur la situation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : le point sur la situation"
+    },
+    "published": "Fri, 31 Jul 2026 06:40:21 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      4,
+      40,
+      21,
+      4,
+      212,
+      0
+    ],
+    "updated": "Fri, 31 Jul 2026 08:15:36 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      31,
+      6,
+      15,
+      36,
+      4,
+      212,
+      0
+    ],
+    "summary": "Les gardiens de la révolution iraniens ont affirmé, jeudi, avoir visé une base américaine à Bahreïn. L’Iran a aussi revendiqué la destruction de trois F-35 sur une base américaine en Jordanie, ce qu’a démenti l’armée américaine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les gardiens de la révolution iraniens ont affirmé, jeudi, avoir visé une base américaine à Bahreïn. L’Iran a aussi revendiqué la destruction de trois F-35 sur une base américaine en Jordanie, ce qu’a démenti l’armée américaine."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-point-sur-la-situation_6737099_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-point-sur-la-situation_6737099_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-point-sur-la-situation_6737099_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/554/0/6000/3000/644/322/60/0/ac7e3ab_ftp-1-zawwjaoyksvl-2026-07-30t093159z-292335298-rc26omawvcm2-rtrmadp-3-iran-crisis.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un système de missiles iranien exposé sur la place Azadi, à Téhéran, le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS"
+      }
+    ],
+    "credit": "MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS"
+  }
+}
