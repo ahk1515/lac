@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T17:27:50.565617+00:00",
+  "_id": "84a71406e476",
+  "brut": {
+    "title": "Ceuta : l’Espagne dénonce une « attaque » contre « son intégrité territoriale »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ceuta : l’Espagne dénonce une « attaque » contre « son intégrité territoriale »"
+    },
+    "published": "Fri, 31 Jul 2026 17:45:17 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      15,
+      45,
+      17,
+      4,
+      212,
+      0
+    ],
+    "summary": "Le premier ministre espagnol, Pedro Sanchez, qui s’est rendu sur place dans une ambiance électrique, s’est attaqué à des rumeurs lancées par des « mafias de trafiquants d’êtres humains », les accusant d’être à l’origine de cet afflux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le premier ministre espagnol, Pedro Sanchez, qui s’est rendu sur place dans une ambiance électrique, s’est attaqué à des rumeurs lancées par des « mafias de trafiquants d’êtres humains », les accusant d’être à l’origine de cet afflux."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/07/31/ceuta-l-espagne-denonce-une-attaque-contre-son-integrite-territoriale_6737152_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/07/31/ceuta-l-espagne-denonce-une-attaque-contre-son-integrite-territoriale_6737152_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/07/31/ceuta-l-espagne-denonce-une-attaque-contre-son-integrite-territoriale_6737152_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/384/0/4608/2304/644/322/60/0/2b6f47c_ftp-1-gmf14h7raqmn-2026-07-31t095456z-1317439629-rc2womasd19c-rtrmadp-3-migration-europe-spain-morocco.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants attendent de traverser vers l’enclave espagnole de Ceuta, côté marocain de la frontière à Fnideq (Maroc), le 31 juillet 2026. REUTERS/Stringer"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}

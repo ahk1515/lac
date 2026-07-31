@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T17:27:50.800307+00:00",
+  "_id": "71f10890a7f5",
+  "brut": {
+    "title": "Séisme au Japon : des chiens participent à la fouille des décombres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Séisme au Japon : des chiens participent à la fouille des décombres"
+    },
+    "summary": "Trois jours après le puissant séisme qui a frappé la région de Kumamoto, dans le sud-ouest du Japon, les opérations de secours se poursuivent dans les décombres d'un centre commercial frappé par une explosion. Des chiens spécialement entraînés ont été mobilisés pour retrouver les victimes. (modifié)",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Trois jours après le puissant séisme qui a frappé la région de Kumamoto, dans le sud-ouest du Japon, les opérations de secours se poursuivent dans les décombres d'un centre commercial frappé par une explosion. Des chiens spécialement entraînés ont été mobilisés pour retrouver les victimes. (modifié)"
+    },
+    "published": "Fri, 31 Jul 2026 17:08:16 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      15,
+      8,
+      16,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/seisme-au-japon-des-chiens-participent-a-la-fouille-des-decombres_8130350.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/Qae6870-ep_YLdHkM_wjGtQMT5U/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/31/6a6cb985147d4107207392.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/seisme-au-japon-des-chiens-participent-a-la-fouille-des-decombres_8130350.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/seisme-au-japon-des-chiens-participent-a-la-fouille-des-decombres_8130350.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

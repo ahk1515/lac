@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T17:27:50.799651+00:00",
+  "_id": "7c913ee873a8",
+  "brut": {
+    "title": "Manque d'eau potable : cette île grecque contrainte d'utiliser l'eau de mer",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Manque d'eau potable : cette île grecque contrainte d'utiliser l'eau de mer"
+    },
+    "summary": "À Náxos, la plus grande île des Cyclades, l’eau courante provient désormais en partie de la mer, grâce à une usine de dessalement. Une solution indispensable pour éviter les pénuries, mais qui suscite des réserves chez certains agriculteurs. Comment l’eau de mer devient-elle potable ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Náxos, la plus grande île des Cyclades, l’eau courante provient désormais en partie de la mer, grâce à une usine de dessalement. Une solution indispensable pour éviter les pénuries, mais qui suscite des réserves chez certains agriculteurs. Comment l’eau de mer devient-elle potable ?"
+    },
+    "published": "Fri, 31 Jul 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      17,
+      0,
+      2,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/manque-d-eau-potable-cette-ile-grecque-contrainte-d-utiliser-l-eau-de-mer_8130266.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2gA5p4Lht6GIF9eNV_ZcZvk5flA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/31/6a6cab8c460a9919869185.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/manque-d-eau-potable-cette-ile-grecque-contrainte-d-utiliser-l-eau-de-mer_8130266.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/manque-d-eau-potable-cette-ile-grecque-contrainte-d-utiliser-l-eau-de-mer_8130266.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

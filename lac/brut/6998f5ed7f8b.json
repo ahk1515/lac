@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T17:27:50.565427+00:00",
+  "_id": "6998f5ed7f8b",
+  "brut": {
+    "title": "Quand le gouvernement américain publie une carte fantaisiste de l’Afrique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quand le gouvernement américain publie une carte fantaisiste de l’Afrique"
+    },
+    "published": "Fri, 31 Jul 2026 18:00:07 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      16,
+      0,
+      7,
+      4,
+      212,
+      0
+    ],
+    "summary": "Lors d’une conférence internationale sur le sida, au Brésil, fin juillet, le département d’Etat a présenté une carte de l’Afrique où la Côte d’Ivoire s’est retrouvée dans le sud du continent et le Nigeria enclavé dans le Sahara. Le Cameroun, quant à lui, est devenu un Etat fantôme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Lors d’une conférence internationale sur le sida, au Brésil, fin juillet, le département d’Etat a présenté une carte de l’Afrique où la Côte d’Ivoire s’est retrouvée dans le sud du continent et le Nigeria enclavé dans le Sahara. Le Cameroun, quant à lui, est devenu un Etat fantôme."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/504/0/4032/2016/644/322/60/0/e857852_ftp-1-uw6kr3x3gva2-2026-07-30t130842z-266872612-rc2nlmav1qgq-rtrmadp-3-usa-africa-politics.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La carte erronée de l’Afrique présentée par le département d’Etat américain à l’occasion d’une conférence internationale sur le sida, à Rio de Janeiro (Brésil), le 26 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "via REUTERS"
+      }
+    ],
+    "credit": "via REUTERS"
+  }
+}

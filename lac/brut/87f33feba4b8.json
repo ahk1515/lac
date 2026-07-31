@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T17:27:50.800131+00:00",
+  "_id": "87f33feba4b8",
+  "brut": {
+    "title": "Ceuta : 60 000 migrants ont passé la frontière vers l'Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ceuta : 60 000 migrants ont passé la frontière vers l'Espagne"
+    },
+    "summary": "Près de 60 000 personnes venues du Maroc sont entrées illégalement dans l'enclave espagnole de Ceuta ces derniers jours. Au moins 34 personnes sont m0rtes en tentant de rejoindre le territoire de 80 000 habitants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 60 000 personnes venues du Maroc sont entrées illégalement dans l'enclave espagnole de Ceuta ces derniers jours. Au moins 34 personnes sont m0rtes en tentant de rejoindre le territoire de 80 000 habitants."
+    },
+    "published": "Fri, 31 Jul 2026 17:18:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      15,
+      18,
+      27,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-60-000-migrants-ont-passe-la-frontiere-vers-l-espagne_8130401.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LKxlTba8uCXWktqpFnG8BAZaIWI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/31/6a6cbc9510c01286057334.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-60-000-migrants-ont-passe-la-frontiere-vers-l-espagne_8130401.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-60-000-migrants-ont-passe-la-frontiere-vers-l-espagne_8130401.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

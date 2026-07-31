@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T17:27:50.566320+00:00",
+  "_id": "e3ade761b24f",
+  "brut": {
+    "title": "La Slovaquie refuse d’enregistrer les mariages homosexuels conclus à l’étranger",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Slovaquie refuse d’enregistrer les mariages homosexuels conclus à l’étranger"
+    },
+    "published": "Fri, 31 Jul 2026 16:42:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      14,
+      42,
+      26,
+      4,
+      212,
+      0
+    ],
+    "updated": "Fri, 31 Jul 2026 17:01:29 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      31,
+      15,
+      1,
+      29,
+      4,
+      212,
+      0
+    ],
+    "summary": "En novembre 2025, la Cour de justice de l’Union européenne avait conclu que tout pays de l’Union européenne était tenu de reconnaître une union entre personnes de même sexe conclue dans un autre Etat membre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En novembre 2025, la Cour de justice de l’Union européenne avait conclu que tout pays de l’Union européenne était tenu de reconnaître une union entre personnes de même sexe conclue dans un autre Etat membre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/31/la-slovaquie-refuse-d-enregistrer-les-mariages-homosexuels-conclus-a-l-etranger_6737145_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/31/la-slovaquie-refuse-d-enregistrer-les-mariages-homosexuels-conclus-a-l-etranger_6737145_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/31/la-slovaquie-refuse-d-enregistrer-les-mariages-homosexuels-conclus-a-l-etranger_6737145_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2024/05/15/541/0/6500/3250/644/322/60/0/f466142_c472a3cf6c5f42efb320198b84f27b4f-0-13da8557b53546978ad0935ae7d85bd3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ministre de l’intérieur slovaque, Matus Sutaj Estok, à Banska Bystrica (Slovaquie), le 15 mai 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Denes Erdos/AP"
+      }
+    ],
+    "credit": "Denes Erdos/AP"
+  }
+}
