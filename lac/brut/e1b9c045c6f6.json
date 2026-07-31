@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T02:42:54.737012+00:00",
+  "_id": "e1b9c045c6f6",
+  "brut": {
+    "title": "L'Irak nie avoir approuvé les frappes américano-saoudiennes de mercredi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Irak nie avoir approuvé les frappes américano-saoudiennes de mercredi"
+    },
+    "summary": "Le président américain Donald Trump avait affirmé que ces frappes avaient été \"coordonnées\" avec Bagdad.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président américain Donald Trump avait affirmé que ces frappes avaient été \"coordonnées\" avec Bagdad."
+    },
+    "published": "Thu, 30 Jul 2026 23:49:26 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      21,
+      49,
+      26,
+      3,
+      211,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-irak-nie-avoir-approuve-les-frappes-americano-saoudiennes-de-mercredi_8129192.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/7dwGseJiUaF8ktYmVt3HJHbs84k/0x54:1024x630/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6bc68d35a92534503983.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-irak-nie-avoir-approuve-les-frappes-americano-saoudiennes-de-mercredi_8129192.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-irak-nie-avoir-approuve-les-frappes-americano-saoudiennes-de-mercredi_8129192.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T02:42:54.585907+00:00",
+  "_id": "87e48c54a4ee",
+  "brut": {
+    "title": "Un afflux massif de migrants à Ceuta ravive les tensions entre Madrid et Rabat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un afflux massif de migrants à Ceuta ravive les tensions entre Madrid et Rabat"
+    },
+    "published": "Fri, 31 Jul 2026 01:00:03 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      30,
+      23,
+      0,
+      3,
+      3,
+      211,
+      0
+    ],
+    "updated": "Fri, 31 Jul 2026 02:33:11 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      31,
+      0,
+      33,
+      11,
+      4,
+      212,
+      0
+    ],
+    "summary": "Des centaines de personnes, des jeunes hommes et des adolescents dans leur immense majorité, ont soudainement rejoint par la mer, jeudi, depuis le Maroc, l’enclave espagnole située sur continent africain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des centaines de personnes, des jeunes hommes et des adolescents dans leur immense majorité, ont soudainement rejoint par la mer, jeudi, depuis le Maroc, l’enclave espagnole située sur continent africain."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/31/un-afflux-massif-de-migrants-a-ceuta-ravive-les-tensions-entre-madrid-et-rabat_6737073_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/31/un-afflux-massif-de-migrants-a-ceuta-ravive-les-tensions-entre-madrid-et-rabat_6737073_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/31/un-afflux-massif-de-migrants-a-ceuta-ravive-les-tensions-entre-madrid-et-rabat_6737073_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/819/0/5459/2729/644/322/60/0/5248377_ftp-1-wule8o7bu5sh-cf19cd8c4bf046d2af00bba32fd874f7-1-905d10e509b14172b0e6e7f8c5d51119.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants traversent la frontière depuis le Maroc pour entrer dans l’enclave espagnole de Ceuta, le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Antonio Sempere/AP"
+      }
+    ],
+    "credit": "Antonio Sempere/AP"
+  }
+}
