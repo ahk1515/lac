@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T14:02:56.953192+00:00",
+  "_id": "85d4c1305eea",
+  "brut": {
+    "title": "Ebola : en RDC, plus de 3 500 cas recensés en quelques mois, plus que lors de l’épidémie la plus meurtrière de l’histoire du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola : en RDC, plus de 3 500 cas recensés en quelques mois, plus que lors de l’épidémie la plus meurtrière de l’histoire du pays"
+    },
+    "published": "Fri, 31 Jul 2026 15:58:32 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      13,
+      58,
+      32,
+      4,
+      212,
+      0
+    ],
+    "summary": "Vendredi, 3 532 cas de la maladie à virus Ebola ont été confirmés dans cinq provinces du pays, selon les données publiées par les autorités congolaises. Parmi ces 3 532 cas, 1 556 personnes sont mortes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vendredi, 3 532 cas de la maladie à virus Ebola ont été confirmés dans cinq provinces du pays, selon les données publiées par les autorités congolaises. Parmi ces 3 532 cas, 1 556 personnes sont mortes."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/667/0/4000/2000/644/322/60/0/beffbf1_upload-1-ht0rept1wutm-20-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une équipe de volontaires de la Croix-Rouge congolaise, à Bunia (République démocratique du Congo), le 21 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILÉMON BARBIER/HORS FORMAT POUR « LE MONDE »"
+      }
+    ],
+    "credit": "PHILÉMON BARBIER/HORS FORMAT POUR « LE MONDE »"
+  }
+}

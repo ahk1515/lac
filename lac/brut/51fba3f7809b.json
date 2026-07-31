@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-07-31T14:02:56.954505+00:00",
+  "_id": "51fba3f7809b",
+  "brut": {
+    "title": "A Ceuta, les images des dizaines de milliers d’exilés qui tentent de traverser la frontière espagnole",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Ceuta, les images des dizaines de milliers d’exilés qui tentent de traverser la frontière espagnole"
+    },
+    "published": "Fri, 31 Jul 2026 13:04:52 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      11,
+      4,
+      52,
+      4,
+      212,
+      0
+    ],
+    "updated": "Fri, 31 Jul 2026 15:05:09 +0200",
+    "updated_parsed": [
+      2026,
+      7,
+      31,
+      13,
+      5,
+      9,
+      4,
+      212,
+      0
+    ],
+    "summary": "En photos | Les images prises sur place montrent les foules de personnes traversant la frontière à pied ou par la mer, les interventions des forces de l’ordre espagnoles ou marocaines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En photos | Les images prises sur place montrent les foules de personnes traversant la frontière à pied ou par la mer, les interventions des forces de l’ordre espagnoles ou marocaines."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/07/31/a-ceuta-les-images-des-dizaines-de-milliers-d-exiles-qui-tentent-de-traverser-la-frontiere-espagnole_6737127_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/07/31/a-ceuta-les-images-des-dizaines-de-milliers-d-exiles-qui-tentent-de-traverser-la-frontiere-espagnole_6737127_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/07/31/a-ceuta-les-images-des-dizaines-de-milliers-d-exiles-qui-tentent-de-traverser-la-frontiere-espagnole_6737127_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/408/0/4899/2449/644/322/60/0/ed9d5a0_ftp-1-1s3xv1fr33vr-881440e4ff7f4860b871785e778a36be-0-6242cc12e22c48f388afca436c272f4e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants tentant de traverser la frontière, dans la nuit du 30 au 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Antonio Sempere/AP"
+      }
+    ],
+    "credit": "Antonio Sempere/AP"
+  }
+}

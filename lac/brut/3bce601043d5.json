@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T14:02:57.114988+00:00",
+  "_id": "3bce601043d5",
+  "brut": {
+    "title": "CARTE. Par où sont passés les dizaines de milliers de migrants qui sont entrés dans l'enclave espagnole de Ceuta ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "CARTE. Par où sont passés les dizaines de milliers de migrants qui sont entrés dans l'enclave espagnole de Ceuta ?"
+    },
+    "summary": "La digue de Tarajal a été prise d'assaut par un afflux massif de candidats à l'exil, qui l'ont contournée par la voie maritime.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La digue de Tarajal a été prise d'assaut par un afflux massif de candidats à l'exil, qui l'ont contournée par la voie maritime."
+    },
+    "published": "Fri, 31 Jul 2026 14:24:23 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      12,
+      24,
+      23,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/carte-par-ou-sont-passes-les-dizaines-de-milliers-de-migrants-qui-sont-entres-dans-l-enclave-espagnole-de-ceuta_8129903.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5hvBNUNcntMyZC92GynoJlEdLmk/0x177:3024x1878/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c712a18b1c086015093.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/carte-par-ou-sont-passes-les-dizaines-de-milliers-de-migrants-qui-sont-entres-dans-l-enclave-espagnole-de-ceuta_8129903.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/carte-par-ou-sont-passes-les-dizaines-de-milliers-de-migrants-qui-sont-entres-dans-l-enclave-espagnole-de-ceuta_8129903.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

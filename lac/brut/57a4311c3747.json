@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-07-31T14:02:57.114464+00:00",
+  "_id": "57a4311c3747",
+  "brut": {
+    "title": "Au moins 25 personnes sont mortes dans un accident d'autocar en Algérie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 25 personnes sont mortes dans un accident d'autocar en Algérie"
+    },
+    "summary": "Quarante-quatre autres personnes ont été blessées. La raison de l'accident est encore inconnue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quarante-quatre autres personnes ont été blessées. La raison de l'accident est encore inconnue."
+    },
+    "published": "Fri, 31 Jul 2026 14:59:54 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      12,
+      59,
+      54,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/algerie/au-moins-25-personnes-sont-mortes-dans-un-accident-d-autocar-en-algerie_8130161.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/g02sIceMrgoyDCf8CMprLto6sOA/220x67:1365x712/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6c9ebfe11fa719771805.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/algerie/au-moins-25-personnes-sont-mortes-dans-un-accident-d-autocar-en-algerie_8130161.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/algerie/au-moins-25-personnes-sont-mortes-dans-un-accident-d-autocar-en-algerie_8130161.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
