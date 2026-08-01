@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T20:52:10.410259+00:00",
+  "_id": "2bde8b479470",
+  "brut": {
+    "title": "Au moins 3 morts et 15 blessés après une explosion dans un café à Moscou en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 3 morts et 15 blessés après une explosion dans un café à Moscou en Russie"
+    },
+    "summary": "elon la chaîne Telegram Baza, connue pour ses liens avec les forces de l'ordre russes, l'explosion est due à une déflagration de gaz dans les cuisines du café.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "elon la chaîne Telegram Baza, connue pour ses liens avec les forces de l'ordre russes, l'explosion est due à une déflagration de gaz dans les cuisines du café."
+    },
+    "published": "Sat, 01 Aug 2026 20:54:56 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      18,
+      54,
+      56,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/au-moins-3-morts-et-15-blesses-apres-une-explosion-dans-un-cafe-a-moscou-en-russie_8131613.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9F0_PVyB4SMTKkQgg2WJJpY1Cvk/0x315:6048x3717/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6e3b7600c25969381349.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/au-moins-3-morts-et-15-blesses-apres-une-explosion-dans-un-cafe-a-moscou-en-russie_8131613.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/au-moins-3-morts-et-15-blesses-apres-une-explosion-dans-un-cafe-a-moscou-en-russie_8131613.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

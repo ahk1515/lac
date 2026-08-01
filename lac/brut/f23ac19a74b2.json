@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T20:52:10.410101+00:00",
+  "_id": "f23ac19a74b2",
+  "brut": {
+    "title": "Malgré le cessez-le-feu, l'armée israélienne annonce avoir tué plusieurs membres du Hezbollah dans le sud du Liban",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Malgré le cessez-le-feu, l'armée israélienne annonce avoir tué plusieurs membres du Hezbollah dans le sud du Liban"
+    },
+    "summary": "\"Dans la nuit de vendredi à samedi, des soldats de l'armée israélienne ont identifié plusieurs terroristes du Hezbollah  (...) Après cette identification, les soldats ont frappé les terroristes et les ont éliminés afin d'écarter la menace\", a justifué l'armée dans un communiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Dans la nuit de vendredi à samedi, des soldats de l'armée israélienne ont identifié plusieurs terroristes du Hezbollah  (...) Après cette identification, les soldats ont frappé les terroristes et les ont éliminés afin d'écarter la menace\", a justifué l'armée dans un communiqué."
+    },
+    "published": "Sat, 01 Aug 2026 20:40:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      18,
+      40,
+      38,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/liban/malgre-le-cessez-le-feu-l-armee-israelienne-annonce-avoir-tue-plusieurs-membres-du-hezbollah-dans-le-sud-du-liban_8131547.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2XwYFRQXJAv_TizZntBZf5uZOcE/0x218:4200x2581/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6e3d7183a5a938850565.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/liban/malgre-le-cessez-le-feu-l-armee-israelienne-annonce-avoir-tue-plusieurs-membres-du-hezbollah-dans-le-sud-du-liban_8131547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/liban/malgre-le-cessez-le-feu-l-armee-israelienne-annonce-avoir-tue-plusieurs-membres-du-hezbollah-dans-le-sud-du-liban_8131547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

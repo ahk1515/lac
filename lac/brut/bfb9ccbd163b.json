@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T20:52:09.751800+00:00",
+  "_id": "bfb9ccbd163b",
+  "brut": {
+    "title": "En Chine, avec la série « The Knockout », l’anticorruption conquiert le public",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, avec la série « The Knockout », l’anticorruption conquiert le public"
+    },
+    "published": "Sat, 01 Aug 2026 19:00:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      17,
+      0,
+      7,
+      5,
+      213,
+      0
+    ],
+    "summary": "« Tour du monde en séries » (6/6). Vu par 320 millions de spectateurs, le programme illustre la nouvelle stratégie de Pékin : se servir de divertissements de qualité pour vanter la politique menée par le régime de Xi Jinping.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Tour du monde en séries » (6/6). Vu par 320 millions de spectateurs, le programme illustre la nouvelle stratégie de Pékin : se servir de divertissements de qualité pour vanter la politique menée par le régime de Xi Jinping."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/08/01/en-chine-avec-la-serie-the-knockout-l-anticorruption-conquiert-le-public_6737240_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/08/01/en-chine-avec-la-serie-the-knockout-l-anticorruption-conquiert-le-public_6737240_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/08/01/en-chine-avec-la-serie-the-knockout-l-anticorruption-conquiert-le-public_6737240_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/08/90/0/1080/540/644/322/60/0/43be58c_upload-1-nozza3r7wls7-mv5bmwmwm2q1ytgtzjuymc00nzq1ltg3mwitzwjhngzmmtflyty4xkeyxkfqcgc-v1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Image extraite de la série « The Knockout », créée par Xu Jizhou."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "iqiyi"
+      }
+    ],
+    "credit": "iqiyi"
+  }
+}

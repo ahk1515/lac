@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T20:52:10.409944+00:00",
+  "_id": "b7637d1a253d",
+  "brut": {
+    "title": "Italie : un séisme de magnitude 4,7 a été enregistré à Naples",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Italie : un séisme de magnitude 4,7 a été enregistré à Naples"
+    },
+    "summary": "Un séisme de magnitude 4,7 a secoué le sud de l'Italie près de Naples, vendredi 31 juillet, marquant la plus forte secousse depuis 40 ans. Au moins 26 personnes ont été blessées et plusieurs bâtiments ont été endommagés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un séisme de magnitude 4,7 a secoué le sud de l'Italie près de Naples, vendredi 31 juillet, marquant la plus forte secousse depuis 40 ans. Au moins 26 personnes ont été blessées et plusieurs bâtiments ont été endommagés."
+    },
+    "published": "Sat, 01 Aug 2026 20:51:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      18,
+      51,
+      57,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/italie-un-seisme-de-magnitude-4-7-a-ete-enregistre-a-naples_8131625.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-DXcvKdLFk72vf8tDDaYOf8_tGM/20x0:1446x802/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6e403b23c82395933068.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/italie-un-seisme-de-magnitude-4-7-a-ete-enregistre-a-naples_8131625.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/italie-un-seisme-de-magnitude-4-7-a-ete-enregistre-a-naples_8131625.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

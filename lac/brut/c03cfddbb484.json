@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T20:52:09.751595+00:00",
+  "_id": "c03cfddbb484",
+  "brut": {
+    "title": "Comment la canicule a mis la Tunisie sous tension ? Comprendre en trois minutes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comment la canicule a mis la Tunisie sous tension ? Comprendre en trois minutes"
+    },
+    "published": "Sat, 01 Aug 2026 20:00:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      18,
+      0,
+      4,
+      5,
+      213,
+      0
+    ],
+    "summary": "Alors qu’une canicule étouffante affecte le réseau électrique du pays, des milliers de Tunisiens sont descendus dans la rue pour dénoncer l’inaction et la dérive autoritaire du pouvoir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors qu’une canicule étouffante affecte le réseau électrique du pays, des milliers de Tunisiens sont descendus dans la rue pour dénoncer l’inaction et la dérive autoritaire du pouvoir."
+    },
+    "id": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/01/comment-la-canicule-a-mis-la-tunisie-sous-tension-comprendre-en-trois-minutes_6737243_6176282.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/01/comment-la-canicule-a-mis-la-tunisie-sous-tension-comprendre-en-trois-minutes_6737243_6176282.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/01/comment-la-canicule-a-mis-la-tunisie-sous-tension-comprendre-en-trois-minutes_6737243_6176282.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/25/273/0/3269/1634/644/322/60/0/238c8d8_ftp-1-k19yrpneq3t5-ad581614b09f4583adc4caee08e2ce83-0-8b5a2229a6c2455c98a6bcf99aa9826a.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ons Abid / AP Photo/Ons Abid"
+      }
+    ],
+    "credit": "Ons Abid / AP Photo/Ons Abid"
+  }
+}
