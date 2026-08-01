@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T13:17:22.678593+00:00",
+  "_id": "8b3616c47cd3",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique des bombardements contre trois raffineries russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique des bombardements contre trois raffineries russes"
+    },
+    "published": "Sat, 01 Aug 2026 12:17:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      10,
+      17,
+      57,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 14:04:29 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      12,
+      4,
+      29,
+      5,
+      213,
+      0
+    ],
+    "summary": "Volodymyr Zelensky a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions ukrainiennes. Plus tôt dans la journée, le chef de la République de Bachkortostan, Radi Khabirov, avait dit avoir « repoussé une nouvelle attaque de drone » contre la ville d’Oufa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Volodymyr Zelensky a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions ukrainiennes. Plus tôt dans la journée, le chef de la République de Bachkortostan, Radi Khabirov, avait dit avoir « repoussé une nouvelle attaque de drone » contre la ville d’Oufa."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-en-juillet-la-russie-a-tire-un-nombre-record-de-missiles-volodymyr-zelensky-accuse-moscou-d-avoir-attaque-des-immeubles-d-habitation-ordinaires_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-en-juillet-la-russie-a-tire-un-nombre-record-de-missiles-volodymyr-zelensky-accuse-moscou-d-avoir-attaque-des-immeubles-d-habitation-ordinaires_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-en-juillet-la-russie-a-tire-un-nombre-record-de-missiles-volodymyr-zelensky-accuse-moscou-d-avoir-attaque-des-immeubles-d-habitation-ordinaires_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/489/0/6048/3024/644/322/60/0/949cbe9_ftp-1-lzuz5jzeipl5-5753339-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la suite de frappes de missiles balistiques russes, à Kiev, le 1er août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GENYA SAVILOV/AFP"
+      }
+    ],
+    "credit": "GENYA SAVILOV/AFP"
+  }
+}

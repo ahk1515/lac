@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T13:17:22.983543+00:00",
+  "_id": "8f36353c5755",
+  "brut": {
+    "title": "À Ceuta, des milliers de migrants de retour au Maroc, contrôles renforcés aux frontières",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Ceuta, des milliers de migrants de retour au Maroc, contrôles renforcés aux frontières"
+    },
+    "summary": "À Ceuta, des milliers de migrants sont retournés au Maroc après l'injonction de l'Espagne de quitter l'enclave. En parallèle, plusieurs pays européens, dont la France, ont décidé de renforcer les contrôles aux frontières.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Ceuta, des milliers de migrants sont retournés au Maroc après l'injonction de l'Espagne de quitter l'enclave. En parallèle, plusieurs pays européens, dont la France, ont décidé de renforcer les contrôles aux frontières."
+    },
+    "published": "Sat, 01 Aug 2026 14:10:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      12,
+      10,
+      55,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/a-ceuta-des-milliers-de-migrants-de-retour-au-maroc-controles-renforces-aux-frontieres_8131337.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/S51Ma7vmbe-ZDgtnxQztOyGtAbc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/01/6a6de2476895d013955019.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/a-ceuta-des-milliers-de-migrants-de-retour-au-maroc-controles-renforces-aux-frontieres_8131337.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/a-ceuta-des-milliers-de-migrants-de-retour-au-maroc-controles-renforces-aux-frontieres_8131337.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

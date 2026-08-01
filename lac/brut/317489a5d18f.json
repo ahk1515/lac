@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T13:17:22.678782+00:00",
+  "_id": "317489a5d18f",
+  "brut": {
+    "title": "Près de Naples, un séisme fait 21 blessés et cause des dégâts matériels",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de Naples, un séisme fait 21 blessés et cause des dégâts matériels"
+    },
+    "published": "Sat, 01 Aug 2026 12:07:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      10,
+      7,
+      14,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 12:44:56 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      10,
+      44,
+      56,
+      5,
+      213,
+      0
+    ],
+    "summary": "Vendredi soir, dans le sud de l’Italie, 21 personnes ont été blessées à la suite de ce séisme. Toute la nuit de dizaines de secousses de moindre intensité se sont succédé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vendredi soir, dans le sud de l’Italie, 21 personnes ont été blessées à la suite de ce séisme. Toute la nuit de dizaines de secousses de moindre intensité se sont succédé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/01/pres-de-naples-un-seisme-fait-21-blesses-et-cause-des-degats-materiels_6737211_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/01/pres-de-naples-un-seisme-fait-21-blesses-et-cause-des-degats-materiels_6737211_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/01/pres-de-naples-un-seisme-fait-21-blesses-et-cause-des-degats-materiels_6737211_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/441/0/5287/2643/644/322/60/0/7839a5f_ftp-1-xonhnxfwkf4u-2026-07-31t201113z-1098756962-rc28pmamg38n-rtrmadp-3-italy-quake.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un véhicule endommagé à la suite du séisme de magnitude 4,7, à Pouzzoles, près de Naples, en Italie, le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Salvatore Laporta / REUTERS"
+      }
+    ],
+    "credit": "Salvatore Laporta / REUTERS"
+  }
+}

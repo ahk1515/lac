@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T13:17:22.678402+00:00",
+  "_id": "2c5c3b9bb808",
+  "brut": {
+    "title": "Au Mexique, des candidats forcés de repasser un examen d’entrée à l’université après des soupçons de fraude à l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mexique, des candidats forcés de repasser un examen d’entrée à l’université après des soupçons de fraude à l’IA"
+    },
+    "published": "Sat, 01 Aug 2026 13:00:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      11,
+      0,
+      5,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 13:00:37 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      11,
+      0,
+      37,
+      5,
+      213,
+      0
+    ],
+    "summary": "Les concours d’entrée dans les différentes filières de l’université nationale autonome, que les étudiants passaient pour la première fois à distance, ont reçu des notes beaucoup plus élevées que les années précédentes, laissant planer le doute sur une aide de l’IA.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les concours d’entrée dans les différentes filières de l’université nationale autonome, que les étudiants passaient pour la première fois à distance, ont reçu des notes beaucoup plus élevées que les années précédentes, laissant planer le doute sur une aide de l’IA."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/01/au-mexique-des-candidats-forces-de-repasser-un-examen-d-entree-a-l-universite-apres-des-soupcons-de-fraude-a-l-intelligence-artificielle_6737212_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/01/au-mexique-des-candidats-forces-de-repasser-un-examen-d-entree-a-l-universite-apres-des-soupcons-de-fraude-a-l-intelligence-artificielle_6737212_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/01/au-mexique-des-candidats-forces-de-repasser-un-examen-d-entree-a-l-universite-apres-des-soupcons-de-fraude-a-l-intelligence-artificielle_6737212_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/430/0/5157/2578/644/322/60/0/fbc44f1_upload-1-h6ji9blej804-ap23023823004896.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’administration centrale de l’université nationale autonome du Mexique, à Mexico, le 23 janvier 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marco Ugarte/AP"
+      }
+    ],
+    "credit": "Marco Ugarte/AP"
+  }
+}

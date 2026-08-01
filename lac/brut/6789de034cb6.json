@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T13:17:22.678187+00:00",
+  "_id": "6789de034cb6",
+  "brut": {
+    "title": "Aux Etats-Unis, le débat monte autour des différents modèles d’IA, sur fond de concurrence chinoise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, le débat monte autour des différents modèles d’IA, sur fond de concurrence chinoise"
+    },
+    "published": "Sat, 01 Aug 2026 14:00:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      12,
+      0,
+      5,
+      5,
+      213,
+      0
+    ],
+    "summary": "Hormis Anthropic, les plus grosses sociétés américaines travaillant sur l’intelligence artificielle ont récemment demandé à Washington de soutenir le développement de la technologie dite « open weight », plus ouverte, dans laquelle s’illustre la Chine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Hormis Anthropic, les plus grosses sociétés américaines travaillant sur l’intelligence artificielle ont récemment demandé à Washington de soutenir le développement de la technologie dite « open weight », plus ouverte, dans laquelle s’illustre la Chine."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/01/aux-etats-unis-le-debat-monte-autour-des-differents-modeles-d-ia-sur-fond-de-concurrence-chinoise_6737218_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/01/aux-etats-unis-le-debat-monte-autour-des-differents-modeles-d-ia-sur-fond-de-concurrence-chinoise_6737218_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/01/aux-etats-unis-le-debat-monte-autour-des-differents-modeles-d-ia-sur-fond-de-concurrence-chinoise_6737218_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/17/0/0/4500/2250/644/322/60/0/0dae773_ftp-1-epl7rtxoyykd-2026-07-17t112840z-333895197-rc2jfma1jzgz-rtrmadp-3-china-ai.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le stand de l’entreprise technologique chinoise Baidu, lors de la World Artificial Intelligence Conference, à Shanghaï (Chine), le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Go Nakamura/REUTERS"
+      }
+    ],
+    "credit": "Go Nakamura/REUTERS"
+  }
+}
