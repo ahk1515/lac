@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T09:57:38.240949+00:00",
+  "_id": "e988b09c44dd",
+  "brut": {
+    "title": "Le Venezuela vote une loi visant à accroître l'offre de logements à louer pour aider les sinistrés du double séisme meurtrier",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Venezuela vote une loi visant à accroître l'offre de logements à louer pour aider les sinistrés du double séisme meurtrier"
+    },
+    "summary": "Les deux séismes qui ont secoué le nord du Venezuela ont fait plus de 5 500 morts et endommagé des centaines de bâtiments.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les deux séismes qui ont secoué le nord du Venezuela ont fait plus de 5 500 morts et endommagé des centaines de bâtiments."
+    },
+    "published": "Sat, 01 Aug 2026 11:08:40 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      9,
+      8,
+      40,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/venezuela/le-venezuela-vote-une-loi-visant-a-accroitre-l-offre-de-logements-a-louer-pour-aider-les-sinistres-du-double-seisme-meurtrier_8131067.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/powUiiYlp0csjjmqkOK506HZfys/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6da3ba114dd444934887.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/venezuela/le-venezuela-vote-une-loi-visant-a-accroitre-l-offre-de-logements-a-louer-pour-aider-les-sinistres-du-double-seisme-meurtrier_8131067.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/venezuela/le-venezuela-vote-une-loi-visant-a-accroitre-l-offre-de-logements-a-louer-pour-aider-les-sinistres-du-double-seisme-meurtrier_8131067.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

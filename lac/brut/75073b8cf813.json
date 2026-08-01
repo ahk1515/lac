@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T09:57:38.064546+00:00",
+  "_id": "75073b8cf813",
+  "brut": {
+    "title": "L’exploitation éhontée de la crise de Ceuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’exploitation éhontée de la crise de Ceuta"
+    },
+    "published": "Sat, 01 Aug 2026 09:30:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      7,
+      30,
+      5,
+      5,
+      213,
+      0
+    ],
+    "summary": "Responsables politiques de droite et d’extrême droite se sont précipités sur les images provenant de l’enclave espagnole située au nord du Maroc pour dénoncer l’imminence d’une vague migratoire et le danger que faisait peser la politique du gouvernement de Pedro Sanchez sur l’Europe. Sans jamais s’embarrasser des faits.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Responsables politiques de droite et d’extrême droite se sont précipités sur les images provenant de l’enclave espagnole située au nord du Maroc pour dénoncer l’imminence d’une vague migratoire et le danger que faisait peser la politique du gouvernement de Pedro Sanchez sur l’Europe. Sans jamais s’embarrasser des faits."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/08/01/l-exploitation-ehontee-de-la-crise-de-ceuta_6737204_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/08/01/l-exploitation-ehontee-de-la-crise-de-ceuta_6737204_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/08/01/l-exploitation-ehontee-de-la-crise-de-ceuta_6737204_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/438/0/3382/1691/644/322/60/0/c351399_ftp-1-bhu4obfcxhpl-2026-07-31t102429z-1140248769-rc2xomak651f-rtrmadp-3-europe-migration-spain-ceuta.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Ceuta (Espagne), le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jon Nazca/REUTERS"
+      }
+    ],
+    "credit": "Jon Nazca/REUTERS"
+  }
+}

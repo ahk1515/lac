@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T09:57:38.064369+00:00",
+  "_id": "775eda606d36",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : après l’attaque qui a fait neuf morts à Kiev, Volodymyr Zelensky dénonce des dégâts dans 18 immeubles d’habitation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : après l’attaque qui a fait neuf morts à Kiev, Volodymyr Zelensky dénonce des dégâts dans 18 immeubles d’habitation"
+    },
+    "published": "Sat, 01 Aug 2026 09:50:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      7,
+      50,
+      27,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 11:43:12 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      9,
+      43,
+      12,
+      5,
+      213,
+      0
+    ],
+    "summary": "Le président ukrainien a également affirmé que la Russie avait tiré pas moins de 35 missiles sur l’Ukraine, dont 27 balistiques, ainsi que 185 drones d’attaque, dans la nuit de vendredi à samedi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien a également affirmé que la Russie avait tiré pas moins de 35 missiles sur l’Ukraine, dont 27 balistiques, ainsi que 185 drones d’attaque, dans la nuit de vendredi à samedi."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-apres-l-attaque-qui-a-fait-9-morts-a-kiev-volodymyr-zelensky-denonce-des-degats-dans-dix-huit-immeubles-d-habitation_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-apres-l-attaque-qui-a-fait-9-morts-a-kiev-volodymyr-zelensky-denonce-des-degats-dans-dix-huit-immeubles-d-habitation_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-apres-l-attaque-qui-a-fait-9-morts-a-kiev-volodymyr-zelensky-denonce-des-degats-dans-dix-huit-immeubles-d-habitation_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/235/0/5769/2884/644/322/60/0/3c20d71_ftp-1-tryzpowdgrpl-5753547-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les secouristes interviennent dans un immeuble résidentiel de plusieurs étages endommagé lors d’une frappe aérienne russe sur Kiev le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ROMAN PILIPEY/AFP"
+      }
+    ],
+    "credit": "ROMAN PILIPEY/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T09:57:38.240657+00:00",
+  "_id": "5d43cedb9dc1",
+  "brut": {
+    "title": "Donald Trump fait désormais payer un accès premium à ses posts sur son réseau Truth Social",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump fait désormais payer un accès premium à ses posts sur son réseau Truth Social"
+    },
+    "summary": "Ce \"service\" est effectif depuis le 1er août. L'idée est de donner une longueur d’avance aux professionnels de la finance pour leur permettre d’aller plus vite sur les marchés. De là à penser à de possibles délits d'initié... Des démocrates ont saisi le gendarme des marchés financiers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce \"service\" est effectif depuis le 1er août. L'idée est de donner une longueur d’avance aux professionnels de la finance pour leur permettre d’aller plus vite sur les marchés. De là à penser à de possibles délits d'initié... Des démocrates ont saisi le gendarme des marchés financiers."
+    },
+    "published": "Sat, 01 Aug 2026 10:43:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      8,
+      43,
+      13,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-fait-desormais-payer-un-acces-premium-a-ses-posts-sur-son-reseau-truth-social_8131088.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/fI9ZUo223HYnyJ7WdpKoeybz5ME/0x52:1024x628/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6dabf795360831574516.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-fait-desormais-payer-un-acces-premium-a-ses-posts-sur-son-reseau-truth-social_8131088.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-fait-desormais-payer-un-acces-premium-a-ses-posts-sur-son-reseau-truth-social_8131088.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
