@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T02:41:27.888643+00:00",
+  "_id": "c2b30ba82d53",
+  "brut": {
+    "title": "Donald Trump déclare vouloir faire \"très attention\" avant d'autoriser l'Ukraine à produire des missiles Patriot",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump déclare vouloir faire \"très attention\" avant d'autoriser l'Ukraine à produire des missiles Patriot"
+    },
+    "summary": "\"Vous donnez cette technologie, et un jour, ils peuvent se retourner contre vous\", a-t-il mis en garde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Vous donnez cette technologie, et un jour, ils peuvent se retourner contre vous\", a-t-il mis en garde."
+    },
+    "published": "Fri, 31 Jul 2026 23:47:20 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      21,
+      47,
+      20,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-declare-vouloir-faire-tres-attention-avant-d-autoriser-l-ukraine-a-produire-des-missiles-patriot_8130692.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yFiplX_jXA8qjJ6zmEsibRwz1MU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6d179c665d9643780833.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-declare-vouloir-faire-tres-attention-avant-d-autoriser-l-ukraine-a-produire-des-missiles-patriot_8130692.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-declare-vouloir-faire-tres-attention-avant-d-autoriser-l-ukraine-a-produire-des-missiles-patriot_8130692.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

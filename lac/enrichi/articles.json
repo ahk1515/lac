@@ -7919,6 +7919,43 @@
     "pays": []
   },
   {
+    "date": "Fri, 31 Jul 2026 23:55:49 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Ceuta : 48 000 migrants ont fait demi-tour vers le Maroc",
+    "texte": "Sur les 60 000 personnes qui ont afflué ces derniers jours à Ceuta (Espagne), 48 000 sont déjà retournées au Maroc au 31 juillet, selon le gouvernement espagnol.",
+    "url": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-48-000-migrants-ont-fait-demi-tour-vers-le-maroc_8130698.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "c4d243ace589",
+    "pays": [
+      "MAR"
+    ]
+  },
+  {
+    "date": "Fri, 31 Jul 2026 23:54:27 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "La France multiplie par cinq samedi le renfort de policiers et gendarmes à la frontière franco-espagnole",
+    "texte": "Cette décision porte à 334 le nombre de policiers et gendarmes déployés en renfort à la frontière franco-espagnole.",
+    "url": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/la-france-multiplie-par-cinq-samedi-le-renfort-de-policiers-et-gendarmes-a-la-frontiere-franco-espagnole_8130686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "cc9a32334dbc",
+    "pays": [
+      "FRA"
+    ]
+  },
+  {
+    "date": "Fri, 31 Jul 2026 23:47:20 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Donald Trump déclare vouloir faire \"très attention\" avant d'autoriser l'Ukraine à produire des missiles Patriot",
+    "texte": "\"Vous donnez cette technologie, et un jour, ils peuvent se retourner contre vous\", a-t-il mis en garde.",
+    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-declare-vouloir-faire-tres-attention-avant-d-autoriser-l-ukraine-a-produire-des-missiles-patriot_8130692.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "c2b30ba82d53",
+    "pays": [
+      "UKR",
+      "USA"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -19297,6 +19334,32 @@
     "pays": [
       "IRN",
       "USA"
+    ]
+  },
+  {
+    "date": "Fri, 31 Jul 2026 23:58:57 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dément les affirmations iraniennes faisant état du blocage du trafic maritime dans le détroit d’Ormuz",
+    "texte": "L’armée américaine assure que la voie de navigation « reste ouverte aux navires commerciaux ». « L’Iran n’en a pas le contrôle. Des milliers de navires ont emprunté cette voie navigable internationale au cours des quatre derniers mois », précise le commandement militaire américain pour le Moyen-Orient, sur X.",
+    "url": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-l-armee-americaine-dement-les-affirmations-iraniennes-faisant-etat-du-blocage-du-trafic-maritime-dans-le-detroit-d-ormuz_6737099_3210.html",
+    "id": "9ac4fe9c7318",
+    "pays": [
+      "IRN",
+      "USA"
+    ]
+  },
+  {
+    "date": "Fri, 31 Jul 2026 23:29:15 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : au moins quatre morts à Kiev après une attaque de missiles balistiques russes, selon les autorités ukrainiennes",
+    "texte": "L’administration militaire de Kiev a fait également état d’au moins treize blessés suite à cette offensive russe. Elle précise qu’« un incendie s’est déclaré dans un immeuble de six étages, dans le [raïon] de Solomiansky à Kiev, à la suite de l’attaque ».",
+    "url": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-des-milliers-de-personnes-defilent-a-kiev-pour-reclamer-le-retour-de-mykhailo-fedorov-au-ministere-de-la-defense_6732775_3210.html",
+    "id": "bca0229ec3e0",
+    "pays": [
+      "RUS",
+      "UKR"
     ]
   }
 ]

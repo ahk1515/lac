@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T02:41:27.888368+00:00",
+  "_id": "cc9a32334dbc",
+  "brut": {
+    "title": "La France multiplie par cinq samedi le renfort de policiers et gendarmes à la frontière franco-espagnole",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La France multiplie par cinq samedi le renfort de policiers et gendarmes à la frontière franco-espagnole"
+    },
+    "summary": "Cette décision porte à 334 le nombre de policiers et gendarmes déployés en renfort à la frontière franco-espagnole.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette décision porte à 334 le nombre de policiers et gendarmes déployés en renfort à la frontière franco-espagnole."
+    },
+    "published": "Fri, 31 Jul 2026 23:54:27 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      21,
+      54,
+      27,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/la-france-multiplie-par-cinq-samedi-le-renfort-de-policiers-et-gendarmes-a-la-frontiere-franco-espagnole_8130686.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/SmLvGOHKqZMAO8uZuceVTJCak_c/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6d1964e0fe4825204146.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/la-france-multiplie-par-cinq-samedi-le-renfort-de-policiers-et-gendarmes-a-la-frontiere-franco-espagnole_8130686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/la-france-multiplie-par-cinq-samedi-le-renfort-de-policiers-et-gendarmes-a-la-frontiere-franco-espagnole_8130686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

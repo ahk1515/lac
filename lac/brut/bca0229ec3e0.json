@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T02:41:27.625839+00:00",
+  "_id": "bca0229ec3e0",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins quatre morts à Kiev après une attaque de missiles balistiques russes, selon les autorités ukrainiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins quatre morts à Kiev après une attaque de missiles balistiques russes, selon les autorités ukrainiennes"
+    },
+    "published": "Fri, 31 Jul 2026 23:29:15 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      21,
+      29,
+      15,
+      4,
+      212,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 03:18:25 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      1,
+      18,
+      25,
+      5,
+      213,
+      0
+    ],
+    "summary": "L’administration militaire de Kiev a fait également état d’au moins treize blessés suite à cette offensive russe. Elle précise qu’« un incendie s’est déclaré dans un immeuble de six étages, dans le [raïon] de Solomiansky à Kiev, à la suite de l’attaque ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’administration militaire de Kiev a fait également état d’au moins treize blessés suite à cette offensive russe. Elle précise qu’« un incendie s’est déclaré dans un immeuble de six étages, dans le [raïon] de Solomiansky à Kiev, à la suite de l’attaque »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-des-milliers-de-personnes-defilent-a-kiev-pour-reclamer-le-retour-de-mykhailo-fedorov-au-ministere-de-la-defense_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-des-milliers-de-personnes-defilent-a-kiev-pour-reclamer-le-retour-de-mykhailo-fedorov-au-ministere-de-la-defense_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-des-milliers-de-personnes-defilent-a-kiev-pour-reclamer-le-retour-de-mykhailo-fedorov-au-ministere-de-la-defense_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/1440/0/8640/4320/644/322/60/0/717dffc_ftp-1-7f06rq7jz2qy-4dca16d0b492467086532e7f8ad9ac1b-0-d4c99e0556484a4ebabfd7e90e8b301a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une attaque de missiles russes, à Kiev, le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP"
+  }
+}

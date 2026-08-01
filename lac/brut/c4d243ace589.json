@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T02:41:27.888029+00:00",
+  "_id": "c4d243ace589",
+  "brut": {
+    "title": "Ceuta : 48 000 migrants ont fait demi-tour vers le Maroc",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ceuta : 48 000 migrants ont fait demi-tour vers le Maroc"
+    },
+    "summary": "Sur les 60 000 personnes qui ont afflué ces derniers jours à Ceuta (Espagne), 48 000 sont déjà retournées au Maroc au 31 juillet, selon le gouvernement espagnol.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sur les 60 000 personnes qui ont afflué ces derniers jours à Ceuta (Espagne), 48 000 sont déjà retournées au Maroc au 31 juillet, selon le gouvernement espagnol."
+    },
+    "published": "Fri, 31 Jul 2026 23:55:49 +0200",
+    "published_parsed": [
+      2026,
+      7,
+      31,
+      21,
+      55,
+      49,
+      4,
+      212,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-48-000-migrants-ont-fait-demi-tour-vers-le-maroc_8130698.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/lTSEtnVQhqQSLhZn7XHwLUSUwaA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/31/6a6d19bc0f89b929161990.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-48-000-migrants-ont-fait-demi-tour-vers-le-maroc_8130698.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-48-000-migrants-ont-fait-demi-tour-vers-le-maroc_8130698.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
