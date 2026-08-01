@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T06:28:00.824721+00:00",
+  "_id": "1ae64d2bde7d",
+  "brut": {
+    "title": "D'anciens hauts fourneaux reconvertis en espace d’escalade en Allemagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "D'anciens hauts fourneaux reconvertis en espace d’escalade en Allemagne"
+    },
+    "summary": "🇩🇪 Quand rouille rime avec trouille. Les anciens hauts fourneaux de Duisbourg en Allemagne se sont reconvertis en espace d’escalade à sensations fortes. (Collection séries d'été France TV 2023)",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇩🇪 Quand rouille rime avec trouille. Les anciens hauts fourneaux de Duisbourg en Allemagne se sont reconvertis en espace d’escalade à sensations fortes. (Collection séries d'été France TV 2023)"
+    },
+    "published": "Sat, 01 Aug 2026 08:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      6,
+      0,
+      1,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sports/sports-extremes/d-anciens-hauts-fourneaux-reconvertis-en-espace-d-escalade-en-allemagne_8130047.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/i2Xy0MdiQ-ycjeIAR9pKDXgMofA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/31/6a6c7b346fd89129784650.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sports/sports-extremes/d-anciens-hauts-fourneaux-reconvertis-en-espace-d-escalade-en-allemagne_8130047.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sports/sports-extremes/d-anciens-hauts-fourneaux-reconvertis-en-espace-d-escalade-en-allemagne_8130047.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

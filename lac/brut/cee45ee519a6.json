@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T06:28:00.609310+00:00",
+  "_id": "cee45ee519a6",
+  "brut": {
+    "title": "Mohammed VI célèbre son règne en pleine crise migratoire avec l’Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mohammed VI célèbre son règne en pleine crise migratoire avec l’Espagne"
+    },
+    "published": "Sat, 01 Aug 2026 06:50:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      4,
+      50,
+      8,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 08:21:31 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      6,
+      21,
+      31,
+      5,
+      213,
+      0
+    ],
+    "summary": "Environ 50 000 personnes ont rejoint clandestinement l’enclave espagnole, jeudi. Un nombre record, alors que le roi du Maroc fête ses vingt-sept ans sur le trône.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Environ 50 000 personnes ont rejoint clandestinement l’enclave espagnole, jeudi. Un nombre record, alors que le roi du Maroc fête ses vingt-sept ans sur le trône."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/01/mohammed-vi-celebre-son-regne-en-pleine-crise-migratoire-avec-l-espagne_6737196_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/01/mohammed-vi-celebre-son-regne-en-pleine-crise-migratoire-avec-l-espagne_6737196_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/01/mohammed-vi-celebre-son-regne-en-pleine-crise-migratoire-avec-l-espagne_6737196_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/841/0/8256/4128/644/322/60/0/9859bee_upload-1-vgivnqzspwru-dsc9883.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mohammed VI, roi du Maroc, lors de la cérémonie d’allégeance de la Fête du trône, sur la place du Mechouar du palais royal de Tétouan, sur une photo publiée par l’agence de presse officielle du Maroc le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Driss Benmalek/Agence Maghreb arabe presse"
+      }
+    ],
+    "credit": "Driss Benmalek/Agence Maghreb arabe presse"
+  }
+}
