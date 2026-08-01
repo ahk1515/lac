@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T16:57:52.311423+00:00",
+  "_id": "7327db86f8b3",
+  "brut": {
+    "title": "Ceuta : l’UE convoque une réunion d’urgence afin d’échanger sur la crise migratoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ceuta : l’UE convoque une réunion d’urgence afin d’échanger sur la crise migratoire"
+    },
+    "published": "Sat, 01 Aug 2026 18:29:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      16,
+      29,
+      10,
+      5,
+      213,
+      0
+    ],
+    "summary": "Des dizaines de milliers de migrants ont pénétré illégalement ces derniers jours dans l’enclave espagnole de Ceuta en provenance du Maroc. L’Espagne a affirmé, samedi, que la plupart des migrants étaient rentrés au Maroc, le premier ministre espagnol, Pedro Sanchez, dénonçant l’attitude « égoïste » de certains pays de l’UE.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des dizaines de milliers de migrants ont pénétré illégalement ces derniers jours dans l’enclave espagnole de Ceuta en provenance du Maroc. L’Espagne a affirmé, samedi, que la plupart des migrants étaient rentrés au Maroc, le premier ministre espagnol, Pedro Sanchez, dénonçant l’attitude « égoïste » de certains pays de l’UE."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/01/ceuta-l-ue-convoque-une-reunion-d-urgence-afin-d-echanger-sur-la-crise-migratoire_6737238_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/01/ceuta-l-ue-convoque-une-reunion-d-urgence-afin-d-echanger-sur-la-crise-migratoire_6737238_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/01/ceuta-l-ue-convoque-une-reunion-d-urgence-afin-d-echanger-sur-la-crise-migratoire_6737238_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/347/0/7039/3519/644/322/60/0/ea75ae1_ftp-1-w1dxx3gozt2v-5754112-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une barrière flottante est déployée dans l’eau par un bateau de la garde civile espagnole pour renforcer la sécurité, à Ceuta (Espagne), le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JORGE GUERRERO/AFP"
+      }
+    ],
+    "credit": "JORGE GUERRERO/AFP"
+  }
+}

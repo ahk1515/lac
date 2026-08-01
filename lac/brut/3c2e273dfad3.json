@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T16:57:52.312849+00:00",
+  "_id": "3c2e273dfad3",
+  "brut": {
+    "title": "En Colombie, au moins 11 blessés dans l’explosion d’un camion piégé à Cucuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, au moins 11 blessés dans l’explosion d’un camion piégé à Cucuta"
+    },
+    "published": "Sat, 01 Aug 2026 15:32:35 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      13,
+      32,
+      35,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 17:31:46 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      15,
+      31,
+      46,
+      5,
+      213,
+      0
+    ],
+    "summary": "A quelques jours de l’investiture d’Abelardo de la Espriella, figure de l’extrême droite, l’explosion près d’un commissariat de police à Cucuta ravive les inquiétudes sur la sécurité et la montée des tensions en Colombie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A quelques jours de l’investiture d’Abelardo de la Espriella, figure de l’extrême droite, l’explosion près d’un commissariat de police à Cucuta ravive les inquiétudes sur la sécurité et la montée des tensions en Colombie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/01/en-colombie-au-moins-11-blesses-dans-l-explosion-d-un-camion-piege-a-cucuta_6737228_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/01/en-colombie-au-moins-11-blesses-dans-l-explosion-d-un-camion-piege-a-cucuta_6737228_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/01/en-colombie-au-moins-11-blesses-dans-l-explosion-d-un-camion-piege-a-cucuta_6737228_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/510/0/3629/1814/644/322/60/0/6c438e0_ftp-1-ootzy56hfrfp-5755045-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers inspectent l’épave d’un camion après l’explosion d’une voiture piégée près d’un commissariat de police à Cucuta, (Colombie), le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SCHNEYDER MENDOZA/AFP"
+      }
+    ],
+    "credit": "SCHNEYDER MENDOZA/AFP"
+  }
+}

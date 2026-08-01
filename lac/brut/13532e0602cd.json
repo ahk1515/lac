@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T16:57:52.312035+00:00",
+  "_id": "13532e0602cd",
+  "brut": {
+    "title": "Bande de Gaza : des frappes israéliennes font deux morts et endommagent les entrepôts d’un hôpital",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bande de Gaza : des frappes israéliennes font deux morts et endommagent les entrepôts d’un hôpital"
+    },
+    "published": "Sat, 01 Aug 2026 17:20:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      15,
+      20,
+      44,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sat, 01 Aug 2026 17:23:05 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      1,
+      15,
+      23,
+      5,
+      5,
+      213,
+      0
+    ],
+    "summary": "Ces frappes interviennent après l’annonce par le président américain, Donald Trump, puis par le Hamas palestinien de la conclusion d’un accord pour mettre fin à la guerre, qu’Israël n’a pour l’heure pas officiellement confirmée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces frappes interviennent après l’annonce par le président américain, Donald Trump, puis par le Hamas palestinien de la conclusion d’un accord pour mettre fin à la guerre, qu’Israël n’a pour l’heure pas officiellement confirmée."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/01/bande-de-gaza-des-frappes-israeliennes-font-deux-morts-et-endommagent-les-entrepots-d-un-hopital_6737234_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/01/bande-de-gaza-des-frappes-israeliennes-font-deux-morts-et-endommagent-les-entrepots-d-un-hopital_6737234_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/01/bande-de-gaza-des-frappes-israeliennes-font-deux-morts-et-endommagent-les-entrepots-d-un-hopital_6737234_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/973/0/8640/4320/644/322/60/0/ae699fc_ftp-1-5nivv2yq52re-2b6bfff933744a74a661a6d9a886926d-1-bc4306a46b674d06b586f002c38552ff.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la suite d’une frappe aérienne israélienne près de l’hôpital des Martyrs-d’Al-Aqsa, à Deir Al-Balah, dans le centre de la bande de Gaza, le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdel Kareem Hana/AP"
+      }
+    ],
+    "credit": "Abdel Kareem Hana/AP"
+  }
+}

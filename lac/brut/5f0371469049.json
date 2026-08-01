@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T16:57:52.311670+00:00",
+  "_id": "5f0371469049",
+  "brut": {
+    "title": "En Libye, les manifestations contre les coupures électriques fragilisent le pouvoir à Tripoli",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Libye, les manifestations contre les coupures électriques fragilisent le pouvoir à Tripoli"
+    },
+    "published": "Sat, 01 Aug 2026 18:00:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      16,
+      0,
+      9,
+      5,
+      213,
+      0
+    ],
+    "summary": "Plusieurs villes de l’Ouest libyen sont touchées par des manifestations provoquées par les coupures de courant. A Tripoli, certains habitants ont lancé un mouvement de désobéissance civile et demandent la démission du gouvernement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs villes de l’Ouest libyen sont touchées par des manifestations provoquées par les coupures de courant. A Tripoli, certains habitants ont lancé un mouvement de désobéissance civile et demandent la démission du gouvernement."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/01/en-libye-les-manifestations-contre-les-coupures-electriques-fragilisent-le-pouvoir-a-tripoli_6737237_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/01/en-libye-les-manifestations-contre-les-coupures-electriques-fragilisent-le-pouvoir-a-tripoli_6737237_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/01/en-libye-les-manifestations-contre-les-coupures-electriques-fragilisent-le-pouvoir-a-tripoli_6737237_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/0/0/3970/1985/644/322/60/0/d023b4a_upload-1-catefwptwgku-ap26024590541489.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Abdel Hamid Dbeibah, premier ministre libyen (à gauche), et Massad Boulos, conseiller du président Donald Trump, à Tripoli, le 24 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Yousef Murad/AP"
+      }
+    ],
+    "credit": "Yousef Murad/AP"
+  }
+}

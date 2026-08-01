@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T16:57:53.063311+00:00",
+  "_id": "ac5a06ad273b",
+  "brut": {
+    "title": "L'épidémie d'Ebola en République démocratique du Congo s'intensifie à un rythme \"exceptionnel\", avertit l'OMS",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épidémie d'Ebola en République démocratique du Congo s'intensifie à un rythme \"exceptionnel\", avertit l'OMS"
+    },
+    "summary": "Déclarée officiellement le 15 mai, avec plusieurs semaines de retard, la flambée actuelle est causée par le variant Bundibugyo, pour lequel il n'existe jusqu'à présent ni vaccin, ni traitement. Elle frappe des régions où la présence de l'Etat est fragile et les infrastructures de santé largement démunies.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Déclarée officiellement le 15 mai, avec plusieurs semaines de retard, la flambée actuelle est causée par le variant Bundibugyo, pour lequel il n'existe jusqu'à présent ni vaccin, ni traitement. Elle frappe des régions où la présence de l'Etat est fragile et les infrastructures de santé largement démunies."
+    },
+    "published": "Sat, 01 Aug 2026 15:36:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      13,
+      36,
+      52,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republiquedemocratique-du-congo-s-intensifie-a-un-rythme-exceptionnel-avertit-l-oms_8131370.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2W4yXMKbxfQmETfQaXPWlDDXusk/0x600:5760x3840/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6df5e39edb2684967138.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republiquedemocratique-du-congo-s-intensifie-a-un-rythme-exceptionnel-avertit-l-oms_8131370.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republiquedemocratique-du-congo-s-intensifie-a-un-rythme-exceptionnel-avertit-l-oms_8131370.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

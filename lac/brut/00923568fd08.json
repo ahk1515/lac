@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T16:57:52.312389+00:00",
+  "_id": "00923568fd08",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des bombardements nocturnes contre trois raffineries russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des bombardements nocturnes contre trois raffineries russes"
+    },
+    "published": "Sat, 01 Aug 2026 16:21:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      14,
+      21,
+      17,
+      5,
+      213,
+      0
+    ],
+    "summary": "Le président ukrainien a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions de son armée. Plus tôt dans la journée, le chef de la République de Bachkortostan, Radi Khabirov, avait dit avoir « repoussé une nouvelle attaque de drone » contre la ville d’Oufa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions de son armée. Plus tôt dans la journée, le chef de la République de Bachkortostan, Radi Khabirov, avait dit avoir « repoussé une nouvelle attaque de drone » contre la ville d’Oufa."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-nocturnes-contre-trois-raffineries-russes_6732775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-nocturnes-contre-trois-raffineries-russes_6732775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-nocturnes-contre-trois-raffineries-russes_6732775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/489/0/6048/3024/644/322/60/0/949cbe9_ftp-1-lzuz5jzeipl5-5753339-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la suite de frappes de missiles balistiques russes, à Kiev, le 1er août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GENYA SAVILOV/AFP"
+      }
+    ],
+    "credit": "GENYA SAVILOV/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-01T16:57:53.062770+00:00",
+  "_id": "3d9dc7816bb9",
+  "brut": {
+    "title": "Des sacs Lidl remplis de billets de banque s'échouent sur une plage en Sicile.",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des sacs Lidl remplis de billets de banque s'échouent sur une plage en Sicile."
+    },
+    "summary": "Des vacanciers ont eu la surprise de trouver des sacs Lidl remplis de billets de banque sur une plage sicilienne. La somme ? Près de 700 000 euros.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des vacanciers ont eu la surprise de trouver des sacs Lidl remplis de billets de banque sur une plage sicilienne. La somme ? Près de 700 000 euros."
+    },
+    "published": "Sat, 01 Aug 2026 16:56:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      14,
+      56,
+      16,
+      5,
+      213,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/des-sacs-lidl-remplis-de-billets-de-banque-s-echouent-sur-une-plage-en-sicile_8131451.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/ToUoHhLGOF8Ak-NvBs3jEmp4fmE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/01/6a6e08f76e906429913335.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/des-sacs-lidl-remplis-de-billets-de-banque-s-echouent-sur-une-plage-en-sicile_8131451.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/des-sacs-lidl-remplis-de-billets-de-banque-s-echouent-sur-une-plage-en-sicile_8131451.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

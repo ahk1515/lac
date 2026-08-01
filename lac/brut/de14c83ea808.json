@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-01T16:57:52.311179+00:00",
+  "_id": "de14c83ea808",
+  "brut": {
+    "title": "Au Royaume-Uni, les travaillistes conservent la mairie de Manchester après le départ d’Andy Burnham, désormais premier ministre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Royaume-Uni, les travaillistes conservent la mairie de Manchester après le départ d’Andy Burnham, désormais premier ministre"
+    },
+    "published": "Sat, 01 Aug 2026 18:56:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      16,
+      56,
+      21,
+      5,
+      213,
+      0
+    ],
+    "summary": "Bev Craig a remporté 47,15 % des voix, contre 21 % pour le parti d’extrême droite Reform UK dans cette vaste agglomération de 2,5 millions d’habitants dans le nord-ouest du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bev Craig a remporté 47,15 % des voix, contre 21 % pour le parti d’extrême droite Reform UK dans cette vaste agglomération de 2,5 millions d’habitants dans le nord-ouest du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/01/au-royaume-uni-les-travaillistes-conservent-la-mairie-de-manchester-apres-le-depart-d-andy-burnham-desormais-premier-ministre_6737239_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/01/au-royaume-uni-les-travaillistes-conservent-la-mairie-de-manchester-apres-le-depart-d-andy-burnham-desormais-premier-ministre_6737239_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/01/au-royaume-uni-les-travaillistes-conservent-la-mairie-de-manchester-apres-le-depart-d-andy-burnham-desormais-premier-ministre_6737239_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/255/0/2100/1050/644/322/60/0/16dbfcc_ftp-1-buobuwil9zar-0dc9385c97104cd7b592cdab6e7b9f8b-0-10bb9049835043e5b9a699b4dfd5cb45.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Bev Craig, la candidate du Parti travailliste, à Manchester, au Royaume-Uni, le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Annabelle Lee-Ellis / Annabelle Lee-Ellis/PA via AP"
+      }
+    ],
+    "credit": "Annabelle Lee-Ellis / Annabelle Lee-Ellis/PA via AP"
+  }
+}
