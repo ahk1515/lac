@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T16:56:47.940187+00:00",
+  "_id": "ba51368213bd",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie fait état de morts dans plusieurs régions après des bombardements ukrainiens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie fait état de morts dans plusieurs régions après des bombardements ukrainiens"
+    },
+    "published": "Sun, 02 Aug 2026 15:21:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      13,
+      21,
+      17,
+      6,
+      214,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 17:25:34 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      15,
+      25,
+      34,
+      6,
+      214,
+      0
+    ],
+    "summary": "Les autorités russes ont rapporté des morts en Oudmourtie, dans le centre de la Russie, ainsi que dans les régions de Belgorod, frontalière de l’Ukraine et régulièrement ciblée par les troupes de Kiev, et de Saratov.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités russes ont rapporté des morts en Oudmourtie, dans le centre de la Russie, ainsi que dans les régions de Belgorod, frontalière de l’Ukraine et régulièrement ciblée par les troupes de Kiev, et de Saratov."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-fait-etat-de-morts-dans-plusieurs-regions-apres-des-bombardements-ukrainiens_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-fait-etat-de-morts-dans-plusieurs-regions-apres-des-bombardements-ukrainiens_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-fait-etat-de-morts-dans-plusieurs-regions-apres-des-bombardements-ukrainiens_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/0/0/3592/1796/644/322/60/0/02586f4_ftp-1-gdn2vaordn22-2026-08-02t085902z-84844436-rc28qmae4s6l-rtrmadp-3-ukraine-crisis-russia-drones.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "De la fumée s’élève après une attaque par drone ukrainien contre un entrepôt commercial, dans la région de Samara (Russie), le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SOCIAL MEDIA via REUTERS"
+      }
+    ],
+    "credit": "SOCIAL MEDIA via REUTERS"
+  }
+}

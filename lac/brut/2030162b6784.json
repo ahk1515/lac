@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T16:56:48.227717+00:00",
+  "_id": "2030162b6784",
+  "brut": {
+    "title": "Les séries qui explorent l'histoire : \"Shogun\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les séries qui explorent l'histoire : \"Shogun\""
+    },
+    "summary": "Chaque dimanche, cet été, Laurent Valière revient sur une grande série qui revisite l'histoire. Aujourd'hui, l'histoire du Japon et \"Shogun\" disponible sur Disney +",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chaque dimanche, cet été, Laurent Valière revient sur une grande série qui revisite l'histoire. Aujourd'hui, l'histoire du Japon et \"Shogun\" disponible sur Disney +"
+    },
+    "published": "Sun, 02 Aug 2026 17:00:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      15,
+      0,
+      3,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/les-series-qui-explorent-l-histoire-shogun_8069765.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uVZwCh02DPE4mW6t5e8VyeTkbKk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/03/6a47de7ee92b0579413289.jpeg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/les-series-qui-explorent-l-histoire-shogun_8069765.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/les-series-qui-explorent-l-histoire-shogun_8069765.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

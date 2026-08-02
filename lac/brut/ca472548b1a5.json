@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T16:56:47.939185+00:00",
+  "_id": "ca472548b1a5",
+  "brut": {
+    "title": "Bande de Gaza : des bombardements israéliens font au moins 13 morts malgré l’accord annoncé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bande de Gaza : des bombardements israéliens font au moins 13 morts malgré l’accord annoncé"
+    },
+    "published": "Sun, 02 Aug 2026 17:41:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      15,
+      41,
+      25,
+      6,
+      214,
+      0
+    ],
+    "summary": "Les frappes israéliennes et les tirs qui se sont poursuivis dans la nuit de samedi à dimanche ont touché plusieurs immeubles d’habitation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les frappes israéliennes et les tirs qui se sont poursuivis dans la nuit de samedi à dimanche ont touché plusieurs immeubles d’habitation."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/bande-de-gaza-des-bombardements-israeliens-font-au-moins-13-morts-malgre-l-accord-annonce_6737303_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/bande-de-gaza-des-bombardements-israeliens-font-au-moins-13-morts-malgre-l-accord-annonce_6737303_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/bande-de-gaza-des-bombardements-israeliens-font-au-moins-13-morts-malgre-l-accord-annonce_6737303_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/130/0/6000/3000/644/322/60/0/00bc96a_ftp-1-cpwgieml7weh-2026-08-02t121953z-1005783615-rc2bqmanfkou-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des Palestiniens inspectent le lieu où, selon des secouristes, un véhicule a été touché par une frappe israélienne, à Deir Al-Balah, dans le centre de la bande de Gaza, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mahmoud Issa / REUTERS"
+      }
+    ],
+    "credit": "Mahmoud Issa / REUTERS"
+  }
+}

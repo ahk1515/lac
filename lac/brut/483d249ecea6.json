@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T16:56:48.227369+00:00",
+  "_id": "483d249ecea6",
+  "brut": {
+    "title": "Treize Palestiniens tués par des frappes israéliennes sur Gaza, malgré le cessez-le-feu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Treize Palestiniens tués par des frappes israéliennes sur Gaza, malgré le cessez-le-feu"
+    },
+    "summary": "Ces attaques surviennent au lendemain de frappes ayant tué sept personnes et gravement endommagé des entrepôts de fournitures médicales d'un hôpital.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces attaques surviennent au lendemain de frappes ayant tué sept personnes et gravement endommagé des entrepôts de fournitures médicales d'un hôpital."
+    },
+    "published": "Sun, 02 Aug 2026 17:32:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      15,
+      32,
+      18,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/treize-palestiniens-tues-par-des-frappes-israeliennes-sur-gaza-malgre-le-cessez-le-feu_8132387.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ISBRNtk_slaK8EZSddSdMNYNqZY/0x700:6720x4480/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f61ca5be57092508482.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/treize-palestiniens-tues-par-des-frappes-israeliennes-sur-gaza-malgre-le-cessez-le-feu_8132387.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/treize-palestiniens-tues-par-des-frappes-israeliennes-sur-gaza-malgre-le-cessez-le-feu_8132387.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
