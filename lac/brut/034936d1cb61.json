@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T09:55:20.744703+00:00",
+  "_id": "034936d1cb61",
+  "brut": {
+    "title": "Plusieurs victimes dans une fusillade mortelle dans l'ouest des Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plusieurs victimes dans une fusillade mortelle dans l'ouest des Etats-Unis"
+    },
+    "summary": "La fusillade \"a fait des victimes\", mais les autorités s'efforçaient encore de déterminer le nombre de personnes touchées, a-t-il déclaré. \"La scène était très chaotique\", a ajouté le chef de la police de Twin Falls, en Idaho, devant des journalistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La fusillade \"a fait des victimes\", mais les autorités s'efforçaient encore de déterminer le nombre de personnes touchées, a-t-il déclaré. \"La scène était très chaotique\", a ajouté le chef de la police de Twin Falls, en Idaho, devant des journalistes."
+    },
+    "published": "Sun, 02 Aug 2026 11:19:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      9,
+      19,
+      4,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/fusillades-aux-etats-unis/plusieurs-victimes-dans-une-fusillade-mortelle-dans-l-ouest-des-etats-unis_8132057.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6IskwhVWnZ78mDlYX2UJlQ8dmmI/0x66:1024x642/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f073f994a0209432849.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/fusillades-aux-etats-unis/plusieurs-victimes-dans-une-fusillade-mortelle-dans-l-ouest-des-etats-unis_8132057.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/fusillades-aux-etats-unis/plusieurs-victimes-dans-une-fusillade-mortelle-dans-l-ouest-des-etats-unis_8132057.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T09:55:20.745055+00:00",
+  "_id": "82ab40057349",
+  "brut": {
+    "title": "Explosion à Moscou : au moins 3 morts, un général de Poutine visé ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Explosion à Moscou : au moins 3 morts, un général de Poutine visé ?"
+    },
+    "summary": "Une explosion a fait 3 morts et 21 blessés à Moscou, samedi 1er août, dans un café de la capitale russe. Un évènement privé s'y déroulait, un général proche de Vladimir Poutine pourrait avoir été visé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une explosion a fait 3 morts et 21 blessés à Moscou, samedi 1er août, dans un café de la capitale russe. Un évènement privé s'y déroulait, un général proche de Vladimir Poutine pourrait avoir été visé."
+    },
+    "published": "Sun, 02 Aug 2026 11:36:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      9,
+      36,
+      57,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/explosion-a-moscou-au-moins-3-m-rts-un-general-de-poutine-vise_8132051.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/249iZXw7baagC2trcgRkfGSJMc0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/02/6a6efbb051701133111856.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/explosion-a-moscou-au-moins-3-m-rts-un-general-de-poutine-vise_8132051.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/explosion-a-moscou-au-moins-3-m-rts-un-general-de-poutine-vise_8132051.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

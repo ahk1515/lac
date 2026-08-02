@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T09:55:20.480625+00:00",
+  "_id": "92bb11e6e5c8",
+  "brut": {
+    "title": "Immigration en Europe : quelle place occupent Ceuta et Melilla ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Immigration en Europe : quelle place occupent Ceuta et Melilla ?"
+    },
+    "published": "Sun, 02 Aug 2026 11:12:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      9,
+      12,
+      59,
+      6,
+      214,
+      0
+    ],
+    "summary": "Si l’Espagne fait partie des principaux pays d’entrée dans l’Union européenne, aux côtés de la Grèce et de l’Italie, les flux arrivant dans ses deux enclaves du continent africain sont comparables à ceux d’autres routes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Si l’Espagne fait partie des principaux pays d’entrée dans l’Union européenne, aux côtés de la Grèce et de l’Italie, les flux arrivant dans ses deux enclaves du continent africain sont comparables à ceux d’autres routes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/immigration-en-europe-quelle-place-occupent-ceuta-et-melilla_6737279_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/immigration-en-europe-quelle-place-occupent-ceuta-et-melilla_6737279_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/immigration-en-europe-quelle-place-occupent-ceuta-et-melilla_6737279_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/509/0/4848/2424/644/322/60/0/fee25e9_ftp-1-fbg3adod4kqh-5ecada5f3584476e82ed3f38efc8af5a-0-e2cff63cadca4e81af4973f250b77ad8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Patrouille de la Garde civile le long des barrières flottantes au large de Ceuta, le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Antonio Sempere/AP"
+      }
+    ],
+    "credit": "Antonio Sempere/AP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T09:55:20.480801+00:00",
+  "_id": "fb5f025ad1b6",
+  "brut": {
+    "title": "Sri Lanka : l’armée déployée pour une nouvelle émeute en prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sri Lanka : l’armée déployée pour une nouvelle émeute en prison"
+    },
+    "published": "Sun, 02 Aug 2026 09:35:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      7,
+      35,
+      13,
+      6,
+      214,
+      0
+    ],
+    "summary": "L’établissement abrite 4 100 détenus, quatre fois sa capacité, une suroccupation fréquente dans les prisons de l’île, où une émeute a déjà fait 31 morts au début du mois de juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’établissement abrite 4 100 détenus, quatre fois sa capacité, une suroccupation fréquente dans les prisons de l’île, où une émeute a déjà fait 31 morts au début du mois de juillet."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/sri-lanka-l-armee-deployee-pour-une-nouvelle-emeute-en-prison_6737276_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/sri-lanka-l-armee-deployee-pour-une-nouvelle-emeute-en-prison_6737276_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/sri-lanka-l-armee-deployee-pour-une-nouvelle-emeute-en-prison_6737276_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/617/0/7406/3703/644/322/60/0/03df805_ftp-1-oi1zn50ik3ey-5759424-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des militaires de l’armée sri-lankaise ont investi la prison de Mahara, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ISHARA S. KODIKARA / AFP"
+      }
+    ],
+    "credit": "ISHARA S. KODIKARA / AFP"
+  }
+}

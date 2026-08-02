@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T09:55:20.481008+00:00",
+  "_id": "7b2c37c4136f",
+  "brut": {
+    "title": "La Corée du Sud enregistre un nouveau pic inédit de température, à 42,5 °C",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Corée du Sud enregistre un nouveau pic inédit de température, à 42,5 °C"
+    },
+    "published": "Sun, 02 Aug 2026 08:48:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      6,
+      48,
+      47,
+      6,
+      214,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 11:47:49 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      9,
+      47,
+      49,
+      6,
+      214,
+      0
+    ],
+    "summary": "Selon l’agence météorologique nationale KMA, le nombre annuel moyen de jours de vagues de chaleurs dans le pays est passé de huit dans les années 1970 à 19 sur les cinq dernières années.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon l’agence météorologique nationale KMA, le nombre annuel moyen de jours de vagues de chaleurs dans le pays est passé de huit dans les années 1970 à 19 sur les cinq dernières années."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/la-coree-du-sud-enregistre-un-nouveau-record-de-temperature-a-42-5-c_6737275_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/la-coree-du-sud-enregistre-un-nouveau-record-de-temperature-a-42-5-c_6737275_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/la-coree-du-sud-enregistre-un-nouveau-record-de-temperature-a-42-5-c_6737275_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/316/0/3793/1896/644/322/60/0/ed037a4_ftp-1-iu041waw6ty3-2026-07-31t153650z-1682946751-rc2yoma0wnx5-rtrmadp-3-southkorea-weather-heatwave.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une femme portant des vêtements la protégeant du soleil, à Séoul, le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kim Soo-hyeon / REUTERS"
+      }
+    ],
+    "credit": "Kim Soo-hyeon / REUTERS"
+  }
+}

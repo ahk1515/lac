@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T09:55:20.480009+00:00",
+  "_id": "d1338b7bb01c",
+  "brut": {
+    "title": "Le Chili en proie à une violente tempête et des inondations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Chili en proie à une violente tempête et des inondations"
+    },
+    "published": "Sun, 02 Aug 2026 11:39:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      9,
+      39,
+      0,
+      6,
+      214,
+      0
+    ],
+    "summary": "Plusieurs communes dans les régions du Maule et de Los Lagos sont en état d’alerte. Mi-juillet, une violente tempête avait déjà fait 13 morts et endommagé au moins 4 000 habitations dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs communes dans les régions du Maule et de Los Lagos sont en état d’alerte. Mi-juillet, une violente tempête avait déjà fait 13 morts et endommagé au moins 4 000 habitations dans le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/le-chili-en-proie-a-une-violente-tempete-et-des-inondations_6737280_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/le-chili-en-proie-a-une-violente-tempete-et-des-inondations_6737280_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/le-chili-en-proie-a-une-violente-tempete-et-des-inondations_6737280_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/84bfe61_upload-1-dzb9ln5kxh5k-modei-le.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "« Le Monde »"
+      }
+    ],
+    "credit": "« Le Monde »"
+  }
+}
