@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T20:54:04.039147+00:00",
+  "_id": "03bf3c0cb628",
+  "brut": {
+    "title": "Incendies en Grèce : deux hélicoptères entrent en collision, deux personnes sont mortes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendies en Grèce : deux hélicoptères entrent en collision, deux personnes sont mortes"
+    },
+    "summary": "En Grèce, les incendies sont toujours virulents et les pompiers luttent au péril de leur vie. En pleine intervention, dimanche 2 août, deux hélicoptères sont entrés en collision. Le pilote et le copilote de l'un d'entre eux ont été tués.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Grèce, les incendies sont toujours virulents et les pompiers luttent au péril de leur vie. En pleine intervention, dimanche 2 août, deux hélicoptères sont entrés en collision. Le pilote et le copilote de l'un d'entre eux ont été tués."
+    },
+    "published": "Sun, 02 Aug 2026 20:44:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      18,
+      44,
+      7,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gdhcVigh94zxqCXgh0W7UuVFpZI/0x27:1184x693/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f8de5adb6f052702731.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

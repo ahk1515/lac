@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T20:54:03.314592+00:00",
+  "_id": "60a39b1029d3",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : en une semaine, 1 900 drones et 144 missiles russes ont visé 16 régions ukrainiennes, selon Volodymyr Zelensky",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : en une semaine, 1 900 drones et 144 missiles russes ont visé 16 régions ukrainiennes, selon Volodymyr Zelensky"
+    },
+    "published": "Sun, 02 Aug 2026 22:26:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      20,
+      26,
+      45,
+      6,
+      214,
+      0
+    ],
+    "summary": "Le président ukrainien a dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Il y dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de différents types, dont des missiles balistiques tirés en direction de l’Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien a dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Il y dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de différents types, dont des missiles balistiques tirés en direction de l’Ukraine."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/483/0/5798/2899/644/322/60/0/30b51b0_ftp-1-4hfoljpdlddk-5760068-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une attaque aérienne à Kiev, samedi 1er août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EUGENE KOTENKO / AFP"
+      }
+    ],
+    "credit": "EUGENE KOTENKO / AFP"
+  }
+}

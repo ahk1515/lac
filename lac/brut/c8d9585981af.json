@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T20:54:03.314883+00:00",
+  "_id": "c8d9585981af",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz"
+    },
+    "published": "Sun, 02 Aug 2026 22:21:56 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      20,
+      21,
+      56,
+      6,
+      214,
+      0
+    ],
+    "summary": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/15/176/0/3804/1902/644/322/60/0/f2ed41f_ftp-1-tewmqrw3k4jk-2026-06-15t040321z-411865900-rc24ula5jepg-rtrmadp-3-iran-crisis-oman-hormuz.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Plusieurs bateaux attendent dans le détroit d’Ormuz, le 15 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}
