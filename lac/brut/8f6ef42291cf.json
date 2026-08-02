@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T13:17:51.557022+00:00",
+  "_id": "8f6ef42291cf",
+  "brut": {
+    "title": "Le corps de Nirmal Purja, alpiniste britannico-népalais mort dans une avalanche, a été retrouvé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le corps de Nirmal Purja, alpiniste britannico-népalais mort dans une avalanche, a été retrouvé"
+    },
+    "published": "Sun, 02 Aug 2026 12:32:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      10,
+      32,
+      36,
+      6,
+      214,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 14:07:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      12,
+      7,
+      18,
+      6,
+      214,
+      0
+    ],
+    "summary": "Une avalanche a emporté, jeudi, les dix membres d’une expédition internationale, dont le célèbre alpiniste, connu pour avoir gravi les 14 plus hauts sommets du monde en six mois, en 2019.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une avalanche a emporté, jeudi, les dix membres d’une expédition internationale, dont le célèbre alpiniste, connu pour avoir gravi les 14 plus hauts sommets du monde en six mois, en 2019."
+    },
+    "id": "https://www.lemonde.fr/sport/article/2026/08/02/le-corps-de-nirmal-purja-alpiniste-britannico-nepalais-mort-dans-une-avalanche-a-ete-retrouve_6737284_3242.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sport/article/2026/08/02/le-corps-de-nirmal-purja-alpiniste-britannico-nepalais-mort-dans-une-avalanche-a-ete-retrouve_6737284_3242.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sport/article/2026/08/02/le-corps-de-nirmal-purja-alpiniste-britannico-nepalais-mort-dans-une-avalanche-a-ete-retrouve_6737284_3242.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/670/0/6019/3009/644/322/60/0/334ece9_ftp-1-wflhxhinupdl-2026-08-01t121004z-62939663-rc2opmab85xj-rtrmadp-3-nepal-climbers-avalanche.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’alpiniste Nirmal Purja, à Katmandou (Népal), le 28 mai 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Navesh Chitrakar / REUTERS"
+      }
+    ],
+    "credit": "Navesh Chitrakar / REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T13:17:52.313430+00:00",
+  "_id": "66c1a6a4810c",
+  "brut": {
+    "title": "Le mafé, ambassadeur de la cuisine ouest-africaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le mafé, ambassadeur de la cuisine ouest-africaine"
+    },
+    "summary": "Le mafé, pas encore aussi connu que le couscous ou les sushis ?\nAbdoulaye Djikine veut populariser cette spécialité culinaire malienne. Il a ouvert avec son frère trois restaurants à Paris pour démocratiser la cuisine ouest africaine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le mafé, pas encore aussi connu que le couscous ou les sushis ?\nAbdoulaye Djikine veut populariser cette spécialité culinaire malienne. Il a ouvert avec son frère trois restaurants à Paris pour démocratiser la cuisine ouest africaine."
+    },
+    "published": "Sun, 02 Aug 2026 12:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      10,
+      0,
+      1,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/alimentation/le-mafe-ambassadeur-de-la-cuisine-ouest-africaine_8121035.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DjqXbjzMB5eKR9KwHmkIE6qxGdM/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/24/6a638ed18e0b2083399543.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/alimentation/le-mafe-ambassadeur-de-la-cuisine-ouest-africaine_8121035.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/alimentation/le-mafe-ambassadeur-de-la-cuisine-ouest-africaine_8121035.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

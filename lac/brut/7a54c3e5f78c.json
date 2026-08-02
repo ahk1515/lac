@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T13:17:52.311682+00:00",
+  "_id": "7a54c3e5f78c",
+  "brut": {
+    "title": "Une attaque à la bombe à Moscou fait 3 morts, le chef de l'armée de l'air potentiellement visé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque à la bombe à Moscou fait 3 morts, le chef de l'armée de l'air potentiellement visé"
+    },
+    "summary": "Un attentat à la bombe a eu lieu en plein Moscou dans la nuit du samedi 1er août. Au moins 3 personnes ont été tuées, un haut gradé de l'armée russe aurait été la cible de cette attaque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un attentat à la bombe a eu lieu en plein Moscou dans la nuit du samedi 1er août. Au moins 3 personnes ont été tuées, un haut gradé de l'armée russe aurait été la cible de cette attaque."
+    },
+    "published": "Sun, 02 Aug 2026 14:59:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      12,
+      59,
+      9,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/une-attaque-a-la-bombe-a-moscou-fait-3-morts-le-chef-de-l-armee-de-l-air-potentiellement-vise_8132237.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/td4TftD3J25HzkDL_-aYAOvHWYA/72x0:1416x756/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f3d02cded7206515201.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/une-attaque-a-la-bombe-a-moscou-fait-3-morts-le-chef-de-l-armee-de-l-air-potentiellement-vise_8132237.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/une-attaque-a-la-bombe-a-moscou-fait-3-morts-le-chef-de-l-armee-de-l-air-potentiellement-vise_8132237.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

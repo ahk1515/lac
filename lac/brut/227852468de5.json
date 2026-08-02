@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T13:17:52.313173+00:00",
+  "_id": "227852468de5",
+  "brut": {
+    "title": "Trois morts, une bombe artisanale, un haut gradé possiblement visé... Ce que l'on sait de l'explosion survenue dans un restaurant à Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Trois morts, une bombe artisanale, un haut gradé possiblement visé... Ce que l'on sait de l'explosion survenue dans un restaurant à Moscou"
+    },
+    "summary": "L'explosion survenue dans un restaurant de Moscou samedi soir pourrait avoir visé une réception réunissant des responsables militaires et politiques russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'explosion survenue dans un restaurant de Moscou samedi soir pourrait avoir visé une réception réunissant des responsables militaires et politiques russes."
+    },
+    "published": "Sun, 02 Aug 2026 12:45:29 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      10,
+      45,
+      29,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/trois-morts-une-bombe-artisanale-un-haut-grade-possiblement-vise-ce-que-l-on-sait-de-l-explosion-survenue-dans-un-restaurant-a-moscou_8132000.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CTeobHenjcfXr8PHOos4-CEdg4c/0x315:6048x3717/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f0286cbaff521349267.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/trois-morts-une-bombe-artisanale-un-haut-grade-possiblement-vise-ce-que-l-on-sait-de-l-explosion-survenue-dans-un-restaurant-a-moscou_8132000.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/trois-morts-une-bombe-artisanale-un-haut-grade-possiblement-vise-ce-que-l-on-sait-de-l-explosion-survenue-dans-un-restaurant-a-moscou_8132000.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

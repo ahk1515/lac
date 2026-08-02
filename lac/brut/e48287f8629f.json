@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T13:17:51.557219+00:00",
+  "_id": "e48287f8629f",
+  "brut": {
+    "title": "En Indonésie, un incendie sur un ferry fait au moins cinq morts et 41 disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Indonésie, un incendie sur un ferry fait au moins cinq morts et 41 disparus"
+    },
+    "published": "Sun, 02 Aug 2026 11:58:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      9,
+      58,
+      41,
+      6,
+      214,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 14:17:49 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      12,
+      17,
+      49,
+      6,
+      214,
+      0
+    ],
+    "summary": "Le ferry reliait Surabaya, deuxième ville du pays, située dans la province de Java oriental, à Makassar, dans la province de Sulawesi du Sud, et transportait 271 personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ferry reliait Surabaya, deuxième ville du pays, située dans la province de Java oriental, à Makassar, dans la province de Sulawesi du Sud, et transportait 271 personnes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/en-indonesie-un-incendie-sur-un-ferry-fait-cinq-morts-et-41-disparus-selon-les-secours_6737281_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/en-indonesie-un-incendie-sur-un-ferry-fait-cinq-morts-et-41-disparus-selon-les-secours_6737281_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/en-indonesie-un-incendie-sur-un-ferry-fait-cinq-morts-et-41-disparus-selon-les-secours_6737281_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/53/0/4615/2307/644/322/60/0/8af71ac_ftp-1-faqua90l40ql-5759846-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette capture d’écran, tirée d’une vidéo diffusée par l’Agence nationale indonésienne de recherche et de sauvetage (Basarnas), montre le navire de passagers Mutiara Sentosa 2 en proie aux flammes au large de l’île de Madura, dans l’est de Java (Indonésie), photo publiée le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Basarnas via AFP"
+      }
+    ],
+    "credit": "Basarnas via AFP"
+  }
+}

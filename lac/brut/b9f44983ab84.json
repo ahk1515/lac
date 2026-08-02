@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T13:17:52.312913+00:00",
+  "_id": "b9f44983ab84",
+  "brut": {
+    "title": "Le Maroc baptise une autoroute du nom de Donald Trump au Sahara occidental",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Maroc baptise une autoroute du nom de Donald Trump au Sahara occidental"
+    },
+    "summary": "L'ouvrage s'étend sur 1 055 kilomètres, ce qui en fait \"la plus longue infrastructure routière de toute l'Afrique\", a précisé le roi Mohammed VI, dans une lettre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ouvrage s'étend sur 1 055 kilomètres, ce qui en fait \"la plus longue infrastructure routière de toute l'Afrique\", a précisé le roi Mohammed VI, dans une lettre."
+    },
+    "published": "Sun, 02 Aug 2026 12:48:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      10,
+      48,
+      24,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/sahara-occidental/le-maroc-baptise-une-autoroute-du-nom-de-donald-trump-au-sahara-occidental_8132177.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dC5EWAkWxOMZsdNocuQ1nvpeUi4/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f1cdbbfded299174935.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/sahara-occidental/le-maroc-baptise-une-autoroute-du-nom-de-donald-trump-au-sahara-occidental_8132177.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/sahara-occidental/le-maroc-baptise-une-autoroute-du-nom-de-donald-trump-au-sahara-occidental_8132177.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

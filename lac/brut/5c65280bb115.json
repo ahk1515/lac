@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T13:17:51.556411+00:00",
+  "_id": "5c65280bb115",
+  "brut": {
+    "title": "VIDÉO. « Je préfère mourir ici que de repartir » : quelques migrants entrés à Ceuta illégalement tentent de rester en Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDÉO. « Je préfère mourir ici que de repartir » : quelques migrants entrés à Ceuta illégalement tentent de rester en Espagne"
+    },
+    "published": "Sun, 02 Aug 2026 14:34:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      12,
+      34,
+      11,
+      6,
+      214,
+      0
+    ],
+    "summary": "Après la ruée de migrants vers ce territoire espagnol, les autorités espagnoles dénombrent au moins 72 morts, principalement par noyade.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après la ruée de migrants vers ce territoire espagnol, les autorités espagnoles dénombrent au moins 72 morts, principalement par noyade."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/08/02/video-je-prefere-mourir-ici-que-de-repartir-quelques-migrants-entres-a-ceuta-illegalement-tentent-de-rester-en-espagne_6737295_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/08/02/video-je-prefere-mourir-ici-que-de-repartir-quelques-migrants-entres-a-ceuta-illegalement-tentent-de-rester-en-espagne_6737295_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/08/02/video-je-prefere-mourir-ici-que-de-repartir-quelques-migrants-entres-a-ceuta-illegalement-tentent-de-rester-en-espagne_6737295_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/463/0/5348/2674/644/322/60/0/b37e6b2_ftp-1-zxpjhwoamu8q-2026-08-01t121032z-427836803-rc2npmapipj7-rtrmadp-3-migration-europe-spain-ceuta.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un migrant, sur la côte de l’enclave espagnole de Ceuta, le 1er août 2026. REUTERS/Violeta Santos Moura"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Violeta Santos Moura / REUTERS"
+      }
+    ],
+    "credit": "Violeta Santos Moura / REUTERS"
+  }
+}

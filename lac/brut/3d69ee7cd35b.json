@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T13:17:52.312643+00:00",
+  "_id": "3d69ee7cd35b",
+  "brut": {
+    "title": "À Ceuta, l'Espagne installe une barrière flottante pour empêcher les traversées de migrants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Ceuta, l'Espagne installe une barrière flottante pour empêcher les traversées de migrants"
+    },
+    "summary": "L'Espagne a installé samedi 1er août une barrière flottante entre Ceuta et Fnideq, au Maroc. Le but ? Empêcher les traversées de migrants comme lors des 30 et 31 juillet dernier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Espagne a installé samedi 1er août une barrière flottante entre Ceuta et Fnideq, au Maroc. Le but ? Empêcher les traversées de migrants comme lors des 30 et 31 juillet dernier."
+    },
+    "published": "Sun, 02 Aug 2026 14:03:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      12,
+      3,
+      17,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/a-ceuta-l-espagne-installe-une-barriere-flottante-pour-empecher-les-traversees-de-migrants_8132219.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/epqo3TjQc2q6eADyjtzursuo2jU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/02/6a6f31ef089e4107961065.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/a-ceuta-l-espagne-installe-une-barriere-flottante-pour-empecher-les-traversees-de-migrants_8132219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/a-ceuta-l-espagne-installe-une-barriere-flottante-pour-empecher-les-traversees-de-migrants_8132219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
