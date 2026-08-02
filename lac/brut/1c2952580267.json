@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T06:31:37.401702+00:00",
+  "_id": "1c2952580267",
+  "brut": {
+    "title": "« Le premier mandat de Donald Trump annonçait déjà la débâcle actuelle au Moyen-Orient »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le premier mandat de Donald Trump annonçait déjà la débâcle actuelle au Moyen-Orient »"
+    },
+    "published": "Sun, 02 Aug 2026 07:00:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      0,
+      11,
+      6,
+      214,
+      0
+    ],
+    "summary": "Dès 2020, le président Trump avait fragilisé les Etats-Unis en capitulant face aux talibans, tandis que l’Iran et ses partisans multipliaient déjà les attaques contre les bases américaines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dès 2020, le président Trump avait fragilisé les Etats-Unis en capitulant face aux talibans, tandis que l’Iran et ses partisans multipliaient déjà les attaques contre les bases américaines."
+    },
+    "id": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/02/le-premier-mandat-de-donald-trump-annoncait-deja-la-debacle-actuelle-au-moyen-orient_6737267_6116995.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/02/le-premier-mandat-de-donald-trump-annoncait-deja-la-debacle-actuelle-au-moyen-orient_6737267_6116995.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/02/le-premier-mandat-de-donald-trump-annoncait-deja-la-debacle-actuelle-au-moyen-orient_6737267_6116995.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/48/0/3254/1627/644/322/60/0/18e35e7_ftp-1-a3sbqz01x5cr-28a4c8a1fadc4ce9b80a518011f6e5e7-0-086239de8d3f487ea225d0d0ebaec6bb.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump à l’aéroport de Morristown (New Jersey), aux Etats-Unis, le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jacquelyn Martin/AP"
+      }
+    ],
+    "credit": "Jacquelyn Martin/AP"
+  }
+}

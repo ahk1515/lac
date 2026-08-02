@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T06:31:37.476884+00:00",
+  "_id": "be173fa5c2b3",
+  "brut": {
+    "title": "Le crash d'un avion transportant des touristes au Pérou fait treize morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le crash d'un avion transportant des touristes au Pérou fait treize morts"
+    },
+    "summary": "Onze touristes étaient à bord de l'avion : sept Italiens, deux Allemands et deux Espagnols. Les victimes étaient âgées de 24 à 78 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Onze touristes étaient à bord de l'avion : sept Italiens, deux Allemands et deux Espagnols. Les victimes étaient âgées de 24 à 78 ans."
+    },
+    "published": "Sun, 02 Aug 2026 07:36:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      36,
+      33,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/le-crash-d-un-avion-transportant-des-touristes-au-perou-fait-treize-morts_8131931.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Yzp_TlhRxmXKi7btVWvBMP_59jA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ed6443ede3804756955.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/le-crash-d-un-avion-transportant-des-touristes-au-perou-fait-treize-morts_8131931.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/le-crash-d-un-avion-transportant-des-touristes-au-perou-fait-treize-morts_8131931.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

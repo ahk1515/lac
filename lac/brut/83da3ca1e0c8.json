@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-02T06:31:37.476709+00:00",
+  "_id": "83da3ca1e0c8",
+  "brut": {
+    "title": "Gaza : sept morts après des bombardements israéliens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Gaza : sept morts après des bombardements israéliens"
+    },
+    "summary": "Au Proche-Orient, des frappes israéliennes sur Gaza ont tué sept personnes entre le vendredi 31 juillet et le samedi 1er août et gravement endommagé des entrepôts de fournitures médicales d’un hôpital. Des frappes qui interviennent après l’annonce par Donald Trump puis par le Hamas d’un accord pour mettre fin à la guerre qu’Israël n’a pas encore confirmé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Proche-Orient, des frappes israéliennes sur Gaza ont tué sept personnes entre le vendredi 31 juillet et le samedi 1er août et gravement endommagé des entrepôts de fournitures médicales d’un hôpital. Des frappes qui interviennent après l’annonce par Donald Trump puis par le Hamas d’un accord pour mettre fin à la guerre qu’Israël n’a pas encore confirmé."
+    },
+    "published": "Sun, 02 Aug 2026 07:53:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      53,
+      27,
+      6,
+      214,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/gaza-sept-morts-apres-des-bombardements-israeliens_8131946.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0kH4ZulYs2Bo8CCTKuOnbL3XuNo/200x0:1706x847/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6eda72bda72282466506.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/gaza-sept-morts-apres-des-bombardements-israeliens_8131946.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/gaza-sept-morts-apres-des-bombardements-israeliens_8131946.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

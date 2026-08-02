@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T06:31:37.402951+00:00",
+  "_id": "40e99048b4c8",
+  "brut": {
+    "title": "Au Cambodge, malgré sept mois sans combat, les vies bouleversées par le conflit à la frontière thaïlandaise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Cambodge, malgré sept mois sans combat, les vies bouleversées par le conflit à la frontière thaïlandaise"
+    },
+    "published": "Sun, 02 Aug 2026 05:30:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      3,
+      30,
+      11,
+      6,
+      214,
+      0
+    ],
+    "summary": "Les deux vagues d’affrontements, en juillet puis en décembre 2025, ont ébranlé le quotidien des Khmers résidant près de la frontière avec la Thaïlande. Terres perdues, revenus fragilisés, peur d’une reprise des hostilités : plus de sept mois après une trêve précaire, le retour à la normale reste hors de portée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les deux vagues d’affrontements, en juillet puis en décembre 2025, ont ébranlé le quotidien des Khmers résidant près de la frontière avec la Thaïlande. Terres perdues, revenus fragilisés, peur d’une reprise des hostilités : plus de sept mois après une trêve précaire, le retour à la normale reste hors de portée."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/au-cambodge-malgre-sept-mois-sans-combat-les-vies-bouleversees-par-le-conflit-a-la-frontiere-thailandaise_6737253_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/au-cambodge-malgre-sept-mois-sans-combat-les-vies-bouleversees-par-le-conflit-a-la-frontiere-thailandaise_6737253_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/au-cambodge-malgre-sept-mois-sans-combat-les-vies-bouleversees-par-le-conflit-a-la-frontiere-thailandaise_6737253_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/1672/0/8064/4032/644/322/60/0/ba74120_upload-1-7jkgfoadt7ta-img-6665.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Aun Sokum, 32 ans, et son fils, dans leur épicerie, à Ta Moan Senchey (Cambodge), le 3 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dinh Tiên"
+      }
+    ],
+    "credit": "Dinh Tiên"
+  }
+}

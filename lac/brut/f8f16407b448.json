@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T06:31:37.401268+00:00",
+  "_id": "f8f16407b448",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie annonce avoir détruit 635 drones ukrainiens dans la nuit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie annonce avoir détruit 635 drones ukrainiens dans la nuit"
+    },
+    "published": "Sun, 02 Aug 2026 07:32:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      32,
+      27,
+      6,
+      214,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 07:42:43 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      42,
+      43,
+      6,
+      214,
+      0
+    ],
+    "summary": "Les frappes ukrainiennes ont fait deux morts dans l’oblast de Saratov. Un incendie s’est par ailleurs déclaré dans un entrepôt de Wildberries dans la région russe de Samara.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les frappes ukrainiennes ont fait deux morts dans l’oblast de Saratov. Un incendie s’est par ailleurs déclaré dans un entrepôt de Wildberries dans la région russe de Samara."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/164/0/2953/1476/644/322/60/0/fc302e6_upload-1-db9v17nvqfw2-2026-07-19-heg-ukraine-0926.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats ukrainiens durant une opération d’attaque de drone sur la Crimée de la 414e brigade d’aviation de frappe sans pilote, dite « Les oiseaux de Magyar »."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GUILLAUME HERBAUT POUR « LE MONDE »"
+      }
+    ],
+    "credit": "GUILLAUME HERBAUT POUR « LE MONDE »"
+  }
+}

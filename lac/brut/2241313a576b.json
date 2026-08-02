@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T06:31:37.401479+00:00",
+  "_id": "2241313a576b",
+  "brut": {
+    "title": "La mention « généré par IA » devient obligatoire dans l’UE",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mention « généré par IA » devient obligatoire dans l’UE"
+    },
+    "published": "Sun, 02 Aug 2026 07:28:29 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      28,
+      29,
+      6,
+      214,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 07:57:12 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      57,
+      12,
+      6,
+      214,
+      0
+    ],
+    "summary": "Une disposition-clé du règlement européen sur l’intelligence artificielle entre en vigueur dimanche 2 août. Les concepteurs et utilisateurs professionnels de systèmes d’IA devront mentionner que leurs contenus ont été créés par cette technologie, sous peine d’amendes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une disposition-clé du règlement européen sur l’intelligence artificielle entre en vigueur dimanche 2 août. Les concepteurs et utilisateurs professionnels de systèmes d’IA devront mentionner que leurs contenus ont été créés par cette technologie, sous peine d’amendes."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/482/0/5792/2896/644/322/60/0/da086ad_upload-1-xfdlbtwczvvo-000-b6ky9t3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le logo « intelligence artificielle » affiché sur l’écran d’un smartphone, à Bruxelles, le 10 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NICOLAS TUCAT / AFP"
+      }
+    ],
+    "credit": "NICOLAS TUCAT / AFP"
+  }
+}

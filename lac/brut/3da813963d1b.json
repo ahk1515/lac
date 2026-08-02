@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T06:31:37.401891+00:00",
+  "_id": "3da813963d1b",
+  "brut": {
+    "title": "A Fnideq, près de Ceuta, la désillusion des jeunes Marocains après une traversée éclair en Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Fnideq, près de Ceuta, la désillusion des jeunes Marocains après une traversée éclair en Europe"
+    },
+    "published": "Sun, 02 Aug 2026 06:35:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      4,
+      35,
+      10,
+      6,
+      214,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 07:38:36 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      38,
+      36,
+      6,
+      214,
+      0
+    ],
+    "summary": "Alors que 50 000 personnes, de jeunes Marocains pour l’essentiel, se ruaient sur l’enclave espagnole jeudi et vendredi, Ceuta est désormais désertée, la plupart des candidats à l’exil ayant fait demi-tour.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que 50 000 personnes, de jeunes Marocains pour l’essentiel, se ruaient sur l’enclave espagnole jeudi et vendredi, Ceuta est désormais désertée, la plupart des candidats à l’exil ayant fait demi-tour."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/02/a-fnideq-pres-de-ceuta-la-desillusion-des-jeunes-marocains-apres-une-traversee-eclair-en-europe_6737266_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/02/a-fnideq-pres-de-ceuta-la-desillusion-des-jeunes-marocains-apres-une-traversee-eclair-en-europe_6737266_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/02/a-fnideq-pres-de-ceuta-la-desillusion-des-jeunes-marocains-apres-une-traversee-eclair-en-europe_6737266_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/184/0/7194/3597/644/322/60/0/002e51f_ftp-1-s3uex6hirack-1ed47e2b47cb42eabfa26decf8843ea8-0-5fdcb166185e46359097aee46a1d710c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes ayant franchi la frontière espagnole retournent au Maroc, au départ de l’enclave espagnole de Ceuta, le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bernat Armangue/AP"
+      }
+    ],
+    "credit": "Bernat Armangue/AP"
+  }
+}

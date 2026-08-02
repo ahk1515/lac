@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T06:31:37.401049+00:00",
+  "_id": "bd8a7eb3733b",
+  "brut": {
+    "title": "En Chine, le bilan de la crue soudaine dans le nord-ouest du pays s’alourdit, passant à 25 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, le bilan de la crue soudaine dans le nord-ouest du pays s’alourdit, passant à 25 morts"
+    },
+    "published": "Sun, 02 Aug 2026 07:53:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      5,
+      53,
+      14,
+      6,
+      214,
+      0
+    ],
+    "summary": "La Chine a été durement touchée par des conditions météorologiques extrêmes cet été. En juillet, deux glissements de terrain distincts, dans la province du Gansu et à Chongqing, ont respectivement fait 21 et 51 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Chine a été durement touchée par des conditions météorologiques extrêmes cet été. En juillet, deux glissements de terrain distincts, dans la province du Gansu et à Chongqing, ont respectivement fait 21 et 51 morts."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/en-chine-le-bilan-de-la-crue-soudaine-dans-le-nord-ouest-du-pays-s-alourdit-passant-a-25-morts_6737270_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/en-chine-le-bilan-de-la-crue-soudaine-dans-le-nord-ouest-du-pays-s-alourdit-passant-a-25-morts_6737270_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/en-chine-le-bilan-de-la-crue-soudaine-dans-le-nord-ouest-du-pays-s-alourdit-passant-a-25-morts_6737270_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/504/0/4032/2016/644/322/60/0/cdb77e2_ftp-1-smsi0ez1niap-2026-07-28t022038z-526330111-rc2rlmaaxi06-rtrmadp-3-china-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes interviennent après la crue, dans la ville de Dingxi, dans la province chinoise du Gansu, le 26 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "cnsphoto / via REUTERS"
+      }
+    ],
+    "credit": "cnsphoto / via REUTERS"
+  }
+}

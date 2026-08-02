@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T06:31:37.402090+00:00",
+  "_id": "e5c45f3fa54b",
+  "brut": {
+    "title": "L’Eglise de France se prépare à la visite historique du pape Léon XIV en septembre, avec une messe géante sur les Champs-Elysées en point d’orgue",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Eglise de France se prépare à la visite historique du pape Léon XIV en septembre, avec une messe géante sur les Champs-Elysées en point d’orgue"
+    },
+    "published": "Sun, 02 Aug 2026 06:30:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      4,
+      30,
+      8,
+      6,
+      214,
+      0
+    ],
+    "summary": "Le souverain pontife se rendra à Paris, à Lourdes et à Metz entre le 25 et le 28 septembre. Il s’agit de la première visite pontificale formelle en France depuis près de vingt ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le souverain pontife se rendra à Paris, à Lourdes et à Metz entre le 25 et le 28 septembre. Il s’agit de la première visite pontificale formelle en France depuis près de vingt ans."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/08/02/l-eglise-de-france-se-prepare-a-la-visite-historique-du-pape-leon-xiv-en-septembre-avec-une-messe-geante-sur-les-champs-elysees-en-point-d-orgue_6737262_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/08/02/l-eglise-de-france-se-prepare-a-la-visite-historique-du-pape-leon-xiv-en-septembre-avec-une-messe-geante-sur-les-champs-elysees-en-point-d-orgue_6737262_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/08/02/l-eglise-de-france-se-prepare-a-la-visite-historique-du-pape-leon-xiv-en-septembre-avec-une-messe-geante-sur-les-champs-elysees-en-point-d-orgue_6737262_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/26/160/0/4638/2319/644/322/60/0/99af81f_ftp-1-mghmi9wsu3kf-5710005-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le pape Léon XIV, à l’entrée du palais pontifical de Castel Gandolfo (Italie), le 26 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TIZIANA FABI/AFP"
+      }
+    ],
+    "credit": "TIZIANA FABI/AFP"
+  }
+}
