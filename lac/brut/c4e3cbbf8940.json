@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-02T02:40:13.863520+00:00",
+  "_id": "c4e3cbbf8940",
+  "brut": {
+    "title": "Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca"
+    },
+    "published": "Sun, 02 Aug 2026 00:39:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      1,
+      22,
+      39,
+      23,
+      5,
+      213,
+      0
+    ],
+    "updated": "Sun, 02 Aug 2026 04:14:17 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      2,
+      2,
+      14,
+      17,
+      6,
+      214,
+      0
+    ],
+    "summary": "Selon la radio RPP, sept Italiens, deux Allemands et deux Espagnols se trouvent parmi les victimes. Il n’y a aucun survivant, a confirmé la police qui n’a pas précisé les causes de l’accident survenu lors d’une visite aérienne de ce réputé site archéologique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon la radio RPP, sept Italiens, deux Allemands et deux Espagnols se trouvent parmi les victimes. Il n’y a aucun survivant, a confirmé la police qui n’a pas précisé les causes de l’accident survenu lors d’une visite aérienne de ce réputé site archéologique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/02/au-perou-treize-personnes-dont-onze-etrangers-meurent-dans-le-crash-d-un-avion-touristique-pres-du-site-des-lignes-de-nazca_6737245_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/02/au-perou-treize-personnes-dont-onze-etrangers-meurent-dans-le-crash-d-un-avion-touristique-pres-du-site-des-lignes-de-nazca_6737245_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/02/au-perou-treize-personnes-dont-onze-etrangers-meurent-dans-le-crash-d-un-avion-touristique-pres-du-site-des-lignes-de-nazca_6737245_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2023/02/09/437/0/5183/2591/644/322/60/0/ef0a3f4_1675946718685-pns-4078815.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue aérienne des lignes de Nazca, au Pérou."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Karol Kozlowski/robertharding/Photononstop"
+      }
+    ],
+    "credit": "Karol Kozlowski/robertharding/Photononstop"
+  }
+}
