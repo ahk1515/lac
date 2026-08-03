@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T06:58:46.665764+00:00",
+  "_id": "68ef8ab11c06",
+  "brut": {
+    "title": "A Ceuta, les habitants entre colère, angoisse et compassion",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Ceuta, les habitants entre colère, angoisse et compassion"
+    },
+    "published": "Mon, 03 Aug 2026 06:15:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      4,
+      15,
+      7,
+      0,
+      215,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 08:55:23 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      55,
+      23,
+      0,
+      215,
+      0
+    ],
+    "summary": "Deux jours après que l’enclave a vu affluer 50 000 personnes depuis la frontière marocaine, la cité a retrouvé son calme, dimanche, mais les habitants disent s’être sentis abandonnés par Madrid.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux jours après que l’enclave a vu affluer 50 000 personnes depuis la frontière marocaine, la cité a retrouvé son calme, dimanche, mais les habitants disent s’être sentis abandonnés par Madrid."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/03/a-ceuta-les-habitants-entre-colere-angoisse-et-compassion_6737336_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/03/a-ceuta-les-habitants-entre-colere-angoisse-et-compassion_6737336_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/03/a-ceuta-les-habitants-entre-colere-angoisse-et-compassion_6737336_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/1071/0/7788/3894/644/322/60/0/993bb48_ftp-1-rlz2tq9jfeiq-bd0b5b5a7226494b9a95542b4d0b8892-2-108c6e24acd0475a8159d63546c46628.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une habitante de Ceuta (Espagne) attend son bus tandis que des personnes entrées illégalement sont escortées par des soldats espagnols vers la frontière marocaine, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bernat Armangue/AP"
+      }
+    ],
+    "credit": "Bernat Armangue/AP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T06:58:47.002226+00:00",
+  "_id": "e30e1b89f4d8",
+  "brut": {
+    "title": "Une frappe de drone fait 35 morts au Soudan, selon une ONG",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une frappe de drone fait 35 morts au Soudan, selon une ONG"
+    },
+    "summary": "Le conflit entre l'armée et les Forces de soutien rapide, qui a éclaté en avril 2023, a fait des dizaines de milliers de morts et déclenché une des plus graves crises humanitaires au monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le conflit entre l'armée et les Forces de soutien rapide, qui a éclaté en avril 2023, a fait des dizaines de milliers de morts et déclenché une des plus graves crises humanitaires au monde."
+    },
+    "published": "Mon, 03 Aug 2026 08:45:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      45,
+      5,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/soudan/une-frappe-de-drone-fait-35-morts-au-soudan-selon-une-ong_8132849.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/1ModFH5h2XJ2y8dVzMYywPn5G-8/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/03/6a703818cd658733768225.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/soudan/une-frappe-de-drone-fait-35-morts-au-soudan-selon-une-ong_8132849.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/soudan/une-frappe-de-drone-fait-35-morts-au-soudan-selon-une-ong_8132849.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T06:58:46.665056+00:00",
+  "_id": "55057e7bb064",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Mon, 03 Aug 2026 08:09:15 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      9,
+      15,
+      0,
+      215,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 08:16:56 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      16,
+      56,
+      0,
+      215,
+      0
+    ],
+    "summary": "Moscou dit avoir intercepté 245 drones ukrainiens au-dessus de plusieurs régions russes, dans la journée de dimanche. Le président ukrainien a, lui, dressé le bilan d’une semaine de frappes russes contre l’Ukraine et affirme que 16 régions ont été visées par environ 1 900 drones et près de 1 600 bombes aériennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Moscou dit avoir intercepté 245 drones ukrainiens au-dessus de plusieurs régions russes, dans la journée de dimanche. Le président ukrainien a, lui, dressé le bilan d’une semaine de frappes russes contre l’Ukraine et affirme que 16 régions ont été visées par environ 1 900 drones et près de 1 600 bombes aériennes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-les-dernieres-informations_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-les-dernieres-informations_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-les-dernieres-informations_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/141/0/3623/1811/644/322/60/0/5f871e7_ftp-1-6swntx4burih-2026-08-02t172713z-840636629-rc2gqmacuz3s-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Evacuation de résidents d’un immeuble touché par une frappe aérienne russe, à Zaporijia (Ukraine), le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

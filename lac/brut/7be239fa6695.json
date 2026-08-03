@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T06:58:46.666367+00:00",
+  "_id": "7be239fa6695",
+  "brut": {
+    "title": "Au Brésil, Lula officialise sa candidature à l’élection présidentielle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, Lula officialise sa candidature à l’élection présidentielle"
+    },
+    "published": "Mon, 03 Aug 2026 06:00:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      4,
+      0,
+      14,
+      0,
+      215,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 08:54:08 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      54,
+      8,
+      0,
+      215,
+      0
+    ],
+    "summary": "L’actuel chef de l’Etat, âgé de 80 ans, leader de la gauche, se présente le 4 octobre pour un quatrième mandat. Il reste le mieux placé pour remporter le scrutin face à l’extrême droite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’actuel chef de l’Etat, âgé de 80 ans, leader de la gauche, se présente le 4 octobre pour un quatrième mandat. Il reste le mieux placé pour remporter le scrutin face à l’extrême droite."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/03/au-bresil-lula-officialise-sa-candidature-a-l-election-presidentielle_6737334_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/03/au-bresil-lula-officialise-sa-candidature-a-l-election-presidentielle_6737334_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/03/au-bresil-lula-officialise-sa-candidature-a-l-election-presidentielle_6737334_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/51/0/1920/960/644/322/60/0/2767a8d_ftp-1-7kpu36nognn8-5761134-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président brésilien, Luiz Inacio Lula da Silva, lors de l’annonce de sa candidature à sa réélection, au congrès national du Parti des travailleurs, à Sao Paulo, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MIGUEL SCHINCARIOL/AFP"
+      }
+    ],
+    "credit": "MIGUEL SCHINCARIOL/AFP"
+  }
+}

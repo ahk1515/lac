@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T06:58:46.665604+00:00",
+  "_id": "ccb787ca12ba",
+  "brut": {
+    "title": "Cuba de nouveau confrontée à une panne de courant géante, y compris à La Havane",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cuba de nouveau confrontée à une panne de courant géante, y compris à La Havane"
+    },
+    "published": "Mon, 03 Aug 2026 06:19:40 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      4,
+      19,
+      40,
+      0,
+      215,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 07:25:57 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      5,
+      25,
+      57,
+      0,
+      215,
+      0
+    ],
+    "summary": "La compagnie nationale a signalé une « déconnexion totale » du système électrique national qui plonge le pays dans l’obscurité. Washington a imposé à l’île un blocus pétrolier qui complique l’approvisionnement en carburant des centrales électriques et des générateurs de secours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La compagnie nationale a signalé une « déconnexion totale » du système électrique national qui plonge le pays dans l’obscurité. Washington a imposé à l’île un blocus pétrolier qui complique l’approvisionnement en carburant des centrales électriques et des générateurs de secours."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/03/cuba-de-nouveau-confrontee-a-une-panne-de-courant-geante-y-compris-la-havane_6737337_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/03/cuba-de-nouveau-confrontee-a-une-panne-de-courant-geante-y-compris-la-havane_6737337_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/03/cuba-de-nouveau-confrontee-a-une-panne-de-courant-geante-y-compris-la-havane_6737337_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/1279/0/8256/4128/644/322/60/0/90120b5_ftp-1-2f7b2hn5g4bn-5758816-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A La Havane, lors d’une première coupure de courant durant le week-end, le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YAMIL LAGE/AFP"
+      }
+    ],
+    "credit": "YAMIL LAGE/AFP"
+  }
+}

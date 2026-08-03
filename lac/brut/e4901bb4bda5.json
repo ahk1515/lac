@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T06:58:47.002683+00:00",
+  "_id": "e4901bb4bda5",
+  "brut": {
+    "title": "Nouvelle panne de courant généralisée à Cuba, la sixième depuis le début de l'année",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Nouvelle panne de courant généralisée à Cuba, la sixième depuis le début de l'année"
+    },
+    "summary": "Frappée par une grave crise économique depuis cinq ans, l'île communiste est également soumise depuis janvier à un blocus imposé par les Etats-Unis, qui complique grandement l'approvisionnement des centrales électriques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Frappée par une grave crise économique depuis cinq ans, l'île communiste est également soumise depuis janvier à un blocus imposé par les Etats-Unis, qui complique grandement l'approvisionnement des centrales électriques."
+    },
+    "published": "Mon, 03 Aug 2026 08:21:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      21,
+      43,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/cuba/nouvelle-panne-de-courant-generalisee-a-cuba-la-sixieme-depuis-le-debut-de-l-annee_8106446.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zBmyCr7seafB1cAT-Jh45wQdF8g/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/03/6a7032b71e7c9884252610.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/cuba/nouvelle-panne-de-courant-generalisee-a-cuba-la-sixieme-depuis-le-debut-de-l-annee_8106446.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/cuba/nouvelle-panne-de-courant-generalisee-a-cuba-la-sixieme-depuis-le-debut-de-l-annee_8106446.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

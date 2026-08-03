@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T06:58:46.664861+00:00",
+  "_id": "daafe8cfc0c8",
+  "brut": {
+    "title": "Aux Etats-Unis, des feux de forêt ravagent la ville de Spokane, dans le nord-ouest du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, des feux de forêt ravagent la ville de Spokane, dans le nord-ouest du pays"
+    },
+    "published": "Mon, 03 Aug 2026 08:44:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      44,
+      18,
+      0,
+      215,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 08:46:06 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      6,
+      46,
+      6,
+      0,
+      215,
+      0
+    ],
+    "summary": "Dimanche, des incendies se sont propagés à grande vitesse dans cette ville de l’Etat de Washington. Les autorités ont fait état de centaines de bâtiments réduits en cendres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dimanche, des incendies se sont propagés à grande vitesse dans cette ville de l’Etat de Washington. Les autorités ont fait état de centaines de bâtiments réduits en cendres."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/03/aux-etats-unis-des-feux-de-foret-ravagent-la-ville-de-spokane-dans-le-nord-ouest-du-pays_6737344_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/03/aux-etats-unis-des-feux-de-foret-ravagent-la-ville-de-spokane-dans-le-nord-ouest-du-pays_6737344_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/03/aux-etats-unis-des-feux-de-foret-ravagent-la-ville-de-spokane-dans-le-nord-ouest-du-pays_6737344_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/432/0/5183/2591/644/322/60/0/bb4025d_ftp-1-s54c8go7nrq1-d00dc39a031b4cc0974e6a3cfb3e0926-0-393a58495cd04488aa6b666f98c42da4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants devant leur maison détruite par l’incendie, à Spokane, dans l’Etat de Washington, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Young Kwak/AP"
+      }
+    ],
+    "credit": "Young Kwak/AP"
+  }
+}
