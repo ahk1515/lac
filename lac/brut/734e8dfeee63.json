@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T17:49:41.187719+00:00",
+  "_id": "734e8dfeee63",
+  "brut": {
+    "title": "Au Mali, l’ancien premier ministre Moussa Mara est sorti de prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mali, l’ancien premier ministre Moussa Mara est sorti de prison"
+    },
+    "published": "Mon, 03 Aug 2026 19:30:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      17,
+      30,
+      10,
+      0,
+      215,
+      0
+    ],
+    "summary": "Chef du gouvernement malien pendant huit mois, en 2014-2015, l’opposant avait été arrêté en août 2025 après avoir rendu visite à des prisonniers politiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Chef du gouvernement malien pendant huit mois, en 2014-2015, l’opposant avait été arrêté en août 2025 après avoir rendu visite à des prisonniers politiques."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/03/au-mali-l-ancien-premier-ministre-moussa-mara-est-sorti-de-prison_6737545_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/03/au-mali-l-ancien-premier-ministre-moussa-mara-est-sorti-de-prison_6737545_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/03/au-mali-l-ancien-premier-ministre-moussa-mara-est-sorti-de-prison_6737545_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/10/27/213/0/5259/2629/644/322/60/0/02cd952_ftp-import-images-1-xndwldbtvdtv-5279462-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’ancien premier ministre malien Moussa Mara, à Bamako, le 21 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

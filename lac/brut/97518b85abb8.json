@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T17:49:41.367268+00:00",
+  "_id": "97518b85abb8",
+  "brut": {
+    "title": "L'opposant russe Boris Nadejdine annonce avoir quitté la Russie et se trouver en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'opposant russe Boris Nadejdine annonce avoir quitté la Russie et se trouver en France"
+    },
+    "summary": "Condamné récemment pour \"extrémisme\" et déclaré \"agent de l'étranger\" par les autorités russes, il apparaît devant la tour Eiffel dans une vidéo publiée sur Telegram.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Condamné récemment pour \"extrémisme\" et déclaré \"agent de l'étranger\" par les autorités russes, il apparaît devant la tour Eiffel dans une vidéo publiée sur Telegram."
+    },
+    "published": "Mon, 03 Aug 2026 18:39:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      16,
+      39,
+      21,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-annonce-avoir-quitte-la-russie-et-se-trouve-en-france_8133320.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qs57Gn6bKSFB4UIOF91cCC87C6g/0x41:6192x3524/432x243/filters:format(jpg):quality(50)/2026/08/03/6a70a295d9e55726613408.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-annonce-avoir-quitte-la-russie-et-se-trouve-en-france_8133320.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-annonce-avoir-quitte-la-russie-et-se-trouve-en-france_8133320.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
