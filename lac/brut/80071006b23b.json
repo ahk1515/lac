@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T11:21:15.446459+00:00",
+  "_id": "80071006b23b",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des attaques de drones ukrainiens ont fait six morts en Crimée et près de Krasnodar, selon les autorités russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des attaques de drones ukrainiens ont fait six morts en Crimée et près de Krasnodar, selon les autorités russes"
+    },
+    "published": "Mon, 03 Aug 2026 11:56:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      9,
+      56,
+      17,
+      0,
+      215,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 12:17:08 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      10,
+      17,
+      8,
+      0,
+      215,
+      0
+    ],
+    "summary": "Dans la nuit de dimanche à lundi, l’armée ukrainienne a affirmé que la Russie avait lancé 181 drones contre son territoire, dont 163 qui ont été abattus ou neutralisés par les défenses aériennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la nuit de dimanche à lundi, l’armée ukrainienne a affirmé que la Russie avait lancé 181 drones contre son territoire, dont 163 qui ont été abattus ou neutralisés par les défenses aériennes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-ont-fait-six-morts-en-crimee-et-pres-de-krasnodar-selon-les-autorites-russes_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-ont-fait-six-morts-en-crimee-et-pres-de-krasnodar-selon-les-autorites-russes_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-ont-fait-six-morts-en-crimee-et-pres-de-krasnodar-selon-les-autorites-russes_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/141/0/3623/1811/644/322/60/0/5f871e7_ftp-1-6swntx4burih-2026-08-02t172713z-840636629-rc2gqmacuz3s-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Evacuation de résidents d’un immeuble touché par une frappe aérienne russe, à Zaporijia (Ukraine), le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

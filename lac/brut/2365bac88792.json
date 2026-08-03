@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T11:21:15.632218+00:00",
+  "_id": "2365bac88792",
+  "brut": {
+    "title": "Vague migratoire à Ceuta : du carburant électoral pour le Rassemblement national",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Vague migratoire à Ceuta : du carburant électoral pour le Rassemblement national"
+    },
+    "summary": "Alors que la quasi-totalité des migrants entrés dans l'enclave espagnole de Ceuta ont déjà rebroussé chemin, les images de cette traversée ont aussitôt été récupérées par l'extrême droite française.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alors que la quasi-totalité des migrants entrés dans l'enclave espagnole de Ceuta ont déjà rebroussé chemin, les images de cette traversée ont aussitôt été récupérées par l'extrême droite française."
+    },
+    "published": "Mon, 03 Aug 2026 09:17:46 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      7,
+      17,
+      46,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-edito-politique/vague-migratoire-a-ceuta-du-carburant-electoral-pour-le-rassemblement-national_8069888.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/M-oUTkkUcoDr4oaplY-y6yJcDlo/0x0:4537x2552/432x243/filters:format(jpg):quality(50)/2026/08/03/6a70365ee8f4f064733337.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/vague-migratoire-a-ceuta-du-carburant-electoral-pour-le-rassemblement-national_8069888.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-edito-politique/vague-migratoire-a-ceuta-du-carburant-electoral-pour-le-rassemblement-national_8069888.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

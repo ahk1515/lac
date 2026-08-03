@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T11:21:15.631397+00:00",
+  "_id": "bc5dc725bdca",
+  "brut": {
+    "title": "Sicile : près de 700 000 euros retrouvés sur la plage",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sicile : près de 700 000 euros retrouvés sur la plage"
+    },
+    "summary": "700 000 euros en petites coupures : c'est la somme record saisie par la justice italienne après l'échouage d'un bateau à Casuzze. Entre Malte et l'Italie, l'enquête tente de remonter la trace de ce \"geste désespéré\" lié à la criminalité organisée méditerranéenne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "700 000 euros en petites coupures : c'est la somme record saisie par la justice italienne après l'échouage d'un bateau à Casuzze. Entre Malte et l'Italie, l'enquête tente de remonter la trace de ce \"geste désespéré\" lié à la criminalité organisée méditerranéenne."
+    },
+    "published": "Mon, 03 Aug 2026 12:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      10,
+      0,
+      1,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/sicile-pres-de-700-000-euros-retrouves-sur-la-plage_8133017.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RwwS9J85mflHrIWFvybXktmoWW0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/03/6a705c0011fdb682651364.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/sicile-pres-de-700-000-euros-retrouves-sur-la-plage_8133017.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/sicile-pres-de-700-000-euros-retrouves-sur-la-plage_8133017.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

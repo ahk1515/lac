@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T11:21:15.630836+00:00",
+  "_id": "8c8a2ac59967",
+  "brut": {
+    "title": "Six morts dans des frappes ukrainiennes en Crimée annexée et dans le sud de la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Six morts dans des frappes ukrainiennes en Crimée annexée et dans le sud de la Russie"
+    },
+    "summary": "Les autorités russes affirment que les attaques ont visé des zones civiles de la péninsule de Crimée et de la région de Krasnodar, deux destinations prisées des vacanciers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités russes affirment que les attaques ont visé des zones civiles de la péninsule de Crimée et de la région de Krasnodar, deux destinations prisées des vacanciers."
+    },
+    "published": "Mon, 03 Aug 2026 13:13:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      11,
+      13,
+      16,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-six-morts-dans-des-frappes-ukrainiennes-en-crimee-annexee-et-dans-le-sud-de-la-russie_8133137.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/51zSIQXCKJj6ipFwKdEMelbxKVo/0x630:6049x4033/432x243/filters:format(jpg):quality(50)/2026/08/03/6a7072e2de3f5933908660.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-six-morts-dans-des-frappes-ukrainiennes-en-crimee-annexee-et-dans-le-sud-de-la-russie_8133137.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-six-morts-dans-des-frappes-ukrainiennes-en-crimee-annexee-et-dans-le-sud-de-la-russie_8133137.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

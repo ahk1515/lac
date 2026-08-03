@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T11:21:15.447231+00:00",
+  "_id": "32c7dc0b1c3a",
+  "brut": {
+    "title": "Etats-Unis : les images des feux de forêt qui ravagent Spokane",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Etats-Unis : les images des feux de forêt qui ravagent Spokane"
+    },
+    "published": "Mon, 03 Aug 2026 10:31:56 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      8,
+      31,
+      56,
+      0,
+      215,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 10:31:56 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      8,
+      31,
+      56,
+      0,
+      215,
+      0
+    ],
+    "summary": "L’incendie de la région de Spokane comprend trois foyers distincts. Le shérif local, John Nowels, a fait savoir qu’aucune victime n’avait été recensée pour le moment, mais que le bilan pourrait évoluer « en raison de l’étendue » de la catastrophe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’incendie de la région de Spokane comprend trois foyers distincts. Le shérif local, John Nowels, a fait savoir qu’aucune victime n’avait été recensée pour le moment, mais que le bilan pourrait évoluer « en raison de l’étendue » de la catastrophe."
+    },
+    "id": "https://www.lemonde.fr/flux-video-immersif/video/2026/08/03/etats-unis-les-images-des-feux-de-foret-qui-ravagent-spokane_6737350_6717263.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/flux-video-immersif/video/2026/08/03/etats-unis-les-images-des-feux-de-foret-qui-ravagent-spokane_6737350_6717263.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/flux-video-immersif/video/2026/08/03/etats-unis-les-images-des-feux-de-foret-qui-ravagent-spokane_6737350_6717263.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/456/0/5472/2736/644/322/60/0/9fc601b_ftp-1-wzlduhcod0tx-81e5aeecb8c0470397e2e732ac6d7e37-0-db79b07dca29424381e2a6905cbbe4dc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des débris jonchent le sol autour de structures incendiées après un feu de forêt, le dimanche 2 août 2026, à Spokane, dans l’État de Washington. (Photo AP/Young Kwak)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Young Kwak / AP Photo/Young Kwak"
+      }
+    ],
+    "credit": "Young Kwak / AP Photo/Young Kwak"
+  }
+}
