@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T02:41:22.547697+00:00",
+  "_id": "56cfaeed6df0",
+  "brut": {
+    "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour"
+    },
+    "published": "Mon, 03 Aug 2026 00:51:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      22,
+      51,
+      57,
+      6,
+      214,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 02:13:39 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      0,
+      13,
+      39,
+      0,
+      215,
+      0
+    ],
+    "summary": "Le conflit entre l’armée et les Forces de soutien rapide, qui a éclaté en 2023, a fait des dizaines de milliers de morts, provoqué le déplacement de millions de personnes et déclenché ce que les Nations unies décrivent comme la plus grave crise de la faim au monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le conflit entre l’armée et les Forces de soutien rapide, qui a éclaté en 2023, a fait des dizaines de milliers de morts, provoqué le déplacement de millions de personnes et déclenché ce que les Nations unies décrivent comme la plus grave crise de la faim au monde."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/1219/0/5500/2750/644/322/60/0/170960b_ftp-1-bh74iyri1pgp-2026-07-20t233753z-513008380-rc2v6iasrd3s-rtrmadp-3-un-refugees-usa.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une enfant réfugiée soudanaise originaire du Darfour dans le camp de Touloum, à la périphérie d’Iriba, au Tchad, le 30 novembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Amr Abdallah Dalsh/REUTERS"
+      }
+    ],
+    "credit": "Amr Abdallah Dalsh/REUTERS"
+  }
+}

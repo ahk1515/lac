@@ -2,12 +2,12 @@
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 187
+    "co_citations": 188
   },
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 146
+    "co_citations": 147
   },
   {
     "pays_a": "ISR",
@@ -155,6 +155,11 @@
     "co_citations": 4
   },
   {
+    "pays_a": "JPN",
+    "pays_b": "USA",
+    "co_citations": 3
+  },
+  {
     "pays_a": "CAF",
     "pays_b": "RUS",
     "co_citations": 3
@@ -193,11 +198,6 @@
     "pays_a": "IRN",
     "pays_b": "RUS",
     "co_citations": 3
-  },
-  {
-    "pays_a": "JPN",
-    "pays_b": "USA",
-    "co_citations": 2
   },
   {
     "pays_a": "FRA",

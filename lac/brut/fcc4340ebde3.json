@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T02:41:22.547508+00:00",
+  "_id": "fcc4340ebde3",
+  "brut": {
+    "title": "Donald Trump affirme que les Etats-Unis sont intervenus pour soutenir le yen, par « amitié » pour le Japon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump affirme que les Etats-Unis sont intervenus pour soutenir le yen, par « amitié » pour le Japon"
+    },
+    "published": "Mon, 03 Aug 2026 01:28:46 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      2,
+      23,
+      28,
+      46,
+      6,
+      214,
+      0
+    ],
+    "updated": "Mon, 03 Aug 2026 02:34:41 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      3,
+      0,
+      34,
+      41,
+      0,
+      215,
+      0
+    ],
+    "summary": "La Réserve fédérale de New York a orchestré une vente d’euros inédite pour acheter des yens. La monnaie nippone avait enregistré en juillet ses plus bas niveaux depuis près de quarante ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Réserve fédérale de New York a orchestré une vente d’euros inédite pour acheter des yens. La monnaie nippone avait enregistré en juillet ses plus bas niveaux depuis près de quarante ans."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/03/donald-trump-affirme-que-les-etats-unis-sont-intervenus-pour-soutenir-le-yen-par-amitie-pour-le-japon_6737321_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/03/donald-trump-affirme-que-les-etats-unis-sont-intervenus-pour-soutenir-le-yen-par-amitie-pour-le-japon_6737321_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/03/donald-trump-affirme-que-les-etats-unis-sont-intervenus-pour-soutenir-le-yen-par-amitie-pour-le-japon_6737321_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/350/0/5500/2750/644/322/60/0/bb9c45e_ftp-1-a4yd373ldkq5-2026-07-31t041048z-1469281343-rc2roma9aejw-rtrmadp-3-japan-yen.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans une salle des marchés, à Tokyo, le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Manami Yamada/REUTERS"
+      }
+    ],
+    "credit": "Manami Yamada/REUTERS"
+  }
+}
