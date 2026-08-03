@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T21:00:51.766578+00:00",
+  "_id": "823d93eb8f08",
+  "brut": {
+    "title": "Les îles Batanes, la Bretagne des tropiques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les îles Batanes, la Bretagne des tropiques"
+    },
+    "summary": "Au cœur de l'océan Pacifique, se trouve un coin de paradis : les îles Batanes. Version tropicale de la Bretagne, l'archipel est prisé par les touristes et menacé par la Chine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au cœur de l'océan Pacifique, se trouve un coin de paradis : les îles Batanes. Version tropicale de la Bretagne, l'archipel est prisé par les touristes et menacé par la Chine."
+    },
+    "published": "Mon, 03 Aug 2026 22:01:37 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      20,
+      1,
+      37,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/pacifique/les-iles-batanes-la-bretagne-des-tropiques_8133605.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/13CrItioxL9OtK0U3ASX5VZDzYU/315x0:1604x725/432x243/filters:format(jpg):quality(50)/2026/08/03/6a70e267bbed8304606084.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/pacifique/les-iles-batanes-la-bretagne-des-tropiques_8133605.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/pacifique/les-iles-batanes-la-bretagne-des-tropiques_8133605.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T21:00:51.492281+00:00",
+  "_id": "6e67bca1e3fa",
+  "brut": {
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que des discussions ont lieu « en ce moment même » avec l’Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que des discussions ont lieu « en ce moment même » avec l’Iran"
+    },
+    "published": "Mon, 03 Aug 2026 22:35:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      20,
+      35,
+      6,
+      0,
+      215,
+      0
+    ],
+    "summary": "Lors d’un échange avec la presse dans le bureau Ovale, le président américain a assuré que ces pourparlers se déroulaient « à la demande » de Téhéran. L’Iran avait déclaré, plus tôt dans la journée, ne pas négocier « avec les Etats-Unis en ce moment ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Lors d’un échange avec la presse dans le bureau Ovale, le président américain a assuré que ces pourparlers se déroulaient « à la demande » de Téhéran. L’Iran avait déclaré, plus tôt dans la journée, ne pas négocier « avec les Etats-Unis en ce moment »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-des-discussions-ont-lieu-en-ce-moment-meme-avec-l-iran_6737099_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-des-discussions-ont-lieu-en-ce-moment-meme-avec-l-iran_6737099_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-des-discussions-ont-lieu-en-ce-moment-meme-avec-l-iran_6737099_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/309/0/3708/1854/644/322/60/0/894a4ee_ftp-1-wrnhgd6mjuqz-5ffc0ba23efb4c47b1c254c8bd68f323-0-d689b699c417424aa1e771ca8af2de99.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, débarque d’Air Force One sur une base du Maryland, près de Washington, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jacquelyn Martin / AP Photo/Jacquelyn Martin"
+      }
+    ],
+    "credit": "Jacquelyn Martin / AP Photo/Jacquelyn Martin"
+  }
+}

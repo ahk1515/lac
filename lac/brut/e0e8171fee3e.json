@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T21:00:51.767077+00:00",
+  "_id": "e0e8171fee3e",
+  "brut": {
+    "title": "\"Nous essayons toujours d'aider ceux qui ont besoin de notre aide\" : des pompiers ukrainiens en renfort pour lutter contre des incendies en Gironde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Nous essayons toujours d'aider ceux qui ont besoin de notre aide\" : des pompiers ukrainiens en renfort pour lutter contre des incendies en Gironde"
+    },
+    "summary": "Pour venir en aide aux pompiers de Gironde, 70 Ukrainiens ont quitté leur pays en guerre. Arrivés dimanche 2 août sur place, ils ont directement commencé leur mission, qui devrait encore durer une dizaine de jours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour venir en aide aux pompiers de Gironde, 70 Ukrainiens ont quitté leur pays en guerre. Arrivés dimanche 2 août sur place, ils ont directement commencé leur mission, qui devrait encore durer une dizaine de jours."
+    },
+    "published": "Mon, 03 Aug 2026 21:49:40 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      19,
+      49,
+      40,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-les-pompiers-ukrainiens-en-renfort_8133587.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/n1zTZfzIxHd3CnZwQAwos_j7Y6E/312x0:1608x729/432x243/filters:format(jpg):quality(50)/2026/08/03/6a70df7c19a9a676116409.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-les-pompiers-ukrainiens-en-renfort_8133587.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-les-pompiers-ukrainiens-en-renfort_8133587.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

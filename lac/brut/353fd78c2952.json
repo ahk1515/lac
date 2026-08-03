@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T21:00:51.492039+00:00",
+  "_id": "353fd78c2952",
+  "brut": {
+    "title": "Droits de douane de Donald Trump : 25 Etats américains démocrates saisissent la justice",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Droits de douane de Donald Trump : 25 Etats américains démocrates saisissent la justice"
+    },
+    "published": "Mon, 03 Aug 2026 22:55:46 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      20,
+      55,
+      46,
+      0,
+      215,
+      0
+    ],
+    "summary": "Ces nouvelles surtaxes, de 10 % ou de 12,5 % selon les pays, sont entrées en vigueur le 24 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces nouvelles surtaxes, de 10 % ou de 12,5 % selon les pays, sont entrées en vigueur le 24 juillet."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/03/droits-de-douane-de-donald-trump-25-etats-americains-democrates-saisissent-la-justice_6737710_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/03/droits-de-douane-de-donald-trump-25-etats-americains-democrates-saisissent-la-justice_6737710_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/03/droits-de-douane-de-donald-trump-25-etats-americains-democrates-saisissent-la-justice_6737710_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/371/0/3743/1871/644/322/60/0/36c6a08_ftp-1-r8pck4a3zmya-5720284-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump embarquant à bord d’Air Force One, à Waterford Township (Michigan), aux Etats-Unis, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREW HARNIK / AFP"
+      }
+    ],
+    "credit": "ANDREW HARNIK / AFP"
+  }
+}

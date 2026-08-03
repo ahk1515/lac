@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T21:00:51.766743+00:00",
+  "_id": "c17477688c43",
+  "brut": {
+    "title": "Le parc d'attractions Mirapolis pourrait devenir un parc Dragon Ball",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parc d'attractions Mirapolis pourrait devenir un parc Dragon Ball"
+    },
+    "summary": "Mirapolis, c'était le premier parc à thème de France. Et il pourrait bien renaître de ses cendres pour devenir un parc consacré à l'univers de Dragon Ball.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Mirapolis, c'était le premier parc à thème de France. Et il pourrait bien renaître de ses cendres pour devenir un parc consacré à l'univers de Dragon Ball."
+    },
+    "published": "Mon, 03 Aug 2026 21:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      19,
+      0,
+      2,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sports/sport-et-loisirs/le-parc-d-attractions-mirapolis-pourrait-devenir-un-parc-dragon-ball_8133449.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/KyTUbVB1gUNLNFetxS3jn1XAZro/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/03/6a70b8ad45c60528071085.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sports/sport-et-loisirs/le-parc-d-attractions-mirapolis-pourrait-devenir-un-parc-dragon-ball_8133449.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sports/sport-et-loisirs/le-parc-d-attractions-mirapolis-pourrait-devenir-un-parc-dragon-ball_8133449.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
