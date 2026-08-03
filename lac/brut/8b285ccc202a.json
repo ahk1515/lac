@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T14:35:39.988902+00:00",
+  "_id": "8b285ccc202a",
+  "brut": {
+    "title": "Aux Etats-Unis, des incendies ravagent la ville de Spokane, dans le nord-ouest du pays, où 60 000 personnes ont été évacuées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, des incendies ravagent la ville de Spokane, dans le nord-ouest du pays, où 60 000 personnes ont été évacuées"
+    },
+    "published": "Mon, 03 Aug 2026 13:38:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      11,
+      38,
+      23,
+      0,
+      215,
+      0
+    ],
+    "summary": "Dimanche, des incendies se sont propagés à grande vitesse dans cette ville de l’Etat de Washington. « Des centaines d’habitations et de structures ont été perdues », a déclaré la maire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dimanche, des incendies se sont propagés à grande vitesse dans cette ville de l’Etat de Washington. « Des centaines d’habitations et de structures ont été perdues », a déclaré la maire."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/03/aux-etats-unis-des-incendies-ravagent-la-ville-de-spokane-dans-le-nord-ouest-du-pays-ou-60-000-personnes-ont-ete-evacuees_6737344_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/03/aux-etats-unis-des-incendies-ravagent-la-ville-de-spokane-dans-le-nord-ouest-du-pays-ou-60-000-personnes-ont-ete-evacuees_6737344_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/03/aux-etats-unis-des-incendies-ravagent-la-ville-de-spokane-dans-le-nord-ouest-du-pays-ou-60-000-personnes-ont-ete-evacuees_6737344_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/432/0/5183/2591/644/322/60/0/bb4025d_ftp-1-s54c8go7nrq1-d00dc39a031b4cc0974e6a3cfb3e0926-0-393a58495cd04488aa6b666f98c42da4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants devant leur maison détruite par l’incendie, à Spokane, dans l’Etat de Washington, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Young Kwak/AP"
+      }
+    ],
+    "credit": "Young Kwak/AP"
+  }
+}

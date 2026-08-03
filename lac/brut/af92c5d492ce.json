@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-03T14:35:40.306106+00:00",
+  "_id": "af92c5d492ce",
+  "brut": {
+    "title": "Ceuta : ils sont sans nouvelles de leurs proches",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ceuta : ils sont sans nouvelles de leurs proches"
+    },
+    "summary": "🔴⚡️ \"J'implore Dieu pour qu'il revienne sain et sauf\" : sans nouvelles de leurs proches à Ceuta, des familles sont rongées par l'inquiétude de l'autre côté de la frontière.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🔴⚡️ \"J'implore Dieu pour qu'il revienne sain et sauf\" : sans nouvelles de leurs proches à Ceuta, des familles sont rongées par l'inquiétude de l'autre côté de la frontière."
+    },
+    "published": "Mon, 03 Aug 2026 14:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      12,
+      0,
+      1,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-ils-sont-sans-nouvelles-de-leurs-proches_8133134.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/0Nvfrg4gZ72L7wbVkfT1HclLWY0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/03/6a70710ca13d2389477217.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-ils-sont-sans-nouvelles-de-leurs-proches_8133134.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-ils-sont-sans-nouvelles-de-leurs-proches_8133134.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-03T14:35:39.988297+00:00",
+  "_id": "e988d48ba891",
+  "brut": {
+    "title": "L’opposant russe Boris Nadejdine, condamné en Russie, annonce avoir rejoint la France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’opposant russe Boris Nadejdine, condamné en Russie, annonce avoir rejoint la France"
+    },
+    "published": "Mon, 03 Aug 2026 16:28:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      14,
+      28,
+      36,
+      0,
+      215,
+      0
+    ],
+    "summary": "Ancien député russe, M. Nadejdine avait renoncé à se présenter aux législatives de septembre en Russie après avoir été arrêté et condamné à une amende pour « extrémisme ». Il était l’un des derniers opposants politiques de Vladimir Poutine à résider en Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ancien député russe, M. Nadejdine avait renoncé à se présenter aux législatives de septembre en Russie après avoir été arrêté et condamné à une amende pour « extrémisme ». Il était l’un des derniers opposants politiques de Vladimir Poutine à résider en Russie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/03/l-opposant-russe-boris-nadejdine-condamne-en-russie-annonce-avoir-rejoint-la-france_6737405_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/03/l-opposant-russe-boris-nadejdine-condamne-en-russie-annonce-avoir-rejoint-la-france_6737405_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/03/l-opposant-russe-boris-nadejdine-condamne-en-russie-annonce-avoir-rejoint-la-france_6737405_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/518/0/806/403/644/322/60/0/78ee955_ftp-1-a9rzlf7j3itl-2026-08-03t120100z-259880400-rc20rmao0uey-rtrmadp-3-ukraine-crisis-russia-nadezhdin.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Boris Nadejdine après avoir quitté la Russie et être arrivé à Paris, en France, dans une vidéo diffusée le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Boris Nadezhdin Telegram Channel / via REUTERS"
+      }
+    ],
+    "credit": "Boris Nadezhdin Telegram Channel / via REUTERS"
+  }
+}
