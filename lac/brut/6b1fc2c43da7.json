@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T06:26:37.057957+00:00",
+  "_id": "6b1fc2c43da7",
+  "brut": {
+    "title": "Israël intensifie ses frappes sur Gaza et réaffirme qu’il ne s’en retirera pas avant le désarmement complet du Hamas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël intensifie ses frappes sur Gaza et réaffirme qu’il ne s’en retirera pas avant le désarmement complet du Hamas"
+    },
+    "published": "Tue, 04 Aug 2026 05:45:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      3,
+      45,
+      3,
+      1,
+      216,
+      0
+    ],
+    "updated": "Tue, 04 Aug 2026 08:05:21 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      4,
+      6,
+      5,
+      21,
+      1,
+      216,
+      0
+    ],
+    "summary": "Après l’annonce par Donald Trump, le 30 juillet, d’un plan qui prévoit un retrait des troupes israéliennes de l’enclave s’accompagnant de la collecte de l’arsenal du Hamas, Gaza a connu, le 2 août, l’une des journées les plus meurtrières de ces dernières semaines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après l’annonce par Donald Trump, le 30 juillet, d’un plan qui prévoit un retrait des troupes israéliennes de l’enclave s’accompagnant de la collecte de l’arsenal du Hamas, Gaza a connu, le 2 août, l’une des journées les plus meurtrières de ces dernières semaines."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/04/israel-intensifie-ses-frappes-sur-gaza-et-reaffirme-qu-il-ne-s-en-retirera-pas-avant-le-desarmement-complet-du-hamas_6737980_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/04/israel-intensifie-ses-frappes-sur-gaza-et-reaffirme-qu-il-ne-s-en-retirera-pas-avant-le-desarmement-complet-du-hamas_6737980_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/04/israel-intensifie-ses-frappes-sur-gaza-et-reaffirme-qu-il-ne-s-en-retirera-pas-avant-le-desarmement-complet-du-hamas_6737980_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/321/0/3857/1928/644/322/60/0/33749f4_ftp-1-dycrdqrnq3gq-01d36d0797064ab2b1d0d61b4308a426-1-5fc9f293bb8e459381dee7961b4b428a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une frappe militaire israélienne sur la ville de Gaza, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jehad Alshrafi/AP"
+      }
+    ],
+    "credit": "Jehad Alshrafi/AP"
+  }
+}

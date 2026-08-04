@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T06:26:37.057766+00:00",
+  "_id": "434e43ef2d0b",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : une attaque de drones dans la région de Moscou fait cinq morts et plusieurs blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : une attaque de drones dans la région de Moscou fait cinq morts et plusieurs blessés"
+    },
+    "published": "Tue, 04 Aug 2026 05:54:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      3,
+      54,
+      4,
+      1,
+      216,
+      0
+    ],
+    "updated": "Tue, 04 Aug 2026 08:12:17 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      4,
+      6,
+      12,
+      17,
+      1,
+      216,
+      0
+    ],
+    "summary": "L’attaque a visé la zone industrielle de Novossiolki, où plusieurs incendies se sont déclarés, notamment dans un entrepôt, a fait savoir mardi matin le gouverneur régional.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’attaque a visé la zone industrielle de Novossiolki, où plusieurs incendies se sont déclarés, notamment dans un entrepôt, a fait savoir mardi matin le gouverneur régional."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-une-frappe-russe-visant-la-ville-de-soumy-fait-un-mort-et-plusieurs-blesses_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-une-frappe-russe-visant-la-ville-de-soumy-fait-un-mort-et-plusieurs-blesses_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-une-frappe-russe-visant-la-ville-de-soumy-fait-un-mort-et-plusieurs-blesses_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/82/0/3592/1796/644/322/60/0/d73f79e_ftp-1-dt7qeqtwfz0c-2026-08-03t121719z-654253412-rc28qmarqt02-rtrmadp-3-ukraine-crisis-russia-wildberries.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une attaque par drone ukrainien contre un entrepôt commercial, à Novossemeïkino, dans l’oblast de Samara, en Russie, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Réseaux sociaux via REUTERS"
+      }
+    ],
+    "credit": "Réseaux sociaux via REUTERS"
+  }
+}

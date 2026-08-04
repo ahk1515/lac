@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T06:26:37.057574+00:00",
+  "_id": "d1f0c4f92e56",
+  "brut": {
+    "title": "Ce que l’on sait de l’attentat qui a fait cinq morts et dix-neuf blessés à Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce que l’on sait de l’attentat qui a fait cinq morts et dix-neuf blessés à Moscou"
+    },
+    "published": "Tue, 04 Aug 2026 06:00:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      4,
+      0,
+      6,
+      1,
+      216,
+      0
+    ],
+    "updated": "Tue, 04 Aug 2026 08:03:27 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      4,
+      6,
+      3,
+      27,
+      1,
+      216,
+      0
+    ],
+    "summary": "Une bombe artisanale portée par une femme a explosé, samedi 1ᵉʳ août, dans un restaurant moscovite, en présence du nouveau chef des forces aériennes et spatiales russes, le général Alexandre Tchaïko. Selon les médias du pays, le haut gradé s’en est sorti indemne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une bombe artisanale portée par une femme a explosé, samedi 1ᵉʳ août, dans un restaurant moscovite, en présence du nouveau chef des forces aériennes et spatiales russes, le général Alexandre Tchaïko. Selon les médias du pays, le haut gradé s’en est sorti indemne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/04/ce-que-l-on-sait-de-l-attentat-qui-a-fait-cinq-morts-et-dix-neuf-blesses-a-moscou_6738015_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/04/ce-que-l-on-sait-de-l-attentat-qui-a-fait-cinq-morts-et-dix-neuf-blesses-a-moscou_6738015_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/04/ce-que-l-on-sait-de-l-attentat-qui-a-fait-cinq-morts-et-dix-neuf-blesses-a-moscou_6738015_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/545/0/8049/4024/644/322/60/0/78e9dbf_ftp-1-rxipabfwppnm-2026-08-02t103016z-1463698870-rc29qmaf0nog-rtrmadp-3-russia-explosion.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le restaurant italien Balzi Rossi, dans le centre de Moscou, le 2 août 2026, au lendemain d’un attentat meurtrier."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anastasia Barashkova/REUTERS"
+      }
+    ],
+    "credit": "Anastasia Barashkova/REUTERS"
+  }
+}
