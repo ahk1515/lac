@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-04T10:37:23.361305+00:00",
+  "_id": "45f20a39c5e1",
+  "brut": {
+    "title": "Six ans après l'explosion au port de Beyrouth, aucune condamnation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Six ans après l'explosion au port de Beyrouth, aucune condamnation"
+    },
+    "summary": "Le président libanais réclame la publication de l’acte d’accusation, longtemps freiné par des ingérences politiques. Diane Assaf, avocate libanaise et proche de victime, témoigne auprès de franceinfo.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président libanais réclame la publication de l’acte d’accusation, longtemps freiné par des ingérences politiques. Diane Assaf, avocate libanaise et proche de victime, témoigne auprès de franceinfo."
+    },
+    "published": "Tue, 04 Aug 2026 10:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      8,
+      0,
+      1,
+      1,
+      216,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/liban/explosions-a-beyrouth/six-ans-apres-l-explosion-au-port-de-beyrouth-aucune-condamnation_8133647.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kqY0wvOpxw6WUiIeOE_2TyHpqrA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/03/6a70ed5fb71b3274042566.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/liban/explosions-a-beyrouth/six-ans-apres-l-explosion-au-port-de-beyrouth-aucune-condamnation_8133647.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/liban/explosions-a-beyrouth/six-ans-apres-l-explosion-au-port-de-beyrouth-aucune-condamnation_8133647.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

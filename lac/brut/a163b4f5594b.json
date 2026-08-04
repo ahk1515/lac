@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-04T10:37:23.361857+00:00",
+  "_id": "a163b4f5594b",
+  "brut": {
+    "title": "Aux États-Unis, l'état d'urgence déclaré et plus de 60 000 évacués dans l'État de Washington face au brasier",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, l'état d'urgence déclaré et plus de 60 000 évacués dans l'État de Washington face au brasier"
+    },
+    "summary": "La lutte contre les flammes se poursuit dans le Nord-Ouest américain, où les incendies ont rasé des quartiers entiers de la ville de Spokane, dans l'État de Washington, aux États-Unis. Plus de 65 000 personnes ont été contraintes d'évacuer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La lutte contre les flammes se poursuit dans le Nord-Ouest américain, où les incendies ont rasé des quartiers entiers de la ville de Spokane, dans l'État de Washington, aux États-Unis. Plus de 65 000 personnes ont été contraintes d'évacuer."
+    },
+    "published": "Tue, 04 Aug 2026 09:25:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      7,
+      25,
+      26,
+      1,
+      216,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-etat-d-urgence-declare-et-plus-de-60-000-evacues-dans-l-etat-de-washington-face-au-brasier_8134046.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/1sWZVriDgS2PN5Lhh_e2w8nhM_w/147x0:1353x678/432x243/filters:format(jpg):quality(50)/2026/08/04/6a71913b7eace538355312.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-etat-d-urgence-declare-et-plus-de-60-000-evacues-dans-l-etat-de-washington-face-au-brasier_8134046.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-etat-d-urgence-declare-et-plus-de-60-000-evacues-dans-l-etat-de-washington-face-au-brasier_8134046.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T10:37:22.794114+00:00",
+  "_id": "da27a64d0c8f",
+  "brut": {
+    "title": "Près de 160 migrants secourus lors d’une tentative de traversée de la Manche, annonce la préfecture",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de 160 migrants secourus lors d’une tentative de traversée de la Manche, annonce la préfecture"
+    },
+    "published": "Tue, 04 Aug 2026 12:01:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      10,
+      1,
+      6,
+      1,
+      216,
+      0
+    ],
+    "updated": "Tue, 04 Aug 2026 12:12:34 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      4,
+      10,
+      12,
+      34,
+      1,
+      216,
+      0
+    ],
+    "summary": "« Un “small boat” a pris feu à la limite des eaux françaises et britanniques, conduisant ses occupants à se jeter à l’eau » mardi matin, a annoncé la préfecture du Pas-de-Calais, qui a précisé qu’aucune victime n’était à déplorer « à ce stade ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Un “small boat” a pris feu à la limite des eaux françaises et britanniques, conduisant ses occupants à se jeter à l’eau » mardi matin, a annoncé la préfecture du Pas-de-Calais, qui a précisé qu’aucune victime n’était à déplorer « à ce stade »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/04/pres-de-160-migrants-secourus-lors-d-une-tentative-de-traversee-de-la-manche-annonce-la-prefecture_6738421_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/04/pres-de-160-migrants-secourus-lors-d-une-tentative-de-traversee-de-la-manche-annonce-la-prefecture_6738421_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/04/pres-de-160-migrants-secourus-lors-d-une-tentative-de-traversee-de-la-manche-annonce-la-prefecture_6738421_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/234/0/2808/1404/644/322/60/0/859c688_ftp-1-yi1d6rrnrcwz-5730661-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants à bord d’un bateau de passeurs tentent de traverser la Manche au large de la plage de Gravelines, dans le nord de la France, le 29 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FRANCOIS LO PRESTI/AFP"
+      }
+    ],
+    "credit": "FRANCOIS LO PRESTI/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-04T10:37:23.361716+00:00",
+  "_id": "e35c314dc501",
+  "brut": {
+    "title": "Incendies, réchauffement climatique, Ceuta... Le \"8h30 franceinfo\" d'Éléonore Caroit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendies, réchauffement climatique, Ceuta... Le \"8h30 franceinfo\" d'Éléonore Caroit"
+    },
+    "summary": "La ministre déléguée chargée de la Francophonie, des Partenariats internationaux et des Français de l’étranger était l'invitée du \"8h30 franceinfo\", mardi 4 août 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La ministre déléguée chargée de la Francophonie, des Partenariats internationaux et des Français de l’étranger était l'invitée du \"8h30 franceinfo\", mardi 4 août 2026."
+    },
+    "published": "Tue, 04 Aug 2026 09:49:29 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      7,
+      49,
+      29,
+      1,
+      216,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/incendies-rechauffement-climatique-ceuta-le-8h30-franceinfo-d-eleonore-caroit_8069816.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/SaRmwXBtMEuPW9PVzCF5T-X1qOM/0x0:1280x720/432x243/filters:format(jpg):quality(50)/2026/08/04/6a719787c4303442367711.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/incendies-rechauffement-climatique-ceuta-le-8h30-franceinfo-d-eleonore-caroit_8069816.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/incendies-rechauffement-climatique-ceuta-le-8h30-franceinfo-d-eleonore-caroit_8069816.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
