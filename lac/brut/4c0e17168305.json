@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T21:11:39.232071+00:00",
+  "_id": "4c0e17168305",
+  "brut": {
+    "title": "Cuba : le réseau électrique rétabli après une nouvelle panne géante",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cuba : le réseau électrique rétabli après une nouvelle panne géante"
+    },
+    "published": "Tue, 04 Aug 2026 19:48:50 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      17,
+      48,
+      50,
+      1,
+      216,
+      0
+    ],
+    "updated": "Tue, 04 Aug 2026 20:25:47 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      4,
+      18,
+      25,
+      47,
+      1,
+      216,
+      0
+    ],
+    "summary": "De vastes zones du pays restent cependant sans électricité. Il s’agit de la sixième panne de l’année dans l’île, sur fond de grave crise énergétique et de blocus pétrolier imposé par les Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De vastes zones du pays restent cependant sans électricité. Il s’agit de la sixième panne de l’année dans l’île, sur fond de grave crise énergétique et de blocus pétrolier imposé par les Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/04/cuba-le-reseau-electrique-retabli-apres-une-nouvelle-panne-geante_6738783_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/04/cuba-le-reseau-electrique-retabli-apres-une-nouvelle-panne-geante_6738783_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/04/cuba-le-reseau-electrique-retabli-apres-une-nouvelle-panne-geante_6738783_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/458/0/5500/2750/644/322/60/0/dfc5d44_ftp-1-msyek0fntcgl-2026-08-04t033337z-537837745-rc2drma0o7qs-rtrmadp-3-cuba-crisis-grid.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A La Havane (Cuba), le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Norlys Perez / REUTERS"
+      }
+    ],
+    "credit": "Norlys Perez / REUTERS"
+  }
+}

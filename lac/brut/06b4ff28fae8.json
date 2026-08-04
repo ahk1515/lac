@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-04T21:11:39.974893+00:00",
+  "_id": "06b4ff28fae8",
+  "brut": {
+    "title": "À Gaza, ces patineurs font des décombres leur terrain de jeu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Gaza, ces patineurs font des décombres leur terrain de jeu"
+    },
+    "summary": "À Khan Younès, au sud de la bande de Gaza, ces jeunes palestiniens s'entraînent au roller dans les décombres. Pour eux, ce sport est plus qu'un loisir : c'est une façon de surmonter le déracinement et la vie sous les tentes, pour dire au monde que le talent existe à Gaza",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Khan Younès, au sud de la bande de Gaza, ces jeunes palestiniens s'entraînent au roller dans les décombres. Pour eux, ce sport est plus qu'un loisir : c'est une façon de surmonter le déracinement et la vie sous les tentes, pour dire au monde que le talent existe à Gaza"
+    },
+    "published": "Tue, 04 Aug 2026 21:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      19,
+      0,
+      1,
+      1,
+      216,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-ces-patineurs-font-des-decombres-leur-terrain-de-jeu_8134673.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZLFk4Gch6zDDdXogG2BMnzOfmwI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/04/6a71fe69de56f602020123.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-ces-patineurs-font-des-decombres-leur-terrain-de-jeu_8134673.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-ces-patineurs-font-des-decombres-leur-terrain-de-jeu_8134673.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
