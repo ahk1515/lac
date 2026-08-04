@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T17:47:32.379418+00:00",
+  "_id": "edf01305ad66",
+  "brut": {
+    "title": "De violents incendies en Grèce relancent le débat sur le manque de moyens humains pour lutter sur le terrain",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De violents incendies en Grèce relancent le débat sur le manque de moyens humains pour lutter sur le terrain"
+    },
+    "published": "Tue, 04 Aug 2026 19:30:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      17,
+      30,
+      18,
+      1,
+      216,
+      0
+    ],
+    "summary": "Trois pompiers et deux membres d’équipage d’un hélicoptère sont morts en cinq jours à l’ouest d’Athènes. Partis d’opposition et syndicats de pompiers dénoncent le retard pris dans la prévention et la faiblesse des effectifs disponibles pour faire face à des étés de plus en plus intenses.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois pompiers et deux membres d’équipage d’un hélicoptère sont morts en cinq jours à l’ouest d’Athènes. Partis d’opposition et syndicats de pompiers dénoncent le retard pris dans la prévention et la faiblesse des effectifs disponibles pour faire face à des étés de plus en plus intenses."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/04/de-violents-incendies-en-grece-relancent-le-debat-sur-le-manque-de-moyens-humains-pour-lutter-sur-le-terrain_6738782_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/04/de-violents-incendies-en-grece-relancent-le-debat-sur-le-manque-de-moyens-humains-pour-lutter-sur-le-terrain_6738782_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/04/de-violents-incendies-en-grece-relancent-le-debat-sur-le-manque-de-moyens-humains-pour-lutter-sur-le-terrain_6738782_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/459/0/5500/2750/644/322/60/0/a8130ce_ftp-1-y8ezdl1nmw11-2026-08-03t170604z-1913664614-rc24rmarblxe-rtrmadp-3-europe-weather-greece-wildfires.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un incendie près de Loumpa, à l’ouest d’Athènes, le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Louisa Gouliamaki/REUTERS"
+      }
+    ],
+    "credit": "Louisa Gouliamaki/REUTERS"
+  }
+}

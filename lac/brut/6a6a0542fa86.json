@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T17:47:32.380071+00:00",
+  "_id": "6a6a0542fa86",
+  "brut": {
+    "title": "Ceuta : au moins 75 personnes sont mortes en voulant rejoindre l’enclave espagnole, selon les autorités locales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ceuta : au moins 75 personnes sont mortes en voulant rejoindre l’enclave espagnole, selon les autorités locales"
+    },
+    "published": "Tue, 04 Aug 2026 17:59:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      15,
+      59,
+      57,
+      1,
+      216,
+      0
+    ],
+    "updated": "Tue, 04 Aug 2026 19:40:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      4,
+      17,
+      40,
+      26,
+      1,
+      216,
+      0
+    ],
+    "summary": "Selon l’Association marocaine des droits humains, le bilan atteint « près de 130 victimes » avec « des dizaines de disparus ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon l’Association marocaine des droits humains, le bilan atteint « près de 130 victimes » avec « des dizaines de disparus »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/04/ceuta-75-personnes-sont-mortes-en-voulant-rejoindre-l-enclave-espagnole-selon-les-autorites-locales_6738775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/04/ceuta-75-personnes-sont-mortes-en-voulant-rejoindre-l-enclave-espagnole-selon-les-autorites-locales_6738775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/04/ceuta-75-personnes-sont-mortes-en-voulant-rejoindre-l-enclave-espagnole-selon-les-autorites-locales_6738775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/917/0/5500/2750/644/322/60/0/1c0cfb6_ftp-1-obvztjiknddp-2026-08-04t045530z-1057845959-rc26rma4zfgt-rtrmadp-3-migration-europe-spain-ceuta.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un migrant prie sur une plage de Ceuta (Espagne), à la suite de traversées massives et meurtrières en provenance du Maroc, le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Violeta Santos Moura/REUTERS"
+      }
+    ],
+    "credit": "Violeta Santos Moura/REUTERS"
+  }
+}
