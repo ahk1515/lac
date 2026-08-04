@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-04T14:07:57.681683+00:00",
+  "_id": "79c5431a0a18",
+  "brut": {
+    "title": "Bientôt chez vous du mardi 04 août 2026",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Bientôt chez vous du mardi 04 août 2026"
+    },
+    "summary": "Aux États-Unis, des dizaines de policiers sont accusés d’avoir utilisé un réseau de caméras de surveillance à disposition des forces de l’ordre pour espionner leurs compagnes ou ex-compagnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, des dizaines de policiers sont accusés d’avoir utilisé un réseau de caméras de surveillance à disposition des forces de l’ordre pour espionner leurs compagnes ou ex-compagnes."
+    },
+    "published": "Tue, 04 Aug 2026 15:30:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      13,
+      30,
+      2,
+      1,
+      216,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/bientot-chez-vous-du-mardi-04-aout-2026_8107919.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/njT3EP1_aWo03HpEbterGbsZvwI/0x117:1024x693/432x243/filters:format(jpg):quality(50)/2026/08/04/6a719eba48f46869108201.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/bientot-chez-vous-du-mardi-04-aout-2026_8107919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/bientot-chez-vous-du-mardi-04-aout-2026_8107919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

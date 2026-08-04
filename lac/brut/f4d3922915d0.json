@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-04T14:07:57.449166+00:00",
+  "_id": "f4d3922915d0",
+  "brut": {
+    "title": "Au Soudan, les défections se multiplient dans les rangs des paramilitaires, au profit de l’armée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Soudan, les défections se multiplient dans les rangs des paramilitaires, au profit de l’armée"
+    },
+    "published": "Tue, 04 Aug 2026 16:00:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      14,
+      0,
+      4,
+      1,
+      216,
+      0
+    ],
+    "summary": "Depuis le mois d’avril, des dizaines de combattants des Forces de soutien rapide de « Hemetti » ont rejoint les Forces armées soudanaises du général Al-Bourhane. Des ralliements qui fragilisent les paramilitaires, mais qui ne sont pas sans risque pour Khartoum.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis le mois d’avril, des dizaines de combattants des Forces de soutien rapide de « Hemetti » ont rejoint les Forces armées soudanaises du général Al-Bourhane. Des ralliements qui fragilisent les paramilitaires, mais qui ne sont pas sans risque pour Khartoum."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/04/au-soudan-les-defections-se-multiplient-dans-les-rangs-des-paramilitaires-au-profit-de-l-armee_6738728_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/04/au-soudan-les-defections-se-multiplient-dans-les-rangs-des-paramilitaires-au-profit-de-l-armee_6738728_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/04/au-soudan-les-defections-se-multiplient-dans-les-rangs-des-paramilitaires-au-profit-de-l-armee_6738728_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/30/677/0/8125/4062/644/322/60/0/6bcc840_ftp-1-ak8yucvm3jqg-3e84039438a74543a197bb8c8355baf9-4-2864a81a2bae44a5a8f6f0269267884a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une photo du chef de l’armée soudanaise, le général Abdel Fattah Abdelrahman Al-Bourhane, accompagnée d’une inscription en arabe signifiant « une nation derrière le dirigeant », sur un marché d’Omdourman, près de Khartoum, le 26 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bernat Armangue/AP"
+      }
+    ],
+    "credit": "Bernat Armangue/AP"
+  }
+}
