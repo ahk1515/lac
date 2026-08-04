@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-04T02:25:35.353603+00:00",
+  "_id": "e95e5dde2aa5",
+  "brut": {
+    "title": "Insultes, salut nazis... L'extrême droite espagnole manifeste contre les migrants de Ceuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Insultes, salut nazis... L'extrême droite espagnole manifeste contre les migrants de Ceuta"
+    },
+    "summary": "Des habitants de l'enclave espagnole ont manifesté lundi 3 août après l'afflux de près de 60 000 migrants à Ceuta, à la frontière avec le Maroc, jeudi 30 et vendredi 31 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des habitants de l'enclave espagnole ont manifesté lundi 3 août après l'afflux de près de 60 000 migrants à Ceuta, à la frontière avec le Maroc, jeudi 30 et vendredi 31 juillet."
+    },
+    "published": "Mon, 03 Aug 2026 23:20:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      21,
+      20,
+      17,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/insultes-salut-nazis-l-extreme-droite-espagnole-manifeste-contre-les-migrants-de-ceuta_8133692.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/FD7m20oVXV6YTNJVJpg4gdnNAmY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/03/6a7105de89ded561382135.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/insultes-salut-nazis-l-extreme-droite-espagnole-manifeste-contre-les-migrants-de-ceuta_8133692.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/insultes-salut-nazis-l-extreme-droite-espagnole-manifeste-contre-les-migrants-de-ceuta_8133692.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

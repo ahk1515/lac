@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-04T02:25:35.353785+00:00",
+  "_id": "f9ee3d04d431",
+  "brut": {
+    "title": "Un drone ukrainien s’écrase sur une plage russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un drone ukrainien s’écrase sur une plage russe"
+    },
+    "summary": "Un drone ukrainien s'est écrasé dans une station balnéaire russe de la mer Noire. 7 personnes ont été tuées, dont 3 enfants et 40 autres ont été blessées. L'attaque aurait été provoquée par la chute de débris ou de projectiles lorsque le drone aurait été intercepté par le défense aérienne russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un drone ukrainien s'est écrasé dans une station balnéaire russe de la mer Noire. 7 personnes ont été tuées, dont 3 enfants et 40 autres ont été blessées. L'attaque aurait été provoquée par la chute de débris ou de projectiles lorsque le drone aurait été intercepté par le défense aérienne russe."
+    },
+    "published": "Mon, 03 Aug 2026 23:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      3,
+      21,
+      0,
+      2,
+      0,
+      215,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/un-drone-ukrainien-s-ecrase-sur-une-plage-russe_8133656.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gTTPlo2-AvKNF2TUKIBdEgRuP24/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/03/6a70f1edc22f7789489317.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/un-drone-ukrainien-s-ecrase-sur-une-plage-russe_8133656.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/un-drone-ukrainien-s-ecrase-sur-une-plage-russe_8133656.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

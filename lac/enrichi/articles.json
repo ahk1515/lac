@@ -9047,6 +9047,41 @@
     "pays": []
   },
   {
+    "date": "Mon, 03 Aug 2026 23:43:27 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Au Venezuela, le bilan grimpe à plus de 6 000 morts après le double séisme qui a secoué le nord du pays",
+    "texte": "Le gouvernement n'a pas précisé le nombre de personnes portées disparues dans ses nouveaux chiffres relatifs à la catastrophe du 24 juin. Des milliers de personnes vivent désormais dans des camps.",
+    "url": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-grimpe-a-plus-de-6-000-morts-apres-le-double-seisme-qui-a-secoue-le-nord-du-pays_8133701.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "8623035e3e41",
+    "pays": []
+  },
+  {
+    "date": "Mon, 03 Aug 2026 23:20:17 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Insultes, salut nazis... L'extrême droite espagnole manifeste contre les migrants de Ceuta",
+    "texte": "Des habitants de l'enclave espagnole ont manifesté lundi 3 août après l'afflux de près de 60 000 migrants à Ceuta, à la frontière avec le Maroc, jeudi 30 et vendredi 31 juillet.",
+    "url": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/insultes-salut-nazis-l-extreme-droite-espagnole-manifeste-contre-les-migrants-de-ceuta_8133692.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "e95e5dde2aa5",
+    "pays": [
+      "MAR"
+    ]
+  },
+  {
+    "date": "Mon, 03 Aug 2026 23:00:02 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Un drone ukrainien s’écrase sur une plage russe",
+    "texte": "Un drone ukrainien s'est écrasé dans une station balnéaire russe de la mer Noire. 7 personnes ont été tuées, dont 3 enfants et 40 autres ont été blessées. L'attaque aurait été provoquée par la chute de débris ou de projectiles lorsque le drone aurait été intercepté par le défense aérienne russe.",
+    "url": "https://www.franceinfo.fr/monde/russie/un-drone-ukrainien-s-ecrase-sur-une-plage-russe_8133656.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "f9ee3d04d431",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -21780,6 +21815,31 @@
     "texte": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
     "url": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-l-ambassadrice-ukrainienne-aux-etats-unis-limogee-par-volodymyr-zelensky_6737250_3210.html",
     "id": "865497f9bc24",
+    "pays": [
+      "UKR",
+      "USA"
+    ]
+  },
+  {
+    "date": "Tue, 04 Aug 2026 00:48:47 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Le nord-ouest des Etats-Unis confronté à une saison des feux « exceptionnelle », la ville de Spokane ressemble à une « zone de guerre »",
+    "texte": "Aucun des trois incendies qui ont détruit plusieurs quartiers de cette ville de 230 000 habitants, dans l’Etat de Washington, où l’état d’urgence a été déclaré samedi, n’est pour l’instant contenu.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/04/le-nord-ouest-des-etats-unis-confronte-a-une-saison-des-feux-exceptionnelle-la-ville-de-spokane-ressemble-a-une-zone-de-guerre_6737776_3210.html",
+    "id": "cc63bdd8b7b7",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Tue, 04 Aug 2026 00:39:43 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
+    "texte": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
+    "url": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_6737250_3210.html",
+    "id": "ffcf85f40928",
     "pays": [
       "UKR",
       "USA"
