@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T10:33:06.207149+00:00",
+  "_id": "728cf3a81e3e",
+  "brut": {
+    "title": "En Allemagne, le trafic à l’aéroport de Leipzig temporairement interrompu en raison d’un objet volant non identifié",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, le trafic à l’aéroport de Leipzig temporairement interrompu en raison d’un objet volant non identifié"
+    },
+    "published": "Wed, 05 Aug 2026 11:37:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      9,
+      37,
+      34,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 12:15:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      10,
+      15,
+      18,
+      2,
+      217,
+      0
+    ],
+    "summary": "Un avion qui n’a pu atterrir à l’aéroport de Leipzig-Halle est « apparemment entré en collision » avec un objet au moment de reprendre de l’altitude, a confirmé le ministère de l’intérieur allemand. Le trafic aérien a repris depuis, mais une partie de l’aéroport restait fermée mercredi matin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un avion qui n’a pu atterrir à l’aéroport de Leipzig-Halle est « apparemment entré en collision » avec un objet au moment de reprendre de l’altitude, a confirmé le ministère de l’intérieur allemand. Le trafic aérien a repris depuis, mais une partie de l’aéroport restait fermée mercredi matin."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/05/en-allemagne-le-trafic-a-l-aeroport-de-leipzig-temporairement-interrompu-en-raison-d-un-objet-volant-non-identifie_6739411_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/05/en-allemagne-le-trafic-a-l-aeroport-de-leipzig-temporairement-interrompu-en-raison-d-un-objet-volant-non-identifie_6739411_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/05/en-allemagne-le-trafic-a-l-aeroport-de-leipzig-temporairement-interrompu-en-raison-d-un-objet-volant-non-identifie_6739411_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/147/0/5151/2575/644/322/60/0/03734a7_ftp-1-ochkg0eukwfk-2c8ed0bd2e894e8e9672878aa1241be3-0-73fa9565f7774f7198932257c3e3f20b.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un avion décolle de l’aéroport de Leipzig-Halle, en Allemagne, le 18 juillet 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jan Woitas / Jan Woitas/DPA via AP"
+      }
+    ],
+    "credit": "Jan Woitas / Jan Woitas/DPA via AP"
+  }
+}

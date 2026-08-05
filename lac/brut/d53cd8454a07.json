@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T10:33:06.576736+00:00",
+  "_id": "d53cd8454a07",
+  "brut": {
+    "title": "\"Ils se font trop d’argent\" Donald Trump tacle les pétroliers américains",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Ils se font trop d’argent\" Donald Trump tacle les pétroliers américains"
+    },
+    "summary": "Aux États-Unis, la guerre en Iran et le blocage du détroit d'Ormuz font de nouveau flamber les cours du pétrole, mais aussi les profits des géants du secteur. Donald Trump estime qu'ils gagnent trop d'argent et exige une baisse des prix à la pompe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, la guerre en Iran et le blocage du détroit d'Ormuz font de nouveau flamber les cours du pétrole, mais aussi les profits des géants du secteur. Donald Trump estime qu'ils gagnent trop d'argent et exige une baisse des prix à la pompe."
+    },
+    "published": "Wed, 05 Aug 2026 11:34:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      9,
+      34,
+      8,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/ils-se-font-trop-d-argent-donald-trump-tacle-les-petroliers-americains_8135741.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/tpR1HuKBSmFkod2WGp-xJApq8cE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/05/6a730341400b4858169967.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/ils-se-font-trop-d-argent-donald-trump-tacle-les-petroliers-americains_8135741.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/ils-se-font-trop-d-argent-donald-trump-tacle-les-petroliers-americains_8135741.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

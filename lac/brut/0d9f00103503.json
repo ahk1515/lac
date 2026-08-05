@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T10:33:06.206730+00:00",
+  "_id": "0d9f00103503",
+  "brut": {
+    "title": "L’Islande ordonne l’expulsion de 21 militants engagés contre la chasse à la baleine avec la fondation de Paul Watson",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Islande ordonne l’expulsion de 21 militants engagés contre la chasse à la baleine avec la fondation de Paul Watson"
+    },
+    "published": "Wed, 05 Aug 2026 12:13:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      10,
+      13,
+      17,
+      2,
+      217,
+      0
+    ],
+    "summary": "Les militants, qui se trouvaient à bord du « Bandero », arraisonné la semaine dernière après avoir tenté d’entraver un navire baleinier, se sont vu notifier « une décision d’expulsion assortie d’une interdiction de retour », selon la police.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les militants, qui se trouvaient à bord du « Bandero », arraisonné la semaine dernière après avoir tenté d’entraver un navire baleinier, se sont vu notifier « une décision d’expulsion assortie d’une interdiction de retour », selon la police."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/05/l-islande-ordonne-l-expulsion-de-21-militants-engages-contre-la-chasse-a-la-baleine-avec-la-fondation-de-paul-watson_6739414_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/05/l-islande-ordonne-l-expulsion-de-21-militants-engages-contre-la-chasse-a-la-baleine-avec-la-fondation-de-paul-watson_6739414_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/05/l-islande-ordonne-l-expulsion-de-21-militants-engages-contre-la-chasse-a-la-baleine-avec-la-fondation-de-paul-watson_6739414_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/640/0/5120/2560/644/322/60/0/5963567_ftp-1-f6yadzbjiw4y-5755203-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le navire « Bandero », de la Captain Paul Watson Foundation, dans le port de Reykjavik le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Captain Paul Watson Foundation / AFP"
+      }
+    ],
+    "credit": "Captain Paul Watson Foundation / AFP"
+  }
+}

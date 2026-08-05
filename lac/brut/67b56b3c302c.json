@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T10:33:06.206959+00:00",
+  "_id": "67b56b3c302c",
+  "brut": {
+    "title": "Guatemala : les images de l’éruption du volcan Fuego",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guatemala : les images de l’éruption du volcan Fuego"
+    },
+    "published": "Wed, 05 Aug 2026 12:00:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      10,
+      0,
+      12,
+      2,
+      217,
+      0
+    ],
+    "summary": "Considéré comme le volcan le plus actif d’Amérique centrale, le Fuego est entré en phase éruptive lundi matin. Quelque 29 000 personnes sont directement exposées aux retombées de cendres, ce qui rend l’évacuation de la zone indispensable.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Considéré comme le volcan le plus actif d’Amérique centrale, le Fuego est entré en phase éruptive lundi matin. Quelque 29 000 personnes sont directement exposées aux retombées de cendres, ce qui rend l’évacuation de la zone indispensable."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/05/guatemala-les-images-de-l-eruption-du-volcan-fuego_6739412_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/05/guatemala-les-images-de-l-eruption-du-volcan-fuego_6739412_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/05/guatemala-les-images-de-l-eruption-du-volcan-fuego_6739412_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/619/0/7430/3715/644/322/60/0/8f3b546_ftp-1-bcf0oxuaodra-5771633-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le volcan de Fuego entre en éruption à Alotenango, à quelque 65 kilomètres au sud-ouest de Guatemala City, le 4 août 2026. Les autorités guatémaltèques ont déclenché le 4 août le deuxième niveau d’alerte le plus élevé du pays à la suite d’une éruption majeure du volcan le plus actif d’Amérique centrale, entraînant l’évacuation des villages voisins. (Photo de Johan ORDONEZ / AFP)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHAN ORDONEZ / AFP"
+      }
+    ],
+    "credit": "JOHAN ORDONEZ / AFP"
+  }
+}
