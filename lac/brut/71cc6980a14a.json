@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T17:27:56.256630+00:00",
+  "_id": "71cc6980a14a",
+  "brut": {
+    "title": "Aux États-Unis, une entreprise propose de louer un robot capable de nettoyer une maison.",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, une entreprise propose de louer un robot capable de nettoyer une maison."
+    },
+    "summary": "L'innovation est prometteuse, mais reste encore dépendante des humains. Elle soulève des questions sur les données personnelles et plus largement sur la vie privée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'innovation est prometteuse, mais reste encore dépendante des humains. Elle soulève des questions sur les données personnelles et plus largement sur la vie privée."
+    },
+    "published": "Wed, 05 Aug 2026 16:35:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      14,
+      35,
+      45,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-entreprise-propose-de-louer-un-robot-capable-de-nettoyer-une-maison_8109287.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/Tb1PY0m_bkvZXzG-QTcEaJTF2Rw/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/05/6a7335b53bfa7847645545.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-entreprise-propose-de-louer-un-robot-capable-de-nettoyer-une-maison_8109287.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-entreprise-propose-de-louer-un-robot-capable-de-nettoyer-une-maison_8109287.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

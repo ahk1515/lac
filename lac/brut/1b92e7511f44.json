@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T17:27:56.057729+00:00",
+  "_id": "1b92e7511f44",
+  "brut": {
+    "title": "Dans le sud du Liban, des frappes israéliennes sur une salle de prière font un mort et onze blessés, selon des médias locaux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sud du Liban, des frappes israéliennes sur une salle de prière font un mort et onze blessés, selon des médias locaux"
+    },
+    "published": "Wed, 05 Aug 2026 16:09:51 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      14,
+      9,
+      51,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 16:41:37 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      14,
+      41,
+      37,
+      2,
+      217,
+      0
+    ],
+    "summary": "L’agence de presse nationale libanaise rapporte que des missiles israéliens ont visé le toit d’une salle de prière dans le cimetière de la localité de Tibnine. Selon l’armée israélienne, ces attaques ciblées sont une réponse à une violation du cessez-le-feu par le Hezbollah.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’agence de presse nationale libanaise rapporte que des missiles israéliens ont visé le toit d’une salle de prière dans le cimetière de la localité de Tibnine. Selon l’armée israélienne, ces attaques ciblées sont une réponse à une violation du cessez-le-feu par le Hezbollah."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/05/au-liban-l-armee-israelienne-annonce-mener-des-frappes-sur-le-sud-du-pays-apres-un-appel-a-evacuer-un-village_6739432_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/05/au-liban-l-armee-israelienne-annonce-mener-des-frappes-sur-le-sud-du-pays-apres-un-appel-a-evacuer-un-village_6739432_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/05/au-liban-l-armee-israelienne-annonce-mener-des-frappes-sur-le-sud-du-pays-apres-un-appel-a-evacuer-un-village_6739432_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/472/0/6000/3000/644/322/60/0/d27fadf_ftp-1-ma6djqefbgzt-df5909536eae49a3aaf12cd3f1420df2-0-b8dfb8b320af42749588bc033b571edb.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un char israélien dans le village de Zaoutar El-Gharbiyé, situé dans le sud du Liban et occupé par les forces israéliennes, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammed Zaatari/AP"
+      }
+    ],
+    "credit": "Mohammed Zaatari/AP"
+  }
+}

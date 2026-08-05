@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T17:27:56.056687+00:00",
+  "_id": "da3886da7789",
+  "brut": {
+    "title": "En Afghanistan, quelque 500 civils auraient été tués dans les affrontements avec le Pakistan depuis dix mois",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Afghanistan, quelque 500 civils auraient été tués dans les affrontements avec le Pakistan depuis dix mois"
+    },
+    "published": "Wed, 05 Aug 2026 17:00:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      15,
+      0,
+      5,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 18:12:47 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      16,
+      12,
+      47,
+      2,
+      217,
+      0
+    ],
+    "summary": "Une mission des Nations unies a enquêté sur place pour établir un bilan des frappes pakistanaises depuis octobre 2025. Islamabad conteste les chiffres et affirme ne viser que des bases du Mouvement des talibans du Pakistan, qu’il accuse de lancer, depuis le sol afghan, des attaques contre son territoire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une mission des Nations unies a enquêté sur place pour établir un bilan des frappes pakistanaises depuis octobre 2025. Islamabad conteste les chiffres et affirme ne viser que des bases du Mouvement des talibans du Pakistan, qu’il accuse de lancer, depuis le sol afghan, des attaques contre son territoire."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/05/en-afghanistan-quelque-500-civils-auraient-ete-tues-dans-les-affrontements-avec-le-pakistan-depuis-dix-mois_6739440_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/05/en-afghanistan-quelque-500-civils-auraient-ete-tues-dans-les-affrontements-avec-le-pakistan-depuis-dix-mois_6739440_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/05/en-afghanistan-quelque-500-civils-auraient-ete-tues-dans-les-affrontements-avec-le-pakistan-depuis-dix-mois_6739440_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/486/0/5837/2918/644/322/60/0/64c8d09_ftp-1-uam786kmkcav-5478747-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une frappe pakistanaise dans un village du district de Tsamkani, dans la province de Paktiya (Afghanistan), le 29 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

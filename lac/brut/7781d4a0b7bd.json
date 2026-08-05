@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T17:27:56.057424+00:00",
+  "_id": "7781d4a0b7bd",
+  "brut": {
+    "title": "Londres : quatre hommes poignardés à Covent Garden, une femme arrêtée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Londres : quatre hommes poignardés à Covent Garden, une femme arrêtée"
+    },
+    "published": "Wed, 05 Aug 2026 16:18:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      14,
+      18,
+      27,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 18:46:40 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      16,
+      46,
+      40,
+      2,
+      217,
+      0
+    ],
+    "summary": "Les faits se sont produits mercredi, en début d’après-midi, à Endell Street, dans un quartier touristique très fréquenté qui compte de nombreux théâtres. L’incident serait lié à la santé mentale de la femme arrêtée, selon la police londonienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les faits se sont produits mercredi, en début d’après-midi, à Endell Street, dans un quartier touristique très fréquenté qui compte de nombreux théâtres. L’incident serait lié à la santé mentale de la femme arrêtée, selon la police londonienne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/05/londres-quatre-hommes-poignardes-a-covent-garden-une-femme-arretee_6739434_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/05/londres-quatre-hommes-poignardes-a-covent-garden-une-femme-arretee_6739434_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/05/londres-quatre-hommes-poignardes-a-covent-garden-une-femme-arretee_6739434_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/965/0/5789/2894/644/322/60/0/4a69eda_ftp-1-buhzul6g0n1a-5778665-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un périmètre de sécurité sur Endell Street, à Covent Garden (Londres), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HENRY NICHOLLS/AFP"
+      }
+    ],
+    "credit": "HENRY NICHOLLS/AFP"
+  }
+}
