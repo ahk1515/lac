@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T21:06:24.221012+00:00",
+  "_id": "8ce98d800f78",
+  "brut": {
+    "title": "Au Nigeria, plus de 300 victimes d’enlèvements ont été libérées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Nigeria, plus de 300 victimes d’enlèvements ont été libérées"
+    },
+    "published": "Wed, 05 Aug 2026 22:22:50 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      20,
+      22,
+      50,
+      2,
+      217,
+      0
+    ],
+    "summary": "Les victimes ont été libérées d’un lieu situé dans la forêt du parc national du lac Kainji.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les victimes ont été libérées d’un lieu situé dans la forêt du parc national du lac Kainji."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/05/au-nigeria-plus-de-300-victimes-d-enlevements-ont-ete-liberees_6739466_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/05/au-nigeria-plus-de-300-victimes-d-enlevements-ont-ete-liberees_6739466_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/05/au-nigeria-plus-de-300-victimes-d-enlevements-ont-ete-liberees_6739466_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/01/20/400/0/4928/2464/644/322/60/0/1d79472_ftp-1-zhwbblvts1br-2026-01-20t171015z-928877345-rc2y4ja3u6kl-rtrmadp-3-nigeria-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Kurmin Wali, au Nigeria, le 20 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nuhu Gwamna / REUTERS"
+      }
+    ],
+    "credit": "Nuhu Gwamna / REUTERS"
+  }
+}

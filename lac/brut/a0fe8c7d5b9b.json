@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T21:06:24.468312+00:00",
+  "_id": "a0fe8c7d5b9b",
+  "brut": {
+    "title": "Présidentielle 2027 : un risque d'ingérence russe ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Présidentielle 2027 : un risque d'ingérence russe ?"
+    },
+    "summary": "La désinformation russe cible les candidats à la présidentielle comme Édouard Philippe et Raphaël Glucksmann via des vidéos générées par IA. Ces cyberattaques, qualifiées de \"manœuvres de déstabilisation\", visent à influencer le scrutin français en diffusant de fausses informations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La désinformation russe cible les candidats à la présidentielle comme Édouard Philippe et Raphaël Glucksmann via des vidéos générées par IA. Ces cyberattaques, qualifiées de \"manœuvres de déstabilisation\", visent à influencer le scrutin français en diffusant de fausses informations."
+    },
+    "published": "Wed, 05 Aug 2026 22:09:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      20,
+      9,
+      1,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-un-risque-d-ingerence-russe_8136386.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Xq9pJ5hTMaj03rlReDXwdkanfWg/111x0:1404x727/432x243/filters:format(jpg):quality(50)/2026/08/05/6a7395f2ee8ad165173907.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-un-risque-d-ingerence-russe_8136386.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-un-risque-d-ingerence-russe_8136386.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

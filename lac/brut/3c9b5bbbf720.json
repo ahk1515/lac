@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T21:06:24.221385+00:00",
+  "_id": "3c9b5bbbf720",
+  "brut": {
+    "title": "Les houthistes revendiquent l’attaque en mer Rouge d’un deuxième pétrolier saoudien en une journée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les houthistes revendiquent l’attaque en mer Rouge d’un deuxième pétrolier saoudien en une journée"
+    },
+    "published": "Wed, 05 Aug 2026 21:26:42 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      19,
+      26,
+      42,
+      2,
+      217,
+      0
+    ],
+    "summary": "Le porte-parole militaire des rebelles yéménites a affirmé avoir frappé un tanker au large d’Aden après en avoir visé un autre plus tôt dans la journée près de Yanbu, dans le cadre du blocus décrété contre la flotte saoudienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le porte-parole militaire des rebelles yéménites a affirmé avoir frappé un tanker au large d’Aden après en avoir visé un autre plus tôt dans la journée près de Yanbu, dans le cadre du blocus décrété contre la flotte saoudienne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/05/les-houthistes-revendiquent-l-attaque-en-mer-rouge-d-un-deuxieme-petrolier-saoudien-en-une-journee_6739464_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/05/les-houthistes-revendiquent-l-attaque-en-mer-rouge-d-un-deuxieme-petrolier-saoudien-en-une-journee_6739464_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/05/les-houthistes-revendiquent-l-attaque-en-mer-rouge-d-un-deuxieme-petrolier-saoudien-en-une-journee_6739464_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/976/0/5500/2750/644/322/60/0/8a1b826_ftp-1-bibm7ekuwoek-2026-07-31t194632z-822414823-rc20pmafch40-rtrmadp-3-iran-crisis-yemen-saudi.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des houthistes devant une affiche de propagande, lors d’un rassemblement antisaoudien sur fond d’escalade des tensions, à Sanaa (Yémen), le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Khaled Abdullah/REUTERS"
+      }
+    ],
+    "credit": "Khaled Abdullah/REUTERS"
+  }
+}

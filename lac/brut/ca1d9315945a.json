@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T21:06:24.221599+00:00",
+  "_id": "ca1d9315945a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : plus de 120 000 foyers privés d’électricité dans l’oblast de Dnipropetrovsk après des attaques russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : plus de 120 000 foyers privés d’électricité dans l’oblast de Dnipropetrovsk après des attaques russes"
+    },
+    "published": "Wed, 05 Aug 2026 20:53:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      18,
+      53,
+      10,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 20:59:59 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      18,
+      59,
+      59,
+      2,
+      217,
+      0
+    ],
+    "summary": "Plusieurs bombardements russes contre les installations électriques du principal opérateur énergétique ukrainien, DTEK, ont entraîné des coupures de courant dans 126 000 foyers, principalement dans les localités de Nikopol, de Marhanets et de Pokrov, dans le sud du pays, a fait savoir l’opérateur, mercredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs bombardements russes contre les installations électriques du principal opérateur énergétique ukrainien, DTEK, ont entraîné des coupures de courant dans 126 000 foyers, principalement dans les localités de Nikopol, de Marhanets et de Pokrov, dans le sud du pays, a fait savoir l’opérateur, mercredi."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/932/0/6000/3000/644/322/60/0/e09d531_ftp-1-guj3pjrtk0ch-5777637-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une famille ukrainienne observe un incendie déclenché par des frappes russes, à Kiev, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TETIANA DZHAFAROVA/AFP"
+      }
+    ],
+    "credit": "TETIANA DZHAFAROVA/AFP"
+  }
+}

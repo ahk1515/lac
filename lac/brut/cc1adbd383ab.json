@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T21:06:24.221814+00:00",
+  "_id": "cc1adbd383ab",
+  "brut": {
+    "title": "L’Iran dit avoir trouvé un accord avec Oman sur un nouveau tracé dans le détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Iran dit avoir trouvé un accord avec Oman sur un nouveau tracé dans le détroit d’Ormuz"
+    },
+    "published": "Wed, 05 Aug 2026 19:42:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      17,
+      42,
+      12,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 19:50:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      17,
+      50,
+      18,
+      2,
+      217,
+      0
+    ],
+    "summary": "Le porte-parole de la diplomatie iranienne a annoncé que les coordonnées géographiques du tracé envisagé par les deux parties ont été approuvées. Les représentants d’Oman n’ont pas encore confirmé l’accord.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le porte-parole de la diplomatie iranienne a annoncé que les coordonnées géographiques du tracé envisagé par les deux parties ont été approuvées. Les représentants d’Oman n’ont pas encore confirmé l’accord."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/05/l-iran-dit-avoir-trouve-un-accord-avec-oman-sur-un-nouveau-trace-dans-le-detroit-d-ormuz_6739360_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/05/l-iran-dit-avoir-trouve-un-accord-avec-oman-sur-un-nouveau-trace-dans-le-detroit-d-ormuz_6739360_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/05/l-iran-dit-avoir-trouve-un-accord-avec-oman-sur-un-nouveau-trace-dans-le-detroit-d-ormuz_6739360_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/386/0/2609/1304/644/322/60/0/8f6cb8d_ftp-1-9xbsxkbwr3gb-2026-08-03t073334z-269669342-rc2rqma1tkmq-rtrmadp-3-iran-crisis-shipping.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue sur le détroit d’Ormuz, à partir du gouvernorat de Moussandam (Oman), le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}
