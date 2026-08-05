@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T06:26:56.181541+00:00",
+  "_id": "817ec73e3113",
+  "brut": {
+    "title": "La guerre en Somalie, l’autre impasse stratégique de l’administration Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La guerre en Somalie, l’autre impasse stratégique de l’administration Trump"
+    },
+    "published": "Wed, 05 Aug 2026 06:00:39 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      4,
+      0,
+      39,
+      2,
+      217,
+      0
+    ],
+    "summary": "L’armée américaine intervient dans ce pays de la Corne de l’Afrique depuis plus de vingt ans. Avec le retour de Donald Trump à la Maison Blanche, le nombre de frappes a quadruplé par rapport au bilan des quatre années de mandat de Joe Biden.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée américaine intervient dans ce pays de la Corne de l’Afrique depuis plus de vingt ans. Avec le retour de Donald Trump à la Maison Blanche, le nombre de frappes a quadruplé par rapport au bilan des quatre années de mandat de Joe Biden."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/05/la-guerre-en-somalie-l-autre-impasse-strategique-de-l-administration-trump_6739356_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/05/la-guerre-en-somalie-l-autre-impasse-strategique-de-l-administration-trump_6739356_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/05/la-guerre-en-somalie-l-autre-impasse-strategique-de-l-administration-trump_6739356_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/458/0/5500/2750/644/322/60/0/0e55f5f_upload-1-e4e3iovagvrm-000-b4xu9tv.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après des bombardements, une patrouille des forces gouvernementales somaliennes, dans le quartier de Howl-Wadaag, à Mogadiscio, le 4 juin 2026, ."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T06:26:56.951884+00:00",
+  "_id": "67faaafa147a",
+  "brut": {
+    "title": "Guerre en Ukraine : au moins 15 morts et 27 blessés dans des bombardements russes sur la région de Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : au moins 15 morts et 27 blessés dans des bombardements russes sur la région de Kiev"
+    },
+    "summary": "La région de la capitale ukrainienne a été la cible d'\"une attaque massive de drones et de missiles balistiques\" russes, selon les services d'urgence ukrainiens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La région de la capitale ukrainienne a été la cible d'\"une attaque massive de drones et de missiles balistiques\" russes, selon les services d'urgence ukrainiens."
+    },
+    "published": "Wed, 05 Aug 2026 08:01:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      6,
+      1,
+      5,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-et-27-blesses-dans-des-bombardements-russes-sur-la-region-de-kiev_8135441.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/T5yUJ2KZB1HLKd-xASZFlgvo3-I/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/05/6a72c11748974596927932.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-et-27-blesses-dans-des-bombardements-russes-sur-la-region-de-kiev_8135441.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-et-27-blesses-dans-des-bombardements-russes-sur-la-region-de-kiev_8135441.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

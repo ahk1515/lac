@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T06:26:56.182420+00:00",
+  "_id": "3a82c908e94e",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins 15 morts dans des bombardements russes sur Kiev et sa région",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins 15 morts dans des bombardements russes sur Kiev et sa région"
+    },
+    "published": "Wed, 05 Aug 2026 05:33:15 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      3,
+      33,
+      15,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 07:45:23 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      5,
+      45,
+      23,
+      2,
+      217,
+      0
+    ],
+    "summary": "Quatorze personnes ont été tuées et 27 autres blessées dans les environs de Kiev, et une femme est morte dans la capitale ukrainienne, lors d’une série de frappes nocturnes. En Russie, l’oblast de Toula a subi une attaque de drones ukrainiens ayant fait au moins un blessé, selon son gouverneur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quatorze personnes ont été tuées et 27 autres blessées dans les environs de Kiev, et une femme est morte dans la capitale ukrainienne, lors d’une série de frappes nocturnes. En Russie, l’oblast de Toula a subi une attaque de drones ukrainiens ayant fait au moins un blessé, selon son gouverneur."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-des-bombardements-sur-kiev-et-sa-region-font-au-moins-deux-morts_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-des-bombardements-sur-kiev-et-sa-region-font-au-moins-deux-morts_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-des-bombardements-sur-kiev-et-sa-region-font-au-moins-deux-morts_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/874/0/5846/2923/644/322/60/0/a3669fa_ftp-1-yjt9g7lnfg32-5776644-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant un arrêt de bus, à Kiev, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ROMAN PILIPEY/AFP"
+      }
+    ],
+    "credit": "ROMAN PILIPEY/AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T06:26:56.181312+00:00",
+  "_id": "9a262e31cf70",
+  "brut": {
+    "title": "Moyen-Orient : les négociations s’accélèrent autour d’une réouverture du détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Moyen-Orient : les négociations s’accélèrent autour d’une réouverture du détroit d’Ormuz"
+    },
+    "published": "Wed, 05 Aug 2026 06:49:51 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      4,
+      49,
+      51,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 08:02:28 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      6,
+      2,
+      28,
+      2,
+      217,
+      0
+    ],
+    "summary": "Selon des sources régionales citées par le média « Axios », un accord temporaire, qui pourrait être annoncé mercredi 5 août, est en discussion pour sécuriser le passage maritime, sans imposer de péage.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon des sources régionales citées par le média « Axios », un accord temporaire, qui pourrait être annoncé mercredi 5 août, est en discussion pour sécuriser le passage maritime, sans imposer de péage."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/05/moyen-orient-les-negociations-s-accelerent-autour-d-une-reouverture-du-detroit-d-ormuz_6739360_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/05/moyen-orient-les-negociations-s-accelerent-autour-d-une-reouverture-du-detroit-d-ormuz_6739360_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/05/moyen-orient-les-negociations-s-accelerent-autour-d-une-reouverture-du-detroit-d-ormuz_6739360_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/386/0/2609/1304/644/322/60/0/8f6cb8d_ftp-1-9xbsxkbwr3gb-2026-08-03t073334z-269669342-rc2rqma1tkmq-rtrmadp-3-iran-crisis-shipping.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue sur le détroit d’Ormuz, à partir du gouvernorat de Moussandam (Oman), le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}
