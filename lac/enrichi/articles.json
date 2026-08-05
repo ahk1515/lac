@@ -9437,6 +9437,28 @@
     "pays": []
   },
   {
+    "date": "Tue, 04 Aug 2026 23:27:28 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "\"Pour monter dans le bateau, c'est la loi du plus fort\" : tout risquer pour traverser la Manche",
+    "texte": "Dans la matinée du mardi 4 août, 173 migrants ont été secourus au large de Boulogne-sur-Mer. Leur embarcation était surchargée et son moteur avait pris feu. Comment s’organisent ces traversées, qui mettent tant de vies en danger ? Au cœur du trafic, de petits bateaux pneumatiques et des réseaux criminels.",
+    "url": "https://www.franceinfo.fr/monde/europe/migrants/pour-monter-dans-le-bateau-c-est-la-loi-du-plus-fort-tout-risquer-pour-traverser-la-manche_8134940.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "bf8f5f4ac395",
+    "pays": []
+  },
+  {
+    "date": "Tue, 04 Aug 2026 23:21:19 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Un navire commercial indien a coulé en mer Rouge après avoir été victime d'une attaque, l'équipage a été secouru",
+    "texte": "Le gouvernement yéménite, reconnu par la communauté internationale, a mis en cause les rebelle houthis pro-iraniens.",
+    "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/un-navire-a-coule-en-mer-rouge-apres-avoir-ete-victime-d-une-attaque-l-equipage-a-pu-etre-secouru_8135009.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "7dbff83e43ec",
+    "pays": [
+      "IND"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -22564,6 +22586,52 @@
     "texte": "De vastes zones du pays restent cependant sans électricité. Il s’agit de la sixième panne de l’année dans l’île, sur fond de grave crise énergétique et de blocus pétrolier imposé par les Etats-Unis.",
     "url": "https://www.lemonde.fr/international/article/2026/08/04/cuba-le-reseau-electrique-retabli-apres-une-nouvelle-panne-geante_6738783_3210.html",
     "id": "4c0e17168305",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Wed, 05 Aug 2026 03:16:52 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Un homme armé arrêté dans un golf de Donald Trump en Californie, deux jours avant une visite du président sur place",
+    "texte": "L’individu de 38 ans au comportement jugé suspect a été interpellé, dimanche 2 août, par les services du shérif du comté de Los Angeles. Un pistolet chargé ainsi que des munitions ont été retrouvés dans son véhicule.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/05/un-homme-arme-arrete-dans-un-golf-de-donald-trump-en-californie-deux-jours-avant-une-visite-du-president-sur-place-mardi_6739114_3210.html",
+    "id": "48d3204cbd95",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Wed, 05 Aug 2026 01:52:45 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Donald Trump lance un accès payant à ses annonces sur Truth Social, qui bousculent régulièrement les marchés, l’opposition s’insurge",
+    "texte": "Selon le « Wall Street Journal », cinq entreprises financières avaient déjà souscrit à l’abonnement payant, peu après son lancement, en juillet. Le site Axios évoque un tarif mensuel allant jusqu’à 100 000 dollars, soit environ 87 000 euros.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/05/donald-trump-lance-un-acces-payant-a-ses-annonces-sur-truth-social-qui-bousculent-regulierement-les-marches-l-opposition-s-insurge_6739048_3210.html",
+    "id": "0a72d8e192bb",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Wed, 05 Aug 2026 01:35:42 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Le PDG de Paramount, David Ellison, défend le rachat de Warner Bros en assurant préserver « l’indépendance » et en écartant toute « domination » du marché",
+    "texte": "Cette acquisition majeure suscite de nombreuses critiques et des recours judiciaires. Outre les studios de cinéma et les services de streaming, elle mettra sous le même toit deux des principales chaînes d’information dans le pays, CNN et CBS News.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/05/le-pdg-de-paramount-david-ellison-defend-le-rachat-de-warner-bros-en-assurant-preserver-l-independance-et-en-ecartant-toute-domination-du-marche_6739015_3210.html",
+    "id": "f744eee285ce",
+    "pays": []
+  },
+  {
+    "date": "Wed, 05 Aug 2026 00:10:52 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Incendies dans le nord-ouest des Etats-Unis : un homme soupçonné d’avoir provoqué l’un des feux dévastateurs de Spokane arrêté",
+    "texte": "Le plus important des trois sinistres en cours dans la ville de Spokane, dans l’Etat de Washington, pourrait avoir été déclenché par un homme de 37 ans, placé en détention provisoire, et déjà condamné par le passé pour homicide involontaire.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/05/incendies-dans-le-nord-ouest-des-etats-unis-un-homme-soupconne-d-avoir-provoque-l-un-des-feux-devastateurs-de-spokane-arrete_6738982_3210.html",
+    "id": "5ef682ceb3d6",
     "pays": [
       "USA"
     ]

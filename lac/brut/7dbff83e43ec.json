@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T02:25:21.577419+00:00",
+  "_id": "7dbff83e43ec",
+  "brut": {
+    "title": "Un navire commercial indien a coulé en mer Rouge après avoir été victime d'une attaque, l'équipage a été secouru",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un navire commercial indien a coulé en mer Rouge après avoir été victime d'une attaque, l'équipage a été secouru"
+    },
+    "summary": "Le gouvernement yéménite, reconnu par la communauté internationale, a mis en cause les rebelle houthis pro-iraniens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le gouvernement yéménite, reconnu par la communauté internationale, a mis en cause les rebelle houthis pro-iraniens."
+    },
+    "published": "Tue, 04 Aug 2026 23:21:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      4,
+      21,
+      21,
+      19,
+      1,
+      216,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/un-navire-a-coule-en-mer-rouge-apres-avoir-ete-victime-d-une-attaque-l-equipage-a-pu-etre-secouru_8135009.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/kkyUH3UJd6GbEl3iI0OezPJfPWo/0x31:574x354/432x243/filters:format(jpg):quality(50)/2026/08/04/6a7257273ee19616082339.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/un-navire-a-coule-en-mer-rouge-apres-avoir-ete-victime-d-une-attaque-l-equipage-a-pu-etre-secouru_8135009.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/un-navire-a-coule-en-mer-rouge-apres-avoir-ete-victime-d-une-attaque-l-equipage-a-pu-etre-secouru_8135009.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
