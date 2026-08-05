@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T14:06:16.984939+00:00",
+  "_id": "a3137f689b38",
+  "brut": {
+    "title": "Comment la sécheresse met les centrales nucléaires sous pression ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comment la sécheresse met les centrales nucléaires sous pression ?"
+    },
+    "summary": "La chaleur et le manque de pluie font chuter le débit des fleuves, ce qui menace la production d'électricité nucléaire. Le Danube est à un niveau historiquement bas et en Roumanie, l’armée a même utilisé des explosifs pour diriger davantage d’eau vers la centrale de Cernavoda.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La chaleur et le manque de pluie font chuter le débit des fleuves, ce qui menace la production d'électricité nucléaire. Le Danube est à un niveau historiquement bas et en Roumanie, l’armée a même utilisé des explosifs pour diriger davantage d’eau vers la centrale de Cernavoda."
+    },
+    "published": "Wed, 05 Aug 2026 14:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      12,
+      0,
+      2,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/comment-la-secheresse-met-les-centrales-nucleaires-sous-pression_8135762.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/J71TGgc_uMGijaYU4gNiO2lkreg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/05/6a7305ade6ab8956975578.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/comment-la-secheresse-met-les-centrales-nucleaires-sous-pression_8135762.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/comment-la-secheresse-met-les-centrales-nucleaires-sous-pression_8135762.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

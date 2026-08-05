@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-05T14:06:16.715989+00:00",
+  "_id": "61156cf00daa",
+  "brut": {
+    "title": "« Cotton Queen » : au Soudan, le cri de résistance de deux générations de femmes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Cotton Queen » : au Soudan, le cri de résistance de deux générations de femmes"
+    },
+    "published": "Wed, 05 Aug 2026 10:00:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      8,
+      0,
+      0,
+      2,
+      217,
+      0
+    ],
+    "updated": "Wed, 05 Aug 2026 14:41:44 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      5,
+      12,
+      41,
+      44,
+      2,
+      217,
+      0
+    ],
+    "summary": "Le film, qui mêle accents poétiques et réalités documentaires, voit la propriétaire d’un champ de coton et sa petite-fille confrontées à l’arrivée d’un homme d’affaires puissant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le film, qui mêle accents poétiques et réalités documentaires, voit la propriétaire d’un champ de coton et sa petite-fille confrontées à l’arrivée d’un homme d’affaires puissant."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/08/05/cotton-queen-au-soudan-le-cri-de-resistance-de-deux-generations-de-femmes_6739404_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/08/05/cotton-queen-au-soudan-le-cri-de-resistance-de-deux-generations-de-femmes_6739404_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/08/05/cotton-queen-au-soudan-le-cri-de-resistance-de-deux-generations-de-femmes_6739404_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/79/0/1741/870/644/322/60/0/508900a_upload-1-f00gcfgrv1a6-cotton-queen-2-c-frida-marzouk-strange-bird-2025.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Image extraite de « Cotton Queen », de Suzannah Mirghani."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Frida Marzouk/Strange Bird/WAYNA PITCH"
+      }
+    ],
+    "credit": "Frida Marzouk/Strange Bird/WAYNA PITCH"
+  }
+}

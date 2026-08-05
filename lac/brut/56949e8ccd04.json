@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T14:06:16.984505+00:00",
+  "_id": "56949e8ccd04",
+  "brut": {
+    "title": "Faute de défense anti-aérienne suffisante, Kiev essuie une attaque russe qui fait au moins 17 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Faute de défense anti-aérienne suffisante, Kiev essuie une attaque russe qui fait au moins 17 morts"
+    },
+    "summary": "Une attaque russe à Kiev a fait au moins 17 morts et 44 blessés. L’Ukraine n’a pas eu les moyens d’intercepter la pluie de missiles faute de défense antiaérienne suffisante.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque russe à Kiev a fait au moins 17 morts et 44 blessés. L’Ukraine n’a pas eu les moyens d’intercepter la pluie de missiles faute de défense antiaérienne suffisante."
+    },
+    "published": "Wed, 05 Aug 2026 15:10:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      13,
+      10,
+      0,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/faute-de-defense-anti-aerienne-suffisante-kiev-essuie-une-attaque-russe-qui-fait-au-moins-17-morts_8135939.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/mKFrg7BMhQHSgIhl-hfsxKNzq7c/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/05/6a7335800354f421070862.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/faute-de-defense-anti-aerienne-suffisante-kiev-essuie-une-attaque-russe-qui-fait-au-moins-17-morts_8135939.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/faute-de-defense-anti-aerienne-suffisante-kiev-essuie-une-attaque-russe-qui-fait-au-moins-17-morts_8135939.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

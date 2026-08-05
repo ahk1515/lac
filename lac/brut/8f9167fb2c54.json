@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-05T14:06:16.984728+00:00",
+  "_id": "8f9167fb2c54",
+  "brut": {
+    "title": "Un drone équipé d'un \"engin explosif\" découvert à l'aéroport de Leipzig, en Allemagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un drone équipé d'un \"engin explosif\" découvert à l'aéroport de Leipzig, en Allemagne"
+    },
+    "summary": "Le trafic a été interrompu mardi soir pendant près de deux heures à l'aéroport de Leipzig après la découverte d'un drone. Une enquête est en cours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le trafic a été interrompu mardi soir pendant près de deux heures à l'aéroport de Leipzig après la découverte d'un drone. Une enquête est en cours."
+    },
+    "published": "Wed, 05 Aug 2026 15:18:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      13,
+      18,
+      19,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/un-drone-equipe-d-un-engin-explosif-decouvert-a-l-aeroport-de-leipzig-en-allemagne_8135885.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VNygG0KcH5-ceoT4BiGLkb1NQGQ/0x184:5392x3217/432x243/filters:format(jpg):quality(50)/2026/08/05/6a732f02cdb91808711607.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/un-drone-equipe-d-un-engin-explosif-decouvert-a-l-aeroport-de-leipzig-en-allemagne_8135885.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/un-drone-equipe-d-un-engin-explosif-decouvert-a-l-aeroport-de-leipzig-en-allemagne_8135885.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
