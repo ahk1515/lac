@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-06T02:27:44.353357+00:00",
+  "_id": "1d8fb03af1b3",
+  "brut": {
+    "title": "Au Guatemala, l'éruption du volcan de Fuego est désormais terminée, annoncent les experts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Guatemala, l'éruption du volcan de Fuego est désormais terminée, annoncent les experts"
+    },
+    "summary": "Son réveil avait déclenché une alerte maximale dans plusieurs secteurs et l'évacuation de 1 700 personnes dans les villages des alentours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Son réveil avait déclenché une alerte maximale dans plusieurs secteurs et l'évacuation de 1 700 personnes dans les villages des alentours."
+    },
+    "published": "Wed, 05 Aug 2026 23:02:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      21,
+      2,
+      20,
+      2,
+      217,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/eruptions-volcaniques/au-guatemala-l-eruption-du-volcan-de-fuego-est-desormais-terminee-annoncent-les-experts_8136413.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/OXamkWHYIg3mM3P3E8njFtm_yFU/0x282:5428x3336/432x243/filters:format(jpg):quality(50)/2026/08/05/6a73a44ff0a70057229174.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/eruptions-volcaniques/au-guatemala-l-eruption-du-volcan-de-fuego-est-desormais-terminee-annoncent-les-experts_8136413.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/eruptions-volcaniques/au-guatemala-l-eruption-du-volcan-de-fuego-est-desormais-terminee-annoncent-les-experts_8136413.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
