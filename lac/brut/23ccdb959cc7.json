@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T06:28:50.822161+00:00",
+  "_id": "23ccdb959cc7",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu 605 drones dans la nuit ; trois morts dans des bombardements russes dans la région de Kharkiv",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu 605 drones dans la nuit ; trois morts dans des bombardements russes dans la région de Kharkiv"
+    },
+    "published": "Thu, 06 Aug 2026 06:19:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      4,
+      19,
+      21,
+      3,
+      218,
+      0
+    ],
+    "updated": "Thu, 06 Aug 2026 07:55:44 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      6,
+      5,
+      55,
+      44,
+      3,
+      218,
+      0
+    ],
+    "summary": "Les frappes russes qui ont visé des maisons individuelles de la ville de Balakliïa ont tué, dans la nuit de mercredi à jeudi, deux femmes et un homme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les frappes russes qui ont visé des maisons individuelles de la ville de Balakliïa ont tué, dans la nuit de mercredi à jeudi, deux femmes et un homme."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-londres-reaffirme-son-soutien-indefectible-et-sans-equivoque-a-kiev_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-londres-reaffirme-son-soutien-indefectible-et-sans-equivoque-a-kiev_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-londres-reaffirme-son-soutien-indefectible-et-sans-equivoque-a-kiev_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/932/0/6000/3000/644/322/60/0/e09d531_ftp-1-guj3pjrtk0ch-5777637-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une famille ukrainienne observe un incendie déclenché par des frappes russes, à Kiev, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TETIANA DZHAFAROVA/AFP"
+      }
+    ],
+    "credit": "TETIANA DZHAFAROVA/AFP"
+  }
+}

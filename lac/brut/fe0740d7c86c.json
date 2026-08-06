@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T06:28:50.821988+00:00",
+  "_id": "fe0740d7c86c",
+  "brut": {
+    "title": "En Russie, là où Poutine passe, le prix de l’essence baisse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Russie, là où Poutine passe, le prix de l’essence baisse"
+    },
+    "published": "Thu, 06 Aug 2026 06:49:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      4,
+      49,
+      14,
+      3,
+      218,
+      0
+    ],
+    "summary": "A l’occasion d’une visite du président russe à Krasnoïarsk, en Sibérie, lundi 3 août, les habitants de la ville ont eu la surprise de constater la chute subite des tarifs du carburant. Une mise en scène dans un contexte de pénurie provoquée par les attaques de drones ukrainiens sur les raffineries du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A l’occasion d’une visite du président russe à Krasnoïarsk, en Sibérie, lundi 3 août, les habitants de la ville ont eu la surprise de constater la chute subite des tarifs du carburant. Une mise en scène dans un contexte de pénurie provoquée par les attaques de drones ukrainiens sur les raffineries du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/en-russie-la-ou-poutine-passe-le-prix-de-l-essence-baisse_6739681_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/en-russie-la-ou-poutine-passe-le-prix-de-l-essence-baisse_6739681_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/en-russie-la-ou-poutine-passe-le-prix-de-l-essence-baisse_6739681_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/101/0/3879/1939/644/322/60/0/0be5c85_ftp-1-216bp6aj31gv-5765974-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président russe Vladimir Poutine rencontre les finalistes du concours national « Bolshaya Peremena » (« grand changement »), destiné aux élèves, à Krasnoïarsk (Russie), le 3 août 2026, sur une photo de presse diffusée par l’agence d’Etat russe Sputnik."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VYACHESLAV PROKOFYEV/SPUTNIK VIA AFP"
+      }
+    ],
+    "credit": "VYACHESLAV PROKOFYEV/SPUTNIK VIA AFP"
+  }
+}
