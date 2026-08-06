@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-06T14:05:38.808960+00:00",
+  "_id": "e26c98946796",
+  "brut": {
+    "title": "L'Ukraine frappe des raffineries, la Russie vise une gare et un navire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Ukraine frappe des raffineries, la Russie vise une gare et un navire"
+    },
+    "summary": "Le président ukrainien, Volodymyr Zelensky, s'est félicité de ces frappes ayant touché, à plus de 1 300 km du front. Le ministère de la Défense russe a pour sa part annoncé avoir abattu dans la nuit 605 drones ukrainiens au-dessus d'une vingtaine de ses régions et de la Crimée annexée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président ukrainien, Volodymyr Zelensky, s'est félicité de ces frappes ayant touché, à plus de 1 300 km du front. Le ministère de la Défense russe a pour sa part annoncé avoir abattu dans la nuit 605 drones ukrainiens au-dessus d'une vingtaine de ses régions et de la Crimée annexée."
+    },
+    "published": "Thu, 06 Aug 2026 13:49:49 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      11,
+      49,
+      49,
+      3,
+      218,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-frappe-des-raffineries-la-russie-vise-une-gare-et-un-navire_8137112.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Y9xU_S9VApxo0121RXYpN9XJ6VY/0x0:4896x2754/432x243/filters:format(jpg):quality(50)/2026/08/06/6a7473294d136294585385.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-frappe-des-raffineries-la-russie-vise-une-gare-et-un-navire_8137112.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-frappe-des-raffineries-la-russie-vise-une-gare-et-un-navire_8137112.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

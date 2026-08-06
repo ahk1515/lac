@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-06T14:05:38.808249+00:00",
+  "_id": "f2a21896a4cc",
+  "brut": {
+    "title": "Aux États-Unis, des plateformes permettent de parier sur les incendies",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, des plateformes permettent de parier sur les incendies"
+    },
+    "summary": "Aux États-Unis, des sites en ligne permettent de miser sur l'ampleur ou la durée de catastrophes naturelles. Des sénateurs alertent sur les risques liés aux paris sur les incendies, craignant qu'ils ne créent des \"motivations perverses\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, des sites en ligne permettent de miser sur l'ampleur ou la durée de catastrophes naturelles. Des sénateurs alertent sur les risques liés aux paris sur les incendies, craignant qu'ils ne créent des \"motivations perverses\"."
+    },
+    "published": "Thu, 06 Aug 2026 15:30:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      13,
+      30,
+      2,
+      3,
+      218,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-des-plateformes-permettent-de-parier-sur-les-incendies_8110736.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/heRPEXlucqIibZ5unJa0hTE8Yxs/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/06/6a745f2fcf9d4688148394.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-des-plateformes-permettent-de-parier-sur-les-incendies_8110736.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-des-plateformes-permettent-de-parier-sur-les-incendies_8110736.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

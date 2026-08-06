@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T14:05:38.315549+00:00",
+  "_id": "78f99e7687be",
+  "brut": {
+    "title": "Royaume-Uni : hausse de 39 % des signalements pour radicalisation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Royaume-Uni : hausse de 39 % des signalements pour radicalisation"
+    },
+    "published": "Thu, 06 Aug 2026 16:00:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      14,
+      0,
+      48,
+      3,
+      218,
+      0
+    ],
+    "summary": "Entre octobre 2024 et septembre 2025, une alerte sur cinq (20 %) concernait une personne avec des opinions d’extrême droite, contre 8 % de cas liés à la mouvance islamiste, selon le rapport.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Entre octobre 2024 et septembre 2025, une alerte sur cinq (20 %) concernait une personne avec des opinions d’extrême droite, contre 8 % de cas liés à la mouvance islamiste, selon le rapport."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/royaume-uni-hausse-de-39-des-signalements-pour-radicalisation_6739953_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/royaume-uni-hausse-de-39-des-signalements-pour-radicalisation_6739953_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/royaume-uni-hausse-de-39-des-signalements-pour-radicalisation_6739953_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/556/0/5128/2564/644/322/60/0/22933ef_upload-1-cyibvscygccc-000-b32n7wv.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des partisans du militant d’extrême droite britannique Tommy Robinson, de son vrai nom Stephen Yaxley-Lennon, qui l’écoutent s’exprimer sur un écran à Parliament Square, dans le centre de Londres, le 16 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JUSTIN TALLIS/AFP"
+      }
+    ],
+    "credit": "JUSTIN TALLIS/AFP"
+  }
+}

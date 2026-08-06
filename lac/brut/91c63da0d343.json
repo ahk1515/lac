@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T14:05:38.315843+00:00",
+  "_id": "91c63da0d343",
+  "brut": {
+    "title": "Londres : une femme a été mise en examen pour avoir poignardé quatre hommes à Covent Garden",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Londres : une femme a été mise en examen pour avoir poignardé quatre hommes à Covent Garden"
+    },
+    "published": "Thu, 06 Aug 2026 15:35:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      13,
+      35,
+      5,
+      3,
+      218,
+      0
+    ],
+    "updated": "Thu, 06 Aug 2026 15:36:51 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      6,
+      13,
+      36,
+      51,
+      3,
+      218,
+      0
+    ],
+    "summary": "Selon les premières investigations de la police britannique, cette agression au couteau serait un « incident isolé lié à des problèmes de santé mentale ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les premières investigations de la police britannique, cette agression au couteau serait un « incident isolé lié à des problèmes de santé mentale »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/londres-une-femme-a-ete-mise-en-examen-pour-avoir-poignarde-quatre-hommes-a-covent-garden_6739950_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/londres-une-femme-a-ete-mise-en-examen-pour-avoir-poignarde-quatre-hommes-a-covent-garden_6739950_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/londres-une-femme-a-ete-mise-en-examen-pour-avoir-poignarde-quatre-hommes-a-covent-garden_6739950_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/944/0/6000/3000/644/322/60/0/695afba_ftp-1-uwwiv8dmmrya-9ab5b97cc71a4294a9ee5dc66b911905-0-716dfc3aa3b241aba34d7ff908f19767.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Covent Garden, dans le centre de Londres, où quatre hommes ont été poignardés, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "James Manning/PA via AP"
+      }
+    ],
+    "credit": "James Manning/PA via AP"
+  }
+}

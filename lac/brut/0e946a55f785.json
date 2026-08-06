@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T14:05:38.316710+00:00",
+  "_id": "0e946a55f785",
+  "brut": {
+    "title": "Sheikh Hasina, la dirigeante déchue du Bangladesh, annonce depuis l’Inde son retour au pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sheikh Hasina, la dirigeante déchue du Bangladesh, annonce depuis l’Inde son retour au pays"
+    },
+    "published": "Thu, 06 Aug 2026 13:00:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      11,
+      0,
+      3,
+      3,
+      218,
+      0
+    ],
+    "updated": "Thu, 06 Aug 2026 14:09:20 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      6,
+      12,
+      9,
+      20,
+      3,
+      218,
+      0
+    ],
+    "summary": "l’ancienne première ministre en exil à New Delhi assure, malgré le fait qu’elle soit condamnée à mort, qu’elle regagnera le Bangladesh en décembre, pour le 55ᵉ anniversaire de l’indépendance du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "l’ancienne première ministre en exil à New Delhi assure, malgré le fait qu’elle soit condamnée à mort, qu’elle regagnera le Bangladesh en décembre, pour le 55ᵉ anniversaire de l’indépendance du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/sheikh-hasina-la-dirigeante-dechue-du-bangladesh-annonce-depuis-l-inde-son-retour-au-pays_6739940_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/sheikh-hasina-la-dirigeante-dechue-du-bangladesh-annonce-depuis-l-inde-son-retour-au-pays_6739940_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/sheikh-hasina-la-dirigeante-dechue-du-bangladesh-annonce-depuis-l-inde-son-retour-au-pays_6739940_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/648/0/3887/1943/644/322/60/0/d826f16_ftp-1-wg7nfvgcpfs4-2026-08-04t035732z-168607864-rc2md5ae8kxl-rtrmadp-3-bangladesh-hasina.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sheikh Hasina, alors première ministre du Bangladesh et présidente de la Ligue Awami, à Dacca, le 8 janvier 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammad Ponir Hossain/REUTERS"
+      }
+    ],
+    "credit": "Mohammad Ponir Hossain/REUTERS"
+  }
+}
