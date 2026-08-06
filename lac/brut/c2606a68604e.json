@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-06T10:37:03.267027+00:00",
+  "_id": "c2606a68604e",
+  "brut": {
+    "title": "En Italie, des éboueurs aident à retrouver un ticket de loterie d’un million d’euros",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, des éboueurs aident à retrouver un ticket de loterie d’un million d’euros"
+    },
+    "summary": "Elle avait jeté un million d'euros à la poubelle sans le savoir. Un ticket de loterie d'un million d'euros a été retrouvé dans les ordures en Italie après que la gagnante, affolée, a demandé aux éboueurs de l'aider à le récupérer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Elle avait jeté un million d'euros à la poubelle sans le savoir. Un ticket de loterie d'un million d'euros a été retrouvé dans les ordures en Italie après que la gagnante, affolée, a demandé aux éboueurs de l'aider à le récupérer."
+    },
+    "published": "Thu, 06 Aug 2026 10:55:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      8,
+      55,
+      20,
+      3,
+      218,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/en-italie-des-eboueurs-aident-a-retrouver-un-ticket-de-loterie-d-un-million-d-euros_8136947.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/aCJqFyl4KGV878nIAcaEvV6HZdI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/06/6a744bc313a39359385284.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/en-italie-des-eboueurs-aident-a-retrouver-un-ticket-de-loterie-d-un-million-d-euros_8136947.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/en-italie-des-eboueurs-aident-a-retrouver-un-ticket-de-loterie-d-un-million-d-euros_8136947.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

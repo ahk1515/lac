@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T10:37:02.815506+00:00",
+  "_id": "29c4684ca389",
+  "brut": {
+    "title": "En Ukraine, les attaques russes sur les ports de la mer Noire étranglent les exportations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, les attaques russes sur les ports de la mer Noire étranglent les exportations"
+    },
+    "published": "Thu, 06 Aug 2026 09:28:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      7,
+      28,
+      52,
+      3,
+      218,
+      0
+    ],
+    "summary": "Au moins 124 frappes russes ont visé, en juillet, les terminaux du sud de l’Ukraine, par lesquels transitent plus de 90 % des exportations de céréales et d’huile de tournesol du pays. Les autorités tentent de mettre en place des itinéraires alternatifs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins 124 frappes russes ont visé, en juillet, les terminaux du sud de l’Ukraine, par lesquels transitent plus de 90 % des exportations de céréales et d’huile de tournesol du pays. Les autorités tentent de mettre en place des itinéraires alternatifs."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/en-ukraine-les-attaques-russes-sur-les-ports-de-la-mer-noire-etranglent-les-exportations_6739725_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/en-ukraine-les-attaques-russes-sur-les-ports-de-la-mer-noire-etranglent-les-exportations_6739725_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/en-ukraine-les-attaques-russes-sur-les-ports-de-la-mer-noire-etranglent-les-exportations_6739725_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/361/0/3986/1993/644/322/60/0/c3e414b_ftp-1-9dj4gxt6g7wu-2026-07-29t093131z-553251886-rc2hdma9hmik-rtrmadp-3-ukraine-crisis-pivdennyi-gok.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un navire civil en feu après une frappe militaire russe, près du port d’Odessa (Ukraine), le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Victor Sayenko/REUTERS"
+      }
+    ],
+    "credit": "Victor Sayenko/REUTERS"
+  }
+}

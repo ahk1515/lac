@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T10:37:02.813986+00:00",
+  "_id": "52989a716cd4",
+  "brut": {
+    "title": "Aux Etats-Unis, le Parti démocrate au défi de l’unité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, le Parti démocrate au défi de l’unité"
+    },
+    "published": "Thu, 06 Aug 2026 11:00:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      9,
+      0,
+      16,
+      3,
+      218,
+      0
+    ],
+    "summary": "Les primaires qui viennent de se tenir dans le Michigan, un Etat-clé des élections de mi-mandat de novembre, confirment les fractures au sein des démocrates américains et rappellent l’urgence pour le parti de combler son vide programmatique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les primaires qui viennent de se tenir dans le Michigan, un Etat-clé des élections de mi-mandat de novembre, confirment les fractures au sein des démocrates américains et rappellent l’urgence pour le parti de combler son vide programmatique."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/08/06/aux-etats-unis-le-parti-democrate-au-defi-de-l-unite_6739798_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/08/06/aux-etats-unis-le-parti-democrate-au-defi-de-l-unite_6739798_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/08/06/aux-etats-unis-le-parti-democrate-au-defi-de-l-unite_6739798_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/333/0/4000/2000/644/322/60/0/ddb70fc_ftp-1-pfkwf0ihcocy-5768816-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Abdul El-Sayed, alors candidat démocrate au Sénat dans l’Etat du Michigan, lors d’un meeting à Detroit (Michigan), le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JEFF KOWALSKY/AFP"
+      }
+    ],
+    "credit": "JEFF KOWALSKY/AFP"
+  }
+}

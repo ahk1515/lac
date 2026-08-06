@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T10:37:02.815196+00:00",
+  "_id": "a30274483929",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des bombardements sur des installations pétrolières russes situées à plus de 1 300 kilomètres de la ligne de front",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des bombardements sur des installations pétrolières russes situées à plus de 1 300 kilomètres de la ligne de front"
+    },
+    "published": "Thu, 06 Aug 2026 09:51:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      7,
+      51,
+      9,
+      3,
+      218,
+      0
+    ],
+    "updated": "Thu, 06 Aug 2026 11:36:57 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      6,
+      9,
+      36,
+      57,
+      3,
+      218,
+      0
+    ],
+    "summary": "Selon le président ukrainien, la raffinerie de pétrole Bashneft-Novoïl, au Bachkortostan, et celle de Slavneft-Yanos, dans l’oblast de Iaroslavl, ont notamment été touchées. M. Zelensky a aussi affirmé que l’armée ukrainienne avait visé, en mer Noire, deux vedettes militaires russes ainsi que des navires liés à la flotte fantôme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le président ukrainien, la raffinerie de pétrole Bashneft-Novoïl, au Bachkortostan, et celle de Slavneft-Yanos, dans l’oblast de Iaroslavl, ont notamment été touchées. M. Zelensky a aussi affirmé que l’armée ukrainienne avait visé, en mer Noire, deux vedettes militaires russes ainsi que des navires liés à la flotte fantôme."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-sur-des-installations-petrolieres-russes-situees-a-plus-de-1-300-kilometres-de-la-ligne-de-front_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-sur-des-installations-petrolieres-russes-situees-a-plus-de-1-300-kilometres-de-la-ligne-de-front_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-sur-des-installations-petrolieres-russes-situees-a-plus-de-1-300-kilometres-de-la-ligne-de-front_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/115/0/1080/540/644/322/60/0/e7833c9_upload-1-djxj7psdeihj-38053.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran d’une vidéo diffusée sur le canal Telegram du président ukrainien, Volodymyr Zelensky, montrant ce qui serait des installations pétrolières russes frappées par l’armée ukrainienne."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Volodymyr Zelensky via télégram"
+      }
+    ],
+    "credit": "Volodymyr Zelensky via télégram"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T10:37:02.814284+00:00",
+  "_id": "4d6221de167d",
+  "brut": {
+    "title": "Sumba, l’île aux esclaves indonésienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sumba, l’île aux esclaves indonésienne"
+    },
+    "published": "Thu, 06 Aug 2026 10:58:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      8,
+      58,
+      5,
+      3,
+      218,
+      0
+    ],
+    "summary": "L’esclavage, qui remonte ici au XVIᵉ siècle selon les historiens, a été officiellement aboli en Indonésie en 1860 alors sous domination néerlandaise. Mais il reste profondément ancré dans la culture de Sumba, essentiellement dans la partie orientale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’esclavage, qui remonte ici au XVIᵉ siècle selon les historiens, a été officiellement aboli en Indonésie en 1860 alors sous domination néerlandaise. Mais il reste profondément ancré dans la culture de Sumba, essentiellement dans la partie orientale."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/06/sumba-l-ile-aux-esclaves-indonesienne_6739796_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/06/sumba-l-ile-aux-esclaves-indonesienne_6739796_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/06/sumba-l-ile-aux-esclaves-indonesienne_6739796_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/637/0/7649/3824/644/322/60/0/6ca1381_upload-1-vfbde82ekygo-000-c24m968.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette photo prise le 23 juin 2026 montre Umbu Ana Rara (à gauche), un « maramba » (noble), observant son « ata » (esclave), Kanisius Kanyali Hambarita, préparer des boissons dans le village de Tanggedu, à Sumba oriental (province des Petites îles de la Sonde orientales). Photo de BAY ISMOYO / AFP) / Pour accompagner le reportage spécial d’Eric Bernaudeau sur l’esclavage à Sumba (Indonésie."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BAY ISMOYO / AFP"
+      }
+    ],
+    "credit": "BAY ISMOYO / AFP"
+  }
+}

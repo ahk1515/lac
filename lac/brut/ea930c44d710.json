@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-06T10:37:02.813666+00:00",
+  "_id": "ea930c44d710",
+  "brut": {
+    "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon l’armée sud-coréenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon l’armée sud-coréenne"
+    },
+    "published": "Thu, 06 Aug 2026 11:36:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      9,
+      36,
+      9,
+      3,
+      218,
+      0
+    ],
+    "updated": "Thu, 06 Aug 2026 12:27:08 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      6,
+      10,
+      27,
+      8,
+      3,
+      218,
+      0
+    ],
+    "summary": "Ce tir a eu lieu au lendemain d’accusations portées par Pyongyang contre le Japon, qu’il a accusé de se transformer en « Etat belliqueux ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce tir a eu lieu au lendemain d’accusations portées par Pyongyang contre le Japon, qu’il a accusé de se transformer en « Etat belliqueux »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/la-coree-du-nord-a-tire-un-projectile-non-identifie-en-direction-de-la-mer-du-japon-selon-l-armee-sud-coreenne_6739867_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/la-coree-du-nord-a-tire-un-projectile-non-identifie-en-direction-de-la-mer-du-japon-selon-l-armee-sud-coreenne_6739867_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/la-coree-du-nord-a-tire-un-projectile-non-identifie-en-direction-de-la-mer-du-japon-selon-l-armee-sud-coreenne_6739867_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/26/0/3000/1500/644/322/60/0/120517f_upload-1-mqycc2cbjffs-000-b44p963.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un essai de tir de missile, en Corée du Nord, le 26 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KCNA VIA KNS/AFP"
+      }
+    ],
+    "credit": "KCNA VIA KNS/AFP"
+  }
+}
