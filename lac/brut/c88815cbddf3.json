@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T08:57:30.937636+00:00",
+  "_id": "c88815cbddf3",
+  "brut": {
+    "title": "Les négociations entre le Liban et Israël s’enlisent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les négociations entre le Liban et Israël s’enlisent"
+    },
+    "published": "Fri, 07 Aug 2026 09:55:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      7,
+      55,
+      26,
+      4,
+      219,
+      0
+    ],
+    "summary": "Beyrouth n’a pas obtenu d’accord pour un véritable cessez-le-feu ni d’avancées sur un retrait israélien du territoire libanais. Israël priorise le désarmement du Hezbollah.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Beyrouth n’a pas obtenu d’accord pour un véritable cessez-le-feu ni d’avancées sur un retrait israélien du territoire libanais. Israël priorise le désarmement du Hezbollah."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/07/les-negociations-entre-le-liban-et-israel-s-enlisent_6740472_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/07/les-negociations-entre-le-liban-et-israel-s-enlisent_6740472_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/07/les-negociations-entre-le-liban-et-israel-s-enlisent_6740472_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/7/0/6000/3000/644/322/60/0/92af7fd_ftp-1-8hkla0qmljjn-69273f9cdc3148fa893b4509d197e9dd-1-45496889833e46c19053960faf581928.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une famille dans le village de Zaoutar El-Gharbiyé, au sud du Liban, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammed Zaatari/AP"
+      }
+    ],
+    "credit": "Mohammed Zaatari/AP"
+  }
+}

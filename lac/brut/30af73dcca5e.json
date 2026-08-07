@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-07T08:57:31.178841+00:00",
+  "_id": "30af73dcca5e",
+  "brut": {
+    "title": "En Ukraine, plusieurs villes touchées par des frappes russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, plusieurs villes touchées par des frappes russes"
+    },
+    "summary": "De nouvelles frappes russes ont touché plusieurs villes ukrainiennes, dont Zaporijia, Kharkiv et Soumy, tandis que Kiev réclame un renforcement urgent de ses capacités de défense aérienne. En parallèle, l'Ukraine poursuit ses attaques de drones en territoire russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De nouvelles frappes russes ont touché plusieurs villes ukrainiennes, dont Zaporijia, Kharkiv et Soumy, tandis que Kiev réclame un renforcement urgent de ses capacités de défense aérienne. En parallèle, l'Ukraine poursuit ses attaques de drones en territoire russe."
+    },
+    "published": "Fri, 07 Aug 2026 08:41:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      6,
+      41,
+      59,
+      4,
+      219,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-plusieurs-villes-touchees-par-des-frappes-russes_8138117.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uJf5LKZ9dsYiuGGZ-T8Lg7jmz_c/131x0:1637x847/432x243/filters:format(jpg):quality(50)/2026/08/07/6a757e2863fe3261510304.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-plusieurs-villes-touchees-par-des-frappes-russes_8138117.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-plusieurs-villes-touchees-par-des-frappes-russes_8138117.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

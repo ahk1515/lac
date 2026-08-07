@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T08:57:30.937994+00:00",
+  "_id": "888ac4cafc1e",
+  "brut": {
+    "title": "En Thaïlande, un adolescent armé d’un pistolet tue huit personnes, dont six dans un lycée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Thaïlande, un adolescent armé d’un pistolet tue huit personnes, dont six dans un lycée"
+    },
+    "published": "Fri, 07 Aug 2026 08:27:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      6,
+      27,
+      27,
+      4,
+      219,
+      0
+    ],
+    "updated": "Fri, 07 Aug 2026 10:23:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      7,
+      8,
+      23,
+      18,
+      4,
+      219,
+      0
+    ],
+    "summary": "L’adolescent a d’abord tué ses grands-parents à l’aide d’un pistolet appartenant à son grand-père. Il s’est ensuite rendu à son lycée, où il a tué six personnes, a affirmé la police locale dans un communiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’adolescent a d’abord tué ses grands-parents à l’aide d’un pistolet appartenant à son grand-père. Il s’est ensuite rendu à son lycée, où il a tué six personnes, a affirmé la police locale dans un communiqué."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/07/en-thailande-au-moins-quatre-personnes-tuees-par-des-coups-de-feu_6740466_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/07/en-thailande-au-moins-quatre-personnes-tuees-par-des-coups-de-feu_6740466_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/07/en-thailande-au-moins-quatre-personnes-tuees-par-des-coups-de-feu_6740466_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/250/0/3000/1500/644/322/60/0/4a3e191_ftp-1-nadraypno6nd-aa2014d4be41418fa6010e25fcb7e137-0-1ea1548586a04e5a8e4fb44438f282e3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des lycéens devant l’établissement où ont eu lieu les coups de feu, dans la province de Nonthaburi, près de Bangkok, le 7 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sakchai Lalit/AP"
+      }
+    ],
+    "credit": "Sakchai Lalit/AP"
+  }
+}

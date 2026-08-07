@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T08:57:30.937454+00:00",
+  "_id": "bfbb10190213",
+  "brut": {
+    "title": "Au Mexique, l’armée étend son empire économique, des chemins de fer aux hôtels en passant par les aéroports",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mexique, l’armée étend son empire économique, des chemins de fer aux hôtels en passant par les aéroports"
+    },
+    "published": "Fri, 07 Aug 2026 10:30:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      8,
+      30,
+      7,
+      4,
+      219,
+      0
+    ],
+    "summary": "La gauche au pouvoir confie, depuis quelques années, la construction et la gestion de multiples infrastructures et activités à l’institution militaire, arguant notamment de son efficacité. A l’exception de celui des forces armées cubaines, le patrimoine de l’armée mexicaine est désormais sans équivalent en Amérique latine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La gauche au pouvoir confie, depuis quelques années, la construction et la gestion de multiples infrastructures et activités à l’institution militaire, arguant notamment de son efficacité. A l’exception de celui des forces armées cubaines, le patrimoine de l’armée mexicaine est désormais sans équivalent en Amérique latine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/07/au-mexique-l-armee-etend-son-empire-economique-des-chemins-de-fer-aux-hotels-en-passant-par-les-aeroports_6740473_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/07/au-mexique-l-armee-etend-son-empire-economique-des-chemins-de-fer-aux-hotels-en-passant-par-les-aeroports_6740473_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/07/au-mexique-l-armee-etend-son-empire-economique-des-chemins-de-fer-aux-hotels-en-passant-par-les-aeroports_6740473_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/458/0/5500/2750/644/322/60/0/8dfcd8d_ftp-1-15t8wx34mzno-2026-07-23t191930z-386462306-rc24jma7dbbn-rtrmadp-3-mexico-environment-sargassum.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres de la Marine mexicaine ramassent des algues sargasses sur une plage de la zone hôtelière de Tulum (Mexique), le 22 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Paola Chiomante/REUTERS"
+      }
+    ],
+    "credit": "Paola Chiomante/REUTERS"
+  }
+}

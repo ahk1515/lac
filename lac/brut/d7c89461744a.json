@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T08:57:30.937804+00:00",
+  "_id": "d7c89461744a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Wildberries, le géant russe de l’e-commerce, de nouveau pris pour cible par Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Wildberries, le géant russe de l’e-commerce, de nouveau pris pour cible par Kiev"
+    },
+    "published": "Fri, 07 Aug 2026 09:45:37 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      7,
+      45,
+      37,
+      4,
+      219,
+      0
+    ],
+    "summary": "Un incendie s’est déclaré dans un centre logistique de Wildberries, dans l’Oural, à la suite d’une nouvelle attaque de drones. Depuis la mi-juillet, l’Ukraine a attaqué une vingtaine de sites appartenant à Wildberries, plate-forme de commerce en ligne très populaire, souvent qualifiée d’« Amazon russe », presque aux quatre coins de la Russie et en Crimée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un incendie s’est déclaré dans un centre logistique de Wildberries, dans l’Oural, à la suite d’une nouvelle attaque de drones. Depuis la mi-juillet, l’Ukraine a attaqué une vingtaine de sites appartenant à Wildberries, plate-forme de commerce en ligne très populaire, souvent qualifiée d’« Amazon russe », presque aux quatre coins de la Russie et en Crimée."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-wildberries-le-geant-russe-de-l-e-commerce-de-nouveau-pris-pour-cible-par-kiev_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-wildberries-le-geant-russe-de-l-e-commerce-de-nouveau-pris-pour-cible-par-kiev_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-wildberries-le-geant-russe-de-l-e-commerce-de-nouveau-pris-pour-cible-par-kiev_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/940/0/7929/3964/644/322/60/0/046727b_ftp-1-5g5zlo36kkxb-5788939-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue satellite d’un entrepôt du géant du e-commerce russe Wildberries visé par les forces ukrainiennes à Volgograd, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}
