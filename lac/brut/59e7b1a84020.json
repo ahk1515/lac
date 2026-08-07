@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-07T16:53:19.274851+00:00",
+  "_id": "59e7b1a84020",
+  "brut": {
+    "title": "En Grèce, trois personnes, dont un maire, placées en détention provisoire après l'incendie majeur qui a ravagé l'ouest d'Athènes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Grèce, trois personnes, dont un maire, placées en détention provisoire après l'incendie majeur qui a ravagé l'ouest d'Athènes"
+    },
+    "summary": "Selon les premiers éléments de l'enquête, l'incendie s'est déclenché le 31 juillet après une étincelle sur des câbles électriques d'un vaste parc éolien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon les premiers éléments de l'enquête, l'incendie s'est déclenché le 31 juillet après une étincelle sur des câbles électriques d'un vaste parc éolien."
+    },
+    "published": "Fri, 07 Aug 2026 15:33:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      13,
+      33,
+      18,
+      4,
+      219,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-grece-trois-personnes-dont-un-maire-placees-en-detention-provisoire-apres-le-gigantesque-feu-ayant-ravage-l-ouest-d-athenes_8138513.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MGz3UMV1C2gaxHuOq_3Ue9uJZXA/0x384:4500x2915/432x243/filters:format(jpg):quality(50)/2026/08/07/6a75de2d96d96416995072.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-grece-trois-personnes-dont-un-maire-placees-en-detention-provisoire-apres-le-gigantesque-feu-ayant-ravage-l-ouest-d-athenes_8138513.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-grece-trois-personnes-dont-un-maire-placees-en-detention-provisoire-apres-le-gigantesque-feu-ayant-ravage-l-ouest-d-athenes_8138513.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

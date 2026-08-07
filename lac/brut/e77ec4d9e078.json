@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T16:53:18.963495+00:00",
+  "_id": "e77ec4d9e078",
+  "brut": {
+    "title": "Aux Etats-Unis, 23 000 emplois en moins en juillet, mais un taux de chômage en baisse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, 23 000 emplois en moins en juillet, mais un taux de chômage en baisse"
+    },
+    "published": "Fri, 07 Aug 2026 16:15:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      14,
+      15,
+      10,
+      4,
+      219,
+      0
+    ],
+    "summary": "La destruction d’emplois concerne en premier lieu des secteurs tels que l’éducation publique au niveau local, le commerce de proximité et, dans une moindre mesure, les services financiers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La destruction d’emplois concerne en premier lieu des secteurs tels que l’éducation publique au niveau local, le commerce de proximité et, dans une moindre mesure, les services financiers."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/07/aux-etats-unis-23-000-emplois-en-moins-en-juillet-mais-un-taux-de-chomage-en-baisse_6740506_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/07/aux-etats-unis-23-000-emplois-en-moins-en-juillet-mais-un-taux-de-chomage-en-baisse_6740506_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/07/aux-etats-unis-23-000-emplois-en-moins-en-juillet-mais-un-taux-de-chomage-en-baisse_6740506_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/379/0/4548/2274/644/322/60/0/06b926e_ftp-1-hgqrpws9zwkk-8b8a158ab54640ad85927db7605b7458-1-00fa2e760ac4411b8b02127a933fa613.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Vernon Hills (Illinois), aux Etats-Unis, le 15 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nam Y. Huh / AP Photo/Nam Y. Huh"
+      }
+    ],
+    "credit": "Nam Y. Huh / AP Photo/Nam Y. Huh"
+  }
+}
