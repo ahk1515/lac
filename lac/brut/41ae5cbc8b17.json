@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-07T20:39:11.911554+00:00",
+  "_id": "41ae5cbc8b17",
+  "brut": {
+    "title": "Des marmottes sur Onlyfans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des marmottes sur Onlyfans"
+    },
+    "summary": "Face aux coupes budgétaires, des scientifiques américains ont ouvert un compte OnlyFans, dans l'espoir de financer leurs projets. La spécificité ? Des photos et vidéos de marmottes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face aux coupes budgétaires, des scientifiques américains ont ouvert un compte OnlyFans, dans l'espoir de financer leurs projets. La spécificité ? Des photos et vidéos de marmottes."
+    },
+    "published": "Fri, 07 Aug 2026 20:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      18,
+      0,
+      1,
+      4,
+      219,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sciences/des-marmottes-sur-onlyfans_8138561.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-XVNl9e1hE2fI3hMmOaeZAeYWFE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/07/6a75ce337c0f6441351492.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sciences/des-marmottes-sur-onlyfans_8138561.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sciences/des-marmottes-sur-onlyfans_8138561.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

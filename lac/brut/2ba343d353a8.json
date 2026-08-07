@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T20:39:11.302068+00:00",
+  "_id": "2ba343d353a8",
+  "brut": {
+    "title": "Naufrage de 173 migrants dans la Manche : le pilote du canot condamné à un an de prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Naufrage de 173 migrants dans la Manche : le pilote du canot condamné à un an de prison"
+    },
+    "published": "Fri, 07 Aug 2026 19:30:37 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      17,
+      30,
+      37,
+      4,
+      219,
+      0
+    ],
+    "updated": "Fri, 07 Aug 2026 20:15:22 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      7,
+      18,
+      15,
+      22,
+      4,
+      219,
+      0
+    ],
+    "summary": "Il était soupçonné d’être le pilote de l’embarcation précaire dont le moteur avait pris feu à la limite des eaux françaises et britanniques mardi, forçant les passagers embarqués à se jeter à l’eau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il était soupçonné d’être le pilote de l’embarcation précaire dont le moteur avait pris feu à la limite des eaux françaises et britanniques mardi, forçant les passagers embarqués à se jeter à l’eau."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/08/07/naufrage-de-173-migrants-dans-la-manche-le-pilote-du-canot-condamne-a-un-an-de-prison_6740531_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/08/07/naufrage-de-173-migrants-dans-la-manche-le-pilote-du-canot-condamne-a-un-an-de-prison_6740531_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/08/07/naufrage-de-173-migrants-dans-la-manche-le-pilote-du-canot-condamne-a-un-an-de-prison_6740531_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/535/0/5445/2722/644/322/60/0/4863aef_upload-1-h1wgz6borec8-000-c3x93kc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants débarquent d’un navire de sauvetage après avoir été secourus en mer, au port de commerce de Boulogne-sur-Mer (Pas-de-Calais), le 4 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAMEER AL-DOUMY/AFP"
+      }
+    ],
+    "credit": "SAMEER AL-DOUMY/AFP"
+  }
+}

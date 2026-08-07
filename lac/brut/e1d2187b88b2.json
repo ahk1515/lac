@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T20:39:11.302422+00:00",
+  "_id": "e1d2187b88b2",
+  "brut": {
+    "title": "Un nouveau médicament pour le TDAH approuvé aux Etats-Unis, les spécialistes français alertent sur le peu de molécules disponibles en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un nouveau médicament pour le TDAH approuvé aux Etats-Unis, les spécialistes français alertent sur le peu de molécules disponibles en France"
+    },
+    "published": "Fri, 07 Aug 2026 19:00:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      17,
+      0,
+      9,
+      4,
+      219,
+      0
+    ],
+    "summary": "Elle s’appelle la centanafadine et promet un mode d’action innovant. Pourtant, elle n’est pas disponible en France et rentre dans la liste des traitements auxquels ne peuvent pas avoir accès les personnes atteintes de ce trouble.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Elle s’appelle la centanafadine et promet un mode d’action innovant. Pourtant, elle n’est pas disponible en France et rentre dans la liste des traitements auxquels ne peuvent pas avoir accès les personnes atteintes de ce trouble."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/08/07/un-nouveau-medicament-pour-le-tdah-approuve-aux-etats-unis-les-specialistes-francais-alertent-sur-le-peu-de-molecules-disponibles-en-france_6740527_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/08/07/un-nouveau-medicament-pour-le-tdah-approuve-aux-etats-unis-les-specialistes-francais-alertent-sur-le-peu-de-molecules-disponibles-en-france_6740527_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/08/07/un-nouveau-medicament-pour-le-tdah-approuve-aux-etats-unis-les-specialistes-francais-alertent-sur-le-peu-de-molecules-disponibles-en-france_6740527_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/515/0/6177/3088/644/322/60/0/9665bc2_upload-1-jklcqb5tilaw-000-a4wz4bu.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La méthylphénidate, ici commercialisée sous le nom de Ritaline, seule molécule actuellement remboursée en France pour le traitement du trouble déficit de l’attention avec ou sans hyperactivité (TDAH)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JEAN-CHRISTOPHE VERHAEGEN/AFP"
+      }
+    ],
+    "credit": "JEAN-CHRISTOPHE VERHAEGEN/AFP"
+  }
+}
