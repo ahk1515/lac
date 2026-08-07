@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T00:52:12.125091+00:00",
+  "_id": "12f2bab91e03",
+  "brut": {
+    "title": "Syrie : deux morts dans l’explosion d’une bombe dans un bus près de Damas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Syrie : deux morts dans l’explosion d’une bombe dans un bus près de Damas"
+    },
+    "published": "Thu, 06 Aug 2026 21:27:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      19,
+      27,
+      32,
+      3,
+      218,
+      0
+    ],
+    "summary": "L’attaque est survenue à Jaramana, située dans la banlieue sud-est de la capitale, qui avait été touchée au printemps 2025 par des violences confessionnelles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’attaque est survenue à Jaramana, située dans la banlieue sud-est de la capitale, qui avait été touchée au printemps 2025 par des violences confessionnelles."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/syrie-deux-morts-dans-l-explosion-d-une-bombe-dans-un-bus-pres-de-damas_6740180_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/syrie-deux-morts-dans-l-explosion-d-une-bombe-dans-un-bus-pres-de-damas_6740180_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/syrie-deux-morts-dans-l-explosion-d-une-bombe-dans-un-bus-pres-de-damas_6740180_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/268/0/6000/3000/644/322/60/0/6e8d2c8_ftp-1-z7jqmgdf4k2d-9b663aae316b4f1b875a93ad5b5af558-0-90bd9660643c43169cb57e3b17883e5f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres des forces de sécurité syriennes inspectent des véhicules endommagés sur le site d’une explosion, dans la banlieue de Jaramana, à Damas, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdulrahman Shaheen/AP"
+      }
+    ],
+    "credit": "Abdulrahman Shaheen/AP"
+  }
+}

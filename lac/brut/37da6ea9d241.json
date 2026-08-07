@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T00:52:12.127285+00:00",
+  "_id": "37da6ea9d241",
+  "brut": {
+    "title": "Le Royaume-Uni autorise le rachat de Warner Bros par Paramount",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Royaume-Uni autorise le rachat de Warner Bros par Paramount"
+    },
+    "published": "Thu, 06 Aug 2026 16:06:53 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      14,
+      6,
+      53,
+      3,
+      218,
+      0
+    ],
+    "summary": "L’offre de Paramount reste toutefois confrontée à des obstacles aux Etats-Unis. Leur fusion a été reportée à juin 2027 après qu’une juge fédérale en Californie a ordonné en juillet la suspension de l’opération le temps d’examiner l’affaire sur le fond.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’offre de Paramount reste toutefois confrontée à des obstacles aux Etats-Unis. Leur fusion a été reportée à juin 2027 après qu’une juge fédérale en Californie a ordonné en juillet la suspension de l’opération le temps d’examiner l’affaire sur le fond."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/le-royaume-uni-autorise-le-rachat-de-warner-bros-par-paramount_6739954_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/le-royaume-uni-autorise-le-rachat-de-warner-bros-par-paramount_6739954_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/le-royaume-uni-autorise-le-rachat-de-warner-bros-par-paramount_6739954_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/20/291/0/6500/3250/644/322/60/0/184ac3d_ftp-1-ijsrxwpkdbp1-2026-07-20t181256z-1343216392-rc27dma0qf49-rtrmadp-3-warner-bros-dis-m-a-paramount-lawsuit.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le château d’eau de Warner Bros aux studios Burbank (Californie, Etats-Unis), le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Daniel Cole/REUTERS"
+      }
+    ],
+    "credit": "Daniel Cole/REUTERS"
+  }
+}

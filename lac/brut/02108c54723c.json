@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T00:52:12.126365+00:00",
+  "_id": "02108c54723c",
+  "brut": {
+    "title": "Au Yémen, au moins 58 soldats ont été tués dans des attaques revendiquées par les rebelles houthistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, au moins 58 soldats ont été tués dans des attaques revendiquées par les rebelles houthistes"
+    },
+    "published": "Thu, 06 Aug 2026 17:43:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      15,
+      43,
+      48,
+      3,
+      218,
+      0
+    ],
+    "updated": "Fri, 07 Aug 2026 01:41:55 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      6,
+      23,
+      41,
+      55,
+      3,
+      218,
+      0
+    ],
+    "summary": "Seize soldats avaient été tués début juillet dans une attaque houthiste au sud de la ville portuaire de Hodeïda, dans l’ouest du Yémen, alors que les hostilités ont repris entre la formation pro-iranienne et l’Arabie saoudite, à la tête d’une coalition soutenant les forces gouvernementales yéménites.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Seize soldats avaient été tués début juillet dans une attaque houthiste au sud de la ville portuaire de Hodeïda, dans l’ouest du Yémen, alors que les hostilités ont repris entre la formation pro-iranienne et l’Arabie saoudite, à la tête d’une coalition soutenant les forces gouvernementales yéménites."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/06/au-yemen-au-moins-38-soldats-ont-ete-tues-dans-des-attaques-revendiquees-par-les-rebelles-houthistes_6739968_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/au-yemen-au-moins-38-soldats-ont-ete-tues-dans-des-attaques-revendiquees-par-les-rebelles-houthistes_6739968_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/06/au-yemen-au-moins-38-soldats-ont-ete-tues-dans-des-attaques-revendiquees-par-les-rebelles-houthistes_6739968_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/459/0/5422/2711/644/322/60/0/a72293e_ftp-1-bbt5ovsb1jsu-2026-07-31t165529z-556853476-rc20pma1onp2-rtrmadp-3-iran-crisis-yemen-saudi.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un membre des forces de sécurité houthistes à l’arrière d’un véhicule de patrouille, sur le site d’un rassemblement contre l’Arabie saoudite, à Sanaa, le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Khaled Abdullah/REUTERS"
+      }
+    ],
+    "credit": "Khaled Abdullah/REUTERS"
+  }
+}

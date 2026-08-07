@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T00:52:12.124430+00:00",
+  "_id": "7fbfb52a75f6",
+  "brut": {
+    "title": "Après les incendies dans le nord-ouest des Etats-Unis, un suspect avoue avoir planifié vingt-cinq départs de feu depuis 2025",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après les incendies dans le nord-ouest des Etats-Unis, un suspect avoue avoir planifié vingt-cinq départs de feu depuis 2025"
+    },
+    "published": "Fri, 07 Aug 2026 02:01:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      0,
+      1,
+      19,
+      4,
+      219,
+      0
+    ],
+    "updated": "Fri, 07 Aug 2026 02:30:28 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      7,
+      0,
+      30,
+      28,
+      4,
+      219,
+      0
+    ],
+    "summary": "Déjà condamné pour avoir tué son père, l’homme aurait choisi la date de l’incendie en fonction des conditions météo et se serait inspiré d’un célèbre pyromane, selon les premiers éléments de l’enquête.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Déjà condamné pour avoir tué son père, l’homme aurait choisi la date de l’incendie en fonction des conditions météo et se serait inspiré d’un célèbre pyromane, selon les premiers éléments de l’enquête."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/07/apres-les-incendies-dans-le-nord-ouest-des-etats-unis-un-suspect-avoue-avoir-planifie-vingt-cinq-departs-de-feu-depuis-2025_6740312_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/07/apres-les-incendies-dans-le-nord-ouest-des-etats-unis-un-suspect-avoue-avoir-planifie-vingt-cinq-departs-de-feu-depuis-2025_6740312_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/07/apres-les-incendies-dans-le-nord-ouest-des-etats-unis-un-suspect-avoue-avoir-planifie-vingt-cinq-departs-de-feu-depuis-2025_6740312_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/138/0/1658/829/644/322/60/0/9bbae9e_ftp-1-qu3tjvftrujx-8739570a06464539b68bda92fcd9b0a3-0-1645451b010a47e384e34bf180746b4e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le suspect, Aaron Farinacci, alors qu’il attend de paraître pour une audience préliminaire du tribunal de comté à Spokane (Etat de Washington, Etats-Unis), le 4 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Young Kwak/AP"
+      }
+    ],
+    "credit": "Young Kwak/AP"
+  }
+}

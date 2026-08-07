@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T00:52:12.126134+00:00",
+  "_id": "6a5a6a7a849d",
+  "brut": {
+    "title": "De Lilian Thuram à Yan Diomandé, le fardeau de la suspicion sur l’âge des footballeurs noirs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De Lilian Thuram à Yan Diomandé, le fardeau de la suspicion sur l’âge des footballeurs noirs"
+    },
+    "published": "Thu, 06 Aug 2026 18:00:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      16,
+      0,
+      30,
+      3,
+      218,
+      0
+    ],
+    "summary": "Comme le jeune prodige ivoirien, de nombreux footballeurs noirs sont accusés de mentir sur leur âge. Si des fraudes ont existé pour certains joueurs africains, cette suspicion pèse aussi sur des joueurs nés en Europe, sur fond de racisme hérité de l’époque coloniale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comme le jeune prodige ivoirien, de nombreux footballeurs noirs sont accusés de mentir sur leur âge. Si des fraudes ont existé pour certains joueurs africains, cette suspicion pèse aussi sur des joueurs nés en Europe, sur fond de racisme hérité de l’époque coloniale."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/08/06/de-lilian-thuram-a-yan-diomande-le-fardeau-de-la-suspicion-sur-l-age-des-footballeurs-noirs_6739974_4355770.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/08/06/de-lilian-thuram-a-yan-diomande-le-fardeau-de-la-suspicion-sur-l-age-des-footballeurs-noirs_6739974_4355770.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/08/06/de-lilian-thuram-a-yan-diomande-le-fardeau-de-la-suspicion-sur-l-age-des-footballeurs-noirs_6739974_4355770.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/221/0/2485/1242/644/322/60/0/0eff288_ftp-1-nuomhepwv64s-2026-08-06t122950z-1622392893-rc2c4mafbogf-rtrmadp-3-soccer-spain-rma-diomande.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’ailier ivoirien Yan Diomandé, lors du match Côte d’Ivoire-Norvège, en 32ᵉ de finale de la Coupe du monde, le 30 juin à Arlington (Etats-Unis)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hannah McKay / REUTERS"
+      }
+    ],
+    "credit": "Hannah McKay / REUTERS"
+  }
+}

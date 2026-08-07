@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-07T00:52:12.227204+00:00",
+  "_id": "91ab03fb1183",
+  "brut": {
+    "title": "Palestiniens blessés, maisons brûlées, panneaux solaires brisés... Des colons israéliens attaquent un hameau du sud de la Cisjordanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Palestiniens blessés, maisons brûlées, panneaux solaires brisés... Des colons israéliens attaquent un hameau du sud de la Cisjordanie"
+    },
+    "summary": "L'armée israélienne, qui occupe la Cisjordanie depuis 1967, a confirmé plusieurs blessés et des maisons incendiés dans une attaque \"par des civils israéliens\", disant \"condamner fermement\" l'incident.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne, qui occupe la Cisjordanie depuis 1967, a confirmé plusieurs blessés et des maisons incendiés dans une attaque \"par des civils israéliens\", disant \"condamner fermement\" l'incident."
+    },
+    "published": "Thu, 06 Aug 2026 17:12:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      15,
+      12,
+      2,
+      3,
+      218,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/palestiniens-blesses-maisons-brulees-panneaux-solaires-brises-des-colons-israeliens-attaquent-un-hameau-du-sud-de-la-cisjordanie_8137316.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KADwomZ1wiVuacez7T3ce0XTQqQ/0x81:6720x3861/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74a2f80de10105182044.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/palestiniens-blesses-maisons-brulees-panneaux-solaires-brises-des-colons-israeliens-attaquent-un-hameau-du-sud-de-la-cisjordanie_8137316.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/palestiniens-blesses-maisons-brulees-panneaux-solaires-brises-des-colons-israeliens-attaquent-un-hameau-du-sud-de-la-cisjordanie_8137316.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

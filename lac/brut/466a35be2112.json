@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-07T00:52:12.226894+00:00",
+  "_id": "466a35be2112",
+  "brut": {
+    "title": "Au Yémen, les houthis revendiquent des attaques meurtrières contre des forces gouvernementales et saoudiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Yémen, les houthis revendiquent des attaques meurtrières contre des forces gouvernementales et saoudiennes"
+    },
+    "summary": "Les médias yéménites, l'AFP et Associated Press font état de plusieurs dizaines de morts, soit le bilan le plus meurtrier depuis la trêve de 2022 entre les deux camps.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les médias yéménites, l'AFP et Associated Press font état de plusieurs dizaines de morts, soit le bilan le plus meurtrier depuis la trêve de 2022 entre les deux camps."
+    },
+    "published": "Thu, 06 Aug 2026 19:04:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      6,
+      17,
+      4,
+      34,
+      3,
+      218,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-au-moins-38-soldats-des-forces-gouvernementales-ont-ete-tues-dans-une-attaque-des-rebelles-houthis_8137547.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zXyMwSOMhN84rKRsONtEsVc4XN8/0x99:1024x675/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74be6d46a89959282839.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-au-moins-38-soldats-des-forces-gouvernementales-ont-ete-tues-dans-une-attaque-des-rebelles-houthis_8137547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-au-moins-38-soldats-des-forces-gouvernementales-ont-ete-tues-dans-une-attaque-des-rebelles-houthis_8137547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
