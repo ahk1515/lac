@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-07T05:39:09.347958+00:00",
+  "_id": "39df034fcbd2",
+  "brut": {
+    "title": "Un cadavre retrouvé dans une maison détruite par un vaste incendie en Californie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un cadavre retrouvé dans une maison détruite par un vaste incendie en Californie"
+    },
+    "summary": "Les flammes ont parcouru plus de 4 200 hectares et forcé près de 1 500 personnes à évacuer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les flammes ont parcouru plus de 4 200 hectares et forcé près de 1 500 personnes à évacuer."
+    },
+    "published": "Fri, 07 Aug 2026 06:45:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      4,
+      45,
+      44,
+      4,
+      219,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/incendies-en-californie/un-cadavre-retrouve-dans-une-maison-detruite-par-un-vaste-incendie-en-californie_8137985.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MxTqVpk9Pr1ewRWEL-X_v7BDI6Q/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/07/6a7562b3c8557787488525.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/incendies-en-californie/un-cadavre-retrouve-dans-une-maison-detruite-par-un-vaste-incendie-en-californie_8137985.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/incendies-en-californie/un-cadavre-retrouve-dans-une-maison-detruite-par-un-vaste-incendie-en-californie_8137985.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

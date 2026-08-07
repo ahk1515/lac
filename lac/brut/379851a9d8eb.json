@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-07T05:39:09.347536+00:00",
+  "_id": "379851a9d8eb",
+  "brut": {
+    "title": "Des tirs dans un lycée en Thaïlande font au moins deux morts, le tireur est un adolescent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des tirs dans un lycée en Thaïlande font au moins deux morts, le tireur est un adolescent"
+    },
+    "summary": "Le suspect s'est donné la mort, selon la police citée par l'agence Reuters. Un enseignant de l'établissement figure parmi les blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le suspect s'est donné la mort, selon la police citée par l'agence Reuters. Un enseignant de l'établissement figure parmi les blessés."
+    },
+    "published": "Fri, 07 Aug 2026 07:21:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      5,
+      21,
+      48,
+      4,
+      219,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/des-tirs-dans-un-lycee-en-thailande-font-au-moins-deux-morts-le-tireur-est-un-adolescent_8138000.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ye1E-FEyfl7rOvoU348n8NFSloE/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/07/6a756915eb0df464887495.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/des-tirs-dans-un-lycee-en-thailande-font-au-moins-deux-morts-le-tireur-est-un-adolescent_8138000.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/des-tirs-dans-un-lycee-en-thailande-font-au-moins-deux-morts-le-tireur-est-un-adolescent_8138000.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

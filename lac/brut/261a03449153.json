@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T05:39:09.104337+00:00",
+  "_id": "261a03449153",
+  "brut": {
+    "title": "Ceuta, bastion multiculturel fragile à l’épreuve d’une crise migratoire sans précédent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ceuta, bastion multiculturel fragile à l’épreuve d’une crise migratoire sans précédent"
+    },
+    "published": "Fri, 07 Aug 2026 06:30:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      4,
+      30,
+      10,
+      4,
+      219,
+      0
+    ],
+    "summary": "L’irruption dans l’enclave espagnole de plus de 70 000 personnes venues du Maroc, entre le 30 et le 31 juillet, a mis en lumière les fêlures et les solidarités qui traversent cette ville où coexistent depuis toujours chrétiens et musulmans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’irruption dans l’enclave espagnole de plus de 70 000 personnes venues du Maroc, entre le 30 et le 31 juillet, a mis en lumière les fêlures et les solidarités qui traversent cette ville où coexistent depuis toujours chrétiens et musulmans."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/07/ceuta-bastion-multiculturel-fragile-a-l-epreuve-d-une-crise-migratoire-sans-precedent_6740461_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/07/ceuta-bastion-multiculturel-fragile-a-l-epreuve-d-une-crise-migratoire-sans-precedent_6740461_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/07/ceuta-bastion-multiculturel-fragile-a-l-epreuve-d-une-crise-migratoire-sans-precedent_6740461_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/912/0/8073/4036/644/322/60/0/ba0bdde_ftp-1-oquwq9mtlyd5-88f348744165449a856ec283c4d25d0f-0-0ae7b380d78c4fff98ca7931c3b0cede.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un mineur non accompagné de 12 ans ayant pénétré en Espagne est escorté par un soldat espagnol vers la frontière hispano-marocaine, à Ceuta, le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bernat Armangue/AP"
+      }
+    ],
+    "credit": "Bernat Armangue/AP"
+  }
+}

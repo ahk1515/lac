@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T05:39:09.104531+00:00",
+  "_id": "72a49c4fe1c6",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : le point sur la situation"
+    },
+    "published": "Fri, 07 Aug 2026 05:46:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      3,
+      46,
+      57,
+      4,
+      219,
+      0
+    ],
+    "summary": "Le secrétaire général de l’ONU a demandé l’arrêt « immédiat » des frappes russes et ukrainiennes sur les zones civiles. Les deux pays ont intensifié leurs bombardements au cours des jours écoulés, qui « suivent un schéma alarmant d’escalade des frappes contre des zones peuplées », selon le porte-parole d’Antonio Guterres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le secrétaire général de l’ONU a demandé l’arrêt « immédiat » des frappes russes et ukrainiennes sur les zones civiles. Les deux pays ont intensifié leurs bombardements au cours des jours écoulés, qui « suivent un schéma alarmant d’escalade des frappes contre des zones peuplées », selon le porte-parole d’Antonio Guterres."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/473/0/5247/2623/644/322/60/0/7e717bd_ftp-1-aydnsg9l7to5-2026-08-05t103337z-1697443905-rc2asmae3beq-rtrmadp-3-ukraine-crisis-russia-putin.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président russe Vladimir Poutine assiste à une réunion avec la direction du ministère de la défense, au Kremlin, à Moscou, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Aleksey Babushkin/Sputnik via REUTERS"
+      }
+    ],
+    "credit": "Aleksey Babushkin/Sputnik via REUTERS"
+  }
+}
