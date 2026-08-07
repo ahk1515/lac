@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T12:59:42.177806+00:00",
+  "_id": "8f2af672fbdc",
+  "brut": {
+    "title": "Thaïlande : un adolescent armé d’un pistolet tue huit personnes, dont six dans un lycée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Thaïlande : un adolescent armé d’un pistolet tue huit personnes, dont six dans un lycée"
+    },
+    "published": "Fri, 07 Aug 2026 11:35:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      9,
+      35,
+      24,
+      4,
+      219,
+      0
+    ],
+    "summary": "Le garçon a d’abord tué ses grands-parents à l’aide d’un pistolet appartenant à son grand-père. Il s’est ensuite rendu à son lycée, où il a tué six personnes, a affirmé la police locale dans un communiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le garçon a d’abord tué ses grands-parents à l’aide d’un pistolet appartenant à son grand-père. Il s’est ensuite rendu à son lycée, où il a tué six personnes, a affirmé la police locale dans un communiqué."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/07/thailande-un-adolescent-arme-d-un-pistolet-tue-huit-personnes-dont-six-dans-un-lycee_6740479_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/07/thailande-un-adolescent-arme-d-un-pistolet-tue-huit-personnes-dont-six-dans-un-lycee_6740479_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/07/thailande-un-adolescent-arme-d-un-pistolet-tue-huit-personnes-dont-six-dans-un-lycee_6740479_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/458/0/5500/2750/644/322/60/0/0e253ee_ftp-1-bmqxbf7y7ww4-2026-08-07t072715z-660487927-rc2jtmaxqb7v-rtrmadp-3-thailand-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des restes de balle gisent au sol dans le bâtiment où la fusillade a éclaté à l’école Debsirin Nonthaburi, dans le district de Bang Kruai (province de Nonthaburi), en périphérie de Bangkok (Thaïlande), le 7 août 2026. REUTERS/Chalinee Thirasupa"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Chalinee Thirasupa / REUTERS"
+      }
+    ],
+    "credit": "Chalinee Thirasupa / REUTERS"
+  }
+}

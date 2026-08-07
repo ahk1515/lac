@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T12:59:42.177982+00:00",
+  "_id": "9b06f0cd700f",
+  "brut": {
+    "title": "Milton Keynes, au nord de Londres, ville pionnière de la livraison par petits robots",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Milton Keynes, au nord de Londres, ville pionnière de la livraison par petits robots"
+    },
+    "published": "Fri, 07 Aug 2026 11:00:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      9,
+      0,
+      11,
+      4,
+      219,
+      0
+    ],
+    "summary": "Le gouvernement britannique a entrepris de réviser le droit pour autoriser ces machines, déjà mises en place dans une vingtaine de villes, à circuler sur le trottoir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement britannique a entrepris de réviser le droit pour autoriser ces machines, déjà mises en place dans une vingtaine de villes, à circuler sur le trottoir."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/07/milton-keynes-au-nord-de-londres-ville-pionniere-de-la-livraison-par-petits-robots_6740477_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/07/milton-keynes-au-nord-de-londres-ville-pionniere-de-la-livraison-par-petits-robots_6740477_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/07/milton-keynes-au-nord-de-londres-ville-pionniere-de-la-livraison-par-petits-robots_6740477_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/500/0/6048/3024/644/322/60/0/2fae4b8_upload-1-rdd8zd6nllke-000-9nc8ec.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des robots autonomes « Starship » livrent des courses depuis un supermarché Co-op voisin, à Milton Keynes (Royaume-Uni), le 20 septembre 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DANIEL LEAL/AFP"
+      }
+    ],
+    "credit": "DANIEL LEAL/AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-07T12:59:42.176760+00:00",
+  "_id": "f03a4be7243d",
+  "brut": {
+    "title": "A Thetford, dans l’est de l’Angleterre, troisième nuit de manifestations violentes envers des demandeurs d’asile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Thetford, dans l’est de l’Angleterre, troisième nuit de manifestations violentes envers des demandeurs d’asile"
+    },
+    "published": "Fri, 07 Aug 2026 13:23:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      11,
+      23,
+      44,
+      4,
+      219,
+      0
+    ],
+    "updated": "Fri, 07 Aug 2026 13:28:20 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      7,
+      11,
+      28,
+      20,
+      4,
+      219,
+      0
+    ],
+    "summary": "Cinq personnes ont été arrêtées depuis mardi, lors de rassemblements en réaction à un projet d’hébergement de demandeurs d’asile dans une base militaire désaffectée de la Royal Air Force.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cinq personnes ont été arrêtées depuis mardi, lors de rassemblements en réaction à un projet d’hébergement de demandeurs d’asile dans une base militaire désaffectée de la Royal Air Force."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/07/a-thetford-dans-l-est-de-l-angleterre-troisieme-nuit-de-manifestations-violentes-envers-des-demandeurs-d-asile_6740488_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/07/a-thetford-dans-l-est-de-l-angleterre-troisieme-nuit-de-manifestations-violentes-envers-des-demandeurs-d-asile_6740488_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/07/a-thetford-dans-l-est-de-l-angleterre-troisieme-nuit-de-manifestations-violentes-envers-des-demandeurs-d-asile_6740488_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2024/10/24/232/0/2768/1384/644/322/60/0/e715133_2024-10-24t080031z-1888323471-rc2flaa79srh-rtrmadp-3-britain-politics-budget.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Thetford, dans l’est de l’Angleterre, le 16 octobre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ben Makori / REUTERS"
+      }
+    ],
+    "credit": "Ben Makori / REUTERS"
+  }
+}
