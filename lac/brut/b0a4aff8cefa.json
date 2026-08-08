@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T16:31:33.546074+00:00",
+  "_id": "b0a4aff8cefa",
+  "brut": {
+    "title": "Cigarettes de contrebande : un réseau international démantelé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cigarettes de contrebande : un réseau international démantelé"
+    },
+    "summary": "Un vaste réseau de trafic de cigarettes de contrebande a été démantelé dans le Nord, avec quatre interpellations. Ce coup de filet intervient alors que le marché explose : près d'une cigarette sur cinq consommée est aujourd'hui une contrefaçon. Les enquêteurs ont également découvert un entrepôt clandestin de fabrication en Belgique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un vaste réseau de trafic de cigarettes de contrebande a été démantelé dans le Nord, avec quatre interpellations. Ce coup de filet intervient alors que le marché explose : près d'une cigarette sur cinq consommée est aujourd'hui une contrefaçon. Les enquêteurs ont également découvert un entrepôt clandestin de fabrication en Belgique."
+    },
+    "published": "Sat, 08 Aug 2026 15:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      13,
+      0,
+      2,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/cigarettes-de-contrebande-un-reseau-international-demantele_8139833.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/cmZa1XE7EofsnjMHFEnhvm9Ltbc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/08/6a7721d3b6206988023278.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/cigarettes-de-contrebande-un-reseau-international-demantele_8139833.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/cigarettes-de-contrebande-un-reseau-international-demantele_8139833.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

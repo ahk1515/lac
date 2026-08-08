@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T16:31:33.545204+00:00",
+  "_id": "d1e3d5aa8f19",
+  "brut": {
+    "title": "Ce que l'on sait de l'explosion d'un drone en Bulgarie, près d'un gazoduc situé à la frontière avec la Roumanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce que l'on sait de l'explosion d'un drone en Bulgarie, près d'un gazoduc situé à la frontière avec la Roumanie"
+    },
+    "summary": "Les incidents impliquant des drones se sont multipliés dans les pays d'Europe de l'Est, membres de l'Otan et proches de zones où drones russes et ukrainiens interviennent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les incidents impliquant des drones se sont multipliés dans les pays d'Europe de l'Est, membres de l'Otan et proches de zones où drones russes et ukrainiens interviennent."
+    },
+    "published": "Sat, 08 Aug 2026 18:26:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      16,
+      26,
+      48,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/drones/ce-que-l-on-sait-de-l-explosion-d-un-drone-en-bulgarie-pres-d-un-gazoduc-situe-a-la-frontiere-avec-la-roumanie_8139794.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kqrqvQqB_6mNYbJnmoz__BiBXUY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/08/6a771c22a710d694766478.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/drones/ce-que-l-on-sait-de-l-explosion-d-un-drone-en-bulgarie-pres-d-un-gazoduc-situe-a-la-frontiere-avec-la-roumanie_8139794.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/drones/ce-que-l-on-sait-de-l-explosion-d-un-drone-en-bulgarie-pres-d-un-gazoduc-situe-a-la-frontiere-avec-la-roumanie_8139794.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

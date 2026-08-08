@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T16:31:33.545535+00:00",
+  "_id": "a1ca435b6431",
+  "brut": {
+    "title": "Fusillade dans un lycée en Thaïlande : les images du tireur",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Fusillade dans un lycée en Thaïlande : les images du tireur"
+    },
+    "summary": "En Thaïlande, un adolescent a tué ses deux grands-parents avec le pistolet de son grand-père, avant de se rendre dans son lycée près de Bangkok où il a fait six autres victimes – trois élèves et trois enseignants – a rapporté la police thaïlandaise, vendredi 7 août. La police a également fait état de 23 blessés, sans indiquer le degré de gravité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Thaïlande, un adolescent a tué ses deux grands-parents avec le pistolet de son grand-père, avant de se rendre dans son lycée près de Bangkok où il a fait six autres victimes – trois élèves et trois enseignants – a rapporté la police thaïlandaise, vendredi 7 août. La police a également fait état de 23 blessés, sans indiquer le degré de gravité."
+    },
+    "published": "Sat, 08 Aug 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      15,
+      0,
+      2,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/fusillade-dans-un-lycee-en-thailande-les-images-du-tireur_8139881.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/pWhwNxs2PfeF6cUzdTQqVZUea-E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/08/6a77357528a5b012202734.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/fusillade-dans-un-lycee-en-thailande-les-images-du-tireur_8139881.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/fusillade-dans-un-lycee-en-thailande-les-images-du-tireur_8139881.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

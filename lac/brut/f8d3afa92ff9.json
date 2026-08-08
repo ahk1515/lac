@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T16:31:33.545757+00:00",
+  "_id": "f8d3afa92ff9",
+  "brut": {
+    "title": "En Allemagne, l’île de Rügen offre un petit coin de paradis sur la Baltique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Allemagne, l’île de Rügen offre un petit coin de paradis sur la Baltique"
+    },
+    "summary": "Samedi 8 août, le journal de 13 Heures se rend sur la plus grande île allemande : l’île de Rügen. Plus d’un million et demi de visiteurs s’y rendent chaque année, attirés par une nature préservée et ses belles stations balnéaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Samedi 8 août, le journal de 13 Heures se rend sur la plus grande île allemande : l’île de Rügen. Plus d’un million et demi de visiteurs s’y rendent chaque année, attirés par une nature préservée et ses belles stations balnéaires."
+    },
+    "published": "Sat, 08 Aug 2026 15:46:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      13,
+      46,
+      1,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/en-allemagne-l-ile-de-rugen-offre-un-petit-coin-de-paradis-sur-la-baltique_8139836.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/bCxLS00J_rOFCOmXBWBJ2M6Ju78/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/08/6a7726e8ac65a378411753.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/en-allemagne-l-ile-de-rugen-offre-un-petit-coin-de-paradis-sur-la-baltique_8139836.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/en-allemagne-l-ile-de-rugen-offre-un-petit-coin-de-paradis-sur-la-baltique_8139836.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

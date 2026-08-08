@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-08T16:31:33.333429+00:00",
+  "_id": "82c9712f183d",
+  "brut": {
+    "title": "Au Liban, l’armée israélienne a pénétré dans un village malgré le déploiement de l’armée libanaise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Liban, l’armée israélienne a pénétré dans un village malgré le déploiement de l’armée libanaise"
+    },
+    "published": "Sat, 08 Aug 2026 14:45:29 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      12,
+      45,
+      29,
+      5,
+      220,
+      0
+    ],
+    "updated": "Sat, 08 Aug 2026 18:18:36 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      8,
+      16,
+      18,
+      36,
+      5,
+      220,
+      0
+    ],
+    "summary": "Des militaires de l’Etat hébreu ont érigé un remblai de terre à l’entrée de la localité de Zaoutar El-Gharbiyé, quelques jours après une session de négociations peu fructueuse entre les deux pays à Rome.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des militaires de l’Etat hébreu ont érigé un remblai de terre à l’entrée de la localité de Zaoutar El-Gharbiyé, quelques jours après une session de négociations peu fructueuse entre les deux pays à Rome."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/08/au-liban-l-armee-israelienne-a-penetre-dans-un-village-malgre-le-deploiement-de-l-armee-libanaise_6741367_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/08/au-liban-l-armee-israelienne-a-penetre-dans-un-village-malgre-le-deploiement-de-l-armee-libanaise_6741367_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/08/au-liban-l-armee-israelienne-a-penetre-dans-un-village-malgre-le-deploiement-de-l-armee-libanaise_6741367_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/660/0/7922/3961/644/322/60/0/682ca33_ftp-1-gx80t0uknvls-5796994-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un char de l’armée libanaise bloque la route près des monticules de terre érigés par l’armée israélienne à l’entrée est du village de Zaoutar El-Gharbiyé (Liban), le 8 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MAHMOUD ZAYYAT/AFP"
+      }
+    ],
+    "credit": "MAHMOUD ZAYYAT/AFP"
+  }
+}

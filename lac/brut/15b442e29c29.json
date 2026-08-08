@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-08T16:31:33.333161+00:00",
+  "_id": "15b442e29c29",
+  "brut": {
+    "title": "En Espagne, un incendie a touché plus de 4 000 hectares de forêt dans la province andalouse de Huelva",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, un incendie a touché plus de 4 000 hectares de forêt dans la province andalouse de Huelva"
+    },
+    "published": "Sat, 08 Aug 2026 15:20:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      13,
+      20,
+      32,
+      5,
+      220,
+      0
+    ],
+    "updated": "Sat, 08 Aug 2026 17:05:44 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      8,
+      15,
+      5,
+      44,
+      5,
+      220,
+      0
+    ],
+    "summary": "L’incendie, qui s’est déclaré près de la localité de Niebla, à environ 70 kilomètres de la frontière sud avec le Portugal, a été attisé par des vents soufflant entre 40 et 50 kilomètres à l’heure.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’incendie, qui s’est déclaré près de la localité de Niebla, à environ 70 kilomètres de la frontière sud avec le Portugal, a été attisé par des vents soufflant entre 40 et 50 kilomètres à l’heure."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/08/un-incendie-dans-le-sud-ouest-de-l-espagne-a-touche-plus-de-4-000-hectares-de-foret_6741402_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/08/un-incendie-dans-le-sud-ouest-de-l-espagne-a-touche-plus-de-4-000-hectares-de-foret_6741402_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/08/un-incendie-dans-le-sud-ouest-de-l-espagne-a-touche-plus-de-4-000-hectares-de-foret_6741402_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/248/0/2975/1487/644/322/60/0/03a54d3_upload-1-rzt5h9uwhhvb-epalivenine254731.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un incendie dans la région de Niebla, province de Huelva (Espagne), le 7 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alberto Diaz/EPA"
+      }
+    ],
+    "credit": "Alberto Diaz/EPA"
+  }
+}
