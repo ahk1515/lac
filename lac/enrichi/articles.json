@@ -10320,6 +10320,28 @@
     ]
   },
   {
+    "date": "Fri, 07 Aug 2026 23:40:56 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "La déforestation dans l'Amazonie brésilienne est au plus bas sur un an, selon les dernières données satellite",
+    "texte": "Entre août 2025 et juillet 2026, près de 2 900km² ont été déboisés, soit une baisse de 37% par rapport aux douze mois précédents. La situation s'est améliorée sous le mandat actuel du président Lula.",
+    "url": "https://www.franceinfo.fr/monde/bresil/la-deforestation-dans-l-amazonie-bresilienne-est-au-plus-bas-sur-un-an-selon-les-dernieres-donnees-satellite_8139152.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "561e6d8d51a4",
+    "pays": [
+      "BRA"
+    ]
+  },
+  {
+    "date": "Fri, 07 Aug 2026 23:42:13 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "La sauce tomate italienne, une recette unique au monde",
+    "texte": "En Italie, la sauce tomate est une institution. Plongée dans les coulisses de l'usine Mutti, où tout semble millimétré pour ravir les papilles de tout un pays, voire plus.",
+    "url": "https://www.franceinfo.fr/monde/italie/la-sauce-tomate-italienne-une-recette-unique-au-monde_8139107.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "b6da49d3cbc8",
+    "pays": []
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -24942,5 +24964,50 @@
       "FRA",
       "USA"
     ]
+  },
+  {
+    "date": "Sat, 08 Aug 2026 02:10:36 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : trois morts dont un enfant dans des frappes russes près de Kiev",
+    "texte": "Des dégâts ont été constatés en trois endroits de la localité de Brovary, au nord-est de la capitale ukrainienne, suite à cette attaque qui a également fait trois blessés, selon le chef de l’administration militaire de la région, Tymour Tkatchenko.",
+    "url": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-trois-morts-dont-un-enfant-dans-des-frappes-russes-pres-de-kiev_6737250_3210.html",
+    "id": "c537abf018b1",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Sat, 08 Aug 2026 01:22:45 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "La déforestation de l’Amazonie brésilienne poursuit une baisse historique, dans la lignée de la promesse de campagne de Lula",
+    "texte": "D’août 2025 à juillet 2026, 2 874 km2 ont été déboisés dans la partie brésilienne de la plus grande forêt tropicale du monde, une chute de 37 % par rapport aux douze mois précédents. La déforestation avait connu un pic à 10 278 km2 sur l’année civile 2022, sous Jair Bolsonaro, le prédécesseur de Lula.",
+    "url": "https://www.lemonde.fr/planete/article/2026/08/08/la-deforestation-de-l-amazonie-bresilienne-poursuit-une-baisse-historique-dans-la-lignee-de-la-promesse-de-campagne-de-lula_6740574_3244.html",
+    "id": "bbbf45c30de0",
+    "pays": [
+      "BRA"
+    ]
+  },
+  {
+    "date": "Sat, 08 Aug 2026 00:37:32 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Investi président de la Colombie, Abelardo de la Espriella promet de combattre « sans répit le narcoterrorisme » dans le pays",
+    "texte": "Le nouveau chef de l’Etat d’extrême droite, avocat millionnaire de 48 ans, entend mettre fin aux pourparlers de paix par lesquels le président sortant a tenté, sans succès, de négocier le désarmement des organisations impliquées dans le narcotrafic.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/08/investi-president-de-la-colombie-abelardo-de-la-espriella-promet-une-offensive-contre-le-narcotrafic_6740541_3210.html",
+    "id": "ec70fe4a099d",
+    "pays": []
+  },
+  {
+    "date": "Fri, 07 Aug 2026 23:06:50 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Crise de Ceuta : l’Union européenne demande à Meta et TikTok de renforcer la surveillance et la vérification des faits",
+    "texte": "« Les plateformes doivent agir de manière décisive pour préserver l’intégrité de l’espace numérique, en particulier en situation de crise », a déclaré Henna Virkkunen, après des discussions menées entre la Commission européenne et les deux plateformes.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/07/crise-de-ceuta-l-union-europeenne-demande-a-meta-et-tiktok-de-renforcer-la-surveillance-et-la-verification-des-faits_6740540_3210.html",
+    "id": "2bc50c99ab01",
+    "pays": []
   }
 ]

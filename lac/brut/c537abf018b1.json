@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-08T01:26:01.706800+00:00",
+  "_id": "c537abf018b1",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : trois morts dont un enfant dans des frappes russes près de Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : trois morts dont un enfant dans des frappes russes près de Kiev"
+    },
+    "published": "Sat, 08 Aug 2026 02:10:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      0,
+      10,
+      36,
+      5,
+      220,
+      0
+    ],
+    "summary": "Des dégâts ont été constatés en trois endroits de la localité de Brovary, au nord-est de la capitale ukrainienne, suite à cette attaque qui a également fait trois blessés, selon le chef de l’administration militaire de la région, Tymour Tkatchenko.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des dégâts ont été constatés en trois endroits de la localité de Brovary, au nord-est de la capitale ukrainienne, suite à cette attaque qui a également fait trois blessés, selon le chef de l’administration militaire de la région, Tymour Tkatchenko."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-trois-morts-dont-un-enfant-dans-des-frappes-russes-pres-de-kiev_6737250_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-trois-morts-dont-un-enfant-dans-des-frappes-russes-pres-de-kiev_6737250_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-trois-morts-dont-un-enfant-dans-des-frappes-russes-pres-de-kiev_6737250_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/500/0/6000/3000/644/322/60/0/04ff9d4_ftp-1-xgh6l8o6csas-5780041-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un centre commercial détruit après des frappes russes, à Kiev, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JANE BARLOW/AFP"
+      }
+    ],
+    "credit": "JANE BARLOW/AFP"
+  }
+}

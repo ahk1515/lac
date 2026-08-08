@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T01:26:02.858530+00:00",
+  "_id": "b6da49d3cbc8",
+  "brut": {
+    "title": "La sauce tomate italienne, une recette unique au monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La sauce tomate italienne, une recette unique au monde"
+    },
+    "summary": "En Italie, la sauce tomate est une institution. Plongée dans les coulisses de l'usine Mutti, où tout semble millimétré pour ravir les papilles de tout un pays, voire plus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, la sauce tomate est une institution. Plongée dans les coulisses de l'usine Mutti, où tout semble millimétré pour ravir les papilles de tout un pays, voire plus."
+    },
+    "published": "Fri, 07 Aug 2026 23:42:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      7,
+      21,
+      42,
+      13,
+      4,
+      219,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/la-sauce-tomate-italienne-une-recette-unique-au-monde_8139107.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/WoyTmLwz9mOpsyVI48Q_3l2xVeo/0x3:1524x861/432x243/filters:format(jpg):quality(50)/2026/08/07/6a7645fce992f731606211.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/la-sauce-tomate-italienne-une-recette-unique-au-monde_8139107.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/la-sauce-tomate-italienne-une-recette-unique-au-monde_8139107.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
