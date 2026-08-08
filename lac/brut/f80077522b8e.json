@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T08:39:10.650254+00:00",
+  "_id": "f80077522b8e",
+  "brut": {
+    "title": "Au moins trois personnes sont mortes dans une nouvelle attaque russe sur Kiev et sa région",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins trois personnes sont mortes dans une nouvelle attaque russe sur Kiev et sa région"
+    },
+    "summary": "Sept personnes ont également été blessées dans ces frappes russes survenues dans la nuit de vendredi à samedi. Dix-sept personnes avaient déjà été tuées en Ukraine mercredi dans des frappes de missiles balistiques russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sept personnes ont également été blessées dans ces frappes russes survenues dans la nuit de vendredi à samedi. Dix-sept personnes avaient déjà été tuées en Ukraine mercredi dans des frappes de missiles balistiques russes."
+    },
+    "published": "Sat, 08 Aug 2026 07:41:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      5,
+      41,
+      1,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-trois-personnes-sont-mortes-dans-une-nouvelle-attaque-russe-sur-kiev-et-sa-region_8139458.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QEoVQTsMa9xEbtw3cW7DkhYNlwA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/08/6a76bfa228a55009417877.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-trois-personnes-sont-mortes-dans-une-nouvelle-attaque-russe-sur-kiev-et-sa-region_8139458.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-trois-personnes-sont-mortes-dans-une-nouvelle-attaque-russe-sur-kiev-et-sa-region_8139458.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

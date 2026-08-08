@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T08:39:10.650428+00:00",
+  "_id": "95341a98677a",
+  "brut": {
+    "title": "Gabriel Attal porte plainte après des soupçons d'ingérence russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Gabriel Attal porte plainte après des soupçons d'ingérence russe"
+    },
+    "summary": "Le candidat Renaissance à l'élection présidentielle a été visé mercredi et jeudi par une opération de désinformation provenant de modes opératoires pro-russes, selon ses avocats.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le candidat Renaissance à l'élection présidentielle a été visé mercredi et jeudi par une opération de désinformation provenant de modes opératoires pro-russes, selon ses avocats."
+    },
+    "published": "Sat, 08 Aug 2026 07:50:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      5,
+      50,
+      52,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/gabriel-attal-porte-plainte-apres-des-soupcons-d-ingerence-russe_8139455.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/m7K8-nZremXieR90pQO5eXDzwf8/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/08/08/6a76bdb1016fe819348263.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/gabriel-attal-porte-plainte-apres-des-soupcons-d-ingerence-russe_8139455.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/gabriel-attal-porte-plainte-apres-des-soupcons-d-ingerence-russe_8139455.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
