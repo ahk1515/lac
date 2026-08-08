@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-08T04:55:02.465161+00:00",
+  "_id": "9010d51611d3",
+  "brut": {
+    "title": "Amazon fait construire au Texas la plus grande centrale à gaz des Etats-Unis pour alimenter ses centres de données",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Amazon fait construire au Texas la plus grande centrale à gaz des Etats-Unis pour alimenter ses centres de données"
+    },
+    "published": "Sat, 08 Aug 2026 03:59:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      1,
+      59,
+      24,
+      5,
+      220,
+      0
+    ],
+    "updated": "Sat, 08 Aug 2026 06:01:19 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      8,
+      4,
+      1,
+      19,
+      5,
+      220,
+      0
+    ],
+    "summary": "La structure, qui devrait contenir 35 turbines pour une capacité totale de 7,65 gigawatts, pourrait devenir la plus importante source d’émission de gaz à effet de serre du pays. Le géant américain affirme maintenir son objectif de bilan carbone neutre d’ici à 2040.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La structure, qui devrait contenir 35 turbines pour une capacité totale de 7,65 gigawatts, pourrait devenir la plus importante source d’émission de gaz à effet de serre du pays. Le géant américain affirme maintenir son objectif de bilan carbone neutre d’ici à 2040."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/08/au-texas-amazon-fait-construire-la-plus-grande-centrale-a-gaz-des-etats-unis-pour-alimenter-ses-centres-de-donnees_6740607_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/08/au-texas-amazon-fait-construire-la-plus-grande-centrale-a-gaz-des-etats-unis-pour-alimenter-ses-centres-de-donnees_6740607_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/08/au-texas-amazon-fait-construire-la-plus-grande-centrale-a-gaz-des-etats-unis-pour-alimenter-ses-centres-de-donnees_6740607_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/03/24/568/0/4768/2384/644/322/60/0/1241af3_ftp-1-5vjjiu42yz0a-2026-03-24t061524z-1806268127-rc2w3ha1w7vc-rtrmadp-3-iran-crisis-amazon-com.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un centre de données d’Amazon dédié à l’intelligence artificielle, à New Carlisle (Indiana, Etats-Unis), le 2 octobre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Noah Berger pour AWS/REUTERS"
+      }
+    ],
+    "credit": "Noah Berger pour AWS/REUTERS"
+  }
+}

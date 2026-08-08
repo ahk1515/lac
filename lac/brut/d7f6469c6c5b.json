@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-08T04:55:02.463585+00:00",
+  "_id": "d7f6469c6c5b",
+  "brut": {
+    "title": "Au Venezuela, un dialogue sous tutelle américaine entre chavisme et opposition",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Venezuela, un dialogue sous tutelle américaine entre chavisme et opposition"
+    },
+    "published": "Sat, 08 Aug 2026 06:01:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      4,
+      1,
+      6,
+      5,
+      220,
+      0
+    ],
+    "summary": "La Prix Nobel de la paix Maria Corina Machado a été exclue par Washington des pourparlers ouverts à Caracas, jeudi 6 août, en vue d’une transition politique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Prix Nobel de la paix Maria Corina Machado a été exclue par Washington des pourparlers ouverts à Caracas, jeudi 6 août, en vue d’une transition politique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/08/au-venezuela-un-dialogue-sous-tutelle-americaine-entre-chavisme-et-opposition_6740788_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/08/au-venezuela-un-dialogue-sous-tutelle-americaine-entre-chavisme-et-opposition_6740788_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/08/au-venezuela-un-dialogue-sous-tutelle-americaine-entre-chavisme-et-opposition_6740788_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/430/0/5163/2581/644/322/60/0/0927dbb_ftp-1-xmd3c2bv37ka-5517701e7c454178ad807c2def1563b7-0-a91dc8eb71c44d429dabb325b6c01b24.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Marco Aurelio Quinones, dirigeant du parti Voluntad Popular, Dinorah Figuera, ancienne présidente de l’Assemblée nationale de l’opposition, Jorge Rodriguez, président de l’Assemblée nationale, et Pedro Infante, vice-président de l’Assemblée nationale, lors du lancement d’un nouveau cycle de pourparlers politiques à Caracas, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Pedro Mattey/AP"
+      }
+    ],
+    "credit": "Pedro Mattey/AP"
+  }
+}
