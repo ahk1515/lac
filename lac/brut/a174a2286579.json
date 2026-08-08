@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T20:28:00.212849+00:00",
+  "_id": "a174a2286579",
+  "brut": {
+    "title": "L'Islande face à l'afflux de touristes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Islande face à l'afflux de touristes"
+    },
+    "summary": "L'Islande est une destination touristique de plus en plus prisée, et le secteur représente désormais 9% du PIB du pays, loin devant la pêche. Mais ce petit pays de 380 000 habitants fait face à de nombreux défis pour que ses deux millions de visiteurs annuels ne perturbent pas son équilibre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Islande est une destination touristique de plus en plus prisée, et le secteur représente désormais 9% du PIB du pays, loin devant la pêche. Mais ce petit pays de 380 000 habitants fait face à de nombreux défis pour que ses deux millions de visiteurs annuels ne perturbent pas son équilibre."
+    },
+    "published": "Sat, 08 Aug 2026 20:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      18,
+      0,
+      2,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/l-islande-face-a-l-afflux-de-touristes_8137499.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vzYKhFgCi1DdcirUnRa3DJ9ms9E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/06/6a74b58376605408695209.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/l-islande-face-a-l-afflux-de-touristes_8137499.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/l-islande-face-a-l-afflux-de-touristes_8137499.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T20:28:00.213205+00:00",
+  "_id": "936281187130",
+  "brut": {
+    "title": "En Italie, les fumées de l'Etna forcent l'aéroport de Catane à suspendre temporairement ses vols à l'arrivée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, les fumées de l'Etna forcent l'aéroport de Catane à suspendre temporairement ses vols à l'arrivée"
+    },
+    "summary": "Après une journée de perturbations, les avions pouvaient à nouveau atterrir samedi fin d'après-midi à l'aéroport de Catane.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après une journée de perturbations, les avions pouvaient à nouveau atterrir samedi fin d'après-midi à l'aéroport de Catane."
+    },
+    "published": "Sat, 08 Aug 2026 20:54:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      18,
+      54,
+      41,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/en-italie-les-fumees-de-l-etna-forcent-l-aeroport-de-catane-a-suspendre-ses-vols-a-l-arrivee_8139956.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GVC9JjER_-r9YlBrHf3-x0j7mcM/0x107:1024x683/432x243/filters:format(jpg):quality(50)/2026/08/08/6a775dfd7dfe7714134786.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/en-italie-les-fumees-de-l-etna-forcent-l-aeroport-de-catane-a-suspendre-ses-vols-a-l-arrivee_8139956.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/en-italie-les-fumees-de-l-etna-forcent-l-aeroport-de-catane-a-suspendre-ses-vols-a-l-arrivee_8139956.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

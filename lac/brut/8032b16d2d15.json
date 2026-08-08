@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T20:28:00.212619+00:00",
+  "_id": "8032b16d2d15",
+  "brut": {
+    "title": "En Allemagne, plusieurs drones aperçus au-dessus d'un site de l'armée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Allemagne, plusieurs drones aperçus au-dessus d'un site de l'armée"
+    },
+    "summary": "Le site de la Bundeswehr stocke équipements et pièces de rechange dans un dépôt souterrain aménagé à 130 mètres de profondeur. Il abrite aussi des éléments du système américain de défense antiaérienne Patriot, destiné à intercepter les missiles de croisière et balistiques ainsi que les aéronefs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le site de la Bundeswehr stocke équipements et pièces de rechange dans un dépôt souterrain aménagé à 130 mètres de profondeur. Il abrite aussi des éléments du système américain de défense antiaérienne Patriot, destiné à intercepter les missiles de croisière et balistiques ainsi que les aéronefs."
+    },
+    "published": "Sat, 08 Aug 2026 20:40:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      18,
+      40,
+      6,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-plusieurs-drones-apercus-au-dessus-d-un-site-de-l-armee-allemande_8140127.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/AYGvP4opnKv2KhNy6IZuVJgoQCs/0x74:1024x650/432x243/filters:format(jpg):quality(50)/2026/08/08/6a7776b172667185804527.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-plusieurs-drones-apercus-au-dessus-d-un-site-de-l-armee-allemande_8140127.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-plusieurs-drones-apercus-au-dessus-d-un-site-de-l-armee-allemande_8140127.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
