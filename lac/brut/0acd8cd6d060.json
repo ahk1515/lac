@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T12:43:51.122545+00:00",
+  "_id": "0acd8cd6d060",
+  "brut": {
+    "title": "Le renseignement américain s'inquiète d'une possible attaque d'un membre de l'Otan par la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le renseignement américain s'inquiète d'une possible attaque d'un membre de l'Otan par la Russie"
+    },
+    "summary": "Cette possible attaque pourrait aller de la cyberattaque à une incursion terrestre limitée. La probabilité de cette dernière option est jugée faible par les services de renseignement américains.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette possible attaque pourrait aller de la cyberattaque à une incursion terrestre limitée. La probabilité de cette dernière option est jugée faible par les services de renseignement américains."
+    },
+    "published": "Sat, 08 Aug 2026 12:48:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      10,
+      48,
+      25,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/otan/la-russie-pourrait-attaquer-un-membre-de-l-otan-selon-le-renseignement-americain_8139659.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ArTVaSQRU2a3T6iRmBubLkx-nqA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/08/6a76fc93bdc68943420666.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/otan/la-russie-pourrait-attaquer-un-membre-de-l-otan-selon-le-renseignement-americain_8139659.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/otan/la-russie-pourrait-attaquer-un-membre-de-l-otan-selon-le-renseignement-americain_8139659.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

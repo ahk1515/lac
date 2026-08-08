@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T12:43:51.121653+00:00",
+  "_id": "8979ed94bdef",
+  "brut": {
+    "title": "Au Liban, l'armée israélienne pénètre dans un village récemment passé sous le contrôle de l'armée libanaise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Liban, l'armée israélienne pénètre dans un village récemment passé sous le contrôle de l'armée libanaise"
+    },
+    "summary": "L'armée libanaise s'était déployée en juillet dans cette zone dont les abords avaient été évacués par Israël, conformément à un accord-cadre signé fin juin entre les deux pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée libanaise s'était déployée en juillet dans cette zone dont les abords avaient été évacués par Israël, conformément à un accord-cadre signé fin juin entre les deux pays."
+    },
+    "published": "Sat, 08 Aug 2026 14:34:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      12,
+      34,
+      16,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-l-armee-israelienne-penetre-dans-un-village-recemment-passe-sous-le-controle-de-l-armee-libanaise_8139815.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/igMLmoFOe1NmcYqW0GGDp8RDhps/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/08/6a771fc5ae3df125841673.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-l-armee-israelienne-penetre-dans-un-village-recemment-passe-sous-le-controle-de-l-armee-libanaise_8139815.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-l-armee-israelienne-penetre-dans-un-village-recemment-passe-sous-le-controle-de-l-armee-libanaise_8139815.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

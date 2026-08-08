@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-08T12:43:50.206680+00:00",
+  "_id": "0e43f95029d6",
+  "brut": {
+    "title": "SpaceX, le rêve à l’épreuve des chiffres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "SpaceX, le rêve à l’épreuve des chiffres"
+    },
+    "published": "Sat, 08 Aug 2026 11:30:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      9,
+      30,
+      5,
+      5,
+      220,
+      0
+    ],
+    "summary": "L’euphorie autour de l’entreprise spatiale n’est pas totalement retombée malgré une valorisation en forte baisse depuis l’introduction en Bourse, mi-juin. Si extraordinaires soient les ambitions, celles-ci ne doivent pas dispenser de démontrer la rentabilité de la société fondée par Elon Musk.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’euphorie autour de l’entreprise spatiale n’est pas totalement retombée malgré une valorisation en forte baisse depuis l’introduction en Bourse, mi-juin. Si extraordinaires soient les ambitions, celles-ci ne doivent pas dispenser de démontrer la rentabilité de la société fondée par Elon Musk."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/08/08/spacex-le-reve-a-l-epreuve-des-chiffres_6741194_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/08/08/spacex-le-reve-a-l-epreuve-des-chiffres_6741194_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/08/08/spacex-le-reve-a-l-epreuve-des-chiffres_6741194_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/420/0/5910/2955/644/322/60/0/960e070_upload-1-rnifg3s1psdb-063-2281285357.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des employés de SpaceX, après l’introduction de l’entreprise en bourse, à New York, le 12 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SPENCER PLATT/Getty Images via AFP"
+      }
+    ],
+    "credit": "SPENCER PLATT/Getty Images via AFP"
+  }
+}

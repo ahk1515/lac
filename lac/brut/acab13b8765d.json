@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T12:43:51.122392+00:00",
+  "_id": "acab13b8765d",
+  "brut": {
+    "title": "Un drone entré en Bulgarie a explosé près d'un gazoduc à la frontière roumaine, rapporte le Premier ministre bulgare",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un drone entré en Bulgarie a explosé près d'un gazoduc à la frontière roumaine, rapporte le Premier ministre bulgare"
+    },
+    "summary": "L'explosion a eu lieu dans un champ situé à un kilomètre du gazoduc transbalkanique, reliant la Turquie à l'Ukraine. Il n'y a pas eu de victime et aucun détail sur la provenance du drone n'a été communiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'explosion a eu lieu dans un champ situé à un kilomètre du gazoduc transbalkanique, reliant la Turquie à l'Ukraine. Il n'y a pas eu de victime et aucun détail sur la provenance du drone n'a été communiqué."
+    },
+    "published": "Sat, 08 Aug 2026 14:25:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      12,
+      25,
+      59,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine-selon-le-premier-ministre-bulgare_8139743.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_BdN-tFJNNyxCNdKlijXtI2IfN0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/08/6a770c35ce76f464386044.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine-selon-le-premier-ministre-bulgare_8139743.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine-selon-le-premier-ministre-bulgare_8139743.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

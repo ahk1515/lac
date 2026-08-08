@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-08T12:43:51.122846+00:00",
+  "_id": "20acbeea3e59",
+  "brut": {
+    "title": "Les réseaux d'eau potable d'une douzaine d'États américains ciblés par des hackers iraniens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les réseaux d'eau potable d'une douzaine d'États américains ciblés par des hackers iraniens"
+    },
+    "summary": "La Géorgie notamment a été visée la semaine dernière par une cyberattaque, qui selon certains chercheurs aurait pu être anticipée. Ces attaques viseraient à influencer le climat politique aux États-Unis, jusqu'à perturber la prochaine élection présidentielle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Géorgie notamment a été visée la semaine dernière par une cyberattaque, qui selon certains chercheurs aurait pu être anticipée. Ces attaques viseraient à influencer le climat politique aux États-Unis, jusqu'à perturber la prochaine élection présidentielle."
+    },
+    "published": "Sat, 08 Aug 2026 10:56:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      8,
+      56,
+      1,
+      5,
+      220,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-reseaux-d-eau-potable-d-une-douzaine-d-etats-americains-cibles-par-des-hackers-iraniens_8139560.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MYeiykBeO37dfOkiUBPVzyZ1VB0/0x302:5808x3569/432x243/filters:format(jpg):quality(50)/2026/08/08/6a76e6be8f1f3251959310.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-reseaux-d-eau-potable-d-une-douzaine-d-etats-americains-cibles-par-des-hackers-iraniens_8139560.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-reseaux-d-eau-potable-d-une-douzaine-d-etats-americains-cibles-par-des-hackers-iraniens_8139560.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

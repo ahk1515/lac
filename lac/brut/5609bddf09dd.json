@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-08T12:43:50.206490+00:00",
+  "_id": "5609bddf09dd",
+  "brut": {
+    "title": "Un drone entré en Bulgarie a explosé près d’un gazoduc à la frontière roumaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un drone entré en Bulgarie a explosé près d’un gazoduc à la frontière roumaine"
+    },
+    "published": "Sat, 08 Aug 2026 12:30:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      8,
+      10,
+      30,
+      12,
+      5,
+      220,
+      0
+    ],
+    "updated": "Sat, 08 Aug 2026 14:21:50 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      8,
+      12,
+      21,
+      50,
+      5,
+      220,
+      0
+    ],
+    "summary": "Le drone, qui transportait « une quantité importante d’explosifs », selon le premier ministre bulgare, Roumen Radev, a explosé « à proximité immédiate » d’un poste-frontière avec la Roumanie, « à 1 000 mètres » d’une station de compression du gazoduc transbalkanique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le drone, qui transportait « une quantité importante d’explosifs », selon le premier ministre bulgare, Roumen Radev, a explosé « à proximité immédiate » d’un poste-frontière avec la Roumanie, « à 1 000 mètres » d’une station de compression du gazoduc transbalkanique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/08/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine_6741326_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/08/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine_6741326_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/08/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine_6741326_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/0/0/5184/2592/644/322/60/0/42d238a_upload-1-dqxgbzme47rv-080-hl-bohier-3231561.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Roumen Radev, premier ministre bulgare, à l’Elysée, à Paris, le 13 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BASTIEN OHIER/Hans Lucas via AFP"
+      }
+    ],
+    "credit": "BASTIEN OHIER/Hans Lucas via AFP"
+  }
+}
