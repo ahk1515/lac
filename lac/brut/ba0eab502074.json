@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T08:40:24.045225+00:00",
+  "_id": "ba0eab502074",
+  "brut": {
+    "title": "Chongqing, la ville chinoise devenue star des réseaux sociaux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chongqing, la ville chinoise devenue star des réseaux sociaux"
+    },
+    "summary": "Chongqing, immense cité dans le centre de la Chine, est la deuxième ville la plus peuplée de la planète avec 32 millions d'habitants. Elle était presque inconnue à l'étranger il y a encore dix ans, c'est aujourd’hui devenu l'un des principaux centres touristiques de la Chine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chongqing, immense cité dans le centre de la Chine, est la deuxième ville la plus peuplée de la planète avec 32 millions d'habitants. Elle était presque inconnue à l'étranger il y a encore dix ans, c'est aujourd’hui devenu l'un des principaux centres touristiques de la Chine."
+    },
+    "published": "Sun, 09 Aug 2026 10:11:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      8,
+      11,
+      11,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/chongqing-la-ville-chinoise-devenue-star-des-reseaux-sociaux_8069699.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Jn1ctTrzHaeOFKC2rQwwynEqwZc/0x257:5753x3493/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78311a6fbb8804451528.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/chongqing-la-ville-chinoise-devenue-star-des-reseaux-sociaux_8069699.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/chongqing-la-ville-chinoise-devenue-star-des-reseaux-sociaux_8069699.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
