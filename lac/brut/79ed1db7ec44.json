@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T20:30:40.199619+00:00",
+  "_id": "79ed1db7ec44",
+  "brut": {
+    "title": "\"Le feu bouge incroyablement vite\" : un incendie dévaste 10 000 hectares au Canada",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Le feu bouge incroyablement vite\" : un incendie dévaste 10 000 hectares au Canada"
+    },
+    "summary": "Au Canada, l’État d’urgence a été décrété. Depuis le vendredi 7 août, un gigantesque incendie sévit en Colombie-Britannique, à l’ouest du pays. Plus de 10 000 hectares ont brûlé et 20 000 personnes ont dû être évacuées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Canada, l’État d’urgence a été décrété. Depuis le vendredi 7 août, un gigantesque incendie sévit en Colombie-Britannique, à l’ouest du pays. Plus de 10 000 hectares ont brûlé et 20 000 personnes ont dû être évacuées."
+    },
+    "published": "Sun, 09 Aug 2026 21:39:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      19,
+      39,
+      57,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-feu-bouge-incroyablement-vite-un-incendie-devaste-10-000-hectares-au-canada_8141162.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QE8JRWiFtmlBdCBgPFDhGOIPVCg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78cc6d8d203257052497.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-feu-bouge-incroyablement-vite-un-incendie-devaste-10-000-hectares-au-canada_8141162.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-feu-bouge-incroyablement-vite-un-incendie-devaste-10-000-hectares-au-canada_8141162.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

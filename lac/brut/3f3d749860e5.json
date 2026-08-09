@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T20:30:40.199787+00:00",
+  "_id": "3f3d749860e5",
+  "brut": {
+    "title": "Des vols suspendus et des habitations évacuées en Chine après l'arrivée du typhon Dolphin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des vols suspendus et des habitations évacuées en Chine après l'arrivée du typhon Dolphin"
+    },
+    "summary": "Près de 1 400 vols à destination et au départ des deux principaux aéroports de passagers de Shanghai ont notamment été annulés dimanche, a rapporté la chaîne publique CCTV.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 1 400 vols à destination et au départ des deux principaux aéroports de passagers de Shanghai ont notamment été annulés dimanche, a rapporté la chaîne publique CCTV."
+    },
+    "published": "Sun, 09 Aug 2026 19:37:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      17,
+      37,
+      14,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/des-vols-suspendus-et-des-habitations-evacuees-en-chine-apres-l-arrivee-du-typhon-dolphin_8141054.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Reds86A_4pnmioR4df91xHHEhms/0x61:1024x637/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78b9ca2f661961948295.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/des-vols-suspendus-et-des-habitations-evacuees-en-chine-apres-l-arrivee-du-typhon-dolphin_8141054.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/des-vols-suspendus-et-des-habitations-evacuees-en-chine-apres-l-arrivee-du-typhon-dolphin_8141054.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
