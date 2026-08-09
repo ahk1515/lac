@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-09T05:03:25.060666+00:00",
+  "_id": "07554bdb70ec",
+  "brut": {
+    "title": "Dans l’Ouest canadien, plus de 20 000 personnes évacuées face à la progression d’un vaste feu de forêt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans l’Ouest canadien, plus de 20 000 personnes évacuées face à la progression d’un vaste feu de forêt"
+    },
+    "published": "Sun, 09 Aug 2026 03:39:42 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      1,
+      39,
+      42,
+      6,
+      221,
+      0
+    ],
+    "updated": "Sun, 09 Aug 2026 03:52:04 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      9,
+      1,
+      52,
+      4,
+      6,
+      221,
+      0
+    ],
+    "summary": "Signalé pour la première fois vendredi soir dans le sud de la Colombie-Britannique, où l’état d’urgence a été déclaré, le feu de Bald Range demeure « extrêmement actif », ont averti les autorités provinciales samedi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Signalé pour la première fois vendredi soir dans le sud de la Colombie-Britannique, où l’état d’urgence a été déclaré, le feu de Bald Range demeure « extrêmement actif », ont averti les autorités provinciales samedi."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/09/canada-plus-de-20-000-personnes-evacuees-en-colombie-britannique-face-a-un-vaste-feu-de-foret_6741747_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/09/canada-plus-de-20-000-personnes-evacuees-en-colombie-britannique-face-a-un-vaste-feu-de-foret_6741747_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/09/canada-plus-de-20-000-personnes-evacuees-en-colombie-britannique-face-a-un-vaste-feu-de-foret_6741747_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/1083/0/6500/3250/644/322/60/0/d462238_ftp-1-gk26ikmktvs5-2026-08-08t220804z-1950053432-rc2jumadqg0y-rtrmadp-3-canada-wildfires.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La gendarmerie royale du Canada détourne des automobilistes se dirigeant vers l’incendie de Bald Range à Penticton, en Colombie-Britannique, le 8 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Paige Taylor White/REUTERS"
+      }
+    ],
+    "credit": "Paige Taylor White/REUTERS"
+  }
+}
