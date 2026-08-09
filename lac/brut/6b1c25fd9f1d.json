@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-09T16:33:08.100486+00:00",
+  "_id": "6b1c25fd9f1d",
+  "brut": {
+    "title": "Thaïlande : après une fusillade mortelle dans un lycée, le débat sur les armes relancé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Thaïlande : après une fusillade mortelle dans un lycée, le débat sur les armes relancé"
+    },
+    "published": "Sun, 09 Aug 2026 17:49:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      15,
+      49,
+      59,
+      6,
+      221,
+      0
+    ],
+    "summary": "Le 7 août, un adolescent de 14 ans a tué huit personnes par arme à feu, dont six dans son collège-lycée. Malgré une législation relativement stricte, près de 10 millions d’armes sont en circulation dans le pays, où sévit un important marché clandestin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 7 août, un adolescent de 14 ans a tué huit personnes par arme à feu, dont six dans son collège-lycée. Malgré une législation relativement stricte, près de 10 millions d’armes sont en circulation dans le pays, où sévit un important marché clandestin."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/09/thailande-apres-une-fusillade-mortelle-dans-un-lycee-le-debat-sur-les-armes-relance_6742671_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/09/thailande-apres-une-fusillade-mortelle-dans-un-lycee-le-debat-sur-les-armes-relance_6742671_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/09/thailande-apres-une-fusillade-mortelle-dans-un-lycee-le-debat-sur-les-armes-relance_6742671_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/09/481/0/5775/2887/644/322/60/0/91089bf_ftp-1-hgz5fgef26tx-2026-08-09t050241z-1919453419-rc2sumafqkpu-rtrmadp-3-thailand-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’un hommage devant le collège Debsirin Nonthaburi, à la suite d’une fusillade meurtrière qui s’est produite dans cet établissement vendredi 7 août, en périphérie de Bangkok (Thaïlande), le 9 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valeria Mongelli/REUTERS"
+      }
+    ],
+    "credit": "Valeria Mongelli/REUTERS"
+  }
+}

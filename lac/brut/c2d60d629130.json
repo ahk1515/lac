@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-09T16:33:08.099996+00:00",
+  "_id": "c2d60d629130",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays"
+    },
+    "published": "Sun, 09 Aug 2026 18:10:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      16,
+      10,
+      59,
+      6,
+      221,
+      0
+    ],
+    "updated": "Sun, 09 Aug 2026 18:14:03 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      9,
+      16,
+      14,
+      3,
+      6,
+      221,
+      0
+    ],
+    "summary": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/09/418/0/3657/1828/644/322/60/0/d3de027_ftp-1-tzmkamoh9bfr-2026-08-09t071817z-1761331309-rc2tuma1agk3-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une attaque de missiles russes, à Kharkiv (Ukraine), le 9 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vitalii Hnidyi/REUTERS"
+      }
+    ],
+    "credit": "Vitalii Hnidyi/REUTERS"
+  }
+}

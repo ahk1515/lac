@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T16:33:08.924979+00:00",
+  "_id": "03f28e7f7008",
+  "brut": {
+    "title": "Manija : une cheffe tadjike fan de pizzas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Manija : une cheffe tadjike fan de pizzas"
+    },
+    "summary": "Manija a tout plaqué pour réaliser le rêve de sa vie : ouvrir une pizzeria, mais le Tadjikistan, son pays d'origine, n'est pas loin. Elle propose aussi des spécialités tadjikes dans son petit restaurant basé à Paris.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Manija a tout plaqué pour réaliser le rêve de sa vie : ouvrir une pizzeria, mais le Tadjikistan, son pays d'origine, n'est pas loin. Elle propose aussi des spécialités tadjikes dans son petit restaurant basé à Paris."
+    },
+    "published": "Sun, 09 Aug 2026 15:30:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      13,
+      30,
+      2,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/manija-une-cheffe-tadjike-fan-de-pizzas_8092274.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vCcRE8uoYZ7agt4F0o4VFfnx_JI/0x150:1600x1050/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74acf207f60416851123.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/manija-une-cheffe-tadjike-fan-de-pizzas_8092274.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/manija-une-cheffe-tadjike-fan-de-pizzas_8092274.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
