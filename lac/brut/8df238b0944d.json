@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-09T12:47:03.776735+00:00",
+  "_id": "8df238b0944d",
+  "brut": {
+    "title": "A Locarno, les Chiliens Cristobal Leon et Joaquin Cociña dévoilent leur folle planète cinéma",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Locarno, les Chiliens Cristobal Leon et Joaquin Cociña dévoilent leur folle planète cinéma"
+    },
+    "published": "Sun, 09 Aug 2026 12:00:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      10,
+      0,
+      12,
+      6,
+      221,
+      0
+    ],
+    "summary": "Les coréalisateurs de « Princesa Burro », en lice pour le Léopard d’or, signent un film de genre artisanal et inventif, revisitant le conte « Peau d’âne ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les coréalisateurs de « Princesa Burro », en lice pour le Léopard d’or, signent un film de genre artisanal et inventif, revisitant le conte « Peau d’âne »."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/08/09/a-locarno-les-chiliens-cristobal-leon-et-joaquin-cocina-devoilent-leur-folle-planete-cinema_6742302_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/08/09/a-locarno-les-chiliens-cristobal-leon-et-joaquin-cocina-devoilent-leur-folle-planete-cinema_6742302_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/08/09/a-locarno-les-chiliens-cristobal-leon-et-joaquin-cocina-devoilent-leur-folle-planete-cinema_6742302_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/09/100/0/1920/960/644/322/60/0/7d1033f_upload-1-9rd44mpbaf3l-donkey-princess-bendita-film-sales-01.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Diana (Antonia Giesen) et le roi (Francisco Melo) dans « Princessa Burro », de Cristobal Leon et Joaquin Cociña, produit en 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bendita Film Sales"
+      }
+    ],
+    "credit": "Bendita Film Sales"
+  }
+}

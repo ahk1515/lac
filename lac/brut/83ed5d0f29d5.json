@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-09T12:47:03.776119+00:00",
+  "_id": "83ed5d0f29d5",
+  "brut": {
+    "title": "Le typhon Dolphin a touché terre dans l’est de la Chine ; des fortes pluies et des vents violents sur de larges portions du littoral",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le typhon Dolphin a touché terre dans l’est de la Chine ; des fortes pluies et des vents violents sur de larges portions du littoral"
+    },
+    "published": "Sun, 09 Aug 2026 12:23:46 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      10,
+      23,
+      46,
+      6,
+      221,
+      0
+    ],
+    "updated": "Sun, 09 Aug 2026 13:32:25 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      9,
+      11,
+      32,
+      25,
+      6,
+      221,
+      0
+    ],
+    "summary": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé – prévoyant des « pluies torrentielles exceptionnelles » dans certaines zones du centre et de l’est du Zhejiang.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé – prévoyant des « pluies torrentielles exceptionnelles » dans certaines zones du centre et de l’est du Zhejiang."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/09/le-typhon-dolphin-a-touche-terre-dans-l-est-de-la-chine-fortes-pluies-et-vents-violents-sur-de-larges-portions-du-littoral_6742099_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/09/le-typhon-dolphin-a-touche-terre-dans-l-est-de-la-chine-fortes-pluies-et-vents-violents-sur-de-larges-portions-du-littoral_6742099_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/09/le-typhon-dolphin-a-touche-terre-dans-l-est-de-la-chine-fortes-pluies-et-vents-violents-sur-de-larges-portions-du-littoral_6742099_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/09/470/0/5639/2819/644/322/60/0/654f3e0_ftp-1-zicr2acpjt7g-5802245-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le 9 août 2026, les baies vitrées d’une salle d’attente provisoire de la gare de Hangzhou, dans la province du Zhejiang, ont été recouvertes de ruban adhésif par mesure de précaution face au typhon Dolphin."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

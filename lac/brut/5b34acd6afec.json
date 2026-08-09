@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-09T12:47:03.776955+00:00",
+  "_id": "5b34acd6afec",
+  "brut": {
+    "title": "Hongkong bat son record de chaleur avec 36,9 °C",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Hongkong bat son record de chaleur avec 36,9 °C"
+    },
+    "published": "Sun, 09 Aug 2026 11:18:22 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      9,
+      18,
+      22,
+      6,
+      221,
+      0
+    ],
+    "updated": "Sun, 09 Aug 2026 11:54:58 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      9,
+      9,
+      54,
+      58,
+      6,
+      221,
+      0
+    ],
+    "summary": "Ce record est en partie dû au typhon Dolphin, qui s’approche des côtes orientales de la Chine, selon l’observatoire météorologique de Hongkong.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce record est en partie dû au typhon Dolphin, qui s’approche des côtes orientales de la Chine, selon l’observatoire météorologique de Hongkong."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/09/hongkong-bat-son-record-de-chaleur-avec-36-9-c_6742234_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/09/hongkong-bat-son-record-de-chaleur-avec-36-9-c_6742234_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/09/hongkong-bat-son-record-de-chaleur-avec-36-9-c_6742234_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/24/444/0/5318/2659/644/322/60/0/5a1005f_ftp-1-g6zpuisvw38o-2026-07-24t110451z-1673643577-rc28kma2nbvs-rtrmadp-3-asia-weather-hongkong.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une précédente vague de chaleur à HongKong (Chine), le 24 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tyrone Siu/REUTERS"
+      }
+    ],
+    "credit": "Tyrone Siu/REUTERS"
+  }
+}

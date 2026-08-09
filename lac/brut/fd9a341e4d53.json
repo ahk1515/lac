@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T12:47:03.976047+00:00",
+  "_id": "fd9a341e4d53",
+  "brut": {
+    "title": "Les houthis du Yémen affirment avoir frappé une raffinerie saoudienne sur la côte de la mer Rouge",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les houthis du Yémen affirment avoir frappé une raffinerie saoudienne sur la côte de la mer Rouge"
+    },
+    "summary": "Le porte-parole militaire des rebelles a affirmé que l'attaque avait été lancée en réponse à des incursions saoudiennes sur un territoire du nord-ouest du Yémen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le porte-parole militaire des rebelles a affirmé que l'attaque avait été lancée en réponse à des incursions saoudiennes sur un territoire du nord-ouest du Yémen."
+    },
+    "published": "Sun, 09 Aug 2026 12:29:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      10,
+      29,
+      45,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-affirment-avoir-frappe-une-raffinerie-saoudienne-sur-la-cote-de-la-mer-rouge_8140505.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4cTM94NqoJ6GuHruPXF6fJMO7gU/0x66:1024x642/432x243/filters:format(jpg):quality(50)/2026/08/09/6a783eab924eb230991889.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-affirment-avoir-frappe-une-raffinerie-saoudienne-sur-la-cote-de-la-mer-rouge_8140505.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-affirment-avoir-frappe-une-raffinerie-saoudienne-sur-la-cote-de-la-mer-rouge_8140505.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

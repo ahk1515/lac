@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T12:47:03.976211+00:00",
+  "_id": "405d7cabf54f",
+  "brut": {
+    "title": "En Italie, une femme reçoit par accident l'embryon d'un autre couple lors d'une PMA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, une femme reçoit par accident l'embryon d'un autre couple lors d'une PMA"
+    },
+    "summary": "Le laboratoire d'embryologie situé à Milan plaide \"l'erreur humaine\". Ses activités sont suspendues au minimum 15 jours pour déterminer la cause de cette confusion.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le laboratoire d'embryologie situé à Milan plaide \"l'erreur humaine\". Ses activités sont suspendues au minimum 15 jours pour déterminer la cause de cette confusion."
+    },
+    "published": "Sun, 09 Aug 2026 10:46:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      8,
+      46,
+      23,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/en-italie-une-femme-recoit-par-accident-l-embryon-d-un-autre-couple-lors-d-une-pma_8140517.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/edt0_I0fBgfuYBOiiv0nQmQVN9c/0x163:4198x2524/432x243/filters:format(jpg):quality(50)/2026/08/09/6a783b837d755690814409.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/en-italie-une-femme-recoit-par-accident-l-embryon-d-un-autre-couple-lors-d-une-pma_8140517.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/en-italie-une-femme-recoit-par-accident-l-embryon-d-un-autre-couple-lors-d-une-pma_8140517.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

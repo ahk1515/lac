@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T12:47:03.975241+00:00",
+  "_id": "503d2fc8d215",
+  "brut": {
+    "title": "Plus de 10 000 hectares brûlés au Canada :  l'état d'urgence a été déclaré",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 10 000 hectares brûlés au Canada :  l'état d'urgence a été déclaré"
+    },
+    "summary": "L’État d’urgence a été déclaré dans l’ouest du Canada. 20 000 personnes ont été évacuées face à la progression rapide d’un gigantesque incendie qui a ravagé plus de 10 000 hectares en Colombie-Britannique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’État d’urgence a été déclaré dans l’ouest du Canada. 20 000 personnes ont été évacuées face à la progression rapide d’un gigantesque incendie qui a ravagé plus de 10 000 hectares en Colombie-Britannique."
+    },
+    "published": "Sun, 09 Aug 2026 13:45:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      11,
+      45,
+      57,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/plus-de-10-000-hectares-brules-au-canada-l-etat-d-urgence-a-ete-declare_8140787.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-dHkNz3mtDWimg2Bao2mEHuLW-8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/09/6a7867e9c42c8926816332.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/plus-de-10-000-hectares-brules-au-canada-l-etat-d-urgence-a-ete-declare_8140787.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/plus-de-10-000-hectares-brules-au-canada-l-etat-d-urgence-a-ete-declare_8140787.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

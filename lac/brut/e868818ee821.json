@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-09T12:47:03.974902+00:00",
+  "_id": "e868818ee821",
+  "brut": {
+    "title": "Face à la crise du logement en Chine, ils partagent leur lit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face à la crise du logement en Chine, ils partagent leur lit"
+    },
+    "summary": "\"Recherche colocataire pour un studio de 10 m².\" En Chine ces petites annonces n’ont plus rien d’exceptionnel. L’explosion du prix des loyers dans les grandes villes contraint les jeunes travailleurs et les étudiants à partager des espaces de plus en plus petits, jusqu’à louer leur propre lit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Recherche colocataire pour un studio de 10 m².\" En Chine ces petites annonces n’ont plus rien d’exceptionnel. L’explosion du prix des loyers dans les grandes villes contraint les jeunes travailleurs et les étudiants à partager des espaces de plus en plus petits, jusqu’à louer leur propre lit."
+    },
+    "published": "Sun, 09 Aug 2026 14:26:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      9,
+      12,
+      26,
+      9,
+      6,
+      221,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/face-a-la-crise-du-logement-en-chine-ils-partagent-leur-lit_8140805.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/AqQ_MOFV8S_I6TpGnY-8TjhBDNU/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/09/6a787132ac25c583284879.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/face-a-la-crise-du-logement-en-chine-ils-partagent-leur-lit_8140805.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/face-a-la-crise-du-logement-en-chine-ils-partagent-leur-lit_8140805.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
