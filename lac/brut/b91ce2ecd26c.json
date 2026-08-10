@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T09:19:04.821860+00:00",
+  "_id": "b91ce2ecd26c",
+  "brut": {
+    "title": "Revolut annonce l'obtention d'une licence bancaire en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Revolut annonce l'obtention d'une licence bancaire en France"
+    },
+    "summary": "L'entreprise a connu ces dernières années une croissance fulgurante et disposait déjà d'une licence dans l'Union européenne, en Lituanie. Elle doit inaugurer l'an prochain à Paris son siège pour l'Europe de l'Ouest.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'entreprise a connu ces dernières années une croissance fulgurante et disposait déjà d'une licence dans l'Union européenne, en Lituanie. Elle doit inaugurer l'an prochain à Paris son siège pour l'Europe de l'Ouest."
+    },
+    "published": "Mon, 10 Aug 2026 10:32:40 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      8,
+      32,
+      40,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/la-neobanque-revolut-annonce-l-obtention-d-une-licence-bancaire-en-france_8141600.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YC-EMWU1MFk-94f6qnpFlET3R8M/0x522:5000x3335/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7989dca5ff1046662847.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/la-neobanque-revolut-annonce-l-obtention-d-une-licence-bancaire-en-france_8141600.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/la-neobanque-revolut-annonce-l-obtention-d-une-licence-bancaire-en-france_8141600.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

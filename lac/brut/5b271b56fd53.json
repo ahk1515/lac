@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T09:19:04.822014+00:00",
+  "_id": "5b271b56fd53",
+  "brut": {
+    "title": "Éclipse solaire : le nord de l’Espagne se prépare à un afflux massif de touristes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Éclipse solaire : le nord de l’Espagne se prépare à un afflux massif de touristes"
+    },
+    "summary": "Le nord de l’Espagne se prépare à accueillir plus de 400 000 touristes étrangers pour observer une rare éclipse solaire totale, le 12 août. Dans certaines villes, les hôtels affichent déjà complet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nord de l’Espagne se prépare à accueillir plus de 400 000 touristes étrangers pour observer une rare éclipse solaire totale, le 12 août. Dans certaines villes, les hôtels affichent déjà complet."
+    },
+    "published": "Mon, 10 Aug 2026 10:28:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      8,
+      28,
+      59,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/eclipse-solaire-le-nord-de-l-espagne-se-prepare-a-un-afflux-massif-de-touristes_8141594.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/T0ZUPoN2YFlS1enrbB98AgsC0GI/0x46:707x444/432x243/filters:format(jpg):quality(50)/2026/08/10/6a798aed846be355040076.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/eclipse-solaire-le-nord-de-l-espagne-se-prepare-a-un-afflux-massif-de-touristes_8141594.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/eclipse-solaire-le-nord-de-l-espagne-se-prepare-a-un-afflux-massif-de-touristes_8141594.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T09:19:04.498800+00:00",
+  "_id": "029cf4b4fef6",
+  "brut": {
+    "title": "En Inde, des étudiants marchent vers l’assemblée législative du Jharkhand pour dénoncer des fraudes aux examens universitaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Inde, des étudiants marchent vers l’assemblée législative du Jharkhand pour dénoncer des fraudes aux examens universitaires"
+    },
+    "published": "Mon, 10 Aug 2026 10:13:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      8,
+      13,
+      13,
+      0,
+      222,
+      0
+    ],
+    "summary": "Les manifestants exigent l’annulation de plusieurs examens, qui ont été organisés par une entreprise privée au nom du gouvernement, et une enquête de la police fédérale sur la manière dont ils se sont déroulés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les manifestants exigent l’annulation de plusieurs examens, qui ont été organisés par une entreprise privée au nom du gouvernement, et une enquête de la police fédérale sur la manière dont ils se sont déroulés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/en-inde-des-etudiants-marchent-vers-l-assemblee-legislative-du-jharkhand-pour-denoncer-des-fraudes-aux-examens-universitaires_6743162_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/en-inde-des-etudiants-marchent-vers-l-assemblee-legislative-du-jharkhand-pour-denoncer-des-fraudes-aux-examens-universitaires_6743162_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/en-inde-des-etudiants-marchent-vers-l-assemblee-legislative-du-jharkhand-pour-denoncer-des-fraudes-aux-examens-universitaires_6743162_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/439/0/3434/1717/644/322/60/0/d1ee5b5_ftp-1-opat0qqyjsip-5792883-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une grève de la faim dénonçant les irrégularités présumées dans les concours de recrutement de la commission de la fonction publique du Jharkhand et de la commission de sélection du personnel du Jharkhand, à Ranchi (Inde), le 7 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YOUSUF SARFARAZ/AFP"
+      }
+    ],
+    "credit": "YOUSUF SARFARAZ/AFP"
+  }
+}

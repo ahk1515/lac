@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T09:19:04.823130+00:00",
+  "_id": "ef7da11ccf84",
+  "brut": {
+    "title": "Israël rejette le plan américain pour Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël rejette le plan américain pour Gaza"
+    },
+    "summary": "Israël rejette officiellement le plan américain censé mettre fin au conflit à Gaza. Benjamin Netanyahou exige le désarmement total du Hamas avant tout retrait de Tsahal, tandis qu'une issue aux négociations est toujours espérée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël rejette officiellement le plan américain censé mettre fin au conflit à Gaza. Benjamin Netanyahou exige le désarmement total du Hamas avant tout retrait de Tsahal, tandis qu'une issue aux négociations est toujours espérée."
+    },
+    "published": "Mon, 10 Aug 2026 07:59:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      5,
+      59,
+      17,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/israel-rejette-le-plan-americain-pour-gaza_8141465.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jTYlf6whO_JSD16v9MTL1GsVS_I/89x0:1595x847/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7968b351c51299418679.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/israel-rejette-le-plan-americain-pour-gaza_8141465.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/israel-rejette-le-plan-americain-pour-gaza_8141465.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

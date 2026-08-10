@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T09:19:04.498543+00:00",
+  "_id": "b82bcb4f1d54",
+  "brut": {
+    "title": "En Chine, le typhon Dolphin provoque de fortes pluies dans l’est du pays mais perd en intensité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, le typhon Dolphin provoque de fortes pluies dans l’est du pays mais perd en intensité"
+    },
+    "published": "Mon, 10 Aug 2026 10:54:37 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      8,
+      54,
+      37,
+      0,
+      222,
+      0
+    ],
+    "summary": "Les autorités ont déclenché le niveau le plus élevé d’alerte aux crues soudaines dans l’est et le sud de la province du Zhejiang lundi, bien que la tempête tropicale ait perdu de son intensité après avoir touché terre le long des côtes de cette dernière.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités ont déclenché le niveau le plus élevé d’alerte aux crues soudaines dans l’est et le sud de la province du Zhejiang lundi, bien que la tempête tropicale ait perdu de son intensité après avoir touché terre le long des côtes de cette dernière."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/10/en-chine-le-typhon-dolphin-provoque-de-fortes-pluies-dans-l-est-du-pays-mais-perd-en-intensite_6743195_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/10/en-chine-le-typhon-dolphin-provoque-de-fortes-pluies-dans-l-est-du-pays-mais-perd-en-intensite_6743195_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/10/en-chine-le-typhon-dolphin-provoque-de-fortes-pluies-dans-l-est-du-pays-mais-perd-en-intensite_6743195_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/341/0/4096/2048/644/322/60/0/e4cb94d_ftp-1-v7kf8pfkt163-5807441-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Evacuation des habitants du district de Lin’an, dans la banlieue de Hangzhou (Chine), avant le passage du typhon Dolphin, le 9 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CN-STR/AFP"
+      }
+    ],
+    "credit": "CN-STR/AFP"
+  }
+}

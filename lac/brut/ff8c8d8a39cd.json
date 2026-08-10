@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T09:19:04.498992+00:00",
+  "_id": "ff8c8d8a39cd",
+  "brut": {
+    "title": "En Grèce, un nouvel incendie se déclare au sud-est d’Athènes, attisé par de forts vents",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Grèce, un nouvel incendie se déclare au sud-est d’Athènes, attisé par de forts vents"
+    },
+    "published": "Mon, 10 Aug 2026 09:42:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      7,
+      42,
+      12,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 09:43:06 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      7,
+      43,
+      6,
+      0,
+      222,
+      0
+    ],
+    "summary": "Au moins 172 pompiers et une quarantaine de véhicules ont été déployés pour lutter contre le feu à Kouvaras. La protection civile a ordonné l’évacuation d’Agios Stylianos, un village proche de cette commune.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins 172 pompiers et une quarantaine de véhicules ont été déployés pour lutter contre le feu à Kouvaras. La protection civile a ordonné l’évacuation d’Agios Stylianos, un village proche de cette commune."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/en-grece-un-nouvel-incendie-se-declare-au-sud-est-d-athenes-attise-par-de-forts-vents_6743159_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/en-grece-un-nouvel-incendie-se-declare-au-sud-est-d-athenes-attise-par-de-forts-vents_6743159_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/en-grece-un-nouvel-incendie-se-declare-au-sud-est-d-athenes-attise-par-de-forts-vents_6743159_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/459/0/5500/2750/644/322/60/0/9dec432_ftp-1-c6v5uiqw48kx-2026-08-10t050026z-640448011-rc24rma3jcye-rtrmadp-3-europe-economy-heatwaves.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Feu de forêt près de Loumpa, dans l’Attique occidentale (Grèce), le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Louisa Gouliamaki/REUTERS"
+      }
+    ],
+    "credit": "Louisa Gouliamaki/REUTERS"
+  }
+}

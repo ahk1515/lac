@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T09:19:04.499370+00:00",
+  "_id": "42ba6ad9536d",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainienne a fait au moins 13 morts et des dizaines de blessés au Tatarstan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainienne a fait au moins 13 morts et des dizaines de blessés au Tatarstan"
+    },
+    "published": "Mon, 10 Aug 2026 09:05:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      7,
+      5,
+      47,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 10:59:10 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      8,
+      59,
+      10,
+      0,
+      222,
+      0
+    ],
+    "summary": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres à l’est de la frontière ukrainienne, dans la République du Tatarstan, dans le centre-ouest de la Russie. Moscou a affirmé lundi avoir abattu plus de 450 drones ukrainiens dans la nuit au-dessus d’une quinzaine de régions et de la Crimée annexée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres à l’est de la frontière ukrainienne, dans la République du Tatarstan, dans le centre-ouest de la Russie. Moscou a affirmé lundi avoir abattu plus de 450 drones ukrainiens dans la nuit au-dessus d’une quinzaine de régions et de la Crimée annexée."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainienne-fait-au-moins-douze-morts-et-des-dizaines-de-blesses-au-tatarstan_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainienne-fait-au-moins-douze-morts-et-des-dizaines-de-blesses-au-tatarstan_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainienne-fait-au-moins-douze-morts-et-des-dizaines-de-blesses-au-tatarstan_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/805/0/8144/4072/644/322/60/0/3a448ce_ftp-1-7wg8wwv1rnpy-15142ab4ef7d42a5932ae50530325e22-3-59b753911223404bae7466408242091e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un drone ukrainien à long rayon d’action utilisé pour des frappes contre des positions russes en Crimée, dans un lieu en Ukraine tenu secret, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP Photo"
+      }
+    ],
+    "credit": "Dan Bashakov/AP Photo"
+  }
+}
