@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T13:04:25.771535+00:00",
+  "_id": "4cff39c5deb3",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque contre une raffinerie au Tatarstan ; la Russie fait état d’au moins 13 morts et de dizaines de blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque contre une raffinerie au Tatarstan ; la Russie fait état d’au moins 13 morts et de dizaines de blessés"
+    },
+    "published": "Mon, 10 Aug 2026 13:07:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      11,
+      7,
+      23,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 13:14:58 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      11,
+      14,
+      58,
+      0,
+      222,
+      0
+    ],
+    "summary": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres de la frontière ukrainienne, dans la République du Tatarstan, dans le centre-ouest de la Russie. L’armée ukrainienne dit y avoir frappé la raffinerie Taneko, « dans le cadre de la réduction du potentiel militaire de l’agresseur russe ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres de la frontière ukrainienne, dans la République du Tatarstan, dans le centre-ouest de la Russie. L’armée ukrainienne dit y avoir frappé la raffinerie Taneko, « dans le cadre de la réduction du potentiel militaire de l’agresseur russe »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-contre-une-raffinerie-au-tatarstan-la-russie-fait-etat-d-au-moins-13-morts-et-des-dizaines-de-blesses_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-contre-une-raffinerie-au-tatarstan-la-russie-fait-etat-d-au-moins-13-morts-et-des-dizaines-de-blesses_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-contre-une-raffinerie-au-tatarstan-la-russie-fait-etat-d-au-moins-13-morts-et-des-dizaines-de-blesses_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/805/0/8144/4072/644/322/60/0/3a448ce_ftp-1-7wg8wwv1rnpy-15142ab4ef7d42a5932ae50530325e22-3-59b753911223404bae7466408242091e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un drone ukrainien à long rayon d’action utilisé pour des frappes contre des positions russes en Crimée, dans un lieu en Ukraine tenu secret, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP Photo"
+      }
+    ],
+    "credit": "Dan Bashakov/AP Photo"
+  }
+}

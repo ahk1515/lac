@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T13:04:25.771092+00:00",
+  "_id": "c89a24b6b686",
+  "brut": {
+    "title": "Aux Philippines, des pluies torrentielles font au moins treize morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Philippines, des pluies torrentielles font au moins treize morts"
+    },
+    "published": "Mon, 10 Aug 2026 14:10:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      12,
+      10,
+      11,
+      0,
+      222,
+      0
+    ],
+    "summary": "Ces pluies, renforcées par des tempêtes tropicales, ont contraint les autorités à fermer les écoles et les bâtiments publics dans l’île principale, Luçon. Les rues de la capitale, Manille, ont été inondées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces pluies, renforcées par des tempêtes tropicales, ont contraint les autorités à fermer les écoles et les bâtiments publics dans l’île principale, Luçon. Les rues de la capitale, Manille, ont été inondées."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/10/aux-philippines-des-pluies-torrentielles-font-au-moins-treize-morts_6743335_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/10/aux-philippines-des-pluies-torrentielles-font-au-moins-treize-morts_6743335_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/10/aux-philippines-des-pluies-torrentielles-font-au-moins-treize-morts_6743335_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/374/0/4500/2250/644/322/60/0/f1ee412_ftp-1-2hkm7tgf5o9u-5808484-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Opération de recherche de survivants après l’effondrement d’un flanc de montagne gorgé d’eau sur plusieurs maisons de Baguio (Philippines), le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JJ LANDINGIN/AFP"
+      }
+    ],
+    "credit": "JJ LANDINGIN/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T13:04:25.976471+00:00",
+  "_id": "84ade488dec2",
+  "brut": {
+    "title": "Sécheresse : en Allemagne, le Rhin pourrait être coupé en deux à cause du manque de pluie, alerte la fédération de la navigation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sécheresse : en Allemagne, le Rhin pourrait être coupé en deux à cause du manque de pluie, alerte la fédération de la navigation"
+    },
+    "summary": "Le niveau d'eau à Kaub, point de référence essentiel pour la navigation et l'économie, devrait tomber pour la première fois sous les 10 centimètres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le niveau d'eau à Kaub, point de référence essentiel pour la navigation et l'économie, devrait tomber pour la première fois sous les 10 centimètres."
+    },
+    "published": "Mon, 10 Aug 2026 13:58:15 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      11,
+      58,
+      15,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/secheresse-en-allemagne-le-rhin-pourrait-etre-coupe-en-deux-a-cause-du-manque-de-pluie-alerte-la-federation-de-la-navigation_8141804.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/aYw641es7IcJrEaBKxP-r7wHYcU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79bbb6655c7693227203.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/secheresse-en-allemagne-le-rhin-pourrait-etre-coupe-en-deux-a-cause-du-manque-de-pluie-alerte-la-federation-de-la-navigation_8141804.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/secheresse-en-allemagne-le-rhin-pourrait-etre-coupe-en-deux-a-cause-du-manque-de-pluie-alerte-la-federation-de-la-navigation_8141804.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

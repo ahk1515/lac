@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T13:04:25.976763+00:00",
+  "_id": "0e5bca3165ff",
+  "brut": {
+    "title": "\"C’est l’histoire de beaucoup d’entre nous\" : en Grèce, les jeunes expatriés sont de retour au pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"C’est l’histoire de beaucoup d’entre nous\" : en Grèce, les jeunes expatriés sont de retour au pays"
+    },
+    "summary": "Après des années de crise économiques, la Grèce apparaît désormais bien plus attrayante pour les jeunes hautement diplômés qui ont quitté le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après des années de crise économiques, la Grèce apparaît désormais bien plus attrayante pour les jeunes hautement diplômés qui ont quitté le pays."
+    },
+    "published": "Mon, 10 Aug 2026 13:06:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      11,
+      6,
+      17,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/grece/c-est-l-histoire-de-beaucoup-d-entre-nous-en-grece-les-jeunes-expatries-sont-de-retour-au-pays_8140988.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/bJpEsDVhvaT6rtSsGt8yHRTP1KE/0x235:4893x2985/432x243/filters:format(jpg):quality(50)/2020/01/27/phpffoJFM.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/grece/c-est-l-histoire-de-beaucoup-d-entre-nous-en-grece-les-jeunes-expatries-sont-de-retour-au-pays_8140988.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/grece/c-est-l-histoire-de-beaucoup-d-entre-nous-en-grece-les-jeunes-expatries-sont-de-retour-au-pays_8140988.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
