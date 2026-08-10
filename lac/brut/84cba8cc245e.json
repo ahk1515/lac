@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.753867+00:00",
+  "_id": "84cba8cc245e",
+  "brut": {
+    "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK ; le sort d’Abdullah Öcalan reste à régler",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK ; le sort d’Abdullah Öcalan reste à régler"
+    },
+    "published": "Mon, 10 Aug 2026 22:01:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      20,
+      1,
+      27,
+      0,
+      222,
+      0
+    ],
+    "summary": "Le fondateur de la guérilla kurde du Parti des travailleurs du Kurdistan, Abdullah Öcalan, 77 ans, condamné à la prison à vie, avait appelé l’an passé les combattants du PKK à déposer les armes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le fondateur de la guérilla kurde du Parti des travailleurs du Kurdistan, Abdullah Öcalan, 77 ans, condamné à la prison à vie, avait appelé l’an passé les combattants du PKK à déposer les armes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/482/0/5170/2585/644/322/60/0/348d68e_upload-1-64dvkpy5qyba-ap26081504366829.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un jeunes kurde porte un portrait d’Abdullah Öcalan lors des célébrations du nouvel an kurde, à Istanbul, le 22 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Khalil Hamra/AP"
+      }
+    ],
+    "credit": "Khalil Hamra/AP"
+  }
+}

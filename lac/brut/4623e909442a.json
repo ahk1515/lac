@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.754058+00:00",
+  "_id": "4623e909442a",
+  "brut": {
+    "title": "Une nouvelle arrestation dans l’affaire de l’attentat à l’explosif contre le journaliste italien Sigfrido Ranucci",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une nouvelle arrestation dans l’affaire de l’attentat à l’explosif contre le journaliste italien Sigfrido Ranucci"
+    },
+    "published": "Mon, 10 Aug 2026 21:53:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      19,
+      53,
+      52,
+      0,
+      222,
+      0
+    ],
+    "summary": "Le 16 octobre 2025, un engin explosif avait été déclenché devant le domicile du journaliste, menacé par la mafia, détruisant ses deux voitures sans faire de victimes dans un quartier résidentiel de Pomezia, à une vingtaine de kilomètres au sud de Rome.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 16 octobre 2025, un engin explosif avait été déclenché devant le domicile du journaliste, menacé par la mafia, détruisant ses deux voitures sans faire de victimes dans un quartier résidentiel de Pomezia, à une vingtaine de kilomètres au sud de Rome."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/une-nouvelle-arrestation-dans-l-affaire-de-l-attentat-a-l-explosif-contre-le-journaliste-italien-sigfrido-ranucci_6743542_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/une-nouvelle-arrestation-dans-l-affaire-de-l-attentat-a-l-explosif-contre-le-journaliste-italien-sigfrido-ranucci_6743542_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/une-nouvelle-arrestation-dans-l-affaire-de-l-attentat-a-l-explosif-contre-le-journaliste-italien-sigfrido-ranucci_6743542_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/10/17/234/0/2808/1404/644/322/60/0/0c44c68_ftp-import-images-1-rmh2lgsaikmt-6e0e80b559b04ebe8472a058112a6f3d-0-50b233c5df5d4c60b01b0dff9639a2fa.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des morceaux de la voiture du journaliste d’investigation Sigfrido Ranucci, après l’attentat devant son domicile, à Pomezia (Italie), le 17 octobre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Cecilia Fabiano/AP"
+      }
+    ],
+    "credit": "Cecilia Fabiano/AP"
+  }
+}

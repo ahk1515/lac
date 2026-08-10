@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T20:40:44.959580+00:00",
+  "_id": "433842e9faf9",
+  "brut": {
+    "title": "Les Etats-Unis ont connu en juillet leur mois le plus chaud jamais enregistré dans le pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Etats-Unis ont connu en juillet leur mois le plus chaud jamais enregistré dans le pays"
+    },
+    "summary": "La température moyenne sur la partie continentale du pays a été de 24,9°C durant le mois dernier, de quoi faire tomber un record vieux de quatre-vingt dix ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La température moyenne sur la partie continentale du pays a été de 24,9°C durant le mois dernier, de quoi faire tomber un record vieux de quatre-vingt dix ans."
+    },
+    "published": "Mon, 10 Aug 2026 21:33:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      19,
+      33,
+      9,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-etats-unis-ont-connu-en-juillet-le-mois-le-plus-chaud-jamais-enregistre-dans-le-pays_8142392.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2-s5nTbwrZn7Hglvgh6NJmyxtFs/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a274a1291a917590626.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-etats-unis-ont-connu-en-juillet-le-mois-le-plus-chaud-jamais-enregistre-dans-le-pays_8142392.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-etats-unis-ont-connu-en-juillet-le-mois-le-plus-chaud-jamais-enregistre-dans-le-pays_8142392.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

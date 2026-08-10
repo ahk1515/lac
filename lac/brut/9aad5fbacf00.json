@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.754687+00:00",
+  "_id": "9aad5fbacf00",
+  "brut": {
+    "title": "Les étudiants marocains touchés de plein fouet par la hausse des frais d’inscription en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les étudiants marocains touchés de plein fouet par la hausse des frais d’inscription en France"
+    },
+    "published": "Mon, 10 Aug 2026 19:00:22 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      17,
+      0,
+      22,
+      0,
+      222,
+      0
+    ],
+    "summary": "Un décret, pris le 19 mai, restreint les possibilités d’exonération des droits d’inscription différenciés pour les étudiants non européens. Parmi eux, les Marocains sont les plus nombreux à étudier dans les facultés françaises.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un décret, pris le 19 mai, restreint les possibilités d’exonération des droits d’inscription différenciés pour les étudiants non européens. Parmi eux, les Marocains sont les plus nombreux à étudier dans les facultés françaises."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/10/les-etudiants-marocains-touches-de-plein-fouet-par-la-hausse-des-frais-d-inscription-en-france_6743431_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/10/les-etudiants-marocains-touches-de-plein-fouet-par-la-hausse-des-frais-d-inscription-en-france_6743431_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/10/les-etudiants-marocains-touches-de-plein-fouet-par-la-hausse-des-frais-d-inscription-en-france_6743431_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/729/0/8809/4404/644/322/60/0/601d9e6_upload-1-mlscd8cycu2d-hl-ebroncard-3157665.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une manifestation contre les frais d’inscriptions différenciés à l’université, à Paris, le 12 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Eric Broncard/Hans Lucas"
+      }
+    ],
+    "credit": "Eric Broncard/Hans Lucas"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T20:40:44.959404+00:00",
+  "_id": "f4fbe953262d",
+  "brut": {
+    "title": "Le prix de référence du gaz va augmenter de 5,6% en septembre pour une majorité d'abonnés français",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le prix de référence du gaz va augmenter de 5,6% en septembre pour une majorité d'abonnés français"
+    },
+    "summary": "Cette hausse est \"entièrement liée à l'augmentation des prix du gaz sur les marchés\", alimentée par le conflit persistant au Moyen-Orient, selon la Commission de régulation de l'énergie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette hausse est \"entièrement liée à l'augmentation des prix du gaz sur les marchés\", alimentée par le conflit persistant au Moyen-Orient, selon la Commission de régulation de l'énergie."
+    },
+    "published": "Mon, 10 Aug 2026 22:26:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      20,
+      26,
+      4,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-va-augmenter-de-5-6-en-septembre-pour-une-majorite-d-abonnes-francais_8142440.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KIoU6Nf04zaA5HxiKZ6hBYggeKs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a32e90b507372197354.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-va-augmenter-de-5-6-en-septembre-pour-une-majorite-d-abonnes-francais_8142440.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-va-augmenter-de-5-6-en-septembre-pour-une-majorite-d-abonnes-francais_8142440.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

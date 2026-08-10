@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.754550+00:00",
+  "_id": "a14b27e0e0a8",
+  "brut": {
+    "title": "Iran : le général des gardiens de la révolution, Ali Abdollahi Aliabadi, nommé chef des forces armées par le Guide suprême",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Iran : le général des gardiens de la révolution, Ali Abdollahi Aliabadi, nommé chef des forces armées par le Guide suprême"
+    },
+    "published": "Mon, 10 Aug 2026 19:32:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      17,
+      32,
+      26,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 21:10:30 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      19,
+      10,
+      30,
+      0,
+      222,
+      0
+    ],
+    "summary": "Cet officier commandait auparavant le quartier général central Khatam Al-Anbiya, une structure interarmées de premier plan chargée de superviser et de coordonner les opérations militaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cet officier commandait auparavant le quartier général central Khatam Al-Anbiya, une structure interarmées de premier plan chargée de superviser et de coordonner les opérations militaires."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/iran-le-general-des-gardiens-ali-abdollahi-aliabadi-nomme-chef-des-forces-armees-par-le-guide-supreme_6743437_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/iran-le-general-des-gardiens-ali-abdollahi-aliabadi-nomme-chef-des-forces-armees-par-le-guide-supreme_6743437_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/iran-le-general-des-gardiens-ali-abdollahi-aliabadi-nomme-chef-des-forces-armees-par-le-guide-supreme_6743437_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/367/0/2667/1333/644/322/60/0/1810e80_upload-1-bl4kvyreg4fo-ap26144507534498.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chef d’état-major des forces armées iraniennes, Ali Abdollahi Aliabadi, lors d’une cérémonie en hommage aux militaires et civils iraniens tués par la guerre avec Israël et les Etats-Unis, à Téhéran, le 24 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vahid Salemi/AP Photo"
+      }
+    ],
+    "credit": "Vahid Salemi/AP Photo"
+  }
+}

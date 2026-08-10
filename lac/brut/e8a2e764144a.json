@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.754245+00:00",
+  "_id": "e8a2e764144a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque du complexe pétrochimique de Tobolsk-Neftekhim ; des bombardements russes dans la région de Dnipropetrovsk font quatre morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque du complexe pétrochimique de Tobolsk-Neftekhim ; des bombardements russes dans la région de Dnipropetrovsk font quatre morts"
+    },
+    "published": "Mon, 10 Aug 2026 20:53:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      18,
+      53,
+      38,
+      0,
+      222,
+      0
+    ],
+    "summary": "L’état-major ukrainien a déclaré que ce complexe situé dans la région de Tioumen avait été touché. Plusieurs vidéos publiées dans des médias rapportent les dégâts causés par l’attaque ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’état-major ukrainien a déclaré que ce complexe situé dans la région de Tioumen avait été touché. Plusieurs vidéos publiées dans des médias rapportent les dégâts causés par l’attaque ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/355/0/704/352/644/322/60/0/57343ce_upload-1-p6okwh69b62b-unnamed-1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une image diffusée par le média ukrainien Nexta live montre ce qui serait le complexe pétrochimique de Tobolsk-Neftekhim de Tobolsk, dans l’oblast de Tioumen, touché par des frappes ukrainiennes le 10 aoîut 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nexta Live via telegram"
+      }
+    ],
+    "credit": "Nexta Live via telegram"
+  }
+}

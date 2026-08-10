@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.754324+00:00",
+  "_id": "456037e61551",
+  "brut": {
+    "title": "Oman prend des mesures pour contenir une marée noire près de ses côtes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Oman prend des mesures pour contenir une marée noire près de ses côtes"
+    },
+    "published": "Mon, 10 Aug 2026 20:53:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      18,
+      53,
+      17,
+      0,
+      222,
+      0
+    ],
+    "summary": "Le pétrolier « Caroline-Bezengi », sous sanctions britanniques, est soupçonné de faire partie de la flotte fantôme russe. Il avait été endommagé par trois explosions d’origine inconnue le 6 juin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pétrolier « Caroline-Bezengi », sous sanctions britanniques, est soupçonné de faire partie de la flotte fantôme russe. Il avait été endommagé par trois explosions d’origine inconnue le 6 juin."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/oman-prend-des-mesures-pour-contenir-une-maree-noire-pres-de-ses-cotes_6743507_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/oman-prend-des-mesures-pour-contenir-une-maree-noire-pres-de-ses-cotes_6743507_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/oman-prend-des-mesures-pour-contenir-une-maree-noire-pres-de-ses-cotes_6743507_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/606/0/960/480/644/322/60/0/6abd4e0_ftp-1-yuhaxn3rbqqu-2026-08-10t165834z-1880781917-rc2svmaa1map-rtrmadp-3-mideast-gulf-shipping-spill.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des nappes de pétrole au large des côtes d’Oman, le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Oman News Agency via REUTERS"
+      }
+    ],
+    "credit": "Oman News Agency via REUTERS"
+  }
+}

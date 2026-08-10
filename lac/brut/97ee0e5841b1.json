@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T20:40:44.959741+00:00",
+  "_id": "97ee0e5841b1",
+  "brut": {
+    "title": "Le pape Léon XIV remplit le stade de France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape Léon XIV remplit le stade de France"
+    },
+    "summary": "Le pape remplit le Stade de France en moins d’une heure. 80 000 places ont été réservées pour la visite du souverain pontife, du 25 au 28 septembre. Autre grand moment attendu : la messe sur les Champs-Élysées, pour laquelle il est recommandé de s’inscrire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape remplit le Stade de France en moins d’une heure. 80 000 places ont été réservées pour la visite du souverain pontife, du 25 au 28 septembre. Autre grand moment attendu : la messe sur les Champs-Élysées, pour laquelle il est recommandé de s’inscrire."
+    },
+    "published": "Mon, 10 Aug 2026 21:12:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      19,
+      12,
+      17,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-remplit-le-stade-de-france_8142368.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zWPQLNXerxrBQ_SnXQk7vPMibPw/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/10/6a7a227c3f2d3578054963.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-remplit-le-stade-de-france_8142368.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-remplit-le-stade-de-france_8142368.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

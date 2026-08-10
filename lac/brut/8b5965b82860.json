@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.754397+00:00",
+  "_id": "8b5965b82860",
+  "brut": {
+    "title": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »"
+    },
+    "published": "Mon, 10 Aug 2026 20:45:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      18,
+      45,
+      6,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 21:37:45 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      19,
+      37,
+      45,
+      0,
+      222,
+      0
+    ],
+    "summary": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat de Bogota, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes destructions dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat de Bogota, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes destructions dans le pays."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/498/0/5977/2988/644/322/60/0/0a90d3a_ftp-1-ks688q3l1nxt-c91e7cf667264f9db866c7248f0724bc-1-fbcf8f654073413d810b55718d97f915.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un secouriste après le séisme, à Cali (Colombie), le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Santiago Saldarriaga/AP Photo"
+      }
+    ],
+    "credit": "Santiago Saldarriaga/AP Photo"
+  }
+}

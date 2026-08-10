@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T20:40:44.754155+00:00",
+  "_id": "fc68ba904cda",
+  "brut": {
+    "title": "En Grèce, un nouvel incendie au sud-est d’Athènes a été circonscrit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Grèce, un nouvel incendie au sud-est d’Athènes a été circonscrit"
+    },
+    "published": "Mon, 10 Aug 2026 21:31:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      19,
+      31,
+      34,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 21:42:36 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      19,
+      42,
+      36,
+      0,
+      222,
+      0
+    ],
+    "summary": "Le feu a démarré vers dans la matinée, à Kouvaras, à 60 kilomètres au sud-est d’Athènes, dans la région de l’Attique, et a mobilisé près de 200 pompiers. La protection civile avait ordonné par précaution l’évacuation du village d’Agios Stylianos.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le feu a démarré vers dans la matinée, à Kouvaras, à 60 kilomètres au sud-est d’Athènes, dans la région de l’Attique, et a mobilisé près de 200 pompiers. La protection civile avait ordonné par précaution l’évacuation du village d’Agios Stylianos."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/en-grece-un-nouvel-incendie-au-sud-est-d-athenes-a-ete-circonscrit_6743159_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/en-grece-un-nouvel-incendie-au-sud-est-d-athenes-a-ete-circonscrit_6743159_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/en-grece-un-nouvel-incendie-au-sud-est-d-athenes-a-ete-circonscrit_6743159_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/833/0/5000/2500/644/322/60/0/ab3c1dd_ftp-1-wwsy14f6iolx-5808226-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Kouvaras (Grèce), le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ARIS MESSINIS/AFP"
+      }
+    ],
+    "credit": "ARIS MESSINIS/AFP"
+  }
+}
