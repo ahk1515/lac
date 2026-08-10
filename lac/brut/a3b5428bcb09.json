@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T16:52:48.367021+00:00",
+  "_id": "a3b5428bcb09",
+  "brut": {
+    "title": "Bienvenue dans la capitale des infox pro-Trump, à Veles, petite ville des Balkans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bienvenue dans la capitale des infox pro-Trump, à Veles, petite ville des Balkans"
+    },
+    "published": "Mon, 10 Aug 2026 17:00:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      15,
+      0,
+      9,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 18:36:58 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      16,
+      36,
+      58,
+      0,
+      222,
+      0
+    ],
+    "summary": "« Dix ans de post-vérité » (1/5). En 2016, Donald Trump est élu président des Etats-Unis, porté par le soutien inattendu d’un trafic de clics issu de la ville macédonienne, devenue symbole de l’ère de la post-vérité. Une décennie plus tard, ses dealers de fake news surfent toujours sur la naïveté des électeurs trumpistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Dix ans de post-vérité » (1/5). En 2016, Donald Trump est élu président des Etats-Unis, porté par le soutien inattendu d’un trafic de clics issu de la ville macédonienne, devenue symbole de l’ère de la post-vérité. Une décennie plus tard, ses dealers de fake news surfent toujours sur la naïveté des électeurs trumpistes."
+    },
+    "id": "https://www.lemonde.fr/series-d-ete/article/2026/08/10/bienvenue-dans-la-capitale-des-infox-pro-trump-a-veles-petite-ville-des-balkans_6743414_3451060.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/10/bienvenue-dans-la-capitale-des-infox-pro-trump-a-veles-petite-ville-des-balkans_6743414_3451060.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/series-d-ete/article/2026/08/10/bienvenue-dans-la-capitale-des-infox-pro-trump-a-veles-petite-ville-des-balkans_6743414_3451060.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/295/125/4488/2244/644/322/60/0/b0a954a_upload-1-tqd7mnt8ovcx-1-infox-veles-b-copie.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gwen Keraval"
+      }
+    ],
+    "credit": "Gwen Keraval"
+  }
+}

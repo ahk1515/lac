@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T16:52:48.546696+00:00",
+  "_id": "bf655dbdb51f",
+  "brut": {
+    "title": "Une embarcation avec 230 migrants à son bord tente la traversée de la Manche, un record qui illustre les nouvelles stratégies des passeurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une embarcation avec 230 migrants à son bord tente la traversée de la Manche, un record qui illustre les nouvelles stratégies des passeurs"
+    },
+    "summary": "Des embarcations de plus en plus grandes et chargées de candidats à l'exil sont utilisées pour traverser la Manche depuis les côtes françaises.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des embarcations de plus en plus grandes et chargées de candidats à l'exil sont utilisées pour traverser la Manche depuis les côtes françaises."
+    },
+    "published": "Mon, 10 Aug 2026 17:08:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      15,
+      8,
+      30,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/une-embarcation-avec-230-migrants-a-son-bord-tente-la-traversee-de-la-manche-un-record-qui-illustre-les-nouvelles-strategies-des-passeurs_8141942.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3DByFRRasTCpYJzFYxfVmZzMNR4/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79e240c3f41111291372.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/une-embarcation-avec-230-migrants-a-son-bord-tente-la-traversee-de-la-manche-un-record-qui-illustre-les-nouvelles-strategies-des-passeurs_8141942.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/une-embarcation-avec-230-migrants-a-son-bord-tente-la-traversee-de-la-manche-un-record-qui-illustre-les-nouvelles-strategies-des-passeurs_8141942.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

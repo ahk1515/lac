@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T16:52:48.366631+00:00",
+  "_id": "de2eb933bbc9",
+  "brut": {
+    "title": "A la frontière entre les Etats-Unis et le Canada, le nouveau pont Gordie-Howe pris au piège des tensions commerciales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la frontière entre les Etats-Unis et le Canada, le nouveau pont Gordie-Howe pris au piège des tensions commerciales"
+    },
+    "published": "Mon, 10 Aug 2026 18:00:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      16,
+      0,
+      3,
+      0,
+      222,
+      0
+    ],
+    "summary": "Une nouvelle infrastructure routière relie Detroit, dans le Michigan, à Windsor, en Ontario, depuis le 27 juillet. Conçu pour accélérer les échanges transfrontaliers, l’ouvrage est devenu un symbole du climat orageux entre Washington et Ottawa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une nouvelle infrastructure routière relie Detroit, dans le Michigan, à Windsor, en Ontario, depuis le 27 juillet. Conçu pour accélérer les échanges transfrontaliers, l’ouvrage est devenu un symbole du climat orageux entre Washington et Ottawa."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/10/a-la-frontiere-entre-les-etats-unis-et-le-canada-le-nouveau-pont-gordie-howe-pris-au-piege-des-tensions-commerciales_6743423_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/10/a-la-frontiere-entre-les-etats-unis-et-le-canada-le-nouveau-pont-gordie-howe-pris-au-piege-des-tensions-commerciales_6743423_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/10/a-la-frontiere-entre-les-etats-unis-et-le-canada-le-nouveau-pont-gordie-howe-pris-au-piege-des-tensions-commerciales_6743423_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/209/0/5000/2500/644/322/60/0/f74fc57_ftp-1-bkactwu4tyx6-2026-07-28t170911z-434482012-rc2lmma9vy01-rtrmadp-3-canada-bridge.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le pont international Gordie-Howe reliant Windsor (Ontario) à Detroit (Michigan), le jour de son inauguration, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Carlos Osorio/REUTERS"
+      }
+    ],
+    "credit": "Carlos Osorio/REUTERS"
+  }
+}

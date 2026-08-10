@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T16:52:48.546823+00:00",
+  "_id": "86c215b360c7",
+  "brut": {
+    "title": "Incendies au Canada : une femme de 80 ans meurt en tentant de quitter son domicile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendies au Canada : une femme de 80 ans meurt en tentant de quitter son domicile"
+    },
+    "summary": "Une femme de 80 ans est morte en tentant de fuir son domicile pour échapper aux flammes, alors que les incendies continuent de ravager la Colombie-Britannique, dans l'ouest du Canada. Depuis vendredi 7 août, 20 000 personnes ont été évacuées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une femme de 80 ans est morte en tentant de fuir son domicile pour échapper aux flammes, alors que les incendies continuent de ravager la Colombie-Britannique, dans l'ouest du Canada. Depuis vendredi 7 août, 20 000 personnes ont été évacuées."
+    },
+    "published": "Mon, 10 Aug 2026 16:43:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      14,
+      43,
+      21,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-au-canada-une-femme-de-80-ans-meurt-en-tentant-de-quitter-son-domicile_8141882.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kF8YDLSbHiHZS9DZvuul1wBMSio/0x15:837x486/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79d0e3783f0646666932.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-au-canada-une-femme-de-80-ans-meurt-en-tentant-de-quitter-son-domicile_8141882.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-au-canada-une-femme-de-80-ans-meurt-en-tentant-de-quitter-son-domicile_8141882.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

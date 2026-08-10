@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T16:52:48.366897+00:00",
+  "_id": "bf78491d8f81",
+  "brut": {
+    "title": "La Guinée demande à la France la restitution du crâne de Bokar Biro, résistant à la colonisation française",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Guinée demande à la France la restitution du crâne de Bokar Biro, résistant à la colonisation française"
+    },
+    "published": "Mon, 10 Aug 2026 17:00:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      15,
+      0,
+      14,
+      0,
+      222,
+      0
+    ],
+    "summary": "Conakry entend récupérer les crânes du dernier souverain de l’Etat théocratique du Fouta-Djallon et de trois de ses proches, près de cent trente ans après leur assassinat par les troupes coloniales françaises.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Conakry entend récupérer les crânes du dernier souverain de l’Etat théocratique du Fouta-Djallon et de trois de ses proches, près de cent trente ans après leur assassinat par les troupes coloniales françaises."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/10/la-guinee-demande-a-la-france-la-restitution-du-crane-de-bokar-biro-resistant-a-la-colonisation-francaise_6743415_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/10/la-guinee-demande-a-la-france-la-restitution-du-crane-de-bokar-biro-resistant-a-la-colonisation-francaise_6743415_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/10/la-guinee-demande-a-la-france-la-restitution-du-crane-de-bokar-biro-resistant-a-la-colonisation-francaise_6743415_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/543/0/3264/1632/644/322/60/0/e410c8e_upload-1-ksiro8xv8gi0-3ddk0x1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Buste de Boubacar Biro, dit « Bokar Biro », dernier souverain indépendant de l’Etat théocratique du Fouta-Djallon (au centre de l’actuelle Guinée), à Conakry, en 2016."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alamy Stock Photo"
+      }
+    ],
+    "credit": "Alamy Stock Photo"
+  }
+}

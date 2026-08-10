@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T16:52:48.367136+00:00",
+  "_id": "f8f4e3c0f2d9",
+  "brut": {
+    "title": "En Colombie, un séisme puissant ressenti à Bogota et à Cali ; au moins 18 morts à Pereira, selon le maire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, un séisme puissant ressenti à Bogota et à Cali ; au moins 18 morts à Pereira, selon le maire"
+    },
+    "published": "Mon, 10 Aug 2026 16:42:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      14,
+      42,
+      25,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 18:10:25 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      16,
+      10,
+      25,
+      0,
+      222,
+      0
+    ],
+    "summary": "Le tremblement de terre, de magnitude 6,6 selon le service géologique colombien et de magnitude 7,4 selon le service géologique des Etats-Unis, s’est produit à une centaine de kilomètres de profondeur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le tremblement de terre, de magnitude 6,6 selon le service géologique colombien et de magnitude 7,4 selon le service géologique des Etats-Unis, s’est produit à une centaine de kilomètres de profondeur."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/10/en-colombie-un-seisme-puissant-ressenti-a-bogota-et-a-cali-des-evacuations-en-cours_6743410_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/10/en-colombie-un-seisme-puissant-ressenti-a-bogota-et-a-cali-des-evacuations-en-cours_6743410_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/10/en-colombie-un-seisme-puissant-ressenti-a-bogota-et-a-cali-des-evacuations-en-cours_6743410_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/278/0/8256/4128/644/322/60/0/7a4f961_ftp-1-hki7msizd4lg-5809420-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes évacuent des rescapés dans les ruines d’un immeuble effondré, après le séisme, à Cali (Colombie), le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOAQUIN SARMIENTO/AFP"
+      }
+    ],
+    "credit": "JOAQUIN SARMIENTO/AFP"
+  }
+}

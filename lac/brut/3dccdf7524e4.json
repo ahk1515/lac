@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-10T16:52:48.546573+00:00",
+  "_id": "3dccdf7524e4",
+  "brut": {
+    "title": "Au moins 18 morts et des dégâts dans l'ouest de la Colombie après un séisme de magnitude 7,4",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 18 morts et des dégâts dans l'ouest de la Colombie après un séisme de magnitude 7,4"
+    },
+    "summary": "Le président Abelardo de la Espriella, tout juste entré en fonctions, doit se rendre dans la région touchée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président Abelardo de la Espriella, tout juste entré en fonctions, doit se rendre dans la région touchée."
+    },
+    "published": "Mon, 10 Aug 2026 17:46:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      15,
+      46,
+      8,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/baN2SWJ96TYre3Th90hGjIXId-g/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79e663c2150668704213.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
