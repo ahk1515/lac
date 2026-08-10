@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T05:24:49.732321+00:00",
+  "_id": "939070560a9c",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la ville de Soumy visée par des frappes russes dans la nuit, selon l’administration militaire régionale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la ville de Soumy visée par des frappes russes dans la nuit, selon l’administration militaire régionale"
+    },
+    "published": "Mon, 10 Aug 2026 05:58:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      3,
+      58,
+      55,
+      0,
+      222,
+      0
+    ],
+    "summary": "Au moins cinq personnes ont été blessées à la suite de cette offensive, selon Oleh Hryhorov, chef de l’administration militaire de l’oblast de Soumy, qui a précisé que les frappes avaient endommagé des habitations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins cinq personnes ont été blessées à la suite de cette offensive, selon Oleh Hryhorov, chef de l’administration militaire de l’oblast de Soumy, qui a précisé que les frappes avaient endommagé des habitations."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/419/0/3913/1956/644/322/60/0/10502f0_ftp-1-kvll6zgln3no-2026-08-06t082709z-651924330-rc2vsma1jag5-rtrmadp-3-ukraine-crisis-attack-sumy.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un centre commercial touché par des frappes aériennes russes à Soumy (Ukraine), le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

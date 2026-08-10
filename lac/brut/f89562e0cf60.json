@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T05:24:49.731736+00:00",
+  "_id": "f89562e0cf60",
+  "brut": {
+    "title": "En Iran, la répression s’est intensifiée depuis le début de la guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Iran, la répression s’est intensifiée depuis le début de la guerre"
+    },
+    "published": "Mon, 10 Aug 2026 06:00:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      4,
+      0,
+      27,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 06:09:30 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      4,
+      9,
+      30,
+      0,
+      222,
+      0
+    ],
+    "summary": "Depuis le début du conflit avec les Etats-Unis et Israël, le régime durcit son contrôle sur la société civile. Condamnation de la photojournaliste Yalda Moaiery, multiplication des exécutions, convocations d’artistes et fermetures de cafés : les autorités accentuent la pression sur les opposants et sur les espaces de liberté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis le début du conflit avec les Etats-Unis et Israël, le régime durcit son contrôle sur la société civile. Condamnation de la photojournaliste Yalda Moaiery, multiplication des exécutions, convocations d’artistes et fermetures de cafés : les autorités accentuent la pression sur les opposants et sur les espaces de liberté."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/02/02/683/0/1125/562/644/322/60/0/fe11b63_ftp-1-u01eo9yea0uq-415248-3457284.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Téhéran, le 8 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Yalda Moaiery"
+      }
+    ],
+    "credit": "Yalda Moaiery"
+  }
+}

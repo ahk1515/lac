@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T05:24:49.732706+00:00",
+  "_id": "2deb1e82a58f",
+  "brut": {
+    "title": "Dans l’ouest de l’Allemagne, la centrale nucléaire désaffectée de Biblis veut renaître par la fusion",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans l’ouest de l’Allemagne, la centrale nucléaire désaffectée de Biblis veut renaître par la fusion"
+    },
+    "published": "Mon, 10 Aug 2026 05:15:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      3,
+      15,
+      9,
+      0,
+      222,
+      0
+    ],
+    "summary": "Cofondée par un physicien, la start-up Focused Energy s’est installée sur le site fermé en 2011 pour y bâtir un réacteur à fusion. Un pari technologique et une petite révolution pour un pays qui s’était détourné du nucléaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cofondée par un physicien, la start-up Focused Energy s’est installée sur le site fermé en 2011 pour y bâtir un réacteur à fusion. Un pari technologique et une petite révolution pour un pays qui s’était détourné du nucléaire."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/10/dans-l-ouest-de-l-allemagne-la-centrale-nucleaire-desaffectee-de-biblis-veut-renaitre-par-la-fusion_6742977_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/10/dans-l-ouest-de-l-allemagne-la-centrale-nucleaire-desaffectee-de-biblis-veut-renaitre-par-la-fusion_6742977_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/10/dans-l-ouest-de-l-allemagne-la-centrale-nucleaire-desaffectee-de-biblis-veut-renaitre-par-la-fusion_6742977_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/275/0/5847/2923/644/322/60/0/8511335_upload-1-gbadz0wcjost-abaca-bramazingaerialagency20260729-1137.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue aérienne de la centrale électrique de Biblis, en Hesse (Allemagne), le 26 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Amazing Aerial Agency/ABACA"
+      }
+    ],
+    "credit": "Amazing Aerial Agency/ABACA"
+  }
+}

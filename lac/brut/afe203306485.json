@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-10T05:24:49.731443+00:00",
+  "_id": "afe203306485",
+  "brut": {
+    "title": "En Colombie, six membres de groupes armés tués lors des premières opérations militaires du nouveau président",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, six membres de groupes armés tués lors des premières opérations militaires du nouveau président"
+    },
+    "published": "Mon, 10 Aug 2026 06:33:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      4,
+      33,
+      59,
+      0,
+      222,
+      0
+    ],
+    "updated": "Mon, 10 Aug 2026 06:45:13 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      10,
+      4,
+      45,
+      13,
+      0,
+      222,
+      0
+    ],
+    "summary": "Ces manœuvres envoient « un message clair et percutant pour tous les bandits », a déclaré Abelardo de la Espriella, qui a dit vouloir interrompre les négociations de paix engagées par son prédécesseur de gauche, Gustavo Petro, avec les guérilleros.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces manœuvres envoient « un message clair et percutant pour tous les bandits », a déclaré Abelardo de la Espriella, qui a dit vouloir interrompre les négociations de paix engagées par son prédécesseur de gauche, Gustavo Petro, avec les guérilleros."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/10/en-colombie-six-membres-de-groupes-armes-tues-lors-des-premieres-operations-militaires-du-nouveau-president_6743087_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/en-colombie-six-membres-de-groupes-armes-tues-lors-des-premieres-operations-militaires-du-nouveau-president_6743087_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/10/en-colombie-six-membres-de-groupes-armes-tues-lors-des-premieres-operations-militaires-du-nouveau-president_6743087_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/54/0/3249/1624/644/322/60/0/5fb7d9a_ftp-1-kmmjljmzk6nm-953d2d7c85c94b8aa2a82cd336cc0f97-1-87d962daa82c4187b92ae20a70535802.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats se tiennent en formation lors de la cérémonie d’investiture du président colombien, Abelardo de la Espriella, à Cali (Colombie), le 7 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ivan Valencia/AP"
+      }
+    ],
+    "credit": "Ivan Valencia/AP"
+  }
+}
