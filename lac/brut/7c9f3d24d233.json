@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T08:53:48.044025+00:00",
+  "_id": "7c9f3d24d233",
+  "brut": {
+    "title": "VIDEO Colombie : les images du séisme qui a fait au moins 132 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Colombie : les images du séisme qui a fait au moins 132 morts"
+    },
+    "published": "Tue, 11 Aug 2026 09:20:15 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      7,
+      20,
+      15,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 09:27:41 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      7,
+      27,
+      41,
+      1,
+      223,
+      0
+    ],
+    "summary": "Le tremblement de terre d’une magnitude de 7,4 a frappé Cali et d’autres villes de l’ouest du pays, lundi 10 août 2026. Le président, Abelardo de la Espriella, a décrété l’état de catastrophe nationale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le tremblement de terre d’une magnitude de 7,4 a frappé Cali et d’autres villes de l’ouest du pays, lundi 10 août 2026. Le président, Abelardo de la Espriella, a décrété l’état de catastrophe nationale."
+    },
+    "id": "https://www.lemonde.fr/planete/video/2026/08/11/colombie-les-images-du-seisme-qui-a-fait-au-moins-132-morts_6743769_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/video/2026/08/11/colombie-les-images-du-seisme-qui-a-fait-au-moins-132-morts_6743769_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/video/2026/08/11/colombie-les-images-du-seisme-qui-a-fait-au-moins-132-morts_6743769_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/200/0/3161/1580/644/322/60/0/a8dcdf4_ftp-1-kgv6n1ycn5tt-2026-08-11t030725z-667576868-rc2yvmazie2x-rtrmadp-3-colombia-quake.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marco Trujillo / REUTERS"
+      }
+    ],
+    "credit": "Marco Trujillo / REUTERS"
+  }
+}

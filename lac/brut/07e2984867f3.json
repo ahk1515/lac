@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T08:53:48.042787+00:00",
+  "_id": "07e2984867f3",
+  "brut": {
+    "title": "Bachar Al-Assad condamné à la peine de mort par contumace en Syrie pour « crimes de guerre » et « crimes contre l’humanité »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bachar Al-Assad condamné à la peine de mort par contumace en Syrie pour « crimes de guerre » et « crimes contre l’humanité »"
+    },
+    "published": "Tue, 11 Aug 2026 10:50:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      8,
+      50,
+      13,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 10:52:05 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      8,
+      52,
+      5,
+      1,
+      223,
+      0
+    ],
+    "summary": "L’ex-dictateur a fui avec sa famille à Moscou, en Russie, lors de la prise de Damas en décembre 2024 par une coalition menée par des islamistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ex-dictateur a fui avec sa famille à Moscou, en Russie, lors de la prise de Damas en décembre 2024 par une coalition menée par des islamistes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2019/03/16/44/0/3220/1610/644/322/60/0/6e84cae_KTTEKeIhj4UUXHnhOLuWA4nS.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Portrait de l’ex-président syrien Bachar Al-Assad dans la vieille ville de Damas, le 14 mars 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LOUAI BESHARA/AFP"
+      }
+    ],
+    "credit": "LOUAI BESHARA/AFP"
+  }
+}

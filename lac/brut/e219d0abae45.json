@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T08:53:48.191541+00:00",
+  "_id": "e219d0abae45",
+  "brut": {
+    "title": "Colombie : après le séisme, une course contre la montre dans les décombres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Colombie : après le séisme, une course contre la montre dans les décombres"
+    },
+    "summary": "Un puissant séisme de magnitude 7,4 a frappé la Colombie le 10 août. À Manizales, des immeubles se sont effondrés. Secouristes et bénévoles se mobilisent pour tenter de retrouver des survivants dans les décombres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un puissant séisme de magnitude 7,4 a frappé la Colombie le 10 août. À Manizales, des immeubles se sont effondrés. Secouristes et bénévoles se mobilisent pour tenter de retrouver des survivants dans les décombres."
+    },
+    "published": "Tue, 11 Aug 2026 09:55:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      7,
+      55,
+      32,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/colombie-apres-le-seisme-une-course-contre-la-montre-dans-les-decombres_8142872.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uOu8eHWPRetXS1cgvGrPc2ZsUv4/0x23:823x486/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7ad4296dd82896374446.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/colombie-apres-le-seisme-une-course-contre-la-montre-dans-les-decombres_8142872.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/colombie-apres-le-seisme-une-course-contre-la-montre-dans-les-decombres_8142872.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

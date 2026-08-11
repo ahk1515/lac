@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T08:53:48.192486+00:00",
+  "_id": "9394a0e5b193",
+  "brut": {
+    "title": "En Espagne, l'éclipse solaire représente un véritable défi logistique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, l'éclipse solaire représente un véritable défi logistique"
+    },
+    "summary": "Le phénomène sera visible à 100% dans une large partie du pays, ce qui pourrait engendrer un afflux de touristes, notamment dans les zones rurales. Les autorités tentent d'anticiper au mieux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le phénomène sera visible à 100% dans une large partie du pays, ce qui pourrait engendrer un afflux de touristes, notamment dans les zones rurales. Les autorités tentent d'anticiper au mieux."
+    },
+    "published": "Tue, 11 Aug 2026 08:30:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      6,
+      30,
+      18,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/en-espagne-l-eclipse-solaire-represente-un-veritable-defi-logistique_8142737.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dcUiwy6DQxJ_LvLymrMRuuN9iFg/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7ab82a4832f456936060.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/en-espagne-l-eclipse-solaire-represente-un-veritable-defi-logistique_8142737.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/en-espagne-l-eclipse-solaire-represente-un-veritable-defi-logistique_8142737.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

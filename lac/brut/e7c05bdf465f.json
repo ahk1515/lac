@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T08:53:48.043840+00:00",
+  "_id": "e7c05bdf465f",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Russie a utilisé des « missiles balistiques nord-coréens » contre Zaporijia",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Russie a utilisé des « missiles balistiques nord-coréens » contre Zaporijia"
+    },
+    "published": "Tue, 11 Aug 2026 09:39:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      7,
+      39,
+      59,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 10:12:25 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      8,
+      12,
+      25,
+      1,
+      223,
+      0
+    ],
+    "summary": "Selon le président ukrainien, l’armée russe a utilisé ces missiles pour frapper la ville de Zaporijia, dans le sud du pays, où au moins six personnes ont été tuées au cours de la nuit. Volodymyr Zelensky a dénoncé « une attaque brutale, conçue pour causer un maximum de dégâts précisément aux infrastructures civiles ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le président ukrainien, l’armée russe a utilisé ces missiles pour frapper la ville de Zaporijia, dans le sud du pays, où au moins six personnes ont été tuées au cours de la nuit. Volodymyr Zelensky a dénoncé « une attaque brutale, conçue pour causer un maximum de dégâts précisément aux infrastructures civiles »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-utilise-des-missiles-balistiques-nord-coreens-contre-zaporijia_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-utilise-des-missiles-balistiques-nord-coreens-contre-zaporijia_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-utilise-des-missiles-balistiques-nord-coreens-contre-zaporijia_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/638/0/4277/2138/644/322/60/0/1a8f8fd_ftp-1-co3p0wczsith-2026-08-11t065121z-772630107-rc25wmaoleor-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le site d’une frappe aérienne russe à Zaporijia (Ukraine), le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

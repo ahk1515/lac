@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T08:53:48.043062+00:00",
+  "_id": "72a3b943de85",
+  "brut": {
+    "title": "En Turquie, la loi sur le désarmement du PKK ne règle pas la question kurde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Turquie, la loi sur le désarmement du PKK ne règle pas la question kurde"
+    },
+    "published": "Tue, 11 Aug 2026 10:30:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      8,
+      30,
+      7,
+      1,
+      223,
+      0
+    ],
+    "summary": "Le Parlement turc a adopté, lundi, une loi-cadre ouvrant la voie à la libération de plusieurs milliers de combattants et cadres du Parti des travailleurs du Kurdistan. Mais son approche sécuritaire ignore les revendications politiques du mouvement kurde et laisse en suspens le sort de leur leader, Abdullah Öcalan, en détention depuis 1999.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Parlement turc a adopté, lundi, une loi-cadre ouvrant la voie à la libération de plusieurs milliers de combattants et cadres du Parti des travailleurs du Kurdistan. Mais son approche sécuritaire ignore les revendications politiques du mouvement kurde et laisse en suspens le sort de leur leader, Abdullah Öcalan, en détention depuis 1999."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/en-turquie-la-loi-sur-le-desarmement-du-pkk-ne-regle-pas-la-question-kurde_6743776_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/en-turquie-la-loi-sur-le-desarmement-du-pkk-ne-regle-pas-la-question-kurde_6743776_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/en-turquie-la-loi-sur-le-desarmement-du-pkk-ne-regle-pas-la-question-kurde_6743776_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/416/0/5000/2500/644/322/60/0/7873017_ftp-1-oaqxepulrqjv-3321295af75d45ebbe33fdbc4fe3c5d9-0-b3ecb888fd4d42dba53f03793d3ad3be.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des manifestants brandissant un portrait d’Abdullah Ocalan, le dirigeant emprisonné du groupe militant kurde PKK, à Diyarbakır (Turquie), le 27 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Metin Yoksu/AP Photo"
+      }
+    ],
+    "credit": "Metin Yoksu/AP Photo"
+  }
+}

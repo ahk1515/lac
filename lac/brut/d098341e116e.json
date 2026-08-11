@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T08:53:48.043660+00:00",
+  "_id": "d098341e116e",
+  "brut": {
+    "title": "Grippe aviaire : l’Australie déploie la vaccination ciblée de ses oiseaux captifs et sauvages",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Grippe aviaire : l’Australie déploie la vaccination ciblée de ses oiseaux captifs et sauvages"
+    },
+    "published": "Tue, 11 Aug 2026 09:59:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      7,
+      59,
+      20,
+      1,
+      223,
+      0
+    ],
+    "summary": "L’Australie a détecté son premier cas touché par la souche H5 de la grippe aviaire en juin, et décomptait, lundi, 231 cas confirmés ou présumés positifs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Australie a détecté son premier cas touché par la souche H5 de la grippe aviaire en juin, et décomptait, lundi, 231 cas confirmés ou présumés positifs."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/11/grippe-aviaire-l-australie-deploie-la-vaccination-ciblee-de-ses-oiseaux-captifs-et-sauvages_6743770_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/11/grippe-aviaire-l-australie-deploie-la-vaccination-ciblee-de-ses-oiseaux-captifs-et-sauvages_6743770_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/11/grippe-aviaire-l-australie-deploie-la-vaccination-ciblee-de-ses-oiseaux-captifs-et-sauvages_6743770_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/1775/0/3024/1512/644/322/60/0/b0ce1aa_upload-1-3g6ylpxy1j6p-2026-06-23t024206z-1841172540-rc25ulalxg31-rtrmadp-3-health-birdflu-australia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Prélèvement d’échantillons sur un skua brun mort pour rechercher des traces de la grippe aviaire H5N1, à l’hôpital pour animaux sauvages d’Esperance (Australie), le 15 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Lori-Ann Shibish - Esperance Wildlife Hospital and Sanctuary via REUTERS"
+      }
+    ],
+    "credit": "Lori-Ann Shibish - Esperance Wildlife Hospital and Sanctuary via REUTERS"
+  }
+}

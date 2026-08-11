@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T08:53:48.191379+00:00",
+  "_id": "1f1d3b8640ff",
+  "brut": {
+    "title": "Guerre en Ukraine : des échanges de frappes meurtrières entre Kiev et Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : des échanges de frappes meurtrières entre Kiev et Moscou"
+    },
+    "summary": "Une attaque de drone ukrainien au Tatarstan a frappé un site pétrochimique à 1300 km du front, faisant 13 morts. Alors que la Russie bombarde Zaporijia et Kharkiv, ce raid illustre l'intensification des frappes à longue portée dans un conflit où la diplomatie est au point mort.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque de drone ukrainien au Tatarstan a frappé un site pétrochimique à 1300 km du front, faisant 13 morts. Alors que la Russie bombarde Zaporijia et Kharkiv, ce raid illustre l'intensification des frappes à longue portée dans un conflit où la diplomatie est au point mort."
+    },
+    "published": "Tue, 11 Aug 2026 09:59:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      7,
+      59,
+      41,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-echanges-de-frappes-meurtrieres-entre-kiev-et-moscou_8142884.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/g0viHEiRW8pY-Ouu-_JIWHUT6I4/0x6:1435x814/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7ad66293221491753882.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-echanges-de-frappes-meurtrieres-entre-kiev-et-moscou_8142884.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-echanges-de-frappes-meurtrieres-entre-kiev-et-moscou_8142884.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

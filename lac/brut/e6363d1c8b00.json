@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T08:53:48.043264+00:00",
+  "_id": "e6363d1c8b00",
+  "brut": {
+    "title": "En Indonésie, des écoles fermées et des milliers de pompiers mobilisés face à des feux de forêt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Indonésie, des écoles fermées et des milliers de pompiers mobilisés face à des feux de forêt"
+    },
+    "published": "Tue, 11 Aug 2026 10:16:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      8,
+      16,
+      25,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 10:17:55 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      8,
+      17,
+      55,
+      1,
+      223,
+      0
+    ],
+    "summary": "Selon l’agence nationale de gestion des catastrophes, plus de 48 000 agents ont été déployés pour combattre les incendies dans six provinces. Au total, plus de 107 000 hectares de terres ont brûlé dans l’ensemble du pays depuis le début de l’année.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon l’agence nationale de gestion des catastrophes, plus de 48 000 agents ont été déployés pour combattre les incendies dans six provinces. Au total, plus de 107 000 hectares de terres ont brûlé dans l’ensemble du pays depuis le début de l’année."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/en-indonesie-des-ecoles-fermees-et-des-milliers-de-pompiers-mobilises-face-a-des-feux-de-foret_6743774_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/en-indonesie-des-ecoles-fermees-et-des-milliers-de-pompiers-mobilises-face-a-des-feux-de-foret_6743774_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/en-indonesie-des-ecoles-fermees-et-des-milliers-de-pompiers-mobilises-face-a-des-feux-de-foret_6743774_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/458/0/5500/2750/644/322/60/0/1775634_ftp-1-h9um7e0fewzo-2026-08-10t150336z-1734974331-rc2lvma808es-rtrmadp-3-asia-weather-indonesia-wildfire.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un feu de forêt se propageant près d’une zone résidentielle à Palembang, dans la province de Sumatra du Sud (Indonésie), le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abriansyah Liberto/REUTERS"
+      }
+    ],
+    "credit": "Abriansyah Liberto/REUTERS"
+  }
+}

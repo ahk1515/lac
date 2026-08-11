@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T08:53:48.044435+00:00",
+  "_id": "d4e6a6ea2cea",
+  "brut": {
+    "title": "Au Maroc, la fin du démarchage téléphonique vers la France menace plus de 40 000 emplois",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Maroc, la fin du démarchage téléphonique vers la France menace plus de 40 000 emplois"
+    },
+    "published": "Tue, 11 Aug 2026 07:16:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      5,
+      16,
+      7,
+      1,
+      223,
+      0
+    ],
+    "summary": "Une loi adoptée en France interdit toute prospection sans accord explicite du client à partir du 11 août. Elle met en danger des dizaines de milliers de salariés dans les centres d’appels marocains, largement dépendants du marché hexagonal.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une loi adoptée en France interdit toute prospection sans accord explicite du client à partir du 11 août. Elle met en danger des dizaines de milliers de salariés dans les centres d’appels marocains, largement dépendants du marché hexagonal."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/11/au-maroc-la-fin-du-demarchage-telephonique-vers-la-france-menace-plus-de-40-000-emplois_6694226_3213.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/11/au-maroc-la-fin-du-demarchage-telephonique-vers-la-france-menace-plus-de-40-000-emplois_6694226_3213.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/11/au-maroc-la-fin-du-demarchage-telephonique-vers-la-france-menace-plus-de-40-000-emplois_6694226_3213.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/05/26/224/0/3184/1592/644/322/60/0/74892fc_upload-1-qfdim1t5pere-000-arp1772887.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un centre d’appels à Rabat (Maroc), le 16 février 2007."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ABDELHAK SENNA / AFP"
+      }
+    ],
+    "credit": "ABDELHAK SENNA / AFP"
+  }
+}

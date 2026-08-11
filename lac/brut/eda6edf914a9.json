@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T08:53:48.191882+00:00",
+  "_id": "eda6edf914a9",
+  "brut": {
+    "title": "Eurozapping : le Rhin n'a jamais été aussi bas en Allemagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Eurozapping : le Rhin n'a jamais été aussi bas en Allemagne"
+    },
+    "summary": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du lundi 10 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du lundi 10 août."
+    },
+    "published": "Tue, 11 Aug 2026 10:16:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      8,
+      16,
+      33,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/eurozapping-le-rhin-n-a-jamais-ete-aussi-bas-en-allemagne_8142830.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/7oZonzt2dZbGlfnQMr-T0CfpmaQ/17x0:1482x824/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7acf88afe70489721884.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/eurozapping-le-rhin-n-a-jamais-ete-aussi-bas-en-allemagne_8142830.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/eurozapping-le-rhin-n-a-jamais-ete-aussi-bas-en-allemagne_8142830.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

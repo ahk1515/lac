@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T08:53:48.193105+00:00",
+  "_id": "59b5ce873aae",
+  "brut": {
+    "title": "Un activiste israélien documente les violences des colons en Cisjordanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un activiste israélien documente les violences des colons en Cisjordanie"
+    },
+    "summary": "Andrey X est un activiste israélien d'origine russe qui documente les nombreuses violences et intimidations des colons en Cisjordanie occupée : voitures brûlées, maisons occupées, murs tagués... Nous sommes partis à sa rencontre près du village de Jalud.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Andrey X est un activiste israélien d'origine russe qui documente les nombreuses violences et intimidations des colons en Cisjordanie occupée : voitures brûlées, maisons occupées, murs tagués... Nous sommes partis à sa rencontre près du village de Jalud."
+    },
+    "published": "Tue, 11 Aug 2026 08:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      6,
+      0,
+      2,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/moyen-orient/un-activiste-israelien-documente-les-violences-des-colons-en-cisjordanie_8142194.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/QvA3Ho5AdJZkZPUv2f60Uak04eY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/10/6a79fb62b82b8741650370.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/moyen-orient/un-activiste-israelien-documente-les-violences-des-colons-en-cisjordanie_8142194.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/moyen-orient/un-activiste-israelien-documente-les-violences-des-colons-en-cisjordanie_8142194.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
