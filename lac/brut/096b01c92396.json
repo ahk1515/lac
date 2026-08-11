@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T05:06:46.549569+00:00",
+  "_id": "096b01c92396",
+  "brut": {
+    "title": "L’Allemagne s’inquiète de sa vulnérabilité face à des incursions de drones qui se multiplient sur son territoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Allemagne s’inquiète de sa vulnérabilité face à des incursions de drones qui se multiplient sur son territoire"
+    },
+    "published": "Tue, 11 Aug 2026 05:31:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      3,
+      31,
+      9,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 06:54:33 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      4,
+      54,
+      33,
+      1,
+      223,
+      0
+    ],
+    "summary": "Après la collision d’un engin chargé d’explosif et d’un avion ukrainien au sol à Leipzig, le 5 août, la Russie est montrée du doigt par de nombreux observateurs mais le chancelier Friedrich Merz reste, pour l’heure, sur la réserve.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après la collision d’un engin chargé d’explosif et d’un avion ukrainien au sol à Leipzig, le 5 août, la Russie est montrée du doigt par de nombreux observateurs mais le chancelier Friedrich Merz reste, pour l’heure, sur la réserve."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/l-allemagne-s-inquiete-de-sa-vulnerabilite-face-a-des-incursions-de-drones-qui-se-multiplient-sur-son-territoire_6743745_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/l-allemagne-s-inquiete-de-sa-vulnerabilite-face-a-des-incursions-de-drones-qui-se-multiplient-sur-son-territoire_6743745_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/l-allemagne-s-inquiete-de-sa-vulnerabilite-face-a-des-incursions-de-drones-qui-se-multiplient-sur-son-territoire_6743745_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/762/0/4574/2287/644/322/60/0/7fb374f_ftp-1-cutwcikiea2x-1aa94f2e7f234124837efd52a6b149e7-1-1f56b2b6ceae4baabf1afff8ea20e668.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des techniciens de la police scientifique et un robot de neutralisation d’explosifs près d’un avion-cargo ukrainien, à l’aéroport de Leipzig-Halle (Allemagne), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hendrik Schmidt/DPA via AP"
+      }
+    ],
+    "credit": "Hendrik Schmidt/DPA via AP"
+  }
+}
