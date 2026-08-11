@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T16:56:15.051988+00:00",
+  "_id": "e43cdfd70bae",
+  "brut": {
+    "title": "Séisme en Colombie : au moins 169 morts et plus de 600 blessés, selon un nouveau bilan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Séisme en Colombie : au moins 169 morts et plus de 600 blessés, selon un nouveau bilan"
+    },
+    "published": "Tue, 11 Aug 2026 15:35:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      13,
+      35,
+      34,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 15:56:46 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      13,
+      56,
+      46,
+      1,
+      223,
+      0
+    ],
+    "summary": "Les villes de Cali, Pereira, Manizales et Quibdo, dans l’ouest du pays, ont été touchées par ce séisme de magnitude 7,4, le plus violent du XXIᵉ siècle dans le pays, selon le Service géologique colombien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les villes de Cali, Pereira, Manizales et Quibdo, dans l’ouest du pays, ont été touchées par ce séisme de magnitude 7,4, le plus violent du XXIᵉ siècle dans le pays, selon le Service géologique colombien."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/seisme-en-colombie-au-moins-169-morts-et-plus-de-600-blesses-selon-un-nouveau-bilan_6743869_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/seisme-en-colombie-au-moins-169-morts-et-plus-de-600-blesses-selon-un-nouveau-bilan_6743869_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/seisme-en-colombie-au-moins-169-morts-et-plus-de-600-blesses-selon-un-nouveau-bilan_6743869_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/577/0/6928/3464/644/322/60/0/651544e_ftp-1-yga9n96f3ypc-bb65e0604b5d433a877682395465af1e-0-dd09673b296b4d4d91489e230afade6d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un homme devant un immeuble effondré au lendemain d’un séisme à Pereira, en Colombie, le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fernando Vergara/AP Photo"
+      }
+    ],
+    "credit": "Fernando Vergara/AP Photo"
+  }
+}

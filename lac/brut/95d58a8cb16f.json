@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T16:56:15.051719+00:00",
+  "_id": "95d58a8cb16f",
+  "brut": {
+    "title": "En Hongrie, Andras Baka, opposant à Viktor Orban, est élu président par le Parlement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Hongrie, Andras Baka, opposant à Viktor Orban, est élu président par le Parlement"
+    },
+    "published": "Tue, 11 Aug 2026 16:12:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      14,
+      12,
+      27,
+      1,
+      223,
+      0
+    ],
+    "summary": "Connu comme « le juge qui a dit non » à Viktor Orban, Andras Baka succède à Tamas Sulyok, allié de l’ancien dirigeant nationaliste, à la tête du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Connu comme « le juge qui a dit non » à Viktor Orban, Andras Baka succède à Tamas Sulyok, allié de l’ancien dirigeant nationaliste, à la tête du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/en-hongrie-andras-baka-opposant-a-viktor-orban-est-elu-president-par-le-parlement_6743902_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/en-hongrie-andras-baka-opposant-a-viktor-orban-est-elu-president-par-le-parlement_6743902_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/en-hongrie-andras-baka-opposant-a-viktor-orban-est-elu-president-par-le-parlement_6743902_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/277/0/4353/2176/644/322/60/0/3598cc4_ftp-1-zmvh98t3iqdr-655af3ff8727403eb02bb7768938a31f-0-04379355742a46aa955bcf0db0755c81.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Andras Baka, candidat unique du parti Tisza à la présidence de la République de Hongrie, lors de la séance plénière extraordinaire du Parlement, à Budapest, le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Zoltan Balogh/MTI via AP"
+      }
+    ],
+    "credit": "Zoltan Balogh/MTI via AP"
+  }
+}

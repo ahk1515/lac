@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T16:56:15.052542+00:00",
+  "_id": "29e93c682ce2",
+  "brut": {
+    "title": "Le Liban adopte l’abolition de la peine de mort, une première au Proche- et au Moyen-Orient",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Liban adopte l’abolition de la peine de mort, une première au Proche- et au Moyen-Orient"
+    },
+    "published": "Tue, 11 Aug 2026 15:09:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      13,
+      9,
+      57,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 18:48:01 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      16,
+      48,
+      1,
+      1,
+      223,
+      0
+    ],
+    "summary": "Cette décision a été qualifiée d’« historique » par le ministre de la justice libanais, Adel Nassar. Le pays n’avait plus procédé à des exécutions depuis 2004.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette décision a été qualifiée d’« historique » par le ministre de la justice libanais, Adel Nassar. Le pays n’avait plus procédé à des exécutions depuis 2004."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/le-liban-adopte-l-abolition-de-la-peine-de-mort-une-premiere-au-proche-et-au-moyen-orient_6743866_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/le-liban-adopte-l-abolition-de-la-peine-de-mort-une-premiere-au-proche-et-au-moyen-orient_6743866_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/le-liban-adopte-l-abolition-de-la-peine-de-mort-une-premiere-au-proche-et-au-moyen-orient_6743866_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/903/0/5578/2789/644/322/60/0/f63cb58_upload-1-pixt93uwazwd-000-a7vc3zq.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Parlement libanais, place Nejmeh à Beyrouth, le 15 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANWAR AMRO/AFP"
+      }
+    ],
+    "credit": "ANWAR AMRO/AFP"
+  }
+}
