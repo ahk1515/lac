@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T13:00:52.718209+00:00",
+  "_id": "4fe9db35573b",
+  "brut": {
+    "title": "Colombie : au moins 132 morts après un violent séisme, les recherches se poursuivent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Colombie : au moins 132 morts après un violent séisme, les recherches se poursuivent"
+    },
+    "summary": "Un violent séisme a frappé la Colombie le 10 août, faisant au moins 132 morts et des centaines de disparus. Les recherches se poursuivent dans les décombres, alors que plus de 1 600 bâtiments ont été endommagés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un violent séisme a frappé la Colombie le 10 août, faisant au moins 132 morts et des centaines de disparus. Les recherches se poursuivent dans les décombres, alors que plus de 1 600 bâtiments ont été endommagés."
+    },
+    "published": "Tue, 11 Aug 2026 14:22:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      12,
+      22,
+      34,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/colombie-au-moins-132-morts-apres-un-violent-seisme-les-recherches-se-poursuivent_8143166.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZUKIAirizcucoxrmJ8MYhbFcQb4/33x0:809x436/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b1391086f3121250758.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/colombie-au-moins-132-morts-apres-un-violent-seisme-les-recherches-se-poursuivent_8143166.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/colombie-au-moins-132-morts-apres-un-violent-seisme-les-recherches-se-poursuivent_8143166.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

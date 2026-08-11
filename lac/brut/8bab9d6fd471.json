@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T13:00:52.555503+00:00",
+  "_id": "8bab9d6fd471",
+  "brut": {
+    "title": "En Thaïlande, les permis d’armes à feu suspendus après une fusillade dans un lycée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Thaïlande, les permis d’armes à feu suspendus après une fusillade dans un lycée"
+    },
+    "published": "Tue, 11 Aug 2026 13:23:40 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      11,
+      23,
+      40,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 13:42:12 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      11,
+      42,
+      12,
+      1,
+      223,
+      0
+    ],
+    "summary": "Un adolescent de 14 ans a abattu, vendredi 7 août, ses grands-parents à leur domicile, avant de tuer six autres personnes dans son collège-lycée avec le pistolet de son grand-père, puis de retourner l’arme contre lui.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un adolescent de 14 ans a abattu, vendredi 7 août, ses grands-parents à leur domicile, avant de tuer six autres personnes dans son collège-lycée avec le pistolet de son grand-père, puis de retourner l’arme contre lui."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/en-thailande-les-permis-d-armes-a-feu-suspendus-apres-une-fusillade-dans-un-lycee_6743795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/en-thailande-les-permis-d-armes-a-feu-suspendus-apres-une-fusillade-dans-un-lycee_6743795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/en-thailande-les-permis-d-armes-a-feu-suspendus-apres-une-fusillade-dans-un-lycee_6743795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/0/0/3000/1500/644/322/60/0/cd848ad_ftp-1-4z2b0e9pu4ch-e2b5c1dd80ad4ec79f853e5c90d0ff38-0-c05efe7909774709902c48cc93285559.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un élève blessé sur une civière, après la fusillade dans une école de la province de Nonthaburi (Thaïlande), le 7 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Por Tek Tueng Nonthaburi via AP"
+      }
+    ],
+    "credit": "Por Tek Tueng Nonthaburi via AP"
+  }
+}

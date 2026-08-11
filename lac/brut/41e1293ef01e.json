@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T13:00:52.555876+00:00",
+  "_id": "41e1293ef01e",
+  "brut": {
+    "title": "Ebola : l’épidémie a fait plus de 2 000 morts en RDC",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola : l’épidémie a fait plus de 2 000 morts en RDC"
+    },
+    "published": "Tue, 11 Aug 2026 12:06:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      10,
+      6,
+      32,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 13:31:22 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      11,
+      31,
+      22,
+      1,
+      223,
+      0
+    ],
+    "summary": "Ce bilan rapproche l’épidémie actuelle de celle qui avait sévi entre 2018 et 2020, la plus meurtrière à ce jour en République démocratique du Congo avec près de 2 300 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce bilan rapproche l’épidémie actuelle de celle qui avait sévi entre 2018 et 2020, la plus meurtrière à ce jour en République démocratique du Congo avec près de 2 300 morts."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/ebola-l-epidemie-a-fait-plus-de-2-000-morts-en-rdc_6743790_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/ebola-l-epidemie-a-fait-plus-de-2-000-morts-en-rdc_6743790_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/ebola-l-epidemie-a-fait-plus-de-2-000-morts-en-rdc_6743790_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/555/0/6953/3476/644/322/60/0/00da1dc_ftp-1-hvqcuq9a2w0a-2026-07-31t085519z-246925543-rc23hlakm9nk-rtrmadp-3-health-ebola.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le cercueil du docteur Tibenderana Katho Blaise, qui a succombé au virus Ebola, au cimetière de Nyamurongo, dans la ville de Bunia (République démocratique du Congo), le 26 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gradel Muyisa Mumbere/REUTERS"
+      }
+    ],
+    "credit": "Gradel Muyisa Mumbere/REUTERS"
+  }
+}

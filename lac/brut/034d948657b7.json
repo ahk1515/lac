@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T13:00:52.718043+00:00",
+  "_id": "034d948657b7",
+  "brut": {
+    "title": "Le Liban vote l'abolition de la peine de mort, une première au Moyen-Orient",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Liban vote l'abolition de la peine de mort, une première au Moyen-Orient"
+    },
+    "summary": "Les crimes commis avant l'entrée en vigueur de cette loi seront passibles d'une peine d'emprisonnement à perpétuité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les crimes commis avant l'entrée en vigueur de cette loi seront passibles d'une peine d'emprisonnement à perpétuité."
+    },
+    "published": "Tue, 11 Aug 2026 14:37:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      12,
+      37,
+      41,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-vote-l-abolition-de-la-peine-de-mort-une-premiere-au-moyen-orient_8143175.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/W599qyuEb9LNXsxrViONnC_NOWg/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b1706e3108213437924.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-vote-l-abolition-de-la-peine-de-mort-une-premiere-au-moyen-orient_8143175.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-vote-l-abolition-de-la-peine-de-mort-une-premiere-au-moyen-orient_8143175.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T13:00:52.718525+00:00",
+  "_id": "dae95c5f7dbe",
+  "brut": {
+    "title": "La nouvelle épidémie d'Ebola a franchi le cap des 2 000 morts en République démocratique du Congo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La nouvelle épidémie d'Ebola a franchi le cap des 2 000 morts en République démocratique du Congo"
+    },
+    "summary": "La maladie a tué plus de 15 000 personnes en Afrique au cours des 50 dernières années.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La maladie a tué plus de 15 000 personnes en Afrique au cours des 50 dernières années."
+    },
+    "published": "Tue, 11 Aug 2026 13:19:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      11,
+      19,
+      36,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-a-franchi-le-cap-des-2-000-morts-en-republique-democratique-du-congo_8143049.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ldOo832skQFJGGHmKzxZ1Z96qAk/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7af5f7daa79568238079.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-a-franchi-le-cap-des-2-000-morts-en-republique-democratique-du-congo_8143049.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-a-franchi-le-cap-des-2-000-morts-en-republique-democratique-du-congo_8143049.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

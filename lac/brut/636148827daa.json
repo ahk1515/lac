@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T13:00:52.555693+00:00",
+  "_id": "636148827daa",
+  "brut": {
+    "title": "En Malaisie, les réfugiés rohingya, frappés par une vague de haine, sont devenus indésirables",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Malaisie, les réfugiés rohingya, frappés par une vague de haine, sont devenus indésirables"
+    },
+    "published": "Tue, 11 Aug 2026 13:00:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      11,
+      0,
+      8,
+      1,
+      223,
+      0
+    ],
+    "summary": "Nourrie par une campagne de désinformation sur les réseaux sociaux, une xénophobie sans précédent touche les Rohingya, minorité musulmane apatride originaire de Birmanie. Les ONG dénoncent une instrumentalisation politique de la part du premier ministre, Anwar Ibrahim, fragilisé politiquement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Nourrie par une campagne de désinformation sur les réseaux sociaux, une xénophobie sans précédent touche les Rohingya, minorité musulmane apatride originaire de Birmanie. Les ONG dénoncent une instrumentalisation politique de la part du premier ministre, Anwar Ibrahim, fragilisé politiquement."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/en-malaisie-les-refugies-rohingya-frappes-par-une-vague-de-haine-sont-devenus-indesirables_6743792_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/en-malaisie-les-refugies-rohingya-frappes-par-une-vague-de-haine-sont-devenus-indesirables_6743792_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/en-malaisie-les-refugies-rohingya-frappes-par-une-vague-de-haine-sont-devenus-indesirables_6743792_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/27/448/0/5372/2686/644/322/60/0/1fb6b35_ftp-1-aa90s2cky1pl-2026-07-27t134109z-298927633-rc2bmma49x38-rtrmadp-3-malaysia-refugee.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des réfugiés Rohingya rassemblés devant les bureaux de l’agence des Nations unies pour les réfugiés, après avoir été explusés de leurs logements, à Kuala Lumpur, le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hasnoor Hussain/REUTERS"
+      }
+    ],
+    "credit": "Hasnoor Hussain/REUTERS"
+  }
+}

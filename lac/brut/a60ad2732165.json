@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T13:00:52.554997+00:00",
+  "_id": "a60ad2732165",
+  "brut": {
+    "title": "Un cargo touché par un « projectile » en mer Rouge, au moins deux morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un cargo touché par un « projectile » en mer Rouge, au moins deux morts"
+    },
+    "published": "Tue, 11 Aug 2026 14:56:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      12,
+      56,
+      38,
+      1,
+      223,
+      0
+    ],
+    "summary": "L’attaque, qui a tué deux membres d’équipage, un Pakistanais et un Indonésien, n’a pas encore été revendiquée, mais les garde-côtes yéménites l’ont attribuée aux rebelles houthistes du Yémen. Ces alliés de l’Iran ont été les auteurs de plusieurs attaques contre la flotte saoudienne dans la zone depuis juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’attaque, qui a tué deux membres d’équipage, un Pakistanais et un Indonésien, n’a pas encore été revendiquée, mais les garde-côtes yéménites l’ont attribuée aux rebelles houthistes du Yémen. Ces alliés de l’Iran ont été les auteurs de plusieurs attaques contre la flotte saoudienne dans la zone depuis juillet."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/un-cargo-touche-par-un-projectile-en-mer-rouge-au-moins-deux-morts_6743832_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/un-cargo-touche-par-un-projectile-en-mer-rouge-au-moins-deux-morts_6743832_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/un-cargo-touche-par-un-projectile-en-mer-rouge-au-moins-deux-morts_6743832_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/882/1108/2524/1262/644/322/60/0/afd6a42_ftp-1-2iiudmvs08z1-2026-08-11t014217z-527541410-rc2jvmakl0fg-rtrmadp-3-iran-crisis-yemen-mocha.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une frappe de drone revendiquée par les houthistes contre le port de Moka (Yémen), dans la mer Rouge. Capture d’écran d’une vidéo diffusée le 9 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Centre médiatique des Houthis via REUTERS"
+      }
+    ],
+    "credit": "Centre médiatique des Houthis via REUTERS"
+  }
+}
