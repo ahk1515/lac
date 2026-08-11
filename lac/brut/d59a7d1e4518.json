@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T01:38:51.730706+00:00",
+  "_id": "d59a7d1e4518",
+  "brut": {
+    "title": "Visite du pape en France : le Stade de France \"affiche complet\", plus de 200 000 inscrits pour la messe aux Champs-Elysées en quelques heures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Visite du pape en France : le Stade de France \"affiche complet\", plus de 200 000 inscrits pour la messe aux Champs-Elysées en quelques heures"
+    },
+    "summary": "\"Votre mobilisation est très forte en vue de la venue du pape à Paris\", s'est réjoui, lundi, le diocèse de la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Votre mobilisation est très forte en vue de la venue du pape à Paris\", s'est réjoui, lundi, le diocèse de la capitale."
+    },
+    "published": "Mon, 10 Aug 2026 23:35:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      10,
+      21,
+      35,
+      41,
+      0,
+      222,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-le-stade-de-france-affiche-complet-plus-de-200-000-inscrits-pour-la-messe-aux-champs-elysees-en-quelques-heures_8142470.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2dAO4AbKdDAHz7scGWDRPVvMI7k/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a44119c162512895285.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-le-stade-de-france-affiche-complet-plus-de-200-000-inscrits-pour-la-messe-aux-champs-elysees-en-quelques-heures_8142470.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-le-stade-de-france-affiche-complet-plus-de-200-000-inscrits-pour-la-messe-aux-champs-elysees-en-quelques-heures_8142470.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
