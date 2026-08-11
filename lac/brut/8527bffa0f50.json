@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T20:40:51.448036+00:00",
+  "_id": "8527bffa0f50",
+  "brut": {
+    "title": "Un ex-marine américain, Robert Gilman, a été libéré après quatre ans de détention en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un ex-marine américain, Robert Gilman, a été libéré après quatre ans de détention en Russie"
+    },
+    "published": "Tue, 11 Aug 2026 20:10:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      18,
+      10,
+      30,
+      1,
+      223,
+      0
+    ],
+    "summary": "M. Gilman avait été condamné en 2022 par un tribunal du sud-ouest de la Russie pour « violences » contre un policier. Des responsables américains ont assuré que sa libération « ne fait pas partie d’un échange et aucune autre concession n’a été faite ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "M. Gilman avait été condamné en 2022 par un tribunal du sud-ouest de la Russie pour « violences » contre un policier. Des responsables américains ont assuré que sa libération « ne fait pas partie d’un échange et aucune autre concession n’a été faite »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/un-ex-marine-americain-robert-gilman-a-ete-libere-apres-quatre-ans-de-detention-en-russie_6744195_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/un-ex-marine-americain-robert-gilman-a-ete-libere-apres-quatre-ans-de-detention-en-russie_6744195_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/un-ex-marine-americain-robert-gilman-a-ete-libere-apres-quatre-ans-de-detention-en-russie_6744195_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/499/0/7025/3512/644/322/60/0/52c41af_ftp-1-nodu48zclmnq-2026-08-11t141431z-907835160-rc2njkachefo-rtrmadp-3-usa-russia-gilman.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’ancien marine américain Robert Gilman, lors d’une de ses audiences devant le tribunal de Voronej (Russie), le 6 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vladimir Lavrov/REUTERS"
+      }
+    ],
+    "credit": "Vladimir Lavrov/REUTERS"
+  }
+}

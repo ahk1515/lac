@@ -7,7 +7,7 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 207
+    "co_citations": 209
   },
   {
     "pays_a": "ISR",
@@ -22,7 +22,7 @@
   {
     "pays_a": "IRN",
     "pays_b": "ISR",
-    "co_citations": 35
+    "co_citations": 36
   },
   {
     "pays_a": "FRA",
@@ -30,13 +30,13 @@
     "co_citations": 33
   },
   {
-    "pays_a": "UKR",
-    "pays_b": "USA",
-    "co_citations": 29
-  },
-  {
     "pays_a": "ISR",
     "pays_b": "LBN",
+    "co_citations": 30
+  },
+  {
+    "pays_a": "UKR",
+    "pays_b": "USA",
     "co_citations": 29
   },
   {
@@ -57,7 +57,7 @@
   {
     "pays_a": "RUS",
     "pays_b": "USA",
-    "co_citations": 18
+    "co_citations": 19
   },
   {
     "pays_a": "FRA",
@@ -95,18 +95,23 @@
     "co_citations": 9
   },
   {
+    "pays_a": "DEU",
+    "pays_b": "RUS",
+    "co_citations": 9
+  },
+  {
     "pays_a": "TUR",
     "pays_b": "UKR",
     "co_citations": 8
   },
   {
-    "pays_a": "BRA",
-    "pays_b": "USA",
+    "pays_a": "IRN",
+    "pays_b": "LBN",
     "co_citations": 8
   },
   {
-    "pays_a": "DEU",
-    "pays_b": "RUS",
+    "pays_a": "BRA",
+    "pays_b": "USA",
     "co_citations": 8
   },
   {
@@ -120,8 +125,8 @@
     "co_citations": 7
   },
   {
-    "pays_a": "IRN",
-    "pays_b": "LBN",
+    "pays_a": "DEU",
+    "pays_b": "UKR",
     "co_citations": 7
   },
   {
@@ -130,8 +135,8 @@
     "co_citations": 7
   },
   {
-    "pays_a": "DEU",
-    "pays_b": "UKR",
+    "pays_a": "CAF",
+    "pays_b": "FRA",
     "co_citations": 6
   },
   {
@@ -157,11 +162,6 @@
   {
     "pays_a": "IRN",
     "pays_b": "UKR",
-    "co_citations": 4
-  },
-  {
-    "pays_a": "CAF",
-    "pays_b": "FRA",
     "co_citations": 4
   },
   {
@@ -197,6 +197,11 @@
   {
     "pays_a": "MAR",
     "pays_b": "USA",
+    "co_citations": 3
+  },
+  {
+    "pays_a": "CHN",
+    "pays_b": "JPN",
     "co_citations": 3
   },
   {
@@ -247,11 +252,6 @@
   {
     "pays_a": "CHN",
     "pays_b": "FRA",
-    "co_citations": 2
-  },
-  {
-    "pays_a": "CHN",
-    "pays_b": "JPN",
     "co_citations": 2
   },
   {

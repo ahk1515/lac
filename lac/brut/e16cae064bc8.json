@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T20:40:51.448397+00:00",
+  "_id": "e16cae064bc8",
+  "brut": {
+    "title": "En Allemagne, l’aéroport de Hanovre perturbé par le survol d’un drone inconnu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, l’aéroport de Hanovre perturbé par le survol d’un drone inconnu"
+    },
+    "published": "Tue, 11 Aug 2026 19:48:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      17,
+      48,
+      38,
+      1,
+      223,
+      0
+    ],
+    "summary": "L’hebdomadaire « Der Spiegel », qui a relayé un premier l’incident, affirme que le rapport de la police juge « actuellement impossible » d’établir un lien avec la découverte d’un drone explosif à l’aéroport de Leipzig la semaine passée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’hebdomadaire « Der Spiegel », qui a relayé un premier l’incident, affirme que le rapport de la police juge « actuellement impossible » d’établir un lien avec la découverte d’un drone explosif à l’aéroport de Leipzig la semaine passée."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/en-allemagne-l-aeroport-de-hanovre-perturbe-par-le-survol-d-un-drone-inconnu_6744126_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/en-allemagne-l-aeroport-de-hanovre-perturbe-par-le-survol-d-un-drone-inconnu_6744126_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/en-allemagne-l-aeroport-de-hanovre-perturbe-par-le-survol-d-un-drone-inconnu_6744126_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/215/0/2578/1289/644/322/60/0/5908df1_ftp-1-1fnv2mr6d4it-2026-08-06t121428z-1545967995-rc2csma2fx1q-rtrmadp-3-germany-security-airport.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un policier en tenue de protection intervient sur un drone explosif à l’aéroport de Leipzig/Halle, à Schkeuditz (Allemagne), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Axel Schmidt/REUTERS"
+      }
+    ],
+    "credit": "Axel Schmidt/REUTERS"
+  }
+}

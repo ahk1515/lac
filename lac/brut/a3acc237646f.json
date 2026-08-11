@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T20:40:51.449042+00:00",
+  "_id": "a3acc237646f",
+  "brut": {
+    "title": "Des ONG poursuivent Donald Trump en justice pour ses sanctions contre la CPI",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des ONG poursuivent Donald Trump en justice pour ses sanctions contre la CPI"
+    },
+    "published": "Tue, 11 Aug 2026 19:07:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      17,
+      7,
+      18,
+      1,
+      223,
+      0
+    ],
+    "summary": "Les Etats-Unis, qui n’adhèrent pas au traité international ayant institué la Cour pénale internationale, ont imposé des sanctions visant plusieurs magistrats de la Cour. Celles-ci interdisent notamment aux juges d’entrer dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis, qui n’adhèrent pas au traité international ayant institué la Cour pénale internationale, ont imposé des sanctions visant plusieurs magistrats de la Cour. Celles-ci interdisent notamment aux juges d’entrer dans le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/des-ong-poursuivent-donald-trump-en-justice-pour-ses-sanctions-contre-la-cpi_6744027_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/des-ong-poursuivent-donald-trump-en-justice-pour-ses-sanctions-contre-la-cpi_6744027_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/des-ong-poursuivent-donald-trump-en-justice-pour-ses-sanctions-contre-la-cpi_6744027_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/375/0/4498/2249/644/322/60/0/2e236b5_ftp-1-a2o6wouv0bg5-2026-08-11t163404z-314663398-rc29tmawv7k7-rtrmadp-3-usa-trump-birthright-lawsuit.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, à Washington, DC, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evelyn Hockstein / REUTERS"
+      }
+    ],
+    "credit": "Evelyn Hockstein / REUTERS"
+  }
+}

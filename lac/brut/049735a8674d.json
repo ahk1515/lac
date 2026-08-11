@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T20:40:51.447155+00:00",
+  "_id": "049735a8674d",
+  "brut": {
+    "title": "Au Liban, une double frappe israélienne fait un mort et endommage une ambulance",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Liban, une double frappe israélienne fait un mort et endommage une ambulance"
+    },
+    "published": "Tue, 11 Aug 2026 21:56:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      19,
+      56,
+      24,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 21:56:59 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      19,
+      56,
+      59,
+      1,
+      223,
+      0
+    ],
+    "summary": "Ces bombardements sont les dernières en date dans le conflit entre Israël et le Hezbollah pro-iranien malgré la trêve en cours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces bombardements sont les dernières en date dans le conflit entre Israël et le Hezbollah pro-iranien malgré la trêve en cours."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/au-liban-une-double-frappe-israelienne-fait-un-mort-et-endommage-une-ambulance_6744330_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/au-liban-une-double-frappe-israelienne-fait-un-mort-et-endommage-une-ambulance_6744330_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/au-liban-une-double-frappe-israelienne-fait-un-mort-et-endommage-une-ambulance_6744330_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/19/504/0/4032/2016/644/322/60/0/0b0a8dc_upload-1-yz5r64pdkgfr-whatsapp-image-2026-06-19-at-12-23-58.jpeg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ABDULMONAM EASSA POUR « LE MONDE »"
+      }
+    ],
+    "credit": "ABDULMONAM EASSA POUR « LE MONDE »"
+  }
+}

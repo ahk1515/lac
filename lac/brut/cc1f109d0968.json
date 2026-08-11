@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T20:40:51.449214+00:00",
+  "_id": "cc1f109d0968",
+  "brut": {
+    "title": "Un mariage à 20 millions de dollars, symbole du clientélisme au Zimbabwe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un mariage à 20 millions de dollars, symbole du clientélisme au Zimbabwe"
+    },
+    "published": "Tue, 11 Aug 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      17,
+      0,
+      2,
+      1,
+      223,
+      0
+    ],
+    "updated": "Tue, 11 Aug 2026 20:57:14 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      11,
+      18,
+      57,
+      14,
+      1,
+      223,
+      0
+    ],
+    "summary": "Le président et tous les membres du gouvernement, ainsi que les hommes les plus riches du pays, ont assisté, en mai, aux noces du fils du principal magnat du Zimbabwe et conseiller présidentiel, Kudakwashe Tagwirei.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président et tous les membres du gouvernement, ainsi que les hommes les plus riches du pays, ont assisté, en mai, aux noces du fils du principal magnat du Zimbabwe et conseiller présidentiel, Kudakwashe Tagwirei."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/11/un-mariage-a-20-millions-de-dollars-symbole-du-clientelisme-au-zimbabwe_6744023_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/11/un-mariage-a-20-millions-de-dollars-symbole-du-clientelisme-au-zimbabwe_6744023_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/11/un-mariage-a-20-millions-de-dollars-symbole-du-clientelisme-au-zimbabwe_6744023_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/326/0/1872/936/644/322/60/0/8a4dc22_upload-1-4epyd2qdfmow-capture-d-e-cran-2026-08-11-a-14-30-52.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Taonanyasha Tagwirei et Poneso Janda (à gauche) avec le président zimbabwéen, Emmerson Mnangagwa (de dos), lors de leur mariage. Capture d’écran d’une publication Instagram du parti au pouvoir, la ZANU-PF, datée du 24 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "zanupf__2026/Instagram"
+      }
+    ],
+    "credit": "zanupf__2026/Instagram"
+  }
+}

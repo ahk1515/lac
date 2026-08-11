@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T20:40:51.447858+00:00",
+  "_id": "65fdf38e233f",
+  "brut": {
+    "title": "Commandes d’avions neufs : Airbus creuse l’écart avec Boeing",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Commandes d’avions neufs : Airbus creuse l’écart avec Boeing"
+    },
+    "published": "Tue, 11 Aug 2026 20:38:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      18,
+      38,
+      48,
+      1,
+      223,
+      0
+    ],
+    "summary": "En cumul à fin juillet, le constructeur européen mène nettement le match de la demande, avec 1 090 appareils commandés cette année, contre 483 pour son rival américain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En cumul à fin juillet, le constructeur européen mène nettement le match de la demande, avec 1 090 appareils commandés cette année, contre 483 pour son rival américain."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/11/commandes-d-avions-neufs-airbus-creuse-l-ecart-avec-boeing_6744262_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/11/commandes-d-avions-neufs-airbus-creuse-l-ecart-avec-boeing_6744262_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/11/commandes-d-avions-neufs-airbus-creuse-l-ecart-avec-boeing_6744262_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/571/0/6552/3276/644/322/60/0/6bebbfb_upload-1-wcd6uddr3ryv-000-34kh7vd.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A l’usine Airbus Atlantic de Bouguenais (Loire-Atlantique), le 29 février 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEBASTIEN SALOM-GOMIS/AFP"
+      }
+    ],
+    "credit": "SEBASTIEN SALOM-GOMIS/AFP"
+  }
+}

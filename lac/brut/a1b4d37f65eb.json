@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-11T20:40:51.560302+00:00",
+  "_id": "a1b4d37f65eb",
+  "brut": {
+    "title": "Typhon Dolphin : comment sont nommés les typhons ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Typhon Dolphin : comment sont nommés les typhons ?"
+    },
+    "summary": "En Chine, le typhon Dolphin a fait beaucoup de dégâts et le typhon Chan-hom vient de toucher le Japon. Bien que le Pacifique Nord-Ouest soit une région habituée aux typhons, ce n’est que depuis l’an 2000 que leurs noms ne sont plus américains, mais issus des cultures régionales. On vous explique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Chine, le typhon Dolphin a fait beaucoup de dégâts et le typhon Chan-hom vient de toucher le Japon. Bien que le Pacifique Nord-Ouest soit une région habituée aux typhons, ce n’est que depuis l’an 2000 que leurs noms ne sont plus américains, mais issus des cultures régionales. On vous explique."
+    },
+    "published": "Tue, 11 Aug 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      20,
+      0,
+      2,
+      1,
+      223,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/typhon-dolphin-comment-sont-nommes-les-typhons_8143346.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/b3zMUHjhBEqX1L0Yf36WiXwwNSU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/11/6a7b3b0936d5f105558594.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/typhon-dolphin-comment-sont-nommes-les-typhons_8143346.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/typhon-dolphin-comment-sont-nommes-les-typhons_8143346.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

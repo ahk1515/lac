@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-11T20:40:51.447409+00:00",
+  "_id": "20dfafd03e05",
+  "brut": {
+    "title": "L’armée américaine dit avoir tiré sur un navire qui violait son blocus des ports iraniens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée américaine dit avoir tiré sur un navire qui violait son blocus des ports iraniens"
+    },
+    "published": "Tue, 11 Aug 2026 21:38:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      11,
+      19,
+      38,
+      59,
+      1,
+      223,
+      0
+    ],
+    "summary": "C’est la troisième fois que l’armée américaine utilise la force pour faire respecter son blocus des ports iraniens. Depuis sa remise en place, le 14 juillet, les forces américaines affirment avoir redirigé 55 navires qui tentaient de passer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "C’est la troisième fois que l’armée américaine utilise la force pour faire respecter son blocus des ports iraniens. Depuis sa remise en place, le 14 juillet, les forces américaines affirment avoir redirigé 55 navires qui tentaient de passer."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/11/l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_6744297_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/11/l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_6744297_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/11/l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_6744297_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/169/0/5404/2702/644/322/60/0/c0ec25a_ftp-1-mcsruima30sp-2026-08-11t165226z-843926744-rc2ro6a4t2ki-rtrmadp-3-iran-crisis-shipping.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Selon des sources spécialisées dans la sécurité maritime, ce navire battant pavillon panaméen a été touché par un missile alors qu’il faisait route vers le golfe d’Oman, le 11 août 2026"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vladimir Tonic / via REUTERS"
+      }
+    ],
+    "credit": "Vladimir Tonic / via REUTERS"
+  }
+}
