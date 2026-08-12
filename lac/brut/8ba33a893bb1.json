@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T13:05:39.881036+00:00",
+  "_id": "8ba33a893bb1",
+  "brut": {
+    "title": "Le Liban vote pour l'abolition de la peine de mort, une première au Moyen-Orient",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Liban vote pour l'abolition de la peine de mort, une première au Moyen-Orient"
+    },
+    "summary": "Le Liban a voté l'abolition de la peine de mort, mardi 11 août, devenant ainsi le premier pays à prendre une telle décision au Moyen-Orient – si l'on exclut l'île de Chypre et la Turquie, parfois incluses dans une définition \"large\" de la zone et qui ont respectivement aboli la peine de mort en 2002 et 2004.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Liban a voté l'abolition de la peine de mort, mardi 11 août, devenant ainsi le premier pays à prendre une telle décision au Moyen-Orient – si l'on exclut l'île de Chypre et la Turquie, parfois incluses dans une définition \"large\" de la zone et qui ont respectivement aboli la peine de mort en 2002 et 2004."
+    },
+    "published": "Wed, 12 Aug 2026 11:11:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      9,
+      11,
+      28,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-vote-pour-l-abolition-de-la-peine-de-mort-une-premiere-au-moyen-orient_8144354.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/ll9g-hBL8SPZCqx6lYxWTgOuZ-0/603x0:1150x972/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/12/6a7c38b2658fc923424118.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-vote-pour-l-abolition-de-la-peine-de-mort-une-premiere-au-moyen-orient_8144354.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/liban/le-liban-vote-pour-l-abolition-de-la-peine-de-mort-une-premiere-au-moyen-orient_8144354.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

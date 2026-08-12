@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T13:05:39.881189+00:00",
+  "_id": "1110235242b8",
+  "brut": {
+    "title": "Donald Trump poursuit son offensive contre les vaccins",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump poursuit son offensive contre les vaccins"
+    },
+    "summary": "Aux États-Unis, Donald Trump franchit un nouveau cap dans sa politique anti-vaccin : il vient de signer un décret qui réduit les vaccins recommandés à tous les enfants, et prévoit d’espacer les injections. Pour le justifier, le président reprend des affirmations démenties depuis des années par la science, notamment sur l’autisme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, Donald Trump franchit un nouveau cap dans sa politique anti-vaccin : il vient de signer un décret qui réduit les vaccins recommandés à tous les enfants, et prévoit d’espacer les injections. Pour le justifier, le président reprend des affirmations démenties depuis des années par la science, notamment sur l’autisme."
+    },
+    "published": "Wed, 12 Aug 2026 11:02:39 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      9,
+      2,
+      39,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-poursuit-son-offensive-contre-les-vaccins_8144348.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/iEjx2jC9h3k3NF2J_dpbEWvCtAw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/12/6a7c3694a087b631191414.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-poursuit-son-offensive-contre-les-vaccins_8144348.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-poursuit-son-offensive-contre-les-vaccins_8144348.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

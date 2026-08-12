@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T13:05:39.880700+00:00",
+  "_id": "020a3a17c9d3",
+  "brut": {
+    "title": "Raphaël Glucksmann annonce avoir porté plainte après des ingérences étrangères",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Raphaël Glucksmann annonce avoir porté plainte après des ingérences étrangères"
+    },
+    "summary": "Le média Blast dont l'identité graphique a été usurpée pour maquiller cette campagne de désinformation annonce également qu'il va porter plainte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le média Blast dont l'identité graphique a été usurpée pour maquiller cette campagne de désinformation annonce également qu'il va porter plainte."
+    },
+    "published": "Wed, 12 Aug 2026 12:03:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      10,
+      3,
+      48,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-annonce-avoir-porte-plainte-apres-des-ingerences-etrangeres_8144420.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KSbjztAZ6EWYWX7cfroL_TqEJCY/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c447d3544d348314400.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-annonce-avoir-porte-plainte-apres-des-ingerences-etrangeres_8144420.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-annonce-avoir-porte-plainte-apres-des-ingerences-etrangeres_8144420.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

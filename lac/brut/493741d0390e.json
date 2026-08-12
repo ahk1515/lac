@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T13:05:39.678594+00:00",
+  "_id": "493741d0390e",
+  "brut": {
+    "title": "Zimbabwe : au moins 44 morts dans le chavirage d’un ferry sur le lac Kariba",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Zimbabwe : au moins 44 morts dans le chavirage d’un ferry sur le lac Kariba"
+    },
+    "published": "Wed, 12 Aug 2026 14:27:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      12,
+      27,
+      36,
+      2,
+      224,
+      0
+    ],
+    "updated": "Wed, 12 Aug 2026 14:54:05 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      12,
+      54,
+      5,
+      2,
+      224,
+      0
+    ],
+    "summary": "D’une capacité de 90 personnes, le bateau comptait à son bord cinq membres d’équipages et 114 passagers adultes, selon le service de secours national. Les opérations de secours ont été compliquées par le mauvais temps.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "D’une capacité de 90 personnes, le bateau comptait à son bord cinq membres d’équipages et 114 passagers adultes, selon le service de secours national. Les opérations de secours ont été compliquées par le mauvais temps."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/12/zimbabwe-au-moins-44-morts-dans-le-chavirage-d-un-ferry-sur-le-lac-kariba_6745058_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/12/zimbabwe-au-moins-44-morts-dans-le-chavirage-d-un-ferry-sur-le-lac-kariba_6745058_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/12/zimbabwe-au-moins-44-morts-dans-le-chavirage-d-un-ferry-sur-le-lac-kariba_6745058_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/120/0/966/483/644/322/60/0/9f28c06_ftp-1-nxzmo6gnktrv-5820404-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des passagers en train d’être secourus après le chavirage d’une embarcation sur le lac Kariba, au Zimbabwe, le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Maxton Kanhema/UGC/AFP"
+      }
+    ],
+    "credit": "Maxton Kanhema/UGC/AFP"
+  }
+}

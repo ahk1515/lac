@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T13:05:39.679625+00:00",
+  "_id": "9d9bac29bd5b",
+  "brut": {
+    "title": "Au Liban, le Parlement vote une loi d’amnistie générale attendue de longue date",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Liban, le Parlement vote une loi d’amnistie générale attendue de longue date"
+    },
+    "published": "Wed, 12 Aug 2026 12:39:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      10,
+      39,
+      4,
+      2,
+      224,
+      0
+    ],
+    "updated": "Wed, 12 Aug 2026 12:57:49 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      10,
+      57,
+      49,
+      2,
+      224,
+      0
+    ],
+    "summary": "Les autorités n’ont pas précisé dans l’immédiat combien de personnes étaient concernées. Les députés à l’initiative de la loi l’ont justifiée par la surpopulation carcérale dans un contexte de lenteur procédurale endémique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités n’ont pas précisé dans l’immédiat combien de personnes étaient concernées. Les députés à l’initiative de la loi l’ont justifiée par la surpopulation carcérale dans un contexte de lenteur procédurale endémique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/12/au-liban-le-parlement-vote-une-loi-d-amnistie-generale-attendue-de-longue-date_6745048_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/12/au-liban-le-parlement-vote-une-loi-d-amnistie-generale-attendue-de-longue-date_6745048_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/12/au-liban-le-parlement-vote-une-loi-d-amnistie-generale-attendue-de-longue-date_6745048_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/147/0/3600/1800/644/322/60/0/fcde142_upload-1-hw4gpwt3hflj-000-a2h88t3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Parlement libanais, à Beyrouth, en mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FADEL ITANI/AFP"
+      }
+    ],
+    "credit": "FADEL ITANI/AFP"
+  }
+}

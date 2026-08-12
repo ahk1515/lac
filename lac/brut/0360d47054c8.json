@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T13:05:39.680749+00:00",
+  "_id": "0360d47054c8",
+  "brut": {
+    "title": "En Espagne, l’éclipse solaire totale tient tout le pays en haleine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, l’éclipse solaire totale tient tout le pays en haleine"
+    },
+    "published": "Wed, 12 Aug 2026 05:30:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      3,
+      30,
+      3,
+      2,
+      224,
+      0
+    ],
+    "updated": "Wed, 12 Aug 2026 11:57:11 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      9,
+      57,
+      11,
+      2,
+      224,
+      0
+    ],
+    "summary": "Mercredi, les autorités du pays redoutent deux risques : les incendies, après les mégafeux de juillet, et le flux de déplacements, faisant craindre des embouteillages, alors que 450 000 visiteurs supplémentaires sont attendus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mercredi, les autorités du pays redoutent deux risques : les incendies, après les mégafeux de juillet, et le flux de déplacements, faisant craindre des embouteillages, alors que 450 000 visiteurs supplémentaires sont attendus."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/08/12/en-espagne-l-eclipse-solaire-totale-tient-tout-le-pays-en-haleine_6744531_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/08/12/en-espagne-l-eclipse-solaire-totale-tient-tout-le-pays-en-haleine_6744531_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/08/12/en-espagne-l-eclipse-solaire-totale-tient-tout-le-pays-en-haleine_6744531_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/1133/0/6797/3398/644/322/60/0/c397e8b_ftp-1-svnk0xzj9t6h-5807781-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Rassemblement pour assister à un coucher du Soleil à trois de jours de l’éclipse solaire qui sera, à cet endroit, totale, à San Vicente de la Barquera (Espagne), le 9 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CESAR MANSO/AFP"
+      }
+    ],
+    "credit": "CESAR MANSO/AFP"
+  }
+}

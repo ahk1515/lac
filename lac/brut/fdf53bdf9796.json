@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T13:05:39.879873+00:00",
+  "_id": "fdf53bdf9796",
+  "brut": {
+    "title": "Le nord de l'Espagne au cœur de l'éclipse totale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nord de l'Espagne au cœur de l'éclipse totale"
+    },
+    "summary": "L'Espagne sera au cœur de l'éclipse solaire totale de ce mercredi 12 août. Un engouement qui a provoqué l'arrivée d'une vague de touristes dans le nord du pays, particulièrement bien placé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Espagne sera au cœur de l'éclipse solaire totale de ce mercredi 12 août. Un engouement qui a provoqué l'arrivée d'une vague de touristes dans le nord du pays, particulièrement bien placé."
+    },
+    "published": "Wed, 12 Aug 2026 13:48:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      11,
+      48,
+      32,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/le-nord-de-l-espagne-au-c-ur-de-l-eclipse-totale_8144543.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/cbEtwxFvn0tpEK0Glaefl1_dkno/0x0:1536x864/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c59930f456962078081.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/le-nord-de-l-espagne-au-c-ur-de-l-eclipse-totale_8144543.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/le-nord-de-l-espagne-au-c-ur-de-l-eclipse-totale_8144543.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
