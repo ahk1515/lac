@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T05:36:19.155763+00:00",
+  "_id": "01eecdf97e36",
+  "brut": {
+    "title": "Eurozapping : en Allemagne, le cheptel souffre de la chaleur",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Eurozapping : en Allemagne, le cheptel souffre de la chaleur"
+    },
+    "summary": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du mardi 11 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du mardi 11 août."
+    },
+    "published": "Wed, 12 Aug 2026 07:06:54 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      5,
+      6,
+      54,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/eurozapping-en-allemagne-le-cheptel-souffre-de-la-chaleur_8144114.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/exNQ9Vx5D9UklhdoLNqr4GXz3IE/24x0:1525x844/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7bfedde7b83392321986.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/eurozapping-en-allemagne-le-cheptel-souffre-de-la-chaleur_8144114.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/eurozapping-en-allemagne-le-cheptel-souffre-de-la-chaleur_8144114.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

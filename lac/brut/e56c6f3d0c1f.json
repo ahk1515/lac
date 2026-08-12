@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T05:36:18.982842+00:00",
+  "_id": "e56c6f3d0c1f",
+  "brut": {
+    "title": "Au Venezuela, un chef indigène enlevé par des guérilleros colombiens retrouvé mort",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Venezuela, un chef indigène enlevé par des guérilleros colombiens retrouvé mort"
+    },
+    "published": "Wed, 12 Aug 2026 06:36:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      4,
+      36,
+      13,
+      2,
+      224,
+      0
+    ],
+    "updated": "Wed, 12 Aug 2026 06:45:51 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      4,
+      45,
+      51,
+      2,
+      224,
+      0
+    ],
+    "summary": "Le leader autochtone Julio Rodriguez avait été kidnappé, le 2 août, dans une localité minière du sud du pays, près de la Colombie. Le territoire de son peuple, les Jivi Ekunay, abrite une partie des richesses souterraines du Venezuela.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le leader autochtone Julio Rodriguez avait été kidnappé, le 2 août, dans une localité minière du sud du pays, près de la Colombie. Le territoire de son peuple, les Jivi Ekunay, abrite une partie des richesses souterraines du Venezuela."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/12/au-venezuela-un-chef-indigene-enleve-par-des-guerilleros-colombiens-retrouve-mort_6744638_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/12/au-venezuela-un-chef-indigene-enleve-par-des-guerilleros-colombiens-retrouve-mort_6744638_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/12/au-venezuela-un-chef-indigene-enleve-par-des-guerilleros-colombiens-retrouve-mort_6744638_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/543/0/5572/2786/644/322/60/0/b6ec66a_upload-1-6mvloicphhvq-000-334z6gt.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un camp de mineurs illégal dans l’Etat Amazonas (Brésil) à la frontière avec le Venezuela et la Colombie, le 21 décembre 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YURI CORTEZ/AFP"
+      }
+    ],
+    "credit": "YURI CORTEZ/AFP"
+  }
+}

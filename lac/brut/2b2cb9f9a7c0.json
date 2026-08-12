@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T05:36:19.155506+00:00",
+  "_id": "2b2cb9f9a7c0",
+  "brut": {
+    "title": "Donald Trump confirme avoir secrètement changé d'avion face à une \"menace\" début juillet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump confirme avoir secrètement changé d'avion face à une \"menace\" début juillet"
+    },
+    "summary": "Début juillet, le président américain a été exfiltré d'Air Force One à bord d'un conteneur pour quitter le sommet de l'Otan en Turquie en raison de menaces iraniennes, ont révélé lundi des médias américains.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Début juillet, le président américain a été exfiltré d'Air Force One à bord d'un conteneur pour quitter le sommet de l'Otan en Turquie en raison de menaces iraniennes, ont révélé lundi des médias américains."
+    },
+    "published": "Wed, 12 Aug 2026 07:19:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      5,
+      19,
+      52,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-confirme-avoir-secretement-change-d-avion-face-a-une-menace-debut-juillet_8144138.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dCl5qXLKEZcNTFm9Gr4IKL6BIoA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c024724ab0637191166.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-confirme-avoir-secretement-change-d-avion-face-a-une-menace-debut-juillet_8144138.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-confirme-avoir-secretement-change-d-avion-face-a-une-menace-debut-juillet_8144138.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
