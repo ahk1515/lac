@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T09:09:47.548301+00:00",
+  "_id": "92e1f0f679c3",
+  "brut": {
+    "title": "Quatre personnes sont mortes dans des échanges de frappes en Russie et en Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatre personnes sont mortes dans des échanges de frappes en Russie et en Ukraine"
+    },
+    "summary": "Deux personnes ont été tuées côté russe, dont un enfant de 8 ans. Deux autres personnes sont mortes en Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux personnes ont été tuées côté russe, dont un enfant de 8 ans. Deux autres personnes sont mortes en Ukraine."
+    },
+    "published": "Wed, 12 Aug 2026 10:45:46 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      8,
+      45,
+      46,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-en-russie-et-en-ukraine_8144288.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VUpnbiPWFtiR_1ct2vfHrvsdj7Q/0x179:1024x755/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c30680575d802873038.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-en-russie-et-en-ukraine_8144288.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-en-russie-et-en-ukraine_8144288.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T09:09:47.387763+00:00",
+  "_id": "0c3ad206b465",
+  "brut": {
+    "title": "Séisme en Colombie : au moins 216 morts ; l’UE débloque 2 millions d’euros d’aide",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Séisme en Colombie : au moins 216 morts ; l’UE débloque 2 millions d’euros d’aide"
+    },
+    "published": "Wed, 12 Aug 2026 10:42:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      8,
+      42,
+      31,
+      2,
+      224,
+      0
+    ],
+    "summary": "Les recherches de survivants se poursuivent avec acharnement dans l’ouest du pays, où le tremblement de terre d’une magnitude de 7,4 a provoqué d’importantes destructions, lundi matin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les recherches de survivants se poursuivent avec acharnement dans l’ouest du pays, où le tremblement de terre d’une magnitude de 7,4 a provoqué d’importantes destructions, lundi matin."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/12/seisme-en-colombie-au-moins-216-morts-l-ue-debloque-2-millions-d-euros-d-aide_6744909_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/12/seisme-en-colombie-au-moins-216-morts-l-ue-debloque-2-millions-d-euros-d-aide_6744909_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/12/seisme-en-colombie-au-moins-216-morts-l-ue-debloque-2-millions-d-euros-d-aide_6744909_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/393/0/4724/2362/644/322/60/0/89f8477_ftp-1-lnjieusuk5ol-5819591-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une membre de la Croix-Rouge colombienne rassemble de l’aide destinée aux victimes du séisme, à Bogota, le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ESTEBAN VEGA LA-ROTTA/AFP"
+      }
+    ],
+    "credit": "ESTEBAN VEGA LA-ROTTA/AFP"
+  }
+}

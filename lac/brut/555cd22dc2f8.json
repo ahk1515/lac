@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T09:09:47.548805+00:00",
+  "_id": "555cd22dc2f8",
+  "brut": {
+    "title": "Doit-on avoir des relations avec les talibans ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Doit-on avoir des relations avec les talibans ?"
+    },
+    "summary": "En août 2021, les talibans revenaient au pouvoir en Afghanistan. Cinq ans après, certains se demandent s'il faut oui ou non avoir des relations avec les autorités du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En août 2021, les talibans revenaient au pouvoir en Afghanistan. Cinq ans après, certains se demandent s'il faut oui ou non avoir des relations avec les autorités du pays."
+    },
+    "published": "Wed, 12 Aug 2026 07:45:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      5,
+      45,
+      23,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/doit-on-avoir-des-relations-avec-les-talibans_8070236.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uv1aI9JPSxgAb0lx2OXPGc1tqGs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c0862bb040114809976.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/doit-on-avoir-des-relations-avec-les-talibans_8070236.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/doit-on-avoir-des-relations-avec-les-talibans_8070236.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

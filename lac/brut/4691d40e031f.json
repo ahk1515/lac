@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T09:09:47.388120+00:00",
+  "_id": "4691d40e031f",
+  "brut": {
+    "title": "Soudan : des frappes de drones visent Khartoum et deux autres villes du nord du pays après des mois d’accalmie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soudan : des frappes de drones visent Khartoum et deux autres villes du nord du pays après des mois d’accalmie"
+    },
+    "published": "Wed, 12 Aug 2026 09:50:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      7,
+      50,
+      36,
+      2,
+      224,
+      0
+    ],
+    "summary": "Cette attaque, mercredi à l’aube, semble coordonnée par les paramilitaires des Forces de soutien rapide, après plusieurs mois de calme relatif dans la guerre qui les oppose, depuis avril 2023, à l’armée soudanaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette attaque, mercredi à l’aube, semble coordonnée par les paramilitaires des Forces de soutien rapide, après plusieurs mois de calme relatif dans la guerre qui les oppose, depuis avril 2023, à l’armée soudanaise."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/12/soudan-des-frappes-de-drones-visent-khartoum-et-deux-autres-villes-du-nord-du-pays-apres-des-mois-d-accalmie_6744808_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/12/soudan-des-frappes-de-drones-visent-khartoum-et-deux-autres-villes-du-nord-du-pays-apres-des-mois-d-accalmie_6744808_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/12/soudan-des-frappes-de-drones-visent-khartoum-et-deux-autres-villes-du-nord-du-pays-apres-des-mois-d-accalmie_6744808_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/16/361/0/5272/2636/644/322/60/0/1612cd7_ftp-1-go7t4t5lxwb3-5638467-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les débris d’un drone saisi aux Forces de soutien rapide (FSR) fourni, selon l’armée soudanaise, par des pays étrangers, à Khartoum, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EBRAHIM HAMID/AFP"
+      }
+    ],
+    "credit": "EBRAHIM HAMID/AFP"
+  }
+}

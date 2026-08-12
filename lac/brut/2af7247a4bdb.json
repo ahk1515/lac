@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T09:09:47.548959+00:00",
+  "_id": "2af7247a4bdb",
+  "brut": {
+    "title": "La Corée du Nord a tiré un missile balistique vers la mer du Japon, affirme l'armée sud-coréenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Corée du Nord a tiré un missile balistique vers la mer du Japon, affirme l'armée sud-coréenne"
+    },
+    "summary": "Le missile a parcouru \"plus de 700 km\" au dessus de la mer avant de s'y abîmer, précise Séoul. Il s'agit du deuxième missile lancé en moins d'une semaine par le régime dirigé par Kim Jong-un.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le missile a parcouru \"plus de 700 km\" au dessus de la mer avant de s'y abîmer, précise Séoul. Il s'agit du deuxième missile lancé en moins d'une semaine par le régime dirigé par Kim Jong-un."
+    },
+    "published": "Wed, 12 Aug 2026 07:42:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      5,
+      42,
+      21,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-a-tire-un-missile-balistique-vers-la-mer-du-japon-selon-l-armee-sud-coreenne_8144150.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/duv7_eckHaVL-A587LUv0Uudcqc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c072936c29631295912.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-a-tire-un-missile-balistique-vers-la-mer-du-japon-selon-l-armee-sud-coreenne_8144150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-a-tire-un-missile-balistique-vers-la-mer-du-japon-selon-l-armee-sud-coreenne_8144150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

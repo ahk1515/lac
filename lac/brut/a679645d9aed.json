@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T09:09:47.548138+00:00",
+  "_id": "a679645d9aed",
+  "brut": {
+    "title": "L'interdiction du démarchage téléphonique non consenti en France menace les centres d'appels au Maroc",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'interdiction du démarchage téléphonique non consenti en France menace les centres d'appels au Maroc"
+    },
+    "summary": "Jusqu'à 50 000 salariés seraient désormais menacés dans le pays, selon le ministre du Travail. La loi contre le démarchage est entrée en vigueur mardi en France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Jusqu'à 50 000 salariés seraient désormais menacés dans le pays, selon le ministre du Travail. La loi contre le démarchage est entrée en vigueur mardi en France."
+    },
+    "published": "Wed, 12 Aug 2026 10:40:42 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      8,
+      40,
+      42,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/telephonie/l-interdiction-du-demarchage-telephonique-non-consenti-en-france-menace-les-centres-d-appels-au-maroc_8144195.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QIx7iYsH_aB4_fg0WWyXxhIFRm8/0x112:3504x2083/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c1e8c0345e325933977.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/telephonie/l-interdiction-du-demarchage-telephonique-non-consenti-en-france-menace-les-centres-d-appels-au-maroc_8144195.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/telephonie/l-interdiction-du-demarchage-telephonique-non-consenti-en-france-menace-les-centres-d-appels-au-maroc_8144195.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

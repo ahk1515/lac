@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T09:09:47.547909+00:00",
+  "_id": "9cf9d883a0f8",
+  "brut": {
+    "title": "La préfecture de police de Paris ordonne l'évacuation du Samu social, occupé par des salariés grévistes et 400 personnes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La préfecture de police de Paris ordonne l'évacuation du Samu social, occupé par des salariés grévistes et 400 personnes"
+    },
+    "summary": "L'appel à la grève de la CGT a été lancé le 23 juin, pour protester contre \"la remise à la rue de trop nombreuses familles\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'appel à la grève de la CGT a été lancé le 23 juin, pour protester contre \"la remise à la rue de trop nombreuses familles\"."
+    },
+    "published": "Wed, 12 Aug 2026 10:57:22 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      8,
+      57,
+      22,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/greve/la-prefecture-de-police-de-paris-ordonne-l-evacuation-du-samu-social-occupe-par-des-salaries-grevistes-et-400-personnes_8144318.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UkYwxi7ajuG9NnZqD8wtBHdIuJs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c34fe0763c520788830.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/greve/la-prefecture-de-police-de-paris-ordonne-l-evacuation-du-samu-social-occupe-par-des-salaries-grevistes-et-400-personnes_8144318.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/greve/la-prefecture-de-police-de-paris-ordonne-l-evacuation-du-samu-social-occupe-par-des-salaries-grevistes-et-400-personnes_8144318.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

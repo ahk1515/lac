@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T09:09:47.388725+00:00",
+  "_id": "cb1adf60e4e3",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des frappes contre une base navale russe de la mer Noire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des frappes contre une base navale russe de la mer Noire"
+    },
+    "published": "Wed, 12 Aug 2026 07:44:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      5,
+      44,
+      20,
+      2,
+      224,
+      0
+    ],
+    "updated": "Wed, 12 Aug 2026 10:40:55 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      8,
+      40,
+      55,
+      2,
+      224,
+      0
+    ],
+    "summary": "Le président ukrainien s’est félicité mercredi d’« une opération sans précédent » des forces ukrainiennes « visant à frapper la base navale de Novorossiïsk », une ville du kraï de Krasnodar, au bord de la mer Noire. La Russie avait affirmé plus tôt avoir intercepté 502 drones ukrainiens dans la nuit de mardi à mercredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien s’est félicité mercredi d’« une opération sans précédent » des forces ukrainiennes « visant à frapper la base navale de Novorossiïsk », une ville du kraï de Krasnodar, au bord de la mer Noire. La Russie avait affirmé plus tôt avoir intercepté 502 drones ukrainiens dans la nuit de mardi à mercredi."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-502-drones-ukrainiens-dans-la-nuit-de-mardi-a-mercredi_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-502-drones-ukrainiens-dans-la-nuit-de-mardi-a-mercredi_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-502-drones-ukrainiens-dans-la-nuit-de-mardi-a-mercredi_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/319/0/3827/1913/644/322/60/0/33e2330_ftp-1-ejxkuostonbi-129959473f3040cbaa3d86a028630ab9-0-2d1c5ff0c4274e3a908d5a9bc34dd5b7.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président ukrainien, Volodymyr Zelensky, à Belgrade (Serbie), le 8 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Darko Vojinovic/AP Photo"
+      }
+    ],
+    "credit": "Darko Vojinovic/AP Photo"
+  }
+}
