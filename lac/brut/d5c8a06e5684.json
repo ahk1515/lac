@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T16:56:01.371561+00:00",
+  "_id": "d5c8a06e5684",
+  "brut": {
+    "title": "Iran : une trentaine de pays, dont la France, le Royaume-Uni et le Canada, condamnent les exécutions de manifestants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Iran : une trentaine de pays, dont la France, le Royaume-Uni et le Canada, condamnent les exécutions de manifestants"
+    },
+    "published": "Wed, 12 Aug 2026 17:56:53 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      15,
+      56,
+      53,
+      2,
+      224,
+      0
+    ],
+    "updated": "Wed, 12 Aug 2026 18:12:00 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      16,
+      12,
+      0,
+      2,
+      224,
+      0
+    ],
+    "summary": "Le pouvoir a reconnu plus de 3 000 morts, imputant les violences à des « actes terroristes » orchestrés par les Etats-Unis et Israël.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pouvoir a reconnu plus de 3 000 morts, imputant les violences à des « actes terroristes » orchestrés par les Etats-Unis et Israël."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/12/iran-26-pays-dont-la-france-le-royaume-uni-et-le-canada-condamnent-les-executions-de-manifestants_6745081_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/12/iran-26-pays-dont-la-france-le-royaume-uni-et-le-canada-condamnent-les-executions-de-manifestants_6745081_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/12/iran-26-pays-dont-la-france-le-royaume-uni-et-le-canada-condamnent-les-executions-de-manifestants_6745081_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/185/0/6526/3263/644/322/60/0/8e2978f_upload-1-p2o84oo11pc3-000-c2eb2ke.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des manifestants se rassemblent pour dénoncer le silence des gouvernements occidentaux face à la vague croissante d’exécutions politiques en Iran, à Rome, le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREAS SOLARO/AFP"
+      }
+    ],
+    "credit": "ANDREAS SOLARO/AFP"
+  }
+}

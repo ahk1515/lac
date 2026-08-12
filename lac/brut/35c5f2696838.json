@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T16:56:01.371931+00:00",
+  "_id": "35c5f2696838",
+  "brut": {
+    "title": "Pologne : les données de la moitié de la population exposées par une cyberattaque",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pologne : les données de la moitié de la population exposées par une cyberattaque"
+    },
+    "published": "Wed, 12 Aug 2026 16:51:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      14,
+      51,
+      11,
+      2,
+      224,
+      0
+    ],
+    "summary": "Les premiers éléments privilégient la piste de cybercriminels agissant dans un but financier, a estimé le ministre de la numérisation, qui a exclu le paiement de toute rançon et promis de poursuivre « sans relâche » les auteurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les premiers éléments privilégient la piste de cybercriminels agissant dans un but financier, a estimé le ministre de la numérisation, qui a exclu le paiement de toute rançon et promis de poursuivre « sans relâche » les auteurs."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/02/360/0/4319/2159/644/322/60/0/5fd1150_ftp-1-0c7ebbmz7vyl-2026-06-02t121508z-916788424-rc2nllaqinhg-rtrmadp-3-poland-smartphones.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Krzysztof Gawkowski à Varsovie, le 2 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kuba Stezycki / REUTERS"
+      }
+    ],
+    "credit": "Kuba Stezycki / REUTERS"
+  }
+}

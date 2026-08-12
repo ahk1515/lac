@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T16:56:01.597953+00:00",
+  "_id": "61a75acbe6a1",
+  "brut": {
+    "title": "\"Le peuple iranien doit être libre d'exercer ses droits\" : 26 pays, dont la France, le Royaume-Uni et le Canada, condamnent les exécutions de manifestants en Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Le peuple iranien doit être libre d'exercer ses droits\" : 26 pays, dont la France, le Royaume-Uni et le Canada, condamnent les exécutions de manifestants en Iran"
+    },
+    "summary": "En 2025, les autorités iraniennes ont exécuté au moins 1 639 personnes, un record depuis 1989, selon des ONG.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En 2025, les autorités iraniennes ont exécuté au moins 1 639 personnes, un record depuis 1989, selon des ONG."
+    },
+    "published": "Wed, 12 Aug 2026 17:23:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      15,
+      23,
+      44,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/le-peuple-iranien-doit-etre-libre-d-exercer-ses-droits-26-pays-dont-la-france-le-royaume-uni-et-le-canada-condamnent-les-executions-de-manifestants-en-iran_8144804.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/XJQZoxtdnkRZ39nmpAqfmvN7UJg/0x11:1024x587/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7c8fdc29e8b917551569.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/le-peuple-iranien-doit-etre-libre-d-exercer-ses-droits-26-pays-dont-la-france-le-royaume-uni-et-le-canada-condamnent-les-executions-de-manifestants-en-iran_8144804.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/le-peuple-iranien-doit-etre-libre-d-exercer-ses-droits-26-pays-dont-la-france-le-royaume-uni-et-le-canada-condamnent-les-executions-de-manifestants-en-iran_8144804.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
