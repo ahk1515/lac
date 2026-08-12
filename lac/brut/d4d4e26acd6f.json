@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T20:41:43.884265+00:00",
+  "_id": "d4d4e26acd6f",
+  "brut": {
+    "title": "Donald Trump annonce le départ de sa porte-parole Karoline Leavitt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump annonce le départ de sa porte-parole Karoline Leavitt"
+    },
+    "published": "Wed, 12 Aug 2026 22:27:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      20,
+      27,
+      55,
+      2,
+      224,
+      0
+    ],
+    "summary": "Cette native du New Hampshire (nord-est) a piloté une stratégie de communication agressive, riche en attaques contre les médias traditionnels.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette native du New Hampshire (nord-est) a piloté une stratégie de communication agressive, riche en attaques contre les médias traditionnels."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/279/0/3356/1678/644/322/60/0/55b3174_ftp-1-dnua6af9ozmr-2026-08-12t195549z-1216621119-rc2mwman0itd-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La porte-parole de la Maison Blanche, Karoline Leavitt, dans l’Ohio (Etats-Unis), le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kylie Cooper / REUTERS"
+      }
+    ],
+    "credit": "Kylie Cooper / REUTERS"
+  }
+}

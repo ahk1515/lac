@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-12T20:41:44.297456+00:00",
+  "_id": "f195c96c7c20",
+  "brut": {
+    "title": "La ville israélienne de Tel-Aviv baptise \"place des otages\" l'esplanade des manifestations organisées pour la libération des captifs à Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La ville israélienne de Tel-Aviv baptise \"place des otages\" l'esplanade des manifestations organisées pour la libération des captifs à Gaza"
+    },
+    "summary": "Entre 2023 et 2025, des Israéliens s'y étaient rassemblés chaque samedi soir pour presser le gouvernement d'œuvrer à la libération des otages enlevés par le Hamas.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Entre 2023 et 2025, des Israéliens s'y étaient rassemblés chaque samedi soir pour presser le gouvernement d'œuvrer à la libération des otages enlevés par le Hamas."
+    },
+    "published": "Wed, 12 Aug 2026 22:28:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      20,
+      28,
+      3,
+      2,
+      224,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-ville-israelienne-de-tel-aviv-baptise-place-des-otages-l-esplanade-des-manifestations-organisees-pour-la-liberation-des-captifs-a-gaza_8145335.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MWI4QQOx5B1K-fsYEQrqAcSCehk/0x0:1023x575/432x243/filters:format(jpg):quality(50)/2026/08/12/6a7cd63c0c334875617482.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-ville-israelienne-de-tel-aviv-baptise-place-des-otages-l-esplanade-des-manifestations-organisees-pour-la-liberation-des-captifs-a-gaza_8145335.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-ville-israelienne-de-tel-aviv-baptise-place-des-otages-l-esplanade-des-manifestations-organisees-pour-la-liberation-des-captifs-a-gaza_8145335.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

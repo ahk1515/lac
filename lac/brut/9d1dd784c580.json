@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-12T20:41:43.884714+00:00",
+  "_id": "9d1dd784c580",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : l’ONU a appelé la Russie à lever l’interdiction faite au seul parti antiguerre de participer aux élections législatives",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : l’ONU a appelé la Russie à lever l’interdiction faite au seul parti antiguerre de participer aux élections législatives"
+    },
+    "published": "Wed, 12 Aug 2026 20:00:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      18,
+      0,
+      7,
+      2,
+      224,
+      0
+    ],
+    "updated": "Wed, 12 Aug 2026 20:03:15 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      18,
+      3,
+      15,
+      2,
+      224,
+      0
+    ],
+    "summary": "La Cour suprême russe a interdit, mardi, au parti Iabloko de participer aux élections. Son chef, Nikolaï Rybakov, avait annoncé qu’il ferait appel de la décision. La plupart des opposants au président Vladimir Poutine sont emprisonnés, en exil ou morts, et Iabloko est le seul parti libéral encore en activité en Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Cour suprême russe a interdit, mardi, au parti Iabloko de participer aux élections. Son chef, Nikolaï Rybakov, avait annoncé qu’il ferait appel de la décision. La plupart des opposants au président Vladimir Poutine sont emprisonnés, en exil ou morts, et Iabloko est le seul parti libéral encore en activité en Russie."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-l-onu-a-appele-la-russie-a-lever-l-interdiction-faite-au-seul-parti-antiguerre-de-participer-aux-elections-legislatives_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-l-onu-a-appele-la-russie-a-lever-l-interdiction-faite-au-seul-parti-antiguerre-de-participer-aux-elections-legislatives_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-l-onu-a-appele-la-russie-a-lever-l-interdiction-faite-au-seul-parti-antiguerre-de-participer-aux-elections-legislatives_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/471/0/4645/2322/644/322/60/0/bf99cd7_ftp-1-zwnyg1mzexgo-2026-08-10t182129z-137277310-rc2tvmaw0yvj-rtrmadp-3-ukraine-crisis-russia-politics.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chef de Iabloko, Nikolaï Rybakov, auprès de soutiens après l’audience de la Cour suprême qui a interdit sa formation politique de participer aux élections législatives, le 10 août 2026, à Moscou."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Yulia Morozova / REUTERS"
+      }
+    ],
+    "credit": "Yulia Morozova / REUTERS"
+  }
+}
