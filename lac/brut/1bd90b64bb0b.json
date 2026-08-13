@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T16:54:59.662800+00:00",
+  "_id": "1bd90b64bb0b",
+  "brut": {
+    "title": "Soudan : Khartoum visée par des frappes de drones des paramilitaires pour le deuxième jour de suite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soudan : Khartoum visée par des frappes de drones des paramilitaires pour le deuxième jour de suite"
+    },
+    "published": "Thu, 13 Aug 2026 18:28:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      16,
+      28,
+      25,
+      3,
+      225,
+      0
+    ],
+    "summary": "Les paramilitaires des Forces de soutien rapide ont lancé mercredi une vaste attaque coordonnée de drones, visant la capitale et d’autres villes contrôlées par l’armée, distantes de plusieurs centaines de kilomètres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les paramilitaires des Forces de soutien rapide ont lancé mercredi une vaste attaque coordonnée de drones, visant la capitale et d’autres villes contrôlées par l’armée, distantes de plusieurs centaines de kilomètres."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/13/soudan-khartoum-visee-par-des-frappes-de-drones-des-paramilitaires-pour-le-deuxieme-jour-de-suite_6745824_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/13/soudan-khartoum-visee-par-des-frappes-de-drones-des-paramilitaires-pour-le-deuxieme-jour-de-suite_6745824_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/13/soudan-khartoum-visee-par-des-frappes-de-drones-des-paramilitaires-pour-le-deuxieme-jour-de-suite_6745824_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/900/0/6199/3099/644/322/60/0/671ecb8_ftp-1-wmi0ykc51hqq-47bd7875500f4606b311e015e8e533ea-0-958e024594ac46e69e7effe258d1ca9a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une mosquée touchée par une frappe de drone à Khartoum, le 12 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marwan Ali/AP Photo"
+      }
+    ],
+    "credit": "Marwan Ali/AP Photo"
+  }
+}

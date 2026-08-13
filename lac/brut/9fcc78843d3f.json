@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T16:54:59.903269+00:00",
+  "_id": "9fcc78843d3f",
+  "brut": {
+    "title": "Un Français condamné à vingt ans de prison au Mali a été gracié",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un Français condamné à vingt ans de prison au Mali a été gracié"
+    },
+    "summary": "Le Mali accusait l'homme arrêté de travailler pour le \"service de renseignement français\". Paris avait dénoncé des '\"accusations sans fondement\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Mali accusait l'homme arrêté de travailler pour le \"service de renseignement français\". Paris avait dénoncé des '\"accusations sans fondement\"."
+    },
+    "published": "Thu, 13 Aug 2026 18:02:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      16,
+      2,
+      36,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/mali/un-francais-condamne-a-20-ans-de-prison-au-mali-a-ete-gracie_8146412.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xyXB3gbKRG-f5yBVVA1BTFrlFHw/0x59:1024x635/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7de7cebc48e246443965.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/mali/un-francais-condamne-a-20-ans-de-prison-au-mali-a-ete-gracie_8146412.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/mali/un-francais-condamne-a-20-ans-de-prison-au-mali-a-ete-gracie_8146412.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
