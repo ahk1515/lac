@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T20:40:19.234293+00:00",
+  "_id": "7ff3a948b0e7",
+  "brut": {
+    "title": "En Macédoine du Nord, ils élèvent des pigeons pour lutter contre le stress",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Macédoine du Nord, ils élèvent des pigeons pour lutter contre le stress"
+    },
+    "summary": "En Macédoine du Nord, des habitants se rendent chaque jour dans des pigeonniers pour échapper au stress de la capitale. Ces lieux, où sont élevés des pigeons voyageurs, sont devenus des espaces de rencontre qui permettent de rompre avec la solitude et de perpétuer une tradition encore bien ancrée dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Macédoine du Nord, des habitants se rendent chaque jour dans des pigeonniers pour échapper au stress de la capitale. Ces lieux, où sont élevés des pigeons voyageurs, sont devenus des espaces de rencontre qui permettent de rompre avec la solitude et de perpétuer une tradition encore bien ancrée dans le pays."
+    },
+    "published": "Thu, 13 Aug 2026 20:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      18,
+      0,
+      1,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/en-macedoine-du-nord-ils-elevent-des-pigeons-pour-lutter-contre-le-stress_8146265.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QbQRVe6OCp-MpojKeXGXCT7U-_8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/13/6a7dd36a043f6067437540.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/en-macedoine-du-nord-ils-elevent-des-pigeons-pour-lutter-contre-le-stress_8146265.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/en-macedoine-du-nord-ils-elevent-des-pigeons-pour-lutter-contre-le-stress_8146265.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

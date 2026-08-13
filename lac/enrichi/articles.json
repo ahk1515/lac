@@ -12462,6 +12462,50 @@
     "pays": []
   },
   {
+    "date": "Thu, 13 Aug 2026 21:14:25 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "\"Certains sont en tongs ou en claquettes\" : l'imprudence des touristes face à l'éruption de l'Etna",
+    "texte": "Depuis plusieurs jours, l’Etna offre un spectacle impressionnant aux milliers de touristes venus observer ses coulées de lave. Mais l’affluence sur les pentes du volcan inquiète les guides, certains visiteurs s’approchant dangereusement des zones actives.",
+    "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/eruptions-volcaniques/certains-sont-en-tongs-ou-en-claquettes-l-imprudence-des-touristes-face-a-l-eruption-de-l-etna_8146631.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "9a55078b5505",
+    "pays": []
+  },
+  {
+    "date": "Thu, 13 Aug 2026 20:00:01 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "En Macédoine du Nord, ils élèvent des pigeons pour lutter contre le stress",
+    "texte": "En Macédoine du Nord, des habitants se rendent chaque jour dans des pigeonniers pour échapper au stress de la capitale. Ces lieux, où sont élevés des pigeons voyageurs, sont devenus des espaces de rencontre qui permettent de rompre avec la solitude et de perpétuer une tradition encore bien ancrée dans le pays.",
+    "url": "https://www.franceinfo.fr/monde/en-macedoine-du-nord-ils-elevent-des-pigeons-pour-lutter-contre-le-stress_8146265.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "7ff3a948b0e7",
+    "pays": []
+  },
+  {
+    "date": "Thu, 13 Aug 2026 19:35:01 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Moisissures, pénuries, toilettes inutilisables… Les conditions de vie à bord du porte-avions américain \"Abraham Lincoln\" font polémique",
+    "texte": "Plusieurs médias américains spécialisés révèlent des tentatives de suicides parmi l'équipage à bord pendant plusieurs mois, sans escale. Des élus démocrates se penchent sur le sujet et exigent des explications auprès du gouvernement.",
+    "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/moisissures-penuries-toilettes-inutilisables-les-conditions-de-vie-a-bord-du-porte-avions-americain-abraham-lincoln-font-polemique_8146469.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "aadc1a1ed1f9",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 13 Aug 2026 18:51:33 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Explosion dans une usine de munitions à 40 km de Rome",
+    "texte": "Une explosion s'est produite jeudi 13 août dans une usine de munitions à Colleferro en Italie, près de Rome, sans faire de victime. Le bâtiment appartient au groupe de défense franco-allemand KNDS.",
+    "url": "https://www.franceinfo.fr/monde/italie/explosion-dans-une-usine-de-munitions-a-40-km-de-rome_8146538.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "153a650b1571",
+    "pays": [
+      "DEU"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -29642,5 +29686,40 @@
     "pays": [
       "FRA"
     ]
+  },
+  {
+    "date": "Thu, 13 Aug 2026 21:12:58 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Harvard : un juge rejette la plainte de l’administration Trump concernant des manifestations anti-Israël",
+    "texte": "Le juge de Boston, Richard Stearns, a estimé que le gouvernement n’était pas parvenu à prouver que Harvard avait violé une disposition de la loi sur les droits civiques qui interdit la discrimination fondée sur la race, la nationalité et d’autres critères.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/13/harvard-un-juge-rejette-la-plainte-de-l-administration-trump-concernant-des-manifestations-anti-israel_6745838_3210.html",
+    "id": "8ce627e46ee6",
+    "pays": [
+      "ISR",
+      "USA"
+    ]
+  },
+  {
+    "date": "Thu, 13 Aug 2026 19:56:49 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Royaume-Uni : un train déraille près de Brighton, pas de blessés graves selon des médias",
+    "texte": "Sur des photos circulant sur les réseaux sociaux et diffusées par plusieurs médias, des personnes se trouvent debout sur les voitures renversées. La ministre des transports britannique, Heidi Alexander, a dit être « profondément inquiète ».",
+    "url": "https://www.lemonde.fr/international/article/2026/08/13/royaume-uni-un-train-deraille-pres-de-brighton-pas-de-blesses-graves-selon-des-medias_6745833_3210.html",
+    "id": "c275d8204bf9",
+    "pays": [
+      "GBR"
+    ]
+  },
+  {
+    "date": "Thu, 13 Aug 2026 19:48:46 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués",
+    "texte": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce.",
+    "url": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
+    "id": "b1b2c7b069de",
+    "pays": []
   }
 ]

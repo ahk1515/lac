@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T20:40:18.962909+00:00",
+  "_id": "b1b2c7b069de",
+  "brut": {
+    "title": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués"
+    },
+    "published": "Thu, 13 Aug 2026 19:48:46 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      17,
+      48,
+      46,
+      3,
+      225,
+      0
+    ],
+    "updated": "Thu, 13 Aug 2026 21:07:33 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      13,
+      19,
+      7,
+      33,
+      3,
+      225,
+      0
+    ],
+    "summary": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/564/0/4528/2264/644/322/60/0/db22120_ftp-1-cmpfvovf9kg2-2026-08-13t164130z-398985540-rc2rxmagi4v1-rtrmadp-3-europe-weather-greece-wildfire.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers près de la station balnéaire de Siviri (Grèce), le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alexandros Litsardakis/REUTERS"
+      }
+    ],
+    "credit": "Alexandros Litsardakis/REUTERS"
+  }
+}

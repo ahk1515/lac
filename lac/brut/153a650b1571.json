@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T20:40:19.234618+00:00",
+  "_id": "153a650b1571",
+  "brut": {
+    "title": "Explosion dans une usine de munitions à 40 km de Rome",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Explosion dans une usine de munitions à 40 km de Rome"
+    },
+    "summary": "Une explosion s'est produite jeudi 13 août dans une usine de munitions à Colleferro en Italie, près de Rome, sans faire de victime. Le bâtiment appartient au groupe de défense franco-allemand KNDS.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une explosion s'est produite jeudi 13 août dans une usine de munitions à Colleferro en Italie, près de Rome, sans faire de victime. Le bâtiment appartient au groupe de défense franco-allemand KNDS."
+    },
+    "published": "Thu, 13 Aug 2026 18:51:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      16,
+      51,
+      33,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/explosion-dans-une-usine-de-munitions-a-40-km-de-rome_8146538.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/pRzgQafdqYXj9aTIp_coQ9K-oS4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/13/6a7df59c29787071660981.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/explosion-dans-une-usine-de-munitions-a-40-km-de-rome_8146538.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/explosion-dans-une-usine-de-munitions-a-40-km-de-rome_8146538.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
