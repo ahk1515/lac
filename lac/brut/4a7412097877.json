@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T01:51:44.971688+00:00",
+  "_id": "4a7412097877",
+  "brut": {
+    "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle"
+    },
+    "published": "Thu, 13 Aug 2026 01:45:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      23,
+      45,
+      58,
+      2,
+      224,
+      0
+    ],
+    "updated": "Thu, 13 Aug 2026 02:45:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      13,
+      0,
+      45,
+      26,
+      3,
+      225,
+      0
+    ],
+    "summary": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/0/0/4057/2028/644/322/60/0/8027d7d_ftp-1-cf18bj49ri3s-2026-08-10t144731z-294802801-rc2qvmadl5re-rtrmadp-3-mideast-gulf-shipping-spill.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une image satellite montrant le navire endommagé, le « Caroline Bezengi », et la nappe de pétrole au large des îles Hallaniyat (Oman), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Pléiades/CNES 2026/Distribution Airbus DS via REUTERS"
+      }
+    ],
+    "credit": "Pléiades/CNES 2026/Distribution Airbus DS via REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T01:51:44.971436+00:00",
+  "_id": "73dec184c64b",
+  "brut": {
+    "title": "Boeing condamné à verser 29 millions de dollars à la famille d’une victime du crash en 2019 du 737 MAX",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Boeing condamné à verser 29 millions de dollars à la famille d’une victime du crash en 2019 du 737 MAX"
+    },
+    "published": "Thu, 13 Aug 2026 03:31:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      1,
+      31,
+      6,
+      3,
+      225,
+      0
+    ],
+    "updated": "Thu, 13 Aug 2026 03:32:06 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      13,
+      1,
+      32,
+      6,
+      3,
+      225,
+      0
+    ],
+    "summary": "Un jury américain a accordé cette indemnisation à la famille de Michael Ryan, ingénieur irlandais de l’ONU qui faisait partie des 157 personnes tuées dans l’accident du vol ET302 d’Ethiopian Airlines, le 10 mars 2019.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un jury américain a accordé cette indemnisation à la famille de Michael Ryan, ingénieur irlandais de l’ONU qui faisait partie des 157 personnes tuées dans l’accident du vol ET302 d’Ethiopian Airlines, le 10 mars 2019."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/13/boeing-condamne-a-verser-29-millions-de-dollars-a-la-famille-d-une-victime-du-crash-du-737-max-en-2019_6745301_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/13/boeing-condamne-a-verser-29-millions-de-dollars-a-la-famille-d-une-victime-du-crash-du-737-max-en-2019_6745301_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/13/boeing-condamne-a-verser-29-millions-de-dollars-a-la-famille-d-une-victime-du-crash-du-737-max-en-2019_6745301_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/0/0/7880/3940/644/322/60/0/573ee3a_ftp-1-ggrbq2808tme-5825666-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Naoise Connolly Ryan (à droite), dont le mari, Mick Ryan, est mort dans l’accident d’un Boeing 737 MAX, se tient aux côtés d’autres familles de victimes, à Washington, le 24 avril 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAUL LOEB/AFP"
+      }
+    ],
+    "credit": "SAUL LOEB/AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T01:51:44.971903+00:00",
+  "_id": "d8f4e5426403",
+  "brut": {
+    "title": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis"
+    },
+    "published": "Thu, 13 Aug 2026 00:41:37 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      12,
+      22,
+      41,
+      37,
+      2,
+      224,
+      0
+    ],
+    "updated": "Thu, 13 Aug 2026 01:02:00 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      12,
+      23,
+      2,
+      0,
+      2,
+      224,
+      0
+    ],
+    "summary": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12 août, permet à Washington d’accélérer sa lutte contre le trafic de drogue en Amérique latine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12 août, permet à Washington d’accélérer sa lutte contre le trafic de drogue en Amérique latine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/273/0/6192/3096/644/322/60/0/9b95f2a_upload-1-lnbllwemt1nq-000-b6u4767.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers colombiens lors d’une opération antidrogue, à Villagarzon (Colombie), le 11 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RAUL ARBOLEDA/AFP"
+      }
+    ],
+    "credit": "RAUL ARBOLEDA/AFP"
+  }
+}
