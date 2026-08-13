@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T13:06:19.363233+00:00",
+  "_id": "90637fd9f05d",
+  "brut": {
+    "title": "Vladimir Poutine se rend pour la première fois dans les îles Kouriles, revendiquées par le Japon, qui convoque l'ambassadeur de Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Vladimir Poutine se rend pour la première fois dans les îles Kouriles, revendiquées par le Japon, qui convoque l'ambassadeur de Russie"
+    },
+    "summary": "L'Union soviétique a pris possession de l'archipel volcanique, situé au nord de l'île japonaise d'Hokkaido, dans les derniers jours de la Seconde Guerre mondiale. Tokyo revendique toujours le contrôle de ces îles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Union soviétique a pris possession de l'archipel volcanique, situé au nord de l'île japonaise d'Hokkaido, dans les derniers jours de la Seconde Guerre mondiale. Tokyo revendique toujours le contrôle de ces îles."
+    },
+    "published": "Thu, 13 Aug 2026 12:35:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      10,
+      35,
+      27,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/vladimir-poutine-se-rend-pour-la-premiere-fois-dans-les-iles-kouriles-revendiquees-par-le-japon-qui-convoque-l-ambassadeur-de-russie_8146040.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/IskThlMGXWk2aQczZ9HJ9LZJ6So/0x5:1024x581/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d9cdea1ac2870691585.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/vladimir-poutine-se-rend-pour-la-premiere-fois-dans-les-iles-kouriles-revendiquees-par-le-japon-qui-convoque-l-ambassadeur-de-russie_8146040.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/vladimir-poutine-se-rend-pour-la-premiere-fois-dans-les-iles-kouriles-revendiquees-par-le-japon-qui-convoque-l-ambassadeur-de-russie_8146040.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

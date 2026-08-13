@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T13:06:19.023796+00:00",
+  "_id": "cd34992f9e8b",
+  "brut": {
+    "title": "Donald Trump poursuivi en justice par deux groupes de médias pour la mise en vente d’un accès prioritaire à ses publications sur Truth Social",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump poursuivi en justice par deux groupes de médias pour la mise en vente d’un accès prioritaire à ses publications sur Truth Social"
+    },
+    "published": "Thu, 13 Aug 2026 11:51:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      9,
+      51,
+      44,
+      3,
+      225,
+      0
+    ],
+    "summary": "Les abonnés à ce service payant sont censés avoir un accès quasi instantané aux messages du président américain sur sa plateforme, qu’il utilise pour faire des annonces politiques majeures, qui peuvent faire plonger ou s’envoler les marchés. Un dispositif « corrompu et inconstitutionnel », selon la plainte déposée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les abonnés à ce service payant sont censés avoir un accès quasi instantané aux messages du président américain sur sa plateforme, qu’il utilise pour faire des annonces politiques majeures, qui peuvent faire plonger ou s’envoler les marchés. Un dispositif « corrompu et inconstitutionnel », selon la plainte déposée."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/13/donald-trump-poursuivi-en-justice-par-deux-groupes-de-medias-pour-la-mise-en-vente-d-un-acces-prioritaire-a-ses-publications-sur-truth-social_6745787_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/13/donald-trump-poursuivi-en-justice-par-deux-groupes-de-medias-pour-la-mise-en-vente-d-un-acces-prioritaire-a-ses-publications-sur-truth-social_6745787_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/13/donald-trump-poursuivi-en-justice-par-deux-groupes-de-medias-pour-la-mise-en-vente-d-un-acces-prioritaire-a-ses-publications-sur-truth-social_6745787_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/01/29/85/0/1024/512/644/322/60/0/bd3b7b6_upload-1-dyw7qlzmc0le-020-2257184524.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une publication du président américain sur son réseau social, Truth Social, en janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Christopher Furlong/GETTY IMAGES EUROPE/Getty Images via AFP"
+      }
+    ],
+    "credit": "Christopher Furlong/GETTY IMAGES EUROPE/Getty Images via AFP"
+  }
+}

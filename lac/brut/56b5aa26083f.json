@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T13:06:19.024127+00:00",
+  "_id": "56b5aa26083f",
+  "brut": {
+    "title": "Eurovision 2027 : la ville de Bourgas, en Bulgarie, sélectionnée pour accueillir la 71ᵉ édition",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Eurovision 2027 : la ville de Bourgas, en Bulgarie, sélectionnée pour accueillir la 71ᵉ édition"
+    },
+    "published": "Thu, 13 Aug 2026 11:29:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      9,
+      29,
+      21,
+      3,
+      225,
+      0
+    ],
+    "updated": "Thu, 13 Aug 2026 11:54:44 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      13,
+      9,
+      54,
+      44,
+      3,
+      225,
+      0
+    ],
+    "summary": "Les demi-finales auront lieu les mardi 11 et jeudi 13 mai, et la finale aura lieu le samedi 15 mai 2027.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les demi-finales auront lieu les mardi 11 et jeudi 13 mai, et la finale aura lieu le samedi 15 mai 2027."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/08/13/eurovision-2027-la-ville-de-bourgas-en-bulgarie-selectionnee-pour-accueillir-la-71-edition_6745785_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/08/13/eurovision-2027-la-ville-de-bourgas-en-bulgarie-selectionnee-pour-accueillir-la-71-edition_6745785_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/08/13/eurovision-2027-la-ville-de-bourgas-en-bulgarie-selectionnee-pour-accueillir-la-71-edition_6745785_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/642/0/7705/3852/644/322/60/0/41628c2_ftp-1-tomhnhtxakjb-5822648-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le logo du Concours Eurovision de la chanson projeté avant la première demi-finale de la 70ᵉ édition à la Wiener Stadthalle de Vienne, en Autriche, le 12 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TOBIAS SCHWARZ/AFP"
+      }
+    ],
+    "credit": "TOBIAS SCHWARZ/AFP"
+  }
+}

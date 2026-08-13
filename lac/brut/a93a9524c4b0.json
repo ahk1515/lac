@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T13:06:19.023306+00:00",
+  "_id": "a93a9524c4b0",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque de drones contre une raffinerie de Gazprom, près de la frontière kazakhe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque de drones contre une raffinerie de Gazprom, près de la frontière kazakhe"
+    },
+    "published": "Thu, 13 Aug 2026 13:56:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      11,
+      56,
+      26,
+      3,
+      225,
+      0
+    ],
+    "updated": "Thu, 13 Aug 2026 14:09:13 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      13,
+      12,
+      9,
+      13,
+      3,
+      225,
+      0
+    ],
+    "summary": "« La raffinerie russe Neftekhim Salavat de Gazprom a été touchée », rapporte l’état-major ukrainien, jeudi. Ce complexe pétrochimique est situé dans la République du Bachkortostan, à 1 400 kilomètres de l’Ukraine. Selon les autorités locales, 21 drones composaient cette attaque contre Salavat et 16 d’entre eux ont été abattus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La raffinerie russe Neftekhim Salavat de Gazprom a été touchée », rapporte l’état-major ukrainien, jeudi. Ce complexe pétrochimique est situé dans la République du Bachkortostan, à 1 400 kilomètres de l’Ukraine. Selon les autorités locales, 21 drones composaient cette attaque contre Salavat et 16 d’entre eux ont été abattus."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-de-drones-sur-une-raffinerie-de-gazprom-pres-de-la-frontiere-kazakhe_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-de-drones-sur-une-raffinerie-de-gazprom-pres-de-la-frontiere-kazakhe_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-de-drones-sur-une-raffinerie-de-gazprom-pres-de-la-frontiere-kazakhe_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/623/0/7509/3754/644/322/60/0/cdcac38_ftp-1-vlgxodmhpcsf-2d23c1ce9cc1401ca851cafc8cca7146-2-b715389155184251864bb23b754f2186.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un militaire ukrainien et un drone de frappe Chaklun, utilisé pour des opérations de frappe en profondeur contre des positions russes, dans un lieu tenu secret en Ukraine, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP Photo"
+      }
+    ],
+    "credit": "Dan Bashakov/AP Photo"
+  }
+}
