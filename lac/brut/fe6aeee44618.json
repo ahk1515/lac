@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T09:10:32.066428+00:00",
+  "_id": "fe6aeee44618",
+  "brut": {
+    "title": "Aux Etats-Unis, la porte-parole de la Maison Blanche, Karoline Leavitt, quitte ses fonctions",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux Etats-Unis, la porte-parole de la Maison Blanche, Karoline Leavitt, quitte ses fonctions"
+    },
+    "summary": "Karoline Leavitt a annoncé son départ mercredi. Cette trumpiste convaincue a décidé de quitter ses fonctions pour se consacrer à sa famille.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Karoline Leavitt a annoncé son départ mercredi. Cette trumpiste convaincue a décidé de quitter ses fonctions pour se consacrer à sa famille."
+    },
+    "published": "Thu, 13 Aug 2026 10:01:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      8,
+      1,
+      34,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/la-porte-parole-de-la-maison-blanche-karoline-leavitt-quitte-ses-fonctions_8145836.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/d6UMyuWjG8GHAfQPPcLMOcYb6cw/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d798bf28b7660546025.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/la-porte-parole-de-la-maison-blanche-karoline-leavitt-quitte-ses-fonctions_8145836.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/la-porte-parole-de-la-maison-blanche-karoline-leavitt-quitte-ses-fonctions_8145836.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

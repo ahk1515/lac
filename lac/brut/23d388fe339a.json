@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-13T09:10:31.359154+00:00",
+  "_id": "23d388fe339a",
+  "brut": {
+    "title": "La Roumanie procède à l’arrêt complet de l’unique centrale nucléaire du pays à cause du faible débit du Danube",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Roumanie procède à l’arrêt complet de l’unique centrale nucléaire du pays à cause du faible débit du Danube"
+    },
+    "published": "Thu, 13 Aug 2026 10:29:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      8,
+      29,
+      55,
+      3,
+      225,
+      0
+    ],
+    "summary": "La mise à l’arrête complète de la centrale nucléaire de Cernavoda, qui fournit habituellement un cinquième de la production totale d’électricité du pays, constitue une première depuis la canicule de 2003.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mise à l’arrête complète de la centrale nucléaire de Cernavoda, qui fournit habituellement un cinquième de la production totale d’électricité du pays, constitue une première depuis la canicule de 2003."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/13/la-roumanie-procede-a-l-arret-complet-de-l-unique-centrale-nucleaire-du-pays-a-cause-du-faible-debit-du-danube_6745780_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/13/la-roumanie-procede-a-l-arret-complet-de-l-unique-centrale-nucleaire-du-pays-a-cause-du-faible-debit-du-danube_6745780_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/13/la-roumanie-procede-a-l-arret-complet-de-l-unique-centrale-nucleaire-du-pays-a-cause-du-faible-debit-du-danube_6745780_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/688/0/8256/4128/644/322/60/0/2babf9c_ftp-1-cm6ochw7z8nw-5828026-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La centrale nucléaire de Cernavoda (Roumanie), le 12 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DANIEL MIHAILESCU/AFP"
+      }
+    ],
+    "credit": "DANIEL MIHAILESCU/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T09:10:32.066917+00:00",
+  "_id": "d27b69106c43",
+  "brut": {
+    "title": "Près de 30 pays, dont la France, condamnent les exécutions en Iran, qui continuent sept mois après les manifestations de janvier",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 30 pays, dont la France, condamnent les exécutions en Iran, qui continuent sept mois après les manifestations de janvier"
+    },
+    "summary": "Alors que les exécutions judiciaires d'opposants continuent et se multiplient, ces derniers mois, une trentaine de pays ont signé un texte demandant au régime iranien de cesser immédiatement sa répression sanglante.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alors que les exécutions judiciaires d'opposants continuent et se multiplient, ces derniers mois, une trentaine de pays ont signé un texte demandant au régime iranien de cesser immédiatement sa répression sanglante."
+    },
+    "published": "Thu, 13 Aug 2026 08:47:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      6,
+      47,
+      55,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/pres-de-30-pays-dont-la-france-condamnent-les-executions-en-iran-qui-continuent-sept-mois-apres-les-manifestations-de-janvier_8070230.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/P8YV6Lko1DXa4uMXtH97viFedrU/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d65aa97f00832442073.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/pres-de-30-pays-dont-la-france-condamnent-les-executions-en-iran-qui-continuent-sept-mois-apres-les-manifestations-de-janvier_8070230.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/pres-de-30-pays-dont-la-france-condamnent-les-executions-en-iran-qui-continuent-sept-mois-apres-les-manifestations-de-janvier_8070230.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

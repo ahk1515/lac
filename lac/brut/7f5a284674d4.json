@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T09:10:32.067382+00:00",
+  "_id": "7f5a284674d4",
+  "brut": {
+    "title": "Eurozapping : des coffres-forts en Suisse pour les trésors des riches",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Eurozapping : des coffres-forts en Suisse pour les trésors des riches"
+    },
+    "summary": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du mercredi 12 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comme chaque soir, le JT du 23h fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du mercredi 12 août."
+    },
+    "published": "Thu, 13 Aug 2026 09:39:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      7,
+      39,
+      34,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/eurozapping-des-coffres-forts-en-suisse-pour-les-tresors-des-riches_8145725.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yjy3eSPNgoHzTGQeQCq6BYLrGkI/14x0:1332x741/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d63c94e786338909230.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/eurozapping-des-coffres-forts-en-suisse-pour-les-tresors-des-riches_8145725.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/eurozapping-des-coffres-forts-en-suisse-pour-les-tresors-des-riches_8145725.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

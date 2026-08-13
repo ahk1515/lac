@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T09:10:32.066112+00:00",
+  "_id": "25895c0a59ca",
+  "brut": {
+    "title": "Après le séisme en Colombie, le gouvernement critiqué pour son manque de réactivité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après le séisme en Colombie, le gouvernement critiqué pour son manque de réactivité"
+    },
+    "summary": "Abelardo de la Espriella, le nouveau président d'extrême droite, a d'abord refusé l'aide internationale, avant de revenir sur sa décision. Son gouvernement a déclaré l'état d'urgence économique, mais sans convaincre de son efficacité sur le terrain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Abelardo de la Espriella, le nouveau président d'extrême droite, a d'abord refusé l'aide internationale, avant de revenir sur sa décision. Son gouvernement a déclaré l'état d'urgence économique, mais sans convaincre de son efficacité sur le terrain."
+    },
+    "published": "Thu, 13 Aug 2026 10:32:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      8,
+      32,
+      14,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/apres-le-seisme-en-colombie-le-gouvernement-critique-pour-son-manque-de-reactivite_8145800.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RFvwolQ3Kb5vmAJa-OGDz0k4T78/0x494:4741x3161/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d7739a018d425940156.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/apres-le-seisme-en-colombie-le-gouvernement-critique-pour-son-manque-de-reactivite_8145800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/apres-le-seisme-en-colombie-le-gouvernement-critique-pour-son-manque-de-reactivite_8145800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

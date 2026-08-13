@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-13T09:10:32.065932+00:00",
+  "_id": "0a4012640cb3",
+  "brut": {
+    "title": "Pourquoi l'épidémie d'Ebola qui se répand en République démocratique du Congo est en passe de devenir la plus importante de l'histoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pourquoi l'épidémie d'Ebola qui se répand en République démocratique du Congo est en passe de devenir la plus importante de l'histoire"
+    },
+    "summary": "Le virus hautement mortel a déjà fait plus de 2 000 morts en deux mois, à cause notamment d'un rythme de transmission exceptionnel, relève l'OMS.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le virus hautement mortel a déjà fait plus de 2 000 morts en deux mois, à cause notamment d'un rythme de transmission exceptionnel, relève l'OMS."
+    },
+    "published": "Thu, 13 Aug 2026 11:02:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      13,
+      9,
+      2,
+      7,
+      3,
+      225,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/pourquoi-l-epidemie-d-ebola-qui-se-repand-en-republique-democratique-du-congo-est-en-passe-de-devenir-la-plus-importante-de-l-histoire_8145854.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YiKDsi4H6x9ALk1RhGomvl9-v8M/0x16:3000x1704/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d80fdb892c735731541.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/pourquoi-l-epidemie-d-ebola-qui-se-repand-en-republique-democratique-du-congo-est-en-passe-de-devenir-la-plus-importante-de-l-histoire_8145854.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/pourquoi-l-epidemie-d-ebola-qui-se-repand-en-republique-democratique-du-congo-est-en-passe-de-devenir-la-plus-importante-de-l-histoire_8145854.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
