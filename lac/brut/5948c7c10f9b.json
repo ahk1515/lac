@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T20:29:08.246820+00:00",
+  "_id": "5948c7c10f9b",
+  "brut": {
+    "title": "L’ICE, la police de l’immigration américaine, équipe ses agents de gants électriques, suscitant des inquiétudes sur de possibles abus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ICE, la police de l’immigration américaine, équipe ses agents de gants électriques, suscitant des inquiétudes sur de possibles abus"
+    },
+    "published": "Fri, 14 Aug 2026 19:44:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      17,
+      44,
+      38,
+      4,
+      226,
+      0
+    ],
+    "summary": "L’ICE, cette force de police fédérale chargée par le gouvernement de Donald Trump de mettre en place sa politique d’expulsion massive de sans-papiers, est devenue le symbole des dérives de cette politique vue comme particulièrement brutale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ICE, cette force de police fédérale chargée par le gouvernement de Donald Trump de mettre en place sa politique d’expulsion massive de sans-papiers, est devenue le symbole des dérives de cette politique vue comme particulièrement brutale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/14/l-ice-la-police-de-l-immigration-americaine-equipe-ses-agents-de-gants-electriques-suscitant-des-inquietudes-sur-de-possibles-abus_6746289_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/14/l-ice-la-police-de-l-immigration-americaine-equipe-ses-agents-de-gants-electriques-suscitant-des-inquietudes-sur-de-possibles-abus_6746289_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/14/l-ice-la-police-de-l-immigration-americaine-equipe-ses-agents-de-gants-electriques-suscitant-des-inquietudes-sur-de-possibles-abus_6746289_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/99/0/3000/1500/644/322/60/0/bbc8e90_ftp-1-0yscv7rapz5u-f0922b898c154942b05625c21403b569-0-6babd9d7d01b48908b877c7d79b6656e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un gant délivrant des décharges électriques, à Bardstown (Kentucky, Etats-Unis), le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dylan Lovan/AP Photo"
+      }
+    ],
+    "credit": "Dylan Lovan/AP Photo"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T20:29:08.246673+00:00",
+  "_id": "f6b525ee9ef9",
+  "brut": {
+    "title": "Donald Trump veut remettre en service les catapultes à vapeur sur les porte-avions",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump veut remettre en service les catapultes à vapeur sur les porte-avions"
+    },
+    "published": "Fri, 14 Aug 2026 20:40:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      18,
+      40,
+      18,
+      4,
+      226,
+      0
+    ],
+    "updated": "Fri, 14 Aug 2026 20:52:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      14,
+      18,
+      52,
+      26,
+      4,
+      226,
+      0
+    ],
+    "summary": "Cette décision du président américain peut potentiellement avoir des conséquences pour la France, dont le futur porte-avions « France-Libre », qui doit succéder en 2038 au « Charles-de-Gaulle », doit normalement être équipé de nouveaux systèmes de catapultages électromagnétiques de conception américaine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette décision du président américain peut potentiellement avoir des conséquences pour la France, dont le futur porte-avions « France-Libre », qui doit succéder en 2038 au « Charles-de-Gaulle », doit normalement être équipé de nouveaux systèmes de catapultages électromagnétiques de conception américaine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-veut-remettre-en-service-les-catapultes-a-vapeur-sur-les-porte-avions_6746290_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-veut-remettre-en-service-les-catapultes-a-vapeur-sur-les-porte-avions_6746290_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-veut-remettre-en-service-les-catapultes-a-vapeur-sur-les-porte-avions_6746290_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/160/0/6672/3336/644/322/60/0/489cad3_upload-1-xk5zvql22p35-000-14w4wq.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La piste de catapultage à vapeur du porte-avions « George-H.-W.-Bush », dans l’océan Atlantique, le 12 mai 2018."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ERIC BARADAT/AFP"
+      }
+    ],
+    "credit": "ERIC BARADAT/AFP"
+  }
+}

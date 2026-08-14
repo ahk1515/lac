@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T20:29:08.565130+00:00",
+  "_id": "1ca30ec23495",
+  "brut": {
+    "title": "Les datacenters d’Elon Musk accusés d’aggraver la pollution de l’air",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les datacenters d’Elon Musk accusés d’aggraver la pollution de l’air"
+    },
+    "summary": "Dans le Tennessee et le Mississippi, des riverains dénoncent les nuisances liées à Colossus, deux data centers d’Elon Musk. Mis en service entre 2024 et 2026, ces centres de données sont alimentés par des turbines à méthane, responsables de nuisances sonores et olfactives.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le Tennessee et le Mississippi, des riverains dénoncent les nuisances liées à Colossus, deux data centers d’Elon Musk. Mis en service entre 2024 et 2026, ces centres de données sont alimentés par des turbines à méthane, responsables de nuisances sonores et olfactives."
+    },
+    "published": "Fri, 14 Aug 2026 20:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      18,
+      0,
+      1,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/les-datacenters-d-elon-musk-accuses-d-aggraver-la-pollution-de-l-air_8147735.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/oiAU5kIpnSV7wkfVuYqiCuHXtWg/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/14/6a7f29b54f2ab640351033.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/les-datacenters-d-elon-musk-accuses-d-aggraver-la-pollution-de-l-air_8147735.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/les-datacenters-d-elon-musk-accuses-d-aggraver-la-pollution-de-l-air_8147735.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

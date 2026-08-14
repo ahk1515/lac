@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T20:29:08.246472+00:00",
+  "_id": "0999df4886fd",
+  "brut": {
+    "title": "Royaume-Uni : face à des incendies inédits et une sécheresse historique, le premier ministre appelle à « faire face au changement climatique »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Royaume-Uni : face à des incendies inédits et une sécheresse historique, le premier ministre appelle à « faire face au changement climatique »"
+    },
+    "published": "Fri, 14 Aug 2026 21:59:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      19,
+      59,
+      7,
+      4,
+      226,
+      0
+    ],
+    "summary": "A Stourbridge, 19 maisons ont été complètement détruites et 18 endommagées dans l’incendie. Des habitants ont été évacués et 54 personnes traitées pour inhalation de fumée, dont 16 ont été hospitalisées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Stourbridge, 19 maisons ont été complètement détruites et 18 endommagées dans l’incendie. Des habitants ont été évacués et 54 personnes traitées pour inhalation de fumée, dont 16 ont été hospitalisées."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/14/royaume-uni-face-a-des-incendies-inedits-et-une-secheresse-historique-le-premier-ministre-appelle-a-faire-face-au-changement-climatique_6746293_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/14/royaume-uni-face-a-des-incendies-inedits-et-une-secheresse-historique-le-premier-ministre-appelle-a-faire-face-au-changement-climatique_6746293_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/14/royaume-uni-face-a-des-incendies-inedits-et-une-secheresse-historique-le-premier-ministre-appelle-a-faire-face-au-changement-climatique_6746293_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/309/0/5000/2500/644/322/60/0/9122364_ftp-1-opanxzd5amsw-5837912-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre britannique, Andy Burnham, et les pompiers des West Midlands, à Stourbridge (Royaume-Uni), le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PETER BYRNE/AFP"
+      }
+    ],
+    "credit": "PETER BYRNE/AFP"
+  }
+}

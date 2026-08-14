@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T20:29:08.565244+00:00",
+  "_id": "0ed9d4d3e0b6",
+  "brut": {
+    "title": "Ce que l'on sait du siège mené par des colons israéliens à Qusra en Cisjordanie occupée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce que l'on sait du siège mené par des colons israéliens à Qusra en Cisjordanie occupée"
+    },
+    "summary": "Depuis le 9 août, des dizaines de colons israéliens ont bloqué l'accès à des maisons dans ce village situé au sud de Naplouse. Les habitants disent avoir été coupés de ce fait de tout approvisionnement en vivres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis le 9 août, des dizaines de colons israéliens ont bloqué l'accès à des maisons dans ce village situé au sud de Naplouse. Les habitants disent avoir été coupés de ce fait de tout approvisionnement en vivres."
+    },
+    "published": "Fri, 14 Aug 2026 19:43:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      17,
+      43,
+      19,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/guerre/ce-que-l-on-sait-du-siege-mene-par-des-colons-israeliens-a-qusra-en-cisjordanie-occupee_8147663.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/aSQA1Zvr0_8OF5m2ghpgcNDNceY/0x66:5541x3183/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f23d2b4f70351827772.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/ce-que-l-on-sait-du-siege-mene-par-des-colons-israeliens-a-qusra-en-cisjordanie-occupee_8147663.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/guerre/ce-que-l-on-sait-du-siege-mene-par-des-colons-israeliens-a-qusra-en-cisjordanie-occupee_8147663.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
