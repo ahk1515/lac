@@ -12506,6 +12506,19 @@
     ]
   },
   {
+    "date": "Thu, 13 Aug 2026 22:57:11 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "L'ambassadeur de France en Centrafrique visé par une procédure disciplinaire",
+    "texte": "L'ambassadeur de France en Centrafrique Bruno Foucher dans la tourmente. Selon une enquête du Canard enchaîné, le diplomate a invité plusieurs dizaines de jeunes femmes à l'ambassade, malgré un contexte sécuritaire tendu. #franceinfo",
+    "url": "https://www.franceinfo.fr/monde/afrique/centrafrique/l-ambassadeur-de-france-en-centrafrique-vise-par-une-procedure-disciplinaire_8146742.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "d919b228c36b",
+    "pays": [
+      "CAF",
+      "FRA"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -29721,5 +29734,54 @@
     "url": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
     "id": "b1b2c7b069de",
     "pays": []
+  },
+  {
+    "date": "Fri, 14 Aug 2026 03:43:40 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Les Etats-Unis et le Mexique mènent des exercices à leur frontière commune, là où opère le cartel de Juarez",
+    "texte": "L’opération conjointe intervient quelques semaines après que Washington a inscrit le cartel de Juárez sur sa liste des « organisations terroristes étrangères », lui interdisant notamment l’accès au système financier américain.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/14/les-etats-unis-et-le-mexique-menent-des-exercices-a-leur-frontiere-commune-la-ou-opere-le-cartel-de-juarez_6745939_3210.html",
+    "id": "e7dbb3a1dd63",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Fri, 14 Aug 2026 01:12:59 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Donald Trump impose 100 % de droits de douane sur certains drones pour contrer les importations chinoises",
+    "texte": "Selon la Maison Blanche, le but est d’« encourager la production » de drones aux Etats-Unis, de « réduire la dépendance » à des fournisseurs étrangers et de protéger la sécurité nationale du pays.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-impose-100-de-droits-de-douane-sur-certains-drones-pour-contrer-les-importations-chinoises_6745906_3210.html",
+    "id": "3f265fc375fb",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Fri, 14 Aug 2026 00:49:12 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Les Emirats arabes unis accusent l’Iran d’avoir attaqué deux navires dans le détroit d’Ormuz",
+    "texte": "Abou Dhabi a dénoncé des « actes de piraterie » commis par les gardiens de la révolution iraniens, après cette attaque qui aurait eu lieu jeudi 13 août au soir, selon l’agence de presse officielle ​WAM.",
+    "url": "https://www.lemonde.fr/international/article/2026/08/14/les-emirats-arabes-unis-accusent-l-iran-d-avoir-attaque-deux-navires-dans-le-detroit-d-ormuz_6745873_3210.html",
+    "id": "3782db774741",
+    "pays": [
+      "IRN"
+    ]
+  },
+  {
+    "date": "Thu, 13 Aug 2026 23:48:35 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass",
+    "texte": "Le chef de l’administration militaire de l’oblast de Donetsk, Vadym Filachkine, a appelé les habitants locaux à « évacuer vers des régions d’Ukraine plus sûres » Par ailleurs, une femme de 25 ans et un enfant de 5 ans ont été blessés à la suite d’une frappe russe dans l’oblast de Zaporijia.",
+    "url": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-une-frappe-russe-fait-deux-blesses-dans-la-region-de-zaporijia-selon-l-administration-militaire-locale_6741928_3210.html",
+    "id": "e85388e2542b",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
   }
 ]
