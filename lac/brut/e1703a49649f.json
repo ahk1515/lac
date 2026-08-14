@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T05:36:41.550085+00:00",
+  "_id": "e1703a49649f",
+  "brut": {
+    "title": "Au Japon, des pluies diluviennes font au moins quatre morts à l’est de Tokyo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Japon, des pluies diluviennes font au moins quatre morts à l’est de Tokyo"
+    },
+    "published": "Fri, 14 Aug 2026 05:47:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      3,
+      47,
+      24,
+      4,
+      226,
+      0
+    ],
+    "updated": "Fri, 14 Aug 2026 07:17:30 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      14,
+      5,
+      17,
+      30,
+      4,
+      226,
+      0
+    ],
+    "summary": "Les précipitations ont fortement perturbé les réseaux routier et ferroviaire et bloqué des milliers de personnes à l’aéroport international de Narita, qui dessert la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les précipitations ont fortement perturbé les réseaux routier et ferroviaire et bloqué des milliers de personnes à l’aéroport international de Narita, qui dessert la capitale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/14/au-japon-des-pluies-diluviennes-font-au-moins-quatre-morts-a-l-est-de-tokyo_6746142_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/14/au-japon-des-pluies-diluviennes-font-au-moins-quatre-morts-a-l-est-de-tokyo_6746142_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/14/au-japon-des-pluies-diluviennes-font-au-moins-quatre-morts-a-l-est-de-tokyo_6746142_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/0/0/3968/1984/644/322/60/0/40f9f3d_ftp-1-d5lansrzarwu-2026-08-14t021557z-473896234-rc21ymawiuu0-rtrmadp-3-asia-weather-japan-rain.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Oamishirasato, dans le département de Chiba, au Japon, le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KYODO via REUTERS"
+      }
+    ],
+    "credit": "KYODO via REUTERS"
+  }
+}

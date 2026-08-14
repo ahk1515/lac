@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T05:36:41.550726+00:00",
+  "_id": "b77a6da8cb11",
+  "brut": {
+    "title": "Au Chili, le destin contrarié de la maison de l’ancien président Salvador Allende",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Chili, le destin contrarié de la maison de l’ancien président Salvador Allende"
+    },
+    "published": "Fri, 14 Aug 2026 05:15:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      3,
+      15,
+      12,
+      4,
+      226,
+      0
+    ],
+    "summary": "L’ex-président chilien Gabriel Boric avait voulu en faire un musée et un lieu de mémoire. La demeure de son prédécesseur, qui s’est donné la mort lors du coup d’Etat du général Pinochet, en 1973, a finalement été rachetée par une entreprise privée à l’étroit dans ses bureaux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ex-président chilien Gabriel Boric avait voulu en faire un musée et un lieu de mémoire. La demeure de son prédécesseur, qui s’est donné la mort lors du coup d’Etat du général Pinochet, en 1973, a finalement été rachetée par une entreprise privée à l’étroit dans ses bureaux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/14/au-chili-le-destin-contrarie-de-la-maison-de-l-ancien-president-salvador-allende_6746039_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/14/au-chili-le-destin-contrarie-de-la-maison-de-l-ancien-president-salvador-allende_6746039_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/14/au-chili-le-destin-contrarie-de-la-maison-de-l-ancien-president-salvador-allende_6746039_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/1176/0/7058/3529/644/322/60/0/d18f8b1_upload-1-uzsfk1iqz8fs-000-399t99x.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant la maison de l’ancien président chilien Salvador Allende (1970-1973) à Santiago, le 5 avril 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RODRIGO ARANGUA/AFP"
+      }
+    ],
+    "credit": "RODRIGO ARANGUA/AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T05:36:41.549898+00:00",
+  "_id": "f6215d2168db",
+  "brut": {
+    "title": "Mahmoud Darwich et Tamar Ben Ami, l’amour impossible du poète palestinien et de la danseuse israélienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mahmoud Darwich et Tamar Ben Ami, l’amour impossible du poète palestinien et de la danseuse israélienne"
+    },
+    "published": "Fri, 14 Aug 2026 06:00:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      4,
+      0,
+      11,
+      4,
+      226,
+      0
+    ],
+    "summary": "Au début des années 1960, à Haïfa, en Israël, le jeune poète palestinien Mahmoud Darwich s’éprend de Tamar Ben Ami, une danseuse juive israélienne. Entre eux, l’idylle est aussi intense que brève. De cet amour empêché, l’écrivain tirera un poème poignant, « Rita et le fusil », encore chanté dans tout le monde arabe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au début des années 1960, à Haïfa, en Israël, le jeune poète palestinien Mahmoud Darwich s’éprend de Tamar Ben Ami, une danseuse juive israélienne. Entre eux, l’idylle est aussi intense que brève. De cet amour empêché, l’écrivain tirera un poème poignant, « Rita et le fusil », encore chanté dans tout le monde arabe."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/08/14/mahmoud-darwich-et-tamar-ben-ami-l-amour-impossible-du-poete-palestinien-et-de-la-danseuse-israelienne_6746144_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/08/14/mahmoud-darwich-et-tamar-ben-ami-l-amour-impossible-du-poete-palestinien-et-de-la-danseuse-israelienne_6746144_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/08/14/mahmoud-darwich-et-tamar-ben-ami-l-amour-impossible-du-poete-palestinien-et-de-la-danseuse-israelienne_6746144_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/265/0/1500/750/644/322/60/0/d3eca50_ftp-1-shn7k00e3sib-438189-3489227.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mahmoud Darwich et Tamar Ben Ami à Haïfa (Israël), vers 1963. Cette photo provient des archives personnelles de Tamar Ben Ami. Elle les a confiées à Ibtisam Mara’ana, réalisatrice du documentaire « Write Down, I Am an Arab » (2014), consacré au poète palestinien."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tamar Ben Ami Archives"
+      }
+    ],
+    "credit": "Tamar Ben Ami Archives"
+  }
+}

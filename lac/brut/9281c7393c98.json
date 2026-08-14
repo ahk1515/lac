@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T05:36:41.551077+00:00",
+  "_id": "9281c7393c98",
+  "brut": {
+    "title": "Aux Etats-Unis, trois condamnés à mort exécutés dans la même journée dans trois Etats différents",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, trois condamnés à mort exécutés dans la même journée dans trois Etats différents"
+    },
+    "published": "Fri, 14 Aug 2026 04:10:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      2,
+      10,
+      2,
+      4,
+      226,
+      0
+    ],
+    "updated": "Fri, 14 Aug 2026 06:12:47 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      14,
+      4,
+      12,
+      47,
+      4,
+      226,
+      0
+    ],
+    "summary": "Le fait que ces trois injections létales aient eu lieu le même jour est une coïncidence mais cela reflète le rythme soutenu des exécutions aux États-Unis où, depuis le début de l’année, 22 condamnés à mort ont subi la peine capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le fait que ces trois injections létales aient eu lieu le même jour est une coïncidence mais cela reflète le rythme soutenu des exécutions aux États-Unis où, depuis le début de l’année, 22 condamnés à mort ont subi la peine capitale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/14/aux-etats-unis-trois-condamnes-a-mort-executes-dans-la-meme-journee-dans-trois-etats-differents_6745972_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/14/aux-etats-unis-trois-condamnes-a-mort-executes-dans-la-meme-journee-dans-trois-etats-differents_6745972_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/14/aux-etats-unis-trois-condamnes-a-mort-executes-dans-la-meme-journee-dans-trois-etats-differents_6745972_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/822/0/4935/2467/644/322/60/0/aa464d7_ftp-1-esx80ul7a9gp-e5506ae230294fd2975cd654fc2f6309-0-0638189cefcf4947b432a56d0b4bc8cf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes se tiennent dans une zone réservée aux opposants à la peine de mort, devant l’établissement pénitentiaire de haute sécurité de Riverbend, à Nashville (Tennessee), avant l’exécution d’Anthony Hines, le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mark Humphrey/AP"
+      }
+    ],
+    "credit": "Mark Humphrey/AP"
+  }
+}
