@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T13:02:32.555784+00:00",
+  "_id": "b26c2d5efc0f",
+  "brut": {
+    "title": "En Italie, une explosion ravage une usine de munitions non loin de Rome, sans faire de victime",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, une explosion ravage une usine de munitions non loin de Rome, sans faire de victime"
+    },
+    "summary": "\"Les circonstances entourant l'incident font actuellement l'objet d'une enquête et d'une évaluation par les équipes sur place\", a déclaré le propriétaire de l'édifice, le groupe de défense allemand KNDS.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Les circonstances entourant l'incident font actuellement l'objet d'une enquête et d'une évaluation par les équipes sur place\", a déclaré le propriétaire de l'édifice, le groupe de défense allemand KNDS."
+    },
+    "published": "Fri, 14 Aug 2026 13:14:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      11,
+      14,
+      16,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/une-explosion-ravage-une-usine-de-munitions-non-loin-de-rome-sans-faire-de-victime_8147477.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TTRse3oYUn7vhbLR-iWl7Ui1ZZs/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ef86acbd42890827516.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/une-explosion-ravage-une-usine-de-munitions-non-loin-de-rome-sans-faire-de-victime_8147477.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/une-explosion-ravage-une-usine-de-munitions-non-loin-de-rome-sans-faire-de-victime_8147477.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
