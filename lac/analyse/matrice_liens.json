@@ -2,22 +2,22 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 228
+    "co_citations": 231
   },
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 227
+    "co_citations": 228
   },
   {
     "pays_a": "ISR",
     "pays_b": "USA",
-    "co_citations": 68
+    "co_citations": 69
   },
   {
     "pays_a": "FRA",
     "pays_b": "RUS",
-    "co_citations": 46
+    "co_citations": 47
   },
   {
     "pays_a": "IRN",
@@ -50,14 +50,14 @@
     "co_citations": 27
   },
   {
-    "pays_a": "CHN",
+    "pays_a": "RUS",
     "pays_b": "USA",
     "co_citations": 24
   },
   {
-    "pays_a": "RUS",
+    "pays_a": "CHN",
     "pays_b": "USA",
-    "co_citations": 22
+    "co_citations": 24
   },
   {
     "pays_a": "FRA",
@@ -105,6 +105,11 @@
     "co_citations": 9
   },
   {
+    "pays_a": "JPN",
+    "pays_b": "USA",
+    "co_citations": 8
+  },
+  {
     "pays_a": "FRA",
     "pays_b": "ISR",
     "co_citations": 8
@@ -117,6 +122,11 @@
   {
     "pays_a": "BRA",
     "pays_b": "USA",
+    "co_citations": 8
+  },
+  {
+    "pays_a": "JPN",
+    "pays_b": "RUS",
     "co_citations": 8
   },
   {
@@ -145,18 +155,8 @@
     "co_citations": 7
   },
   {
-    "pays_a": "JPN",
-    "pays_b": "USA",
-    "co_citations": 6
-  },
-  {
     "pays_a": "GBR",
     "pays_b": "ISR",
-    "co_citations": 6
-  },
-  {
-    "pays_a": "JPN",
-    "pays_b": "RUS",
     "co_citations": 6
   },
   {

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T09:05:45.521362+00:00",
+  "_id": "8cce4cf565f0",
+  "brut": {
+    "title": "Des avions de l’OTAN ont abattu un drone dans l’espace aérien de la Lettonie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des avions de l’OTAN ont abattu un drone dans l’espace aérien de la Lettonie"
+    },
+    "published": "Fri, 14 Aug 2026 10:30:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      8,
+      30,
+      31,
+      4,
+      226,
+      0
+    ],
+    "summary": "Les Etats baltes, frontaliers de la Russie, dont la Lettonie, enregistrent un nombre croissant d’intrusions et de chutes de drones sur leurs territoires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats baltes, frontaliers de la Russie, dont la Lettonie, enregistrent un nombre croissant d’intrusions et de chutes de drones sur leurs territoires."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/14/des-avions-de-l-otan-ont-abattu-un-drone-dans-l-espace-aerien-de-la-lettonie_6746232_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/14/des-avions-de-l-otan-ont-abattu-un-drone-dans-l-espace-aerien-de-la-lettonie_6746232_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/14/des-avions-de-l-otan-ont-abattu-un-drone-dans-l-espace-aerien-de-la-lettonie_6746232_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/04/14/468/0/5616/2808/644/322/60/0/7cb3be2_ftp-1-nyigvkwdgvmx-2026-04-14t095639z-388327168-rc2sokarp8ia-rtrmadp-3-ukraine-crisis-nato-baltic-air-policing.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un rafale de la mission Baltic Air Policing de l’OTAN, sur la base aérienne de Lielvarde (Lettonie), le 14 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ints Kalnins/REUTERS"
+      }
+    ],
+    "credit": "Ints Kalnins/REUTERS"
+  }
+}

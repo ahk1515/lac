@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T09:05:45.715536+00:00",
+  "_id": "ac8895ee4ab7",
+  "brut": {
+    "title": "Interview de Jean-Antoine Duprat, géopolitologue",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Interview de Jean-Antoine Duprat, géopolitologue"
+    },
+    "summary": "Dans un contexte de regain de tensions sur le front ukrainien, le géopolitologue, Jean-Antoine Duprat décrypte la tactique de Vladimir Poutine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans un contexte de regain de tensions sur le front ukrainien, le géopolitologue, Jean-Antoine Duprat décrypte la tactique de Vladimir Poutine."
+    },
+    "published": "Fri, 14 Aug 2026 09:06:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      7,
+      6,
+      48,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/interview-de-jean-antoine-duprat-geopolitologue_8147147.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HZ3nHOQVEjDniuvDITNzx_7wz5U/48x0:1487x809/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ebe4be9361811211646.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/interview-de-jean-antoine-duprat-geopolitologue_8147147.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/interview-de-jean-antoine-duprat-geopolitologue_8147147.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

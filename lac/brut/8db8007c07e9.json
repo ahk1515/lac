@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T09:05:45.522017+00:00",
+  "_id": "8db8007c07e9",
+  "brut": {
+    "title": "VIDEO Japon : les images des inondations mortelles et « sans précédent » à l’est de Tokyo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Japon : les images des inondations mortelles et « sans précédent » à l’est de Tokyo"
+    },
+    "published": "Fri, 14 Aug 2026 09:49:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      7,
+      49,
+      13,
+      4,
+      226,
+      0
+    ],
+    "summary": "Les précipitations ont fortement perturbé les réseaux routier et ferroviaire et bloqué des milliers de personnes à l’aéroport international de Narita, l’un des deux aéroports de la capitale japonaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les précipitations ont fortement perturbé les réseaux routier et ferroviaire et bloqué des milliers de personnes à l’aéroport international de Narita, l’un des deux aéroports de la capitale japonaise."
+    },
+    "id": "https://www.lemonde.fr/planete/video/2026/08/14/japon-les-images-des-inondations-mortelles-et-sans-precedent-a-l-est-de-tokyo_6746224_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/video/2026/08/14/japon-les-images-des-inondations-mortelles-et-sans-precedent-a-l-est-de-tokyo_6746224_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/video/2026/08/14/japon-les-images-des-inondations-mortelles-et-sans-precedent-a-l-est-de-tokyo_6746224_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/305/0/3660/1830/644/322/60/0/701a21f_ftp-1-7c2hi8w7c03o-5836375-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILIP FONG / AFP"
+      }
+    ],
+    "credit": "PHILIP FONG / AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T09:05:45.715666+00:00",
+  "_id": "687395bc982a",
+  "brut": {
+    "title": "La Russie a bombardé des trains civils ukrainiens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie a bombardé des trains civils ukrainiens"
+    },
+    "summary": "Avec plus de 430 civils tués et plus de 2000 blessés, le mois de juillet 2026 est l'un des plus meurtriers pour l'Ukraine depuis le début de l'invasion russe. Deux cheminots ont été tués ce jeudi 13 août dans une attaque dans la région d'Odessa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avec plus de 430 civils tués et plus de 2000 blessés, le mois de juillet 2026 est l'un des plus meurtriers pour l'Ukraine depuis le début de l'invasion russe. Deux cheminots ont été tués ce jeudi 13 août dans une attaque dans la région d'Odessa."
+    },
+    "published": "Fri, 14 Aug 2026 09:07:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      7,
+      7,
+      2,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-a-bombarde-des-trains-civils-ukrainiens_8147138.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zRJWvpS_-0CvTrJpXn75E53ULis/32x0:1504x828/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7eb9cd767d3531185527.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-a-bombarde-des-trains-civils-ukrainiens_8147138.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-a-bombarde-des-trains-civils-ukrainiens_8147138.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

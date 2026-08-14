@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T09:05:45.521861+00:00",
+  "_id": "2167b386c0d4",
+  "brut": {
+    "title": "L’Espagne prolonge la durée d’exploitation de la centrale nucléaire d’Almaraz, la plus grande du pays, jusqu’en 2030",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Espagne prolonge la durée d’exploitation de la centrale nucléaire d’Almaraz, la plus grande du pays, jusqu’en 2030"
+    },
+    "published": "Fri, 14 Aug 2026 10:03:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      8,
+      3,
+      11,
+      4,
+      226,
+      0
+    ],
+    "summary": "Aujourd’hui, l’Espagne dispose de cinq centrales nucléaires, dotées de sept réacteurs et représentant 19 % de son mix électrique en 2025. Celle d’Almaraz représentait l’an passé 7 % de la production d’électricité outre-Pyrénées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aujourd’hui, l’Espagne dispose de cinq centrales nucléaires, dotées de sept réacteurs et représentant 19 % de son mix électrique en 2025. Celle d’Almaraz représentait l’an passé 7 % de la production d’électricité outre-Pyrénées."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/14/l-espagne-prolonge-la-duree-d-exploitation-de-la-centrale-nucleaire-d-almaraz-la-plus-grande-du-pays-jusqu-en-2030_6746227_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/14/l-espagne-prolonge-la-duree-d-exploitation-de-la-centrale-nucleaire-d-almaraz-la-plus-grande-du-pays-jusqu-en-2030_6746227_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/14/l-espagne-prolonge-la-duree-d-exploitation-de-la-centrale-nucleaire-d-almaraz-la-plus-grande-du-pays-jusqu-en-2030_6746227_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/472/0/5847/2923/644/322/60/0/8a99714_upload-1-isdh3i0alyxt-000-a9kn2nw.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La salle de contrôle principale de la station nucléaire d’Almaraz (Espagne), le 23 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OSCAR DEL POZO/AFP"
+      }
+    ],
+    "credit": "OSCAR DEL POZO/AFP"
+  }
+}

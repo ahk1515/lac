@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T09:05:45.521067+00:00",
+  "_id": "39108d4d5e75",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens provoque un incendie dans le port russe d’Oust-Louga, plaque tournante pour les exportations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens provoque un incendie dans le port russe d’Oust-Louga, plaque tournante pour les exportations"
+    },
+    "published": "Fri, 14 Aug 2026 11:02:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      9,
+      2,
+      43,
+      4,
+      226,
+      0
+    ],
+    "summary": "Cinquante-quatre ont été abattus au-dessus de l’oblast de Leningrad, dans laquelle se situe Oust-Louga qui borde la mer Baltique, pendant la nuit, a déclaré le gouverneur régional, ajoutant qu’il n’y avait pas de victime. Le port abrite également une importante raffinerie détenue par le gazier russe Novatek et a été la cible de plusieurs attaques ukrainiennes, dont la plus récente remonte au début du mois de juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cinquante-quatre ont été abattus au-dessus de l’oblast de Leningrad, dans laquelle se situe Oust-Louga qui borde la mer Baltique, pendant la nuit, a déclaré le gouverneur régional, ajoutant qu’il n’y avait pas de victime. Le port abrite également une importante raffinerie détenue par le gazier russe Novatek et a été la cible de plusieurs attaques ukrainiennes, dont la plus récente remonte au début du mois de juillet."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-provoque-un-incendie-dans-le-port-russe-d-oust-louga-plaque-tournante-pour-les-exportations_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-provoque-un-incendie-dans-le-port-russe-d-oust-louga-plaque-tournante-pour-les-exportations_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-provoque-un-incendie-dans-le-port-russe-d-oust-louga-plaque-tournante-pour-les-exportations_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/444/0/6000/3000/644/322/60/0/433a94b_ftp-1-jaox7nhpqput-80a82ab6ed904e33800842b7811fcfce-3-0f7b1f4e29b54f6e89564e68bc842e2a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un drone de frappe Chaklun, utilisé pour des opérations de frappe en profondeur contre des positions russes, dans un lieu tenu secret en Ukraine, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP Photo"
+      }
+    ],
+    "credit": "Dan Bashakov/AP Photo"
+  }
+}

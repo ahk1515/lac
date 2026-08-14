@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T09:05:45.715102+00:00",
+  "_id": "7b47186e677a",
+  "brut": {
+    "title": "La pollution à l'ozone accentuée par la canicule",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La pollution à l'ozone accentuée par la canicule"
+    },
+    "summary": "Corrosif pour les yeux, le nez et les voies respiratoires, l'ozone est un gaz à surveiller. Or ces dernières semaines, il a régulièrement dépassé les seuils de recommandation sous l'effet des vagues de chaleur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Corrosif pour les yeux, le nez et les voies respiratoires, l'ozone est un gaz à surveiller. Or ces dernières semaines, il a régulièrement dépassé les seuils de recommandation sous l'effet des vagues de chaleur."
+    },
+    "published": "Fri, 14 Aug 2026 10:39:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      8,
+      39,
+      30,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/la-pollution-a-l-ozone-accentuee-par-la-canicule_8147207.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GITbHdq1qm1H-r1t3ZYvtCPDK9k/0x250:4800x2950/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7ecf3310cd1856994567.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/la-pollution-a-l-ozone-accentuee-par-la-canicule_8147207.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/la-pollution-a-l-ozone-accentuee-par-la-canicule_8147207.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

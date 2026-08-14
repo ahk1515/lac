@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T09:05:45.521536+00:00",
+  "_id": "fede1aabe808",
+  "brut": {
+    "title": "Pour lutter contre Ebola, la réponse internationale prise de vitesse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour lutter contre Ebola, la réponse internationale prise de vitesse"
+    },
+    "published": "Fri, 14 Aug 2026 10:30:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      8,
+      30,
+      6,
+      4,
+      226,
+      0
+    ],
+    "summary": "Depuis l’épidémie ouest-africaine de 2014-2016 et celle de Covid-19 en 2020, la « préparation aux pandémies » est devenue un mot d’ordre international. Cela n’a pas empêché de nouvelles failles d’apparaître à l’occasion de cette nouvelle crise. L’argent, même lorsqu’il est disponible, arrive souvent trop tard.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis l’épidémie ouest-africaine de 2014-2016 et celle de Covid-19 en 2020, la « préparation aux pandémies » est devenue un mot d’ordre international. Cela n’a pas empêché de nouvelles failles d’apparaître à l’occasion de cette nouvelle crise. L’argent, même lorsqu’il est disponible, arrive souvent trop tard."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/08/14/pour-lutter-contre-ebola-la-reponse-internationale-prise-de-vitesse_6746231_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/08/14/pour-lutter-contre-ebola-la-reponse-internationale-prise-de-vitesse_6746231_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/08/14/pour-lutter-contre-ebola-la-reponse-internationale-prise-de-vitesse_6746231_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/688/0/8256/4128/644/322/60/0/aadd6ce_ftp-1-3hpct7nvdq2s-9d9d9801489b4d87907a7f539f83fdf6-3-f93bdce5db7b4cd5befbc571ae85a75f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soignants s’occupent d’un patient atteint par le virus Ebola, au centre de traitement de Rwampara, à Ituri (Congo), le 18 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Moses Sawasawa/AP Photo"
+      }
+    ],
+    "credit": "Moses Sawasawa/AP Photo"
+  }
+}
