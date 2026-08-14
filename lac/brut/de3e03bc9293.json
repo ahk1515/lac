@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T16:50:48.650096+00:00",
+  "_id": "de3e03bc9293",
+  "brut": {
+    "title": "Donald Trump porte comme prévu l’affaire de sa salle de bal devant la Cour suprême",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump porte comme prévu l’affaire de sa salle de bal devant la Cour suprême"
+    },
+    "published": "Fri, 14 Aug 2026 17:28:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      15,
+      28,
+      5,
+      4,
+      226,
+      0
+    ],
+    "updated": "Fri, 14 Aug 2026 17:54:02 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      14,
+      15,
+      54,
+      2,
+      4,
+      226,
+      0
+    ],
+    "summary": "L’administration Trump a demandé vendredi à la Cour suprême américaine d’autoriser la reprise des travaux de la nouvelle salle de bal de la Maison Blanche, suspendus par une cour d’appel fédérale qui estime que le président aurait dû obtenir l’aval du Congrès.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’administration Trump a demandé vendredi à la Cour suprême américaine d’autoriser la reprise des travaux de la nouvelle salle de bal de la Maison Blanche, suspendus par une cour d’appel fédérale qui estime que le président aurait dû obtenir l’aval du Congrès."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-porte-comme-prevu-l-affaire-de-sa-salle-de-bal-devant-la-cour-supreme_6746275_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-porte-comme-prevu-l-affaire-de-sa-salle-de-bal-devant-la-cour-supreme_6746275_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-porte-comme-prevu-l-affaire-de-sa-salle-de-bal-devant-la-cour-supreme_6746275_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/137/0/5221/2610/644/322/60/0/fb81bab_upload-1-6fnz2koleihi-063-2289313258.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les travaux de construction d’un nouvel héliport et de la salle de bal de l’aile est se poursuivent à Washington, le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREW HARNIK/Getty Images via AFP"
+      }
+    ],
+    "credit": "ANDREW HARNIK/Getty Images via AFP"
+  }
+}

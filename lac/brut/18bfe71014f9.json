@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T16:50:49.338083+00:00",
+  "_id": "18bfe71014f9",
+  "brut": {
+    "title": "L'Etna en éruption attire les touristes malgré les risques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Etna en éruption attire les touristes malgré les risques"
+    },
+    "summary": "Depuis plusieurs jours, l’Etna offre un spectacle impressionnant aux milliers de touristes venus observer ses coulées de lave. Mais l’affluence sur les pentes du volcan inquiète les guides, certains visiteurs s’approchant dangereusement des zones actives.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis plusieurs jours, l’Etna offre un spectacle impressionnant aux milliers de touristes venus observer ses coulées de lave. Mais l’affluence sur les pentes du volcan inquiète les guides, certains visiteurs s’approchant dangereusement des zones actives."
+    },
+    "published": "Fri, 14 Aug 2026 16:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      14,
+      0,
+      2,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/l-etna-en-eruption-attire-les-touristes-malgre-les-risques_8147558.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZlasGzyuUhdqxazZ4TxARCGLkW0/316x0:3700x6016/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/14/6a7f0e1cf411b692233429.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/l-etna-en-eruption-attire-les-touristes-malgre-les-risques_8147558.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/l-etna-en-eruption-attire-les-touristes-malgre-les-risques_8147558.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

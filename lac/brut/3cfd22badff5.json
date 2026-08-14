@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T16:50:48.650294+00:00",
+  "_id": "3cfd22badff5",
+  "brut": {
+    "title": "Aux Antilles, El Niño provoque une sécheresse inhabituelle en pleine saison cyclonique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Antilles, El Niño provoque une sécheresse inhabituelle en pleine saison cyclonique"
+    },
+    "published": "Fri, 14 Aug 2026 17:00:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      15,
+      0,
+      10,
+      4,
+      226,
+      0
+    ],
+    "summary": "Deux mois après le début d’une saison des ouragans peu active, la Martinique, la Guadeloupe et les autres îles de l’archipel des Caraïbes subissent des températures anormalement élevées et des pénuries d’eau qui affectent les activités humaines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux mois après le début d’une saison des ouragans peu active, la Martinique, la Guadeloupe et les autres îles de l’archipel des Caraïbes subissent des températures anormalement élevées et des pénuries d’eau qui affectent les activités humaines."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/14/aux-antilles-el-nino-provoque-une-secheresse-inhabituelle-en-pleine-saison-cyclonique_6746269_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/14/aux-antilles-el-nino-provoque-une-secheresse-inhabituelle-en-pleine-saison-cyclonique_6746269_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/14/aux-antilles-el-nino-provoque-une-secheresse-inhabituelle-en-pleine-saison-cyclonique_6746269_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/688/0/8256/4128/644/322/60/0/67b6d60_upload-1-owagwy3vja6x-000-a46x8zt.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Terre-de-Haut, aux Saintes (Guadeloupe), le 18 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CARLA BERNHARDT/AFP"
+      }
+    ],
+    "credit": "CARLA BERNHARDT/AFP"
+  }
+}

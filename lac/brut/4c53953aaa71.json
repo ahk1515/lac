@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T16:50:48.649743+00:00",
+  "_id": "4c53953aaa71",
+  "brut": {
+    "title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta"
+    },
+    "published": "Fri, 14 Aug 2026 18:00:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      16,
+      0,
+      8,
+      4,
+      226,
+      0
+    ],
+    "summary": "A Tétouan, les familles se désespèrent après la mort de nombreux hommes qui ont tenté le passage à la nage jusqu’à l’enclave espagnole, fin juillet. Au total, plus de 140 d’entre eux auraient perdu la vie, selon une ONG marocaine. Malgré ces drames, beaucoup rêvent encore de gagner clandestinement l’Europe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Tétouan, les familles se désespèrent après la mort de nombreux hommes qui ont tenté le passage à la nage jusqu’à l’enclave espagnole, fin juillet. Au total, plus de 140 d’entre eux auraient perdu la vie, selon une ONG marocaine. Malgré ces drames, beaucoup rêvent encore de gagner clandestinement l’Europe."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/14/on-est-en-train-de-perdre-notre-jeunesse-dans-le-nord-du-maroc-l-ombre-des-noyes-de-ceuta_6746281_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/14/on-est-en-train-de-perdre-notre-jeunesse-dans-le-nord-du-maroc-l-ombre-des-noyes-de-ceuta_6746281_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/14/on-est-en-train-de-perdre-notre-jeunesse-dans-le-nord-du-maroc-l-ombre-des-noyes-de-ceuta_6746281_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/364/0/4366/2183/644/322/60/0/dd4f4ba_ftp-1-stv0woe2nkih-2026-08-05t163836z-1559967197-rc29smar93t8-rtrmadp-3-migration-europe-spain-ceuta.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un migrant marocain de 22 ans au cimetière de Sidi Embarek, où reposent de nombreux migrants morts pendant la traversée. A Ceuta, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Violeta Santos Moura / REUTERS"
+      }
+    ],
+    "credit": "Violeta Santos Moura / REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-14T16:50:49.337699+00:00",
+  "_id": "c715692a87b4",
+  "brut": {
+    "title": "Au Brésil, des œuvres d'Henri Matisse retrouvées neuf mois après leur vol à Sao Paulo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Brésil, des œuvres d'Henri Matisse retrouvées neuf mois après leur vol à Sao Paulo"
+    },
+    "summary": "La police brésilienne a récupéré huit des treize illustrations du célèbre album \"Jazz\". Dérobées dans une bibliothèque, elles sont estimées à près de 173 000 euros.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La police brésilienne a récupéré huit des treize illustrations du célèbre album \"Jazz\". Dérobées dans une bibliothèque, elles sont estimées à près de 173 000 euros."
+    },
+    "published": "Fri, 14 Aug 2026 17:25:49 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      15,
+      25,
+      49,
+      4,
+      226,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/arts-expos/peinture/au-bresil-des-uvres-d-henri-matisse-retrouvees-neuf-mois-apres-leur-vol-a-sao-paulo_8147585.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/sgxoj2guNQi4bxtmNjlWAso3kqc/0x97:1350x856/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f18adc9858443346074.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/arts-expos/peinture/au-bresil-des-uvres-d-henri-matisse-retrouvees-neuf-mois-apres-leur-vol-a-sao-paulo_8147585.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/arts-expos/peinture/au-bresil-des-uvres-d-henri-matisse-retrouvees-neuf-mois-apres-leur-vol-a-sao-paulo_8147585.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

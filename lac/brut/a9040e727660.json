@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T16:50:48.649897+00:00",
+  "_id": "a9040e727660",
+  "brut": {
+    "title": "En Sicile, l’éruption de l’Etna provoque l’annulation de plus de 1 000 vols à l’aéroport de Catane et bloque des dizaines de milliers de voyageurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Sicile, l’éruption de l’Etna provoque l’annulation de plus de 1 000 vols à l’aéroport de Catane et bloque des dizaines de milliers de voyageurs"
+    },
+    "published": "Fri, 14 Aug 2026 17:36:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      15,
+      36,
+      25,
+      4,
+      226,
+      0
+    ],
+    "updated": "Fri, 14 Aug 2026 18:14:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      14,
+      16,
+      14,
+      18,
+      4,
+      226,
+      0
+    ],
+    "summary": "Depuis plusieurs jours, le principal aéroport sicilien est fermé en raison de cendres crachées par le plus actif des volcans d’Europe, rendant dangereux les vols dans la zone. Une situation d’une ampleur sans précédent depuis 2002 et qui pourrait se prolonger au cours du week-end des 14 et 15 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis plusieurs jours, le principal aéroport sicilien est fermé en raison de cendres crachées par le plus actif des volcans d’Europe, rendant dangereux les vols dans la zone. Une situation d’une ampleur sans précédent depuis 2002 et qui pourrait se prolonger au cours du week-end des 14 et 15 août."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/14/a-l-aeroport-de-catane-en-sicile-plus-de-mille-vols-annules-et-des-dizaines-de-milliers-de-voyageurs-bloques-en-raison-de-l-eruption-de-l-etna_6746278_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/14/a-l-aeroport-de-catane-en-sicile-plus-de-mille-vols-annules-et-des-dizaines-de-milliers-de-voyageurs-bloques-en-raison-de-l-eruption-de-l-etna_6746278_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/14/a-l-aeroport-de-catane-en-sicile-plus-de-mille-vols-annules-et-des-dizaines-de-milliers-de-voyageurs-bloques-en-raison-de-l-eruption-de-l-etna_6746278_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/407/0/5500/2750/644/322/60/0/d3196d5_ftp-1-9saqdcoxms5z-2026-08-14t083411z-616246983-rc26ymaiwlhd-rtrmadp-3-italy-volcano-etna-airport.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au sein du terminal de l’aéroport Vincenzo-Bellini de Catane, à la suite de la fermeture de l’aéroport provoquée par l’éruption de l’Etna, en Sicile, le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Matteo Minnella/REUTERS"
+      }
+    ],
+    "credit": "Matteo Minnella/REUTERS"
+  }
+}

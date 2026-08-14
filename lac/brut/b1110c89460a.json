@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-14T16:50:48.649528+00:00",
+  "_id": "b1110c89460a",
+  "brut": {
+    "title": "Au Soudan du Sud, plus de 650 000 réfugiés menacés de perdre l’aide de l’ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Soudan du Sud, plus de 650 000 réfugiés menacés de perdre l’aide de l’ONU"
+    },
+    "published": "Fri, 14 Aug 2026 18:33:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      16,
+      33,
+      55,
+      4,
+      226,
+      0
+    ],
+    "summary": "Cette situation « survient au pire moment possible. Avec la saison des pluies qui atteint son pic, l’accès devient plus difficile, les prix de la nourriture augmentent et les familles disposent d’encore moins de solutions pour faire face à la situation », a alerté le représentant adjoint du HCR au Soudan du Sud.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette situation « survient au pire moment possible. Avec la saison des pluies qui atteint son pic, l’accès devient plus difficile, les prix de la nourriture augmentent et les familles disposent d’encore moins de solutions pour faire face à la situation », a alerté le représentant adjoint du HCR au Soudan du Sud."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/14/au-soudan-du-sud-plus-de-650-000-refugies-menaces-de-perdre-l-aide-de-l-onu_6746283_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/14/au-soudan-du-sud-plus-de-650-000-refugies-menaces-de-perdre-l-aide-de-l-onu_6746283_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/14/au-soudan-du-sud-plus-de-650-000-refugies-menaces-de-perdre-l-aide-de-l-onu_6746283_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/93/0/5000/2500/644/322/60/0/6963da8_upload-1-ch3dguart9jy-000-97ur4ed.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un camp de déplacés à Bor, dans l’Etat de Jonglei (Soudan du Sud), le 16 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUIS TATO/AFP"
+      }
+    ],
+    "credit": "LUIS TATO/AFP"
+  }
+}
