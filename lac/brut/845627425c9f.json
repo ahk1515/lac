@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T16:21:49.255657+00:00",
+  "_id": "845627425c9f",
+  "brut": {
+    "title": "Les images de la libération de prisonniers politiques au Venezuela",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les images de la libération de prisonniers politiques au Venezuela"
+    },
+    "published": "Sat, 15 Aug 2026 17:57:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      15,
+      57,
+      36,
+      5,
+      227,
+      0
+    ],
+    "summary": "Le gouvernement intérimaire vénézuelien, a libéré 131 prisonniers politiques, suite à des négociations avec l’opposition, supervisées par Washington.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement intérimaire vénézuelien, a libéré 131 prisonniers politiques, suite à des négociations avec l’opposition, supervisées par Washington."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/15/les-images-de-la-liberation-de-prisonniers-politiques-au-venezuela_6746711_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/15/les-images-de-la-liberation-de-prisonniers-politiques-au-venezuela_6746711_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/15/les-images-de-la-liberation-de-prisonniers-politiques-au-venezuela_6746711_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/497/0/5959/2979/644/322/60/0/b7bee9a_ftp-1-bqqe2z1ig3e3-5841895-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JUAN BARRETO / AFP"
+      }
+    ],
+    "credit": "JUAN BARRETO / AFP"
+  }
+}

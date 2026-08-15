@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T16:21:49.471862+00:00",
+  "_id": "15bafb41aeac",
+  "brut": {
+    "title": "Au Zimbabwe, le naufrage d'un ferry fait au moins 68 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Zimbabwe, le naufrage d'un ferry fait au moins 68 morts"
+    },
+    "summary": "L'embarcation, qui a chaviré mardi, reliait la ville de Kariba à celle de Chalala, en desservant plusieurs îles et villages de pêcheurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'embarcation, qui a chaviré mardi, reliait la ville de Kariba à celle de Chalala, en desservant plusieurs îles et villages de pêcheurs."
+    },
+    "published": "Sat, 15 Aug 2026 18:16:51 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      16,
+      16,
+      51,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/zimbabwe/au-zimbabwe-le-naufrage-d-un-ferry-fait-au-moins-68-morts_8149028.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0yUhGsiDdC3zD4VblfG0SY_rtVk/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/15/6a8090956aa4f180126463.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/zimbabwe/au-zimbabwe-le-naufrage-d-un-ferry-fait-au-moins-68-morts_8149028.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/zimbabwe/au-zimbabwe-le-naufrage-d-un-ferry-fait-au-moins-68-morts_8149028.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T16:21:49.255732+00:00",
+  "_id": "93f84a911ee1",
+  "brut": {
+    "title": "Incendie en Belgique : le feu dans un parc naturel dans l’est du pays a déjà parcouru 1 650 hectares",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie en Belgique : le feu dans un parc naturel dans l’est du pays a déjà parcouru 1 650 hectares"
+    },
+    "published": "Sat, 15 Aug 2026 15:39:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      13,
+      39,
+      4,
+      5,
+      227,
+      0
+    ],
+    "updated": "Sat, 15 Aug 2026 17:53:25 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      15,
+      15,
+      53,
+      25,
+      5,
+      227,
+      0
+    ],
+    "summary": "Ce feu s’est déclaré en milieu de journée vendredi, dans les Hautes Fagnes, une grande zone boisée prisée des randonneurs et proche de l’Allemagne, et s’est rapidement propagé durant la nuit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce feu s’est déclaré en milieu de journée vendredi, dans les Hautes Fagnes, une grande zone boisée prisée des randonneurs et proche de l’Allemagne, et s’est rapidement propagé durant la nuit."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/15/incendie-en-belgique-le-feu-dans-un-parc-naturel-a-l-est-du-pays-a-deja-parcouru-1-650-hectares_6746673_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/15/incendie-en-belgique-le-feu-dans-un-parc-naturel-a-l-est-du-pays-a-deja-parcouru-1-650-hectares_6746673_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/15/incendie-en-belgique-le-feu-dans-un-parc-naturel-a-l-est-du-pays-a-deja-parcouru-1-650-hectares_6746673_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/644/0/7728/3864/644/322/60/0/aea1903_ftp-1-73xjpjarc2hd-5838719-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Feu de forêt dans le parc naturel des Hautes Fagnes-Eifel, à Jalhay (Belgique), le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NICOLAS LAMBERT/BELGA/AFP"
+      }
+    ],
+    "credit": "NICOLAS LAMBERT/BELGA/AFP"
+  }
+}
