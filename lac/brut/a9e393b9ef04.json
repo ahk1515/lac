@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T01:09:10.259732+00:00",
+  "_id": "a9e393b9ef04",
+  "brut": {
+    "title": "Au Yémen, des frappes des rebelles houthistes font huit morts à Moka",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, des frappes des rebelles houthistes font huit morts à Moka"
+    },
+    "published": "Sat, 15 Aug 2026 02:43:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      0,
+      43,
+      2,
+      5,
+      227,
+      0
+    ],
+    "updated": "Sat, 15 Aug 2026 03:02:51 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      15,
+      1,
+      2,
+      51,
+      5,
+      227,
+      0
+    ],
+    "summary": "Le mouvement rebelle, soutenu par l’Iran, a par ailleurs affirmé avoir attaqué un site du géant pétrolier Aramco en Arabie saoudite, pays allié des Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le mouvement rebelle, soutenu par l’Iran, a par ailleurs affirmé avoir attaqué un site du géant pétrolier Aramco en Arabie saoudite, pays allié des Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/15/au-yemen-des-frappes-des-rebelles-houthistes-font-huit-morts-a-moka_6746361_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/15/au-yemen-des-frappes-des-rebelles-houthistes-font-huit-morts-a-moka_6746361_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/15/au-yemen-des-frappes-des-rebelles-houthistes-font-huit-morts-a-moka_6746361_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/1000/0/6000/3000/644/322/60/0/75d2a41_ftp-1-abbctl1yx4lu-fc228b7f49934d358c4edb2f9e752dd5-1-f36868767e1c4b1f9ba5a9b8e6a3452c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des flammes et de la fumée s’élèvent du port de Moka, au Yémen, après une frappe, le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdulnasser Alseddik/AP Photo"
+      }
+    ],
+    "credit": "Abdulnasser Alseddik/AP Photo"
+  }
+}

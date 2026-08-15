@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T01:09:10.260367+00:00",
+  "_id": "5cebb1fed3f9",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : plusieurs régions russes rationnent le carburant après les frappes ukrainiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : plusieurs régions russes rationnent le carburant après les frappes ukrainiennes"
+    },
+    "published": "Fri, 14 Aug 2026 23:30:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      14,
+      21,
+      30,
+      45,
+      4,
+      226,
+      0
+    ],
+    "summary": "Le gouvernement russe a confirmé que l’approvisionnement des stations-service en carburant restait « tendu » dans plusieurs zones du pays. Selon un décompte de Bloomberg effectué à partir des déclarations publiques des deux camps, l’Ukraine a attaqué 11 des 34 grandes raffineries russes depuis le début du mois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement russe a confirmé que l’approvisionnement des stations-service en carburant restait « tendu » dans plusieurs zones du pays. Selon un décompte de Bloomberg effectué à partir des déclarations publiques des deux camps, l’Ukraine a attaqué 11 des 34 grandes raffineries russes depuis le début du mois."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-plusieurs-regions-russes-rationnent-le-carburant-apres-les-frappes-ukrainiennes_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-plusieurs-regions-russes-rationnent-le-carburant-apres-les-frappes-ukrainiennes_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-plusieurs-regions-russes-rationnent-le-carburant-apres-les-frappes-ukrainiennes_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/386/0/6005/3002/644/322/60/0/0986246_ftp-1-irwmn7xhapsc-2026-08-14t115911z-1923535642-rc29ymau3hzd-rtrmadp-3-ukraine-crisis-russia-fuel-moscow.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des voitures font la queue à une station-service, à Moscou, le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anastasia Barashkova/REUTERS"
+      }
+    ],
+    "credit": "Anastasia Barashkova/REUTERS"
+  }
+}
