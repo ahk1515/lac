@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T20:19:44.715598+00:00",
+  "_id": "4f7d02a08726",
+  "brut": {
+    "title": "Zimbabwe : le bilan du naufrage d’un ferry sur le lac Kariba s’élève à 68 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Zimbabwe : le bilan du naufrage d’un ferry sur le lac Kariba s’élève à 68 morts"
+    },
+    "published": "Sat, 15 Aug 2026 20:12:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      18,
+      12,
+      16,
+      5,
+      227,
+      0
+    ],
+    "summary": "Les secours ont repêché 22 nouveaux corps, a annoncé la police, samedi. Celle-ci n’a fourni aucun détail sur ces nouvelles victimes, mais la plupart des passagers du navire étaient des villageois et des marchands de poisson vivant aux abords du lac.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les secours ont repêché 22 nouveaux corps, a annoncé la police, samedi. Celle-ci n’a fourni aucun détail sur ces nouvelles victimes, mais la plupart des passagers du navire étaient des villageois et des marchands de poisson vivant aux abords du lac."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/15/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-eleve-a-68-morts_6746751_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/15/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-eleve-a-68-morts_6746751_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/15/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-eleve-a-68-morts_6746751_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/488/0/5863/2931/644/322/60/0/488d590_ftp-1-bin8y8kc64at-6985cdaed8f14ddba08c81627cdcc5e0-1-e3a7ac8a5b3f4c879d06358afb0ff7df.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une cérémonie d’hommage aux personnes tuées dans le naufrage d’un ferry sur le lac Kariba, au Zimbabwe, le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mkhululi Thobela / AP Photo/Mkhululi Thobela"
+      }
+    ],
+    "credit": "Mkhululi Thobela / AP Photo/Mkhululi Thobela"
+  }
+}

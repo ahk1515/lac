@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T20:19:45.541652+00:00",
+  "_id": "3e73574538a4",
+  "brut": {
+    "title": "Des dizaines de migrants interpellés près de la frontière marocaine en direction de Ceuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des dizaines de migrants interpellés près de la frontière marocaine en direction de Ceuta"
+    },
+    "summary": "Mercredi, les autorités marocaines avaient annoncé avoir pris \"des mesures\" pour contrer tout nouvel afflux massif vers l'enclave espagnole, faisant état de nombreuses publications en ligne affirmant que les frontières allaient être \"ouvertes\" le 15 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Mercredi, les autorités marocaines avaient annoncé avoir pris \"des mesures\" pour contrer tout nouvel afflux massif vers l'enclave espagnole, faisant état de nombreuses publications en ligne affirmant que les frontières allaient être \"ouvertes\" le 15 août."
+    },
+    "published": "Sat, 15 Aug 2026 20:44:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      18,
+      44,
+      13,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/des-dizaines-de-migrants-interpelles-pres-de-la-frontiere-marocaine-en-direction-de-ceuta_8149157.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/C5lZvkBIm4DZtHPvHkAIB3qphbA/0x37:1024x613/432x243/filters:format(jpg):quality(50)/2026/08/15/6a80b3429b55e586583608.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/des-dizaines-de-migrants-interpelles-pres-de-la-frontiere-marocaine-en-direction-de-ceuta_8149157.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/des-dizaines-de-migrants-interpelles-pres-de-la-frontiere-marocaine-en-direction-de-ceuta_8149157.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

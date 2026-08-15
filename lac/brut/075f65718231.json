@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T20:19:45.541471+00:00",
+  "_id": "075f65718231",
+  "brut": {
+    "title": "Trois chefs-d’œuvre retrouvés en Italie : les images du cambriolage dévoilées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Trois chefs-d’œuvre retrouvés en Italie : les images du cambriolage dévoilées"
+    },
+    "summary": "En Italie, les images d’un cambriolage ayant eu lieu en mars dernier ont été dévoilées samedi 15 août. En moins d’une minute, les voleurs se sont emparés de trois tableaux de Cézanne, Renoir et Matisse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, les images d’un cambriolage ayant eu lieu en mars dernier ont été dévoilées samedi 15 août. En moins d’une minute, les voleurs se sont emparés de trois tableaux de Cézanne, Renoir et Matisse."
+    },
+    "published": "Sat, 15 Aug 2026 20:45:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      18,
+      45,
+      59,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/trois-chefs-d-uvre-retrouves-en-italie-les-images-du-cambriolage-devoilees_8149175.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xjfyMgwsAfW9B-jgtNHOyROyG7I/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/15/6a80b3891f598786415243.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/trois-chefs-d-uvre-retrouves-en-italie-les-images-du-cambriolage-devoilees_8149175.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/trois-chefs-d-uvre-retrouves-en-italie-les-images-du-cambriolage-devoilees_8149175.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
