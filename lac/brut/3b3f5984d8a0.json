@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T04:28:49.966694+00:00",
+  "_id": "3b3f5984d8a0",
+  "brut": {
+    "title": "Indonésie : un puissant séisme fait un mort ; pas de risque de tsunami",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Indonésie : un puissant séisme fait un mort ; pas de risque de tsunami"
+    },
+    "published": "Sat, 15 Aug 2026 04:19:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      2,
+      19,
+      2,
+      5,
+      227,
+      0
+    ],
+    "updated": "Sat, 15 Aug 2026 06:12:32 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      15,
+      4,
+      12,
+      32,
+      5,
+      227,
+      0
+    ],
+    "summary": "Dans les provinces du Nusa Tenggara oriental, occidental, et du Sulawesi du Sud, où des habitants ont été appelés à évacuer, les autorités ont finalement levé l’alerte au tsunami déclenchée par un tremblement de terre d’une magnitude de 7,7.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans les provinces du Nusa Tenggara oriental, occidental, et du Sulawesi du Sud, où des habitants ont été appelés à évacuer, les autorités ont finalement levé l’alerte au tsunami déclenchée par un tremblement de terre d’une magnitude de 7,7."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/15/indonesie-un-puissant-seisme-fait-au-moins-deux-morts-alerte-au-tsunami-levee_6746394_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/15/indonesie-un-puissant-seisme-fait-au-moins-deux-morts-alerte-au-tsunami-levee_6746394_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/15/indonesie-un-puissant-seisme-fait-au-moins-deux-morts-alerte-au-tsunami-levee_6746394_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/370/0/1600/800/644/322/60/0/748ca0b_ftp-1-bdthpu7xt9rc-2026-08-15t013435z-1634194450-rc2pyma1sgby-rtrmadp-3-indonesia-quake.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes dans un bâtiment portuaire endommagé après un tremblement de terre, à Sikka, dans la province de Nusa Tenggara oriental (Indonésie), le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Agence indonésienne de recherche et de sauvetage (Basarnas) via REUTERS"
+      }
+    ],
+    "credit": "Agence indonésienne de recherche et de sauvetage (Basarnas) via REUTERS"
+  }
+}

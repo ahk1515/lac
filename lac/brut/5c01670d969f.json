@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T04:28:49.966063+00:00",
+  "_id": "5c01670d969f",
+  "brut": {
+    "title": "Cartographie : le durcissement de la politique migratoire de Donald Trump en Afrique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cartographie : le durcissement de la politique migratoire de Donald Trump en Afrique"
+    },
+    "published": "Sat, 15 Aug 2026 06:00:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      4,
+      0,
+      8,
+      5,
+      227,
+      0
+    ],
+    "summary": "A partir du 20 août, le montant de la caution exigée des demandeurs de visa originaires de 50 pays, dont 30 en Afrique, sera augmenté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A partir du 20 août, le montant de la caution exigée des demandeurs de visa originaires de 50 pays, dont 30 en Afrique, sera augmenté."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/08/15/cartographie-le-durcissement-de-la-politique-migratoire-de-donald-trump-en-afrique_6746498_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/08/15/cartographie-le-durcissement-de-la-politique-migratoire-de-donald-trump-en-afrique_6746498_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/08/15/cartographie-le-durcissement-de-la-politique-migratoire-de-donald-trump-en-afrique_6746498_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/60/0/1920/960/644/322/60/0/ecbbb1c_upload-1-x1jfz5ltwxm3-image-1.png"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Adrien Vande Casteele et Olivier Escher / « Le Monde »"
+      }
+    ],
+    "credit": "Adrien Vande Casteele et Olivier Escher / « Le Monde »"
+  }
+}
