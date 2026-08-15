@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T12:34:14.198353+00:00",
+  "_id": "46b8d726ee91",
+  "brut": {
+    "title": "Espagne : Grenade secouée par un rare séisme de magnitude 5, pas de victimes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : Grenade secouée par un rare séisme de magnitude 5, pas de victimes"
+    },
+    "published": "Sat, 15 Aug 2026 12:48:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      10,
+      48,
+      6,
+      5,
+      227,
+      0
+    ],
+    "summary": "Le tremblement de terre s’est produit peu après 1 heure du matin, avec un épicentre situé dans la commune d’Alhendin, à 10 kilomètres au sud de Grenade, selon l’Institut géographique national espagnol.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le tremblement de terre s’est produit peu après 1 heure du matin, avec un épicentre situé dans la commune d’Alhendin, à 10 kilomètres au sud de Grenade, selon l’Institut géographique national espagnol."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/15/espagne-grenade-secouee-par-un-rare-seisme-de-magnitude-5-pas-de-victimes_6746661_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/15/espagne-grenade-secouee-par-un-rare-seisme-de-magnitude-5-pas-de-victimes_6746661_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/15/espagne-grenade-secouee-par-un-rare-seisme-de-magnitude-5-pas-de-victimes_6746661_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/746/0/4419/2209/644/322/60/0/452ebeb_upload-1-xjhcgqhv21zs-epalivenine268988.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la suite du au tremblement de terre, à Armilla (Espagne), le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PEPE TORRES/EPA"
+      }
+    ],
+    "credit": "PEPE TORRES/EPA"
+  }
+}

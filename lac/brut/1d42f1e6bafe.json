@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T12:34:14.198603+00:00",
+  "_id": "1d42f1e6bafe",
+  "brut": {
+    "title": "Les images du séisme qui a frappé l’est de l’Indonésie et fait au moins 38 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les images du séisme qui a frappé l’est de l’Indonésie et fait au moins 38 morts"
+    },
+    "published": "Sat, 15 Aug 2026 12:07:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      10,
+      7,
+      52,
+      5,
+      227,
+      0
+    ],
+    "summary": "Un séisme de magnitude 7,7 a provoqué la mort d’au moins 38 personnes dans l’est de l’Indonésie, selon le dernier bilan.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un séisme de magnitude 7,7 a provoqué la mort d’au moins 38 personnes dans l’est de l’Indonésie, selon le dernier bilan."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/15/les-images-du-seisme-qui-a-frappe-l-est-de-l-indonesie-et-fait-au-moins-38-morts_6746657_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/15/les-images-du-seisme-qui-a-frappe-l-est-de-l-indonesie-et-fait-au-moins-38-morts_6746657_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/15/les-images-du-seisme-qui-a-frappe-l-est-de-l-indonesie-et-fait-au-moins-38-morts_6746657_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/133/0/1600/800/644/322/60/0/6db98b2_ftp-1-njkvdnae0m0i-f7c9db297b7e4364a4bba72433a9f59e-1-86a838f5871b4e36b6f0ee9292e04141.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BASARNAS / BASARNAS via AP"
+      }
+    ],
+    "credit": "BASARNAS / BASARNAS via AP"
+  }
+}

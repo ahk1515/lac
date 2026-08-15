@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T12:34:14.527584+00:00",
+  "_id": "97c67b04a4f4",
+  "brut": {
+    "title": "En Espagne, la ville de Grenade secouée par un rare séisme de magnitude 5, \"aucune victime ni aucun dommage structurel grave\" selon la mairie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, la ville de Grenade secouée par un rare séisme de magnitude 5, \"aucune victime ni aucun dommage structurel grave\" selon la mairie"
+    },
+    "summary": "\"Des dégâts isolés sont en cours d'évaluation\", a précisé la maire de cette ville d'Andalousie, dans le sud du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Des dégâts isolés sont en cours d'évaluation\", a précisé la maire de cette ville d'Andalousie, dans le sud du pays."
+    },
+    "published": "Sat, 15 Aug 2026 12:28:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      10,
+      28,
+      12,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-ville-de-grenade-secouee-par-un-rare-seisme-de-magnitude-5-aucune-victime-recensee_8148698.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-gKGZyQdQDekXUVulGhnMRcUVUI/0x226:4300x2645/432x243/filters:format(jpg):quality(50)/2026/08/15/6a803f133132b518393607.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-ville-de-grenade-secouee-par-un-rare-seisme-de-magnitude-5-aucune-victime-recensee_8148698.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-ville-de-grenade-secouee-par-un-rare-seisme-de-magnitude-5-aucune-victime-recensee_8148698.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

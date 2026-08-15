@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T12:34:14.197626+00:00",
+  "_id": "096e6e65c72f",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme qu’une entreprise du groupe Roscosmos a été touchée par des missiles ukrainiens dans l’oblast de Samara, en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme qu’une entreprise du groupe Roscosmos a été touchée par des missiles ukrainiens dans l’oblast de Samara, en Russie"
+    },
+    "published": "Sat, 15 Aug 2026 14:14:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      12,
+      14,
+      9,
+      5,
+      227,
+      0
+    ],
+    "summary": "Le président ukrainien a revendiqué, samedi, une attaque avec des missiles Flamingo contre un centre de l’agence spatiale russe, « qui était notamment impliqué dans la production d’électronique », à 800 kilomètres de la frontière russo-ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien a revendiqué, samedi, une attaque avec des missiles Flamingo contre un centre de l’agence spatiale russe, « qui était notamment impliqué dans la production d’électronique », à 800 kilomètres de la frontière russo-ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-qu-une-entreprise-du-groupe-roscosmos-a-ete-touchee-par-des-missiles-ukrainiens-dans-l-oblast-de-samara-en-russie_6741928_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-qu-une-entreprise-du-groupe-roscosmos-a-ete-touchee-par-des-missiles-ukrainiens-dans-l-oblast-de-samara-en-russie_6741928_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-qu-une-entreprise-du-groupe-roscosmos-a-ete-touchee-par-des-missiles-ukrainiens-dans-l-oblast-de-samara-en-russie_6741928_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/82/0/4773/2386/644/322/60/0/98d309a_ftp-1-7cajbv1khitu-2115e8a0c8274facb2b47aeba5b646a0-0-7f926d5c1fdc4819a1d7972e943f2cf7.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Volodymyr Zelensky à Belgrade, le 8 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Darko Vojinovic/AP Photo"
+      }
+    ],
+    "credit": "Darko Vojinovic/AP Photo"
+  }
+}

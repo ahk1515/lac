@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T12:34:14.527701+00:00",
+  "_id": "46e139b504e5",
+  "brut": {
+    "title": "Au Liban, des frappes israéliennes cause la mort de neuf personnes dans le sud du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Liban, des frappes israéliennes cause la mort de neuf personnes dans le sud du pays"
+    },
+    "summary": "Le président du Liban, Joseph Aoun, a dénoncé \"la mort d'une famille entière dans le village d'Ansar\". L'armée israélienne a affirmé de son côté avoir notamment ciblé des \"infrastructures terroristes du Hezbollah\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président du Liban, Joseph Aoun, a dénoncé \"la mort d'une famille entière dans le village d'Ansar\". L'armée israélienne a affirmé de son côté avoir notamment ciblé des \"infrastructures terroristes du Hezbollah\"."
+    },
+    "published": "Sat, 15 Aug 2026 11:48:15 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      9,
+      48,
+      15,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-une-frappe-israelienne-cause-la-mort-de-sept-personnes-dans-le-sud-du-pays_8148638.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4cdsXuoUsJrrqaYVJcbREWxJAps/0x285:5472x3363/432x243/filters:format(jpg):quality(50)/2026/08/15/6a803117f2e4c645343188.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-une-frappe-israelienne-cause-la-mort-de-sept-personnes-dans-le-sud-du-pays_8148638.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-une-frappe-israelienne-cause-la-mort-de-sept-personnes-dans-le-sud-du-pays_8148638.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

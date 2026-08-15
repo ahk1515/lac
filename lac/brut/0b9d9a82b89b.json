@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T12:34:14.197894+00:00",
+  "_id": "0b9d9a82b89b",
+  "brut": {
+    "title": "Les hommages se multiplient après la mort de Jason Arday, qui fut le plus jeune professeur noir de Cambridge, avant d’être accusé de plagiat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les hommages se multiplient après la mort de Jason Arday, qui fut le plus jeune professeur noir de Cambridge, avant d’être accusé de plagiat"
+    },
+    "published": "Sat, 15 Aug 2026 13:45:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      11,
+      45,
+      18,
+      5,
+      227,
+      0
+    ],
+    "summary": "Plusieurs proches et collègues dénoncent aujourd’hui « un harcèlement » que le professeur de sociologie de l’éducation subissait depuis sa nomination il y a trois ans au sein de la prestigieuse université anglaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs proches et collègues dénoncent aujourd’hui « un harcèlement » que le professeur de sociologie de l’éducation subissait depuis sa nomination il y a trois ans au sein de la prestigieuse université anglaise."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/314/0/2305/1152/644/322/60/0/39c8945_ftp-1-2i4qof7acign-e3a0108439bc49329c5c6b589b59cdaa-0-fec663b6193143ecafef506499d9628e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Jason Arday porte la flamme olympique à Londres, le 23 juillet 2012."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Joe Giddens/LOCOG/PA via AP"
+      }
+    ],
+    "credit": "Joe Giddens/LOCOG/PA via AP"
+  }
+}

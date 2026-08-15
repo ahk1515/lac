@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T12:34:14.198044+00:00",
+  "_id": "6fd9c2fb6864",
+  "brut": {
+    "title": "En Ukraine, Volodymyr Zelensky en passe de reprendre la main après un mois de crise politique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, Volodymyr Zelensky en passe de reprendre la main après un mois de crise politique"
+    },
+    "published": "Sat, 15 Aug 2026 13:30:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      11,
+      30,
+      11,
+      5,
+      227,
+      0
+    ],
+    "summary": "Après avoir limogé son populaire ministre de la défense, Mykhaïlo Fedorov, et provoqué la colère de la rue et de l’opposition, le président ukrainien semble avoir contenu la fronde, mais en sort affaibli.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après avoir limogé son populaire ministre de la défense, Mykhaïlo Fedorov, et provoqué la colère de la rue et de l’opposition, le président ukrainien semble avoir contenu la fronde, mais en sort affaibli."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/15/en-ukraine-volodymyr-zelensky-en-passe-de-reprendre-la-main-apres-un-mois-de-crise-politique_6746666_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/15/en-ukraine-volodymyr-zelensky-en-passe-de-reprendre-la-main-apres-un-mois-de-crise-politique_6746666_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/15/en-ukraine-volodymyr-zelensky-en-passe-de-reprendre-la-main-apres-un-mois-de-crise-politique_6746666_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/08/688/0/8256/4128/644/322/60/0/1773b85_ftp-1-0weg2nnkcs0r-5796654-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président ukrainien, Volodymyr Zelenski, à Belgrade, le 8 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREJ ISAKOVIC/AFP"
+      }
+    ],
+    "credit": "ANDREJ ISAKOVIC/AFP"
+  }
+}
