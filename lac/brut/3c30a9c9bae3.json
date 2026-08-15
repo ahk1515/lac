@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T08:26:05.744649+00:00",
+  "_id": "3c30a9c9bae3",
+  "brut": {
+    "title": "Un ex-professeur de Cambridge mêlé à un scandale de plagiat retrouvé mort",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un ex-professeur de Cambridge mêlé à un scandale de plagiat retrouvé mort"
+    },
+    "summary": "Ce Britannique avait démissionné le 5 août de la prestigieuse université britannique, dont il était devenu en 2023 le plus jeune professeur noir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce Britannique avait démissionné le 5 août de la prestigieuse université britannique, dont il était devenu en 2023 le plus jeune professeur noir."
+    },
+    "published": "Sat, 15 Aug 2026 08:07:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      6,
+      7,
+      14,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/un-ex-professeur-de-cambridge-mele-a-un-scandale-de-plagiat-retrouve-mort_8148443.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/tKSSvr7KuyqHmfdRY7TtzfKsxRw/0x394:7548x4640/432x243/filters:format(jpg):quality(50)/2026/08/15/6a800066592b8108123977.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/un-ex-professeur-de-cambridge-mele-a-un-scandale-de-plagiat-retrouve-mort_8148443.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/un-ex-professeur-de-cambridge-mele-a-un-scandale-de-plagiat-retrouve-mort_8148443.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

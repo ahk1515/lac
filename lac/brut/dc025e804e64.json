@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T08:26:05.744971+00:00",
+  "_id": "dc025e804e64",
+  "brut": {
+    "title": "Un puissant séisme fait au moins 20 morts dans l'est de l'Indonésie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un puissant séisme fait au moins 20 morts dans l'est de l'Indonésie"
+    },
+    "summary": "Après avoir mis en garde contre un risque de tsunami, les autorités ont levé l'alerte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après avoir mis en garde contre un risque de tsunami, les autorités ont levé l'alerte."
+    },
+    "published": "Sat, 15 Aug 2026 07:50:49 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      5,
+      50,
+      49,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/seisme-et-tsunami-en-indonesie/un-puissant-seisme-fait-au-moins-20-morts-dans-l-est-de-l-indonesie_8148425.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zMVvGeRrMilY681ILpFuLUl-7QQ/0x93:1800x1106/432x243/filters:format(jpg):quality(50)/2026/08/15/6a7ffd40a9518557577793.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/seisme-et-tsunami-en-indonesie/un-puissant-seisme-fait-au-moins-20-morts-dans-l-est-de-l-indonesie_8148425.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/seisme-et-tsunami-en-indonesie/un-puissant-seisme-fait-au-moins-20-morts-dans-l-est-de-l-indonesie_8148425.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

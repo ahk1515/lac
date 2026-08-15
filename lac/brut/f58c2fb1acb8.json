@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T08:26:05.744499+00:00",
+  "_id": "f58c2fb1acb8",
+  "brut": {
+    "title": "En Cisjordanie, la tension monte à Qusra, village assiégé par les colons",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Cisjordanie, la tension monte à Qusra, village assiégé par les colons"
+    },
+    "summary": "À Qusra, village de Cisjordanie, les accès sont bloqués depuis cinq jours sur fond de tensions avec des colons israéliens présents aux abords de la localité. Des habitants affirment ne plus pouvoir regagner leur domicile, tandis que des militants israéliens tentent d’apporter de l’eau et de la nourriture aux familles palestiniennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Qusra, village de Cisjordanie, les accès sont bloqués depuis cinq jours sur fond de tensions avec des colons israéliens présents aux abords de la localité. Des habitants affirment ne plus pouvoir regagner leur domicile, tandis que des militants israéliens tentent d’apporter de l’eau et de la nourriture aux familles palestiniennes."
+    },
+    "published": "Sat, 15 Aug 2026 08:59:49 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      6,
+      59,
+      49,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/en-cisjordanie-la-tension-monte-a-qusra-village-assiege-par-les-colons_8148482.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ji76UUYDJEp4D-oAsi_nWQLXQMc/120x0:1601x833/432x243/filters:format(jpg):quality(50)/2026/08/15/6a800dd7113a0578054611.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/en-cisjordanie-la-tension-monte-a-qusra-village-assiege-par-les-colons_8148482.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/en-cisjordanie-la-tension-monte-a-qusra-village-assiege-par-les-colons_8148482.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

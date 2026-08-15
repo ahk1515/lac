@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-15T08:26:05.744829+00:00",
+  "_id": "0c4b6efdd1a3",
+  "brut": {
+    "title": "Passagères surprises : deux chèvres montent dans un bus aux États-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Passagères surprises : deux chèvres montent dans un bus aux États-Unis"
+    },
+    "summary": "Vont-elles vous rendre chèvre ? Deux passagères surprises se sont invitées dans un bus de l’Oregon (États-Unis), mardi 11 août. Elles ont aussitôt été débarquées sans encombre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Vont-elles vous rendre chèvre ? Deux passagères surprises se sont invitées dans un bus de l’Oregon (États-Unis), mardi 11 août. Elles ont aussitôt été débarquées sans encombre."
+    },
+    "published": "Sat, 15 Aug 2026 08:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      6,
+      0,
+      2,
+      5,
+      227,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/passageres-surprises-deux-chevres-montent-dans-un-bus-aux-etats-unis_8147813.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UshzuKslb1_4dc7kri3pcwJYB1o/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/14/6a7f341017c26517132201.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/passageres-surprises-deux-chevres-montent-dans-un-bus-aux-etats-unis_8147813.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/passageres-surprises-deux-chevres-montent-dans-un-bus-aux-etats-unis_8147813.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

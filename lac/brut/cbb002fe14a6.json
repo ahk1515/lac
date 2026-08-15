@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T08:26:05.522673+00:00",
+  "_id": "cbb002fe14a6",
+  "brut": {
+    "title": "Brésil : des indices de présence de pétrole au large de l’Amazonie détectés par Petrobras",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Brésil : des indices de présence de pétrole au large de l’Amazonie détectés par Petrobras"
+    },
+    "published": "Sat, 15 Aug 2026 08:39:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      6,
+      39,
+      7,
+      5,
+      227,
+      0
+    ],
+    "updated": "Sat, 15 Aug 2026 09:16:07 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      15,
+      7,
+      16,
+      7,
+      5,
+      227,
+      0
+    ],
+    "summary": "Ce mégaprojet, controversé depuis plusieurs années, est soutenu par le président, de gauche, Luiz Inacio Lula da Silva, qui estime que son pays a besoin des recettes des hydrocarbures pour financer sa transition énergétique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce mégaprojet, controversé depuis plusieurs années, est soutenu par le président, de gauche, Luiz Inacio Lula da Silva, qui estime que son pays a besoin des recettes des hydrocarbures pour financer sa transition énergétique."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/15/bresil-des-indices-de-presence-de-petrole-au-large-de-l-amazonie-detectes-par-petrobras_6746616_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/15/bresil-des-indices-de-presence-de-petrole-au-large-de-l-amazonie-detectes-par-petrobras_6746616_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/15/bresil-des-indices-de-presence-de-petrole-au-large-de-l-amazonie-detectes-par-petrobras_6746616_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/166/0/2000/1000/644/322/60/0/1710fab_upload-1-wfx5l1fjds60-sonda-ns-42-odn-ii-foto1-divulgac-a-o-foresea.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le puits Morpho, situé à près de 500 km de l’embouchure du fleuve Amazone, sur une photographie non datée."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Cezar Fernandes/PETROBRAS"
+      }
+    ],
+    "credit": "Cezar Fernandes/PETROBRAS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-15T08:26:05.522314+00:00",
+  "_id": "7eee214779fc",
+  "brut": {
+    "title": "Au Liban, sept personnes tuées par un bombardement israélien dans le sud du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Liban, sept personnes tuées par un bombardement israélien dans le sud du pays"
+    },
+    "published": "Sat, 15 Aug 2026 09:20:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      7,
+      20,
+      8,
+      5,
+      227,
+      0
+    ],
+    "updated": "Sat, 15 Aug 2026 09:28:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      15,
+      7,
+      28,
+      18,
+      5,
+      227,
+      0
+    ],
+    "summary": "Il s’agit du bilan le plus meurtrier depuis la trêve conclue en juin avec Beyrouth, laquelle prévoit le désarmement du Hezbollah, un retrait progressif des forces israéliennes du sud du Liban et le déploiement de l’armée libanaise dans la région, en commençant par des « zones pilotes ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il s’agit du bilan le plus meurtrier depuis la trêve conclue en juin avec Beyrouth, laquelle prévoit le désarmement du Hezbollah, un retrait progressif des forces israéliennes du sud du Liban et le déploiement de l’armée libanaise dans la région, en commençant par des « zones pilotes »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/15/au-liban-sept-personnes-tuees-par-un-bombardement-israelien-dans-le-sud-du-pays_6746618_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/15/au-liban-sept-personnes-tuees-par-un-bombardement-israelien-dans-le-sud-du-pays_6746618_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/15/au-liban-sept-personnes-tuees-par-un-bombardement-israelien-dans-le-sud-du-pays_6746618_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/416/0/5000/2500/644/322/60/0/3aaf18c_ftp-1-59amgkieejkb-30a6ad19001b42c5aa4c1492952e8a0c-0-794ad36b75b7413e968be8396567cca0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une frappe aérienne israélienne sur le village d’Ansar (Liban), le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammed Zaatari/AP Photo"
+      }
+    ],
+    "credit": "Mohammed Zaatari/AP Photo"
+  }
+}
