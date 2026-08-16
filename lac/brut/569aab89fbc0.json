@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T12:35:47.191079+00:00",
+  "_id": "569aab89fbc0",
+  "brut": {
+    "title": "\"Ce n'est même pas descriptible\" : la Belgique face au pire incendie de son histoire récente",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Ce n'est même pas descriptible\" : la Belgique face au pire incendie de son histoire récente"
+    },
+    "summary": "La Belgique fait face à des feux inédits. Près de 3 000 hectares sont partis en fumée dans un parc naturel de l'Est du pays, et le feu progresse toujours très vite, dimanche 16 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Belgique fait face à des feux inédits. Près de 3 000 hectares sont partis en fumée dans un parc naturel de l'Est du pays, et le feu progresse toujours très vite, dimanche 16 août."
+    },
+    "published": "Sun, 16 Aug 2026 14:30:50 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      12,
+      30,
+      50,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ce-n-est-meme-pas-descriptible-la-belgique-face-au-pire-incendie-de-son-histoire-recente_8149859.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/rYh0ETfbuTsFUwPmZh59gZ5gBPI/0x56:1776x1055/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81a0fa98bf7636365900.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ce-n-est-meme-pas-descriptible-la-belgique-face-au-pire-incendie-de-son-histoire-recente_8149859.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ce-n-est-meme-pas-descriptible-la-belgique-face-au-pire-incendie-de-son-histoire-recente_8149859.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

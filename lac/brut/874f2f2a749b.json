@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T12:35:46.461316+00:00",
+  "_id": "874f2f2a749b",
+  "brut": {
+    "title": "Vidéo : quatre semaine à bord d’un brise-glace, ces navires à la technologie de plus en plus convoitée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vidéo : quatre semaine à bord d’un brise-glace, ces navires à la technologie de plus en plus convoitée"
+    },
+    "published": "Sun, 16 Aug 2026 14:00:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      12,
+      0,
+      9,
+      6,
+      228,
+      0
+    ],
+    "summary": "« Terre de glace » (1/4). Capables de traverser des zones maritimes entièrement glacées, ces navires sont devenus stratégiques, dans un contexte de conflit d’influences entre puissances dans l’Arctique. Notre journaliste, Léa Bello, embarque tout le mois d’août sur l’un d’eux à l’occasion d’une expédition scientifique exceptionnelle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Terre de glace » (1/4). Capables de traverser des zones maritimes entièrement glacées, ces navires sont devenus stratégiques, dans un contexte de conflit d’influences entre puissances dans l’Arctique. Notre journaliste, Léa Bello, embarque tout le mois d’août sur l’un d’eux à l’occasion d’une expédition scientifique exceptionnelle."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/08/16/video-quatre-semaine-a-bord-d-un-brise-glace-ces-navires-a-la-technologie-de-plus-en-plus-convoitee_6747469_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/08/16/video-quatre-semaine-a-bord-d-un-brise-glace-ces-navires-a-la-technologie-de-plus-en-plus-convoitee_6747469_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/08/16/video-quatre-semaine-a-bord-d-un-brise-glace-ces-navires-a-la-technologie-de-plus-en-plus-convoitee_6747469_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Arthur Navet / Le Monde"
+      }
+    ],
+    "credit": "Arthur Navet / Le Monde"
+  }
+}
