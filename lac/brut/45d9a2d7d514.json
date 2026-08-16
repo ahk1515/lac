@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T08:26:58.488113+00:00",
+  "_id": "45d9a2d7d514",
+  "brut": {
+    "title": "En Belgique, 3 000 hectares d'un parc naturel ont été ravagés par l'un des pires incendies de l'histoire du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Belgique, 3 000 hectares d'un parc naturel ont été ravagés par l'un des pires incendies de l'histoire du pays"
+    },
+    "summary": "Le brasier ravage les Fagnes, une grande réserve boisée, prisée des randonneurs et proche de l'Allemagne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le brasier ravage les Fagnes, une grande réserve boisée, prisée des randonneurs et proche de l'Allemagne."
+    },
+    "published": "Sun, 16 Aug 2026 10:17:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      8,
+      17,
+      58,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/belgique/en-belgique-3-000-hectares-d-un-parc-naturel-ont-ete-ravages-par-l-un-des-pires-incendies-de-l-histoire-du-pays_8149637.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/IvWamqpWqTbaQKE-t0wEMqjl-tM/0x0:1023x575/432x243/filters:format(jpg):quality(50)/2026/08/16/6a817117cde78060684706.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/belgique/en-belgique-3-000-hectares-d-un-parc-naturel-ont-ete-ravages-par-l-un-des-pires-incendies-de-l-histoire-du-pays_8149637.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/belgique/en-belgique-3-000-hectares-d-un-parc-naturel-ont-ete-ravages-par-l-un-des-pires-incendies-de-l-histoire-du-pays_8149637.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

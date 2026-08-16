@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T08:26:58.488497+00:00",
+  "_id": "f3d47a0af1c0",
+  "brut": {
+    "title": "Au Liban, onze morts dans une frappe israélienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Liban, onze morts dans une frappe israélienne"
+    },
+    "summary": "Au moins onze personnes ont été tuées samedi 15 août dans une frappe israélienne à Ansar, dans le sud du Liban. Israël affirme avoir visé une infrastructure du Hezbollah, tandis que le gouvernement libanais conteste cette version et dénonce la mort de civils, dont des femmes et des enfants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins onze personnes ont été tuées samedi 15 août dans une frappe israélienne à Ansar, dans le sud du Liban. Israël affirme avoir visé une infrastructure du Hezbollah, tandis que le gouvernement libanais conteste cette version et dénonce la mort de civils, dont des femmes et des enfants."
+    },
+    "published": "Sun, 16 Aug 2026 10:11:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      8,
+      11,
+      52,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/au-liban-onze-morts-dans-une-frappe-israelienne_8149604.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8WRqPTWfF_6_2bRftMiTYOPUsoY/0x59:1288x784/432x243/filters:format(jpg):quality(50)/2026/08/16/6a8170c61fb4c855517298.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/au-liban-onze-morts-dans-une-frappe-israelienne_8149604.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/au-liban-onze-morts-dans-une-frappe-israelienne_8149604.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

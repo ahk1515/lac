@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T08:26:58.489013+00:00",
+  "_id": "5b163063f730",
+  "brut": {
+    "title": "En Espagne, deux femmes meurent dans une inondation, deux bébés sont blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, deux femmes meurent dans une inondation, deux bébés sont blessés"
+    },
+    "summary": "Les deux enfants ont été soignés pour des contusions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les deux enfants ont été soignés pour des contusions."
+    },
+    "published": "Sun, 16 Aug 2026 08:04:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      6,
+      4,
+      59,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/en-espagne-deux-femmes-meurent-dans-une-inondation-deux-bebes-sont-blesses_8149529.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yLhvK4kA9TIHKzH28xv2Jry_0J0/0x459:4896x3213/432x243/filters:format(jpg):quality(50)/2026/08/16/6a8151ce57b55599601525.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-deux-femmes-meurent-dans-une-inondation-deux-bebes-sont-blesses_8149529.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/en-espagne-deux-femmes-meurent-dans-une-inondation-deux-bebes-sont-blesses_8149529.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

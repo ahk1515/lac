@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T08:26:58.280324+00:00",
+  "_id": "03800c95a2b5",
+  "brut": {
+    "title": "En Hongrie, 12 morts et 10 blessés dans l’accident d’un car immatriculé en Pologne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Hongrie, 12 morts et 10 blessés dans l’accident d’un car immatriculé en Pologne"
+    },
+    "published": "Sun, 16 Aug 2026 10:05:49 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      8,
+      5,
+      49,
+      6,
+      228,
+      0
+    ],
+    "summary": "Ce car, qui circulait de Serbie vers la Pologne et transportait 57 passagers et deux conducteurs, « a quitté la chaussée, a fini sa course dans un fossé et s’est immobilisé sur le flanc », a annoncé l’office national chargé de la gestion des catastrophes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce car, qui circulait de Serbie vers la Pologne et transportait 57 passagers et deux conducteurs, « a quitté la chaussée, a fini sa course dans un fossé et s’est immobilisé sur le flanc », a annoncé l’office national chargé de la gestion des catastrophes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/16/en-hongrie-12-morts-et-10-blesses-dans-l-accident-d-un-car-immatricule-en-pologne_6747299_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/16/en-hongrie-12-morts-et-10-blesses-dans-l-accident-d-un-car-immatricule-en-pologne_6747299_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/16/en-hongrie-12-morts-et-10-blesses-dans-l-accident-d-un-car-immatricule-en-pologne_6747299_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/16/688/0/8256/4128/644/322/60/0/bddb4a3_ftp-1-80703z0x8udn-da00265cdaa34a3da3b810366b8e6132-0-aaa30a6de16a49e08826190784a61ba1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Intervention des services d’urgence après qu’un car a quitté la route et s’est renversé dans un fossé, entre Mezokeresztes et Mezonagymihaly (Hongrie), le16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Zoltan Mathe/MTI via AP"
+      }
+    ],
+    "credit": "Zoltan Mathe/MTI via AP"
+  }
+}

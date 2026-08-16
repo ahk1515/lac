@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T08:26:58.488659+00:00",
+  "_id": "ba4e0b310d67",
+  "brut": {
+    "title": "Un bus se renverse en Hongrie faisant 12 morts et au moins 10 blessés graves",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un bus se renverse en Hongrie faisant 12 morts et au moins 10 blessés graves"
+    },
+    "summary": "L'accident est survenu vers 1 heure du matin sur l'autoroute M3, alors qu'il circulait vers Mezokeresztes, à environ 140 kilomètres à l'est de Budapest.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'accident est survenu vers 1 heure du matin sur l'autoroute M3, alors qu'il circulait vers Mezokeresztes, à environ 140 kilomètres à l'est de Budapest."
+    },
+    "published": "Sun, 16 Aug 2026 09:38:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      7,
+      38,
+      7,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/accident/un-bus-se-renverse-en-hongrie-faisant-12-morts-et-au-moins-10-blesses-graves_8149577.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/r0F4yWr1IRliNPJlFABwf4NulZA/0x350:6720x4130/432x243/filters:format(jpg):quality(50)/2026/08/16/6a8168aa45d8e878952893.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/accident/un-bus-se-renverse-en-hongrie-faisant-12-morts-et-au-moins-10-blesses-graves_8149577.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/accident/un-bus-se-renverse-en-hongrie-faisant-12-morts-et-au-moins-10-blesses-graves_8149577.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

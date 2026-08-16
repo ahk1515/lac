@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T08:26:58.280717+00:00",
+  "_id": "aaa83b20a9c4",
+  "brut": {
+    "title": "Au Japon, les pluies diluviennes près de Tokyo causent la mort d’au moins neuf personnes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Japon, les pluies diluviennes près de Tokyo causent la mort d’au moins neuf personnes"
+    },
+    "published": "Sun, 16 Aug 2026 07:56:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      5,
+      56,
+      27,
+      6,
+      228,
+      0
+    ],
+    "updated": "Sun, 16 Aug 2026 09:48:37 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      16,
+      7,
+      48,
+      37,
+      6,
+      228,
+      0
+    ],
+    "summary": "Dès vendredi matin, le cumul sur la ville de Chiba dépassait de plus de trois fois le total de précipitations habituel pour un mois d’août entier, d’après le ministère des territoires. Selon les scientifiques, le réchauffement climatique engendré par l’activité humaine rend ce type de phénomène extrême plus fréquent, plus long et plus intense.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dès vendredi matin, le cumul sur la ville de Chiba dépassait de plus de trois fois le total de précipitations habituel pour un mois d’août entier, d’après le ministère des territoires. Selon les scientifiques, le réchauffement climatique engendré par l’activité humaine rend ce type de phénomène extrême plus fréquent, plus long et plus intense."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/16/au-japon-les-pluies-diluviennes-pres-de-tokyo-causent-la-mort-d-au-moins-neuf-personnes_6747195_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/16/au-japon-les-pluies-diluviennes-pres-de-tokyo-causent-la-mort-d-au-moins-neuf-personnes_6747195_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/16/au-japon-les-pluies-diluviennes-pres-de-tokyo-causent-la-mort-d-au-moins-neuf-personnes_6747195_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/458/0/5498/2749/644/322/60/0/ca897f6_ftp-1-athsuumw7sq4-5836408-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des agents des services publics observent une bouche d’égout sur une route endommagée par les inondations à Sakura, dans la préfecture de Chiba, le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREW CABALLERO-REYNOLDS / AFP"
+      }
+    ],
+    "credit": "ANDREW CABALLERO-REYNOLDS / AFP"
+  }
+}

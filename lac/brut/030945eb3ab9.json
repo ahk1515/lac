@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T08:26:58.280087+00:00",
+  "_id": "030945eb3ab9",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des attaques ukrainiennes ont fait six morts en Russie ; Moscou visée par 600 drones pendant la nuit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des attaques ukrainiennes ont fait six morts en Russie ; Moscou visée par 600 drones pendant la nuit"
+    },
+    "published": "Sun, 16 Aug 2026 10:17:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      8,
+      17,
+      28,
+      6,
+      228,
+      0
+    ],
+    "summary": "Le ministère de la défense russe a affirmé que 822 drones ukrainiens avaient été détruits, dont 600 qui se dirigeaient vers la capitale russe. A Kryvy Rih, dans le centre de l’Ukraine, une personne a été tuée et six autres blessées dans un bombardement russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ministère de la défense russe a affirmé que 822 drones ukrainiens avaient été détruits, dont 600 qui se dirigeaient vers la capitale russe. A Kryvy Rih, dans le centre de l’Ukraine, une personne a été tuée et six autres blessées dans un bombardement russe."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-des-attaques-ukrainiennes-ont-fait-six-morts-en-russie-moscou-visee-par-600-drones-pendant-la-nuit_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-des-attaques-ukrainiennes-ont-fait-six-morts-en-russie-moscou-visee-par-600-drones-pendant-la-nuit_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-des-attaques-ukrainiennes-ont-fait-six-morts-en-russie-moscou-visee-par-600-drones-pendant-la-nuit_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/16/806/0/5712/2856/644/322/60/0/4becf3e_ftp-1-xuxphzpbklgh-2026-08-16t074832z-318246484-rc2ezma4clah-rtrmadp-3-ukraine-crisis-russia-wildberries-moscow.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après l’attaque aérienne ukrainienne près de la ville de Podolsk, dans la banlieue de Moscou, le 16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}
