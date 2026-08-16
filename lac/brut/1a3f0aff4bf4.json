@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T16:22:18.713798+00:00",
+  "_id": "1a3f0aff4bf4",
+  "brut": {
+    "title": "Guerre en Ukraine : des attaques nocturnes massives dans les deux camps",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : des attaques nocturnes massives dans les deux camps"
+    },
+    "summary": "Moscou a été visée par 600 drones ukrainiens, dans la nuit du 15 au 16 août. De son côté, Kiev a été ciblée par des missiles balistiques russes. De part et d'autres du front, les frappes, qui s'intensifient, ont fait 12 morts... Claire VÉROVE",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Moscou a été visée par 600 drones ukrainiens, dans la nuit du 15 au 16 août. De son côté, Kiev a été ciblée par des missiles balistiques russes. De part et d'autres du front, les frappes, qui s'intensifient, ont fait 12 morts... Claire VÉROVE"
+    },
+    "published": "Sun, 16 Aug 2026 14:30:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      12,
+      30,
+      58,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-attaques-nocturnes-massives-dans-les-deux-camps_8149862.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/m_0DWjW4uc-VhQfiGrttsQaqA7Y/0x118:1518x972/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81a284268ce400785481.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-attaques-nocturnes-massives-dans-les-deux-camps_8149862.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-attaques-nocturnes-massives-dans-les-deux-camps_8149862.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

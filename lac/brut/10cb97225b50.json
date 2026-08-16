@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T16:22:18.712836+00:00",
+  "_id": "10cb97225b50",
+  "brut": {
+    "title": "Les séries qui explorent l'histoire : \"Babylon Berlin\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les séries qui explorent l'histoire : \"Babylon Berlin\""
+    },
+    "summary": "Chaque dimanche, cet été, Laurent Valière revient sur une grande série qui revisite l'histoire. Aujourd'hui, les années 30 en Allemagne et \"Babylon Berlin\" disponible sur Netflix.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chaque dimanche, cet été, Laurent Valière revient sur une grande série qui revisite l'histoire. Aujourd'hui, les années 30 en Allemagne et \"Babylon Berlin\" disponible sur Netflix."
+    },
+    "published": "Sun, 16 Aug 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      15,
+      0,
+      2,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/les-series-qui-explorent-l-histoire-babylon-berlin_8070299.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/isif4pEqNBOTnTLTXmgk3KRZKKo/0x135:1440x945/432x243/filters:format(jpg):quality(50)/2026/07/03/6a47df4ed0975688793027.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/les-series-qui-explorent-l-histoire-babylon-berlin_8070299.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/les-series-qui-explorent-l-histoire-babylon-berlin_8070299.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

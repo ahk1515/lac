@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T16:22:18.491029+00:00",
+  "_id": "1a029c9f0f35",
+  "brut": {
+    "title": "Quatre œuvres d’Antonello de Messine volées dans un musée en Sicile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quatre œuvres d’Antonello de Messine volées dans un musée en Sicile"
+    },
+    "published": "Sun, 16 Aug 2026 14:58:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      12,
+      58,
+      27,
+      6,
+      228,
+      0
+    ],
+    "summary": "Il y a deux jours, la police italienne a annoncé avoir retrouvé trois tableaux de Renoir, Cézanne et Matisse, d’une valeur totale de plus de 9 millions d’euros, qui avaient été dérobés en mars dans un musée près de Parme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il y a deux jours, la police italienne a annoncé avoir retrouvé trois tableaux de Renoir, Cézanne et Matisse, d’une valeur totale de plus de 9 millions d’euros, qui avaient été dérobés en mars dans un musée près de Parme."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/16/quatre-uvres-d-antonello-de-messine-volees-dans-un-musee-en-sicile_6747473_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/16/quatre-uvres-d-antonello-de-messine-volees-dans-un-musee-en-sicile_6747473_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/16/quatre-uvres-d-antonello-de-messine-volees-dans-un-musee-en-sicile_6747473_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/16/320/0/768/384/644/322/60/0/a4596de_ftp-1-bqfmmtjqmnwj-2026-08-16t103524z-1692678138-rc2mzmaofp5g-rtrmadp-3-italy-theft-art-stills.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "« La Vierge à l’Enfant avec un franciscain en adoration » (XVᵉ siècle), d’Antonello de Messine, exposé au Musée régional de Messine (Italie)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Musée régional de Messine  via REUTERS"
+      }
+    ],
+    "credit": "Musée régional de Messine  via REUTERS"
+  }
+}

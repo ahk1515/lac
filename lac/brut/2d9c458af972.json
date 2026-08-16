@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T16:22:18.713533+00:00",
+  "_id": "2d9c458af972",
+  "brut": {
+    "title": "\"Paradise\" : un premier film mystérieux, entre le Canada et le Ghana",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Paradise\" : un premier film mystérieux, entre le Canada et le Ghana"
+    },
+    "summary": "Le réalisateur québécois Jérémy Comte s'était fait connaître en 2019 par un premier court-métrage, \"Fauve\", nommé aux Oscars.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le réalisateur québécois Jérémy Comte s'était fait connaître en 2019 par un premier court-métrage, \"Fauve\", nommé aux Oscars."
+    },
+    "published": "Sun, 16 Aug 2026 15:03:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      13,
+      3,
+      25,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/paradise-un-premier-film-mysterieux-entre-le-canada-et-le-ghana_8146214.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hJ1qDiRuGVgJuXxAClMxZeTvBxI/1x0:1598x898/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7dd40ba9547116486542.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/paradise-un-premier-film-mysterieux-entre-le-canada-et-le-ghana_8146214.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/paradise-un-premier-film-mysterieux-entre-le-canada-et-le-ghana_8146214.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

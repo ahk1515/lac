@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T16:22:18.713247+00:00",
+  "_id": "84d64885e49c",
+  "brut": {
+    "title": "L'Espagne lutte contre un incendie menaçant un monastère millénaire, des renforts français attendus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Espagne lutte contre un incendie menaçant un monastère millénaire, des renforts français attendus"
+    },
+    "summary": "Les flammes se sont propagées sur 16 600 hectares dans le nord-est du pays, entraînant l'évacuation de plus de 1 000 personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les flammes se sont propagées sur 16 600 hectares dans le nord-est du pays, entraînant l'évacuation de plus de 1 000 personnes."
+    },
+    "published": "Sun, 16 Aug 2026 15:45:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      13,
+      45,
+      25,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/l-espagne-lutte-contre-un-incendie-menacant-un-monastere-millenaire-des-renforts-francais-attendus_8149931.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ftDlMciXCBw1J6mUhjU_B8ydNz0/0x6:1024x582/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81bda6004f4890198141.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/l-espagne-lutte-contre-un-incendie-menacant-un-monastere-millenaire-des-renforts-francais-attendus_8149931.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/l-espagne-lutte-contre-un-incendie-menacant-un-monastere-millenaire-des-renforts-francais-attendus_8149931.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

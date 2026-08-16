@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T16:22:18.712538+00:00",
+  "_id": "83acb2bf20ef",
+  "brut": {
+    "title": "Deux corps retrouvés sur l'île grecque de Salamine, frappée par deux incendies",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux corps retrouvés sur l'île grecque de Salamine, frappée par deux incendies"
+    },
+    "summary": "\"Un ordre d'évacuation a été donné. Des centaines de vacanciers et de résidents permanents sont concernés\", avait auparavant déclaré un porte-parole des pompiers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Un ordre d'évacuation a été donné. Des centaines de vacanciers et de résidents permanents sont concernés\", avait auparavant déclaré un porte-parole des pompiers."
+    },
+    "published": "Sun, 16 Aug 2026 17:26:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      15,
+      26,
+      9,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/grece/deux-corps-retrouves-sur-l-ile-grecque-de-salamine-frappee-par-deux-incendies_8150003.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/nNmfbFZJsoVZeCkFz4LP-91GsuU/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81d63bbfe8e732510418.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/grece/deux-corps-retrouves-sur-l-ile-grecque-de-salamine-frappee-par-deux-incendies_8150003.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/grece/deux-corps-retrouves-sur-l-ile-grecque-de-salamine-frappee-par-deux-incendies_8150003.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

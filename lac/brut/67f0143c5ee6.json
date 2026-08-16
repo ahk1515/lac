@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T16:22:18.713666+00:00",
+  "_id": "67f0143c5ee6",
+  "brut": {
+    "title": "La procédure d'alerte à la pollution atmosphérique déclenchée en Moselle en raison des fumées de l'incendie en Belgique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La procédure d'alerte à la pollution atmosphérique déclenchée en Moselle en raison des fumées de l'incendie en Belgique"
+    },
+    "summary": "La Belgique fait face depuis plusieurs jours à l'un des pires incendies de son histoire, dans l'est du pays. Les fumées dégagées par le feu ont atteint la Moselle samedi soir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Belgique fait face depuis plusieurs jours à l'un des pires incendies de son histoire, dans l'est du pays. Les fumées dégagées par le feu ont atteint la Moselle samedi soir."
+    },
+    "published": "Sun, 16 Aug 2026 14:50:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      12,
+      50,
+      24,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-procedure-d-alerte-a-la-pollution-atmospherique-declenchee-en-moselle-en-raison-des-fumees-de-l-incendie-en-belgique_8149907.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/1i-XLS8oDdm0mgiMPuYwkBHg7c4/0x805:7728x5152/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81b1d21c8d1344820636.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-procedure-d-alerte-a-la-pollution-atmospherique-declenchee-en-moselle-en-raison-des-fumees-de-l-incendie-en-belgique_8149907.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-procedure-d-alerte-a-la-pollution-atmospherique-declenchee-en-moselle-en-raison-des-fumees-de-l-incendie-en-belgique_8149907.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

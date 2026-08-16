@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T16:22:18.490364+00:00",
+  "_id": "db6ab2328ea2",
+  "brut": {
+    "title": "Au Canada, une pétition citoyenne réclame l’expulsion de l’ambassadeur américain",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Canada, une pétition citoyenne réclame l’expulsion de l’ambassadeur américain"
+    },
+    "published": "Sun, 16 Aug 2026 16:30:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      14,
+      30,
+      1,
+      6,
+      228,
+      0
+    ],
+    "updated": "Sun, 16 Aug 2026 18:11:42 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      16,
+      16,
+      11,
+      42,
+      6,
+      228,
+      0
+    ],
+    "summary": "L’ambassadeur des Etats-Unis au Canada, Pete Hoekstra, est accusé de déroger à son devoir de réserve en multipliant les attaques contre Ottawa, à qui il reproche les « discours antiaméricains ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ambassadeur des Etats-Unis au Canada, Pete Hoekstra, est accusé de déroger à son devoir de réserve en multipliant les attaques contre Ottawa, à qui il reproche les « discours antiaméricains »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/16/au-canada-une-petition-citoyenne-reclame-l-expulsion-de-l-ambassadeur-americain_6747540_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/16/au-canada-une-petition-citoyenne-reclame-l-expulsion-de-l-ambassadeur-americain_6747540_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/16/au-canada-une-petition-citoyenne-reclame-l-expulsion-de-l-ambassadeur-americain_6747540_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/527/0/7259/3629/644/322/60/0/98cd185_upload-1-ogh89f0o9n9k-063-2182507226.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Pete Hoekstra, alors président du parti républicain du Michigan, à Novi (Michigan), le 5 novembre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SARAH RICE/Getty Images via AFP"
+      }
+    ],
+    "credit": "SARAH RICE/Getty Images via AFP"
+  }
+}
