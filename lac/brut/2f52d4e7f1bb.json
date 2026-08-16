@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T20:19:44.040700+00:00",
+  "_id": "2f52d4e7f1bb",
+  "brut": {
+    "title": "Cisjordanie : des Palestiniens assiégés dans leur village",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cisjordanie : des Palestiniens assiégés dans leur village"
+    },
+    "summary": "Jusqu’où ira la violence de certains colons israéliens en Cisjordanie ? Cela fait des mois que les tensions et les affrontements s’intensifient dans ce territoire palestinien occupé par Israël. Depuis une semaine, plusieurs maisons se retrouvent encerclées par des colons. Des familles palestiniennes se retrouvent sans eau ni vivres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Jusqu’où ira la violence de certains colons israéliens en Cisjordanie ? Cela fait des mois que les tensions et les affrontements s’intensifient dans ce territoire palestinien occupé par Israël. Depuis une semaine, plusieurs maisons se retrouvent encerclées par des colons. Des familles palestiniennes se retrouvent sans eau ni vivres."
+    },
+    "published": "Sun, 16 Aug 2026 21:50:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      19,
+      50,
+      59,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cisjordanie-des-palestiniens-assieges-dans-leur-village_8150270.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/acTuFbLfBazMPoiEoBhB9OxZOjc/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/16/6a820565bfef9484338510.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cisjordanie-des-palestiniens-assieges-dans-leur-village_8150270.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cisjordanie-des-palestiniens-assieges-dans-leur-village_8150270.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

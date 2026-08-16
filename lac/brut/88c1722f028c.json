@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T20:19:43.804156+00:00",
+  "_id": "88c1722f028c",
+  "brut": {
+    "title": "Hongrie : les images de l’accident de car qui a fait 12 morts et 10 blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Hongrie : les images de l’accident de car qui a fait 12 morts et 10 blessés"
+    },
+    "published": "Sun, 16 Aug 2026 18:30:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      16,
+      30,
+      11,
+      6,
+      228,
+      0
+    ],
+    "summary": "Ce car, qui transportait 57 passagers et deux conducteurs, se dirigeait vers Mezokeresztes, à environ 140 kilomètres à l’est de Budapest, selon la police du comitat de Borsod-Abauj-Zemplen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce car, qui transportait 57 passagers et deux conducteurs, se dirigeait vers Mezokeresztes, à environ 140 kilomètres à l’est de Budapest, selon la police du comitat de Borsod-Abauj-Zemplen."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/16/hongrie-les-images-de-l-accident-de-car-qui-a-fait-au-moins-12-morts-et-10-blesses_6747648_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/16/hongrie-les-images-de-l-accident-de-car-qui-a-fait-au-moins-12-morts-et-10-blesses_6747648_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/16/hongrie-les-images-de-l-accident-de-car-qui-a-fait-au-moins-12-morts-et-10-blesses_6747648_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/16/230/0/2727/1363/644/322/60/0/f3ba78b_ftp-1-6n4r3tpnucqw-2026-08-16t084508z-1949842787-rc2jzma7irwz-rtrmadp-3-hungary-poland-bus-accident.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BALAZS TOTH/MEZOKOVESD KEPEKBEN / via REUTERS"
+      }
+    ],
+    "credit": "BALAZS TOTH/MEZOKOVESD KEPEKBEN / via REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-16T20:19:44.041301+00:00",
+  "_id": "e071b8e1070b",
+  "brut": {
+    "title": "Deux morts et des centaines d’évacués après un incendie sur une île grecque",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux morts et des centaines d’évacués après un incendie sur une île grecque"
+    },
+    "summary": "Les plages étaient bondées ce dimanche 16 août lorsque le feu s’est déclaré. Il s’est rapidement propagé sur l'île grecque de Salamine, semant la panique chez les habitants et les touristes. Deux personnes ont été retrouvées mortes et plusieurs centaines évacuées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les plages étaient bondées ce dimanche 16 août lorsque le feu s’est déclaré. Il s’est rapidement propagé sur l'île grecque de Salamine, semant la panique chez les habitants et les touristes. Deux personnes ont été retrouvées mortes et plusieurs centaines évacuées."
+    },
+    "published": "Sun, 16 Aug 2026 20:28:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      18,
+      28,
+      31,
+      6,
+      228,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/deux-morts-et-des-centaines-d-evacues-apres-un-incendie-sur-une-ile-grecque_8150234.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0NOZLB6TmtORY6t74gJdDD9nR4U/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/16/6a81ffb5aa169414566211.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/deux-morts-et-des-centaines-d-evacues-apres-un-incendie-sur-une-ile-grecque_8150234.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/deux-morts-et-des-centaines-d-evacues-apres-un-incendie-sur-une-ile-grecque_8150234.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
