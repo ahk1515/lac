@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T01:12:55.530989+00:00",
+  "_id": "f8fe26883368",
+  "brut": {
+    "title": "L’Iran dénonce la détention de trois pilotes de chasse par le Qatar qui dément les avoir capturés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Iran dénonce la détention de trois pilotes de chasse par le Qatar qui dément les avoir capturés"
+    },
+    "published": "Sun, 16 Aug 2026 00:48:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      15,
+      22,
+      48,
+      14,
+      5,
+      227,
+      0
+    ],
+    "summary": "Téhéran affirme que ses trois soldats ont été récupérés par Doha après le crash de leurs avions, en mars, lors d’une attaque visant la base américaine d’Al-Udeid. Des « déclarations trompeuses », a répondu la diplomatie qatarie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Téhéran affirme que ses trois soldats ont été récupérés par Doha après le crash de leurs avions, en mars, lors d’une attaque visant la base américaine d’Al-Udeid. Des « déclarations trompeuses », a répondu la diplomatie qatarie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/375/0/2250/1125/644/322/60/0/55cfee7_upload-1-emuvx7hr1b7e-000-33pv3rt.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un Soukhoï Su-24 de l’armée de l’air iranienne, lors d’un exercice, en Iran, sur une photo diffusée par l’armée le 24 juillet 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Armée iranienne via AFP"
+      }
+    ],
+    "credit": "Armée iranienne via AFP"
+  }
+}
