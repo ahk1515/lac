@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T04:34:15.833179+00:00",
+  "_id": "45460f25eda6",
+  "brut": {
+    "title": "« Les luttes de faction à Téhéran pèsent sur les pourparlers avec les Etats-Unis »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Les luttes de faction à Téhéran pèsent sur les pourparlers avec les Etats-Unis »"
+    },
+    "published": "Sun, 16 Aug 2026 06:00:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      4,
+      0,
+      20,
+      6,
+      228,
+      0
+    ],
+    "summary": "Les gardiens de la révolution ne contrôlent pas seulement les opérations militaires, ils imposent aussi leurs exigences au président iranien et à ses négociateurs, analyse l’historien Jean-Pierre Filiu dans sa chronique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les gardiens de la révolution ne contrôlent pas seulement les opérations militaires, ils imposent aussi leurs exigences au président iranien et à ses négociateurs, analyse l’historien Jean-Pierre Filiu dans sa chronique."
+    },
+    "id": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/16/les-luttes-de-faction-a-teheran-pesent-sur-les-pourparlers-avec-les-etats-unis_6747122_6116995.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/16/les-luttes-de-faction-a-teheran-pesent-sur-les-pourparlers-avec-les-etats-unis_6747122_6116995.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/16/les-luttes-de-faction-a-teheran-pesent-sur-les-pourparlers-avec-les-etats-unis_6747122_6116995.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/0/0/6000/3000/644/322/60/0/9eb93e4_ftp-1-w0wt7rrx6fxb-8294f431c0704484a013c3fda70a2d59-0-ba94ec9915164387bf5f37b0a7bf987f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une statue de la Liberté effondrée et une foule brandissant des drapeaux iraniens et chiites, sur un panneau d’affichage de la place de la Révolution à Téhéran (Iran), le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vahid Salemi/AP Photo"
+      }
+    ],
+    "credit": "Vahid Salemi/AP Photo"
+  }
+}

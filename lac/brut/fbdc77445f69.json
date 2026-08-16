@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-16T04:34:15.832593+00:00",
+  "_id": "fbdc77445f69",
+  "brut": {
+    "title": "Fortes pluies et coupures de courant : l’ouragan Lala menace Hawaï",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Fortes pluies et coupures de courant : l’ouragan Lala menace Hawaï"
+    },
+    "published": "Sun, 16 Aug 2026 06:11:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      16,
+      4,
+      11,
+      43,
+      6,
+      228,
+      0
+    ],
+    "summary": "Plus de 40 000 foyers sont déjà privés d’électricité et les autorités appellent à la vigilance face à des risques de crues soudaines. Lala pourrait déverser de 25 à 50 centimètres de pluie sur la Grande île, avec des cumuls dépassant 60 centimètres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plus de 40 000 foyers sont déjà privés d’électricité et les autorités appellent à la vigilance face à des risques de crues soudaines. Lala pourrait déverser de 25 à 50 centimètres de pluie sur la Grande île, avec des cumuls dépassant 60 centimètres."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/16/fortes-pluies-et-coupures-de-courant-l-ouragan-lala-menace-hawai_6747129_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/16/fortes-pluies-et-coupures-de-courant-l-ouragan-lala-menace-hawai_6747129_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/16/fortes-pluies-et-coupures-de-courant-l-ouragan-lala-menace-hawai_6747129_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/16/551/0/4032/2016/644/322/60/0/7cdaccc_ftp-1-ndxstuevzy4f-1c2e2fd3ac1048ae914608f6d9e05597-0-8824102cd54a46a68703e1d7e4c2e7cf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Hilo, sur la Grande Île d’Hawaï, le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Taylor Cozloff/AP"
+      }
+    ],
+    "credit": "Taylor Cozloff/AP"
+  }
+}
