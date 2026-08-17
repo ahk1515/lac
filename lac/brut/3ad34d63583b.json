@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T16:25:00.015360+00:00",
+  "_id": "3ad34d63583b",
+  "brut": {
+    "title": "« Toute la région s’est retrouvée éclairée par les flammes » : les habitants du sud du Liban vivent dans la peur des frappes israéliennes et des incendies qu’elles provoquent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Toute la région s’est retrouvée éclairée par les flammes » : les habitants du sud du Liban vivent dans la peur des frappes israéliennes et des incendies qu’elles provoquent"
+    },
+    "published": "Mon, 17 Aug 2026 17:30:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      15,
+      30,
+      4,
+      0,
+      229,
+      0
+    ],
+    "updated": "Mon, 17 Aug 2026 18:02:03 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      17,
+      16,
+      2,
+      3,
+      0,
+      229,
+      0
+    ],
+    "summary": "Dans la zone sous contrôle israélien, les pompiers libanais ont besoin d’une autorisation pour intervenir. Dans les villages encore habités, les résidents se sentent isolés et craignent de devoir quitter leurs logements.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la zone sous contrôle israélien, les pompiers libanais ont besoin d’une autorisation pour intervenir. Dans les villages encore habités, les résidents se sentent isolés et craignent de devoir quitter leurs logements."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/17/dans-le-sud-du-liban-la-peur-des-incendies-causes-par-des-frappes-israeliennes_6748396_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/17/dans-le-sud-du-liban-la-peur-des-incendies-causes-par-des-frappes-israeliennes_6748396_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/17/dans-le-sud-du-liban-la-peur-des-incendies-causes-par-des-frappes-israeliennes_6748396_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/17/424/0/5088/2544/644/322/60/0/44f1798_upload-1-okahye1c10ed-000-c42t73e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des incendies de forêt ravagent la périphérie du village de Kfar Chouba, depuis la localité de Marjeyoun, dans le sud du Liban, à la suite de bombardements israéliens qui ont visé la région, le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

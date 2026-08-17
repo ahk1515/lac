@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T16:25:00.015951+00:00",
+  "_id": "83f4a689ac6a",
+  "brut": {
+    "title": "Naufrage en Méditerranée : 7 migrants sont morts et 50 autres ont été secourus au large de la Libye",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Naufrage en Méditerranée : 7 migrants sont morts et 50 autres ont été secourus au large de la Libye"
+    },
+    "published": "Mon, 17 Aug 2026 16:54:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      14,
+      54,
+      13,
+      0,
+      229,
+      0
+    ],
+    "updated": "Mon, 17 Aug 2026 16:56:19 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      17,
+      14,
+      56,
+      19,
+      0,
+      229,
+      0
+    ],
+    "summary": "Quarante-cinq hommes et cinq femmes secourus, dont vingt-neuf mineurs non accompagnés, étaient à bord d’une petite embarcation en bois. Ils affirment être originaires d’Egypte et de Somalie, selon l’ONG Emergency.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quarante-cinq hommes et cinq femmes secourus, dont vingt-neuf mineurs non accompagnés, étaient à bord d’une petite embarcation en bois. Ils affirment être originaires d’Egypte et de Somalie, selon l’ONG Emergency."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/17/naufrage-en-mediterranee-7-migrants-sont-morts-et-50-autres-secourus-au-large-de-la-libye_6748360_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/17/naufrage-en-mediterranee-7-migrants-sont-morts-et-50-autres-secourus-au-large-de-la-libye_6748360_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/17/naufrage-en-mediterranee-7-migrants-sont-morts-et-50-autres-secourus-au-large-de-la-libye_6748360_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2019/03/25/432/0/4418/2209/644/322/60/0/0288383_677e1f2a43c24b6ba1c1408601d7675f-677e1f2a43c24b6ba1c1408601d7675f-0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les sauveteurs transfèrent des migrants secourus par un navire ravitailleur de plate-forme pétrolière à bord de l’Aquarius, navire des ONG SOS Méditerranée et Médecins Sans Frontières, en mer Méditerranée, au nord des côtes libyennes, le 30 août 2017."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Darko Bandic / AP"
+      }
+    ],
+    "credit": "Darko Bandic / AP"
+  }
+}

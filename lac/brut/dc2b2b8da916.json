@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T16:25:00.103065+00:00",
+  "_id": "dc2b2b8da916",
+  "brut": {
+    "title": "L'Iran interdit le retour de deux diplomates français retenus brièvement en juillet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Iran interdit le retour de deux diplomates français retenus brièvement en juillet"
+    },
+    "summary": "Le 20 juillet, le chef de la diplomatie française avait rapporté que ces diplomates ont subi \"une action d'intimidation extrêmement grave de la part des services de sécurité iraniens\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le 20 juillet, le chef de la diplomatie française avait rapporté que ces diplomates ont subi \"une action d'intimidation extrêmement grave de la part des services de sécurité iraniens\"."
+    },
+    "published": "Mon, 17 Aug 2026 17:32:42 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      15,
+      32,
+      42,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/l-iran-interdit-le-retour-de-deux-diplomates-francais-detenus-brievement-en-juillet_8151173.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/P-jRJHUh2pg2usrFiRfoAtkf4Pc/0x107:1024x683/432x243/filters:format(jpg):quality(50)/2026/08/17/6a83296ee1db4095486136.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/l-iran-interdit-le-retour-de-deux-diplomates-francais-detenus-brievement-en-juillet_8151173.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/l-iran-interdit-le-retour-de-deux-diplomates-francais-detenus-brievement-en-juillet_8151173.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

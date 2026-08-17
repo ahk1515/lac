@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T16:25:00.103203+00:00",
+  "_id": "bb483f5b498c",
+  "brut": {
+    "title": "Belgique : l'incendie du siècle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Belgique : l'incendie du siècle"
+    },
+    "summary": "La Belgique fait face à l’un de ses pires incendies dans une réserve forestière. Les fumées gagnent la Moselle et l’Allemagne, où une ville appelle ses habitants à évacuer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Belgique fait face à l’un de ses pires incendies dans une réserve forestière. Les fumées gagnent la Moselle et l’Allemagne, où une ville appelle ses habitants à évacuer."
+    },
+    "published": "Mon, 17 Aug 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      15,
+      0,
+      2,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/belgique/belgique-l-incendie-du-siecle_8150933.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/W2WXEWIRUIcOewxfuaH_IMqKnE0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/17/6a82e5f60f7d3660026848.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/belgique/belgique-l-incendie-du-siecle_8150933.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/belgique/belgique-l-incendie-du-siecle_8150933.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T16:25:00.015523+00:00",
+  "_id": "8ae926c7e3d8",
+  "brut": {
+    "title": "Zimbabwe : le bilan du naufrage d’un ferry sur le lac Kariba s’alourdit encore, passant à 92 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Zimbabwe : le bilan du naufrage d’un ferry sur le lac Kariba s’alourdit encore, passant à 92 morts"
+    },
+    "published": "Mon, 17 Aug 2026 17:12:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      15,
+      12,
+      18,
+      0,
+      229,
+      0
+    ],
+    "updated": "Mon, 17 Aug 2026 17:17:57 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      17,
+      15,
+      17,
+      57,
+      0,
+      229,
+      0
+    ],
+    "summary": "Des centaines de personnes ont défilé au cours du week-end à l’hôpital de district de Kariba, faisant la queue pour identifier les corps de leurs proches.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des centaines de personnes ont défilé au cours du week-end à l’hôpital de district de Kariba, faisant la queue pour identifier les corps de leurs proches."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/17/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-alourdit-encore-passant-a-92-morts_6748394_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/17/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-alourdit-encore-passant-a-92-morts_6748394_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/17/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-alourdit-encore-passant-a-92-morts_6748394_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/247/0/4400/2200/644/322/60/0/397c790_ftp-1-5u0oc1qkwibi-57c77f81cecb403a80c8ff5196596155-1-92104e31cc3140928286a65c5dc1d5a4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une cérémonie funéraire en hommages au morts du naufrage, à Kariba (Zimbabwe), le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mkhululi Thobela/AP Photo"
+      }
+    ],
+    "credit": "Mkhululi Thobela/AP Photo"
+  }
+}

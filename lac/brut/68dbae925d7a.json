@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T16:25:00.016609+00:00",
+  "_id": "68dbae925d7a",
+  "brut": {
+    "title": "En Inde, 15 morts dans deux accidents liés à des fêtes religieuses en l’honneur du dieu Shiva",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Inde, 15 morts dans deux accidents liés à des fêtes religieuses en l’honneur du dieu Shiva"
+    },
+    "published": "Mon, 17 Aug 2026 14:53:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      12,
+      53,
+      58,
+      0,
+      229,
+      0
+    ],
+    "summary": "Un incendie est survenu dans un hôtel de Tarapith et une bousculade dans un temple hindou du district de Lakhisarai (Etat du Bihar), tous deux situés dans l’est du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un incendie est survenu dans un hôtel de Tarapith et une bousculade dans un temple hindou du district de Lakhisarai (Etat du Bihar), tous deux situés dans l’est du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/17/en-inde-15-morts-dans-deux-accidents-lies-a-des-fetes-religieuses-en-l-honneur-du-dieu-shiva_6748216_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/17/en-inde-15-morts-dans-deux-accidents-lies-a-des-fetes-religieuses-en-l-honneur-du-dieu-shiva_6748216_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/17/en-inde-15-morts-dans-deux-accidents-lies-a-des-fetes-religieuses-en-l-honneur-du-dieu-shiva_6748216_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/433/0/5194/2597/644/322/60/0/643a739_ftp-1-kfxs612nnwcz-c07c8deb4f9741fb89b121fbb0629c70-0-ca52d117ade343c1a7e06ea4cc82b444.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des fidèles hindous prient devant une rangée d’idoles symbolisant le dieu hindou Shiva, lors du deuxième jour de Sawan Somvar, à Prayagraj (Inde), le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Rajesh Kumar Singh/AP"
+      }
+    ],
+    "credit": "Rajesh Kumar Singh/AP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T16:25:00.103611+00:00",
+  "_id": "8646d075392b",
+  "brut": {
+    "title": "En Asie, les chiens peuvent désormais être identifiés grâce à leur truffe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Asie, les chiens peuvent désormais être identifiés grâce à leur truffe"
+    },
+    "summary": "Chaque dessin de truffe est unique. Alors, pour retrouver plus facilement les chiens perdus ou éviter les abandons, en Corée du Sud et au Japon, des villes utilisent l'intelligence artificielle pour enregistrer le museau de chaque animal.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chaque dessin de truffe est unique. Alors, pour retrouver plus facilement les chiens perdus ou éviter les abandons, en Corée du Sud et au Japon, des villes utilisent l'intelligence artificielle pour enregistrer le museau de chaque animal."
+    },
+    "published": "Mon, 17 Aug 2026 15:25:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      13,
+      25,
+      1,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-asie-les-chiens-peuvent-desormais-etre-identifies-grace-a-leur-truffe_8124431.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Q7VWKp-CvFGL2HkJBfnbsMHBjKY/0x224:4300x2643/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82b3b868715157306782.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-asie-les-chiens-peuvent-desormais-etre-identifies-grace-a-leur-truffe_8124431.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-asie-les-chiens-peuvent-desormais-etre-identifies-grace-a-leur-truffe_8124431.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T16:25:00.103339+00:00",
+  "_id": "a9b29be90e7f",
+  "brut": {
+    "title": "\"Cela me coûte 500 euros par jour\" : les agriculteurs irlandais font le bilan de la sécheresse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Cela me coûte 500 euros par jour\" : les agriculteurs irlandais font le bilan de la sécheresse"
+    },
+    "summary": "L'Irlande est frappée par la sécheresse. L'herbe ne pousse plus et les éleveurs laitiers, inquiets, doivent déjà puiser dans leurs stocks de fourrage d'hiver. Le média public irlandais RTE les a rencontrés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Irlande est frappée par la sécheresse. L'herbe ne pousse plus et les éleveurs laitiers, inquiets, doivent déjà puiser dans leurs stocks de fourrage d'hiver. Le média public irlandais RTE les a rencontrés."
+    },
+    "published": "Mon, 17 Aug 2026 16:11:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      14,
+      11,
+      57,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/cela-me-coute-500-euros-par-jour-les-agriculteurs-irlandais-font-le-bilan-de-la-secheresse_8151047.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MV9p6U6le5leYCbdBIRpVnuClto/0x0:614x345/432x243/filters:format(jpg):quality(50)/2026/08/17/6a830b9c6031f002626849.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/cela-me-coute-500-euros-par-jour-les-agriculteurs-irlandais-font-le-bilan-de-la-secheresse_8151047.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/cela-me-coute-500-euros-par-jour-les-agriculteurs-irlandais-font-le-bilan-de-la-secheresse_8151047.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
