@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T20:24:35.531542+00:00",
+  "_id": "b0d2bb4d685f",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les autorités ukrainiennes font état d’attaques russes nocturnes, notamment dans le sud du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les autorités ukrainiennes font état d’attaques russes nocturnes, notamment dans le sud du pays"
+    },
+    "published": "Mon, 17 Aug 2026 22:00:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      20,
+      0,
+      17,
+      0,
+      229,
+      0
+    ],
+    "summary": "Au moins deux personnes ont été tuées à la suite d’une frappe russe sur la ville de Zaporijia, dans le sud de l’Ukraine, a annoncé le chef de l’administration militaire de l’oblast de Zaporijia, Ivan Fedorov.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins deux personnes ont été tuées à la suite d’une frappe russe sur la ville de Zaporijia, dans le sud de l’Ukraine, a annoncé le chef de l’administration militaire de l’oblast de Zaporijia, Ivan Fedorov."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-autorites-ukrainiennes-font-etat-d-attaques-russes-nocturnes-notamment-dans-le-sud-du-pays_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-autorites-ukrainiennes-font-etat-d-attaques-russes-nocturnes-notamment-dans-le-sud-du-pays_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-autorites-ukrainiennes-font-etat-d-attaques-russes-nocturnes-notamment-dans-le-sud-du-pays_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/291/0/3497/1748/644/322/60/0/e53111f_ftp-1-udfyrjefmexk-5813061-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un secouriste ukrainien intervient sur le site d’une frappe russe à Zaporijia, le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DARYA NAZAROVA / AFP"
+      }
+    ],
+    "credit": "DARYA NAZAROVA / AFP"
+  }
+}

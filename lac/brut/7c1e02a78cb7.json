@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T20:24:35.531970+00:00",
+  "_id": "7c1e02a78cb7",
+  "brut": {
+    "title": "Incendie en Belgique : le feu dans les Hautes-Fagnes provoque un débat sur l’impréparation du pays au changement climatique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie en Belgique : le feu dans les Hautes-Fagnes provoque un débat sur l’impréparation du pays au changement climatique"
+    },
+    "published": "Mon, 17 Aug 2026 19:33:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      17,
+      33,
+      47,
+      0,
+      229,
+      0
+    ],
+    "updated": "Mon, 17 Aug 2026 20:09:43 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      17,
+      18,
+      9,
+      43,
+      0,
+      229,
+      0
+    ],
+    "summary": "Le feu qui embrase depuis le 14 août le plateau des Hautes-Fagnes, dans l’est de la Belgique, continue de progresser.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le feu qui embrase depuis le 14 août le plateau des Hautes-Fagnes, dans l’est de la Belgique, continue de progresser."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/17/en-belgique-l-incendie-des-fagnes-provoque-un-debat-sur-l-impreparation-du-pays-au-changement-climatique_6748411_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/17/en-belgique-l-incendie-des-fagnes-provoque-un-debat-sur-l-impreparation-du-pays-au-changement-climatique_6748411_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/17/en-belgique-l-incendie-des-fagnes-provoque-un-debat-sur-l-impreparation-du-pays-au-changement-climatique_6748411_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/17/238/0/2856/1428/644/322/60/0/64eab74_ftp-1-m2d4y42ddmsv-5862393-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le roi Philippe de Belgique s’entretient avec des pompiers participant à l’opération d’extinction d’un incendie de forêt qui fait rage dans la réserve naturelle des Hautes Fagnes, à Sourbrodt, en Belgique, le 17 août 2026.\n (Photo by NICOLAS LAMBERT / POOL / AFP)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NICOLAS LAMBERT/AFP"
+      }
+    ],
+    "credit": "NICOLAS LAMBERT/AFP"
+  }
+}

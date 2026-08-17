@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T20:24:35.799744+00:00",
+  "_id": "676fd8dc14bc",
+  "brut": {
+    "title": "Après un dessin contre la guerre, Maria et son père ont fui la Russie pour trouver refuge en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après un dessin contre la guerre, Maria et son père ont fui la Russie pour trouver refuge en France"
+    },
+    "summary": "À 12 ans, Maria a dessiné une scène dénonçant la guerre en Ukraine. Son geste a bouleversé sa vie et celle de son père, condamné à deux ans de prison en Russie. Après sa libération et de nouvelles pressions du FSB, ils ont fui la Russie pour trouver refuge en France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À 12 ans, Maria a dessiné une scène dénonçant la guerre en Ukraine. Son geste a bouleversé sa vie et celle de son père, condamné à deux ans de prison en Russie. Après sa libération et de nouvelles pressions du FSB, ils ont fui la Russie pour trouver refuge en France."
+    },
+    "published": "Mon, 17 Aug 2026 20:49:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      18,
+      49,
+      17,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/apres-un-dessin-contre-la-guerre-maria-et-son-pere-ont-fui-la-russie-pour-trouver-refuge-en-france_8151380.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6JvH_vmoDLQs1iwFcvVSWFtZbUI/0x21:830x488/432x243/filters:format(jpg):quality(50)/2026/08/17/6a83574e18e0a478599203.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/apres-un-dessin-contre-la-guerre-maria-et-son-pere-ont-fui-la-russie-pour-trouver-refuge-en-france_8151380.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/apres-un-dessin-contre-la-guerre-maria-et-son-pere-ont-fui-la-russie-pour-trouver-refuge-en-france_8151380.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

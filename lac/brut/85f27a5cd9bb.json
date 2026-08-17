@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T20:24:35.799905+00:00",
+  "_id": "85f27a5cd9bb",
+  "brut": {
+    "title": "En Corée du Sud, les voyants traditionnels rattrapés par l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Corée du Sud, les voyants traditionnels rattrapés par l’IA"
+    },
+    "summary": "À Séoul, les diseurs de bonnes aventures se font de plus en plus rares. Dans le quartier de Mia, historiquement associés aux voyants aveugles, ils sont aujourd’hui moins de 20, contre 80 dans les années 1960. Un déclin qui contraste avec la popularité persistante de la divination. Désormais, les Sud-Coréens préfèrent se tourner vers l’IA.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Séoul, les diseurs de bonnes aventures se font de plus en plus rares. Dans le quartier de Mia, historiquement associés aux voyants aveugles, ils sont aujourd’hui moins de 20, contre 80 dans les années 1960. Un déclin qui contraste avec la popularité persistante de la divination. Désormais, les Sud-Coréens préfèrent se tourner vers l’IA."
+    },
+    "published": "Mon, 17 Aug 2026 20:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      18,
+      0,
+      1,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/intelligence-artificielle/en-coree-du-sud-les-voyants-traditionnels-rattrapes-par-l-ia_8151266.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Y5d3Pf-PWt1TIx2vI5dTYTgldRM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/17/6a8331d7879d6103788684.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/en-coree-du-sud-les-voyants-traditionnels-rattrapes-par-l-ia_8151266.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/intelligence-artificielle/en-coree-du-sud-les-voyants-traditionnels-rattrapes-par-l-ia_8151266.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

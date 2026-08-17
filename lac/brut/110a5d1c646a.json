@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T20:24:35.532540+00:00",
+  "_id": "110a5d1c646a",
+  "brut": {
+    "title": "Mgr Etienne Guillet, évêque de Saint-Denis, un homme « qui crée de la maille là où il y a des déchirures »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mgr Etienne Guillet, évêque de Saint-Denis, un homme « qui crée de la maille là où il y a des déchirures »"
+    },
+    "published": "Mon, 17 Aug 2026 18:30:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      16,
+      30,
+      0,
+      0,
+      229,
+      0
+    ],
+    "updated": "Mon, 17 Aug 2026 20:49:08 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      17,
+      18,
+      49,
+      8,
+      0,
+      229,
+      0
+    ],
+    "summary": "Dans son diocèse de Seine-Saint-Denis, un département où le catholicisme est minoritaire, le plus jeune évêque de France favorise le rapprochement entre les religions. Il prépare la venue du pape au Stade de France, le 25 septembre, dans un esprit d’ouverture.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans son diocèse de Seine-Saint-Denis, un département où le catholicisme est minoritaire, le plus jeune évêque de France favorise le rapprochement entre les religions. Il prépare la venue du pape au Stade de France, le 25 septembre, dans un esprit d’ouverture."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/08/17/mgr-etienne-guillet-eveque-de-saint-denis-un-homme-qui-cree-de-la-maille-la-ou-il-y-a-des-dechirures_6748402_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/08/17/mgr-etienne-guillet-eveque-de-saint-denis-un-homme-qui-cree-de-la-maille-la-ou-il-y-a-des-dechirures_6748402_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/08/17/mgr-etienne-guillet-eveque-de-saint-denis-un-homme-qui-cree-de-la-maille-la-ou-il-y-a-des-dechirures_6748402_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/240/0/4000/2000/644/322/60/0/e626c24_upload-1-lxld19oh0nhd-divergence-lh1952055.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mgr Etienne Guillet, évêque de Saint-Denis, bénit le chantier du futur centre de Misericordia, à Aubervilliers (Seine-Saint-Denis), le 18 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Laurent HAZGUI/DIVERGENCE"
+      }
+    ],
+    "credit": "Laurent HAZGUI/DIVERGENCE"
+  }
+}

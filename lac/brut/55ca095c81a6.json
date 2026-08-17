@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T20:24:35.799570+00:00",
+  "_id": "55ca095c81a6",
+  "brut": {
+    "title": "\"Route de la soie polaire\" : un cargo chinois passe par l'Arctique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Route de la soie polaire\" : un cargo chinois passe par l'Arctique"
+    },
+    "summary": "Un porte-conteneurs chinois est parti samedi 15 août pour l'Europe via une nouvelle route express à travers l'Arctique : un itinéraire deux fois plus rapide que par le canal de Suez, et qui devrait être pérennisé. Cette route commerciale est permise par la fonte des glaces et motivée par les tensions géopolitiques dans le Golfe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un porte-conteneurs chinois est parti samedi 15 août pour l'Europe via une nouvelle route express à travers l'Arctique : un itinéraire deux fois plus rapide que par le canal de Suez, et qui devrait être pérennisé. Cette route commerciale est permise par la fonte des glaces et motivée par les tensions géopolitiques dans le Golfe."
+    },
+    "published": "Mon, 17 Aug 2026 21:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      19,
+      0,
+      2,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/route-de-la-soie-polaire-un-cargo-chinois-passe-par-l-arctique_8151278.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/qU9iVKco3BA5p1Gem5umghhEIKY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/17/6a8333ad816ac154835334.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/route-de-la-soie-polaire-un-cargo-chinois-passe-par-l-arctique_8151278.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/route-de-la-soie-polaire-un-cargo-chinois-passe-par-l-arctique_8151278.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
