@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T08:41:07.702200+00:00",
+  "_id": "f3b6c6a31187",
+  "brut": {
+    "title": "En Belgique, malgré la pluie et la baisse des températures, l'incendie continue de progresser et la polémique enfle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Belgique, malgré la pluie et la baisse des températures, l'incendie continue de progresser et la polémique enfle"
+    },
+    "summary": "Lundi, la pluie a commencé à s'abattre sur le pays, mobilisé face à l'un des pires incendies de son histoire, qui a déjà ravagé 3 000 hectares dans la réserve naturelle des Hautes Fagnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Lundi, la pluie a commencé à s'abattre sur le pays, mobilisé face à l'un des pires incendies de son histoire, qui a déjà ravagé 3 000 hectares dans la réserve naturelle des Hautes Fagnes."
+    },
+    "published": "Mon, 17 Aug 2026 10:15:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      8,
+      15,
+      18,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-belgique-malgre-la-pluie-et-la-baisse-des-temperatures-l-incendie-continue-de-progresser-et-la-polemique-enfle_8150663.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/aXnEZetRhFoi0Eo_6I0pePgsIuQ/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82c0b103ec7294842241.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-belgique-malgre-la-pluie-et-la-baisse-des-temperatures-l-incendie-continue-de-progresser-et-la-polemique-enfle_8150663.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-belgique-malgre-la-pluie-et-la-baisse-des-temperatures-l-incendie-continue-de-progresser-et-la-polemique-enfle_8150663.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

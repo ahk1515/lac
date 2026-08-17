@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T08:41:07.704330+00:00",
+  "_id": "3b02b33a1f8a",
+  "brut": {
+    "title": "Ukraine-Russie : feux croisés et attaques massives",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ukraine-Russie : feux croisés et attaques massives"
+    },
+    "summary": "En Russie et en Ukraine, des frappes ont fait au moins 19 morts ce dimanche 16 août. Des centaines de drones ont été envoyés vers Moscou, principalement sur des cibles économiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Russie et en Ukraine, des frappes ont fait au moins 19 morts ce dimanche 16 août. Des centaines de drones ont été envoyés vers Moscou, principalement sur des cibles économiques."
+    },
+    "published": "Mon, 17 Aug 2026 08:08:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      6,
+      8,
+      58,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-russie-feux-croises-et-attaques-massives_8150612.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vhyTkKD2bzMX_BleRrs_3TuAdCk/16x0:1519x845/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82a3678747b597857868.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-russie-feux-croises-et-attaques-massives_8150612.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-russie-feux-croises-et-attaques-massives_8150612.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

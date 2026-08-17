@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T08:41:07.704722+00:00",
+  "_id": "72dd296fbe79",
+  "brut": {
+    "title": "Donald Trump annonce \"réduire considérablement\" des exercices militaires avec la Corée du Sud, et vante sa \"très bonne relation\" avec Kim Jong-un",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump annonce \"réduire considérablement\" des exercices militaires avec la Corée du Sud, et vante sa \"très bonne relation\" avec Kim Jong-un"
+    },
+    "summary": "Le président américain voit ces exercices annuels, qui débutent lundi, comme un signal \"hostile\" envoyé à la Corée du Nord et à son dirigeant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président américain voit ces exercices annuels, qui débutent lundi, comme un signal \"hostile\" envoyé à la Corée du Nord et à son dirigeant."
+    },
+    "published": "Mon, 17 Aug 2026 07:51:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      5,
+      51,
+      9,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-annonce-reduire-considerablement-des-exercices-militaires-avec-la-coree-du-sud_8150573.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/iWm7Tu-ZGpSrNBarSbednOhHz0g/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82a0d7dffd2543697452.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-annonce-reduire-considerablement-des-exercices-militaires-avec-la-coree-du-sud_8150573.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-annonce-reduire-considerablement-des-exercices-militaires-avec-la-coree-du-sud_8150573.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

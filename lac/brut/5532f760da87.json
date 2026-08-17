@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T08:41:07.702478+00:00",
+  "_id": "5532f760da87",
+  "brut": {
+    "title": "En Russie, une frappe de missiles ukrainiens fait six morts dans la région de Belgorod",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Russie, une frappe de missiles ukrainiens fait six morts dans la région de Belgorod"
+    },
+    "summary": "Une vague de drones avait déjà fait 12 morts dans le pays dimanche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une vague de drones avait déjà fait 12 morts dans le pays dimanche."
+    },
+    "published": "Mon, 17 Aug 2026 09:37:39 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      7,
+      37,
+      39,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-une-frappe-de-missiles-ukrainiens-fait-six-morts-dans-la-region-de-belgorod_8150654.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/My7ZQeMaCeB61REyGRsAZsize4s/0x360:4999x3172/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82ba0fdc33e809397938.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-une-frappe-de-missiles-ukrainiens-fait-six-morts-dans-la-region-de-belgorod_8150654.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-une-frappe-de-missiles-ukrainiens-fait-six-morts-dans-la-region-de-belgorod_8150654.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
