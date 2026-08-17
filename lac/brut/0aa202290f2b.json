@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T12:40:16.751054+00:00",
+  "_id": "0aa202290f2b",
+  "brut": {
+    "title": "L'épidémie d'Ebola a fait plus de 2 300 morts en République démocratique du Congo, et est désormais la plus meurtrière de l'histoire du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épidémie d'Ebola a fait plus de 2 300 morts en République démocratique du Congo, et est désormais la plus meurtrière de l'histoire du pays"
+    },
+    "summary": "L'épidémie \"est la plus rapide jamais enregistrée\" et \"tue une personne toutes les 30 minutes\", selon le chef des affaires humanitaires de l'ONU.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épidémie \"est la plus rapide jamais enregistrée\" et \"tue une personne toutes les 30 minutes\", selon le chef des affaires humanitaires de l'ONU."
+    },
+    "published": "Mon, 17 Aug 2026 10:54:22 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      8,
+      54,
+      22,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo-avec-plus-de-2-300-morts_8150732.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ykkwFF2hwyUvB-xyI-7Czysbn9g/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82cb8ec51a1669796035.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo-avec-plus-de-2-300-morts_8150732.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo-avec-plus-de-2-300-morts_8150732.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

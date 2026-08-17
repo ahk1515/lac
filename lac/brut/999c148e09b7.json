@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-17T12:40:16.751281+00:00",
+  "_id": "999c148e09b7",
+  "brut": {
+    "title": "En Espagne, un soldat meurt dans un vaste incendie en Aragon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, un soldat meurt dans un vaste incendie en Aragon"
+    },
+    "summary": "Les autorités régionales ont annoncé le plus grand déploiement de pompiers de l'histoire de l'Aragon, afin de maîtriser le feu qui s'est déclaré lundi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités régionales ont annoncé le plus grand déploiement de pompiers de l'histoire de l'Aragon, afin de maîtriser le feu qui s'est déclaré lundi."
+    },
+    "published": "Mon, 17 Aug 2026 06:49:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      4,
+      49,
+      4,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/incendie/en-espagne-un-soldat-meurt-dans-un-vaste-incendie-en-aragon_8150558.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Q-lC2vp3UXKiZh0Uk1m5c5VtLkQ/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82927694189604362874.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/incendie/en-espagne-un-soldat-meurt-dans-un-vaste-incendie-en-aragon_8150558.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/incendie/en-espagne-un-soldat-meurt-dans-un-vaste-incendie-en-aragon_8150558.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

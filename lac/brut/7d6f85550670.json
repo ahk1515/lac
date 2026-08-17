@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T12:40:16.590768+00:00",
+  "_id": "7d6f85550670",
+  "brut": {
+    "title": "Ebola en RDC : l’épidémie devient la plus meurtrière de l’histoire du pays en seulement trois mois",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola en RDC : l’épidémie devient la plus meurtrière de l’histoire du pays en seulement trois mois"
+    },
+    "published": "Mon, 17 Aug 2026 12:00:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      10,
+      0,
+      7,
+      0,
+      229,
+      0
+    ],
+    "updated": "Mon, 17 Aug 2026 12:34:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      17,
+      10,
+      34,
+      26,
+      0,
+      229,
+      0
+    ],
+    "summary": "Sur les 4 945 cas de contaminations confirmées, 2 325 personnes sont mortes, selon le dernier bilan des autorités congolaises.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sur les 4 945 cas de contaminations confirmées, 2 325 personnes sont mortes, selon le dernier bilan des autorités congolaises."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/17/ebola-en-rdc-l-epidemie-devient-la-plus-meurtriere-de-l-histoire-du-pays-en-seulement-trois-mois_6748146_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/17/ebola-en-rdc-l-epidemie-devient-la-plus-meurtriere-de-l-histoire-du-pays-en-seulement-trois-mois_6748146_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/17/ebola-en-rdc-l-epidemie-devient-la-plus-meurtriere-de-l-histoire-du-pays-en-seulement-trois-mois_6748146_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/603/0/6000/3000/644/322/60/0/5abc941_ftp-1-w5ozaf2ogc26-ab72ac0188b04d54877720f6fbe4e6ad-0-3ba04dc592c84c3599a0afd9658274d9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un agent de santé pulvérise du désinfectant sur le cercueil contenant la dépouille d’un homme, décédé du virus Ebola, à Bunia (République démocratique du Congo), le 12 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dieudonne Dirole/AP"
+      }
+    ],
+    "credit": "Dieudonne Dirole/AP"
+  }
+}
