@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-17T04:40:29.263216+00:00",
+  "_id": "167a0a0ea696",
+  "brut": {
+    "title": "Guerre en Ukraine : au cœur de la nuit, avec le régiment de drones qui frappe durement Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre en Ukraine : au cœur de la nuit, avec le régiment de drones qui frappe durement Moscou"
+    },
+    "published": "Mon, 17 Aug 2026 06:15:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      4,
+      15,
+      14,
+      0,
+      229,
+      0
+    ],
+    "summary": "Le 413e régiment des forces sans pilotes multiplie les attaques dans la grande profondeur depuis le territoire ukrainien. Kiev accélère ses efforts militaires pour porter le feu au cœur de l’appareil économique de son envahisseur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 413e régiment des forces sans pilotes multiplie les attaques dans la grande profondeur depuis le territoire ukrainien. Kiev accélère ses efforts militaires pour porter le feu au cœur de l’appareil économique de son envahisseur."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/17/guerre-en-ukraine-au-c-ur-de-la-nuit-avec-le-regiment-de-drones-qui-frappe-durement-moscou_6747970_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/17/guerre-en-ukraine-au-c-ur-de-la-nuit-avec-le-regiment-de-drones-qui-frappe-durement-moscou_6747970_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/17/guerre-en-ukraine-au-c-ur-de-la-nuit-avec-le-regiment-de-drones-qui-frappe-durement-moscou_6747970_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/16/578/0/4000/2000/644/322/60/0/33a0613_upload-1-yfiexine7qpe-reportage-dronistes-mission-moscou-7.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un mécanicien du 413ᵉ régiment des forces de systèmes sans pilote finit d'assembler un drone FP-1, dans le Nord de l’Ukraine, le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+      }
+    ],
+    "credit": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+  }
+}
