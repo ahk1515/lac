@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T08:34:33.200836+00:00",
+  "_id": "2460f6324a75",
+  "brut": {
+    "title": "Le Festival de Jérusalem célèbre la culture palestinienne, après trois ans d'interruption suite à la guerre à Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Festival de Jérusalem célèbre la culture palestinienne, après trois ans d'interruption suite à la guerre à Gaza"
+    },
+    "summary": "La trentième édition, qui se tiendra jusqu'en octobre, s'est ouverte sur un hommage au musicien libanais Ziad Rahbani, décédé en 2025.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La trentième édition, qui se tiendra jusqu'en octobre, s'est ouverte sur un hommage au musicien libanais Ziad Rahbani, décédé en 2025."
+    },
+    "published": "Tue, 18 Aug 2026 10:27:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      8,
+      27,
+      59,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/musique/le-festival-de-jerusalem-celebre-la-culture-palestinienne-apres-trois-ans-d-interruption-suite-a-la-guerre-a-gaza_8151875.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GBs6KNqWtklPDbnG4PQSWUP5j9M/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84108b3904e669468370.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/musique/le-festival-de-jerusalem-celebre-la-culture-palestinienne-apres-trois-ans-d-interruption-suite-a-la-guerre-a-gaza_8151875.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/musique/le-festival-de-jerusalem-celebre-la-culture-palestinienne-apres-trois-ans-d-interruption-suite-a-la-guerre-a-gaza_8151875.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

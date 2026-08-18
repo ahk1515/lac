@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T08:34:33.201054+00:00",
+  "_id": "27b369a22200",
+  "brut": {
+    "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv"
+    },
+    "summary": "Selon l'armée de l'air ukrainienne, la Russie a lancé dans la nuit de lundi à mardi 147 drones. De son côté, le maire de Moscou a annoncé qu'au moins 620 drones avaient été projetés contre la région de la capitale russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon l'armée de l'air ukrainienne, la Russie a lancé dans la nuit de lundi à mardi 147 drones. De son côté, le maire de Moscou a annoncé qu'au moins 620 drones avaient été projetés contre la région de la capitale russe."
+    },
+    "published": "Tue, 18 Aug 2026 09:38:53 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      7,
+      38,
+      53,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-dix-personnes-sont-mortes-dans-une-attaque-sur-la-region-de-kharkiv_8151851.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CJJnE3DmHySTQD1r6kptTYQZURE/0x0:5500x3093/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8403bf576aa152242713.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-dix-personnes-sont-mortes-dans-une-attaque-sur-la-region-de-kharkiv_8151851.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-dix-personnes-sont-mortes-dans-une-attaque-sur-la-region-de-kharkiv_8151851.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T08:34:33.201297+00:00",
+  "_id": "e881e4e6c8a2",
+  "brut": {
+    "title": "Au Brésil, Discord suspend les directs après le suicide d'une adolescente",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Brésil, Discord suspend les directs après le suicide d'une adolescente"
+    },
+    "summary": "La police avait annoncé en juillet qu'une mineure vivant dans le centre-ouest du pays avait été incitée, lors d'un direct de 45 minutes, à se mutiler puis à se donner la mort.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La police avait annoncé en juillet qu'une mineure vivant dans le centre-ouest du pays avait été incitée, lors d'un direct de 45 minutes, à se mutiler puis à se donner la mort."
+    },
+    "published": "Tue, 18 Aug 2026 09:27:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      7,
+      27,
+      20,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/reseaux-sociaux/au-bresil-discord-suspend-les-directs-apres-le-suicide-d-une-adolescente_8151812.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hCA3_e5y3UiXXf1f5BKRUL-tlvY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/18/6a83f86fa5b88976943639.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/au-bresil-discord-suspend-les-directs-apres-le-suicide-d-une-adolescente_8151812.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/reseaux-sociaux/au-bresil-discord-suspend-les-directs-apres-le-suicide-d-une-adolescente_8151812.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

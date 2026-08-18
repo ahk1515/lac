@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T08:34:33.201531+00:00",
+  "_id": "2dedf091374b",
+  "brut": {
+    "title": "Robots livreurs : ils arrivent sur nos routes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Robots livreurs : ils arrivent sur nos routes"
+    },
+    "summary": "Votre colis, votre courrier, vos courses pourraient bientôt arriver chez vous grâce à un robot livreur. Le ministère des Transports a ouvert la voie à l'autorisation de fabriquer ces véhicules afin de faciliter certaines étapes de livraisons.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Votre colis, votre courrier, vos courses pourraient bientôt arriver chez vous grâce à un robot livreur. Le ministère des Transports a ouvert la voie à l'autorisation de fabriquer ces véhicules afin de faciliter certaines étapes de livraisons."
+    },
+    "published": "Tue, 18 Aug 2026 08:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      6,
+      0,
+      1,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/robots-livreurs-ils-arrivent-sur-nos-routes_8151158.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2InUJXOlkp7Vff77gbjvjt8czGs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/17/6a83238c2359d857461585.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/robots-livreurs-ils-arrivent-sur-nos-routes_8151158.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/robots-livreurs-ils-arrivent-sur-nos-routes_8151158.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
