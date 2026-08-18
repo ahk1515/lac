@@ -12,7 +12,7 @@
   {
     "pays_a": "ISR",
     "pays_b": "USA",
-    "co_citations": 76
+    "co_citations": 77
   },
   {
     "pays_a": "FRA",
@@ -115,6 +115,11 @@
     "co_citations": 9
   },
   {
+    "pays_a": "JPN",
+    "pays_b": "RUS",
+    "co_citations": 9
+  },
+  {
     "pays_a": "FRA",
     "pays_b": "ISR",
     "co_citations": 8
@@ -127,11 +132,6 @@
   {
     "pays_a": "BRA",
     "pays_b": "USA",
-    "co_citations": 8
-  },
-  {
-    "pays_a": "JPN",
-    "pays_b": "RUS",
     "co_citations": 8
   },
   {

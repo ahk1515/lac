@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T01:08:16.407121+00:00",
+  "_id": "3a5727cc7dfa",
+  "brut": {
+    "title": "Côte d'Ivoire : les secrets de la basilique de Yamoussoukro, la plus grande église du monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Côte d'Ivoire : les secrets de la basilique de Yamoussoukro, la plus grande église du monde"
+    },
+    "summary": "En Côte d'Ivoire, la basilique Notre-Dame de la Paix de Yamoussoukro impressionne par ses dimensions, mais aussi par son système de climatisation hors norme. Sous l'édifice, des kilomètres de tuyaux permettent de maintenir une température fraîche malgré les fortes chaleurs tropicales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Côte d'Ivoire, la basilique Notre-Dame de la Paix de Yamoussoukro impressionne par ses dimensions, mais aussi par son système de climatisation hors norme. Sous l'édifice, des kilomètres de tuyaux permettent de maintenir une température fraîche malgré les fortes chaleurs tropicales."
+    },
+    "published": "Mon, 17 Aug 2026 23:06:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      21,
+      6,
+      17,
+      0,
+      229,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/cote-d-ivoire/cote-d-ivoire-les-secrets-de-la-basilique-de-yamoussoukro-la-plus-grande-eglise-du-monde_8151455.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Reo80SSEGGo40MY3cTjrVhSZH3w/0x14:856x496/432x243/filters:format(jpg):quality(50)/2026/08/17/6a8376004582e774981228.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/cote-d-ivoire/cote-d-ivoire-les-secrets-de-la-basilique-de-yamoussoukro-la-plus-grande-eglise-du-monde_8151455.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/cote-d-ivoire/cote-d-ivoire-les-secrets-de-la-basilique-de-yamoussoukro-la-plus-grande-eglise-du-monde_8151455.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
