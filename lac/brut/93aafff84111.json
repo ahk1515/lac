@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T12:41:55.875298+00:00",
+  "_id": "93aafff84111",
+  "brut": {
+    "title": "Donald Trump s'emporte contre une journaliste de CNN",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump s'emporte contre une journaliste de CNN"
+    },
+    "summary": "Donald Trump s'est emporté lundi 17 août contre une journaliste de CNN, qui a demandé au président américain de réagir à une attaque d'un élu démocrate sur sa proximité supposée avec une assistante.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump s'est emporté lundi 17 août contre une journaliste de CNN, qui a demandé au président américain de réagir à une attaque d'un élu démocrate sur sa proximité supposée avec une assistante."
+    },
+    "published": "Tue, 18 Aug 2026 12:27:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      10,
+      27,
+      44,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-emporte-contre-une-journaliste-de-cnn_8152115.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jWSKG8pCzbrbNC8L-2LJf32xCCI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/18/6a84336c6f0fb967054646.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-emporte-contre-une-journaliste-de-cnn_8152115.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-emporte-contre-une-journaliste-de-cnn_8152115.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

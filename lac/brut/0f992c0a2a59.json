@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T12:41:55.668441+00:00",
+  "_id": "0f992c0a2a59",
+  "brut": {
+    "title": "Aux Philippines, une attaque armée diffusée en direct fait deux morts dans un lycée, le tireur se suicide",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Philippines, une attaque armée diffusée en direct fait deux morts dans un lycée, le tireur se suicide"
+    },
+    "published": "Tue, 18 Aug 2026 10:37:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      8,
+      37,
+      31,
+      1,
+      230,
+      0
+    ],
+    "updated": "Tue, 18 Aug 2026 10:40:51 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      18,
+      8,
+      40,
+      51,
+      1,
+      230,
+      0
+    ],
+    "summary": "Le compte Facebook du tueur, sur lequel la vidéo des coups de feu a été publiée, a été désactivé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le compte Facebook du tueur, sur lequel la vidéo des coups de feu a été publiée, a été désactivé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/18/aux-philippines-une-attaque-armee-diffusee-en-direct-fait-deux-morts-dans-un-lycee-le-tireur-se-suicide_6748868_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/aux-philippines-une-attaque-armee-diffusee-en-direct-fait-deux-morts-dans-un-lycee-le-tireur-se-suicide_6748868_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/18/aux-philippines-une-attaque-armee-diffusee-en-direct-fait-deux-morts-dans-un-lycee-le-tireur-se-suicide_6748868_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/269/0/5500/2750/644/322/60/0/b6f1618_ftp-1-tdydyd0prgmi-2026-08-18t034941z-463433727-rc2r0na33845-rtrmadp-3-philippines-school-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la suite d’une attaque armée qui a tué deux personnes, devant l’université Ateneo de Zamboanga (Philippines), le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NONOY LACSON/REUTERS"
+      }
+    ],
+    "credit": "NONOY LACSON/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T12:41:55.668263+00:00",
+  "_id": "c58419220a58",
+  "brut": {
+    "title": "Incendie en Belgique : les pompiers veulent « encercler définitivement » le feu historique d’un parc naturel",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie en Belgique : les pompiers veulent « encercler définitivement » le feu historique d’un parc naturel"
+    },
+    "published": "Tue, 18 Aug 2026 10:43:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      8,
+      43,
+      20,
+      1,
+      230,
+      0
+    ],
+    "updated": "Tue, 18 Aug 2026 13:23:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      18,
+      11,
+      23,
+      26,
+      1,
+      230,
+      0
+    ],
+    "summary": "Près de 500 personnes sont sur le pont pour tenter de contenir les flammes qui ravagent une partie de cette grande forêt proche de l’Allemagne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de 500 personnes sont sur le pont pour tenter de contenir les flammes qui ravagent une partie de cette grande forêt proche de l’Allemagne."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/18/incendie-en-belgique-les-pompiers-veulent-encercler-definitivement-le-feu-historique-d-un-parc-naturel_6748870_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/18/incendie-en-belgique-les-pompiers-veulent-encercler-definitivement-le-feu-historique-d-un-parc-naturel_6748870_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/18/incendie-en-belgique-les-pompiers-veulent-encercler-definitivement-le-feu-historique-d-un-parc-naturel_6748870_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/330/0/5152/2576/644/322/60/0/562b6b0_ftp-1-cjmwqg97nxzx-2026-08-18t082328z-608177660-rc2w0nacndk0-rtrmadp-3-europe-weather-belgium-wildfire.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers belges interviennent dans une forêt touchée par un incendie, à Waimes (Belgique), le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Yves Herman/REUTERS"
+      }
+    ],
+    "credit": "Yves Herman/REUTERS"
+  }
+}

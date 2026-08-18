@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T12:41:55.666902+00:00",
+  "_id": "9ccedae0c9b1",
+  "brut": {
+    "title": "Au Nigeria, au moins 24 morts dans des attaques communautaires dans l’Etat du Plateau",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Nigeria, au moins 24 morts dans des attaques communautaires dans l’Etat du Plateau"
+    },
+    "published": "Tue, 18 Aug 2026 13:43:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      11,
+      43,
+      47,
+      1,
+      230,
+      0
+    ],
+    "summary": "Située au centre du pays, la région est le théâtre de violences récurrentes entre éleveurs musulmans itinérants et agriculteurs sédentaires chrétiens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Située au centre du pays, la région est le théâtre de violences récurrentes entre éleveurs musulmans itinérants et agriculteurs sédentaires chrétiens."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/18/au-nigeria-au-moins-24-morts-dans-des-attaques-communautaires-dans-l-etat-du-plateau_6749048_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/18/au-nigeria-au-moins-24-morts-dans-des-attaques-communautaires-dans-l-etat-du-plateau_6749048_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/18/au-nigeria-au-moins-24-morts-dans-des-attaques-communautaires-dans-l-etat-du-plateau_6749048_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/17/302/0/780/390/644/322/60/0/a932791_ftp-1-2ydvzkmteqd3-2026-08-17t130629z-1350155177-rc2c0nal0swv-rtrmadp-3-nigeria-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants fuient après qu’une attaque contre leurs communautés les a contraints à quitter leurs villages, à Kebbe (Nigeria), le 17 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T12:41:55.874474+00:00",
+  "_id": "cc335aa3bb0f",
+  "brut": {
+    "title": "Dans la bande de Gaza, seulement 3% des terres agricoles restent intactes et accessibles, alerte l'ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans la bande de Gaza, seulement 3% des terres agricoles restent intactes et accessibles, alerte l'ONU"
+    },
+    "summary": "Malgré le cessez-le-feu, la superficie agricole exploitable et non endommagée s'est effondrée, passant de 601 hectares en octobre 2025 à seulement 448 hectares fin juin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Malgré le cessez-le-feu, la superficie agricole exploitable et non endommagée s'est effondrée, passant de 601 hectares en octobre 2025 à seulement 448 hectares fin juin."
+    },
+    "published": "Tue, 18 Aug 2026 12:58:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      10,
+      58,
+      34,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-seulement-3-des-terres-agricoles-restent-intactes-et-accessibles-alerte-l-onu_8152136.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qENSvzBnw2bhAOPhHIJk2F31GTs/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a843a514e026154043806.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-seulement-3-des-terres-agricoles-restent-intactes-et-accessibles-alerte-l-onu_8152136.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-seulement-3-des-terres-agricoles-restent-intactes-et-accessibles-alerte-l-onu_8152136.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

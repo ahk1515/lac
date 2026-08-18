@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T12:41:55.668016+00:00",
+  "_id": "134e8c640fe0",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir détruit 1 671 drones ukrainiens en vingt-quatre heures, « un record absolu » selon un média russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir détruit 1 671 drones ukrainiens en vingt-quatre heures, « un record absolu » selon un média russe"
+    },
+    "published": "Tue, 18 Aug 2026 10:57:53 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      8,
+      57,
+      53,
+      1,
+      230,
+      0
+    ],
+    "updated": "Tue, 18 Aug 2026 14:20:09 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      18,
+      12,
+      20,
+      9,
+      1,
+      230,
+      0
+    ],
+    "summary": "Le ministère de la défense russe a assuré, mardi,  que « les systèmes de défense aérienne [avaient] abattu dix bombes guidées, deux obus de lance-roquettes Himars, ainsi que 1 671 drones aériens » en vingt-quatre heures. Le précédent pic remontait au 16 août : les forces russes avaient dit avoir abattu 1 478 drones en une seule journée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ministère de la défense russe a assuré, mardi,  que « les systèmes de défense aérienne [avaient] abattu dix bombes guidées, deux obus de lance-roquettes Himars, ainsi que 1 671 drones aériens » en vingt-quatre heures. Le précédent pic remontait au 16 août : les forces russes avaient dit avoir abattu 1 478 drones en une seule journée."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-une-attaque-de-missiles-russes-sur-petchenihy-dans-l-oblast-de-kharkiv-fait-dix-morts-selon-les-autorites-locales_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-une-attaque-de-missiles-russes-sur-petchenihy-dans-l-oblast-de-kharkiv-fait-dix-morts-selon-les-autorites-locales_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-une-attaque-de-missiles-russes-sur-petchenihy-dans-l-oblast-de-kharkiv-fait-dix-morts-selon-les-autorites-locales_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/496/0/2933/1466/644/322/60/0/90ba64c_ftp-1-3iiqia70fmsu-2026-08-18t064102z-1822474393-rc2lzmahyj6c-rtrmadp-3-ukraine-crisis-middle-strike.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un drone d’attaque de taille moyenne FP-2, après son lancement par des militaires des forces de systèmes sans pilote, dans l’oblast de Kharkiv (Ukraine), le 16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sofiia Gatilova/REUTERS"
+      }
+    ],
+    "credit": "Sofiia Gatilova/REUTERS"
+  }
+}
