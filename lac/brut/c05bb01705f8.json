@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T04:33:34.945331+00:00",
+  "_id": "c05bb01705f8",
+  "brut": {
+    "title": "A Riyad, un réseau de transport public créé ex nihilo pour transformer la ville",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Riyad, un réseau de transport public créé ex nihilo pour transformer la ville"
+    },
+    "published": "Tue, 18 Aug 2026 06:00:15 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      4,
+      0,
+      15,
+      1,
+      230,
+      0
+    ],
+    "summary": "Pour lutter contre les embouteillages, la capitale de l’Arabie saoudite a construit le plus grand réseau de métro automatique du monde. Un chantier colossal qui a fait appel à tout ce que la planète compte de champions en la matière, dont plusieurs acteurs français du secteur, comme la RATP, Alstom ou Systra.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour lutter contre les embouteillages, la capitale de l’Arabie saoudite a construit le plus grand réseau de métro automatique du monde. Un chantier colossal qui a fait appel à tout ce que la planète compte de champions en la matière, dont plusieurs acteurs français du secteur, comme la RATP, Alstom ou Systra."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/18/a-riyad-un-reseau-de-transport-public-cree-ex-nihilo-pour-transformer-la-ville_6748722_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/18/a-riyad-un-reseau-de-transport-public-cree-ex-nihilo-pour-transformer-la-ville_6748722_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/18/a-riyad-un-reseau-de-transport-public-cree-ex-nihilo-pour-transformer-la-ville_6748722_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/03/06/722/0/4332/2166/644/322/60/0/e8471bf_upload-1-tnpzbp1pfyib-000-43mn866.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Métro en direction de la station King Saud University, à Riyad, le 27 avril 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FAYEZ NURELDINE/AFP"
+      }
+    ],
+    "credit": "FAYEZ NURELDINE/AFP"
+  }
+}

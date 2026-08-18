@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T04:33:34.945237+00:00",
+  "_id": "fd7f0a8dc035",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : le maire de Moscou affirme que 620 drones ont été lancés vers la capitale russe dans la nuit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : le maire de Moscou affirme que 620 drones ont été lancés vers la capitale russe dans la nuit"
+    },
+    "published": "Tue, 18 Aug 2026 06:26:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      4,
+      26,
+      6,
+      1,
+      230,
+      0
+    ],
+    "summary": "Sergueï Sobianine a fait état, sur Telegram, de 180 drones détruits. Le gouverneur local, Andreï Vorobiov, a dénombré trois blessés dans l’attaque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sergueï Sobianine a fait état, sur Telegram, de 180 drones détruits. Le gouverneur local, Andreï Vorobiov, a dénombré trois blessés dans l’attaque."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-le-maire-de-moscou-affirme-que-620-drones-ont-ete-lances-vers-la-capitale-russe-dans-la-nuit_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-le-maire-de-moscou-affirme-que-620-drones-ont-ete-lances-vers-la-capitale-russe-dans-la-nuit_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-le-maire-de-moscou-affirme-que-620-drones-ont-ete-lances-vers-la-capitale-russe-dans-la-nuit_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/16/897/0/5379/2689/644/322/60/0/6ef9172_ftp-1-t1mnut26r6gl-5853881-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un entrepôt du géant de l’e-commerce russe Wildberries en flamme après une attaque de drones ukrainiens près de Podolsk, dans la région de Moscou, le 16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TATYANA MAKEYEVA/AFP"
+      }
+    ],
+    "credit": "TATYANA MAKEYEVA/AFP"
+  }
+}

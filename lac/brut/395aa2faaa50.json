@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T04:33:34.945410+00:00",
+  "_id": "395aa2faaa50",
+  "brut": {
+    "title": "Shakira promet d’aider à la reconstruction de la Colombie, après le séisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Shakira promet d’aider à la reconstruction de la Colombie, après le séisme"
+    },
+    "published": "Tue, 18 Aug 2026 05:43:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      3,
+      43,
+      11,
+      1,
+      230,
+      0
+    ],
+    "summary": "La chanteuse colombienne a effectué une visite dans la province du Choco, à l’ouest du pays, une des régions les plus sinistrées, où elle s’est engagée en faveur de la réfection de plusieurs écoles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La chanteuse colombienne a effectué une visite dans la province du Choco, à l’ouest du pays, une des régions les plus sinistrées, où elle s’est engagée en faveur de la réfection de plusieurs écoles."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/18/shakira-promet-d-aider-a-la-reconstruction-de-la-colombie-apres-le-seisme_6748719_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/shakira-promet-d-aider-a-la-reconstruction-de-la-colombie-apres-le-seisme_6748719_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/18/shakira-promet-d-aider-a-la-reconstruction-de-la-colombie-apres-le-seisme_6748719_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/573/0/4647/2323/644/322/60/0/85311b4_ftp-1-ltliriqypmt1-5864235-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La chanteuse Shakira visite un quartier détruit par le séisme, à Quibdo (Colombie), le 17 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}
