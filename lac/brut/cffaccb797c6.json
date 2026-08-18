@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T20:21:46.010013+00:00",
+  "_id": "cffaccb797c6",
+  "brut": {
+    "title": "Gaza : un bombardement israélien sur un port tue six personnes, dont un enfant, et fait « un grand nombre de blessés », selon la défense civile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : un bombardement israélien sur un port tue six personnes, dont un enfant, et fait « un grand nombre de blessés », selon la défense civile"
+    },
+    "published": "Tue, 18 Aug 2026 19:17:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      17,
+      17,
+      9,
+      1,
+      230,
+      0
+    ],
+    "updated": "Tue, 18 Aug 2026 21:11:02 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      18,
+      19,
+      11,
+      2,
+      1,
+      230,
+      0
+    ],
+    "summary": "L’armée israélienne affirme avoir mené une « frappe aérienne précise » pour éliminer plusieurs commandants du Hamas sur la côte de Gaza.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée israélienne affirme avoir mené une « frappe aérienne précise » pour éliminer plusieurs commandants du Hamas sur la côte de Gaza."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/18/le-bombardement-israelien-du-port-de-la-ville-de-gaza-tue-six-personnes-dont-un-enfant_6749082_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/le-bombardement-israelien-du-port-de-la-ville-de-gaza-tue-six-personnes-dont-un-enfant_6749082_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/18/le-bombardement-israelien-du-port-de-la-ville-de-gaza-tue-six-personnes-dont-un-enfant_6749082_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/975/0/6000/3000/644/322/60/0/aabca46_ftp-1-8f4vu31dg7an-2026-08-18t155307z-41545121-rc231na19g5u-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur les lieux de la frappe israélienne, dans la ville de Gaza, le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dawoud Abu Alkas/REUTERS"
+      }
+    ],
+    "credit": "Dawoud Abu Alkas/REUTERS"
+  }
+}

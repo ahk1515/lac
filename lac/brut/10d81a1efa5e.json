@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T20:21:46.010234+00:00",
+  "_id": "10d81a1efa5e",
+  "brut": {
+    "title": "Au Québec, les indépendantistes excluent tout référendum avant 2029, date de fin du mandat de Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Québec, les indépendantistes excluent tout référendum avant 2029, date de fin du mandat de Donald Trump"
+    },
+    "published": "Tue, 18 Aug 2026 19:05:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      17,
+      5,
+      16,
+      1,
+      230,
+      0
+    ],
+    "summary": "Le débat sur l’avenir politique de la province « ne doit pas être confisqué par les soubresauts de la politique américaine, ni par les coups d’éclat d’un président imprévisible, ni par des campagnes de peur », a expliqué le chef du Parti québécois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le débat sur l’avenir politique de la province « ne doit pas être confisqué par les soubresauts de la politique américaine, ni par les coups d’éclat d’un président imprévisible, ni par des campagnes de peur », a expliqué le chef du Parti québécois."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/18/au-quebec-les-independantistes-excluent-tout-referendum-avant-2029-date-de-fin-du-mandat-de-donald-trump_6749080_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/au-quebec-les-independantistes-excluent-tout-referendum-avant-2029-date-de-fin-du-mandat-de-donald-trump_6749080_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/18/au-quebec-les-independantistes-excluent-tout-referendum-avant-2029-date-de-fin-du-mandat-de-donald-trump_6749080_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/1225/0/5371/2685/644/322/60/0/bc4f94e_ftp-1-ebxc3y1sojya-0a23999da9ca4400a6e3bca256f6544f-0-1ef2c0304e5e44878915539597d5f012.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le leader du Parti québécois (centre gauche, indépendantiste), Paul St-Pierre Plamondon, à Calgar, au Canada, le 11 septembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jeff McIntosh / Jeff McIntosh/The Canadian Press via AP"
+      }
+    ],
+    "credit": "Jeff McIntosh / Jeff McIntosh/The Canadian Press via AP"
+  }
+}

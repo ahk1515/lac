@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T20:21:46.009934+00:00",
+  "_id": "992a961da009",
+  "brut": {
+    "title": "Les Emirats arabes unis accusent l’Iran d’avoir tiré deux missiles vers leur territoire pour la première fois en août",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Emirats arabes unis accusent l’Iran d’avoir tiré deux missiles vers leur territoire pour la première fois en août"
+    },
+    "published": "Tue, 18 Aug 2026 19:19:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      17,
+      19,
+      32,
+      1,
+      230,
+      0
+    ],
+    "updated": "Tue, 18 Aug 2026 19:32:01 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      18,
+      17,
+      32,
+      1,
+      1,
+      230,
+      0
+    ],
+    "summary": "Les autorités émiraties avaient émis plus tôt une alerte appelant la population à se confiner face à des « menaces de missiles », une première depuis juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités émiraties avaient émis plus tôt une alerte appelant la population à se confiner face à des « menaces de missiles », une première depuis juillet."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/18/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_6749083_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_6749083_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/18/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_6749083_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/380/0/5658/2829/644/322/60/0/23be434_upload-1-j4marhu4r7ny-2026-03-28t172256z-982312083-up1em3s1ca626-rtrmadp-3-horseracing-dubai.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ministre de la défense des Emirats arabes unis, Hamdan bin Mohammed Al Maktoum, à Dubaï, le 28 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Amr Alfiky/REUTERS"
+      }
+    ],
+    "credit": "Amr Alfiky/REUTERS"
+  }
+}

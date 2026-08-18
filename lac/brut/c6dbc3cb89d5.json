@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T20:21:46.512509+00:00",
+  "_id": "c6dbc3cb89d5",
+  "brut": {
+    "title": "Incendies : le Portugal et l'Espagne en proie aux flammes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendies : le Portugal et l'Espagne en proie aux flammes"
+    },
+    "summary": "Les feux continuent de gagner du terrain au sud de l'Europe. Au Portugal, près de 1 000 pompiers sont toujours mobilisés, tandis que les incendies ont ravagé 17 000 hectares dans le nord de l'Espagne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les feux continuent de gagner du terrain au sud de l'Europe. Au Portugal, près de 1 000 pompiers sont toujours mobilisés, tandis que les incendies ont ravagé 17 000 hectares dans le nord de l'Espagne."
+    },
+    "published": "Tue, 18 Aug 2026 21:40:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      19,
+      40,
+      36,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-le-portugal-et-l-espagne-en-proie-aux-flammes_8152670.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/m1nPuOUk61gZj49qDH6XvOzmN4U/19x0:1152x637/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84b4dcecd74045730295.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-le-portugal-et-l-espagne-en-proie-aux-flammes_8152670.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-le-portugal-et-l-espagne-en-proie-aux-flammes_8152670.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

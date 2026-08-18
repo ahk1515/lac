@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T20:21:46.512838+00:00",
+  "_id": "4e46ef865140",
+  "brut": {
+    "title": "Dans le viseur de Donald Trump, la chaîne ABC porte plainte contre le président américain",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le viseur de Donald Trump, la chaîne ABC porte plainte contre le président américain"
+    },
+    "summary": "Dans sa plainte déposée à Washington, la chaîne accuse le gouvernement fédéral de mener \"une campagne de représailles contre ABC pour une seule raison : ils ne sont pas d'accord avec ce qu'ABC diffuse\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans sa plainte déposée à Washington, la chaîne accuse le gouvernement fédéral de mener \"une campagne de représailles contre ABC pour une seule raison : ils ne sont pas d'accord avec ce qu'ABC diffuse\"."
+    },
+    "published": "Tue, 18 Aug 2026 19:54:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      17,
+      54,
+      18,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/dans-le-viseur-de-donald-trump-la-chaine-abc-porte-plainte-contre-le-president-americain_8152559.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/M15sfRDrzSK05Aco6wlvfX3nXPo/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84975516c63498812608.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/dans-le-viseur-de-donald-trump-la-chaine-abc-porte-plainte-contre-le-president-americain_8152559.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/dans-le-viseur-de-donald-trump-la-chaine-abc-porte-plainte-contre-le-president-americain_8152559.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

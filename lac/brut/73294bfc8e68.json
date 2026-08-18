@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T20:21:46.512911+00:00",
+  "_id": "73294bfc8e68",
+  "brut": {
+    "title": "Moqué pour sa qualité, le film d’animation Niu Lai cartonne au box-office en Chine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Moqué pour sa qualité, le film d’animation Niu Lai cartonne au box-office en Chine"
+    },
+    "summary": "Un boeuf, une alouette et un rêve. Moqué sur les réseaux sociaux, Niu Lai, un film d'animation chinois à petit budget, bat tous les records au box-office chinois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un boeuf, une alouette et un rêve. Moqué sur les réseaux sociaux, Niu Lai, un film d'animation chinois à petit budget, bat tous les records au box-office chinois."
+    },
+    "published": "Tue, 18 Aug 2026 19:16:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      17,
+      16,
+      4,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/moque-pour-sa-qualite-le-film-d-animation-niu-lai-cartonne-au-box-office-en-chine_8152586.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/CohXSXLpzGCevcTpRKXPR5Y8k_Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/18/6a84926853a09249733062.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/moque-pour-sa-qualite-le-film-d-animation-niu-lai-cartonne-au-box-office-en-chine_8152586.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/moque-pour-sa-qualite-le-film-d-animation-niu-lai-cartonne-au-box-office-en-chine_8152586.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
