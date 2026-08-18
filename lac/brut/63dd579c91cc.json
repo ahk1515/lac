@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T16:28:55.330215+00:00",
+  "_id": "63dd579c91cc",
+  "brut": {
+    "title": "La Syrie et les Etats-Unis accusent Israël d'une attaque contre un aéroport militaire syrien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Syrie et les Etats-Unis accusent Israël d'une attaque contre un aéroport militaire syrien"
+    },
+    "summary": "Les autorités israéliennes n'ont pas réagi dans l'immédiat, mardi, à ces mises en cause américaines et syriennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités israéliennes n'ont pas réagi dans l'immédiat, mardi, à ces mises en cause américaines et syriennes."
+    },
+    "published": "Tue, 18 Aug 2026 17:59:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      15,
+      59,
+      7,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-syrie-et-les-etats-unis-accusent-israel-d-une-attaque-contre-un-aeroport-militaire-syrien_8152460.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dJGdlQtNiAUr66BTRb5iZg1LTic/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a8480e7a1ab3993192068.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-syrie-et-les-etats-unis-accusent-israel-d-une-attaque-contre-un-aeroport-militaire-syrien_8152460.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-syrie-et-les-etats-unis-accusent-israel-d-une-attaque-contre-un-aeroport-militaire-syrien_8152460.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

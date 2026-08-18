@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T16:28:55.330438+00:00",
+  "_id": "a45d951c364d",
+  "brut": {
+    "title": "La Cour suprême américaine refuse d'examiner un recours de Donald Trump, accusé d'agression sexuelle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Cour suprême américaine refuse d'examiner un recours de Donald Trump, accusé d'agression sexuelle"
+    },
+    "summary": "La Cour suprême américaine vient de refuser d'examiner un recours formulé par Donald Trump. Le président américain avait été condamné a verser 5,6 millions de dollars à l'écrivaine et journaliste E. Jean Carroll pour agression sex*elle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Cour suprême américaine vient de refuser d'examiner un recours formulé par Donald Trump. Le président américain avait été condamné a verser 5,6 millions de dollars à l'écrivaine et journaliste E. Jean Carroll pour agression sex*elle."
+    },
+    "published": "Tue, 18 Aug 2026 17:45:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      15,
+      45,
+      43,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-cour-supreme-americaine-refuse-d-examiner-un-recours-de-donald-trump-accuse-d-agression-sexuelle_8152466.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UILrTxoOc-iFEVToMsE4u4rPDWs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/18/6a847dc195c50668279682.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-cour-supreme-americaine-refuse-d-examiner-un-recours-de-donald-trump-accuse-d-agression-sexuelle_8152466.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-cour-supreme-americaine-refuse-d-examiner-un-recours-de-donald-trump-accuse-d-agression-sexuelle_8152466.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

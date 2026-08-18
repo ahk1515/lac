@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-18T16:28:54.684786+00:00",
+  "_id": "d969ff10e74e",
+  "brut": {
+    "title": "L’épidémie d’Ebola en RDC est « loin d’être maîtrisée » et il existe un « risque élevé d’une propagation internationale »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’épidémie d’Ebola en RDC est « loin d’être maîtrisée » et il existe un « risque élevé d’une propagation internationale »"
+    },
+    "published": "Tue, 18 Aug 2026 15:08:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      13,
+      8,
+      21,
+      1,
+      230,
+      0
+    ],
+    "updated": "Tue, 18 Aug 2026 15:21:04 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      18,
+      13,
+      21,
+      4,
+      1,
+      230,
+      0
+    ],
+    "summary": "Actuellement, l’OMS juge le niveau de risque pour la santé publique « très élevé » pour la RDC, « élevé » pour l’Ouganda et les autres pays frontaliers de la RDC, et « faible » pour le reste de l’Afrique et du monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Actuellement, l’OMS juge le niveau de risque pour la santé publique « très élevé » pour la RDC, « élevé » pour l’Ouganda et les autres pays frontaliers de la RDC, et « faible » pour le reste de l’Afrique et du monde."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/18/ebola-en-rdc-l-epidemie-est-loin-d-etre-maitrisee-alerte-le-chef-de-l-oms_6749057_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/18/ebola-en-rdc-l-epidemie-est-loin-d-etre-maitrisee-alerte-le-chef-de-l-oms_6749057_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/18/ebola-en-rdc-l-epidemie-est-loin-d-etre-maitrisee-alerte-le-chef-de-l-oms_6749057_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/398/0/6000/3000/644/322/60/0/5165053_ftp-1-llk3tgpshbbu-4ae68f807e53439bb4ca78fb6a2ab473-0-90d4124c0cc54b97ad2a72544958cdbb.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des agents de santé se désinfectent après la cérémonie d’inhumation d’une personne morte d’Ebola, à Bunia (République démocratique du Congo), le 12 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dieudonné Dirole/AP"
+      }
+    ],
+    "credit": "Dieudonné Dirole/AP"
+  }
+}

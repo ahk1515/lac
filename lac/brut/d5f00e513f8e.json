@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-18T16:28:55.331728+00:00",
+  "_id": "d5f00e513f8e",
+  "brut": {
+    "title": "Donald Trump défend son assistante après une question sur leur relation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump défend son assistante après une question sur leur relation"
+    },
+    "summary": "Aux États-Unis, Donald Trump est au cœur d'une nouvelle polémique. Cette fois, c'est sa proximité avec l'une de ses assistantes qui alimente les interrogations. Un sénateur démocrate s'en est moqué publiquement. Interrogé sur le sujet, le président américain est sorti de ses gonds lors d'une conférence de presse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, Donald Trump est au cœur d'une nouvelle polémique. Cette fois, c'est sa proximité avec l'une de ses assistantes qui alimente les interrogations. Un sénateur démocrate s'en est moqué publiquement. Interrogé sur le sujet, le président américain est sorti de ses gonds lors d'une conférence de presse."
+    },
+    "published": "Tue, 18 Aug 2026 15:56:37 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      13,
+      56,
+      37,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-defend-son-assistante-apres-une-question-sur-leur-relation_8152265.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5SynCQgmiWlaQCgsPvDbDiE_Qfk/0x43:831x511/432x243/filters:format(jpg):quality(50)/2026/08/18/6a846479c2681250222638.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-defend-son-assistante-apres-une-question-sur-leur-relation_8152265.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-defend-son-assistante-apres-une-question-sur-leur-relation_8152265.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
