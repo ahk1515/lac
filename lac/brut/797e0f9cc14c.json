@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T04:34:58.278989+00:00",
+  "_id": "797e0f9cc14c",
+  "brut": {
+    "title": "La crise au Moyen-Orient renforce l’ambition de Turkish Airlines de devenir l’une des premières compagnies mondiales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La crise au Moyen-Orient renforce l’ambition de Turkish Airlines de devenir l’une des premières compagnies mondiales"
+    },
+    "published": "Wed, 19 Aug 2026 06:00:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      4,
+      0,
+      27,
+      2,
+      231,
+      0
+    ],
+    "summary": "Profitant des difficultés de ses concurrents du golfe Arabo-Persique, fragilisés par le conflit en Iran, le transporteur turc poursuit sa forte croissance, qui s’appuie sur de nombreuses livraisons d’avions à venir et l’efficacité de l’aéroport d’Istanbul.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Profitant des difficultés de ses concurrents du golfe Arabo-Persique, fragilisés par le conflit en Iran, le transporteur turc poursuit sa forte croissance, qui s’appuie sur de nombreuses livraisons d’avions à venir et l’efficacité de l’aéroport d’Istanbul."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/19/la-crise-au-moyen-orient-renforce-l-ambition-de-turkish-airlines-de-devenir-l-une-des-premieres-compagnies-mondiales_6749464_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/19/la-crise-au-moyen-orient-renforce-l-ambition-de-turkish-airlines-de-devenir-l-une-des-premieres-compagnies-mondiales_6749464_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/19/la-crise-au-moyen-orient-renforce-l-ambition-de-turkish-airlines-de-devenir-l-une-des-premieres-compagnies-mondiales_6749464_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/17/110/0/4500/2250/644/322/60/0/9932b6e_upload-1-sexc3iesozqt-000-1ff2ua.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un Airbus A321 de Turkish Airlines devant la tour de contrôle de l’aéroport d’Istanbul, le 6 avril 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OZAN KOSE/AFP"
+      }
+    ],
+    "credit": "OZAN KOSE/AFP"
+  }
+}

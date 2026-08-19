@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T04:34:58.279648+00:00",
+  "_id": "2693fffacbaa",
+  "brut": {
+    "title": "Le bombardement par Israël d’une base aérienne en Syrie, un avertissement à Damas et à Ankara",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le bombardement par Israël d’une base aérienne en Syrie, un avertissement à Damas et à Ankara"
+    },
+    "published": "Wed, 19 Aug 2026 05:37:50 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      3,
+      37,
+      50,
+      2,
+      231,
+      0
+    ],
+    "summary": "Alors que les négociations sur un accord de sécurité avec le nouveau pouvoir syrien sont au point mort, l’Etat hébreu a frappé un site militaire pour empêcher le pays de reconstruire sa force aérienne avec l’aide de la Turquie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les négociations sur un accord de sécurité avec le nouveau pouvoir syrien sont au point mort, l’Etat hébreu a frappé un site militaire pour empêcher le pays de reconstruire sa force aérienne avec l’aide de la Turquie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/19/le-bombardement-par-israel-d-une-base-aerienne-en-syrie-un-avertissement-a-damas-et-a-ankara_6749427_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/19/le-bombardement-par-israel-d-une-base-aerienne-en-syrie-un-avertissement-a-damas-et-a-ankara_6749427_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/19/le-bombardement-par-israel-d-une-base-aerienne-en-syrie-un-avertissement-a-damas-et-a-ankara_6749427_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/314/0/1879/939/644/322/60/0/a4e4b3c_ftp-1-ygz7wb6gvun8-2026-08-18t131109z-1180689922-rc201nabcror-rtrmadp-3-syria-security-airbase.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La base aérienne d’Abou Al-Douhour (Syrie) après les frappes, le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

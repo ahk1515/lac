@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T04:34:58.279234+00:00",
+  "_id": "ac3ac954ea21",
+  "brut": {
+    "title": "Guerre en Ukraine : ces habitants de Kiev qui dorment dans le métro même quand il n’y a pas de frappes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre en Ukraine : ces habitants de Kiev qui dorment dans le métro même quand il n’y a pas de frappes"
+    },
+    "published": "Wed, 19 Aug 2026 06:00:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      4,
+      0,
+      12,
+      2,
+      231,
+      0
+    ],
+    "summary": "Face à l’intensification des bombardements russes et à l’affaiblissement de la défense ukrainienne, de plus en plus de Kiéviens préfèrent descendre dans les stations de manière préventive à la nuit tombée, sans attendre d’éventuelles alertes aériennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Face à l’intensification des bombardements russes et à l’affaiblissement de la défense ukrainienne, de plus en plus de Kiéviens préfèrent descendre dans les stations de manière préventive à la nuit tombée, sans attendre d’éventuelles alertes aériennes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/19/guerre-en-ukraine-ces-habitants-de-kiev-qui-dorment-dans-le-metro-meme-quand-il-n-y-a-pas-de-frappes_6749462_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/19/guerre-en-ukraine-ces-habitants-de-kiev-qui-dorment-dans-le-metro-meme-quand-il-n-y-a-pas-de-frappes_6749462_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/19/guerre-en-ukraine-ces-habitants-de-kiev-qui-dorment-dans-le-metro-meme-quand-il-n-y-a-pas-de-frappes_6749462_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/1000/0/6000/3000/644/322/60/0/0b820da_upload-1-k7amat4qvuei-kyiv-metro-story-editorial-022.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La station de métro « Politekhnichnyi Instytut », à Kiev, lors d’une alerte aérienne, le 10 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JEDRZEJ NOWICKI POUR « LE MONDE »"
+      }
+    ],
+    "credit": "JEDRZEJ NOWICKI POUR « LE MONDE »"
+  }
+}
