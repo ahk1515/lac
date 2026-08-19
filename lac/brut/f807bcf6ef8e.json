@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T16:29:33.498358+00:00",
+  "_id": "f807bcf6ef8e",
+  "brut": {
+    "title": "L’Arabie saoudite prise au piège du bourbier yéménite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite prise au piège du bourbier yéménite"
+    },
+    "published": "Wed, 19 Aug 2026 16:30:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      14,
+      30,
+      0,
+      2,
+      231,
+      0
+    ],
+    "updated": "Wed, 19 Aug 2026 16:35:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      14,
+      35,
+      18,
+      2,
+      231,
+      0
+    ],
+    "summary": "Attaqué par les houthistes depuis la mi-juillet, le royaume cherche à éviter de s’engager dans une nouvelle guerre chez son voisin, sans se résoudre, pour autant, à la possible installation à sa frontière d’un Etat soutenu par l’Iran.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attaqué par les houthistes depuis la mi-juillet, le royaume cherche à éviter de s’engager dans une nouvelle guerre chez son voisin, sans se résoudre, pour autant, à la possible installation à sa frontière d’un Etat soutenu par l’Iran."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/19/l-arabie-saoudite-prise-au-piege-du-dossier-yemenite_6749883_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/19/l-arabie-saoudite-prise-au-piege-du-dossier-yemenite_6749883_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/19/l-arabie-saoudite-prise-au-piege-du-dossier-yemenite_6749883_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/1059/0/5334/2667/644/322/60/0/0b219e4_ftp-1-eusxwe0qblo0-2026-08-07t125003z-403117402-rc20pmahvhft-rtrmadp-3-iran-crisis-saudi-houthis.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des militants houthistes devant une affiche de propagande, lors d’un rassemblement anti-saoudien en pleine escalade des tensions avec l’Arabie saoudite, à Sanaa (Yémen), le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Khaled Abdullah/REUTERS"
+      }
+    ],
+    "credit": "Khaled Abdullah/REUTERS"
+  }
+}

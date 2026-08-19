@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T16:29:33.498252+00:00",
+  "_id": "453e0fab2e11",
+  "brut": {
+    "title": "L’arrestation de deux journalistes français au Togo, reflet de la dégradation des relations entre Paris et Lomé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’arrestation de deux journalistes français au Togo, reflet de la dégradation des relations entre Paris et Lomé"
+    },
+    "published": "Wed, 19 Aug 2026 17:59:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      15,
+      59,
+      19,
+      2,
+      231,
+      0
+    ],
+    "summary": "Arrêtés fin juillet alors qu’ils tournaient les dernières images d’un documentaire dans le nord du pays, deux réalisateurs français sont détenus à Lomé et poursuivis pour de supposées fausses déclarations liées à leur visa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Arrêtés fin juillet alors qu’ils tournaient les dernières images d’un documentaire dans le nord du pays, deux réalisateurs français sont détenus à Lomé et poursuivis pour de supposées fausses déclarations liées à leur visa."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/19/l-arrestation-de-deux-journalistes-francais-au-togo-reflet-de-la-degradation-des-relations-entre-paris-et-lome_6749891_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/19/l-arrestation-de-deux-journalistes-francais-au-togo-reflet-de-la-degradation-des-relations-entre-paris-et-lome_6749891_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/19/l-arrestation-de-deux-journalistes-francais-au-togo-reflet-de-la-degradation-des-relations-entre-paris-et-lome_6749891_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/648/0/3888/1944/644/322/60/0/e15dd02_upload-1-3wqy6f0gsxz6-000-328q8ev.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La prison de Lomé, le 22 avril 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MATTEO FRASCHINI KOFFI/AFP"
+      }
+    ],
+    "credit": "MATTEO FRASCHINI KOFFI/AFP"
+  }
+}

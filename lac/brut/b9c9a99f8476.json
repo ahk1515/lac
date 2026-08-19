@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T16:29:33.498795+00:00",
+  "_id": "b9c9a99f8476",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Wed, 19 Aug 2026 15:04:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      13,
+      4,
+      7,
+      2,
+      231,
+      0
+    ],
+    "updated": "Wed, 19 Aug 2026 18:17:49 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      16,
+      17,
+      49,
+      2,
+      231,
+      0
+    ],
+    "summary": "Plus de 20 000 personnes ont franchi lundi la frontière entre la Russie et la Géorgie, où d’importantes files d’attente se sont formées sur fond de rumeurs d’une nouvelle mobilisation après les élections législatives russes de septembre, selon des médias russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plus de 20 000 personnes ont franchi lundi la frontière entre la Russie et la Géorgie, où d’importantes files d’attente se sont formées sur fond de rumeurs d’une nouvelle mobilisation après les élections législatives russes de septembre, selon des médias russes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-a-moscou-la-distribution-de-carburant-rationnee-dans-plusieurs-reseaux-de-stations-service_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-a-moscou-la-distribution-de-carburant-rationnee-dans-plusieurs-reseaux-de-stations-service_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-a-moscou-la-distribution-de-carburant-rationnee-dans-plusieurs-reseaux-de-stations-service_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/319/0/3913/1956/644/322/60/0/d959c8e_ftp-1-4hlhxxjbtjui-5866321-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des véhicules attendent devant une station-service de Moscou, le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALEXANDER NEMENOV/AFP"
+      }
+    ],
+    "credit": "ALEXANDER NEMENOV/AFP"
+  }
+}

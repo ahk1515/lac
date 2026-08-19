@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T16:29:33.710909+00:00",
+  "_id": "0c3ee85e5c59",
+  "brut": {
+    "title": "En Chine, un robot humanoïde enregistre une pointe à 12,6 mètres par seconde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Chine, un robot humanoïde enregistre une pointe à 12,6 mètres par seconde"
+    },
+    "summary": "Un robot plus rapide qu'Usain Bolt ? La machine, baptisée Superman et mise au point par une entreprise chinoise, a couru à plus de 45km/h. Une prouesse technique, réalisée à trois jours des jeux mondiaux des robots humanoïdes à Pékin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un robot plus rapide qu'Usain Bolt ? La machine, baptisée Superman et mise au point par une entreprise chinoise, a couru à plus de 45km/h. Une prouesse technique, réalisée à trois jours des jeux mondiaux des robots humanoïdes à Pékin."
+    },
+    "published": "Wed, 19 Aug 2026 18:18:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      16,
+      18,
+      12,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/en-chine-un-robot-humanoide-enregistre-une-pointe-a-12-6-metres-par-seconde_8153777.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/PQ5oeLMoE6Bvsn3LNaF2QRXkbJE/0x12:1564x892/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85c2b9e43e2177447940.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/en-chine-un-robot-humanoide-enregistre-une-pointe-a-12-6-metres-par-seconde_8153777.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/en-chine-un-robot-humanoide-enregistre-une-pointe-a-12-6-metres-par-seconde_8153777.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

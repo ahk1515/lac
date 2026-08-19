@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T16:29:33.711591+00:00",
+  "_id": "78494d637dee",
+  "brut": {
+    "title": "Le Portugal interdit le port du voile intégral",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Portugal interdit le port du voile intégral"
+    },
+    "summary": "La loi, promulguée mardi, avait été adoptée par le Parlement en juillet, avec les voix de la coalition gouvernementale de droite et de l'extrême droite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La loi, promulguée mardi, avait été adoptée par le Parlement en juillet, avec les voix de la coalition gouvernementale de droite et de l'extrême droite."
+    },
+    "published": "Wed, 19 Aug 2026 14:55:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      12,
+      55,
+      59,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/O5eTSOIIX8ry24KZAqfO-JUsw1A/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85a518b349c682496722.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
