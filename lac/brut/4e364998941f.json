@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T12:42:30.416806+00:00",
+  "_id": "4e364998941f",
+  "brut": {
+    "title": "En Chine, Unitree, fabricant de robots humanoïdes, introduit en bourse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Chine, Unitree, fabricant de robots humanoïdes, introduit en bourse"
+    },
+    "summary": "L'action du champion chinois de la robotique a bondi de 500% après son introduction à la Bourse de Shanghai, mercredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'action du champion chinois de la robotique a bondi de 500% après son introduction à la Bourse de Shanghai, mercredi."
+    },
+    "published": "Wed, 19 Aug 2026 12:30:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      10,
+      30,
+      59,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sciences/high-tech/en-chine-unitree-fabricant-de-robots-humanoides-introduit-en-bourse_8153207.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jQx35UGosGv7p0zEuXdsvea6ewc/0x0:6192x3483/432x243/filters:format(jpg):quality(50)/2026/08/19/6a855f1685cc9122600398.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sciences/high-tech/en-chine-unitree-fabricant-de-robots-humanoides-introduit-en-bourse_8153207.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sciences/high-tech/en-chine-unitree-fabricant-de-robots-humanoides-introduit-en-bourse_8153207.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

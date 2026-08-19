@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T12:42:30.417213+00:00",
+  "_id": "ffe7327867f4",
+  "brut": {
+    "title": "Léon XIV à Metz : la venue du pape fait exploser le prix des chambres d'hôtels",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Léon XIV à Metz : la venue du pape fait exploser le prix des chambres d'hôtels"
+    },
+    "summary": "En vue de la visite du pape Léon XIV à Metz (Moselle) le 28 septembre prochain, les hôtels sont déjà pris d'assaut. Une demande qui permet aux établissements d'augmenter considérablement leurs tarifs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En vue de la visite du pape Léon XIV à Metz (Moselle) le 28 septembre prochain, les hôtels sont déjà pris d'assaut. Une demande qui permet aux établissements d'augmenter considérablement leurs tarifs."
+    },
+    "published": "Wed, 19 Aug 2026 11:08:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      9,
+      8,
+      27,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-metz-la-venue-du-pape-fait-exploser-le-prix-des-chambres-d-hotels_8153339.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jQejINmVXP8baPWVzH8JIh34RGE/52x0:1482x804/432x243/filters:format(jpg):quality(50)/2026/08/19/6a857245e2bce259754356.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-metz-la-venue-du-pape-fait-exploser-le-prix-des-chambres-d-hotels_8153339.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-metz-la-venue-du-pape-fait-exploser-le-prix-des-chambres-d-hotels_8153339.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T12:42:29.754838+00:00",
+  "_id": "0c571057db54",
+  "brut": {
+    "title": "Les images de Mykhaïlo Fedorov, l’ancien ministre de la défense ukrainien qui réclame la tenue d’élections",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les images de Mykhaïlo Fedorov, l’ancien ministre de la défense ukrainien qui réclame la tenue d’élections"
+    },
+    "published": "Wed, 19 Aug 2026 10:52:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      8,
+      52,
+      30,
+      2,
+      231,
+      0
+    ],
+    "summary": "Le populaire ex-ministre, exclu du gouvernement, a précipité malgré lui le pays dans une crise politique. Devant la gronde populaire, il appelle à « restaurer le processus démocratique » en pleine guerre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le populaire ex-ministre, exclu du gouvernement, a précipité malgré lui le pays dans une crise politique. Devant la gronde populaire, il appelle à « restaurer le processus démocratique » en pleine guerre."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/19/l-appel-en-images-de-mykhailo-fedorov-ancien-ministre-de-la-defense-ukrainien-a-la-tenue-d-elections_6749776_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/19/l-appel-en-images-de-mykhailo-fedorov-ancien-ministre-de-la-defense-ukrainien-a-la-tenue-d-elections_6749776_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/19/l-appel-en-images-de-mykhailo-fedorov-ancien-ministre-de-la-defense-ukrainien-a-la-tenue-d-elections_6749776_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/80/0/2560/1280/644/322/60/0/b7a44dd_ftp-1-qy3znihgk7jw-2026-08-19t064536z-1773465404-rc2i1na1pflx-rtrmadp-3-ukraine-crisis-fedorov.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MYKHAILO FEDOROV / via REUTERS"
+      }
+    ],
+    "credit": "MYKHAILO FEDOROV / via REUTERS"
+  }
+}
