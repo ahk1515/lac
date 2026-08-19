@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T20:24:55.919931+00:00",
+  "_id": "4cb0318e292a",
+  "brut": {
+    "title": "Donald Trump affirme que la Corée du Nord possède « 57 armes nucléaires », trois jours après avoir critiqué la Corée du Sud",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump affirme que la Corée du Nord possède « 57 armes nucléaires », trois jours après avoir critiqué la Corée du Sud"
+    },
+    "published": "Wed, 19 Aug 2026 18:45:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      16,
+      45,
+      25,
+      2,
+      231,
+      0
+    ],
+    "updated": "Wed, 19 Aug 2026 18:58:51 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      16,
+      58,
+      51,
+      2,
+      231,
+      0
+    ],
+    "summary": "Le président des Etats-Unis a également déclaré qu’il rencontrerait le dirigeant de la Corée du Nord, Kim Jong-un, avant la fin de l’année.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président des Etats-Unis a également déclaré qu’il rencontrerait le dirigeant de la Corée du Nord, Kim Jong-un, avant la fin de l’année."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/19/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires-apres-avoir-vivement-critique-la-coree-du-sud_6749900_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/19/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires-apres-avoir-vivement-critique-la-coree-du-sud_6749900_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/19/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires-apres-avoir-vivement-critique-la-coree-du-sud_6749900_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/826/0/6000/3000/644/322/60/0/22c8400_ftp-1-teioyibsgtlo-2026-08-19t152922z-1488525833-rc2r1nalvhpd-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, devant la Maison Blanche, à Washington, DC, le 19 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kylie Cooper/REUTERS"
+      }
+    ],
+    "credit": "Kylie Cooper/REUTERS"
+  }
+}

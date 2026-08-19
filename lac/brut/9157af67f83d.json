@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T20:24:55.918797+00:00",
+  "_id": "9157af67f83d",
+  "brut": {
+    "title": "Incendie à Madrid : un nouveau feu s’est déclaré à l’ouest de la capitale espagnole et a été stabilisé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie à Madrid : un nouveau feu s’est déclaré à l’ouest de la capitale espagnole et a été stabilisé"
+    },
+    "published": "Wed, 19 Aug 2026 20:14:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      18,
+      14,
+      43,
+      2,
+      231,
+      0
+    ],
+    "updated": "Wed, 19 Aug 2026 22:07:29 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      20,
+      7,
+      29,
+      2,
+      231,
+      0
+    ],
+    "summary": "Les autorités espagnoles ont engagé neuf avions bombardiers d’eau. Les ordres de confinement, qui concernaient quelque 3 500 habitants d’une commune près de la capitale, ont été levés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités espagnoles ont engagé neuf avions bombardiers d’eau. Les ordres de confinement, qui concernaient quelque 3 500 habitants d’une commune près de la capitale, ont été levés."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/19/en-espagne-un-nouvel-incendie-s-est-declare-a-l-ouest-de-madrid_6750003_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/19/en-espagne-un-nouvel-incendie-s-est-declare-a-l-ouest-de-madrid_6750003_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/19/en-espagne-un-nouvel-incendie-s-est-declare-a-l-ouest-de-madrid_6750003_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/120/0/1920/960/644/322/60/0/ad3e2f5_upload-1-qebzpwvx7blo-000-c62j99e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers tentent d’éteindre un incendie à proximité d’El Cerezal (Espagne), le 19 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Services des urgences militaires d’Espagne/ AFP"
+      }
+    ],
+    "credit": "Services des urgences militaires d’Espagne/ AFP"
+  }
+}

@@ -2,7 +2,7 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 275
+    "co_citations": 276
   },
   {
     "pays_a": "IRN",
@@ -185,6 +185,11 @@
     "co_citations": 4
   },
   {
+    "pays_a": "ISR",
+    "pays_b": "TUR",
+    "co_citations": 4
+  },
+  {
     "pays_a": "IND",
     "pays_b": "USA",
     "co_citations": 4
@@ -222,11 +227,6 @@
   {
     "pays_a": "GBR",
     "pays_b": "IRN",
-    "co_citations": 3
-  },
-  {
-    "pays_a": "ISR",
-    "pays_b": "TUR",
     "co_citations": 3
   },
   {
