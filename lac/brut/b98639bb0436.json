@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T08:35:34.515172+00:00",
+  "_id": "b98639bb0436",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie dit avoir « intercepté et détruit » 453 drones ukrainiens dans la nuit de mardi à mercredi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie dit avoir « intercepté et détruit » 453 drones ukrainiens dans la nuit de mardi à mercredi"
+    },
+    "published": "Wed, 19 Aug 2026 06:36:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      4,
+      36,
+      45,
+      2,
+      231,
+      0
+    ],
+    "updated": "Wed, 19 Aug 2026 09:51:28 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      7,
+      51,
+      28,
+      2,
+      231,
+      0
+    ],
+    "summary": "En Ukraine, l’armée de l’air fait savoir que les forces russes ont « attaqué avec deux missiles balistiques Iskander-M et 65 drones », ajoutant avoir détruit ou neutralisé 56 de ces aéronefs sans pilote.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, l’armée de l’air fait savoir que les forces russes ont « attaqué avec deux missiles balistiques Iskander-M et 65 drones », ajoutant avoir détruit ou neutralisé 56 de ces aéronefs sans pilote."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-une-centrale-thermique-du-premier-operateur-energetique-prive-d-ukraine-visee-par-une-attaque-d-ampleur-russe_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-une-centrale-thermique-du-premier-operateur-energetique-prive-d-ukraine-visee-par-une-attaque-d-ampleur-russe_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-une-centrale-thermique-du-premier-operateur-energetique-prive-d-ukraine-visee-par-une-attaque-d-ampleur-russe_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/262/0/8183/4091/644/322/60/0/0c91d94_ftp-1-ooetlxzcxvkx-495296b1a86848048f0169cc74694e08-1-ef8501fff0c644bcadf41f8b8835f1a3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un soldat de l’armée ukrainienne prépare des drones d’attaque à longue portée FP-1 pour une mission de frappe en profondeur visant des cibles russes, dans un lieu tenu secret, en Ukraine, le 16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP"
+  }
+}

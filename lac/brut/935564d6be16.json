@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T08:35:35.190611+00:00",
+  "_id": "935564d6be16",
+  "brut": {
+    "title": "Guerre en Ukraine : quatre personnes sont mortes dans une attaque russe contre un bus à Kherson",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : quatre personnes sont mortes dans une attaque russe contre un bus à Kherson"
+    },
+    "summary": "Ces dernières semaines, les frappes se sont intensifiées des deux côtés du front, faisant un nombre croissant de victimes civiles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces dernières semaines, les frappes se sont intensifiées des deux côtés du front, faisant un nombre croissant de victimes civiles."
+    },
+    "published": "Wed, 19 Aug 2026 09:50:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      7,
+      50,
+      14,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-personnes-sont-mortes-dans-une-attaque-russe-contre-un-bus-a-kherson_8153270.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/K0tlK1x1z8411L9iaTKrGipk8Bw/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/19/6a855fec97282779086618.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-personnes-sont-mortes-dans-une-attaque-russe-contre-un-bus-a-kherson_8153270.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-personnes-sont-mortes-dans-une-attaque-russe-contre-un-bus-a-kherson_8153270.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -2,7 +2,7 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 265
+    "co_citations": 269
   },
   {
     "pays_a": "IRN",
@@ -62,7 +62,7 @@
   {
     "pays_a": "FRA",
     "pays_b": "IRN",
-    "co_citations": 22
+    "co_citations": 23
   },
   {
     "pays_a": "TUR",
@@ -95,6 +95,11 @@
     "co_citations": 11
   },
   {
+    "pays_a": "JPN",
+    "pays_b": "USA",
+    "co_citations": 10
+  },
+  {
     "pays_a": "TUR",
     "pays_b": "UKR",
     "co_citations": 10
@@ -108,11 +113,6 @@
     "pays_a": "GBR",
     "pays_b": "UKR",
     "co_citations": 10
-  },
-  {
-    "pays_a": "JPN",
-    "pays_b": "USA",
-    "co_citations": 9
   },
   {
     "pays_a": "LBN",

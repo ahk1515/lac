@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T08:35:35.190022+00:00",
+  "_id": "754cea013f79",
+  "brut": {
+    "title": "Guerre en Ukraine : Kiev sature le ciel russe de drones",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : Kiev sature le ciel russe de drones"
+    },
+    "summary": "Ces derniers jours, l'Ukraine multiplie les attaques en Russie grâce à une utilisation massive des drones. Une technique de saturation qui a permis de toucher des cibles stratégiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces derniers jours, l'Ukraine multiplie les attaques en Russie grâce à une utilisation massive des drones. Une technique de saturation qui a permis de toucher des cibles stratégiques."
+    },
+    "published": "Wed, 19 Aug 2026 10:26:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      8,
+      26,
+      17,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-sature-le-ciel-russe-de-drones_8153297.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/z-s2Ubk5J7hu1eaqYYld8Gm9td8/25x0:1510x835/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85688513df4983246158.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-sature-le-ciel-russe-de-drones_8153297.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-sature-le-ciel-russe-de-drones_8153297.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

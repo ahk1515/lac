@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T08:35:35.191559+00:00",
+  "_id": "506cbae25804",
+  "brut": {
+    "title": "L'épidémie d'Ebola en République démocratique du Congo est \"loin d'être maîtrisée\", prévient l'OMS",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épidémie d'Ebola en République démocratique du Congo est \"loin d'être maîtrisée\", prévient l'OMS"
+    },
+    "summary": "\"Près de 5 000 personnes ont désormais été infectées et plus de 2 300 sont décédées\", a rapporté mardi le responsable de l'OMS, Tedros Adhanom Ghebreyesus, qui pointe un risque \"élevé\" de propagation internationale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Près de 5 000 personnes ont désormais été infectées et plus de 2 300 sont décédées\", a rapporté mardi le responsable de l'OMS, Tedros Adhanom Ghebreyesus, qui pointe un risque \"élevé\" de propagation internationale."
+    },
+    "published": "Wed, 19 Aug 2026 07:50:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      5,
+      50,
+      58,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-est-loin-d-etre-maitrisee-previent-l-oms_8153150.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Tcy9_L-AFHQc95w8UKEaiHoqbvw/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8543f30b7b9412761107.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-est-loin-d-etre-maitrisee-previent-l-oms_8153150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-est-loin-d-etre-maitrisee-previent-l-oms_8153150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

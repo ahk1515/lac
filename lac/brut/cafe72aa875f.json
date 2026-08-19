@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T08:35:34.514354+00:00",
+  "_id": "cafe72aa875f",
+  "brut": {
+    "title": "En Belgique, l’incendie est « encerclé » mais la situation « reste compliquée »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Belgique, l’incendie est « encerclé » mais la situation « reste compliquée »"
+    },
+    "published": "Wed, 19 Aug 2026 08:45:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      6,
+      45,
+      34,
+      2,
+      231,
+      0
+    ],
+    "updated": "Wed, 19 Aug 2026 09:43:51 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      7,
+      43,
+      51,
+      2,
+      231,
+      0
+    ],
+    "summary": "Le ministre de l’intérieur belge, Bernard Quintin, a averti que l’extinction de l’incendie, qui a ravagé quelque 3 000 hectares dans les Hautes Fagnes, prendrait encore « des semaines ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ministre de l’intérieur belge, Bernard Quintin, a averti que l’extinction de l’incendie, qui a ravagé quelque 3 000 hectares dans les Hautes Fagnes, prendrait encore « des semaines »."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/19/en-belgique-l-incendie-est-encercle-mais-la-situation-reste-compliquee_6749605_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/19/en-belgique-l-incendie-est-encercle-mais-la-situation-reste-compliquee_6749605_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/19/en-belgique-l-incendie-est-encercle-mais-la-situation-reste-compliquee_6749605_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/401/0/4815/2407/644/322/60/0/ab7afa7_ftp-1-bhle3aakys5f-5867663-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un pompier dans la réserve naturelle des Hautes Fagnes, près de Baelen, en Belgique, le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHN THYS / AFP"
+      }
+    ],
+    "credit": "JOHN THYS / AFP"
+  }
+}

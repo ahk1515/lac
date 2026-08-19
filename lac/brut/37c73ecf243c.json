@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T08:35:35.190242+00:00",
+  "_id": "37c73ecf243c",
+  "brut": {
+    "title": "Donald Trump suspend pour trois jours l'entrée en vigueur de nouveaux droits de douane pour le Canada",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump suspend pour trois jours l'entrée en vigueur de nouveaux droits de douane pour le Canada"
+    },
+    "summary": "Ces surtaxes, annoncées mi-juillet, devaient entrer en vigueur à minuit mercredi et porter sur l'équivalent de 20 milliards de dollars d'importations canadiennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces surtaxes, annoncées mi-juillet, devaient entrer en vigueur à minuit mercredi et porter sur l'équivalent de 20 milliards de dollars d'importations canadiennes."
+    },
+    "published": "Wed, 19 Aug 2026 10:23:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      8,
+      23,
+      36,
+      2,
+      231,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/droits-de-douane/donald-trump-suspend-pour-trois-jours-l-entree-en-vigueur-de-nouveaux-droits-de-douane-pour-le-canada_8153300.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/cSUXM8oLaLXENky7HVIfEdedv4k/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8567b196166239071960.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/droits-de-douane/donald-trump-suspend-pour-trois-jours-l-entree-en-vigueur-de-nouveaux-droits-de-douane-pour-le-canada_8153300.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/droits-de-douane/donald-trump-suspend-pour-trois-jours-l-entree-en-vigueur-de-nouveaux-droits-de-douane-pour-le-canada_8153300.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
