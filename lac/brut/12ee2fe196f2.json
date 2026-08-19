@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-19T01:09:21.686046+00:00",
+  "_id": "12ee2fe196f2",
+  "brut": {
+    "title": "Dans le Var, l’incendie du Gros Bessillon est officiellement éteint après « un mois de combat »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le Var, l’incendie du Gros Bessillon est officiellement éteint après « un mois de combat »"
+    },
+    "published": "Wed, 19 Aug 2026 02:36:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      0,
+      36,
+      52,
+      2,
+      231,
+      0
+    ],
+    "updated": "Wed, 19 Aug 2026 03:00:53 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      1,
+      0,
+      53,
+      2,
+      231,
+      0
+    ],
+    "summary": "« Inédit » par sa durée, ce feu, qui s’est déclaré une première fois le 21 juillet dans un champ du village de Pontevès, a parcouru en tout 6 300 hectares, touché des dizaines de maisons et provoqué l’évacuation de 6 000 personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Inédit » par sa durée, ce feu, qui s’est déclaré une première fois le 21 juillet dans un champ du village de Pontevès, a parcouru en tout 6 300 hectares, touché des dizaines de maisons et provoqué l’évacuation de 6 000 personnes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/19/dans-le-var-l-incendie-du-gros-bessillon-est-officiellement-eteint-apres-un-mois-de-combat_6749256_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/19/dans-le-var-l-incendie-du-gros-bessillon-est-officiellement-eteint-apres-un-mois-de-combat_6749256_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/19/dans-le-var-l-incendie-du-gros-bessillon-est-officiellement-eteint-apres-un-mois-de-combat_6749256_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/01/463/0/5494/2747/644/322/60/0/f4994fc_ftp-1-pqo4egx4kwbv-5754647-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Montfort-sur-Argens (Var), le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CLEMENT MAHOUDEAU/AFP"
+      }
+    ],
+    "credit": "CLEMENT MAHOUDEAU/AFP"
+  }
+}

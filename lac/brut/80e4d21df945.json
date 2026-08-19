@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-19T01:09:21.889311+00:00",
+  "_id": "80e4d21df945",
+  "brut": {
+    "title": "Deux ressortissants Français arrêtés et détenus au Togo depuis fin juillet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux ressortissants Français arrêtés et détenus au Togo depuis fin juillet"
+    },
+    "summary": "Il s'agit de \"réalisateurs\" travaillant \"pour une société de production française\", selon le ministère des Affaires étrangères.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il s'agit de \"réalisateurs\" travaillant \"pour une société de production française\", selon le ministère des Affaires étrangères."
+    },
+    "published": "Tue, 18 Aug 2026 23:00:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      21,
+      0,
+      36,
+      1,
+      230,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/togo/deux-francais-arretes-et-detenus-au-togo-depuis-fin-juillet_8152730.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MuOXtqiaE9e-ymoZhPySzR45vC8/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/18/6a84c7767fb47082767860.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/togo/deux-francais-arretes-et-detenus-au-togo-depuis-fin-juillet_8152730.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/togo/deux-francais-arretes-et-detenus-au-togo-depuis-fin-juillet_8152730.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
