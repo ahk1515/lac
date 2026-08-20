@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T04:35:03.173974+00:00",
+  "_id": "cf6fa3ffde5e",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins six morts à Kiev et sa région dans des bombardements russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins six morts à Kiev et sa région dans des bombardements russes"
+    },
+    "published": "Thu, 20 Aug 2026 05:52:51 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      3,
+      52,
+      51,
+      3,
+      232,
+      0
+    ],
+    "summary": "« Vingt-trois autres personnes ont été blessées » dans la capitale ukrainienne au cours de cette nouvelle offensive russe, dans la nuit de mercredi à jeudi, a précisé l’administration militaire de Kiev.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Vingt-trois autres personnes ont été blessées » dans la capitale ukrainienne au cours de cette nouvelle offensive russe, dans la nuit de mercredi à jeudi, a précisé l’administration militaire de Kiev."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-au-moins-six-morts-a-kiev-et-sa-region-dans-des-bombardements-russes_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-au-moins-six-morts-a-kiev-et-sa-region-dans-des-bombardements-russes_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-au-moins-six-morts-a-kiev-et-sa-region-dans-des-bombardements-russes_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/1000/0/6048/3024/644/322/60/0/e75c1ff_ftp-1-lerwymzoks2h-5876478-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après des frappes russes, à Kiev, le 19 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGEI SUPINSKY/AFP"
+      }
+    ],
+    "credit": "SERGEI SUPINSKY/AFP"
+  }
+}
