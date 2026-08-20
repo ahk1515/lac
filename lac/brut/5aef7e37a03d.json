@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T16:33:12.606123+00:00",
+  "_id": "5aef7e37a03d",
+  "brut": {
+    "title": "En Indonésie, 200 000 hectares ont brûlé depuis le début de l’année, mais le pire reste à venir, alertent les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Indonésie, 200 000 hectares ont brûlé depuis le début de l’année, mais le pire reste à venir, alertent les autorités"
+    },
+    "published": "Thu, 20 Aug 2026 17:01:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      15,
+      1,
+      9,
+      3,
+      232,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 18:16:01 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      16,
+      16,
+      1,
+      3,
+      232,
+      0
+    ],
+    "summary": "Les incendies ravagent le pays depuis plusieurs jours, où le phénomène climatique El Niño accentue la sécheresse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les incendies ravagent le pays depuis plusieurs jours, où le phénomène climatique El Niño accentue la sécheresse."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/en-indonesie-200-000-hectares-ont-brule-depuis-le-debut-de-l-annee-mais-le-pire-reste-a-venir-alertent-les-autorites_6751051_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/en-indonesie-200-000-hectares-ont-brule-depuis-le-debut-de-l-annee-mais-le-pire-reste-a-venir-alertent-les-autorites_6751051_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/en-indonesie-200-000-hectares-ont-brule-depuis-le-debut-de-l-annee-mais-le-pire-reste-a-venir-alertent-les-autorites_6751051_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/288/0/3464/1732/644/322/60/0/52b8c17_ftp-1-lol35vax1ptu-5878288-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des automobilistes conduisent à travers la fumée, à Palangkaraya (Indonésie), le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REINA/AFP"
+      }
+    ],
+    "credit": "REINA/AFP"
+  }
+}

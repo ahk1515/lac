@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T16:33:12.900826+00:00",
+  "_id": "fc20185a40b8",
+  "brut": {
+    "title": "L'effondrement d'une mine fait au moins 100 morts en République centrafricaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'effondrement d'une mine fait au moins 100 morts en République centrafricaine"
+    },
+    "summary": "Au moins 100 personnes sont mortes dans l’effondrement d’une mine d’or artisanale, le 18 août à Zamboyé, en Centrafrique. Des opérations de secours se poursuivent pour retrouver les personnes encore ensevelies.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 100 personnes sont mortes dans l’effondrement d’une mine d’or artisanale, le 18 août à Zamboyé, en Centrafrique. Des opérations de secours se poursuivent pour retrouver les personnes encore ensevelies."
+    },
+    "published": "Thu, 20 Aug 2026 14:55:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      12,
+      55,
+      26,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/centrafrique/l-effondrement-d-une-mine-fait-au-moins-100-morts-en-republique-centrafricaine_8154992.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/txfxEPby_4LDOFoZoiy1lLIAjes/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/20/6a86f91e15eca781694519.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/centrafrique/l-effondrement-d-une-mine-fait-au-moins-100-morts-en-republique-centrafricaine_8154992.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/centrafrique/l-effondrement-d-une-mine-fait-au-moins-100-morts-en-republique-centrafricaine_8154992.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

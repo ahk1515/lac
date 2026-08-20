@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T16:33:12.901079+00:00",
+  "_id": "d544c20caa8a",
+  "brut": {
+    "title": "En Roumanie, un avion de chasse abat un drone maritime près d'un projet gazier en mer Noire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Roumanie, un avion de chasse abat un drone maritime près d'un projet gazier en mer Noire"
+    },
+    "summary": "Le président roumain, Nicusor Dan, a \"fermement\" condamné sur X \"l'escalade de ces incidents irresponsables\", qu'il a imputés à la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président roumain, Nicusor Dan, a \"fermement\" condamné sur X \"l'escalade de ces incidents irresponsables\", qu'il a imputés à la Russie."
+    },
+    "published": "Thu, 20 Aug 2026 14:58:35 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      12,
+      58,
+      35,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/union-europeenne/un-avion-de-chasse-roumain-abat-un-drone-maritime-pres-d-un-projet-gazier-en-mer-noire_8154965.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/437rZq6dmGw8LqootVKYJshva6w/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86f5b430989173129540.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/un-avion-de-chasse-roumain-abat-un-drone-maritime-pres-d-un-projet-gazier-en-mer-noire_8154965.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/union-europeenne/un-avion-de-chasse-roumain-abat-un-drone-maritime-pres-d-un-projet-gazier-en-mer-noire_8154965.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

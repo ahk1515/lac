@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T16:33:12.900568+00:00",
+  "_id": "05cc4915baff",
+  "brut": {
+    "title": "Royaume-Uni : Harry et Meghan font leur grand retour à Londres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Royaume-Uni : Harry et Meghan font leur grand retour à Londres"
+    },
+    "summary": "Six ans après leur rupture fracassante avec la famille royale et leur exil en Californie, le prince Harry et son épouse Meghan vont revenir s'installer près de Londres. Faut-il y voir le signe d'une réconciliation ? Et qu'en pensent les Britanniques ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Six ans après leur rupture fracassante avec la famille royale et leur exil en Californie, le prince Harry et son épouse Meghan vont revenir s'installer près de Londres. Faut-il y voir le signe d'une réconciliation ? Et qu'en pensent les Britanniques ?"
+    },
+    "published": "Thu, 20 Aug 2026 16:14:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      14,
+      14,
+      33,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-harry-et-meghan-font-leur-grand-retour-a-londres_8155040.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/tyqHJ1ZKG-7gOOM7IyL2RXn6R48/0x85:1602x987/432x243/filters:format(jpg):quality(50)/2026/08/20/6a870428a0be2253146556.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-harry-et-meghan-font-leur-grand-retour-a-londres_8155040.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-harry-et-meghan-font-leur-grand-retour-a-londres_8155040.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

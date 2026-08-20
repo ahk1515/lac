@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T16:33:12.606878+00:00",
+  "_id": "ac7ea666ab6a",
+  "brut": {
+    "title": "Au Brésil, Sao Paulo s’enorgueillit de son système de surveillance massif, malgré une efficacité contestée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, Sao Paulo s’enorgueillit de son système de surveillance massif, malgré une efficacité contestée"
+    },
+    "published": "Thu, 20 Aug 2026 15:00:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      13,
+      0,
+      11,
+      3,
+      232,
+      0
+    ],
+    "summary": "Un réseau de 50 000 caméras liées à un logiciel de reconnaissance faciale a été déployé dans la capitale économique pour lutter contre la criminalité. Plébiscité par la population, le dispositif suscite cependant des inquiétudes en raison d’identifications erronées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un réseau de 50 000 caméras liées à un logiciel de reconnaissance faciale a été déployé dans la capitale économique pour lutter contre la criminalité. Plébiscité par la population, le dispositif suscite cependant des inquiétudes en raison d’identifications erronées."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/au-bresil-sao-paulo-s-enorgueillit-de-son-systeme-de-surveillance-massif-malgre-une-efficacite-contestee_6750976_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/au-bresil-sao-paulo-s-enorgueillit-de-son-systeme-de-surveillance-massif-malgre-une-efficacite-contestee_6750976_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/au-bresil-sao-paulo-s-enorgueillit-de-son-systeme-de-surveillance-massif-malgre-une-efficacite-contestee_6750976_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/537/0/6106/3053/644/322/60/0/0860aa7_upload-1-7hgxk8sbewdv-000-a26b6rc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’ancien centre de surveillance Smart Sampa, à Sao Paulo, au Brésil, le 25 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NELSON ALMEIDA/AFP"
+      }
+    ],
+    "credit": "NELSON ALMEIDA/AFP"
+  }
+}

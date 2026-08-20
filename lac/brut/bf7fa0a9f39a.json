@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T16:33:12.605489+00:00",
+  "_id": "bf7fa0a9f39a",
+  "brut": {
+    "title": "Un nouveau porte-avions américain, l’USS « George-Washington », est arrivé au Moyen-Orient",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un nouveau porte-avions américain, l’USS « George-Washington », est arrivé au Moyen-Orient"
+    },
+    "published": "Thu, 20 Aug 2026 17:34:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      15,
+      34,
+      55,
+      3,
+      232,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 17:41:49 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      15,
+      41,
+      49,
+      3,
+      232,
+      0
+    ],
+    "summary": "Le navire vient remplacer l’« Abraham-Lincoln », déployé en mer depuis huit mois, et dont les conditions de vie de l’équipage avaient suscité l’inquiétude aux Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le navire vient remplacer l’« Abraham-Lincoln », déployé en mer depuis huit mois, et dont les conditions de vie de l’équipage avaient suscité l’inquiétude aux Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/un-nouveau-porte-avions-americain-l-uss-george-washington-est-arrive-au-moyen-orient-annonce-l-armee-etats-unienne_6751055_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/un-nouveau-porte-avions-americain-l-uss-george-washington-est-arrive-au-moyen-orient-annonce-l-armee-etats-unienne_6751055_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/un-nouveau-porte-avions-americain-l-uss-george-washington-est-arrive-au-moyen-orient-annonce-l-armee-etats-unienne_6751055_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/340/0/5438/2719/644/322/60/0/00be267_ftp-1-ng4f3gatiawg-2026-08-19t143107z-71025016-rc2vxmaqm9su-rtrmadp-3-iran-crisis-usa-carrier.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le porte-avions états-unien USS « George-Washington », dans le détroit de Malacca, le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "US Navy via REUTERS"
+      }
+    ],
+    "credit": "US Navy via REUTERS"
+  }
+}
