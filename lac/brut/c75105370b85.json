@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T20:26:12.686410+00:00",
+  "_id": "c75105370b85",
+  "brut": {
+    "title": "Inde : à la découverte des ponts vivants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Inde : à la découverte des ponts vivants"
+    },
+    "summary": "En Inde, des ponts vivants tissés avec des racines d’arbres poussent au cœur de la forêt. Un savoir-faire ancestral que le pays rêve de faire inscrire au patrimoine mondial de l’UNESCO.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Inde, des ponts vivants tissés avec des racines d’arbres poussent au cœur de la forêt. Un savoir-faire ancestral que le pays rêve de faire inscrire au patrimoine mondial de l’UNESCO."
+    },
+    "published": "Thu, 20 Aug 2026 19:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      17,
+      0,
+      1,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/inde/inde-a-la-decouverte-des-ponts-vivants_8155283.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/02yFjR2vDjm835055FlREb7k8B0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/20/6a8725d036313825010431.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/inde/inde-a-la-decouverte-des-ponts-vivants_8155283.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/inde/inde-a-la-decouverte-des-ponts-vivants_8155283.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T20:26:12.685004+00:00",
+  "_id": "c3962e330842",
+  "brut": {
+    "title": "La Finlande soupçonne un avion russe d'avoir violé son espace aérien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Finlande soupçonne un avion russe d'avoir violé son espace aérien"
+    },
+    "summary": "\"Toute violation présumée de l'espace aérien est prise au sérieux. Une enquête est en cours\", a dit le ministre de la Défense du pays Antti Hakkanen, cité dans un communiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Toute violation présumée de l'espace aérien est prise au sérieux. Une enquête est en cours\", a dit le ministre de la Défense du pays Antti Hakkanen, cité dans un communiqué."
+    },
+    "published": "Thu, 20 Aug 2026 21:30:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      19,
+      30,
+      18,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-avion-russe-d-avoir-viole-son-espace-aerien_8155439.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KnoYZqbgFjwqQuApVyusa7dneVc/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/08/20/6a87559f1e27d457734448.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-avion-russe-d-avoir-viole-son-espace-aerien_8155439.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-avion-russe-d-avoir-viole-son-espace-aerien_8155439.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

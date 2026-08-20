@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T20:26:12.570612+00:00",
+  "_id": "b1ec7e415f48",
+  "brut": {
+    "title": "En Serbie, les pompiers luttent contre un immense feu, soutenus par l’envoi d’un avion bombardier d’eau russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Serbie, les pompiers luttent contre un immense feu, soutenus par l’envoi d’un avion bombardier d’eau russe"
+    },
+    "published": "Thu, 20 Aug 2026 18:35:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      16,
+      35,
+      20,
+      3,
+      232,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 18:47:55 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      16,
+      47,
+      55,
+      3,
+      232,
+      0
+    ],
+    "summary": "L’incendie a brûlé plus de 3 600 hectares de végétation de la réserve naturelle Deliblatska pescara en quinze jours. Une vingtaine d’autres feux sévissent dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’incendie a brûlé plus de 3 600 hectares de végétation de la réserve naturelle Deliblatska pescara en quinze jours. Une vingtaine d’autres feux sévissent dans le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/en-serbie-les-pompiers-luttent-contre-un-immense-feu-soutenus-par-l-envoi-d-un-avion-bombardier-d-eau-russe_6751124_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/en-serbie-les-pompiers-luttent-contre-un-immense-feu-soutenus-par-l-envoi-d-un-avion-bombardier-d-eau-russe_6751124_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/en-serbie-les-pompiers-luttent-contre-un-immense-feu-soutenus-par-l-envoi-d-un-avion-bombardier-d-eau-russe_6751124_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/270/0/5800/2900/644/322/60/0/7837f3d_ftp-1-2vkhw3f4tg82-5881074-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un hélicoptère de l’armée serbe, équipé d’un dispositif de larguage d’eau, à proximité de Grebenac (Serbie), le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "UROS ARSIC/AFP"
+      }
+    ],
+    "credit": "UROS ARSIC/AFP"
+  }
+}

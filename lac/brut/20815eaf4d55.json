@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T20:26:12.570265+00:00",
+  "_id": "20815eaf4d55",
+  "brut": {
+    "title": "Au Nigeria, plus de 50 morts après le chavirement d’un bateau surchargé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Nigeria, plus de 50 morts après le chavirement d’un bateau surchargé"
+    },
+    "published": "Thu, 20 Aug 2026 18:48:22 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      16,
+      48,
+      22,
+      3,
+      232,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 19:27:21 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      17,
+      27,
+      21,
+      3,
+      232,
+      0
+    ],
+    "summary": "L’accident s’est produit jeudi en début de journée dans le nord-ouest du pays. Les recherches se poursuivent, selon le porte-parole de l’Agence nationale de gestion des situations d’urgence de la région.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’accident s’est produit jeudi en début de journée dans le nord-ouest du pays. Les recherches se poursuivent, selon le porte-parole de l’Agence nationale de gestion des situations d’urgence de la région."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/20/au-nigeria-plus-de-50-morts-apres-le-chavirement-d-un-bateau-surcharge_6751127_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/20/au-nigeria-plus-de-50-morts-apres-le-chavirement-d-un-bateau-surcharge_6751127_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/20/au-nigeria-plus-de-50-morts-apres-le-chavirement-d-un-bateau-surcharge_6751127_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/54/0/1280/640/644/322/60/0/de19a9e_ftp-1-vb786qxhgr8s-2026-08-20t145635z-2039014501-rc2e2naif8s3-rtrmadp-3-nigeria-boat-accident.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les corps des victimes de l’accident de bateau, dans la cour d’une mosquée de Gorau, dans l’Etat de Sokoto (Nigeria), le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abubakar Imam/REUTERS"
+      }
+    ],
+    "credit": "Abubakar Imam/REUTERS"
+  }
+}

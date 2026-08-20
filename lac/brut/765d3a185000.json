@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T20:26:12.685390+00:00",
+  "_id": "765d3a185000",
+  "brut": {
+    "title": "La hausse du prix du plastique fait grimper la note des bouteilles d'eau minérale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La hausse du prix du plastique fait grimper la note des bouteilles d'eau minérale"
+    },
+    "summary": "Les bouteilles d’eau pourraient bientôt coûter plus cher, en raison de la guerre au Moyen-Orient. Elle fait flamber le prix du pétrole, et donc du plastique utilisé pour fabriquer les contenants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les bouteilles d’eau pourraient bientôt coûter plus cher, en raison de la guerre au Moyen-Orient. Elle fait flamber le prix du pétrole, et donc du plastique utilisé pour fabriquer les contenants."
+    },
+    "published": "Thu, 20 Aug 2026 21:10:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      19,
+      10,
+      19,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/la-hausse-du-prix-du-plastique-fait-grimper-la-note-des-bouteilles-d-eau-minerale_8155415.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/5OIbdlUrpEIDLwsr8VgMcaN6rgY/0x114:1500x958/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8750b2218a1317692979.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/la-hausse-du-prix-du-plastique-fait-grimper-la-note-des-bouteilles-d-eau-minerale_8155415.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/la-hausse-du-prix-du-plastique-fait-grimper-la-note-des-bouteilles-d-eau-minerale_8155415.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

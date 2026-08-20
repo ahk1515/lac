@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T20:26:12.685591+00:00",
+  "_id": "e5030bfb2a16",
+  "brut": {
+    "title": "Ukraine : nuit d'horreur à Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ukraine : nuit d'horreur à Kiev"
+    },
+    "summary": "C’est l’une des attaques russes les plus meurtrières de ces derniers mois. Un déluge de missiles et de drones sur Kiev, la nuit dernière. Au moins 16 personnes tuées. Une crèche et un hôpital pour enfants touchés. Et pour survivre, plus de 40.000 personnes réfugiées dans le métro de la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "C’est l’une des attaques russes les plus meurtrières de ces derniers mois. Un déluge de missiles et de drones sur Kiev, la nuit dernière. Au moins 16 personnes tuées. Une crèche et un hôpital pour enfants touchés. Et pour survivre, plus de 40.000 personnes réfugiées dans le métro de la capitale."
+    },
+    "published": "Thu, 20 Aug 2026 21:08:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      19,
+      8,
+      28,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-nuit-d-horreur-a-kiev_8155430.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/E0tl4ZFn4PRLeQaNMWR39Vw2e18/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/20/6a87509becca4946235905.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-nuit-d-horreur-a-kiev_8155430.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-nuit-d-horreur-a-kiev_8155430.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
