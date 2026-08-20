@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T12:45:54.399756+00:00",
+  "_id": "821c282a1251",
+  "brut": {
+    "title": "Attentat antisémite de Munich en 1970 : un suspect d’extrême droite identifié, cinquante-six ans après les faits",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attentat antisémite de Munich en 1970 : un suspect d’extrême droite identifié, cinquante-six ans après les faits"
+    },
+    "published": "Thu, 20 Aug 2026 11:42:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      9,
+      42,
+      7,
+      3,
+      232,
+      0
+    ],
+    "summary": "L’homme, âgé de 25 ans au moment des faits et décédé en 2020, écoutait des discours d’Hitler et faisait des exercices de tir à Obersalzberg, station touristique dans les montagnes bavaroises où le Führer avait sa résidence secondaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’homme, âgé de 25 ans au moment des faits et décédé en 2020, écoutait des discours d’Hitler et faisait des exercices de tir à Obersalzberg, station touristique dans les montagnes bavaroises où le Führer avait sa résidence secondaire."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/attentat-antisemite-de-munich-en-1970-un-suspect-d-extreme-droite-identifie-cinquante-six-ans-apres-les-faits_6750823_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/attentat-antisemite-de-munich-en-1970-un-suspect-d-extreme-droite-identifie-cinquante-six-ans-apres-les-faits_6750823_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/attentat-antisemite-de-munich-en-1970-un-suspect-d-extreme-droite-identifie-cinquante-six-ans-apres-les-faits_6750823_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/3171/0/3696/1848/644/322/60/0/5856951_upload-1-pufvpzy1rock-gettyimages-1213092705.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers interviennent sur le site d’un incendie criminel, à Munich (Allemagne), le 13 février 1970."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Joachim Barfknecht/picture alliance via Getty Images"
+      }
+    ],
+    "credit": "Joachim Barfknecht/picture alliance via Getty Images"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T12:45:54.398250+00:00",
+  "_id": "86fb833fa8c9",
+  "brut": {
+    "title": "Ceuta : l’Espagne ouvre des centres d’hébergement pour 1 800 migrants face à l’urgence humanitaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ceuta : l’Espagne ouvre des centres d’hébergement pour 1 800 migrants face à l’urgence humanitaire"
+    },
+    "published": "Thu, 20 Aug 2026 13:55:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      11,
+      55,
+      9,
+      3,
+      232,
+      0
+    ],
+    "summary": "Quelque 72 000 migrants avaient franchi la frontière lors d’un afflux sans précédent et meurtrier vers ce territoire espagnol en Afrique du Nord, les 30 et 31 juillet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quelque 72 000 migrants avaient franchi la frontière lors d’un afflux sans précédent et meurtrier vers ce territoire espagnol en Afrique du Nord, les 30 et 31 juillet."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/ceuta-l-espagne-ouvre-des-centres-d-hebergement-pour-1-800-migrants-face-a-l-urgence-humanitaire_6750966_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/ceuta-l-espagne-ouvre-des-centres-d-hebergement-pour-1-800-migrants-face-a-l-urgence-humanitaire_6750966_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/ceuta-l-espagne-ouvre-des-centres-d-hebergement-pour-1-800-migrants-face-a-l-urgence-humanitaire_6750966_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/353/0/5900/2950/644/322/60/0/a1ed840_ftp-1-iixwdnfa1o60-2026-08-19t214827z-945639526-rc2o1na02me2-rtrmadp-3-migration-europe-spain-ceuta.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des femmes et des enfants migrants choisissent des vêtements donnés sur un terrain de sport aménagé, par des habitants, en abri de fortune pour des femmes et des enfants, à Ceuta (Espagne), le 19 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Violeta Santos Moura/REUTERS"
+      }
+    ],
+    "credit": "Violeta Santos Moura/REUTERS"
+  }
+}

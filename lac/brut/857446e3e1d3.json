@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T12:45:54.400058+00:00",
+  "_id": "857446e3e1d3",
+  "brut": {
+    "title": "Canicule : 14 000 morts liées à la chaleur recensées cet été en Allemagne, près de 4 500 en Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Canicule : 14 000 morts liées à la chaleur recensées cet été en Allemagne, près de 4 500 en Espagne"
+    },
+    "published": "Thu, 20 Aug 2026 11:29:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      9,
+      29,
+      44,
+      3,
+      232,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 12:55:02 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      10,
+      55,
+      2,
+      3,
+      232,
+      0
+    ],
+    "summary": "Les personnes âgées de 75 ans et plus ont été les plus touchées en Allemagne, selon le rapport hebdomadaire de l’Institut Robert Koch. Tandis que l’Espagne a connu son mois de juillet le plus chaud, à égalité avec 2022, selon l’agence météorologique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les personnes âgées de 75 ans et plus ont été les plus touchées en Allemagne, selon le rapport hebdomadaire de l’Institut Robert Koch. Tandis que l’Espagne a connu son mois de juillet le plus chaud, à égalité avec 2022, selon l’agence météorologique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/canicule-en-allemagne-14-000-morts-liees-a-la-chaleur-cet-ete_6750821_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/canicule-en-allemagne-14-000-morts-liees-a-la-chaleur-cet-ete_6750821_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/canicule-en-allemagne-14-000-morts-liees-a-la-chaleur-cet-ete_6750821_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/26/176/0/4000/2000/644/322/60/0/a98000b_ftp-1-s6jvj8u0qtjh-2026-06-26t140923z-1242352613-rc2o1man0ekb-rtrmadp-3-europe-weather-germany.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des ouvriers du bâtiment, lors d’une vague de chaleur à Berlin, le 26 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Axel Schmidt/REUTERS"
+      }
+    ],
+    "credit": "Axel Schmidt/REUTERS"
+  }
+}

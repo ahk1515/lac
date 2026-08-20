@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T12:45:54.398577+00:00",
+  "_id": "d012c333e609",
+  "brut": {
+    "title": "En Hongrie, la télévision publique reprend ses journaux d’information après 44 jours d’une interruption décidée par Péter Magyar, successeur de Viktor Orban",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Hongrie, la télévision publique reprend ses journaux d’information après 44 jours d’une interruption décidée par Péter Magyar, successeur de Viktor Orban"
+    },
+    "published": "Thu, 20 Aug 2026 13:48:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      11,
+      48,
+      32,
+      3,
+      232,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 14:01:24 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      12,
+      1,
+      24,
+      3,
+      232,
+      0
+    ],
+    "summary": "Le premier ministre, qui s’est engagé à restaurer l’indépendance des médias publics mise à mal par son prédecesseur, Viktor Orban, avait décidé la suspension des bulletins d’information de la chaine publique M1.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le premier ministre, qui s’est engagé à restaurer l’indépendance des médias publics mise à mal par son prédecesseur, Viktor Orban, avait décidé la suspension des bulletins d’information de la chaine publique M1."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/en-hongrie-la-television-publique-reprend-ses-journaux-d-information-apres-44-jours-d-une-interruption-decidee-par-peter-magyar-successeur-de-viktor-orban_6750964_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/en-hongrie-la-television-publique-reprend-ses-journaux-d-information-apres-44-jours-d-une-interruption-decidee-par-peter-magyar-successeur-de-viktor-orban_6750964_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/en-hongrie-la-television-publique-reprend-ses-journaux-d-information-apres-44-jours-d-une-interruption-decidee-par-peter-magyar-successeur-de-viktor-orban_6750964_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/1241/0/7441/3720/644/322/60/0/54d52ea_ftp-1-gvazcq7g9ect-5879480-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre hongrois, Péter Magyar, lors d’une cérémonie marquant la fête nationale du pays, à Budapest, le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ATTILA KISBENEDEK/AFP"
+      }
+    ],
+    "credit": "ATTILA KISBENEDEK/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T12:45:54.498216+00:00",
+  "_id": "56677176f918",
+  "brut": {
+    "title": "La Corée du Nord a tiré une dizaine de missiles balistiques, affirme Séoul",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Corée du Nord a tiré une dizaine de missiles balistiques, affirme Séoul"
+    },
+    "summary": "Ces tirs interviennent à l'heure d'exercices militaires conjoints écourtés entre les Etats-Unis et la Corée du Sud, à la demande de Donald Trump.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces tirs interviennent à l'heure d'exercices militaires conjoints écourtés entre les Etats-Unis et la Corée du Sud, à la demande de Donald Trump."
+    },
+    "published": "Thu, 20 Aug 2026 13:47:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      11,
+      47,
+      28,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/coree-du-sud/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-selon-la-coree-du-sud_8154923.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/oppo5gMappgPHwvjTpYpBdiVRPI/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86e82630270496624505.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/coree-du-sud/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-selon-la-coree-du-sud_8154923.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/coree-du-sud/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-selon-la-coree-du-sud_8154923.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T12:45:54.399616+00:00",
+  "_id": "a839d2a49b30",
+  "brut": {
+    "title": "La Corée du Nord a tiré une dizaine de « missiles balistiques de courte portée », selon l’armée sud-coréenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Corée du Nord a tiré une dizaine de « missiles balistiques de courte portée », selon l’armée sud-coréenne"
+    },
+    "published": "Thu, 20 Aug 2026 11:48:51 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      9,
+      48,
+      51,
+      3,
+      232,
+      0
+    ],
+    "summary": "Ces tirs surviennent quelques heures après que Donald Trump a affirmé qu’il rencontrerait le dirigeant nord-coréen, Kim Jong-un, cette année.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces tirs surviennent quelques heures après que Donald Trump a affirmé qu’il rencontrerait le dirigeant nord-coréen, Kim Jong-un, cette année."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-de-courte-portee-selon-l-armee-sud-coreenne_6750825_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-de-courte-portee-selon-l-armee-sud-coreenne_6750825_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-de-courte-portee-selon-l-armee-sud-coreenne_6750825_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/694/0/5637/2818/644/322/60/0/318fd29_ftp-1-wzlqqfvswffk-5877864-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’exercices militaires conjoints entre les Etats-Unis et la Corée du Sud, à Yeongcheon (Corée du Sud), le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}
