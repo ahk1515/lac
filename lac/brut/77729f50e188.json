@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T08:36:20.561367+00:00",
+  "_id": "77729f50e188",
+  "brut": {
+    "title": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie"
+    },
+    "published": "Thu, 20 Aug 2026 06:57:48 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      4,
+      57,
+      48,
+      3,
+      232,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 07:51:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      5,
+      51,
+      18,
+      3,
+      232,
+      0
+    ],
+    "summary": "Xu Jiayin est, en outre, condamné à plus d’un milliard d’euros d’amende. Avec un passif de plus de 300 milliards de dollars, Evergrande avait été contraint à la liquidation et avait été à l’origine de la crise immobilière chinoise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Xu Jiayin est, en outre, condamné à plus d’un milliard d’euros d’amende. Avec un passif de plus de 300 milliards de dollars, Evergrande avait été contraint à la liquidation et avait été à l’origine de la crise immobilière chinoise."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/333/0/4000/2000/644/322/60/0/e287c25_upload-1-3tkzjb4m3bia-000-9mt69z.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Xu Jiayin, fondateur d’Evergrande, à Wuhan (Chine), le 5 juin 2017."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CN-STR/AFP"
+      }
+    ],
+    "credit": "CN-STR/AFP"
+  }
+}

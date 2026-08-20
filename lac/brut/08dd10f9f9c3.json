@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T08:36:20.561010+00:00",
+  "_id": "08dd10f9f9c3",
+  "brut": {
+    "title": "Pour Donald Trump, la Corée du Nord possède précisément « 57 armes nucléaires »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour Donald Trump, la Corée du Nord possède précisément « 57 armes nucléaires »"
+    },
+    "published": "Thu, 20 Aug 2026 09:18:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      7,
+      18,
+      58,
+      3,
+      232,
+      0
+    ],
+    "summary": "Le président des Etats-Unis a également critiqué la Corée du Sud et déclaré qu’il rencontrerait le dirigeant de la Corée du Nord, Kim Jong-un, sans préciser de date.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président des Etats-Unis a également critiqué la Corée du Sud et déclaré qu’il rencontrerait le dirigeant de la Corée du Nord, Kim Jong-un, sans préciser de date."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/20/pour-donald-trump-la-coree-du-nord-possede-precisement-57-armes-nucleaires_6750748_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/20/pour-donald-trump-la-coree-du-nord-possede-precisement-57-armes-nucleaires_6750748_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/20/pour-donald-trump-la-coree-du-nord-possede-precisement-57-armes-nucleaires_6750748_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/454/0/5449/2724/644/322/60/0/7106c6a_ftp-1-chznmhgvvhds-dd90f31dce464124ba3db2d33ea8fca5-0-a6d302223d5a46f9a54afdd57caad2a8.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jacquelyn Martin / AP Photo/Jacquelyn Martin"
+      }
+    ],
+    "credit": "Jacquelyn Martin / AP Photo/Jacquelyn Martin"
+  }
+}

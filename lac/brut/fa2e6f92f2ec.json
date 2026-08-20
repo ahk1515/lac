@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T08:36:20.794166+00:00",
+  "_id": "fa2e6f92f2ec",
+  "brut": {
+    "title": "Des milliers d'arbres centenaires ont-ils été déracinés pour construire des parcs photovoltaïques en Espagne ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des milliers d'arbres centenaires ont-ils été déracinés pour construire des parcs photovoltaïques en Espagne ?"
+    },
+    "summary": "Une vidéo présentant des panneaux solaires à perte de vue circule abondamment sur les réseaux sociaux. Il s'agit bien d'un parc en Espagne en Andalousie où des oliviers ont été abattus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une vidéo présentant des panneaux solaires à perte de vue circule abondamment sur les réseaux sociaux. Il s'agit bien d'un parc en Espagne en Andalousie où des oliviers ont été abattus."
+    },
+    "published": "Thu, 20 Aug 2026 07:30:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      5,
+      30,
+      1,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/des-milliers-d-arbres-centenaires-ont-ils-ete-deracines-pour-construire-des-parcs-photovoltaiques-en-espagne_8070566.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kOM426h2Qf-UOM8GL6i90uGh_q8/0x277:5315x3267/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8687f766da0892740814.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/des-milliers-d-arbres-centenaires-ont-ils-ete-deracines-pour-construire-des-parcs-photovoltaiques-en-espagne_8070566.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/des-milliers-d-arbres-centenaires-ont-ils-ete-deracines-pour-construire-des-parcs-photovoltaiques-en-espagne_8070566.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T08:36:20.794251+00:00",
+  "_id": "7e9eda946891",
+  "brut": {
+    "title": "Guerre en Ukraine : 13 personnes tuées à Kiev et sa région dans des bombardements russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : 13 personnes tuées à Kiev et sa région dans des bombardements russes"
+    },
+    "summary": "En Russie, le maire de Moscou, Sergueï Sobianine, a annoncé jeudi matin sur Telegram que 250 drones avaient été lancés en direction de la région de Moscou depuis mercredi soir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Russie, le maire de Moscou, Sergueï Sobianine, a annoncé jeudi matin sur Telegram que 250 drones avaient été lancés en direction de la région de Moscou depuis mercredi soir."
+    },
+    "published": "Thu, 20 Aug 2026 10:04:54 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      8,
+      4,
+      54,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-sept-personnes-sont-mortes-a-kiev-et-sa-region-dans-des-bombardements-russes_8154434.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/M8iFp4r6WKm39_VWo-UH6rel27g/0x41:1024x617/432x243/filters:format(jpg):quality(50)/2026/08/20/6a868f6b32550767890816.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-sept-personnes-sont-mortes-a-kiev-et-sa-region-dans-des-bombardements-russes_8154434.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-sept-personnes-sont-mortes-a-kiev-et-sa-region-dans-des-bombardements-russes_8154434.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

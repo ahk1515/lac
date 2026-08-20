@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T08:36:20.793791+00:00",
+  "_id": "1ee1a7c100d0",
+  "brut": {
+    "title": "Chine : un robot humanoïde enregistré à 12,6 mètres par seconde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chine : un robot humanoïde enregistré à 12,6 mètres par seconde"
+    },
+    "summary": "Le robot humanoïde peut-il courir plus vite que l'homme ? Avec une pointe à 12,6 m/s, le modèle \"Superman\" d'Unitree prouve que la Chine a pris une avance décisive dans le secteur robotique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le robot humanoïde peut-il courir plus vite que l'homme ? Avec une pointe à 12,6 m/s, le modèle \"Superman\" d'Unitree prouve que la Chine a pris une avance décisive dans le secteur robotique."
+    },
+    "published": "Thu, 20 Aug 2026 08:53:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      6,
+      53,
+      26,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/chine-un-robot-humanoide-enregistre-a-12-6-metres-par-seconde_8154542.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/55PtsYFzgRbMh5nD8x_11FUqRuE/56x0:1328x715/432x243/filters:format(jpg):quality(50)/2026/08/20/6a869b73bc636558329247.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/chine-un-robot-humanoide-enregistre-a-12-6-metres-par-seconde_8154542.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/chine-un-robot-humanoide-enregistre-a-12-6-metres-par-seconde_8154542.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

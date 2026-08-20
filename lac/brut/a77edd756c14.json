@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-20T08:36:20.794074+00:00",
+  "_id": "a77edd756c14",
+  "brut": {
+    "title": "Le prince Harry et son épouse, Meghan, vont revenir vivre au Royaume-Uni",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le prince Harry et son épouse, Meghan, vont revenir vivre au Royaume-Uni"
+    },
+    "summary": "Près de deux ans après leur mariage, Harry et Meghan avaient fait la une des médias du monde entier en janvier 2020, quand ils avaient quitté le Royaume-Uni, annonçant renoncer à l'essentiel de leurs obligations royales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de deux ans après leur mariage, Harry et Meghan avaient fait la une des médias du monde entier en janvier 2020, quand ils avaient quitté le Royaume-Uni, annonçant renoncer à l'essentiel de leurs obligations royales."
+    },
+    "published": "Thu, 20 Aug 2026 07:46:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      5,
+      46,
+      36,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/le-prince-harry-et-son-epouse-meghan-vont-revenir-vivre-au-royaume-uni_8154500.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/BDEHjrwUgVZePirvKdT-XxMPz7s/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/20/6a869004a121a296219684.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/le-prince-harry-et-son-epouse-meghan-vont-revenir-vivre-au-royaume-uni_8154500.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/le-prince-harry-et-son-epouse-meghan-vont-revenir-vivre-au-royaume-uni_8154500.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
