@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T01:08:45.090530+00:00",
+  "_id": "6a2fae158828",
+  "brut": {
+    "title": "La dette publique américaine dépasse pour la première fois les 40 000 milliards de dollars",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La dette publique américaine dépasse pour la première fois les 40 000 milliards de dollars"
+    },
+    "published": "Thu, 20 Aug 2026 00:01:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      22,
+      1,
+      24,
+      2,
+      231,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 01:18:19 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      19,
+      23,
+      18,
+      19,
+      2,
+      231,
+      0
+    ],
+    "summary": "La progression de l’endettement s’avère plus rapide qu’anticipé par le bureau du Congrès pour le budget, sur fond de déficits persistants et de hausse des taux d’intérêt.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La progression de l’endettement s’avère plus rapide qu’anticipé par le bureau du Congrès pour le budget, sur fond de déficits persistants et de hausse des taux d’intérêt."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/la-dette-publique-americaine-depasse-pour-la-premiere-fois-les-40-000-milliards-de-dollars_6750104_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/482/0/5544/2772/644/322/60/0/95788fd_ftp-1-osf4f0bo3mxq-5874560-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La progression de la dette publique américaine, affichée à Washington, le 19 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MANDEL NGAN/AFP"
+      }
+    ],
+    "credit": "MANDEL NGAN/AFP"
+  }
+}

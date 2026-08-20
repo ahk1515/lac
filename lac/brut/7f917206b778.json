@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T01:08:45.090330+00:00",
+  "_id": "7f917206b778",
+  "brut": {
+    "title": "Le chef du renseignement équatorien, proche du président Noboa, meurt dans un accident d’hélicoptère au Kenya",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef du renseignement équatorien, proche du président Noboa, meurt dans un accident d’hélicoptère au Kenya"
+    },
+    "published": "Thu, 20 Aug 2026 01:14:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      19,
+      23,
+      14,
+      55,
+      2,
+      231,
+      0
+    ],
+    "updated": "Thu, 20 Aug 2026 02:29:34 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      20,
+      0,
+      29,
+      34,
+      3,
+      232,
+      0
+    ],
+    "summary": "Michele Sensi-Contugi, 44 ans, ainsi que cinq ressortissants américains, dont son épouse, fait partie des sept victimes de ce crash survenu lors d’une excursion touristique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Michele Sensi-Contugi, 44 ans, ainsi que cinq ressortissants américains, dont son épouse, fait partie des sept victimes de ce crash survenu lors d’une excursion touristique."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/20/le-chef-du-renseignement-equatorien-proche-du-president-noboa-meurt-dans-un-accident-d-helicoptere-au-kenya_6750170_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/20/le-chef-du-renseignement-equatorien-proche-du-president-noboa-meurt-dans-un-accident-d-helicoptere-au-kenya_6750170_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/20/le-chef-du-renseignement-equatorien-proche-du-president-noboa-meurt-dans-un-accident-d-helicoptere-au-kenya_6750170_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/462/0/2287/1143/644/322/60/0/0e5b4d3_ftp-1-3wfvfkvfvoh8-5874878-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Michele Sensi-Contugi, à Quito, le 18 juin 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RODRIGO BUENDIA/AFP"
+      }
+    ],
+    "credit": "RODRIGO BUENDIA/AFP"
+  }
+}

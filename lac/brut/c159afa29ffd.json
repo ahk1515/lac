@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-20T01:08:45.090111+00:00",
+  "_id": "c159afa29ffd",
+  "brut": {
+    "title": "Le prince Harry et Meghan vont revenir vivre au Royaume-Uni, selon la presse britannique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le prince Harry et Meghan vont revenir vivre au Royaume-Uni, selon la presse britannique"
+    },
+    "published": "Thu, 20 Aug 2026 02:30:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      0,
+      30,
+      10,
+      3,
+      232,
+      0
+    ],
+    "summary": "Six ans après leur rupture hautement médiatisée avec la famille royale, le couple « prévoit de quitter les Etats-Unis d’ici la fin du mois pour s’installer dans une résidence privée, non royale, qui se trouverait en dehors de Londres », a écrit le « Telegraph », mercredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Six ans après leur rupture hautement médiatisée avec la famille royale, le couple « prévoit de quitter les Etats-Unis d’ici la fin du mois pour s’installer dans une résidence privée, non royale, qui se trouverait en dehors de Londres », a écrit le « Telegraph », mercredi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/20/le-prince-harry-et-meghan-vont-revenir-vivre-au-royaume-uni-selon-la-presse-britannique_6750270_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/20/le-prince-harry-et-meghan-vont-revenir-vivre-au-royaume-uni-selon-la-presse-britannique_6750270_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/20/le-prince-harry-et-meghan-vont-revenir-vivre-au-royaume-uni-selon-la-presse-britannique_6750270_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/32/0/3000/1500/644/322/60/0/d1e9771_ftp-1-8ovrt3e4soe6-1303e0ba9d5a424aa81b176ed8364e4c-0-2138dbb3557b4b9f9b8e87a3ffe53315.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le prince Harry et Meghan, à Bondi Beach (Australie), le 17 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jonathan Brady/AP"
+      }
+    ],
+    "credit": "Jonathan Brady/AP"
+  }
+}
