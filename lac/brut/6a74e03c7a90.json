@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T16:32:06.658873+00:00",
+  "_id": "6a74e03c7a90",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : l’Elysée annonce une réunion de la coalition des volontaires, lundi, avec Volodymyr Zelensky",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : l’Elysée annonce une réunion de la coalition des volontaires, lundi, avec Volodymyr Zelensky"
+    },
+    "published": "Fri, 21 Aug 2026 15:51:50 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      13,
+      51,
+      50,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 16:48:01 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      14,
+      48,
+      1,
+      4,
+      233,
+      0
+    ],
+    "summary": "Cette réunion sera coprésidée par le président français, Emmanuel Macron, le chancelier allemand, Friedrich Merz, et, pour la première fois, par le nouveau premier ministre britannique, Andy Burnham, a précisé le palais présidentiel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette réunion sera coprésidée par le président français, Emmanuel Macron, le chancelier allemand, Friedrich Merz, et, pour la première fois, par le nouveau premier ministre britannique, Andy Burnham, a précisé le palais présidentiel."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-l-elysee-annonce-une-reunion-de-la-coalition-des-volontaires-lundi-avec-volodymyr-zelensky_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-l-elysee-annonce-une-reunion-de-la-coalition-des-volontaires-lundi-avec-volodymyr-zelensky_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-l-elysee-annonce-une-reunion-de-la-coalition-des-volontaires-lundi-avec-volodymyr-zelensky_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/0/0/6000/3000/644/322/60/0/ea36d8f_upload-1-ksvpxnozwimy-000-c2646qu.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron et Volodymyr Zelensky, à Paris, le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BENOIT TESSIER/AFP"
+      }
+    ],
+    "credit": "BENOIT TESSIER/AFP"
+  }
+}

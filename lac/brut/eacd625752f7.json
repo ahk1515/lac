@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T16:32:06.657904+00:00",
+  "_id": "eacd625752f7",
+  "brut": {
+    "title": "En Ukraine, « les gens sont assommés par la répétition des alertes aériennes »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, « les gens sont assommés par la répétition des alertes aériennes »"
+    },
+    "published": "Fri, 21 Aug 2026 18:00:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      16,
+      0,
+      13,
+      4,
+      233,
+      0
+    ],
+    "summary": "Face à la recrudescence des frappes russes, de plus en plus meurtrières, les grandes villes ukrainiennes s’efforcent de moderniser leurs systèmes d’alerte. Mais, lassés par les incessantes sirènes et le flot de messages anxiogènes, une partie croissante des civils n’y réagit plus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Face à la recrudescence des frappes russes, de plus en plus meurtrières, les grandes villes ukrainiennes s’efforcent de moderniser leurs systèmes d’alerte. Mais, lassés par les incessantes sirènes et le flot de messages anxiogènes, une partie croissante des civils n’y réagit plus."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/en-ukraine-les-gens-sont-assommes-par-la-repetition-des-alertes-aeriennes_6752273_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/en-ukraine-les-gens-sont-assommes-par-la-repetition-des-alertes-aeriennes_6752273_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/en-ukraine-les-gens-sont-assommes-par-la-repetition-des-alertes-aeriennes_6752273_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/335/0/4000/2000/644/322/60/0/3642dd6_upload-1-iwh18vztzt1n-reportage-prevention-alertes-ae-riennes-23.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers devant un immeuble touché par un bombardement survenu durant la nuit, et qui a fait 12 morts, à  Kiev, le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+      }
+    ],
+    "credit": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+  }
+}

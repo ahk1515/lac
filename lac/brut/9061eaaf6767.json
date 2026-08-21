@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T16:32:07.236471+00:00",
+  "_id": "9061eaaf6767",
+  "brut": {
+    "title": "Au moins trois personnes blessées dans un lycée en Suède, le suspect armé d'une épée interpellé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins trois personnes blessées dans un lycée en Suède, le suspect armé d'une épée interpellé"
+    },
+    "summary": "L'assaillant, dont les motivations sont à ce stade inconnues, a été touché à la jambe par des tirs de la police.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'assaillant, dont les motivations sont à ce stade inconnues, a été touché à la jambe par des tirs de la police."
+    },
+    "published": "Fri, 21 Aug 2026 17:43:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      15,
+      43,
+      26,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/plusieurs-personnes-blessees-dans-un-lycee-en-suede-le-suspect-arme-d-une-epee-interpelle_8156432.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9KB8PKjXWmf7gyQDL7FlQ2MJfKA/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8863277906c896797004.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/plusieurs-personnes-blessees-dans-un-lycee-en-suede-le-suspect-arme-d-une-epee-interpelle_8156432.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/plusieurs-personnes-blessees-dans-un-lycee-en-suede-le-suspect-arme-d-une-epee-interpelle_8156432.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

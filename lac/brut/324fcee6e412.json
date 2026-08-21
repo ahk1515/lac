@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T16:32:06.658265+00:00",
+  "_id": "324fcee6e412",
+  "brut": {
+    "title": "Les ventes décevantes de Boualem Sansal malgré un battage médiatique hors norme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les ventes décevantes de Boualem Sansal malgré un battage médiatique hors norme"
+    },
+    "published": "Fri, 21 Aug 2026 17:00:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      15,
+      0,
+      19,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 17:07:55 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      15,
+      7,
+      55,
+      4,
+      233,
+      0
+    ],
+    "summary": "Paru le 2 juin, « La Légende », publiée chez Grasset, a été vendue à 48 000 exemplaires. Hachette Livre avait accordé un à-valoir exceptionnel de 1 million d’euros à l’auteur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Paru le 2 juin, « La Légende », publiée chez Grasset, a été vendue à 48 000 exemplaires. Hachette Livre avait accordé un à-valoir exceptionnel de 1 million d’euros à l’auteur."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/21/les-ventes-decevantes-de-boualem-sansal-malgre-un-battage-mediatique-hors-norme_6752265_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/21/les-ventes-decevantes-de-boualem-sansal-malgre-un-battage-mediatique-hors-norme_6752265_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/21/les-ventes-decevantes-de-boualem-sansal-malgre-un-battage-mediatique-hors-norme_6752265_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/02/651/0/7813/3906/644/322/60/0/d6fe002_ftp-1-s9uxfdupyszz-5202074-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le livre « La Légende », de l’écrivain franco-algérien Boualem Sansal, à Paris, le 1ᵉʳ juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "XAVIER GALIANA/AFP"
+      }
+    ],
+    "credit": "XAVIER GALIANA/AFP"
+  }
+}

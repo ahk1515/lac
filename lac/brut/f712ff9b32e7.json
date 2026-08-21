@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T16:32:07.236676+00:00",
+  "_id": "f712ff9b32e7",
+  "brut": {
+    "title": "L'Ukraine sanctionne la populaire \"Masha et Michka\", série d'animation russe pour enfants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Ukraine sanctionne la populaire \"Masha et Michka\", série d'animation russe pour enfants"
+    },
+    "summary": "Kiev dénonce le \"soft power\" culturel du dessin animé profitant de sa diffusion comme d'un outil de propagande pro-russe dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Kiev dénonce le \"soft power\" culturel du dessin animé profitant de sa diffusion comme d'un outil de propagande pro-russe dans le pays."
+    },
+    "published": "Fri, 21 Aug 2026 15:17:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      13,
+      17,
+      8,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/tv/l-ukraine-sanctionne-la-populaire-masha-et-michka-serie-d-animation-russe-pour-enfants_8156228.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/tO1bby_Zb5uWURfT6IvvLui_dSQ/0x87:1214x769/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88424bb7ac8713456782.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/tv/l-ukraine-sanctionne-la-populaire-masha-et-michka-serie-d-animation-russe-pour-enfants_8156228.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/tv/l-ukraine-sanctionne-la-populaire-masha-et-michka-serie-d-animation-russe-pour-enfants_8156228.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

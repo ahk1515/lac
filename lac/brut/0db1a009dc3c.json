@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T16:32:07.236157+00:00",
+  "_id": "0db1a009dc3c",
+  "brut": {
+    "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins six morts et 91 blessés dans le centre du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, une frappe russe sur un centre commercial fait au moins six morts et 91 blessés dans le centre du pays"
+    },
+    "summary": "Le président ukrainien, Volodymyr Zelensky, a dénoncé une attaque \"absolument cynique et ignoble\", qui a fait au moins 21 blessés graves.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président ukrainien, Volodymyr Zelensky, a dénoncé une attaque \"absolument cynique et ignoble\", qui a fait au moins 21 blessés graves."
+    },
+    "published": "Fri, 21 Aug 2026 17:59:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      15,
+      59,
+      2,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/eWoZ31vLHBPEBw0VYm9WsQYjcfI/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88757324059782706357.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

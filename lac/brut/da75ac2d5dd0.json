@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T16:32:06.658696+00:00",
+  "_id": "da75ac2d5dd0",
+  "brut": {
+    "title": "En Suède, une attaque à l’épée dans un lycée fait au moins trois blessés, l’auteur présumé interpellé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Suède, une attaque à l’épée dans un lycée fait au moins trois blessés, l’auteur présumé interpellé"
+    },
+    "published": "Fri, 21 Aug 2026 16:09:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      14,
+      9,
+      10,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 18:30:23 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      16,
+      30,
+      23,
+      4,
+      233,
+      0
+    ],
+    "summary": "Plusieurs écoles de Fagersta ont été confinées après l’attaque, tandis que l’assaillant présumé a été blessé par la police lors de son interpellation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs écoles de Fagersta ont été confinées après l’attaque, tandis que l’assaillant présumé a été blessé par la police lors de son interpellation."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/en-suede-une-attaque-a-l-epee-dans-un-lycee-fait-plusieurs-blesses-l-auteur-presume-interpelle_6752220_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/en-suede-une-attaque-a-l-epee-dans-un-lycee-fait-plusieurs-blesses-l-auteur-presume-interpelle_6752220_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/en-suede-une-attaque-a-l-epee-dans-un-lycee-fait-plusieurs-blesses-l-auteur-presume-interpelle_6752220_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/688/0/8256/4128/644/322/60/0/4e7200c_ftp-1-qxyvkk9kx5cd-5888746-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant l’école ciblé par une attaque à l’épée, à Fagersta (Suède), le 21 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FREDRIK SANDBERG/TT NEWS AGENCY/AFP"
+      }
+    ],
+    "credit": "FREDRIK SANDBERG/TT NEWS AGENCY/AFP"
+  }
+}

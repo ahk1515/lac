@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T16:32:06.658051+00:00",
+  "_id": "33f7d5b7f89e",
+  "brut": {
+    "title": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates"
+    },
+    "published": "Fri, 21 Aug 2026 17:31:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      15,
+      31,
+      0,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 17:48:03 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      15,
+      48,
+      3,
+      4,
+      233,
+      0
+    ],
+    "summary": "Le « Lutuf » faisait route vers Mogadiscio lorsqu’il a été capturé, lundi 17 août. La Turquie, premier partenaire sécuritaire de la Somalie, conduit des frappes contre les pirates pour tenter de récupérer la cargaison.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le « Lutuf » faisait route vers Mogadiscio lorsqu’il a été capturé, lundi 17 août. La Turquie, premier partenaire sécuritaire de la Somalie, conduit des frappes contre les pirates pour tenter de récupérer la cargaison."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/21/au-large-de-la-somalie-un-cargo-turc-rempli-d-armes-arraisonne-par-des-pirates_6752270_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/21/au-large-de-la-somalie-un-cargo-turc-rempli-d-armes-arraisonne-par-des-pirates_6752270_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/21/au-large-de-la-somalie-un-cargo-turc-rempli-d-armes-arraisonne-par-des-pirates_6752270_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/71/0/981/490/644/322/60/0/a01f4b1_upload-1-ya0amijqir2i-te-le-chargement-1.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le « Lutuf », sur une photo prise en 2023 et postée en 2026 sur le site MarineTraffic."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CENGIZ TOKGOZ/MARINE TRAFFIC"
+      }
+    ],
+    "credit": "CENGIZ TOKGOZ/MARINE TRAFFIC"
+  }
+}

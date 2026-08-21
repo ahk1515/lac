@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T16:32:06.659060+00:00",
+  "_id": "cece9256f2a9",
+  "brut": {
+    "title": "Droits de douane : Donald Trump annonce une suspension temporaire des taxes sur certaines importations de bœuf",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Droits de douane : Donald Trump annonce une suspension temporaire des taxes sur certaines importations de bœuf"
+    },
+    "published": "Fri, 21 Aug 2026 15:01:35 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      13,
+      1,
+      35,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 16:23:29 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      14,
+      23,
+      29,
+      4,
+      233,
+      0
+    ],
+    "summary": "Le coût de la viande bovine a explosé aux Etats-Unis, où le prix d’un steak a augmenté de 15 % sur la dernière année. Jusqu’à 300 000 tonnes de produits destinés au bœuf haché doivent être importés sans droits de douanes dans le pays, sur les 90 prochains jours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le coût de la viande bovine a explosé aux Etats-Unis, où le prix d’un steak a augmenté de 15 % sur la dernière année. Jusqu’à 300 000 tonnes de produits destinés au bœuf haché doivent être importés sans droits de douanes dans le pays, sur les 90 prochains jours."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/droits-de-douane-donald-trump-annonce-une-suspension-temporaire-des-taxes-sur-certaines-importations-de-b-uf_6752149_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/droits-de-douane-donald-trump-annonce-une-suspension-temporaire-des-taxes-sur-certaines-importations-de-b-uf_6752149_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/droits-de-douane-donald-trump-annonce-une-suspension-temporaire-des-taxes-sur-certaines-importations-de-b-uf_6752149_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/31/0/5249/2624/644/322/60/0/0a0b1d2_ftp-1-qi1xyinbun87-b6ebb86f58314f2ebc7c735da471dfa6-0-9244748f4fd74c6190717e8c1e1cc1d8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur un marché aux bestiaux à Hermosillo (Mexique), le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fernando Llano/AP Photo"
+      }
+    ],
+    "credit": "Fernando Llano/AP Photo"
+  }
+}
