@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T20:23:46.187898+00:00",
+  "_id": "1bfb72a9174c",
+  "brut": {
+    "title": "Salle de bal de la Maison Blanche : la Cour suprême américaine autorise temporairement la reprise des travaux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Salle de bal de la Maison Blanche : la Cour suprême américaine autorise temporairement la reprise des travaux"
+    },
+    "published": "Fri, 21 Aug 2026 21:01:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      19,
+      1,
+      13,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 22:19:20 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      20,
+      19,
+      20,
+      4,
+      233,
+      0
+    ],
+    "summary": "La haute cour, saisie la semaine dernière par l’administration Trump, a bloqué de manière temporaire un jugement prononcé le 7 août par une cour d’appel fédérale, qui ordonnait la suspension du chantier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La haute cour, saisie la semaine dernière par l’administration Trump, a bloqué de manière temporaire un jugement prononcé le 7 août par une cour d’appel fédérale, qui ordonnait la suspension du chantier."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/salle-de-bal-de-la-maison-blanche-la-cour-supreme-americaine-autorise-temporairement-la-reprise-des-travaux_6752286_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/salle-de-bal-de-la-maison-blanche-la-cour-supreme-americaine-autorise-temporairement-la-reprise-des-travaux_6752286_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/salle-de-bal-de-la-maison-blanche-la-cour-supreme-americaine-autorise-temporairement-la-reprise-des-travaux_6752286_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/212/0/5729/2864/644/322/60/0/47b378c_ftp-1-56ixksgl4wy2-2026-08-20t164937z-811315212-rc2g2nadi6w9-rtrmadp-3-usa-trump-helipad.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les travaux de construction de la salle de bal, à côté de la Maison Blanche, à Washington, DC, le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evan Vucci/REUTERS"
+      }
+    ],
+    "credit": "Evan Vucci/REUTERS"
+  }
+}

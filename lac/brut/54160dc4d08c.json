@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T20:23:46.459191+00:00",
+  "_id": "54160dc4d08c",
+  "brut": {
+    "title": "Deux Palestiniens âgés de 58 et 17 ans tués en Cisjordanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux Palestiniens âgés de 58 et 17 ans tués en Cisjordanie"
+    },
+    "summary": "L'un a été tué à Jénine, dans le nord, par des tirs de l'armée israélienne, et l'autre dans le sud du territoire par un colon.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'un a été tué à Jénine, dans le nord, par des tirs de l'armée israélienne, et l'autre dans le sud du territoire par un colon."
+    },
+    "published": "Fri, 21 Aug 2026 22:08:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      20,
+      8,
+      5,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/deux-palestiniens-ages-de-58-et-17-ans-tues-en-cisjordanie_8156765.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gid0OZMz2-w2xx4RKc3pLwg3LVA/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88af92494cb109836090.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/deux-palestiniens-ages-de-58-et-17-ans-tues-en-cisjordanie_8156765.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/deux-palestiniens-ages-de-58-et-17-ans-tues-en-cisjordanie_8156765.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
