@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T04:36:14.665653+00:00",
+  "_id": "086e69605b8e",
+  "brut": {
+    "title": "Trafic réduit dans le canal de Panama en raison d’une baisse des précipitations causée par El Niño",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trafic réduit dans le canal de Panama en raison d’une baisse des précipitations causée par El Niño"
+    },
+    "published": "Fri, 21 Aug 2026 04:48:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      2,
+      48,
+      12,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 04:58:42 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      2,
+      58,
+      42,
+      4,
+      233,
+      0
+    ],
+    "summary": "La voie maritime dépend des réserves d’eau douce stockées dans les lacs artificiels de Gatun et d’Alajuela pour alimenter ses écluses. Le déficit de précipitations enregistré depuis plusieurs mois entraîne une baisse de leur niveau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La voie maritime dépend des réserves d’eau douce stockées dans les lacs artificiels de Gatun et d’Alajuela pour alimenter ses écluses. Le déficit de précipitations enregistré depuis plusieurs mois entraîne une baisse de leur niveau."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/trafic-reduit-dans-le-canal-de-panama-en-raison-d-une-baisse-des-precipitations-causee-par-el-nino_6751461_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/trafic-reduit-dans-le-canal-de-panama-en-raison-d-une-baisse-des-precipitations-causee-par-el-nino_6751461_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/trafic-reduit-dans-le-canal-de-panama-en-raison-d-une-baisse-des-precipitations-causee-par-el-nino_6751461_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/522/0/5500/2750/644/322/60/0/0d1ab02_ftp-1-3jyrwef0ytjr-2026-08-20t221210z-1036966271-rc2n3kazmoq7-rtrmadp-3-panama-canal.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un cargo battant pavillon libérien dans le canal de Panama, le 13 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Enea Lebrun/REUTERS"
+      }
+    ],
+    "credit": "Enea Lebrun/REUTERS"
+  }
+}

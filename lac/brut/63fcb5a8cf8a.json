@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T04:36:14.665483+00:00",
+  "_id": "63fcb5a8cf8a",
+  "brut": {
+    "title": "Entre l’Iran et les Emirats arabes unis, la fragile désescalade vole en éclats",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Entre l’Iran et les Emirats arabes unis, la fragile désescalade vole en éclats"
+    },
+    "published": "Fri, 21 Aug 2026 05:00:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      3,
+      0,
+      7,
+      4,
+      233,
+      0
+    ],
+    "summary": "Les Emirats ont suspendu leurs échanges commerciaux et financiers avec l’Iran, après l’avoir accusé d’avoir tiré deux missiles vers leur territoire. Cette crispation intervient sur fond de tensions autour du détroit d’Ormuz et de pression croissante des Etats-Unis sur la République islamique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Emirats ont suspendu leurs échanges commerciaux et financiers avec l’Iran, après l’avoir accusé d’avoir tiré deux missiles vers leur territoire. Cette crispation intervient sur fond de tensions autour du détroit d’Ormuz et de pression croissante des Etats-Unis sur la République islamique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/entre-l-iran-et-les-emirats-arabes-unis-la-fragile-desescalade-vole-en-eclats_6751494_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/entre-l-iran-et-les-emirats-arabes-unis-la-fragile-desescalade-vole-en-eclats_6751494_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/entre-l-iran-et-les-emirats-arabes-unis-la-fragile-desescalade-vole-en-eclats_6751494_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/226/0/2713/1356/644/322/60/0/811f71e_upload-1-7qezkckixsut-000-c3q74np.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au large de Dubaï (Emirats arabes unis), le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T04:36:14.665112+00:00",
+  "_id": "586afdb65707",
+  "brut": {
+    "title": "Au Liban sud, une « course entre la préservation de la mémoire et les destructions » menées par Israël",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Liban sud, une « course entre la préservation de la mémoire et les destructions » menées par Israël"
+    },
+    "published": "Fri, 21 Aug 2026 05:30:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      3,
+      30,
+      5,
+      4,
+      233,
+      0
+    ],
+    "summary": "Des Libanais, à titre personnel ou au sein d’associations, cherchent à collecter images et témoignages afin de conserver la mémoire de la région, en partie occupée par les Israéliens, et d’en faire connaître la richesse historique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des Libanais, à titre personnel ou au sein d’associations, cherchent à collecter images et témoignages afin de conserver la mémoire de la région, en partie occupée par les Israéliens, et d’en faire connaître la richesse historique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/au-liban-sud-une-course-entre-la-preservation-de-la-memoire-et-les-destructions-menees-par-israel_6751530_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/au-liban-sud-une-course-entre-la-preservation-de-la-memoire-et-les-destructions-menees-par-israel_6751530_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/au-liban-sud-une-course-entre-la-preservation-de-la-memoire-et-les-destructions-menees-par-israel_6751530_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/986/0/5906/2953/644/322/60/0/2ebfe2a_upload-1-h7pvl4kttm4k-lbn-lemonde-diegoibarrasanchez-001.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après le retrait de forces israéliennes à Zaoutar El-Gharbiyé (Liban), le 28 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Diego Ibarra Sánchez pour « Le Monde »"
+      }
+    ],
+    "credit": "Diego Ibarra Sánchez pour « Le Monde »"
+  }
+}
