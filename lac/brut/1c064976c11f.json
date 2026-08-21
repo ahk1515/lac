@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T08:38:39.307592+00:00",
+  "_id": "1c064976c11f",
+  "brut": {
+    "title": "Gabriel Attal visé par deux séries de fausses informations en ligne, soupçonnées d'être liées à l'ingérence russe dans la campagne présidentielle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Gabriel Attal visé par deux séries de fausses informations en ligne, soupçonnées d'être liées à l'ingérence russe dans la campagne présidentielle"
+    },
+    "summary": "Elles portent à quatre, depuis le début du mois d'août, le nombre de campagnes visant le candidat Renaissance à la présidentielle, qui avait déjà déposé plainte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Elles portent à quatre, depuis le début du mois d'août, le nombre de campagnes visant le candidat Renaissance à la présidentielle, qui avait déjà déposé plainte."
+    },
+    "published": "Fri, 21 Aug 2026 08:09:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      6,
+      9,
+      31,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-candidat-a-la-presidentielle-vise-par-deux-nouvelles-ingerences-attribuees-a-la-russie_8155841.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Gn2eOVJvbw2Q5kiBmYZMIz-Oe_0/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/08/21/6a87eb8bbfafb579146484.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-candidat-a-la-presidentielle-vise-par-deux-nouvelles-ingerences-attribuees-a-la-russie_8155841.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-candidat-a-la-presidentielle-vise-par-deux-nouvelles-ingerences-attribuees-a-la-russie_8155841.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

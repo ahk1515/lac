@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T08:38:39.307727+00:00",
+  "_id": "78e722110ed7",
+  "brut": {
+    "title": "La Corée du Nord répond par des missiles à l'invitation de Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Corée du Nord répond par des missiles à l'invitation de Donald Trump"
+    },
+    "summary": "Le régime de Pyongyang a lancé ces dernières heures une dizaine de missiles balistiques. Un coup de force alors que Donald Trump déclarait il y a quelques jours encore vouloir rencontrer Kim Jong-Un avant la fin de l'année.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le régime de Pyongyang a lancé ces dernières heures une dizaine de missiles balistiques. Un coup de force alors que Donald Trump déclarait il y a quelques jours encore vouloir rencontrer Kim Jong-Un avant la fin de l'année."
+    },
+    "published": "Fri, 21 Aug 2026 09:34:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      7,
+      34,
+      41,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-repond-par-des-missiles-a-l-invitation-de-donald-trump_8155835.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wTyJzDDakYGDBnqZkeHORdou6FU/12x0:1524x850/432x243/filters:format(jpg):quality(50)/2026/08/21/6a87e6d1c7fe0356680322.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-repond-par-des-missiles-a-l-invitation-de-donald-trump_8155835.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-repond-par-des-missiles-a-l-invitation-de-donald-trump_8155835.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

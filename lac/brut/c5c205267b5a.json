@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T08:38:39.140125+00:00",
+  "_id": "c5c205267b5a",
+  "brut": {
+    "title": "Le Japon proteste contre des essais de missiles russes près des îles Kouriles, disputées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Japon proteste contre des essais de missiles russes près des îles Kouriles, disputées"
+    },
+    "published": "Fri, 21 Aug 2026 10:03:35 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      8,
+      3,
+      35,
+      4,
+      233,
+      0
+    ],
+    "summary": "Le président russe s’est rendu pour la première fois, la semaine dernière, sur quatre de ces îles, dont s’est emparée l’armée soviétique en 1945, provoquant la colère du Japon.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président russe s’est rendu pour la première fois, la semaine dernière, sur quatre de ces îles, dont s’est emparée l’armée soviétique en 1945, provoquant la colère du Japon."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/21/le-japon-proteste-contre-des-essais-de-missiles-russes-pres-des-iles-kouriles-disputees_6751777_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/le-japon-proteste-contre-des-essais-de-missiles-russes-pres-des-iles-kouriles-disputees_6751777_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/21/le-japon-proteste-contre-des-essais-de-missiles-russes-pres-des-iles-kouriles-disputees_6751777_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/604/0/5869/2934/644/322/60/0/5d62702_ftp-1-qc4prgt9f9rj-2026-08-13t083839z-1050010375-rc2kxma0eaxm-rtrmadp-3-russia-japan-kuril.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président russe, Vladimir Poutine, accompagné du gouverneur de la région de Sakhaline, Valeri Limarenko, et de la ministre régionale de l’éducation, Anastasia Kikteva, lors d’un déplacement sur l’île d’Itouroup (îles Kouriles du Sud), le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gavriil Grigorov via REUTERS"
+      }
+    ],
+    "credit": "Gavriil Grigorov via REUTERS"
+  }
+}

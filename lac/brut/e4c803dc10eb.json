@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T08:38:39.307858+00:00",
+  "_id": "e4c803dc10eb",
+  "brut": {
+    "title": "En Syrie, l'administration kurde est désormais intégrée dans celle de l'Etat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Syrie, l'administration kurde est désormais intégrée dans celle de l'Etat"
+    },
+    "summary": "Cette annonce fait suite à des mois de négociations consécutives à un accord conclu, en janvier, entre les Kurdes et les autorités islamistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette annonce fait suite à des mois de négociations consécutives à un accord conclu, en janvier, entre les Kurdes et les autorités islamistes."
+    },
+    "published": "Fri, 21 Aug 2026 07:39:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      5,
+      39,
+      18,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/revolte-en-syrie/en-syrie-l-administration-kurde-est-desormais-integree-dans-celle-de-l-etat_8155802.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qGAa65qvKNIdZz3arTO3FvipVVA/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/08/21/6a87df49b19d9571064622.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/en-syrie-l-administration-kurde-est-desormais-integree-dans-celle-de-l-etat_8155802.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/revolte-en-syrie/en-syrie-l-administration-kurde-est-desormais-integree-dans-celle-de-l-etat_8155802.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

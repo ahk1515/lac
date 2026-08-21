@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T08:38:39.140954+00:00",
+  "_id": "c879b8a6d0c7",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Fri, 21 Aug 2026 06:46:53 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      4,
+      46,
+      53,
+      4,
+      233,
+      0
+    ],
+    "updated": "Fri, 21 Aug 2026 09:01:31 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      21,
+      7,
+      1,
+      31,
+      4,
+      233,
+      0
+    ],
+    "summary": "Deux femmes ont été tuées au cours de la nuit de jeudi à vendredi, dans le village de Lebiaje, dans le district ukrainien de Tchouhouïv, lors d’une attaque de drones, a annoncé le chef de l’administration militaire de l’oblast de Kharkiv.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux femmes ont été tuées au cours de la nuit de jeudi à vendredi, dans le village de Lebiaje, dans le district ukrainien de Tchouhouïv, lors d’une attaque de drones, a annoncé le chef de l’administration militaire de l’oblast de Kharkiv."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/249/0/3315/1657/644/322/60/0/02e2e59_ftp-1-ya417qsqc1ng-2026-08-20t192412z-582618167-rc2h2napmemk-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une attaque de drone russe, à Kiev, le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Oleksandr Ratushniak/REUTERS"
+      }
+    ],
+    "credit": "Oleksandr Ratushniak/REUTERS"
+  }
+}
