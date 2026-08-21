@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T12:42:54.413285+00:00",
+  "_id": "77be89494435",
+  "brut": {
+    "title": "En Corée du Sud, de plus en plus de familles recourent à l'IA pour créer l'avatar d'un défunt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Corée du Sud, de plus en plus de familles recourent à l'IA pour créer l'avatar d'un défunt"
+    },
+    "summary": "Avec des extraits audio, quelques images et un texte, des entreprises proposent de créer l'avatar d'une personne décédée. Funérailles, mariage, remise de diplôme... Le recours à ces \"restitutions numériques\" est de plus en plus courant en Corée du Sud.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avec des extraits audio, quelques images et un texte, des entreprises proposent de créer l'avatar d'une personne décédée. Funérailles, mariage, remise de diplôme... Le recours à ces \"restitutions numériques\" est de plus en plus courant en Corée du Sud."
+    },
+    "published": "Fri, 21 Aug 2026 11:10:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      9,
+      10,
+      13,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-de-plus-en-plus-de-familles-recourent-a-l-ia-pour-creer-l-avatar-d-un-defunt_8129033.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DxQh2uaCd7ZHZ4f5H-Kn4ZwfqqM/0x0:2308x1298/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86bfe57e514260317254.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-de-plus-en-plus-de-familles-recourent-a-l-ia-pour-creer-l-avatar-d-un-defunt_8129033.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-de-plus-en-plus-de-familles-recourent-a-l-ia-pour-creer-l-avatar-d-un-defunt_8129033.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

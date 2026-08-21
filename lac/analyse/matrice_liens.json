@@ -2,12 +2,12 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 290
+    "co_citations": 291
   },
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 244
+    "co_citations": 245
   },
   {
     "pays_a": "ISR",
@@ -42,7 +42,7 @@
   {
     "pays_a": "FRA",
     "pays_b": "USA",
-    "co_citations": 31
+    "co_citations": 32
   },
   {
     "pays_a": "FRA",
@@ -70,13 +70,18 @@
     "co_citations": 19
   },
   {
+    "pays_a": "FRA",
+    "pays_b": "GBR",
+    "co_citations": 15
+  },
+  {
     "pays_a": "DEU",
     "pays_b": "RUS",
     "co_citations": 15
   },
   {
     "pays_a": "FRA",
-    "pays_b": "GBR",
+    "pays_b": "ISR",
     "co_citations": 14
   },
   {
@@ -95,8 +100,8 @@
     "co_citations": 12
   },
   {
-    "pays_a": "FRA",
-    "pays_b": "ISR",
+    "pays_a": "DEU",
+    "pays_b": "FRA",
     "co_citations": 12
   },
   {
@@ -105,14 +110,9 @@
     "co_citations": 12
   },
   {
-    "pays_a": "DEU",
-    "pays_b": "FRA",
-    "co_citations": 11
-  },
-  {
     "pays_a": "JPN",
     "pays_b": "USA",
-    "co_citations": 10
+    "co_citations": 11
   },
   {
     "pays_a": "TUR",
@@ -145,13 +145,13 @@
     "co_citations": 8
   },
   {
-    "pays_a": "CAF",
-    "pays_b": "FRA",
-    "co_citations": 7
-  },
-  {
     "pays_a": "GBR",
     "pays_b": "ISR",
+    "co_citations": 8
+  },
+  {
+    "pays_a": "CAF",
+    "pays_b": "FRA",
     "co_citations": 7
   },
   {
@@ -185,6 +185,11 @@
     "co_citations": 5
   },
   {
+    "pays_a": "DEU",
+    "pays_b": "GBR",
+    "co_citations": 5
+  },
+  {
     "pays_a": "IRN",
     "pays_b": "UKR",
     "co_citations": 4
@@ -197,11 +202,6 @@
   {
     "pays_a": "MAR",
     "pays_b": "USA",
-    "co_citations": 4
-  },
-  {
-    "pays_a": "DEU",
-    "pays_b": "GBR",
     "co_citations": 4
   },
   {
@@ -252,6 +252,11 @@
   {
     "pays_a": "IRN",
     "pays_b": "RUS",
+    "co_citations": 3
+  },
+  {
+    "pays_a": "DEU",
+    "pays_b": "ISR",
     "co_citations": 3
   },
   {
@@ -307,11 +312,6 @@
   {
     "pays_a": "DEU",
     "pays_b": "LBN",
-    "co_citations": 2
-  },
-  {
-    "pays_a": "DEU",
-    "pays_b": "ISR",
     "co_citations": 2
   },
   {

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T12:42:54.412775+00:00",
+  "_id": "c04380db10f8",
+  "brut": {
+    "title": "Amnesty International dénonce neuf exécutions sommaires du Hamas à Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Amnesty International dénonce neuf exécutions sommaires du Hamas à Gaza"
+    },
+    "summary": "Le rapport de l'ONG, publié vendredi, se concentre sur neuf exécutions, perpétrées en dehors de tout cadre légal. Amnesty International demande au Hamas de mettre fin à ces crimes et aux autorités de rétablir un système judiciaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le rapport de l'ONG, publié vendredi, se concentre sur neuf exécutions, perpétrées en dehors de tout cadre légal. Amnesty International demande au Hamas de mettre fin à ces crimes et aux autorités de rétablir un système judiciaire."
+    },
+    "published": "Fri, 21 Aug 2026 13:49:50 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      11,
+      49,
+      50,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/amnesty-international-denonce-neuf-executions-sommaires-du-hamas-a-gaza_8156204.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uuBCtW1eV7XLGbLmEe7XtQmdCNg/0x267:5134x3155/432x243/filters:format(jpg):quality(50)/2022/08/05/phpEQZFBo.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/amnesty-international-denonce-neuf-executions-sommaires-du-hamas-a-gaza_8156204.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/amnesty-international-denonce-neuf-executions-sommaires-du-hamas-a-gaza_8156204.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

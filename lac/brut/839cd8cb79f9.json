@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T12:42:54.413449+00:00",
+  "_id": "839cd8cb79f9",
+  "brut": {
+    "title": "Un séisme de magnitude 6,7 a frappé le sud du Pérou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un séisme de magnitude 6,7 a frappé le sud du Pérou"
+    },
+    "summary": "Les autorités locales n'ont pas fait état de victimes ni de dégâts matériels dans un premier temps.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités locales n'ont pas fait état de victimes ni de dégâts matériels dans un premier temps."
+    },
+    "published": "Fri, 21 Aug 2026 00:03:52 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      22,
+      3,
+      52,
+      3,
+      232,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-6-7-a-frappe-le-sud-du-perou_8155532.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4aTMAXOSY04TNIbI5doklAhRdxg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/21/6a877951da957915202843.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-6-7-a-frappe-le-sud-du-perou_8155532.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-6-7-a-frappe-le-sud-du-perou_8155532.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

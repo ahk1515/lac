@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-21T12:42:54.413215+00:00",
+  "_id": "93c889285b01",
+  "brut": {
+    "title": "En Suisse, cinq personnes sont portées disparues et 19 blessées dans deux incendies d'immeubles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Suisse, cinq personnes sont portées disparues et 19 blessées dans deux incendies d'immeubles"
+    },
+    "summary": "A Thusis, dans l'est du pays, près de 100 pompiers ont été mobilisés pour éteindre l'incendie qui s'est déclaré dans la nuit de jeudi à vendredi, une opération qui n'est pas terminée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Thusis, dans l'est du pays, près de 100 pompiers ont été mobilisés pour éteindre l'incendie qui s'est déclaré dans la nuit de jeudi à vendredi, une opération qui n'est pas terminée."
+    },
+    "published": "Fri, 21 Aug 2026 11:26:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      9,
+      26,
+      16,
+      4,
+      233,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/en-suisse-cinq-personnes-sont-portees-disparues-et-19-blessees-dans-deux-incendies-d-immeubles_8156045.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JVa5acnNgq9dDBET2uGcF5IYK1s/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/08/21/6a88198fa7365440115186.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/en-suisse-cinq-personnes-sont-portees-disparues-et-19-blessees-dans-deux-incendies-d-immeubles_8156045.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/en-suisse-cinq-personnes-sont-portees-disparues-et-19-blessees-dans-deux-incendies-d-immeubles_8156045.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
