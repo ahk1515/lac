@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-21T01:12:28.366502+00:00",
+  "_id": "240ff2b9098b",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes russes sur Kiev, après celles de la nuit qui ont fait au moins 15 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes russes sur Kiev, après celles de la nuit qui ont fait au moins 15 morts"
+    },
+    "published": "Thu, 20 Aug 2026 22:40:29 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      20,
+      40,
+      29,
+      3,
+      232,
+      0
+    ],
+    "summary": "Une nouvelle attaque russe dans la capitale ukrainienne a fait deux morts et trois blessés jeudi soir, a annoncé le maire de Kiev, Vitali Klitschko. En Crimée annexée, les autorités locales installées par la Russie ont affirmé qu’une attaque ukrainienne a fait deux morts et quatre blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une nouvelle attaque russe dans la capitale ukrainienne a fait deux morts et trois blessés jeudi soir, a annoncé le maire de Kiev, Vitali Klitschko. En Crimée annexée, les autorités locales installées par la Russie ont affirmé qu’une attaque ukrainienne a fait deux morts et quatre blessés."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/106/0/1280/640/644/322/60/0/55bd1eb_upload-1-1gtym17y60j1-38844.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le bâtiment qui aurait été touché par l’attaque de drones russe dans le raïon Holossiïvsky, à Kiev, le 20 août 2026, sur une photo partagée par le service ukrainien des situations d’urgences, sur son canal Telegram."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service Ukrainien des Situations d’Urgences via Télégram"
+      }
+    ],
+    "credit": "Service Ukrainien des Situations d’Urgences via Télégram"
+  }
+}
