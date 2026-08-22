@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T20:20:28.126472+00:00",
+  "_id": "88f183d9c203",
+  "brut": {
+    "title": "\"Il y a eu un mètre et demi d'eau dans la maison\" : d'importantes inondations font au moins 11 blessés en Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Il y a eu un mètre et demi d'eau dans la maison\" : d'importantes inondations font au moins 11 blessés en Espagne"
+    },
+    "summary": "L’Espagne a été touchée par deux intempéries en Catalogne. Il est tombé par endroits plus de 100 litres de pluie par mètre carré dans la nuit du vendredi 21 à samedi 22 août. Au moins 11 personnes ont été blessées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’Espagne a été touchée par deux intempéries en Catalogne. Il est tombé par endroits plus de 100 litres de pluie par mètre carré dans la nuit du vendredi 21 à samedi 22 août. Au moins 11 personnes ont été blessées."
+    },
+    "published": "Sat, 22 Aug 2026 20:48:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      18,
+      48,
+      55,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-eu-un-metre-et-demi-d-eau-dans-la-maison-d-importantes-inondations-font-au-moins-11-blesses-en-espagne_8157689.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TH5yZY6PW9bbrr5vkARA2MP5BP8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89ee5c317ae299949828.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-eu-un-metre-et-demi-d-eau-dans-la-maison-d-importantes-inondations-font-au-moins-11-blesses-en-espagne_8157689.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-eu-un-metre-et-demi-d-eau-dans-la-maison-d-importantes-inondations-font-au-moins-11-blesses-en-espagne_8157689.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

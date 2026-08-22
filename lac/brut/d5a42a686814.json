@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T20:20:28.126624+00:00",
+  "_id": "d5a42a686814",
+  "brut": {
+    "title": "La Syrie dénonce des \"attaques répétées\" d'Israël, après une frappe de drone près du Golan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Syrie dénonce des \"attaques répétées\" d'Israël, après une frappe de drone près du Golan"
+    },
+    "summary": "L'armée israélienne a indiqué que ses forces avaient tiré dans le sud de la Syrie sur une personne \"qui préparait des attaques terroristes, dans leur phase finale\", sans l'identifier ni préciser si elle appartenait à un groupe particulier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne a indiqué que ses forces avaient tiré dans le sud de la Syrie sur une personne \"qui préparait des attaques terroristes, dans leur phase finale\", sans l'identifier ni préciser si elle appartenait à un groupe particulier."
+    },
+    "published": "Sat, 22 Aug 2026 20:04:40 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      18,
+      4,
+      40,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-syrie-denonce-des-attaques-repetees-d-israel-apres-une-frappe-de-drone-pres-du-golan_8157650.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kbEH7Ui0pb_LDxoidppTcocQsnA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89e4642b599738219024.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-syrie-denonce-des-attaques-repetees-d-israel-apres-une-frappe-de-drone-pres-du-golan_8157650.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-syrie-denonce-des-attaques-repetees-d-israel-apres-une-frappe-de-drone-pres-du-golan_8157650.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
