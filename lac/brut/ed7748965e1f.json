@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T12:35:22.521458+00:00",
+  "_id": "ed7748965e1f",
+  "brut": {
+    "title": "La Corée du Nord accuse le Japon de préparer une \"guerre d'agression\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Corée du Nord accuse le Japon de préparer une \"guerre d'agression\""
+    },
+    "summary": "Le Japon a augmenté ses dépenses militaires, renforcé ses accords de défense et déployé des lance-missiles sur ses îles périphériques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Japon a augmenté ses dépenses militaires, renforcé ses accords de défense et déployé des lance-missiles sur ses îles périphériques."
+    },
+    "published": "Sat, 22 Aug 2026 13:54:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      11,
+      54,
+      1,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-accuse-le-japon-de-preparer-une-guerre-d-agression_8157311.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hbHGyxuShHnVCxqu5e3OqScI79M/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/22/6a898d42059d5776010859.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-accuse-le-japon-de-preparer-une-guerre-d-agression_8157311.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-accuse-le-japon-de-preparer-une-guerre-d-agression_8157311.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

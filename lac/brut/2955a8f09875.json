@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T12:35:22.521241+00:00",
+  "_id": "2955a8f09875",
+  "brut": {
+    "title": "Au moins 16 morts et 130 blessés dans l’attaque russe d’un centre commercial ukrainien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 16 morts et 130 blessés dans l’attaque russe d’un centre commercial ukrainien"
+    },
+    "summary": "En Ukraine, samedi 22 août, les secours continuent de fouiller les décombres d’un centre commercial à Kryvyi Rig, la ville natale du président Volodymyr Zelensky. La veille, des frappes russes se sont abattues sur le bâtiment, faisant au moins 16 morts et 130 blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, samedi 22 août, les secours continuent de fouiller les décombres d’un centre commercial à Kryvyi Rig, la ville natale du président Volodymyr Zelensky. La veille, des frappes russes se sont abattues sur le bâtiment, faisant au moins 16 morts et 130 blessés."
+    },
+    "published": "Sat, 22 Aug 2026 14:13:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      12,
+      13,
+      9,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/au-moins-16-morts-et-130-blesses-dans-l-attaque-russe-d-un-centre-commercial-ukrainien_8157386.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HhELi88XVWtm83bWRDyzRdN3mlg/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/22/6a899195870fe714978381.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/au-moins-16-morts-et-130-blesses-dans-l-attaque-russe-d-un-centre-commercial-ukrainien_8157386.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/au-moins-16-morts-et-130-blesses-dans-l-attaque-russe-d-un-centre-commercial-ukrainien_8157386.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

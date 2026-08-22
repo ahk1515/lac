@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T12:35:21.701197+00:00",
+  "_id": "6c7d936d5d2e",
+  "brut": {
+    "title": "En Grèce, l’île-prison de Gyaros est devenue un havre de biodiversité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Grèce, l’île-prison de Gyaros est devenue un havre de biodiversité"
+    },
+    "published": "Sat, 22 Aug 2026 12:18:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      10,
+      18,
+      17,
+      5,
+      234,
+      0
+    ],
+    "summary": "Au cœur de l’archipel des Cyclades, cette île qui fut longtemps terre de relégation s’est transformée en sanctuaire pour la faune sauvage, et notamment les phoques moines. L’aire marine est désormais officiellement protégée par un décret présidentiel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au cœur de l’archipel des Cyclades, cette île qui fut longtemps terre de relégation s’est transformée en sanctuaire pour la faune sauvage, et notamment les phoques moines. L’aire marine est désormais officiellement protégée par un décret présidentiel."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/22/en-grece-l-ile-prison-de-gyaros-est-devenue-un-havre-de-biodiversite_6753228_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/22/en-grece-l-ile-prison-de-gyaros-est-devenue-un-havre-de-biodiversite_6753228_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/22/en-grece-l-ile-prison-de-gyaros-est-devenue-un-havre-de-biodiversite_6753228_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/14/522/0/4820/2410/644/322/60/0/17c62f6_upload-1-ms0aliw9vcrl-ap25052626854935.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Renos-Pantelis, un phoque moine de Méditerranée âgé de 5 mois, après avoir été relâché sur une plage de la petite île de Gyaros (Grèce), en mer Egée, le 17 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Thanassis Stavrakis/AP"
+      }
+    ],
+    "credit": "Thanassis Stavrakis/AP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T12:35:21.700422+00:00",
+  "_id": "03033f9c41d7",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des attaques russes font quatre morts près de Kiev et à Zaporijia ; une frappe de drones ukrainiens fait trois morts en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des attaques russes font quatre morts près de Kiev et à Zaporijia ; une frappe de drones ukrainiens fait trois morts en Russie"
+    },
+    "published": "Sat, 22 Aug 2026 13:50:39 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      11,
+      50,
+      39,
+      5,
+      234,
+      0
+    ],
+    "updated": "Sat, 22 Aug 2026 13:52:48 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      22,
+      11,
+      52,
+      48,
+      5,
+      234,
+      0
+    ],
+    "summary": "La Russie a mené sept frappes dans le raïon de Zaporijia, dans le sud de l’Ukraine, tuant deux personnes. Par ailleurs, deux personnes ont été tuées et huit blessées par une frappe sur Boryspil, en banlieue de la capitale ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Russie a mené sept frappes dans le raïon de Zaporijia, dans le sud de l’Ukraine, tuant deux personnes. Par ailleurs, deux personnes ont été tuées et huit blessées par une frappe sur Boryspil, en banlieue de la capitale ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-des-attaques-russes-font-quatre-morts-pres-de-kiev-et-a-zaporijia-une-frappe-de-drones-ukrainiens-fait-trois-morts-en-russie_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-des-attaques-russes-font-quatre-morts-pres-de-kiev-et-a-zaporijia-une-frappe-de-drones-ukrainiens-fait-trois-morts-en-russie_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-des-attaques-russes-font-quatre-morts-pres-de-kiev-et-a-zaporijia-une-frappe-de-drones-ukrainiens-fait-trois-morts-en-russie_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/22/200/0/1600/800/644/322/60/0/b75b616_ftp-1-jkdvqbx1vbau-2026-08-22t113243z-1426616836-rc2n3naqs0f3-rtrmadp-3-ukraine-crisis-attack-kyiv-region.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans la région de Kiev, le 22 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERVICE UKRAINIEN DES SITUATIONS D’URGENCES via Reuters"
+      }
+    ],
+    "credit": "SERVICE UKRAINIEN DES SITUATIONS D’URGENCES via Reuters"
+  }
+}

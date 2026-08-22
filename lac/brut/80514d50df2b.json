@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T12:35:21.700243+00:00",
+  "_id": "80514d50df2b",
+  "brut": {
+    "title": "Au Panama, de profondes inégalités sociales, héritage de la ségrégation raciale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Panama, de profondes inégalités sociales, héritage de la ségrégation raciale"
+    },
+    "published": "Sat, 22 Aug 2026 14:00:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      12,
+      0,
+      10,
+      5,
+      234,
+      0
+    ],
+    "summary": "Dominé par son canal, source de toute la prospérité, le pays demeure à deux vitesses, un siècle après le traitement raciste séparant les employés blancs américains « en or », et les noirs ou métis « en argent ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dominé par son canal, source de toute la prospérité, le pays demeure à deux vitesses, un siècle après le traitement raciste séparant les employés blancs américains « en or », et les noirs ou métis « en argent »."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/22/au-panama-de-profondes-inegalites-sociales-heritage-de-la-segregation-raciale_6753298_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/22/au-panama-de-profondes-inegalites-sociales-heritage-de-la-segregation-raciale_6753298_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/22/au-panama-de-profondes-inegalites-sociales-heritage-de-la-segregation-raciale_6753298_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/05/332/0/2976/1488/644/322/60/0/63142b3_upload-1-gznem5esarkc-epaliveeight969381.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au port de Balboa, à Panama (Panama), le 25 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CARLOS LEMOS/EPA/MAXPPP"
+      }
+    ],
+    "credit": "CARLOS LEMOS/EPA/MAXPPP"
+  }
+}

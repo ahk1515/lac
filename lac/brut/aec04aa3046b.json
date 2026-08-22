@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T12:35:21.700606+00:00",
+  "_id": "aec04aa3046b",
+  "brut": {
+    "title": "Le Mexique reproche aux Etats-Unis d’expulser ses ressortissants vers le Guatemala",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Mexique reproche aux Etats-Unis d’expulser ses ressortissants vers le Guatemala"
+    },
+    "published": "Sat, 22 Aug 2026 13:44:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      11,
+      44,
+      31,
+      5,
+      234,
+      0
+    ],
+    "summary": "Environ 2 300 Mexicains, déportés par la police de l’immigration américaine, l’ICE, ont d’abord transité au Guatemala avant de retourner dans leur pays d’origine depuis le début de l’année, d’après le gouvernement guatémaltèque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Environ 2 300 Mexicains, déportés par la police de l’immigration américaine, l’ICE, ont d’abord transité au Guatemala avant de retourner dans leur pays d’origine depuis le début de l’année, d’après le gouvernement guatémaltèque."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/08/22/le-mexique-reproche-aux-etats-unis-d-expulser-ses-ressortissants-vers-le-guatemala_6753297_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/08/22/le-mexique-reproche-aux-etats-unis-d-expulser-ses-ressortissants-vers-le-guatemala_6753297_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/08/22/le-mexique-reproche-aux-etats-unis-d-expulser-ses-ressortissants-vers-le-guatemala_6753297_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/325/0/3900/1950/644/322/60/0/fdb9d41_ftp-1-onv36lntczfo-5889878-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des officiers de l’ambassade mexicaine attendent des ressortissants déportés par les Etats-Unis au centre d’accueil des rappatriés à leur arrivée au Guatemala, le 21 août 2026.  (Photo by Johan ORDONEZ / AFP)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHAN ORDONEZ / AFP"
+      }
+    ],
+    "credit": "JOHAN ORDONEZ / AFP"
+  }
+}

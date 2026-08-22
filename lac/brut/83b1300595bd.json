@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T12:35:22.521621+00:00",
+  "_id": "83b1300595bd",
+  "brut": {
+    "title": "La ville de Paris annonce \"la mise à l'abri\" de 253 personnes installées dans la capitale, après l'évacuation de leur campement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La ville de Paris annonce \"la mise à l'abri\" de 253 personnes installées dans la capitale, après l'évacuation de leur campement"
+    },
+    "summary": "Mi-août, le campement sur le site du Samu social qui avait rassemblé jusqu'à 450 sans-abri, principalement des migrants, avait été évacué. De nombreuses personnes s'étaient ensuite installées devant la mairie de Paris Centre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Mi-août, le campement sur le site du Samu social qui avait rassemblé jusqu'à 450 sans-abri, principalement des migrants, avait été évacué. De nombreuses personnes s'étaient ensuite installées devant la mairie de Paris Centre."
+    },
+    "published": "Sat, 22 Aug 2026 13:17:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      11,
+      17,
+      26,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/la-ville-de-paris-annonce-la-mise-a-l-abri-de-253-personnes-installees-dans-la-capitale-apres-l-evacuation-de-leur-campement_8157338.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0Tpkti6fOty0Db_M4rI8gBO2J_o/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/22/6a898245b1572209868796.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/la-ville-de-paris-annonce-la-mise-a-l-abri-de-253-personnes-installees-dans-la-capitale-apres-l-evacuation-de-leur-campement_8157338.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/la-ville-de-paris-annonce-la-mise-a-l-abri-de-253-personnes-installees-dans-la-capitale-apres-l-evacuation-de-leur-campement_8157338.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

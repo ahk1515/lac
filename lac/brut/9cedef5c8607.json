@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T12:35:21.700054+00:00",
+  "_id": "9cedef5c8607",
+  "brut": {
+    "title": "Aux Etats-Unis, une juge fédérale annule le gel des visas permanents imposé par Donald Trump à 75 pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, une juge fédérale annule le gel des visas permanents imposé par Donald Trump à 75 pays"
+    },
+    "published": "Sat, 22 Aug 2026 14:03:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      12,
+      3,
+      12,
+      5,
+      234,
+      0
+    ],
+    "summary": "Après plusieurs revers judiciaires, la politique migratoire de Donald Trump subit un nouveau coup d’arrêt. La mesure, qui s’appliquait depuis le 21 janvier, concernait notamment la Somalie, la Russie et l’Iran.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après plusieurs revers judiciaires, la politique migratoire de Donald Trump subit un nouveau coup d’arrêt. La mesure, qui s’appliquait depuis le 21 janvier, concernait notamment la Somalie, la Russie et l’Iran."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/22/aux-etats-unis-une-juge-federale-annule-le-gel-des-visas-permanents-impose-par-donald-trump-a-75-pays_6753299_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/22/aux-etats-unis-une-juge-federale-annule-le-gel-des-visas-permanents-impose-par-donald-trump-a-75-pays_6753299_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/22/aux-etats-unis-une-juge-federale-annule-le-gel-des-visas-permanents-impose-par-donald-trump-a-75-pays_6753299_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/22/500/0/6000/3000/644/322/60/0/96724bb_ftp-1-zoeisenuxsf8-5892651-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, lors d’un meeting de campagne aux côtés de la sénatrice Darline Graham, le 21 août 2026, à Myrtle Beach, en Caroline du Sud."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "WIN MCNAMEE / AFP"
+      }
+    ],
+    "credit": "WIN MCNAMEE / AFP"
+  }
+}

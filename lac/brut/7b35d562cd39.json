@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T12:35:22.521804+00:00",
+  "_id": "7b35d562cd39",
+  "brut": {
+    "title": "En Birmanie, quatorze morts après une frappe aérienne de l'armée sur un monastère où des civils étaient réunis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Birmanie, quatorze morts après une frappe aérienne de l'armée sur un monastère où des civils étaient réunis"
+    },
+    "summary": "Ce site religieux se trouve dans le centre du pays, une des régions où une guerre civile oppose la junte militaire à des groupes rebelles. Des enquêteurs de l'ONU ont récemment publié un rapport accusant les militaires d'avoir intensifié leurs frappes aériennes contre les civils.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce site religieux se trouve dans le centre du pays, une des régions où une guerre civile oppose la junte militaire à des groupes rebelles. Des enquêteurs de l'ONU ont récemment publié un rapport accusant les militaires d'avoir intensifié leurs frappes aériennes contre les civils."
+    },
+    "published": "Sat, 22 Aug 2026 11:46:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      9,
+      46,
+      32,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/birmanie/en-birmanie-quatorze-morts-dans-une-frappe-aerienne-de-l-armee-sur-un-monastere_8157254.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RfZ4BC3klgmiuXlO-n19eivFJJA/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/22/6a896fd09e643197136800.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/birmanie/en-birmanie-quatorze-morts-dans-une-frappe-aerienne-de-l-armee-sur-un-monastere_8157254.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/birmanie/en-birmanie-quatorze-morts-dans-une-frappe-aerienne-de-l-armee-sur-un-monastere_8157254.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
