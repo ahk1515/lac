@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T04:30:47.163236+00:00",
+  "_id": "fe47be5b73b4",
+  "brut": {
+    "title": "L’indépendance d’un journal militaire américain menacée après le licenciement de deux responsables éditoriaux par le Pentagone",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’indépendance d’un journal militaire américain menacée après le licenciement de deux responsables éditoriaux par le Pentagone"
+    },
+    "published": "Sat, 22 Aug 2026 03:34:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      1,
+      34,
+      25,
+      5,
+      234,
+      0
+    ],
+    "updated": "Sat, 22 Aug 2026 04:03:34 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      22,
+      2,
+      3,
+      34,
+      5,
+      234,
+      0
+    ],
+    "summary": "Le rédacteur en chef et le directeur de la publication, ainsi qu’une journaliste de « Stars and Stripes » ont été limogés, notamment pour « insubordination ». Ce média est financé en partie par le ministère de la défense mais est réputé pour son indépendance éditoriale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le rédacteur en chef et le directeur de la publication, ainsi qu’une journaliste de « Stars and Stripes » ont été limogés, notamment pour « insubordination ». Ce média est financé en partie par le ministère de la défense mais est réputé pour son indépendance éditoriale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/22/l-independance-d-un-journal-militaire-americain-menacee-apres-le-licenciement-de-deux-responsables-editoriaux-par-le-pentagone_6752453_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/22/l-independance-d-un-journal-militaire-americain-menacee-apres-le-licenciement-de-deux-responsables-editoriaux-par-le-pentagone_6752453_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/22/l-independance-d-un-journal-militaire-americain-menacee-apres-le-licenciement-de-deux-responsables-editoriaux-par-le-pentagone_6752453_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/399/0/4788/2394/644/322/60/0/28a6d4d_ftp-1-i5z02ms52len-d9bf0b1ca3b34fcd832a3ccae6aa0fc4-0-c1e2e4bf28524ce29878f65a4efe5456.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Pentagone, à Washington, le 15 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alex Brandon/AP"
+      }
+    ],
+    "credit": "Alex Brandon/AP"
+  }
+}
