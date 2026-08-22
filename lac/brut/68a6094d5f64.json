@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T01:08:18.436102+00:00",
+  "_id": "68a6094d5f64",
+  "brut": {
+    "title": "Ukraine : au moins seize morts dans une frappe russe sur un centre commercial, l’UE dénonce une « terreur planifiée »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ukraine : au moins seize morts dans une frappe russe sur un centre commercial, l’UE dénonce une « terreur planifiée »"
+    },
+    "published": "Sat, 22 Aug 2026 02:55:36 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      0,
+      55,
+      36,
+      5,
+      234,
+      0
+    ],
+    "summary": "Quatre personnes, dont trois mineurs, ont également été tuées vendredi dans une autre attaque, et des missiles balistiques ont tué au moins deux personnes à Kiev dans la nuit de vendredi à samedi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quatre personnes, dont trois mineurs, ont également été tuées vendredi dans une autre attaque, et des missiles balistiques ont tué au moins deux personnes à Kiev dans la nuit de vendredi à samedi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/22/ukraine-au-moins-seize-morts-dans-une-frappe-russe-sur-un-centre-commercial-l-ue-denonce-une-terreur-planifiee_6752420_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/22/ukraine-au-moins-seize-morts-dans-une-frappe-russe-sur-un-centre-commercial-l-ue-denonce-une-terreur-planifiee_6752420_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/22/ukraine-au-moins-seize-morts-dans-une-frappe-russe-sur-un-centre-commercial-l-ue-denonce-une-terreur-planifiee_6752420_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/71/0/2000/1000/644/322/60/0/9c2a6cb_ftp-1-2mqpvye5srwn-8892e4ad49d946c2af8aa8a5ffe41365-0-3f57d66b363e44ce8ec8c158be0fa1ef.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le centre commercial visé par les frappes russes, à Kryvy Rih (Ukraine), le 21 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AUTORITÉS MILITAIRES DE L’OBLAST DE DNIPROPETROVSK/AFP"
+      }
+    ],
+    "credit": "AUTORITÉS MILITAIRES DE L’OBLAST DE DNIPROPETROVSK/AFP"
+  }
+}
