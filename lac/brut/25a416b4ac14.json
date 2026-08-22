@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T08:27:47.646854+00:00",
+  "_id": "25a416b4ac14",
+  "brut": {
+    "title": "Au moins deux morts à la suite de frappes russes en Ukraine, la ville de Kiev touchée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins deux morts à la suite de frappes russes en Ukraine, la ville de Kiev touchée"
+    },
+    "summary": "Ces frappes dans la nuit de vendredi à samedi font suite à une attaque meurtrière sur un centre commercial du centre du pays, qui a fait 16 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces frappes dans la nuit de vendredi à samedi font suite à une attaque meurtrière sur un centre commercial du centre du pays, qui a fait 16 morts."
+    },
+    "published": "Sat, 22 Aug 2026 08:18:56 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      6,
+      18,
+      56,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-deux-morts-a-la-suite-de-frappes-russes-en-ukraine-la-ville-de-kiev-touchee_8157083.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/oz0Se6oPZk1sUItWrkJ829H8WF0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/22/6a893e7bd7983935999741.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-deux-morts-a-la-suite-de-frappes-russes-en-ukraine-la-ville-de-kiev-touchee_8157083.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-deux-morts-a-la-suite-de-frappes-russes-en-ukraine-la-ville-de-kiev-touchee_8157083.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

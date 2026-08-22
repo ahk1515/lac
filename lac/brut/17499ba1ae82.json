@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T08:27:47.646399+00:00",
+  "_id": "17499ba1ae82",
+  "brut": {
+    "title": "Des pieuvres pour lutter contre les crabes bleus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des pieuvres pour lutter contre les crabes bleus"
+    },
+    "summary": "Depuis plusieurs années les crabes bleus ravagent les côtes de la Méditerranée. Et si cette espèce prolifère c'est parce qu'elle n'a pas de prédateur naturel. Des chercheurs italiens ont trouvé une solution en misant sur un adversaire redoutable : la pieuvre !",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis plusieurs années les crabes bleus ravagent les côtes de la Méditerranée. Et si cette espèce prolifère c'est parce qu'elle n'a pas de prédateur naturel. Des chercheurs italiens ont trouvé une solution en misant sur un adversaire redoutable : la pieuvre !"
+    },
+    "published": "Sat, 22 Aug 2026 10:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      8,
+      0,
+      1,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/biodiversite/animaux/des-pieuvres-pour-lutter-contre-les-crabes-bleus_8156261.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/e3zAF-syyPJuRjib-weEXIXoJso/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/21/6a88412308384809939195.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/des-pieuvres-pour-lutter-contre-les-crabes-bleus_8156261.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/biodiversite/animaux/des-pieuvres-pour-lutter-contre-les-crabes-bleus_8156261.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T08:27:47.458234+00:00",
+  "_id": "a12518ceb89b",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Sat, 22 Aug 2026 06:48:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      4,
+      48,
+      43,
+      5,
+      234,
+      0
+    ],
+    "updated": "Sat, 22 Aug 2026 10:13:58 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      22,
+      8,
+      13,
+      58,
+      5,
+      234,
+      0
+    ],
+    "summary": "Des frappes russes ont fait au moins deux morts dans la nuit de vendredi à samedi, à Kiev et à Zaporijia, ont annoncé les autorités locales après une journée marquée par une attaque meurtrière contre un centre commercial de Kryvy Rih.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des frappes russes ont fait au moins deux morts dans la nuit de vendredi à samedi, à Kiev et à Zaporijia, ont annoncé les autorités locales après une journée marquée par une attaque meurtrière contre un centre commercial de Kryvy Rih."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-un-mort-a-kiev-dans-une-nouvelle-attaque-nocturne-russe_6746952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-un-mort-a-kiev-dans-une-nouvelle-attaque-nocturne-russe_6746952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-un-mort-a-kiev-dans-une-nouvelle-attaque-nocturne-russe_6746952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/1052/0/4957/2478/644/322/60/0/f5b5d32_ftp-1-igwyoxmprabj-2026-08-21t140051z-1450546464-rc2y2namz74u-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une femme dans les rues de Kiev, après une frappe de missile, le 21 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gleb Garanich/REUTERS"
+      }
+    ],
+    "credit": "Gleb Garanich/REUTERS"
+  }
+}
