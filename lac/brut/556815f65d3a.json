@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T16:21:15.027237+00:00",
+  "_id": "556815f65d3a",
+  "brut": {
+    "title": "Emmanuel Macron annonce l'envoi de nouveaux missiles intercepteurs à l'Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron annonce l'envoi de nouveaux missiles intercepteurs à l'Ukraine"
+    },
+    "summary": "Kiev souffre d'une pénurie de ces outils de défense aérienne pour faire face aux salves de missiles balistiques et de drones russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Kiev souffre d'une pénurie de ces outils de défense aérienne pour faire face aux salves de missiles balistiques et de drones russes."
+    },
+    "published": "Sat, 22 Aug 2026 14:59:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      12,
+      59,
+      32,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-annonce-l-envoi-de-nouveaux-missiles-intercepteurs-a-l-ukraine-au-lendemain-d-une-frappe-russe-meurtriere-sur-un-centre-commercial_8157410.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/R0JlnTlm-8nqvv3l-QxHEwV-ybE/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/22/6a899a1246b99634012445.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-annonce-l-envoi-de-nouveaux-missiles-intercepteurs-a-l-ukraine-au-lendemain-d-une-frappe-russe-meurtriere-sur-un-centre-commercial_8157410.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-annonce-l-envoi-de-nouveaux-missiles-intercepteurs-a-l-ukraine-au-lendemain-d-une-frappe-russe-meurtriere-sur-un-centre-commercial_8157410.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

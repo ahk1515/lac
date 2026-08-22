@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-22T16:21:15.026655+00:00",
+  "_id": "812096015743",
+  "brut": {
+    "title": "Un commissariat à Bruxelles visé par au moins une dizaine de balles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un commissariat à Bruxelles visé par au moins une dizaine de balles"
+    },
+    "summary": "Sur des images de vidéosurveillance, diffusées par les médias belges, on voit un individu cagoulé tirer sur la façade de ce commissariat, avant de prendre la fuite avec un complice sur une trottinette.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sur des images de vidéosurveillance, diffusées par les médias belges, on voit un individu cagoulé tirer sur la façade de ce commissariat, avant de prendre la fuite avec un complice sur une trottinette."
+    },
+    "published": "Sat, 22 Aug 2026 17:40:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      15,
+      40,
+      58,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/belgique/un-commissariat-a-bruxelles-vise-par-au-moins-une-dizaine-de-balles_8157446.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/ZC-JAcl048KV8qQtB934IldxlG0/160x0:1316x650/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89c2a7e0582990046809.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/belgique/un-commissariat-a-bruxelles-vise-par-au-moins-une-dizaine-de-balles_8157446.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/belgique/un-commissariat-a-bruxelles-vise-par-au-moins-une-dizaine-de-balles_8157446.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

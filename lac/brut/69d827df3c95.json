@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T16:21:14.752094+00:00",
+  "_id": "69d827df3c95",
+  "brut": {
+    "title": "En Suède, la victime tuée dans une attaque à l’épée dans un lycée était une élève de 17 ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Suède, la victime tuée dans une attaque à l’épée dans un lycée était une élève de 17 ans"
+    },
+    "published": "Sat, 22 Aug 2026 15:03:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      13,
+      3,
+      27,
+      5,
+      234,
+      0
+    ],
+    "updated": "Sat, 22 Aug 2026 15:06:34 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      22,
+      13,
+      6,
+      34,
+      5,
+      234,
+      0
+    ],
+    "summary": "Trois personnes ont été blessées dans cette attaque, dont deux garçons âgés de 12 et 17 ans grièvement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois personnes ont été blessées dans cette attaque, dont deux garçons âgés de 12 et 17 ans grièvement."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/22/en-suede-la-victime-tuee-dans-une-attaque-a-l-epee-dans-un-lycee-etait-une-eleve-de-17-ans_6753336_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/22/en-suede-la-victime-tuee-dans-une-attaque-a-l-epee-dans-un-lycee-etait-une-eleve-de-17-ans_6753336_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/22/en-suede-la-victime-tuee-dans-une-attaque-a-l-epee-dans-un-lycee-etait-une-eleve-de-17-ans_6753336_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/22/642/0/7709/3854/644/322/60/0/7e8f7da_ftp-1-cm6lesmw1knt-9d83f01c9765499588c8c42df0a30b9c-0-824ec904a1e04048be39c14c29df1bea.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A l’extérieur du lycée de Fagersta où a eu lieu l’attaque à l’épée, en Suède, le 22 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Magnus Lejhall/TT News Agency via AP"
+      }
+    ],
+    "credit": "Magnus Lejhall/TT News Agency via AP"
+  }
+}

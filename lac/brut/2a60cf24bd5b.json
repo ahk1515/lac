@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-22T16:21:14.751536+00:00",
+  "_id": "2a60cf24bd5b",
+  "brut": {
+    "title": "En Espagne, de violentes pluies font au moins onze blessés dans le nord-est du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, de violentes pluies font au moins onze blessés dans le nord-est du pays"
+    },
+    "published": "Sat, 22 Aug 2026 18:11:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      16,
+      11,
+      21,
+      5,
+      234,
+      0
+    ],
+    "summary": "Certaines zones de la région de Catalogne ont enregistré plus de 100 litres de pluie par mètre carré dans la nuit de vendredi à samedi, selon le service météorologique local.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Certaines zones de la région de Catalogne ont enregistré plus de 100 litres de pluie par mètre carré dans la nuit de vendredi à samedi, selon le service météorologique local."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/22/en-espagne-de-violentes-pluies-font-au-moins-onze-blesses-dans-le-nord-est-du-pays_6753295_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/22/en-espagne-de-violentes-pluies-font-au-moins-onze-blesses-dans-le-nord-est-du-pays_6753295_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/22/en-espagne-de-violentes-pluies-font-au-moins-onze-blesses-dans-le-nord-est-du-pays_6753295_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/22/412/0/4096/2048/644/322/60/0/5855bdc_upload-1-e6xh2m5u4cud-epalivenine281598.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur un chemin endommagé par de fortes pluies dans la ville de Roda de Bera, dans le nord-est de l’Espagne, le 22 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JAVIER DIAZ/EPA via MaxPPP"
+      }
+    ],
+    "credit": "JAVIER DIAZ/EPA via MaxPPP"
+  }
+}
