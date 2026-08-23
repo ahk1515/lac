@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T16:22:45.099480+00:00",
+  "_id": "aba0a3f71500",
+  "brut": {
+    "title": "La Belgique accueille le plus grand rassemblement de statues vivantes en Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Belgique accueille le plus grand rassemblement de statues vivantes en Europe"
+    },
+    "summary": "Direction Marche-en-Famenne, en Belgique, ce dimanche 23 août. Le temps d’un week-end, des statues s’animent dans la ville. Des créations vivantes, tantôt drôles, tantôt inquiétantes. Ce festival de rue, le plus grand rassemblement de statues vivantes en Europe, attire une centaine d’artistes du monde entier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Direction Marche-en-Famenne, en Belgique, ce dimanche 23 août. Le temps d’un week-end, des statues s’animent dans la ville. Des créations vivantes, tantôt drôles, tantôt inquiétantes. Ce festival de rue, le plus grand rassemblement de statues vivantes en Europe, attire une centaine d’artistes du monde entier."
+    },
+    "published": "Sun, 23 Aug 2026 15:57:35 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      13,
+      57,
+      35,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-plus-grand-rassemblement-de-statues-vivantes-en-europe-se-passe-en-belgique_8158400.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wuxSIJHI-PcsIX6fnVZkN1qZ4mU/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8ae8b1893e2014173191.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-plus-grand-rassemblement-de-statues-vivantes-en-europe-se-passe-en-belgique_8158400.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-plus-grand-rassemblement-de-statues-vivantes-en-europe-se-passe-en-belgique_8158400.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

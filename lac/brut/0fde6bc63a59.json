@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T16:22:45.098925+00:00",
+  "_id": "0fde6bc63a59",
+  "brut": {
+    "title": "Trois Palestiniens dont un enfant tués par des frappes israéliennes dans la bande de Gaza, selon les secours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Trois Palestiniens dont un enfant tués par des frappes israéliennes dans la bande de Gaza, selon les secours"
+    },
+    "summary": "L'armée israélienne a dans un premier temps déclaré à l'AFP \"avoir visé un terroriste\" et assuré qu'elle donnerait plus de détails ultérieurement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne a dans un premier temps déclaré à l'AFP \"avoir visé un terroriste\" et assuré qu'elle donnerait plus de détails ultérieurement."
+    },
+    "published": "Sun, 23 Aug 2026 15:17:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      13,
+      17,
+      0,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-les-secours-font-etat-de-trois-palestiniens-tues-par-des-frappes-israeliennes-dont-un-enfant_8158412.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rGCqswL4BZZmWemnd55QNPrJuHk/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8af24487e00183814660.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-les-secours-font-etat-de-trois-palestiniens-tues-par-des-frappes-israeliennes-dont-un-enfant_8158412.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-les-secours-font-etat-de-trois-palestiniens-tues-par-des-frappes-israeliennes-dont-un-enfant_8158412.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-23T16:22:44.995357+00:00",
+  "_id": "5faedab778fe",
+  "brut": {
+    "title": "Gaza : des frappes israéliennes tuent trois Palestiniens, dont un enfant, selon les secours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : des frappes israéliennes tuent trois Palestiniens, dont un enfant, selon les secours"
+    },
+    "published": "Sun, 23 Aug 2026 14:53:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      12,
+      53,
+      41,
+      6,
+      235,
+      0
+    ],
+    "summary": "Une personne et un enfant de 4 ans sont morts dans la ville d’Al-Zawayda, dans le centre de l’enclave palestinienne, tandis qu’une autre personne a été tuée dans le camp de réfugiés de Nousseirat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une personne et un enfant de 4 ans sont morts dans la ville d’Al-Zawayda, dans le centre de l’enclave palestinienne, tandis qu’une autre personne a été tuée dans le camp de réfugiés de Nousseirat."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/23/gaza-des-frappes-israeliennes-tuent-trois-palestiniens-dont-un-enfant-selon-les-secours_6754200_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/23/gaza-des-frappes-israeliennes-tuent-trois-palestiniens-dont-un-enfant-selon-les-secours_6754200_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/23/gaza-des-frappes-israeliennes-tuent-trois-palestiniens-dont-un-enfant-selon-les-secours_6754200_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/23/489/0/5500/2750/644/322/60/0/8928a29_ftp-1-zver53sry6v2-2026-08-23t111222z-600455930-rc2a4na85gfg-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des débris volent dans les airs, lors d’une frappe israélienne menée à Al-Zawayda, dans le centre de la bande de Gaza, le 23 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mahmoud Issa / REUTERS"
+      }
+    ],
+    "credit": "Mahmoud Issa / REUTERS"
+  }
+}

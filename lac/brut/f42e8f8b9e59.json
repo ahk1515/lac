@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T16:22:45.099746+00:00",
+  "_id": "f42e8f8b9e59",
+  "brut": {
+    "title": "Le pape Léon XIV appelle à redoubler d'efforts contre l'épidémie d'Ebola en République démocratique du Congo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape Léon XIV appelle à redoubler d'efforts contre l'épidémie d'Ebola en République démocratique du Congo"
+    },
+    "summary": "L'épidémie d'Ebola la plus meurtrière de l'histoire de la RDC a déjà fait des milliers de victimes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épidémie d'Ebola la plus meurtrière de l'histoire de la RDC a déjà fait des milliers de victimes."
+    },
+    "published": "Sun, 23 Aug 2026 13:58:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      11,
+      58,
+      0,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/le-pape-leon-xiv-appelle-a-redoubler-d-efforts-contre-l-epidemie-d-ebola-en-rd-congo_8158370.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UAsHhZ75zYmroTIx_0tq4Z78-_c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8ae01c9500d669875429.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/le-pape-leon-xiv-appelle-a-redoubler-d-efforts-contre-l-epidemie-d-ebola-en-rd-congo_8158370.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/le-pape-leon-xiv-appelle-a-redoubler-d-efforts-contre-l-epidemie-d-ebola-en-rd-congo_8158370.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

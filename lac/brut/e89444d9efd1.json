@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T16:22:45.099199+00:00",
+  "_id": "e89444d9efd1",
+  "brut": {
+    "title": "Course de vitesse, saut en hauteur, boxe… Pékin organise les Jeux mondiaux des robots humanoïdes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Course de vitesse, saut en hauteur, boxe… Pékin organise les Jeux mondiaux des robots humanoïdes"
+    },
+    "summary": "Les Jeux mondiaux des robots humanoïdes, où 16 pays étaient représentés, se sont tenus en Chine. Plus de 2 000 robots étaient en compétition, dont 95% sont fabriqués dans le pays hôte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Jeux mondiaux des robots humanoïdes, où 16 pays étaient représentés, se sont tenus en Chine. Plus de 2 000 robots étaient en compétition, dont 95% sont fabriqués dans le pays hôte."
+    },
+    "published": "Sun, 23 Aug 2026 16:15:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      14,
+      15,
+      38,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/course-de-vitesse-saut-en-hauteur-boxe-pekin-organise-les-jeux-mondiaux-des-robots-humanoides_8158403.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/nglIJmL4-TRtkTF0XiVOSEHTEf0/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8aea839384c422362112.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/course-de-vitesse-saut-en-hauteur-boxe-pekin-organise-les-jeux-mondiaux-des-robots-humanoides_8158403.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/course-de-vitesse-saut-en-hauteur-boxe-pekin-organise-les-jeux-mondiaux-des-robots-humanoides_8158403.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

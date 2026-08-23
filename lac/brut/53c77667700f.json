@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T16:22:45.097973+00:00",
+  "_id": "53c77667700f",
+  "brut": {
+    "title": "Israël reconnaît le me*rtre d'Hind Rajab, Palestinienne de 5 ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël reconnaît le me*rtre d'Hind Rajab, Palestinienne de 5 ans"
+    },
+    "summary": "L'armée israélienne a admis mercredi 19 août que ses troupes avaient ouvert le feu contre la voiture où se trouvait Hind Rajab, 5 ans, t*ée en 2024 à Gaza. Une enquête a été ouverte. #canal16",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne a admis mercredi 19 août que ses troupes avaient ouvert le feu contre la voiture où se trouvait Hind Rajab, 5 ans, t*ée en 2024 à Gaza. Une enquête a été ouverte. #canal16"
+    },
+    "published": "Sun, 23 Aug 2026 18:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      16,
+      0,
+      2,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/israel-reconnait-le-me-rtre-d-hind-rajab-palestinienne-de-5-ans_8158493.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/db2uRg6DvJ8VbnjxAyx78r25o7s/0x8:384x691/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/23/6a8b00e6cc3c1715569071.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/israel-reconnait-le-me-rtre-d-hind-rajab-palestinienne-de-5-ans_8158493.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/israel-reconnait-le-me-rtre-d-hind-rajab-palestinienne-de-5-ans_8158493.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-23T16:22:44.994390+00:00",
+  "_id": "5c670bcc0659",
+  "brut": {
+    "title": "Naufrage en Méditerranée : 11 migrants sont morts au large de la Tunisie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Naufrage en Méditerranée : 11 migrants sont morts au large de la Tunisie"
+    },
+    "published": "Sun, 23 Aug 2026 17:52:29 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      15,
+      52,
+      29,
+      6,
+      235,
+      0
+    ],
+    "updated": "Sun, 23 Aug 2026 18:04:15 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      23,
+      16,
+      4,
+      15,
+      6,
+      235,
+      0
+    ],
+    "summary": "Un bateau transportant 15 migrants tunisiens a fait naufrage dans la nuit de vendredi à samedi. Une seule personne a été secourue et trois autres sont toujours portées disparues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un bateau transportant 15 migrants tunisiens a fait naufrage dans la nuit de vendredi à samedi. Une seule personne a été secourue et trois autres sont toujours portées disparues."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/23/naufrage-en-mediterranee-huit-migrants-sont-morts-au-large-de-la-tunisie_6754434_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/23/naufrage-en-mediterranee-huit-migrants-sont-morts-au-large-de-la-tunisie_6754434_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/23/naufrage-en-mediterranee-huit-migrants-sont-morts-au-large-de-la-tunisie_6754434_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2023/09/22/334/0/4000/2000/644/322/60/0/d869f4c_1695371261061-88a2704.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants secourus en mer Méditerranée arrivent au port de Favaloro, à Lampedusa, à bord d’un navire de la Garde côtière italienne, le 18 septembre 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GIUSEPPE CAROTENUTO POUR «LE MONDE»"
+      }
+    ],
+    "credit": "GIUSEPPE CAROTENUTO POUR «LE MONDE»"
+  }
+}

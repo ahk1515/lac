@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T16:22:45.098788+00:00",
+  "_id": "83a9b4312d73",
+  "brut": {
+    "title": "Ivan Jayme Acosta, infirmier pendant dix ans, a lancé son restaurant à Lille pour faire découvrir la gastronomie péruvienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ivan Jayme Acosta, infirmier pendant dix ans, a lancé son restaurant à Lille pour faire découvrir la gastronomie péruvienne"
+    },
+    "summary": "Dans les cuisines depuis tout petit, ce chef né au Pérou a d'abord travaillé aux urgences en France, avant de se lancer dans la restauration. Avec pour objectif de partager les recettes de son pays, souvent distingué comme meilleure gastronomie au monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans les cuisines depuis tout petit, ce chef né au Pérou a d'abord travaillé aux urgences en France, avant de se lancer dans la restauration. Avec pour objectif de partager les recettes de son pays, souvent distingué comme meilleure gastronomie au monde."
+    },
+    "published": "Sun, 23 Aug 2026 15:30:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      13,
+      30,
+      2,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/ivan-jayme-acosta-infirmier-pendant-dix-ans-a-lance-son-restaurant-a-lille-pour-faire-decouvrir-la-gastronomie-peruvienne_8092262.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4SPL5anxClWJhOvNSMrKi1fX_zY/0x0:1600x900/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8728f6763f8455976507.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/ivan-jayme-acosta-infirmier-pendant-dix-ans-a-lance-son-restaurant-a-lille-pour-faire-decouvrir-la-gastronomie-peruvienne_8092262.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/cuisiniers-d-ailleurs/ivan-jayme-acosta-infirmier-pendant-dix-ans-a-lance-son-restaurant-a-lille-pour-faire-decouvrir-la-gastronomie-peruvienne_8092262.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
