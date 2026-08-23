@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T01:14:10.561801+00:00",
+  "_id": "8f17963030a2",
+  "brut": {
+    "title": "\"Du lait, du sel et de la patience\" : sur les routes du nord de l'Italie, terre du parmesan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Du lait, du sel et de la patience\" : sur les routes du nord de l'Italie, terre du parmesan"
+    },
+    "summary": "Du lait, du sel, beaucoup de patience et de savoir-faire : ce sont les ingrédients pour un bon parmesan. Direction ce samedi 22 août dans le nord de l'Italie, le berceau de ce fromage de caractère qui a conquis les papilles du monde entier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Du lait, du sel, beaucoup de patience et de savoir-faire : ce sont les ingrédients pour un bon parmesan. Direction ce samedi 22 août dans le nord de l'Italie, le berceau de ce fromage de caractère qui a conquis les papilles du monde entier."
+    },
+    "published": "Sat, 22 Aug 2026 23:11:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      22,
+      21,
+      11,
+      0,
+      5,
+      234,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/du-lait-du-sel-et-de-la-patience-sur-les-routes-du-nord-de-l-italie-terre-du-parmesan_8157740.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/JHAs9BnSOe24mqjdn_0THSUMqLs/0x83:1552x956/432x243/filters:format(jpg):quality(50)/2026/08/22/6a8a018a16953144172106.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/du-lait-du-sel-et-de-la-patience-sur-les-routes-du-nord-de-l-italie-terre-du-parmesan_8157740.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/du-lait-du-sel-et-de-la-patience-sur-les-routes-du-nord-de-l-italie-terre-du-parmesan_8157740.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
