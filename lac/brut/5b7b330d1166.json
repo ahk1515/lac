@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T08:27:36.332294+00:00",
+  "_id": "5b7b330d1166",
+  "brut": {
+    "title": "L'Iran exécute un homme en lien avec les manifestations antigouvernementales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Iran exécute un homme en lien avec les manifestations antigouvernementales"
+    },
+    "summary": "Le nombre d'exécutions en Iran a augmenté depuis le début de la guerre au Moyen-Orient.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nombre d'exécutions en Iran a augmenté depuis le début de la guerre au Moyen-Orient."
+    },
+    "published": "Sun, 23 Aug 2026 09:42:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      7,
+      42,
+      55,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/l-iran-execute-un-homme-en-lien-avec-les-manifestations-antigouvernementales_8158109.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xE_48xpR_l6YXa3FyKvA0S6hpHM/0x93:1024x669/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8aa445ae6c5712482792.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/l-iran-execute-un-homme-en-lien-avec-les-manifestations-antigouvernementales_8158109.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/l-iran-execute-un-homme-en-lien-avec-les-manifestations-antigouvernementales_8158109.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

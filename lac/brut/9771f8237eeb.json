@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T08:27:36.331983+00:00",
+  "_id": "9771f8237eeb",
+  "brut": {
+    "title": "Après cinq mois de restauration, le Lion de Waterloo, en Belgique, va célébrer son 200e anniversaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après cinq mois de restauration, le Lion de Waterloo, en Belgique, va célébrer son 200e anniversaire"
+    },
+    "summary": "L'imposante statue en fonte domine le champ de bataille qui a causé la perte de Napoléon 1er, en 1815. Et attire de nombreux touristes, parmi lesquels, évidemment, beaucoup de Français.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'imposante statue en fonte domine le champ de bataille qui a causé la perte de Napoléon 1er, en 1815. Et attire de nombreux touristes, parmi lesquels, évidemment, beaucoup de Français."
+    },
+    "published": "Sun, 23 Aug 2026 10:00:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      8,
+      0,
+      3,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-cinq-mois-de-restauration-le-lion-de-waterloo-en-belgique-va-celebrer-son-200e-anniversaire_8072999.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ABBqEuxcN52eUhTfg4Np-pjxzTw/0x0:8064x4536/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89aa156f927513120990.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-cinq-mois-de-restauration-le-lion-de-waterloo-en-belgique-va-celebrer-son-200e-anniversaire_8072999.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-cinq-mois-de-restauration-le-lion-de-waterloo-en-belgique-va-celebrer-son-200e-anniversaire_8072999.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

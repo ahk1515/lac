@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T08:27:36.332840+00:00",
+  "_id": "d21951cf0449",
+  "brut": {
+    "title": "RD Congo : une épidémie très meurtrière d'Ebola",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "RD Congo : une épidémie très meurtrière d'Ebola"
+    },
+    "summary": "En à peine trois mois, l'épidémie d'Ebola qui frappe la République Démocratique du Congo est hors de contrôle. Plus de 2500 personnes ont perdu la vie et quelque 5300 ont été infectées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En à peine trois mois, l'épidémie d'Ebola qui frappe la République Démocratique du Congo est hors de contrôle. Plus de 2500 personnes ont perdu la vie et quelque 5300 ont été infectées."
+    },
+    "published": "Sun, 23 Aug 2026 08:25:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      6,
+      25,
+      30,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/rd-congo-une-epidemie-tres-meurtriere-d-ebola_8158076.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UcP--J07Euo00DfhCupZoB0i5dY/93x0:1608x852/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8a9252885eb107208080.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/rd-congo-une-epidemie-tres-meurtriere-d-ebola_8158076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/rd-congo-une-epidemie-tres-meurtriere-d-ebola_8158076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

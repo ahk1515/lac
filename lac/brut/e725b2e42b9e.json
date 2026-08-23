@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-23T08:27:36.099444+00:00",
+  "_id": "e725b2e42b9e",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : trois morts dans des frappes russes dans la région de Zaporijia, selon les autorités locales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : trois morts dans des frappes russes dans la région de Zaporijia, selon les autorités locales"
+    },
+    "published": "Sun, 23 Aug 2026 06:35:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      4,
+      35,
+      47,
+      6,
+      235,
+      0
+    ],
+    "summary": "Selon Ivan Fedorov, chef de l’administration militaire de l’oblast de Zaporijia, les bombardements russes menés dans la nuit de samedi à dimanche ont aussi fait vingt blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon Ivan Fedorov, chef de l’administration militaire de l’oblast de Zaporijia, les bombardements russes menés dans la nuit de samedi à dimanche ont aussi fait vingt blessés."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijia-selon-les-autorites-locales_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijia-selon-les-autorites-locales_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijia-selon-les-autorites-locales_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/523/0/4890/2445/644/322/60/0/6835e25_ftp-1-3tcfmazbb7bv-2026-08-19t101306z-1586334716-rc2l1na3gtbk-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une frappe russe, à Zaporijia (Ukraine), le 19 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer/REUTERS"
+      }
+    ],
+    "credit": "Stringer/REUTERS"
+  }
+}

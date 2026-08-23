@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T08:27:36.332441+00:00",
+  "_id": "ee076ae068f4",
+  "brut": {
+    "title": "Chine : une compétition sportive pour les robots",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chine : une compétition sportive pour les robots"
+    },
+    "summary": "Les Jeux Olympiques des robots se tiennent actuellement en Chine. Entre prouesses techniques, démonstrations des avancées technologiques et défis sportifs, la compétition attire les regards du monde entier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Jeux Olympiques des robots se tiennent actuellement en Chine. Entre prouesses techniques, démonstrations des avancées technologiques et défis sportifs, la compétition attire les regards du monde entier."
+    },
+    "published": "Sun, 23 Aug 2026 08:44:32 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      6,
+      44,
+      32,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/chine-une-competition-sportive-pour-les-robots_8158091.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/y6KOdxbSHuTOBuFivIfO4_KCy4g/193x0:1690x842/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8a96907ddbe498035922.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/chine-une-competition-sportive-pour-les-robots_8158091.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/chine-une-competition-sportive-pour-les-robots_8158091.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

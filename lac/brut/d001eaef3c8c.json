@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T08:27:36.332134+00:00",
+  "_id": "d001eaef3c8c",
+  "brut": {
+    "title": "En Turquie, Mabel Matiz, popstar gay, une nouvelle fois poursuivi pour \"obscénité\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Turquie, Mabel Matiz, popstar gay, une nouvelle fois poursuivi pour \"obscénité\""
+    },
+    "summary": "L'artiste LGBT risque jusqu'à trois ans de prison pour son dernier clip, où deux hommes s'échangent un regard lors d'un mariage hétérosexuel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'artiste LGBT risque jusqu'à trois ans de prison pour son dernier clip, où deux hommes s'échangent un regard lors d'un mariage hétérosexuel."
+    },
+    "published": "Sun, 23 Aug 2026 09:52:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      7,
+      52,
+      11,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/turquie/en-turquie-mabel-matiz-popstar-gay-vise-par-une-enquete-du-parquet-pour-obscenite_8158073.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/A76G05dnaIZDNBpc2UeyC7QeTb8/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8a95c3d8793831228793.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-mabel-matiz-popstar-gay-vise-par-une-enquete-du-parquet-pour-obscenite_8158073.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/turquie/en-turquie-mabel-matiz-popstar-gay-vise-par-une-enquete-du-parquet-pour-obscenite_8158073.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

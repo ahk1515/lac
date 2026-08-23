@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-23T08:27:36.099099+00:00",
+  "_id": "c3d73570d7c2",
+  "brut": {
+    "title": "Un séisme de magnitude 5,9 secoue l’est du Japon, faisant plus de 30 blessés dans la région de Tokyo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un séisme de magnitude 5,9 secoue l’est du Japon, faisant plus de 30 blessés dans la région de Tokyo"
+    },
+    "published": "Sun, 23 Aug 2026 07:02:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      5,
+      2,
+      0,
+      6,
+      235,
+      0
+    ],
+    "summary": "Après le tremblement de terre qui a perturbé le trafic des trains régionaux dans la capitale, les autorités ont mis en garde contre un risque accru de glissements de terrain et de fortes répliques dans les prochains jours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après le tremblement de terre qui a perturbé le trafic des trains régionaux dans la capitale, les autorités ont mis en garde contre un risque accru de glissements de terrain et de fortes répliques dans les prochains jours."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/23/un-seisme-de-magnitude-5-9-secoue-l-est-du-japon-faisant-plus-de-30-blesses-dans-la-region-de-tokyo_6753860_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/23/un-seisme-de-magnitude-5-9-secoue-l-est-du-japon-faisant-plus-de-30-blesses-dans-la-region-de-tokyo_6753860_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/23/un-seisme-de-magnitude-5-9-secoue-l-est-du-japon-faisant-plus-de-30-blesses-dans-la-region-de-tokyo_6753860_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/23/203/0/1752/876/644/322/60/0/21eff1c_upload-1-0bit4ar85prf-screen-shot-2026-08-22-at-9-57-27-pm.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes du service d’incendie de Tokyo se trouvent dans une rue partiellement inondée à la suite de la rupture d’une canalisation d’eau provoquée par un séisme ayant frappé la région ainsi que les préfectures voisines, à Tokyo (Japon),  le 23 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kazuki Kozaki/Kyodo News via AP"
+      }
+    ],
+    "credit": "Kazuki Kozaki/Kyodo News via AP"
+  }
+}

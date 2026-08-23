@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T08:27:36.333103+00:00",
+  "_id": "7155e7738b15",
+  "brut": {
+    "title": "Un séisme de magnitude 5,9 touche les environs de Tokyo, plus de 30 blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un séisme de magnitude 5,9 touche les environs de Tokyo, plus de 30 blessés"
+    },
+    "summary": "Les autorités ont mis en garde contre un risque accru de glissements de terrain dans la région et de potentielles fortes répliques dans les jours à venir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités ont mis en garde contre un risque accru de glissements de terrain dans la région et de potentielles fortes répliques dans les jours à venir."
+    },
+    "published": "Sun, 23 Aug 2026 07:38:42 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      5,
+      38,
+      42,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-9-touche-les-environs-de-tokyo-plus-de-30-blesses_8158037.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vCsRPV35YrPcYQPw2VQrb5BULKw/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8a8606eae39235378893.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-9-touche-les-environs-de-tokyo-plus-de-30-blesses_8158037.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-9-touche-les-environs-de-tokyo-plus-de-30-blesses_8158037.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

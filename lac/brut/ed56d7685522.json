@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-23T08:27:36.098736+00:00",
+  "_id": "ed56d7685522",
+  "brut": {
+    "title": "L’Iran exécute un homme accusé d’« actions opérationnelles » lors des manifestations antigouvernementales de janvier",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Iran exécute un homme accusé d’« actions opérationnelles » lors des manifestations antigouvernementales de janvier"
+    },
+    "published": "Sun, 23 Aug 2026 09:00:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      7,
+      0,
+      4,
+      6,
+      235,
+      0
+    ],
+    "updated": "Sun, 23 Aug 2026 09:17:32 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      23,
+      7,
+      17,
+      32,
+      6,
+      235,
+      0
+    ],
+    "summary": "L’exécution de Majid Adineh intervient alors que le nombre de condamnations à mort est en hausse en Iran, sur fond de répression accrue des mouvements de contestation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’exécution de Majid Adineh intervient alors que le nombre de condamnations à mort est en hausse en Iran, sur fond de répression accrue des mouvements de contestation."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/23/l-iran-execute-un-homme-accuse-d-actions-operationnelles-lors-des-manifestations-antigouvernementales-de-janvier_6753927_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/23/l-iran-execute-un-homme-accuse-d-actions-operationnelles-lors-des-manifestations-antigouvernementales-de-janvier_6753927_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/23/l-iran-execute-un-homme-accuse-d-actions-operationnelles-lors-des-manifestations-antigouvernementales-de-janvier_6753927_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/15/720/0/8640/4320/644/322/60/0/22ff836_ftp-1-52jws3h9zhra-fd0943feb0b54d45b8b6052f373bae4c-0-7c6a40cda0a74dd28ac458742e71f265.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans une rue de Téhéran, le slogan en farsi « Nous devons nous soulever »,  sous une représentation de l’ancien guide suprême Ali Khamenei, le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vahid Salemi / AP Photo/Vahid Salemi"
+      }
+    ],
+    "credit": "Vahid Salemi / AP Photo/Vahid Salemi"
+  }
+}
