@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T12:36:23.586020+00:00",
+  "_id": "1ab065866400",
+  "brut": {
+    "title": "En Ukraine, trois morts dans des frappes russes dans la région de Zaporijjia",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, trois morts dans des frappes russes dans la région de Zaporijjia"
+    },
+    "summary": "Les autorités ukrainiennes ont recensé plus de 500 frappes en 24 heures dans cette région du sud-est de l'Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités ukrainiennes ont recensé plus de 500 frappes en 24 heures dans cette région du sud-est de l'Ukraine."
+    },
+    "published": "Sun, 23 Aug 2026 10:35:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      8,
+      35,
+      58,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijja_8158148.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Ld5JLjamTVrh4jzZrszHFlb4bCM/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8ab00cba6b7232846900.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijja_8158148.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijja_8158148.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

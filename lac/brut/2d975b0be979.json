@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-23T12:36:23.337784+00:00",
+  "_id": "2d975b0be979",
+  "brut": {
+    "title": "La République démocratique du Congo et les combattants du M23 annoncent une feuille de route pour les pourparlers de paix",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La République démocratique du Congo et les combattants du M23 annoncent une feuille de route pour les pourparlers de paix"
+    },
+    "published": "Sun, 23 Aug 2026 13:57:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      11,
+      57,
+      7,
+      6,
+      235,
+      0
+    ],
+    "summary": "Un calendrier précis des négociations a été établi entre la RDC et le M23, marquant une nouvelle étape dans le processus de paix sous médiation internationale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un calendrier précis des négociations a été établi entre la RDC et le M23, marquant une nouvelle étape dans le processus de paix sous médiation internationale."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/23/la-republique-democratique-du-congo-et-les-combattants-du-m23-annoncent-une-feuille-de-route-pour-les-pourparlers-de-paix_6754134_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/23/la-republique-democratique-du-congo-et-les-combattants-du-m23-annoncent-une-feuille-de-route-pour-les-pourparlers-de-paix_6754134_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/23/la-republique-democratique-du-congo-et-les-combattants-du-m23-annoncent-une-feuille-de-route-pour-les-pourparlers-de-paix_6754134_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/28/768/0/5500/2750/644/322/60/0/f2c2141_ftp-1-empvhkqxmw49-2026-07-28t154949z-1005264347-rc2wmma045r1-rtrmadp-3-congo-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation organisée par des associations de la société civile, appelant à un dialogue direct entre le gouvernement congolais et les rebelles du M23 dans le cadre des efforts visant à mettre fin au conflit dans le pays, à Bukavu (République démocratique du Congo), le 28 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Victoire Mukenge/REUTERS"
+      }
+    ],
+    "credit": "Victoire Mukenge/REUTERS"
+  }
+}
