@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-23T20:20:28.578063+00:00",
+  "_id": "7bc170d537fd",
+  "brut": {
+    "title": "Israël met en garde le Hamas après le lancement de cerfs-volants depuis Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël met en garde le Hamas après le lancement de cerfs-volants depuis Gaza"
+    },
+    "published": "Sun, 23 Aug 2026 21:52:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      19,
+      52,
+      28,
+      6,
+      235,
+      0
+    ],
+    "summary": "« C’est la responsabilité de l’armée d’agir à temps », a déclaré de son côté Uri Epstein, un représentant des communautés qui vivent proches de la frontière avec Gaza, et dont beaucoup ont été attaquées lors de l’attaque du Hamas le 7 octobre 2023.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« C’est la responsabilité de l’armée d’agir à temps », a déclaré de son côté Uri Epstein, un représentant des communautés qui vivent proches de la frontière avec Gaza, et dont beaucoup ont été attaquées lors de l’attaque du Hamas le 7 octobre 2023."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/23/israel-met-en-garde-le-hamas-apres-le-lancement-de-cerfs-volants-depuis-gaza_6754574_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/23/israel-met-en-garde-le-hamas-apres-le-lancement-de-cerfs-volants-depuis-gaza_6754574_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/23/israel-met-en-garde-le-hamas-apres-le-lancement-de-cerfs-volants-depuis-gaza_6754574_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/22/720/0/8640/4320/644/322/60/0/ec300e6_ftp-1-pto2jugt1upu-1fdb58dc47eb4fe5b2ae5c3aa5b128b5-0-f3b27937dae14ddea70a7fe5386f8b14.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue de Deir Al-Balah, dans le centre de la bande de Gaza, le 22 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdel Kareem Hana / AP Photo/Abdel Kareem Hana"
+      }
+    ],
+    "credit": "Abdel Kareem Hana / AP Photo/Abdel Kareem Hana"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T20:20:29.004155+00:00",
+  "_id": "4eef2fb57a1e",
+  "brut": {
+    "title": "L'état de santé du roi Harald de Norvège, âgé de 89 ans, s'est \"aggravé\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'état de santé du roi Harald de Norvège, âgé de 89 ans, s'est \"aggravé\""
+    },
+    "summary": "Monté sur le trône de Norvège en 1991, Harald connaît depuis plusieurs années de multiples problèmes de santé, mais il a toujours exclu d'abdiquer",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Monté sur le trône de Norvège en 1991, Harald connaît depuis plusieurs années de multiples problèmes de santé, mais il a toujours exclu d'abdiquer"
+    },
+    "published": "Sun, 23 Aug 2026 20:18:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      18,
+      18,
+      17,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/norvege/l-etat-de-sante-du-roi-harald-de-norvege-age-de-89-ans-s-est-aggrave_8158796.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/t9mlGhBuWlqArPKQd8U_b0OKsA4/0x60:1024x636/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b3948b35b5647593459.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/norvege/l-etat-de-sante-du-roi-harald-de-norvege-age-de-89-ans-s-est-aggrave_8158796.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/norvege/l-etat-de-sante-du-roi-harald-de-norvege-age-de-89-ans-s-est-aggrave_8158796.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

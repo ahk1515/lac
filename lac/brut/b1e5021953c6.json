@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-23T20:20:29.004296+00:00",
+  "_id": "b1e5021953c6",
+  "brut": {
+    "title": "Volodymyr Zelensky assure que l'Ukraine n'a pas pris part au sabotage du gazoduc Nord Stream",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Volodymyr Zelensky assure que l'Ukraine n'a pas pris part au sabotage du gazoduc Nord Stream"
+    },
+    "summary": "Le parquet allemand a conclu le mois dernier que les explosions sur cette canalisation en mer Baltique avaient été provoquées sur ordre de l'Etat ukrainien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parquet allemand a conclu le mois dernier que les explosions sur cette canalisation en mer Baltique avaient été provoquées sur ordre de l'Etat ukrainien."
+    },
+    "published": "Sun, 23 Aug 2026 20:07:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      23,
+      18,
+      7,
+      13,
+      6,
+      235,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-assure-que-l-ukraine-n-a-pas-pris-part-au-sabotage-du-gazoduc-nord-stream_8158781.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6Z32XIH9-iNg-eW0crY2J60a5wk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b367c5b77d125338643.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-assure-que-l-ukraine-n-a-pas-pris-part-au-sabotage-du-gazoduc-nord-stream_8158781.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-assure-que-l-ukraine-n-a-pas-pris-part-au-sabotage-du-gazoduc-nord-stream_8158781.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
