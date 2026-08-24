@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T04:42:10.539857+00:00",
+  "_id": "9e053fe09961",
+  "brut": {
+    "title": "Au Canada, le retour du front commun contre Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Canada, le retour du front commun contre Donald Trump"
+    },
+    "published": "Mon, 24 Aug 2026 05:00:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      3,
+      0,
+      25,
+      0,
+      236,
+      0
+    ],
+    "summary": "En réponse à de nouveaux droits de douane américains, après l’échec des discussions commerciales avec les Etats-Unis, Ottawa choisit la riposte. Cette nouvelle escalade ravive l’unité nationale autour de la défense de la souveraineté du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En réponse à de nouveaux droits de douane américains, après l’échec des discussions commerciales avec les Etats-Unis, Ottawa choisit la riposte. Cette nouvelle escalade ravive l’unité nationale autour de la défense de la souveraineté du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/24/au-canada-le-retour-du-front-commun-contre-donald-trump_6754775_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/24/au-canada-le-retour-du-front-commun-contre-donald-trump_6754775_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/24/au-canada-le-retour-du-front-commun-contre-donald-trump_6754775_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/23/486/0/5500/2750/644/322/60/0/76b82ce_ftp-1-fvdmr9jmx1oq-2026-08-23t214710z-279035158-rc2r3nahqyvu-rtrmadp-3-usa-trump-tariffs-canada.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre du Canada, Mark Carney, à Ottawa, le 22 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Chris Tanouye/REUTERS"
+      }
+    ],
+    "credit": "Chris Tanouye/REUTERS"
+  }
+}

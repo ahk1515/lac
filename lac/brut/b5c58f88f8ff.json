@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T04:42:10.539661+00:00",
+  "_id": "b5c58f88f8ff",
+  "brut": {
+    "title": "La GPA pour les étrangers aux Etats-Unis mise à mal par Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La GPA pour les étrangers aux Etats-Unis mise à mal par Donald Trump"
+    },
+    "published": "Mon, 24 Aug 2026 06:00:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      4,
+      0,
+      12,
+      0,
+      236,
+      0
+    ],
+    "summary": "Un récent décret supprime le droit à la citoyenneté pour les enfants nés après une gestation pour autrui lorsque les parents d’intention sont étrangers. Dans le viseur de Washington, les Chinois, qui sont les plus nombreux à avoir recours à cette pratique, devant les Français.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un récent décret supprime le droit à la citoyenneté pour les enfants nés après une gestation pour autrui lorsque les parents d’intention sont étrangers. Dans le viseur de Washington, les Chinois, qui sont les plus nombreux à avoir recours à cette pratique, devant les Français."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/24/la-gpa-pour-les-etrangers-aux-etats-unis-mise-a-mal-par-donald-trump_6754849_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/24/la-gpa-pour-les-etrangers-aux-etats-unis-mise-a-mal-par-donald-trump_6754849_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/24/la-gpa-pour-les-etrangers-aux-etats-unis-mise-a-mal-par-donald-trump_6754849_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/22/0/0/6400/3200/644/322/60/0/d664009_ftp-1-lt59w5tmmvdi-5892239-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, à Myrtle Beach, en Caroline du Sud, le 21 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAUL LOEB/AFP"
+      }
+    ],
+    "credit": "SAUL LOEB/AFP"
+  }
+}

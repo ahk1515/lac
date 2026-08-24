@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T04:42:10.539761+00:00",
+  "_id": "6a452b0dd99b",
+  "brut": {
+    "title": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris"
+    },
+    "published": "Mon, 24 Aug 2026 05:00:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      3,
+      0,
+      38,
+      0,
+      236,
+      0
+    ],
+    "summary": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses stars et personnalités politiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses stars et personnalités politiques."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/23/656/0/8000/4000/644/322/60/0/aecb61f_upload-1-2cgej8skbgq5-jmug260823031.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JULIEN MUGUET POUR « LE MONDE »"
+      }
+    ],
+    "credit": "JULIEN MUGUET POUR « LE MONDE »"
+  }
+}

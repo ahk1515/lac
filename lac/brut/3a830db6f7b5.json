@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T04:42:10.539953+00:00",
+  "_id": "3a830db6f7b5",
+  "brut": {
+    "title": "La crédibilité de la Fed, l’institution financière la plus puissante au monde, est en jeu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La crédibilité de la Fed, l’institution financière la plus puissante au monde, est en jeu"
+    },
+    "published": "Mon, 24 Aug 2026 05:00:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      3,
+      0,
+      24,
+      0,
+      236,
+      0
+    ],
+    "summary": "La Réserve fédérale américaine traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts sont mouvementés. Son discours à Jackson Hole, le 28 août, s’annonce crucial.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Réserve fédérale américaine traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts sont mouvementés. Son discours à Jackson Hole, le 28 août, s’annonce crucial."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/0/0/5318/2659/644/322/60/0/f904d89_ftp-1-linqlcpiryq5-2026-08-12t100044z-1908774413-rc2helalrcgt-rtrmadp-3-usa-fed-investors.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump et le nouveau président de la Fed, Kevin Warsh, à la Maison Blanche, à Washington, le 22 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jonathan Ernst/REUTERS"
+      }
+    ],
+    "credit": "Jonathan Ernst/REUTERS"
+  }
+}
