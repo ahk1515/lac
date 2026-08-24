@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-24T20:28:26.924463+00:00",
+  "_id": "31b436749219",
+  "brut": {
+    "title": "Incendie géant aux États-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendie géant aux États-Unis"
+    },
+    "summary": "Aux État-Unis, un incendie menace désormais Reno, une grande ville de près de 300.000 habitants, dans le nord-ouest du Nevada. Le gigantesque feu a déjà ravagé plus de 6.000 hectares et reste totalement hors de contrôle. Près de 90.000 personnes ont été évacuées ou doivent se tenir prêtes à partir. Attisé par des vents changeants, le feu continue de progresser vers des quartiers très peuplés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux État-Unis, un incendie menace désormais Reno, une grande ville de près de 300.000 habitants, dans le nord-ouest du Nevada. Le gigantesque feu a déjà ravagé plus de 6.000 hectares et reste totalement hors de contrôle. Près de 90.000 personnes ont été évacuées ou doivent se tenir prêtes à partir. Attisé par des vents changeants, le feu continue de progresser vers des quartiers très peuplés."
+    },
+    "published": "Mon, 24 Aug 2026 21:12:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      19,
+      12,
+      31,
+      0,
+      236,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-geant-aux-etats-unis_8160050.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6amRtUEi_UtCFIbzofdhDIpR5rM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/24/6a8c97836b34d478603157.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-geant-aux-etats-unis_8160050.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-geant-aux-etats-unis_8160050.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

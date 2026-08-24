@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T20:28:26.637468+00:00",
+  "_id": "5930ae3aae47",
+  "brut": {
+    "title": "Les Etats-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme"
+    },
+    "published": "Mon, 24 Aug 2026 21:01:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      19,
+      1,
+      47,
+      0,
+      236,
+      0
+    ],
+    "summary": "Le secrétaire d’Etat américain, Marco Rubio, avait expliqué que cette décision avait été prise après avoir reçu des « garanties formelles » de la part d’Ahmed Al-Charaa, ancien djihadiste devenu président de la Syrie, selon lesquelles « la Syrie ne soutiendra[it] pas d’actes de terrorisme international à l’avenir ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le secrétaire d’Etat américain, Marco Rubio, avait expliqué que cette décision avait été prise après avoir reçu des « garanties formelles » de la part d’Ahmed Al-Charaa, ancien djihadiste devenu président de la Syrie, selon lesquelles « la Syrie ne soutiendra[it] pas d’actes de terrorisme international à l’avenir »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_6755723_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_6755723_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_6755723_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/11/10/418/0/5017/2508/644/322/60/0/2d98a35_ftp-import-images-1-0u1scpeesutp-81c304022eab41678c72222476372b35-0-4e584837723e440ea915da8bbafd26c2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump et Ahmad Al-Charaa, à la Maison Blanche à Washington, le lundi 10 novembre 2025. Photo fournie par la présidence syrienne."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HOGP / AP"
+      }
+    ],
+    "credit": "HOGP / AP"
+  }
+}

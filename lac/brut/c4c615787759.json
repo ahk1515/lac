@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-24T20:28:26.924607+00:00",
+  "_id": "c4c615787759",
+  "brut": {
+    "title": "\"Il faisait tomber l'enfant et la mordait\" : un loup attaque deux touristes en Italie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Il faisait tomber l'enfant et la mordait\" : un loup attaque deux touristes en Italie"
+    },
+    "summary": "En Italie, dans la région des Pouilles, deux touristes allemandes ont été attaquées par un loup, jeudi 20 août. Un homme a tenté de le faire fuir. Tous trois ont été blessés. Plusieurs attaques auraient été recensées cet été dans la région.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, dans la région des Pouilles, deux touristes allemandes ont été attaquées par un loup, jeudi 20 août. Un homme a tenté de le faire fuir. Tous trois ont été blessés. Plusieurs attaques auraient été recensées cet été dans la région."
+    },
+    "published": "Mon, 24 Aug 2026 18:43:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      16,
+      43,
+      20,
+      0,
+      236,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/il-faisait-tomber-l-enfant-et-la-mordait-un-loup-attaque-deux-touristes-en-italie_8159939.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4RSU6k3sYbciPl5ljFtVB0icEQ4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/24/6a8c747ff17cd428274937.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/il-faisait-tomber-l-enfant-et-la-mordait-un-loup-attaque-deux-touristes-en-italie_8159939.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/il-faisait-tomber-l-enfant-et-la-mordait-un-loup-attaque-deux-touristes-en-italie_8159939.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

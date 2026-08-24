@@ -2,12 +2,12 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 318
+    "co_citations": 321
   },
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 253
+    "co_citations": 254
   },
   {
     "pays_a": "ISR",
@@ -17,7 +17,7 @@
   {
     "pays_a": "FRA",
     "pays_b": "RUS",
-    "co_citations": 57
+    "co_citations": 58
   },
   {
     "pays_a": "ISR",
@@ -25,14 +25,14 @@
     "co_citations": 40
   },
   {
-    "pays_a": "IRN",
-    "pays_b": "ISR",
+    "pays_a": "FRA",
+    "pays_b": "UKR",
     "co_citations": 39
   },
   {
-    "pays_a": "FRA",
-    "pays_b": "UKR",
-    "co_citations": 38
+    "pays_a": "IRN",
+    "pays_b": "ISR",
+    "co_citations": 39
   },
   {
     "pays_a": "FRA",
@@ -65,38 +65,38 @@
     "co_citations": 25
   },
   {
+    "pays_a": "FRA",
+    "pays_b": "GBR",
+    "co_citations": 21
+  },
+  {
     "pays_a": "TUR",
     "pays_b": "USA",
     "co_citations": 20
   },
   {
-    "pays_a": "FRA",
-    "pays_b": "GBR",
-    "co_citations": 20
-  },
-  {
     "pays_a": "DEU",
     "pays_b": "UKR",
-    "co_citations": 16
+    "co_citations": 17
   },
   {
     "pays_a": "DEU",
     "pays_b": "FRA",
-    "co_citations": 15
-  },
-  {
-    "pays_a": "FRA",
-    "pays_b": "ISR",
-    "co_citations": 15
+    "co_citations": 16
   },
   {
     "pays_a": "DEU",
     "pays_b": "RUS",
-    "co_citations": 15
+    "co_citations": 16
   },
   {
     "pays_a": "GBR",
     "pays_b": "UKR",
+    "co_citations": 16
+  },
+  {
+    "pays_a": "FRA",
+    "pays_b": "ISR",
     "co_citations": 15
   },
   {
@@ -150,23 +150,23 @@
     "co_citations": 9
   },
   {
+    "pays_a": "DEU",
+    "pays_b": "GBR",
+    "co_citations": 9
+  },
+  {
+    "pays_a": "GBR",
+    "pays_b": "RUS",
+    "co_citations": 8
+  },
+  {
     "pays_a": "IRN",
     "pays_b": "LBN",
     "co_citations": 8
   },
   {
-    "pays_a": "DEU",
-    "pays_b": "GBR",
-    "co_citations": 8
-  },
-  {
     "pays_a": "CAF",
     "pays_b": "FRA",
-    "co_citations": 7
-  },
-  {
-    "pays_a": "GBR",
-    "pays_b": "RUS",
     "co_citations": 7
   },
   {
