@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-24T08:45:43.838787+00:00",
+  "_id": "52100a1dc335",
+  "brut": {
+    "title": "Incendie au Nevada : 6 000 hectares ravagés, 42 000 personnes évacuées et l'état d'urgence déclaré",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incendie au Nevada : 6 000 hectares ravagés, 42 000 personnes évacuées et l'état d'urgence déclaré"
+    },
+    "summary": "Aux États-Unis dans le Nevada la ville de Reno est menacée par un incendie dévastateur depuis samedi 22 août. 6 000 hectares ont déjà été ravagés par le feu et 42 000 personnes ont été évacuées. L’État d’urgence a été déclaré.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis dans le Nevada la ville de Reno est menacée par un incendie dévastateur depuis samedi 22 août. 6 000 hectares ont déjà été ravagés par le feu et 42 000 personnes ont été évacuées. L’État d’urgence a été déclaré."
+    },
+    "published": "Mon, 24 Aug 2026 10:01:00 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      8,
+      1,
+      0,
+      0,
+      236,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/incendie-au-nevada-6-000-hectares-ravages-42-000-personnes-evacuees-et-l-etat-d-urgence-declare_8159291.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/o1EnYcxWimirjX00_hxlHojsqE0/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8bf7c0ac04d615608104.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/incendie-au-nevada-6-000-hectares-ravages-42-000-personnes-evacuees-et-l-etat-d-urgence-declare_8159291.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/incendie-au-nevada-6-000-hectares-ravages-42-000-personnes-evacuees-et-l-etat-d-urgence-declare_8159291.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

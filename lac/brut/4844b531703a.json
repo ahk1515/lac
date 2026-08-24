@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T08:45:43.616491+00:00",
+  "_id": "4844b531703a",
+  "brut": {
+    "title": "Esports World Cup : Emmanuel Macron et le prince saoudien côte à côte lors de la cérémonie de clôture",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Esports World Cup : Emmanuel Macron et le prince saoudien côte à côte lors de la cérémonie de clôture"
+    },
+    "published": "Mon, 24 Aug 2026 09:49:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      7,
+      49,
+      2,
+      0,
+      236,
+      0
+    ],
+    "summary": "Organisé au Grand Palais, à Paris, l’événement s’est achevé le 23 août 2026 après sept semaines de compétition. Il a rassemblé des stars et des personnalités politiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Organisé au Grand Palais, à Paris, l’événement s’est achevé le 23 août 2026 après sept semaines de compétition. Il a rassemblé des stars et des personnalités politiques."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/24/esports-world-cup-emmanuel-macron-et-le-prince-saoudien-cote-a-cote-lors-de-la-ceremonie-de-cloture_6755127_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/24/esports-world-cup-emmanuel-macron-et-le-prince-saoudien-cote-a-cote-lors-de-la-ceremonie-de-cloture_6755127_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/24/esports-world-cup-emmanuel-macron-et-le-prince-saoudien-cote-a-cote-lors-de-la-ceremonie-de-cloture_6755127_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/597/0/3606/1803/644/322/60/0/490b809_ftp-1-w679wf8enrey-2026-08-24t040751z-493691781-rc2l4na3t642-rtrmadp-3-saudi-france.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bandar Algaloud/Courtesy of Saud / via REUTERS"
+      }
+    ],
+    "credit": "Bandar Algaloud/Courtesy of Saud / via REUTERS"
+  }
+}

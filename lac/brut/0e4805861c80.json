@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-24T08:45:43.839210+00:00",
+  "_id": "0e4805861c80",
+  "brut": {
+    "title": "Gaza : des frappes israéliennes ont tué trois personnes, dont un enfant de 4 ans, selon les secours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Gaza : des frappes israéliennes ont tué trois personnes, dont un enfant de 4 ans, selon les secours"
+    },
+    "summary": "Dimanche 23 août, des frappes israéliennes dans le centre de la bande de Gaza ont fait trois morts, dont un enfant de 4 ans, selon la défense civile. De son côté, Tsahal a déclaré avoir visé un terroriste.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dimanche 23 août, des frappes israéliennes dans le centre de la bande de Gaza ont fait trois morts, dont un enfant de 4 ans, selon la défense civile. De son côté, Tsahal a déclaré avoir visé un terroriste."
+    },
+    "published": "Mon, 24 Aug 2026 09:11:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      7,
+      11,
+      18,
+      0,
+      236,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/gaza-des-frappes-israeliennes-ont-tue-trois-personnes-dont-un-enfant-de-4-ans-selon-les-secours_8159240.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GGWzVokcnH9_t4Nv0BvvJxku-To/26x0:1059x581/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8bedbb855b9020181038.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/gaza-des-frappes-israeliennes-ont-tue-trois-personnes-dont-un-enfant-de-4-ans-selon-les-secours_8159240.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/gaza-des-frappes-israeliennes-ont-tue-trois-personnes-dont-un-enfant-de-4-ans-selon-les-secours_8159240.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

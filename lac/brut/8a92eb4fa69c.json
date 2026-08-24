@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-24T08:45:43.839670+00:00",
+  "_id": "8a92eb4fa69c",
+  "brut": {
+    "title": "Une fête de l'indépendance sous tension en Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une fête de l'indépendance sous tension en Ukraine"
+    },
+    "summary": "Lundi 24 août, l'Ukraine célèbre sa journée de l'indépendance alors que son président Volodymyr Zelensky est secoué par les déclarations de son ancien ministre de la Défense, Mikhaïlo Fedorov, qui appelle à organiser des élections malgré la guerre contre la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Lundi 24 août, l'Ukraine célèbre sa journée de l'indépendance alors que son président Volodymyr Zelensky est secoué par les déclarations de son ancien ministre de la Défense, Mikhaïlo Fedorov, qui appelle à organiser des élections malgré la guerre contre la Russie."
+    },
+    "published": "Mon, 24 Aug 2026 08:46:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      6,
+      46,
+      19,
+      0,
+      236,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-fete-de-l-independance-sous-tension-en-ukraine_8159219.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/tm1VLf6vT4jflWe7kqjC9a9yLrA/0x7:1107x630/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8be7f8a9533317001807.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-fete-de-l-independance-sous-tension-en-ukraine_8159219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-fete-de-l-independance-sous-tension-en-ukraine_8159219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

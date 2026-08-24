@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T08:45:43.616855+00:00",
+  "_id": "ea39eeb598b9",
+  "brut": {
+    "title": "En images : Oulan-Bator, ville transformée par l’exode rural, où la jeunesse cherche encore sa place",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En images : Oulan-Bator, ville transformée par l’exode rural, où la jeunesse cherche encore sa place"
+    },
+    "published": "Mon, 24 Aug 2026 07:35:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      5,
+      35,
+      4,
+      0,
+      236,
+      0
+    ],
+    "summary": "Alors que la capitale mongole accueille la 17ᵉ Conférence des Nations Unies sur la désertification (COP17) depuis le 17 août, « Le Monde » publie le travail du photographe Odhran Dunne, qui, en 2025, s’est intéressé à cette ville en mutation et a dressé le portrait de sa jeunesse, interrogeant ses aspirations et sa mémoire des steppes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que la capitale mongole accueille la 17ᵉ Conférence des Nations Unies sur la désertification (COP17) depuis le 17 août, « Le Monde » publie le travail du photographe Odhran Dunne, qui, en 2025, s’est intéressé à cette ville en mutation et a dressé le portrait de sa jeunesse, interrogeant ses aspirations et sa mémoire des steppes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/24/en-images-oulan-bator-ville-transformee-par-l-exode-rural-ou-la-jeunesse-cherche-encore-sa-place_6754922_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/24/en-images-oulan-bator-ville-transformee-par-l-exode-rural-ou-la-jeunesse-cherche-encore-sa-place_6754922_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/24/en-images-oulan-bator-ville-transformee-par-l-exode-rural-ou-la-jeunesse-cherche-encore-sa-place_6754922_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/29/1335/0/2004/1002/644/322/60/0/5df8ffe_upload-1-gglsc1a8v2az-khavar-pf-le-monde-odhran-dunne02.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un parc au sud d’Oulan-Bator, le 27 avril 2025. Au loin se dressent les nouveaux quartiers destinés aux plus aisés, puis le centre plus modeste, et enfin, au fond, les zones périphériques de yourtes, où vivent les populations les plus pauvres."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Odhran Dunne/Archipel"
+      }
+    ],
+    "credit": "Odhran Dunne/Archipel"
+  }
+}
