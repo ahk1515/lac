@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T16:35:11.277571+00:00",
+  "_id": "e5d2c8d088e5",
+  "brut": {
+    "title": "Deux casques bleus tués dans une embuscade au Soudan du Sud, selon l’ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux casques bleus tués dans une embuscade au Soudan du Sud, selon l’ONU"
+    },
+    "published": "Mon, 24 Aug 2026 16:05:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      14,
+      5,
+      58,
+      0,
+      236,
+      0
+    ],
+    "updated": "Mon, 24 Aug 2026 17:27:49 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      24,
+      15,
+      27,
+      49,
+      0,
+      236,
+      0
+    ],
+    "summary": "Les deux soldats de la Minuss ont été tués dans une « embuscade tendue par des individus armés non identifiés » dans l’Etat de Jonglei, où les combats entre forces gouvernementales et milices d’opposition se sont intensifiés ces derniers mois. L’ONU n’a pas précisé leur nationalité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les deux soldats de la Minuss ont été tués dans une « embuscade tendue par des individus armés non identifiés » dans l’Etat de Jonglei, où les combats entre forces gouvernementales et milices d’opposition se sont intensifiés ces derniers mois. L’ONU n’a pas précisé leur nationalité."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/24/deux-casques-bleus-tues-dans-une-embuscade-au-soudan-du-sud-selon-l-onu_6755472_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/24/deux-casques-bleus-tues-dans-une-embuscade-au-soudan-du-sud-selon-l-onu_6755472_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/24/deux-casques-bleus-tues-dans-une-embuscade-au-soudan-du-sud-selon-l-onu_6755472_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/128/0/5000/2500/644/322/60/0/13f3d79_upload-1-lbgfuac181rl-000-97ur4d9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des casques bleus indiens de la Mission des Nations unies au Soudan du Sud (Minuss) patrouillent près d’une piste d’atterrissage à Akobo, dans l’Etat de Jonglei, le 12 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUIS TATO/AFP"
+      }
+    ],
+    "credit": "LUIS TATO/AFP"
+  }
+}

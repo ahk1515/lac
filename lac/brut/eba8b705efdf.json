@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-24T16:35:11.277750+00:00",
+  "_id": "eba8b705efdf",
+  "brut": {
+    "title": "Ebola : six membres de la Croix-Rouge blessés la semaine dernière dans des attaques en République démocratique du Congo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola : six membres de la Croix-Rouge blessés la semaine dernière dans des attaques en République démocratique du Congo"
+    },
+    "published": "Mon, 24 Aug 2026 15:24:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      13,
+      24,
+      55,
+      0,
+      236,
+      0
+    ],
+    "summary": "Les organisations impliquées dans la riposte à l’épidémie évoluent dans une région particulièrement troublée, où une myriade de groupes armés sont actifs et commettent des massacres en toute impunité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les organisations impliquées dans la riposte à l’épidémie évoluent dans une région particulièrement troublée, où une myriade de groupes armés sont actifs et commettent des massacres en toute impunité."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/24/ebola-six-membres-de-la-croix-rouge-blesses-la-semaine-derniere-dans-des-attaques-en-republique-democratique-du-congo_6755436_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/24/ebola-six-membres-de-la-croix-rouge-blesses-la-semaine-derniere-dans-des-attaques-en-republique-democratique-du-congo_6755436_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/24/ebola-six-membres-de-la-croix-rouge-blesses-la-semaine-derniere-dans-des-attaques-en-republique-democratique-du-congo_6755436_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/09/649/0/5500/2750/644/322/60/0/25ae74b_ftp-1-h2q6jsyeiwuy-2026-06-09t201754z-729318552-rc2odlagypgl-rtrmadp-3-health-ebola-usa-eu.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des bénévoles de la Croix-Rouge, à l’hôpital général du Rwampara, en République démocratique du Congo, le 21 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gradel Muyisa Mumbere/REUTERS"
+      }
+    ],
+    "credit": "Gradel Muyisa Mumbere/REUTERS"
+  }
+}
