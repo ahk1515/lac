@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T04:36:56.861897+00:00",
+  "_id": "01bec726f070",
+  "brut": {
+    "title": "Etats-Unis : un touriste français meurt sous 47 °C dans la Vallée de la mort",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Etats-Unis : un touriste français meurt sous 47 °C dans la Vallée de la mort"
+    },
+    "published": "Tue, 25 Aug 2026 04:23:58 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      2,
+      23,
+      58,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 04:31:35 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      2,
+      31,
+      35,
+      1,
+      237,
+      0
+    ],
+    "summary": "Le véhicule que Pierre Michel Formosa, 68 ans, conduisait s’était enlisé dans la boue, et le randonneur était parti à pied chercher de l’aide. Il a été déclaré mort sur place.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le véhicule que Pierre Michel Formosa, 68 ans, conduisait s’était enlisé dans la boue, et le randonneur était parti à pied chercher de l’aide. Il a été déclaré mort sur place."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/etats-unis-un-touriste-francais-meurt-sous-47-c-dans-la-vallee-de-la-mort_6755988_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/etats-unis-un-touriste-francais-meurt-sous-47-c-dans-la-vallee-de-la-mort_6755988_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/etats-unis-un-touriste-francais-meurt-sous-47-c-dans-la-vallee-de-la-mort_6755988_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/302/0/5000/2500/644/322/60/0/b96a691_upload-1-icrrq63dfwi4-000-363a7jz.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un touriste traverse les Mesquite Flat Sand Dunes dans le parc national de la Vallée de la mort, en Californie, le 7 juillet 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ETIENNE LAURENT/AFP"
+      }
+    ],
+    "credit": "ETIENNE LAURENT/AFP"
+  }
+}

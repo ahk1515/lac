@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T04:36:56.861719+00:00",
+  "_id": "7c013d58b5b8",
+  "brut": {
+    "title": "Les Européens condamnent la stratégie de la terreur russe en Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Européens condamnent la stratégie de la terreur russe en Ukraine"
+    },
+    "published": "Tue, 25 Aug 2026 05:00:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      3,
+      0,
+      9,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 05:14:58 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      3,
+      14,
+      58,
+      1,
+      237,
+      0
+    ],
+    "summary": "Réunis, lundi, autour de Volodymyr Zelensky pour une conférence de la coalition des volontaires, les dirigeants du Vieux Continent ont réitéré leurs marques de soutien, militaires et financières, à Kiev, et dénoncé l’intensification des frappes de la Russie contre les civils.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Réunis, lundi, autour de Volodymyr Zelensky pour une conférence de la coalition des volontaires, les dirigeants du Vieux Continent ont réitéré leurs marques de soutien, militaires et financières, à Kiev, et dénoncé l’intensification des frappes de la Russie contre les civils."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/les-europeens-condamnent-la-strategie-de-la-terreur-russe-en-ukraine_6756021_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/les-europeens-condamnent-la-strategie-de-la-terreur-russe-en-ukraine_6756021_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/les-europeens-condamnent-la-strategie-de-la-terreur-russe-en-ukraine_6756021_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/308/0/4713/2356/644/322/60/0/35c2189_ftp-1-pehn42rmeqot-0e647e9107834c59ab922bec3fdea9d6-0-a93ee0009d764563937719c867d71924.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre britannique, Andy Burnham, et le président ukrainien, Volodymyr Zelensky, à Kiev, le 24 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP"
+  }
+}

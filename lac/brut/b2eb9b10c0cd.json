@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T04:36:56.860905+00:00",
+  "_id": "b2eb9b10c0cd",
+  "brut": {
+    "title": "En Iran, le lent effondrement du pouvoir d’achat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Iran, le lent effondrement du pouvoir d’achat"
+    },
+    "published": "Tue, 25 Aug 2026 06:30:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      4,
+      30,
+      11,
+      1,
+      237,
+      0
+    ],
+    "summary": "Alors que Washington renforce sa pression sur Téhéran, le rial, la monnaie iranienne, poursuit sa chute et les inquiétudes gagnent les marchés. Mais derrière les mauvaises statistiques économiques, ce sont surtout les ménages qui absorbent le choc, en réduisant leur consommation, leur épargne et leurs dépenses essentielles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que Washington renforce sa pression sur Téhéran, le rial, la monnaie iranienne, poursuit sa chute et les inquiétudes gagnent les marchés. Mais derrière les mauvaises statistiques économiques, ce sont surtout les ménages qui absorbent le choc, en réduisant leur consommation, leur épargne et leurs dépenses essentielles."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/en-iran-le-lent-effondrement-du-pouvoir-d-achat_6756195_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/en-iran-le-lent-effondrement-du-pouvoir-d-achat_6756195_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/en-iran-le-lent-effondrement-du-pouvoir-d-achat_6756195_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/290/0/3755/1877/644/322/60/0/add201e_ftp-1-wtflfwfjhu4o-5910557-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur un marché de Téhéran, le 24 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}
