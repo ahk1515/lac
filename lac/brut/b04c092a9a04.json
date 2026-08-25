@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T08:39:37.643421+00:00",
+  "_id": "b04c092a9a04",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie a attaqué l’Ukraine avec 150 drones et deux missiles au cours de la nuit, annonce l’armée ukrainienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie a attaqué l’Ukraine avec 150 drones et deux missiles au cours de la nuit, annonce l’armée ukrainienne"
+    },
+    "published": "Tue, 25 Aug 2026 06:57:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      4,
+      57,
+      30,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 09:49:00 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      7,
+      49,
+      0,
+      1,
+      237,
+      0
+    ],
+    "summary": "Deux personnes ont été tuées par une bombe guidée à Zaporijia, dans le sud de l’Ukraine, a fait savoir le chef de l’administration militaire locale, Ivan Fedorov.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux personnes ont été tuées par une bombe guidée à Zaporijia, dans le sud de l’Ukraine, a fait savoir le chef de l’administration militaire locale, Ivan Fedorov."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-deux-morts-et-une-raffinerie-en-feu-pres-de-krasnodar-en-russie-apres-une-attaque-ukrainienne-de-drones_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-deux-morts-et-une-raffinerie-en-feu-pres-de-krasnodar-en-russie-apres-une-attaque-ukrainienne-de-drones_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-deux-morts-et-une-raffinerie-en-feu-pres-de-krasnodar-en-russie-apres-une-attaque-ukrainienne-de-drones_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/200/0/1600/800/644/322/60/0/02a66e5_ftp-1-ozodrnt0r297-2026-08-25t063048z-37822380-rc2i5naaihjc-rtrmadp-3-ukraine-crisis-attack-dnipro.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un centre commercial détruit à la suite d’une attaque de drones russes, à Dnipro (Ukraine), le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service ukrainien des situations d’urgence/Reuters"
+      }
+    ],
+    "credit": "Service ukrainien des situations d’urgence/Reuters"
+  }
+}

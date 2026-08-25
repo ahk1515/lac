@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T08:39:37.643060+00:00",
+  "_id": "ab22553d202d",
+  "brut": {
+    "title": "Comment Israël mène la guerre de l’information, entre « incrimination rétrospective », censure et manipulation des IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comment Israël mène la guerre de l’information, entre « incrimination rétrospective », censure et manipulation des IA"
+    },
+    "published": "Tue, 25 Aug 2026 09:00:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      7,
+      0,
+      4,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 10:01:24 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      8,
+      1,
+      24,
+      1,
+      237,
+      0
+    ],
+    "summary": "Un an après le bombardement de l’hôpital Nasser, qui avait tué vingt-deux personnes dont cinq journalistes dans le sud de la bande de Gaza, un militaire israélien a décrit à plusieurs médias, dont « Le Monde », la façon dont l’armée de l’Etat hébreu cherche par tous les moyens à relier les victimes d’une frappe au Hamas.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un an après le bombardement de l’hôpital Nasser, qui avait tué vingt-deux personnes dont cinq journalistes dans le sud de la bande de Gaza, un militaire israélien a décrit à plusieurs médias, dont « Le Monde », la façon dont l’armée de l’Etat hébreu cherche par tous les moyens à relier les victimes d’une frappe au Hamas."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/comment-israel-mene-la-guerre-de-l-information-entre-incrimination-retrospective-censure-et-financement-de-contenus-destines-a-influencer-les-ia_6756298_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/comment-israel-mene-la-guerre-de-l-information-entre-incrimination-retrospective-censure-et-financement-de-contenus-destines-a-influencer-les-ia_6756298_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/comment-israel-mene-la-guerre-de-l-information-entre-incrimination-retrospective-censure-et-financement-de-contenus-destines-a-influencer-les-ia_6756298_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/73/0/2308/1154/644/322/60/0/7dc1bd6_upload-1-ei8q1ccyg9vx-2025-09-11t200356z-1462139737-rc2aega7lav3-rtrmadp-3-israel-palestinians-gaza-journalists.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un homme tient le matériel utilisé par le caméraman de Reuters Hussam Al-Masri sur le lieu où celui-ci a été tué, ainsi que d’autres journalistes et des civils, lors de frappes israéliennes contre l’hôpital Nasser, à Khan Younès, dans le sud de la bande de Gaza. Cette image est extraite d’une vidéo tournée par le photographe de Reuters, Hatem Khaled, qui a été blessé peu après lors d’une autre frappe alors qu’il filmait les lieux, le 25 août 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hatem Khaled/REUTERS"
+      }
+    ],
+    "credit": "Hatem Khaled/REUTERS"
+  }
+}

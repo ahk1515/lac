@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T08:39:37.823318+00:00",
+  "_id": "9c24d678f2ba",
+  "brut": {
+    "title": "Allemagne : un chat ouvre un robinet en l'absence de sa propriétaire et provoque une inondation dans un immeuble",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Allemagne : un chat ouvre un robinet en l'absence de sa propriétaire et provoque une inondation dans un immeuble"
+    },
+    "summary": "Ce chat \"n'aura pas à répondre de poursuites pénales pour dégradation de biens\", précise la police de Baden-Baden.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce chat \"n'aura pas à répondre de poursuites pénales pour dégradation de biens\", précise la police de Baden-Baden."
+    },
+    "published": "Tue, 25 Aug 2026 08:21:56 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      6,
+      21,
+      56,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-un-chat-ouvre-un-robinet-en-l-absence-de-sa-proprietaire-et-provoque-une-inondation-dans-un-immeuble_8160479.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/I1h7YR8Tu2dvMAUjjyw6LAfQreA/0x391:7513x4618/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8d346b28c2d206855152.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-un-chat-ouvre-un-robinet-en-l-absence-de-sa-proprietaire-et-provoque-une-inondation-dans-un-immeuble_8160479.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-un-chat-ouvre-un-robinet-en-l-absence-de-sa-proprietaire-et-provoque-une-inondation-dans-un-immeuble_8160479.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

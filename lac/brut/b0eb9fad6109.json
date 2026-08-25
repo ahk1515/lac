@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T08:39:37.643240+00:00",
+  "_id": "b0eb9fad6109",
+  "brut": {
+    "title": "Incendie dans le Nevada : le feu progresse vers Reno, l’une des principales villes de cet Etat de l’ouest des Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Incendie dans le Nevada : le feu progresse vers Reno, l’une des principales villes de cet Etat de l’ouest des Etats-Unis"
+    },
+    "published": "Tue, 25 Aug 2026 08:26:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      6,
+      26,
+      1,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 10:33:57 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      8,
+      33,
+      57,
+      1,
+      237,
+      0
+    ],
+    "summary": "Environ 24 000 personnes étaient encore soumises à un ordre d’évacuation lundi, alors que le Hawk Fire continue de gagner du terrain. Des équipes venues d’Australie et de Nouvelle-Zélande prêtent main-forte aux pompiers locaux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Environ 24 000 personnes étaient encore soumises à un ordre d’évacuation lundi, alors que le Hawk Fire continue de gagner du terrain. Des équipes venues d’Australie et de Nouvelle-Zélande prêtent main-forte aux pompiers locaux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/aux-etats-unis-des-dizaines-de-milliers-de-personnes-evacuees-en-raison-d-un-feu-de-foret-dans-le-nevada_6756263_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/aux-etats-unis-des-dizaines-de-milliers-de-personnes-evacuees-en-raison-d-un-feu-de-foret-dans-le-nevada_6756263_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/aux-etats-unis-des-dizaines-de-milliers-de-personnes-evacuees-en-raison-d-un-feu-de-foret-dans-le-nevada_6756263_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/404/0/5694/2847/644/322/60/0/3021f98_ftp-1-o8ra7dnhuskq-2026-08-25t015439z-1662185284-rc2d5nalsy4j-rtrmadp-3-usa-wildfire-nevada.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les restes d’un véhicule incendié lors du feu Hawk à Reno, dans le Nevada (Etats-Unis), le 24 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fred Greaves/REUTERS"
+      }
+    ],
+    "credit": "Fred Greaves/REUTERS"
+  }
+}

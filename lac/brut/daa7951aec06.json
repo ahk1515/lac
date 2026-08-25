@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T08:39:37.823499+00:00",
+  "_id": "daa7951aec06",
+  "brut": {
+    "title": "REPORTAGE. Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire"
+    },
+    "summary": "Après trois jours à Paris, puis Lourdes, le pape Léon XIV ira à Metz fin septembre pour prononcer un discours de paix pour l'Europe. C'est un événement sans précédent pour la ville mosellane, qui se prépare à accueillir des dizaines de milliers de catholiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après trois jours à Paris, puis Lourdes, le pape Léon XIV ira à Metz fin septembre pour prononcer un discours de paix pour l'Europe. C'est un événement sans précédent pour la ville mosellane, qui se prépare à accueillir des dizaines de milliers de catholiques."
+    },
+    "published": "Tue, 25 Aug 2026 07:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      5,
+      0,
+      2,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HvBcIby9x8ZdeQEDomuGDNPJV-4/0x449:4300x2868/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c2f6bb5d24428190474.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
