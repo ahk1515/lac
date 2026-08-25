@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T16:35:26.946785+00:00",
+  "_id": "ce071d079f53",
+  "brut": {
+    "title": "Un vol direct reliera pour la première fois Marseille à New York à partir de juin 2027",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un vol direct reliera pour la première fois Marseille à New York à partir de juin 2027"
+    },
+    "summary": "Marseille et New York pourront ainsi être reliées en huit heures, avec une liaison quotidienne sans escale. Pour l'instant, cette liaison est prévue jusqu'en octobre 2027, indique mardi ICI Provence.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Marseille et New York pourront ainsi être reliées en huit heures, avec une liaison quotidienne sans escale. Pour l'instant, cette liaison est prévue jusqu'en octobre 2027, indique mardi ICI Provence."
+    },
+    "published": "Tue, 25 Aug 2026 15:56:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      13,
+      56,
+      23,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/tourisme/un-vol-direct-reliera-pour-la-premiere-fois-marseille-a-new-york-a-partir-de-juin-2027_8160938.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YOHkXzYT0jM5d6FOOXUgmU4S9fc/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8d9e648cc39545125248.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/tourisme/un-vol-direct-reliera-pour-la-premiere-fois-marseille-a-new-york-a-partir-de-juin-2027_8160938.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/tourisme/un-vol-direct-reliera-pour-la-premiere-fois-marseille-a-new-york-a-partir-de-juin-2027_8160938.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

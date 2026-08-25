@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T16:35:26.556148+00:00",
+  "_id": "a42c57f709fb",
+  "brut": {
+    "title": "Guinée : éboulement meurtrier d’une décharge à Conakry",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guinée : éboulement meurtrier d’une décharge à Conakry"
+    },
+    "published": "Tue, 25 Aug 2026 15:07:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      13,
+      7,
+      57,
+      1,
+      237,
+      0
+    ],
+    "summary": "La catastrophe, survenue après de fortes pluies, a fait au moins 31 morts et 22 blessés, selon le dernier bilan des autorités. Un précédent bilan annoncé par le gouvernement dimanche faisait état de 30 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La catastrophe, survenue après de fortes pluies, a fait au moins 31 morts et 22 blessés, selon le dernier bilan des autorités. Un précédent bilan annoncé par le gouvernement dimanche faisait état de 30 morts."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/25/guinee-eboulement-meurtrier-d-une-decharge-a-conakry_6756582_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/25/guinee-eboulement-meurtrier-d-une-decharge-a-conakry_6756582_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/25/guinee-eboulement-meurtrier-d-une-decharge-a-conakry_6756582_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/458/0/5500/2750/644/322/60/0/1ca7037_ftp-1-btlqpmncmltg-2026-08-24t200243z-721883308-rc235naz2377-rtrmadp-3-guinea-landslide.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes fouillent une décharge au lendemain d’un glissement de terrain provoqué par de fortes pluies, qui a fait des victimes dans le quartier de Dar es Salam à Conakry (Guinée), le 24 août 2026. REUTERS/Souleymane Camara"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Souleymane Camara / REUTERS"
+      }
+    ],
+    "credit": "Souleymane Camara / REUTERS"
+  }
+}

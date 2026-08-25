@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T16:35:26.947840+00:00",
+  "_id": "35dc5cc62bfd",
+  "brut": {
+    "title": "Le Rhin bientôt à sec ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Rhin bientôt à sec ?"
+    },
+    "summary": "Le Rhin bientôt à sec ? Le niveau de l'eau est si bas qu'à certains endroits d’immenses bancs de galets sont désormais visibles. Une situation spectaculaire, mais aux conséquences bien concrètes : le bac entre la France et l’Allemagne est à l’arrêt et le transport fluvial fortement ralenti.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Rhin bientôt à sec ? Le niveau de l'eau est si bas qu'à certains endroits d’immenses bancs de galets sont désormais visibles. Une situation spectaculaire, mais aux conséquences bien concrètes : le bac entre la France et l’Allemagne est à l’arrêt et le transport fluvial fortement ralenti."
+    },
+    "published": "Tue, 25 Aug 2026 14:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      12,
+      0,
+      1,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-rhin-bientot-a-sec_8160791.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QfInsEKNDMo5SMwFH85Jpdr2_sk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/25/6a8d73f23ae3c320052246.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-rhin-bientot-a-sec_8160791.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-rhin-bientot-a-sec_8160791.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

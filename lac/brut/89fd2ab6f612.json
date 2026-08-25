@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T16:35:26.555993+00:00",
+  "_id": "89fd2ab6f612",
+  "brut": {
+    "title": "Cisjordanie occupée : des journalistes de l’Agence France-Presse attaqués par des colons israéliens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cisjordanie occupée : des journalistes de l’Agence France-Presse attaqués par des colons israéliens"
+    },
+    "published": "Tue, 25 Aug 2026 15:15:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      13,
+      15,
+      4,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 15:17:35 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      13,
+      17,
+      35,
+      1,
+      237,
+      0
+    ],
+    "summary": "Les journalistes s’étaient rendus dans un village près de Bethléem pour rencontrer des militants israéliens organisant des visites solidaires auprès de Palestiniens harcelés par des colons israéliens, qui ont récemment bloqué une route dans la région.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les journalistes s’étaient rendus dans un village près de Bethléem pour rencontrer des militants israéliens organisant des visites solidaires auprès de Palestiniens harcelés par des colons israéliens, qui ont récemment bloqué une route dans la région."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/cisjordanie-occupee-des-journalistes-de-l-agence-france-presse-attaques-par-des-colons-israeliens_6756583_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/cisjordanie-occupee-des-journalistes-de-l-agence-france-presse-attaques-par-des-colons-israeliens_6756583_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/cisjordanie-occupee-des-journalistes-de-l-agence-france-presse-attaques-par-des-colons-israeliens_6756583_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/489/0/8063/4031/644/322/60/0/194068e_ftp-1-8itu8qgjubck-5916251-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats israéliens interviennent lors d’un affrontement entre des colons et des militants de gauche israéliens, dans le village de Jannatah, en Cisjordanie occupée, le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ILIA YEFIMOVICH/AFP"
+      }
+    ],
+    "credit": "ILIA YEFIMOVICH/AFP"
+  }
+}

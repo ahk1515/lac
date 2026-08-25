@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T16:35:26.554202+00:00",
+  "_id": "e721b67097c0",
+  "brut": {
+    "title": "Vidéo | Gaza : un militaire dévoile comment Israël a tenté de construire son récit lors du bombardement de l’hôpital Nasser",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vidéo | Gaza : un militaire dévoile comment Israël a tenté de construire son récit lors du bombardement de l’hôpital Nasser"
+    },
+    "published": "Tue, 25 Aug 2026 18:04:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      16,
+      4,
+      45,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 18:30:00 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      16,
+      30,
+      0,
+      1,
+      237,
+      0
+    ],
+    "summary": "« Le Monde » et plusieurs médias internationaux ont pu recueillir le témoignage rare d’un militaire de l’armée israélienne, un an après le bombardement de l’hôpital Nasser, qui avait tué vingt-deux personnes dont cinq journalistes dans le sud de la bande de Gaza.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le Monde » et plusieurs médias internationaux ont pu recueillir le témoignage rare d’un militaire de l’armée israélienne, un an après le bombardement de l’hôpital Nasser, qui avait tué vingt-deux personnes dont cinq journalistes dans le sud de la bande de Gaza."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/video/2026/08/25/gaza-un-militaire-devoile-comment-israel-a-tente-de-construire-son-recit-lors-du-bombardement-de-l-hopital-nasser_6756606_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/video/2026/08/25/gaza-un-militaire-devoile-comment-israel-a-tente-de-construire-son-recit-lors-du-bombardement-de-l-hopital-nasser_6756606_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/video/2026/08/25/gaza-un-militaire-devoile-comment-israel-a-tente-de-construire-son-recit-lors-du-bombardement-de-l-hopital-nasser_6756606_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/60/0/1920/960/644/322/60/0/66998ce_upload-1-azyzyyjebvqf-media-d-appel-israel.png"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Le Monde"
+      }
+    ],
+    "credit": "Le Monde"
+  }
+}

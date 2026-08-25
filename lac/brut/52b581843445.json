@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T16:35:26.947712+00:00",
+  "_id": "52b581843445",
+  "brut": {
+    "title": "Haïti : une quarantaine de personnes tuées lors d'une attaque menée par des gangs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Haïti : une quarantaine de personnes tuées lors d'une attaque menée par des gangs"
+    },
+    "summary": "Une quarantaine de personnes ont été tuées lors d'une attaque menée dans la nuit du dimanche 23 au lundi 24 août par des membres de gangs armés à Kenscoff, dans les hauteurs de Port-au-Prince, en Haïti. A la suite de ce drame, les autorités annoncent l'envoi de renforts pour rétablir la sécurité dans la zone.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une quarantaine de personnes ont été tuées lors d'une attaque menée dans la nuit du dimanche 23 au lundi 24 août par des membres de gangs armés à Kenscoff, dans les hauteurs de Port-au-Prince, en Haïti. A la suite de ce drame, les autorités annoncent l'envoi de renforts pour rétablir la sécurité dans la zone."
+    },
+    "published": "Tue, 25 Aug 2026 14:56:21 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      12,
+      56,
+      21,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ameriques/haiti-une-quarantaine-de-personnes-tuees-lors-d-une-attaque-menee-par-des-gangs_8160911.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zC42CAF--3ue2SLPipQ_13Sfgc8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/25/6a8d90f12b749147585573.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ameriques/haiti-une-quarantaine-de-personnes-tuees-lors-d-une-attaque-menee-par-des-gangs_8160911.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ameriques/haiti-une-quarantaine-de-personnes-tuees-lors-d-une-attaque-menee-par-des-gangs_8160911.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

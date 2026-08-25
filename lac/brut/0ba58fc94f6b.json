@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T16:35:26.947326+00:00",
+  "_id": "0ba58fc94f6b",
+  "brut": {
+    "title": "Des journalistes de l'AFP agressés par des colons israéliens près de Bethléem en Cisjordanie occupée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des journalistes de l'AFP agressés par des colons israéliens près de Bethléem en Cisjordanie occupée"
+    },
+    "summary": "Un journaliste a été frappé au menton avec un bâton et les véhicules de l'agence ont été endommagés. Au total, au moins cinq personnes ont été blessées lors des affrontements, survenus alors que les journalistes suivaient des militants venus soutenir des Palestiniens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un journaliste a été frappé au menton avec un bâton et les véhicules de l'agence ont été endommagés. Au total, au moins cinq personnes ont été blessées lors des affrontements, survenus alors que les journalistes suivaient des militants venus soutenir des Palestiniens."
+    },
+    "published": "Tue, 25 Aug 2026 15:23:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      13,
+      23,
+      28,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/des-journalistes-de-l-afp-agresses-par-des-colons-israeliens-pres-de-bethleem-en-cisjordanie-occupee_8160914.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GxEMmeor_BBoQe6zFL41itInvfA/0x313:5317x3303/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8d95276e762247257230.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/des-journalistes-de-l-afp-agresses-par-des-colons-israeliens-pres-de-bethleem-en-cisjordanie-occupee_8160914.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/des-journalistes-de-l-afp-agresses-par-des-colons-israeliens-pres-de-bethleem-en-cisjordanie-occupee_8160914.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
