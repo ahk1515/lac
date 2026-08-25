@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T01:10:28.659532+00:00",
+  "_id": "b7364f192c10",
+  "brut": {
+    "title": "L'Iran offre 10 millions pour tuer le fils de Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Iran offre 10 millions pour tuer le fils de Trump"
+    },
+    "summary": "Le bras de fer entre Washington et Téhéran vise désormais la famille Trump. D’un côté, Donald Trump affirme que l’Iran s’effondre et veut le mettre à genoux avec de nouvelles sanctions, de l’autre, la télévision iranienne s’en prend à son fils Barron dans une vidéo intitulée “Où et comment tuer Barron Trump ?” Elle prétend que ses déplacements sont surveillés et évoque une récompense de dix millions de dollars.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le bras de fer entre Washington et Téhéran vise désormais la famille Trump. D’un côté, Donald Trump affirme que l’Iran s’effondre et veut le mettre à genoux avec de nouvelles sanctions, de l’autre, la télévision iranienne s’en prend à son fils Barron dans une vidéo intitulée “Où et comment tuer Barron Trump ?” Elle prétend que ses déplacements sont surveillés et évoque une récompense de dix millions de dollars."
+    },
+    "published": "Mon, 24 Aug 2026 23:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      21,
+      0,
+      1,
+      0,
+      236,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-iran-offre-10-millions-pour-tuer-le-fils-de-trump_8160077.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5VbbBY6M15Z2x38NZ84ujujim54/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/24/6a8ca2db87e38610748326.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-iran-offre-10-millions-pour-tuer-le-fils-de-trump_8160077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-iran-offre-10-millions-pour-tuer-le-fils-de-trump_8160077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

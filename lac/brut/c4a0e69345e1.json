@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T01:10:28.397204+00:00",
+  "_id": "c4a0e69345e1",
+  "brut": {
+    "title": "A Haïti, une attaque de gangs près de la capitale fait au moins 40 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Haïti, une attaque de gangs près de la capitale fait au moins 40 morts"
+    },
+    "published": "Tue, 25 Aug 2026 02:10:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      0,
+      10,
+      14,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 02:54:14 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      0,
+      54,
+      14,
+      1,
+      237,
+      0
+    ],
+    "summary": "« Certaines personnes sont toujours portées disparues », fait savoir le maire de Kenscoff, qui fait également état de dizaines de blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Certaines personnes sont toujours portées disparues », fait savoir le maire de Kenscoff, qui fait également état de dizaines de blessés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/haiti-une-attaque-de-gangs-pres-de-la-capitale-fait-au-moins-40-morts_6755955_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/haiti-une-attaque-de-gangs-pres-de-la-capitale-fait-au-moins-40-morts_6755955_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/haiti-une-attaque-de-gangs-pres-de-la-capitale-fait-au-moins-40-morts_6755955_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/0/0/4444/2222/644/322/60/0/d8eadeb_ftp-1-wgqueq6eaknm-5912918-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une attaque de gangs, à Kenscoff (Haïti), le 24 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CLARENS SIFFROY/AFP"
+      }
+    ],
+    "credit": "CLARENS SIFFROY/AFP"
+  }
+}

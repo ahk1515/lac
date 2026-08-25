@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T01:10:28.659306+00:00",
+  "_id": "20374cdcc451",
+  "brut": {
+    "title": "Belém, ou l'art de vivre à la brésilienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Belém, ou l'art de vivre à la brésilienne"
+    },
+    "summary": "Ce soir et toute la semaine, le \"20 Heures\" vous propose de prendre le large à travers quatre grands reportages, quatre pays et quatre manières de vivre. Pour ce premier voyage, immersion au Brésil, dans la ville de Belém : ses paysages, sa cuisine, mais surtout la vie quotidienne de ses habitants. Qu’est-ce que vivre à la brésilienne ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce soir et toute la semaine, le \"20 Heures\" vous propose de prendre le large à travers quatre grands reportages, quatre pays et quatre manières de vivre. Pour ce premier voyage, immersion au Brésil, dans la ville de Belém : ses paysages, sa cuisine, mais surtout la vie quotidienne de ses habitants. Qu’est-ce que vivre à la brésilienne ?"
+    },
+    "published": "Tue, 25 Aug 2026 00:22:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      22,
+      22,
+      2,
+      0,
+      236,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/bresil/belem-ou-l-art-de-vivre-a-la-bresilienne_8160122.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jDP7l4jPldMN6NQh6K6JG-_ZHeU/36x0:1286x703/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8cc3d401ff2223666455.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/bresil/belem-ou-l-art-de-vivre-a-la-bresilienne_8160122.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/bresil/belem-ou-l-art-de-vivre-a-la-bresilienne_8160122.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
