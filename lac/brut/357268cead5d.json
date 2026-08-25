@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T20:26:46.902038+00:00",
+  "_id": "357268cead5d",
+  "brut": {
+    "title": "Volkswagen : la direction en campagne pour promouvoir un plan social vertigineux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Volkswagen : la direction en campagne pour promouvoir un plan social vertigineux"
+    },
+    "published": "Tue, 25 Aug 2026 22:00:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      20,
+      0,
+      12,
+      1,
+      237,
+      0
+    ],
+    "summary": "Oliver Blume, le président du directoire du constructeur automobile allemand, a commencé mardi 25 août une tournée des usines du groupe pour convaincre les salariés de la nécessité de supprimer 50 000 postes supplémentaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Oliver Blume, le président du directoire du constructeur automobile allemand, a commencé mardi 25 août une tournée des usines du groupe pour convaincre les salariés de la nécessité de supprimer 50 000 postes supplémentaires."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/25/volkswagen-la-direction-en-campagne-pour-promouvoir-un-plan-social-vertigineux_6756625_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/25/volkswagen-la-direction-en-campagne-pour-promouvoir-un-plan-social-vertigineux_6756625_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/25/volkswagen-la-direction-en-campagne-pour-promouvoir-un-plan-social-vertigineux_6756625_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/503/0/6800/3400/644/322/60/0/3d2bdec_upload-1-o41fiiw31lng-000-b9xj4rf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’usine Volkswagen de Zwickau, dans l’est de l’Allemagne, le 11 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RONNY HARTMANN/AFP"
+      }
+    ],
+    "credit": "RONNY HARTMANN/AFP"
+  }
+}

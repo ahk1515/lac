@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T20:26:47.110521+00:00",
+  "_id": "4318d49333c2",
+  "brut": {
+    "title": "Un député israélien tente de détruire un monument palestinien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un député israélien tente de détruire un monument palestinien"
+    },
+    "summary": "Un député israélien d’extrême droite a tenté de détruire à coup de masse un monument palestinien dans la ville de Madama en Cisjordanie. Benyamin Netanyahou a dénoncé cet acte. Les tensions sont vives à deux mois des élections législatives.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un député israélien d’extrême droite a tenté de détruire à coup de masse un monument palestinien dans la ville de Madama en Cisjordanie. Benyamin Netanyahou a dénoncé cet acte. Les tensions sont vives à deux mois des élections législatives."
+    },
+    "published": "Tue, 25 Aug 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      20,
+      0,
+      1,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/un-depute-israelien-tente-de-detruire-un-monument-palestinien_8161325.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hblVMfrfi9ayQRy3d6aeOH5B8RY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/25/6a8de0fd3f041770787300.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/un-depute-israelien-tente-de-detruire-un-monument-palestinien_8161325.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/un-depute-israelien-tente-de-detruire-un-monument-palestinien_8161325.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

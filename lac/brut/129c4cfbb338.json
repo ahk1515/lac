@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-25T20:26:47.110384+00:00",
+  "_id": "129c4cfbb338",
+  "brut": {
+    "title": "Haïti : plusieurs dizaines de morts après une attaque de gangs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Haïti : plusieurs dizaines de morts après une attaque de gangs"
+    },
+    "summary": "En Haïti, au moins une quarantaine de personnes ont été tuées dans la nuit du dimanche 23 au lundi 24 août. Des hommes armés ont notamment fait irruption dans une église où vivait une famille déjà chassée de chez elle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Haïti, au moins une quarantaine de personnes ont été tuées dans la nuit du dimanche 23 au lundi 24 août. Des hommes armés ont notamment fait irruption dans une église où vivait une famille déjà chassée de chez elle."
+    },
+    "published": "Tue, 25 Aug 2026 22:07:49 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      20,
+      7,
+      49,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/haiti-plusieurs-dizaines-de-morts-apres-une-attaque-de-gangs_8161379.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/q30j00np9ICF7lXr4Hgx3XPY6Rc/143x0:1568x802/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8df5fa920db567526902.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/haiti-plusieurs-dizaines-de-morts-apres-une-attaque-de-gangs_8161379.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/haiti-plusieurs-dizaines-de-morts-apres-une-attaque-de-gangs_8161379.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T20:26:46.902310+00:00",
+  "_id": "d1567f3cb686",
+  "brut": {
+    "title": "A Gaza, les enfants doivent ranger leurs cerfs-volants après des menaces israéliennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, les enfants doivent ranger leurs cerfs-volants après des menaces israéliennes"
+    },
+    "published": "Tue, 25 Aug 2026 20:00:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      18,
+      0,
+      11,
+      1,
+      237,
+      0
+    ],
+    "summary": "Après la découverte, du côté israélien, de plusieurs cerfs-volants venus de l’enclave, les autorités, y voyant un potentiel danger, ont annoncé que quiconque en ferait voler serait pris pour cible. De nombreuses familles palestiniennes ont préféré confisquer ces jouets à leurs enfants, un des seuls loisirs qu’il leur restait.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après la découverte, du côté israélien, de plusieurs cerfs-volants venus de l’enclave, les autorités, y voyant un potentiel danger, ont annoncé que quiconque en ferait voler serait pris pour cible. De nombreuses familles palestiniennes ont préféré confisquer ces jouets à leurs enfants, un des seuls loisirs qu’il leur restait."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/a-gaza-les-enfants-doivent-ranger-leurs-cerfs-volants-apres-des-menaces-israeliennes_6756617_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/a-gaza-les-enfants-doivent-ranger-leurs-cerfs-volants-apres-des-menaces-israeliennes_6756617_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/a-gaza-les-enfants-doivent-ranger-leurs-cerfs-volants-apres-des-menaces-israeliennes_6756617_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/149/0/6000/3000/644/322/60/0/4eebfd8_ftp-1-xua61drej6yk-33dd18f511164e37a0ac6481b8972175-0-ec24579710ff4644a6d1b93f2f5c3c73.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un camp de réfugiés palestiniens, à Nousseirat, dans le centre de la bande de Gaza, le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdel Kareem Hana/AP"
+      }
+    ],
+    "credit": "Abdel Kareem Hana/AP"
+  }
+}
