@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T12:43:32.877776+00:00",
+  "_id": "8d5a659640d0",
+  "brut": {
+    "title": "Au Maroc, la justice paralysée par une grève des avocats longue de plus de cent jours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Maroc, la justice paralysée par une grève des avocats longue de plus de cent jours"
+    },
+    "published": "Tue, 25 Aug 2026 14:00:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      12,
+      0,
+      9,
+      1,
+      237,
+      0
+    ],
+    "summary": "L’Association des barreaux du Maroc est vent debout contre une nouvelle loi régissant l’activité des robes noires. Elle voit dans ce texte une « atteinte à leur indépendance ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Association des barreaux du Maroc est vent debout contre une nouvelle loi régissant l’activité des robes noires. Elle voit dans ce texte une « atteinte à leur indépendance »."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/25/au-maroc-la-justice-paralysee-par-une-greve-des-avocats-longue-de-plus-de-cent-jours_6756574_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/25/au-maroc-la-justice-paralysee-par-une-greve-des-avocats-longue-de-plus-de-cent-jours_6756574_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/25/au-maroc-la-justice-paralysee-par-une-greve-des-avocats-longue-de-plus-de-cent-jours_6756574_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/364/0/3872/1936/644/322/60/0/e306485_upload-1-wqdpa248reie-000-96eu2kf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une manisfestation des avocats marocains devant le Parlement, à Rabat, le 6 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ISSAM ZERROK/AFP"
+      }
+    ],
+    "credit": "ISSAM ZERROK/AFP"
+  }
+}

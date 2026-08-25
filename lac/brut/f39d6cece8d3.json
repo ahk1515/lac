@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T12:43:32.879450+00:00",
+  "_id": "f39d6cece8d3",
+  "brut": {
+    "title": "En Grèce, 79 migrants secourus au large de la Crète ; les arrivées en baisse depuis un an",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Grèce, 79 migrants secourus au large de la Crète ; les arrivées en baisse depuis un an"
+    },
+    "published": "Tue, 25 Aug 2026 10:57:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      8,
+      57,
+      27,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 14:39:46 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      12,
+      39,
+      46,
+      1,
+      237,
+      0
+    ],
+    "summary": "Repérés par un drone de Frontex, l’agence européenne de surveillance des frontières, les migrants se trouvaient à bord de deux embarcations, selon la police portuaire grecque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Repérés par un drone de Frontex, l’agence européenne de surveillance des frontières, les migrants se trouvaient à bord de deux embarcations, selon la police portuaire grecque."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/25/en-grece-85-migrants-secourus-au-large-de-la-crete_6756432_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/25/en-grece-85-migrants-secourus-au-large-de-la-crete_6756432_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/25/en-grece-85-migrants-secourus-au-large-de-la-crete_6756432_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/345/0/4252/2126/644/322/60/0/aad36f2_upload-1-scowkfzxgovz-000-98fx99f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après le sauvetage d’une embarcation à bord de laquelle se trouvaient des migrants, à Kali Limenes, en Crète, le 21 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "COSTAS METAXAKIS/AFP"
+      }
+    ],
+    "credit": "COSTAS METAXAKIS/AFP"
+  }
+}

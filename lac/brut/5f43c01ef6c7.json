@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-25T12:43:32.878982+00:00",
+  "_id": "5f43c01ef6c7",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins 11 personnes blessées dans des attaques russes visant Kramatorsk, annonce le chef de l’administration militaire régionale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins 11 personnes blessées dans des attaques russes visant Kramatorsk, annonce le chef de l’administration militaire régionale"
+    },
+    "published": "Tue, 25 Aug 2026 11:32:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      9,
+      32,
+      33,
+      1,
+      237,
+      0
+    ],
+    "updated": "Tue, 25 Aug 2026 12:19:53 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      25,
+      10,
+      19,
+      53,
+      1,
+      237,
+      0
+    ],
+    "summary": "Huit bombardements russes ont touché la ville et « de nombreux immeubles ont été endommagés », a rapporté Vadym Filachkine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Huit bombardements russes ont touché la ville et « de nombreux immeubles ont été endommagés », a rapporté Vadym Filachkine."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-pres-de-dnipro-un-centre-commercial-ravage-par-une-attaque-russe_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-pres-de-dnipro-un-centre-commercial-ravage-par-une-attaque-russe_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-pres-de-dnipro-un-centre-commercial-ravage-par-une-attaque-russe_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/720/0/8640/4320/644/322/60/0/028476c_ftp-1-zcshea21zcj3-7783d7dec26c4acbb4cf3712e07e539e-0-3dc3a27038e84355a4568131f166378e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au mémorial dédié aux civils et aux soldats tués pendant la guerre contre la Russie, dans le centre de Kiev, le 24 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Francisco Seco/AP"
+      }
+    ],
+    "credit": "Francisco Seco/AP"
+  }
+}
