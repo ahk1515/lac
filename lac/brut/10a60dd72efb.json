@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T16:46:56.023290+00:00",
+  "_id": "10a60dd72efb",
+  "brut": {
+    "title": "Inondations meurtrières et massives au Népal",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Inondations meurtrières et massives au Népal"
+    },
+    "summary": "Des torrents d'eau boueuse ont fait au moins 19 morts, mercredi 26 août, au Népal, où 384 touristes sont portés disparus selon les autorités locales, ainsi que de \"nombreuses victimes\" de l'autre côté de la frontière avec la Chine, au Tibet, d'après les médias d'Etat chinois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des torrents d'eau boueuse ont fait au moins 19 morts, mercredi 26 août, au Népal, où 384 touristes sont portés disparus selon les autorités locales, ainsi que de \"nombreuses victimes\" de l'autre côté de la frontière avec la Chine, au Tibet, d'après les médias d'Etat chinois."
+    },
+    "published": "Wed, 26 Aug 2026 15:12:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      13,
+      12,
+      23,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/inondations-meurtrieres-et-massives-au-nepal_8162492.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ewchvibz5PRtwHcKJRvkFDvUNNQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/26/6a8ee62fe88bd969435016.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/inondations-meurtrieres-et-massives-au-nepal_8162492.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/inondations-meurtrieres-et-massives-au-nepal_8162492.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T16:46:55.749371+00:00",
+  "_id": "33ad7dcdfc12",
+  "brut": {
+    "title": "Le prince Harry et son épouse, Meghan, sont de retour en Angleterre, selon la presse britannique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le prince Harry et son épouse, Meghan, sont de retour en Angleterre, selon la presse britannique"
+    },
+    "published": "Wed, 26 Aug 2026 15:21:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      13,
+      21,
+      55,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 15:47:27 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      13,
+      47,
+      27,
+      2,
+      238,
+      0
+    ],
+    "summary": "Cette annonce survient moins d’une semaine après celle du fils cadet du roi Charles III, en froid avec le reste de la famille royale, de son intention de revenir au Royaume-Uni avec sa femme et leurs deux enfants, six ans après leur départ pour la Californie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette annonce survient moins d’une semaine après celle du fils cadet du roi Charles III, en froid avec le reste de la famille royale, de son intention de revenir au Royaume-Uni avec sa femme et leurs deux enfants, six ans après leur départ pour la Californie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/26/le-prince-harry-et-son-epouse-meghan-sont-de-retour-en-angleterre-selon-la-presse-britannique_6757381_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/26/le-prince-harry-et-son-epouse-meghan-sont-de-retour-en-angleterre-selon-la-presse-britannique_6757381_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/26/le-prince-harry-et-son-epouse-meghan-sont-de-retour-en-angleterre-selon-la-presse-britannique_6757381_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/5/0/3000/1500/644/322/60/0/b5a30bb_ftp-1-8ny9cpiy1yls-e36e20c5d68a4c6ca0c85ff3f06102e3-0-1457d1921625408ab306eb96ec4345c5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le prince Harry et son épouse, Meghan, à Bondi Beach (Australie), le 17 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jonathan Brady via AP"
+      }
+    ],
+    "credit": "Jonathan Brady via AP"
+  }
+}

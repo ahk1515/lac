@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T16:46:56.020636+00:00",
+  "_id": "00e8162694a0",
+  "brut": {
+    "title": "Au nord de l'Inde, la Voie lactée s'expose comme nulle part ailleurs sur le globe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au nord de l'Inde, la Voie lactée s'expose comme nulle part ailleurs sur le globe"
+    },
+    "summary": "Le \"13 heures découverte\" vous propose un voyage dans les étoiles, à plus de 4 000 mètres d'altitude, là où la nuit révèle l’un des ciels les plus purs au monde. Le site se trouve en Inde, où la magie de la Voie lactée peut être observée comme jamais.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le \"13 heures découverte\" vous propose un voyage dans les étoiles, à plus de 4 000 mètres d'altitude, là où la nuit révèle l’un des ciels les plus purs au monde. Le site se trouve en Inde, où la magie de la Voie lactée peut être observée comme jamais."
+    },
+    "published": "Wed, 26 Aug 2026 18:13:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      16,
+      13,
+      26,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/inde/au-nord-de-l-inde-la-voie-lactee-s-expose-comme-nulle-part-ailleurs-sur-le-globe_8163962.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2FdzwK1hnyLdRw2f1KPwunq7emE/0x1:1306x735/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8f108dd9ae7036625881.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/inde/au-nord-de-l-inde-la-voie-lactee-s-expose-comme-nulle-part-ailleurs-sur-le-globe_8163962.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/inde/au-nord-de-l-inde-la-voie-lactee-s-expose-comme-nulle-part-ailleurs-sur-le-globe_8163962.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

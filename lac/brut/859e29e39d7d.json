@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T16:46:55.746358+00:00",
+  "_id": "859e29e39d7d",
+  "brut": {
+    "title": "Les Etats-Unis saisissent des noms de domaine sur Internet soupçonnés de servir à des espions chinois",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis saisissent des noms de domaine sur Internet soupçonnés de servir à des espions chinois"
+    },
+    "published": "Wed, 26 Aug 2026 18:24:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      16,
+      24,
+      17,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 18:30:20 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      16,
+      30,
+      20,
+      2,
+      238,
+      0
+    ],
+    "summary": "Cette saisie est « la dernière en date d’une série d’opérations techniques pour démanteler les activités de cyberpiraterie parrainées » par la Chine, a souligné le ministre de la justice américain, Todd Blanche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette saisie est « la dernière en date d’une série d’opérations techniques pour démanteler les activités de cyberpiraterie parrainées » par la Chine, a souligné le ministre de la justice américain, Todd Blanche."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/26/etats-unis-des-noms-de-domaine-sur-internet-saisis-pour-lutter-contre-l-espionnage-chinois_6757414_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/26/etats-unis-des-noms-de-domaine-sur-internet-saisis-pour-lutter-contre-l-espionnage-chinois_6757414_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/26/etats-unis-des-noms-de-domaine-sur-internet-saisis-pour-lutter-contre-l-espionnage-chinois_6757414_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/23/135/0/3957/1978/644/322/60/0/d6eed8d_ftp-1-h8wz97mhopdy-e8f334370a324d2f9da834b332733114-0-f715f79557b74202970c82d214a6dfc0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ministre de la justice américain, Todd Blanche, à Washington, 23 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Allison Robbert/AP"
+      }
+    ],
+    "credit": "Allison Robbert/AP"
+  }
+}

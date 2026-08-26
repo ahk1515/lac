@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T16:46:56.020214+00:00",
+  "_id": "a80f070156b8",
+  "brut": {
+    "title": "La rumeur d'un tueur déguisé en Chat chapeauté sème la terreur en Angleterre et en Irlande",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La rumeur d'un tueur déguisé en Chat chapeauté sème la terreur en Angleterre et en Irlande"
+    },
+    "summary": "Des vidéos inquiétantes d'un tueur en série, déguisé en personnage populaire de la littérature jeunesse, circulent, depuis plusieurs jours, sur les réseaux sociaux, créant la panique outre-Manche. Sauf que tout est complètement faux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des vidéos inquiétantes d'un tueur en série, déguisé en personnage populaire de la littérature jeunesse, circulent, depuis plusieurs jours, sur les réseaux sociaux, créant la panique outre-Manche. Sauf que tout est complètement faux."
+    },
+    "published": "Wed, 26 Aug 2026 18:37:39 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      16,
+      37,
+      39,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/la-rumeur-d-un-tueur-deguise-en-chat-chapeaute-seme-la-terreur-en-angleterre-et-en-irlande_8164034.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hbuvxzDg7tx_WgnM-sflZc3TtK8/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8f162979751406951622.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/la-rumeur-d-un-tueur-deguise-en-chat-chapeaute-seme-la-terreur-en-angleterre-et-en-irlande_8164034.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/la-rumeur-d-un-tueur-deguise-en-chat-chapeaute-seme-la-terreur-en-angleterre-et-en-irlande_8164034.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

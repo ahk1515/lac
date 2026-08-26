@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T16:46:55.746940+00:00",
+  "_id": "e655d92b5a1d",
+  "brut": {
+    "title": "Le retrait d’une photo de Gaza exposée dans l’espace public à Deauville provoque la polémique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le retrait d’une photo de Gaza exposée dans l’espace public à Deauville provoque la polémique"
+    },
+    "published": "Wed, 26 Aug 2026 17:43:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      15,
+      43,
+      31,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 18:07:37 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      16,
+      7,
+      37,
+      2,
+      238,
+      0
+    ],
+    "summary": "Installée sur une place de la ville, l’image a été discrètement retirée à la mi-août alors qu’elle devait y rester jusqu’au 6 septembre. Le député du Calvados Arthur Delaporte, socialiste, a réclamé la « réinstallation immédiate » de la photo.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Installée sur une place de la ville, l’image a été discrètement retirée à la mi-août alors qu’elle devait y rester jusqu’au 6 septembre. Le député du Calvados Arthur Delaporte, socialiste, a réclamé la « réinstallation immédiate » de la photo."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/08/26/le-retrait-d-une-photo-de-gaza-exposee-dans-l-espace-public-a-deauville-provoque-la-polemique_6757404_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/08/26/le-retrait-d-une-photo-de-gaza-exposee-dans-l-espace-public-a-deauville-provoque-la-polemique_6757404_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/08/26/le-retrait-d-une-photo-de-gaza-exposee-dans-l-espace-public-a-deauville-provoque-la-polemique_6757404_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/633/0/5746/2873/644/322/60/0/77bd238_upload-1-zqwu7oio0pee-ap26045546939760.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des joueurs palestiniens du Gaza Sport Club et de l’Ahli Gaza Club participent à un match de football sur un terrain récemment aménagé, à Gaza, le 14 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jehad Alshrafi/AP"
+      }
+    ],
+    "credit": "Jehad Alshrafi/AP"
+  }
+}

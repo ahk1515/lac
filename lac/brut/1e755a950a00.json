@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T16:46:56.021174+00:00",
+  "_id": "1e755a950a00",
+  "brut": {
+    "title": "\"13h15 le samedi\". La quête d’un frère",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"13h15 le samedi\". La quête d’un frère"
+    },
+    "summary": "Le magazine a suivi le frère de Thiphaine Véron jusqu'au Japon, où elle a disparu en 2018. Sa famille tente désespérément de relancer les investigations après la découverte de nouveaux indices.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le magazine a suivi le frère de Thiphaine Véron jusqu'au Japon, où elle a disparu en 2018. Sa famille tente désespérément de relancer les investigations après la découverte de nouveaux indices."
+    },
+    "published": "Wed, 26 Aug 2026 17:02:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      15,
+      2,
+      7,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-la-quete-d-un-frere_8143874.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/7ShFrNjvXLReAmAjosn2fXX5t-M/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/01/30/13h15-ls-tiphaine-veron-697cc1d5db2e9836055108.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-la-quete-d-un-frere_8143874.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-la-quete-d-un-frere_8143874.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
