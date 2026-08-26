@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T01:12:33.192888+00:00",
+  "_id": "e972c68d29e8",
+  "brut": {
+    "title": "En Cisjordanie occupée, des colons israéliens attaquent des journalistes de l'AFP",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Cisjordanie occupée, des colons israéliens attaquent des journalistes de l'AFP"
+    },
+    "summary": "Trois journalistes de l'Agence France-Presse se sont rendus dans le village de Jannatah, près de Bethléem.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Trois journalistes de l'Agence France-Presse se sont rendus dans le village de Jannatah, près de Bethléem."
+    },
+    "published": "Tue, 25 Aug 2026 23:46:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      21,
+      46,
+      10,
+      1,
+      237,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-des-colons-israeliens-attaquent-des-journalistes-de-l-afp_8161313.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/E5Q-U2RQnFCmt8G23FM7TNLE9tw/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8e0d0d98c82243274982.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-des-colons-israeliens-attaquent-des-journalistes-de-l-afp_8161313.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-des-colons-israeliens-attaquent-des-journalistes-de-l-afp_8161313.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

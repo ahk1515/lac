@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T01:12:32.958839+00:00",
+  "_id": "616f6a361ca3",
+  "brut": {
+    "title": "Rougeole aux Etats-Unis : deux nouveaux décès en Pennsylvanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Rougeole aux Etats-Unis : deux nouveaux décès en Pennsylvanie"
+    },
+    "published": "Wed, 26 Aug 2026 00:40:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      22,
+      40,
+      27,
+      1,
+      237,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 02:58:13 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      0,
+      58,
+      13,
+      2,
+      238,
+      0
+    ],
+    "summary": "Ces morts, qui s’ajoutent trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la vaccination.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces morts, qui s’ajoutent trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la vaccination."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/26/rougeole-aux-etats-unis-deux-nouveaux-deces-en-pennsylvanie_6756663_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/26/rougeole-aux-etats-unis-deux-nouveaux-deces-en-pennsylvanie_6756663_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/26/rougeole-aux-etats-unis-deux-nouveaux-deces-en-pennsylvanie_6756663_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/336/0/4032/2016/644/322/60/0/0e67a25_upload-1-w9wqsdakwnmv-2025-03-14t190045z-1887334777-rc20ddaf6vvh-rtrmadp-3-usa-health-measles-new-york.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un panneau décrivant les symptomes de la rougeole est affiché à l’entrée du Cohen Children's Medical Center à New Hyde Park (New York), le 14 mars 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Shannon Stapleton/REUTERS"
+      }
+    ],
+    "credit": "Shannon Stapleton/REUTERS"
+  }
+}
