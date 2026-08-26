@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T08:40:40.904116+00:00",
+  "_id": "59331e2cc164",
+  "brut": {
+    "title": "Quatorze enfants tués dans l'incendie d'un hôpital d'Islamabad, capitale du Pakistan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatorze enfants tués dans l'incendie d'un hôpital d'Islamabad, capitale du Pakistan"
+    },
+    "summary": "Le feu s'est déclaré mercredi matin \"au troisième étage du service de santé maternelle et infantile\" de l'établissement, selon les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le feu s'est déclaré mercredi matin \"au troisième étage du service de santé maternelle et infantile\" de l'établissement, selon les autorités."
+    },
+    "published": "Wed, 26 Aug 2026 08:39:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      6,
+      39,
+      27,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/quatorze-enfants-tues-dans-l-incendie-d-un-hopital-d-islamabad-la-capitale-du-pakistan_8161919.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/x0jEqJDk438gmIoYKGCf4znf8gM/0x98:1024x674/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e880cdef47788652498.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/quatorze-enfants-tues-dans-l-incendie-d-un-hopital-d-islamabad-la-capitale-du-pakistan_8161919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/quatorze-enfants-tues-dans-l-incendie-d-un-hopital-d-islamabad-la-capitale-du-pakistan_8161919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

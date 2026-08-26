@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T08:40:40.700163+00:00",
+  "_id": "39ff5bc07e99",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : une attaque de drones fait deux morts, dont un enfant, à Tchernihiv",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : une attaque de drones fait deux morts, dont un enfant, à Tchernihiv"
+    },
+    "published": "Wed, 26 Aug 2026 07:15:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      5,
+      15,
+      38,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 10:09:18 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      8,
+      9,
+      18,
+      2,
+      238,
+      0
+    ],
+    "summary": "Au cours de la nuit de mardi à mercredi, la Russie a lancé 162 drones contre l’Ukraine, selon l’armée de l’air ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au cours de la nuit de mardi à mercredi, la Russie a lancé 162 drones contre l’Ukraine, selon l’armée de l’air ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-les-dernieres-informations-au-26-aout-2026_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-les-dernieres-informations-au-26-aout-2026_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-les-dernieres-informations-au-26-aout-2026_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/120/0/1134/567/644/322/60/0/533578f_upload-1-qdzih5sepsjj-img-4568.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Tchernihiv, le 26 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Police ukrainienne/Telegram"
+      }
+    ],
+    "credit": "Police ukrainienne/Telegram"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T08:40:40.904981+00:00",
+  "_id": "a10ceb406269",
+  "brut": {
+    "title": "En Syrie, le chef des forces militaires kurdes annonce la dissolution de l'organisation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Syrie, le chef des forces militaires kurdes annonce la dissolution de l'organisation"
+    },
+    "summary": "Le pouvoir syrien et les Kurdes négociaient depuis des mois l'application d'un accord conclu en janvier, prévoyant l'intégration complète des institutions kurdes dans l'appareil d'Etat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pouvoir syrien et les Kurdes négociaient depuis des mois l'application d'un accord conclu en janvier, prévoyant l'intégration complète des institutions kurdes dans l'appareil d'Etat."
+    },
+    "published": "Wed, 26 Aug 2026 07:23:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      5,
+      23,
+      28,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/revolte-en-syrie/en-syrie-le-chef-des-puissantes-forces-kurdes-annonce-leur-dissolution_8161823.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/97j0AZ7N7GX-J4bsVIh-eM9ocpY/0x29:1024x605/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e7613534cf725817926.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/en-syrie-le-chef-des-puissantes-forces-kurdes-annonce-leur-dissolution_8161823.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/revolte-en-syrie/en-syrie-le-chef-des-puissantes-forces-kurdes-annonce-leur-dissolution_8161823.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

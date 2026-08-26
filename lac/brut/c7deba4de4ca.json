@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T08:40:40.904268+00:00",
+  "_id": "c7deba4de4ca",
+  "brut": {
+    "title": "Le mystérieux voyage express du directeur de la CIA en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le mystérieux voyage express du directeur de la CIA en Russie"
+    },
+    "summary": "John Ratcliffe a passé quatre heures à Moscou mardi. Un déplacement qui pose beaucoup de questions car c’est assez rare que le patron des renseignements américains se rende en personne en territoire russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "John Ratcliffe a passé quatre heures à Moscou mardi. Un déplacement qui pose beaucoup de questions car c’est assez rare que le patron des renseignements américains se rende en personne en territoire russe."
+    },
+    "published": "Wed, 26 Aug 2026 08:38:39 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      6,
+      38,
+      39,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-mysterieux-voyage-express-du-directeur-de-la-cia-en-russie_8078138.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DI6dcHwAkRbvpXj6HVQZ5KDU_BE/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e881d4832c922357238.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-mysterieux-voyage-express-du-directeur-de-la-cia-en-russie_8078138.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-mysterieux-voyage-express-du-directeur-de-la-cia-en-russie_8078138.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

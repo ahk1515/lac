@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T08:40:40.700706+00:00",
+  "_id": "26d127775bea",
+  "brut": {
+    "title": "Donald Trump conforté par la victoire de Darline Graham, une de ses protégées, dans une primaire en Caroline du Sud",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump conforté par la victoire de Darline Graham, une de ses protégées, dans une primaire en Caroline du Sud"
+    },
+    "published": "Wed, 26 Aug 2026 06:53:49 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      4,
+      53,
+      49,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 08:08:10 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      6,
+      8,
+      10,
+      2,
+      238,
+      0
+    ],
+    "summary": "Sœur d’un sénateur républicain décédé en juillet, Darline Graham s’est imposé malgré les critiques sur son manque d’expérience, offrant satisfaction à Donald Trump qui la soutenait.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sœur d’un sénateur républicain décédé en juillet, Darline Graham s’est imposé malgré les critiques sur son manque d’expérience, offrant satisfaction à Donald Trump qui la soutenait."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/26/apres-une-serie-de-revers-donald-trump-conforte-par-la-victoire-d-une-de-ses-protegees-dans-une-primaire-en-caroline-du-sud_6756944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/26/apres-une-serie-de-revers-donald-trump-conforte-par-la-victoire-d-une-de-ses-protegees-dans-une-primaire-en-caroline-du-sud_6756944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/26/apres-une-serie-de-revers-donald-trump-conforte-par-la-victoire-d-une-de-ses-protegees-dans-une-primaire-en-caroline-du-sud_6756944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/240/0/5000/2500/644/322/60/0/321ecc7_ftp-1-o5utly1fvhyh-2026-08-26t032206z-411921725-rc226nafy4wq-rtrmadp-3-usa-election-south-carolina-senate.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La sénatrice américaine Darline Graham, après sa victoire lors des primaires républicaines de Caroline du Sud, à Columbia (Caroline du Sud), le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sam Wolfe/REUTERS"
+      }
+    ],
+    "credit": "Sam Wolfe/REUTERS"
+  }
+}
