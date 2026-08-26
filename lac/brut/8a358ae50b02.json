@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T04:37:40.053241+00:00",
+  "_id": "8a358ae50b02",
+  "brut": {
+    "title": "La Cisjordanie sous tension en raison de nouvelles attaques d’extrémistes juifs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Cisjordanie sous tension en raison de nouvelles attaques d’extrémistes juifs"
+    },
+    "published": "Wed, 26 Aug 2026 04:45:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      2,
+      45,
+      4,
+      2,
+      238,
+      0
+    ],
+    "summary": "Les populations de Cisjordanie occupée sont confrontées quotidiennement au harcèlement violent des colons israéliens. La situation se dégrade, faisant craindre des risques d’une explosion de violence palestinienne en réponse aux agressions incessantes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les populations de Cisjordanie occupée sont confrontées quotidiennement au harcèlement violent des colons israéliens. La situation se dégrade, faisant craindre des risques d’une explosion de violence palestinienne en réponse aux agressions incessantes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/26/la-cisjordanie-sous-tension-en-raison-de-nouvelles-attaques-d-extremistes-juifs_6756762_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/26/la-cisjordanie-sous-tension-en-raison-de-nouvelles-attaques-d-extremistes-juifs_6756762_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/26/la-cisjordanie-sous-tension-en-raison-de-nouvelles-attaques-d-extremistes-juifs_6756762_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/682/0/5812/2906/644/322/60/0/2746d30_ftp-1-ynbdh39cu4jk-5916260-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des colons israéliens arrivent pour confronter des  activistes israéliens de Standing Together qui tentent de protéger les Palestiniens à Janatha, en Cisjordanie occupée, le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ILIA YEFIMOVICH/AFP"
+      }
+    ],
+    "credit": "ILIA YEFIMOVICH/AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T04:37:40.052497+00:00",
+  "_id": "6a92db475482",
+  "brut": {
+    "title": "El Niño : Le Panama et le Salvador en état d’alerte face aux pluies et sécheresses intenses",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "El Niño : Le Panama et le Salvador en état d’alerte face aux pluies et sécheresses intenses"
+    },
+    "published": "Wed, 26 Aug 2026 05:39:34 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      3,
+      39,
+      34,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 06:31:28 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      4,
+      31,
+      28,
+      2,
+      238,
+      0
+    ],
+    "summary": "Ces deux pays d’Amérique centrale prennent des mesures administratives exceptionnelles pour faire face aux conditions climatiques extrêmes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces deux pays d’Amérique centrale prennent des mesures administratives exceptionnelles pour faire face aux conditions climatiques extrêmes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/08/26/el-nino-le-panama-et-le-salvador-en-etat-d-alerte-face-aux-pluies-et-secheresses-intenses_6756868_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/08/26/el-nino-le-panama-et-le-salvador-en-etat-d-alerte-face-aux-pluies-et-secheresses-intenses_6756868_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/08/26/el-nino-le-panama-et-le-salvador-en-etat-d-alerte-face-aux-pluies-et-secheresses-intenses_6756868_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/64/0/3461/1730/644/322/60/0/cb4533b_ftp-1-kbiperrn7g6j-5884353-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le canal de Panama, à Panama, le 13 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MARTIN BERNETTI/AFP"
+      }
+    ],
+    "credit": "MARTIN BERNETTI/AFP"
+  }
+}

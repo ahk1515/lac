@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T04:37:40.053501+00:00",
+  "_id": "59ea14e93838",
+  "brut": {
+    "title": "SpaceX annonce vouloir construire en Louisiane le plus grand site de lancement spatial au monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "SpaceX annonce vouloir construire en Louisiane le plus grand site de lancement spatial au monde"
+    },
+    "published": "Wed, 26 Aug 2026 03:25:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      1,
+      25,
+      20,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 06:19:47 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      4,
+      19,
+      47,
+      2,
+      238,
+      0
+    ],
+    "summary": "Situé en bordure du golfe du Mexique, dans le deuxième Etat le plus pauvre des Etats-Unis, le terrain choisi pour cette gigantesque base est deux fois et demie plus grand que la capitale Washington. La construction devrait commencer l’an prochain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Situé en bordure du golfe du Mexique, dans le deuxième Etat le plus pauvre des Etats-Unis, le terrain choisi pour cette gigantesque base est deux fois et demie plus grand que la capitale Washington. La construction devrait commencer l’an prochain."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/08/26/spacex-annonce-vouloir-construire-en-louisiane-le-plus-grand-site-de-lancement-spatial-au-monde_6756729_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/08/26/spacex-annonce-vouloir-construire-en-louisiane-le-plus-grand-site-de-lancement-spatial-au-monde_6756729_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/08/26/spacex-annonce-vouloir-construire-en-louisiane-le-plus-grand-site-de-lancement-spatial-au-monde_6756729_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/545/0/3269/1634/644/322/60/0/6018e4a_ftp-1-zuah65n4sd34-a697cc7257a042deab0ccc7493f61023-0-faa5412cc5754c46a35e31add15b659a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La présidente et directrice des opérations de SpaceX, Gwynne Shotwell, lors de l’annonce de l’accord sur la construction de la base spatiale géante en Louisiane, à Abbeville (Louisiane), le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gerald Herbert/AP"
+      }
+    ],
+    "credit": "Gerald Herbert/AP"
+  }
+}
