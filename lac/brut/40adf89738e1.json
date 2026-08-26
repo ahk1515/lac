@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T12:48:59.986397+00:00",
+  "_id": "40adf89738e1",
+  "brut": {
+    "title": "Le blocus de l’information doit cesser à Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le blocus de l’information doit cesser à Gaza"
+    },
+    "published": "Wed, 26 Aug 2026 10:59:12 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      8,
+      59,
+      12,
+      2,
+      238,
+      0
+    ],
+    "summary": "Depuis le déclenchement de l’offensive militaire à Gaza, en réponse aux attaques terroristes du 7 octobre 2023, les journalistes sont empêchés de faire leur travail et deviennent des cibles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis le déclenchement de l’offensive militaire à Gaza, en réponse aux attaques terroristes du 7 octobre 2023, les journalistes sont empêchés de faire leur travail et deviennent des cibles."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/08/26/le-blocus-de-l-information-doit-cesser-a-gaza_6757354_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/08/26/le-blocus-de-l-information-doit-cesser-a-gaza_6757354_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/08/26/le-blocus-de-l-information-doit-cesser-a-gaza_6757354_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/1293/0/8640/4320/644/322/60/0/5c7ee8e_ftp-1-ka26aomwko5k-f3fd227e1b6b471e9e41da6f79bff7b3-2-610182f9ce2049a4a02f926104c10411.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le père de Mariam Dagga se recueille sur la tombe de sa fille, une journaliste indépendante qui travaillait avec Associated Press, tuée le 25 août 2025 par une double frappe israélienne sur l’hôpital Nasser. A Khan Younès, dans la bande de Gaza, le 16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdel Kareem Hana/AP"
+      }
+    ],
+    "credit": "Abdel Kareem Hana/AP"
+  }
+}

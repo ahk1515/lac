@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T12:48:59.985824+00:00",
+  "_id": "380095ac123a",
+  "brut": {
+    "title": "Au Népal, des inondations massives font au moins 19 morts ; 384 touristes sont portés disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Népal, des inondations massives font au moins 19 morts ; 384 touristes sont portés disparus"
+    },
+    "published": "Wed, 26 Aug 2026 11:56:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      9,
+      56,
+      27,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 14:42:38 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      12,
+      42,
+      38,
+      2,
+      238,
+      0
+    ],
+    "summary": "Des images diffusées par la police népalaise ont montré les eaux de la crue déferlant dans une rivière et emportant des maisons sur leur passage.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des images diffusées par la police népalaise ont montré les eaux de la crue déferlant dans une rivière et emportant des maisons sur leur passage."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/26/des-inondations-massives-dans-le-nord-du-nepal-ont-fait-plusieurs-morts_6757359_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/26/des-inondations-massives-dans-le-nord-du-nepal-ont-fait-plusieurs-morts_6757359_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/26/des-inondations-massives-dans-le-nord-du-nepal-ont-fait-plusieurs-morts_6757359_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/164/0/1600/800/644/322/60/0/207f96b_ftp-1-kzufyd8jw5k4-c5d19fc3acc545ccbab2e4e08656feca-0-c6b4db736c4043f1a644ce4fd9943ade.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Crue soudaine de la rivière Trishuli, dans le district de Nuwakot, au Népal, le 26 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Niranjan Shrestha/AP"
+      }
+    ],
+    "credit": "Niranjan Shrestha/AP"
+  }
+}

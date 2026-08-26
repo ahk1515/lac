@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T12:48:59.985629+00:00",
+  "_id": "5dcfce91fe3e",
+  "brut": {
+    "title": "Au Maroc, les hackeurs du groupe Jabaroot publient les noms de 70 000 agents des services de sécurité et de renseignement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Maroc, les hackeurs du groupe Jabaroot publient les noms de 70 000 agents des services de sécurité et de renseignement"
+    },
+    "published": "Wed, 26 Aug 2026 13:00:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      11,
+      0,
+      7,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 14:22:40 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      12,
+      22,
+      40,
+      2,
+      238,
+      0
+    ],
+    "summary": "Une nouvelle fuite de données personnelles a été mise en ligne sur le réseau social Telegram, lundi 24 août. D’après les informations du « Monde », elle serait l’œuvre de cinq anciens agents de la direction générale de la surveillance du territoire exilés en Europe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une nouvelle fuite de données personnelles a été mise en ligne sur le réseau social Telegram, lundi 24 août. D’après les informations du « Monde », elle serait l’œuvre de cinq anciens agents de la direction générale de la surveillance du territoire exilés en Europe."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/26/au-maroc-les-hackeurs-du-groupe-jabaroot-publient-les-noms-de-70-000-agents-des-services-de-securite-et-de-renseignement_6757367_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/26/au-maroc-les-hackeurs-du-groupe-jabaroot-publient-les-noms-de-70-000-agents-des-services-de-securite-et-de-renseignement_6757367_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/26/au-maroc-les-hackeurs-du-groupe-jabaroot-publient-les-noms-de-70-000-agents-des-services-de-securite-et-de-renseignement_6757367_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/1067/0/2133/1066/644/322/60/0/aa5cbb1_upload-1-sd33tdjqk8dz-000-33932zv.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Abdellatif Hammouchi, à la tête des directions générales de la sûreté nationale et de la surveillance du territoire marocaines, au stade Moulay Abdellah, à Rabat, le 11 février 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FADEL SENNA/AFP"
+      }
+    ],
+    "credit": "FADEL SENNA/AFP"
+  }
+}

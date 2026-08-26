@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T12:49:00.165640+00:00",
+  "_id": "dfe0871537a5",
+  "brut": {
+    "title": "Des inondations massives dans le nord du Népal font au moins huit morts, 384 voyageurs sont portés disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des inondations massives dans le nord du Népal font au moins huit morts, 384 voyageurs sont portés disparus"
+    },
+    "summary": "Survenues mercredi matin à la frontière avec le Tibet, elles \"sont susceptibles d'avoir affecté de nombreuses zones habitées\", selon un porte-parole des forces de l'ordre népalaises.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Survenues mercredi matin à la frontière avec le Tibet, elles \"sont susceptibles d'avoir affecté de nombreuses zones habitées\", selon un porte-parole des forces de l'ordre népalaises."
+    },
+    "published": "Wed, 26 Aug 2026 13:32:15 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      11,
+      32,
+      15,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/des-inondations-massives-dans-le-nord-du-nepal-font-au-moins-huit-morts_8162150.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NyHkH12a9j3Db1gn4rRqSIOvcD8/0x375:3600x2400/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8eceb901a51480326635.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/des-inondations-massives-dans-le-nord-du-nepal-font-au-moins-huit-morts_8162150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/des-inondations-massives-dans-le-nord-du-nepal-font-au-moins-huit-morts_8162150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
