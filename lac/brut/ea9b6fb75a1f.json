@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T22:43:41.056477+00:00",
+  "_id": "ea9b6fb75a1f",
+  "brut": {
+    "title": "Pourquoi le patron de la CIA s'est rendu à Moscou ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pourquoi le patron de la CIA s'est rendu à Moscou ?"
+    },
+    "summary": "Un avion militaire américain s'est posé à Moscou. Un convoi diplomatique a ensuite traversé la ville avec à son bord le patron de la CIA. Une visite qui intervient alors que les discussions en Ukraine sont au point mort.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un avion militaire américain s'est posé à Moscou. Un convoi diplomatique a ensuite traversé la ville avec à son bord le patron de la CIA. Une visite qui intervient alors que les discussions en Ukraine sont au point mort."
+    },
+    "published": "Wed, 26 Aug 2026 22:20:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      20,
+      20,
+      44,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-le-patron-de-la-cia-s-est-rendu-a-moscou_8164205.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/s_M3aHcUKWDuhn5D5P-DZI9Fp0Y/100x0:1576x830/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8f483a0c26a788914123.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-le-patron-de-la-cia-s-est-rendu-a-moscou_8164205.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-le-patron-de-la-cia-s-est-rendu-a-moscou_8164205.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

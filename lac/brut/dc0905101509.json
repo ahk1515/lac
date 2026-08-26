@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T22:43:41.056732+00:00",
+  "_id": "dc0905101509",
+  "brut": {
+    "title": "Népal : un tsunami de boue fait des centaines de disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Népal : un tsunami de boue fait des centaines de disparus"
+    },
+    "summary": "Des dizaines de personnes ont été emportées par un torrent de boue et de rochers à la frontière entre le Népal et le Tibet. En quelques secondes, des villages, des routes et des ponts ont été balayés. Au moins 160 personnes sont mortes et plus de 400 sont portées disparues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des dizaines de personnes ont été emportées par un torrent de boue et de rochers à la frontière entre le Népal et le Tibet. En quelques secondes, des villages, des routes et des ponts ont été balayés. Au moins 160 personnes sont mortes et plus de 400 sont portées disparues."
+    },
+    "published": "Wed, 26 Aug 2026 20:20:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      18,
+      20,
+      20,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/nepal-un-tsunami-de-boue-fait-des-centaines-de-disparus_8164118.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/LPR8cw9lMDkkrhUTz1yo0njS3e4/138x0:1610x828/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8f2deba6a95959314864.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/nepal-un-tsunami-de-boue-fait-des-centaines-de-disparus_8164118.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/nepal-un-tsunami-de-boue-fait-des-centaines-de-disparus_8164118.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

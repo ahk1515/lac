@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T22:43:41.056561+00:00",
+  "_id": "d04da407eefd",
+  "brut": {
+    "title": "Faux amphithéâtre grec, vraie arnaque",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Faux amphithéâtre grec, vraie arnaque"
+    },
+    "summary": "Fausses colonnes, fausses sculptures… Tout est faux dans ce site archéologique créé de toutes pièces pour arnaquer les touristes. Le faussaire vient d’être condamné par la justice italienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Fausses colonnes, fausses sculptures… Tout est faux dans ce site archéologique créé de toutes pièces pour arnaquer les touristes. Le faussaire vient d’être condamné par la justice italienne."
+    },
+    "published": "Wed, 26 Aug 2026 21:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      19,
+      0,
+      1,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/faux-amphitheatre-grec-vraie-arnaque_8164046.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/zL5IrxJbYiG0WaaBUOwaxuMxLLg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/26/6a8f1563cb250598146535.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/faux-amphitheatre-grec-vraie-arnaque_8164046.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/faux-amphitheatre-grec-vraie-arnaque_8164046.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

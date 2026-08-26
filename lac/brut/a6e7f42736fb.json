@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T22:43:41.056647+00:00",
+  "_id": "a6e7f42736fb",
+  "brut": {
+    "title": "Inondations meurtrières au Népal : comment la vague s'est-elle formée ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Inondations meurtrières au Népal : comment la vague s'est-elle formée ?"
+    },
+    "summary": "Comment un tel mur d'eau a pu surgir en quelques secondes ? Plusieurs phénomènes ont pu s'enchaîner. Les scientifiques tentent encore de reconstituer le scénario exact.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comment un tel mur d'eau a pu surgir en quelques secondes ? Plusieurs phénomènes ont pu s'enchaîner. Les scientifiques tentent encore de reconstituer le scénario exact."
+    },
+    "published": "Wed, 26 Aug 2026 20:39:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      18,
+      39,
+      16,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/inondations-meurtrieres-au-nepal-comment-la-vague-s-est-elle-formee_8164124.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/4LwPyfRxqBVxEHwyUe8IMqKYdr0/137x0:1574x808/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8f2f4a942bc775468060.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/inondations-meurtrieres-au-nepal-comment-la-vague-s-est-elle-formee_8164124.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/inondations-meurtrieres-au-nepal-comment-la-vague-s-est-elle-formee_8164124.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

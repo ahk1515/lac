@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-26T22:43:41.056164+00:00",
+  "_id": "98c434ce3e2b",
+  "brut": {
+    "title": "Les Etats-Unis approuvent un traitement prometteur contre le cancer du pancréas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Etats-Unis approuvent un traitement prometteur contre le cancer du pancréas"
+    },
+    "summary": "Développé par la start-up américaine Revolution Medicines, ce médicament est nommé Rasonque et pourra être pris sous la forme de comprimés .",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Développé par la start-up américaine Revolution Medicines, ce médicament est nommé Rasonque et pourra être pris sous la forme de comprimés ."
+    },
+    "published": "Wed, 26 Aug 2026 23:56:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      21,
+      56,
+      2,
+      2,
+      238,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/cancer/les-etats-unis-approuvent-un-traitement-prometteur-contre-le-cancer-du-pancreas_8164199.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8FN9J_1g97KdyeobF4ufwaCGKcU/0x20:7850x4436/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8f60bc5d184064440971.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/cancer/les-etats-unis-approuvent-un-traitement-prometteur-contre-le-cancer-du-pancreas_8164199.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/cancer/les-etats-unis-approuvent-un-traitement-prometteur-contre-le-cancer-du-pancreas_8164199.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

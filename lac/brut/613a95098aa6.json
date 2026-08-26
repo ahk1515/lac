@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-26T22:43:40.858574+00:00",
+  "_id": "613a95098aa6",
+  "brut": {
+    "title": "La crue dévastatrice au Népal et au Tibet a fait au moins 160 morts et des centaines de disparus, dont de nombreux touristes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La crue dévastatrice au Népal et au Tibet a fait au moins 160 morts et des centaines de disparus, dont de nombreux touristes"
+    },
+    "published": "Wed, 26 Aug 2026 20:13:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      18,
+      13,
+      28,
+      2,
+      238,
+      0
+    ],
+    "updated": "Wed, 26 Aug 2026 21:15:00 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      26,
+      19,
+      15,
+      0,
+      2,
+      238,
+      0
+    ],
+    "summary": "Des images diffusées par la police népalaise ont montré les eaux déferlant dans le lit d’une rivière et emportant des maisons sur leur passage.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des images diffusées par la police népalaise ont montré les eaux déferlant dans le lit d’une rivière et emportant des maisons sur leur passage."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/26/la-crue-devastatrice-au-nepal-et-au-tibet-a-fait-au-moins-160-morts-et-des-centaines-de-disparus_6757359_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/26/la-crue-devastatrice-au-nepal-et-au-tibet-a-fait-au-moins-160-morts-et-des-centaines-de-disparus_6757359_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/26/la-crue-devastatrice-au-nepal-et-au-tibet-a-fait-au-moins-160-morts-et-des-centaines-de-disparus_6757359_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/36/0/5500/2750/644/322/60/0/6c51667_ftp-1-gfeu3eazfage-2026-08-26t132936z-1452149050-rc2d6najsgph-rtrmadp-3-nepal-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une crue soudaine à Trishuli (Népal), le 26 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Navesh Chitrakar/REUTERS"
+      }
+    ],
+    "credit": "Navesh Chitrakar/REUTERS"
+  }
+}
