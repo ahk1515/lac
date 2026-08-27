@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T18:51:10.637478+00:00",
+  "_id": "e81007273107",
+  "brut": {
+    "title": "Israël cherche à isoler l’Iran et faire s’écrouler le régime",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël cherche à isoler l’Iran et faire s’écrouler le régime"
+    },
+    "published": "Thu, 27 Aug 2026 19:30:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      17,
+      30,
+      3,
+      3,
+      239,
+      0
+    ],
+    "summary": "Alors que Donald Trump a durci les sanctions contre Téhéran, le 24 août, l’Etat hébreu espère qu’une révolte populaire provoquera la chute de la République islamique. Nombre de voix au sein de l’armée souhaitent de nouvelles frappes contre les infrastructures civiles iraniennes, afin d’accélérer le déclin du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que Donald Trump a durci les sanctions contre Téhéran, le 24 août, l’Etat hébreu espère qu’une révolte populaire provoquera la chute de la République islamique. Nombre de voix au sein de l’armée souhaitent de nouvelles frappes contre les infrastructures civiles iraniennes, afin d’accélérer le déclin du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/27/israel-cherche-a-isoler-l-iran-et-faire-s-ecrouler-le-regime_6758497_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/27/israel-cherche-a-isoler-l-iran-et-faire-s-ecrouler-le-regime_6758497_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/27/israel-cherche-a-isoler-l-iran-et-faire-s-ecrouler-le-regime_6758497_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/02/703/0/8439/4219/644/322/60/0/16c2d43_ftp-1-fkuuf6evtokc-e04ccc58c7d9446ba3c0d4e611648cf1-0-9d9b8240bfef46be96eb556b7b859691.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les portraits de l’ayatollah Ruhollah Khomeyni (à gauche), de l’actuel Guide suprême de l’Iran, l’ayatollah Mojtaba Khamenei (au centre), et de son prédécesseur, l’ayatollah Ali Khamenei, tué lors de la frappe américaine et israélienne du 28 février 2026. A Téhéran, le 2 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vahid Salemi/AP"
+      }
+    ],
+    "credit": "Vahid Salemi/AP"
+  }
+}

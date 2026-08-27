@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T18:51:10.637887+00:00",
+  "_id": "c8ed874603cb",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins 18 blessés en Ukraine dans des attaques de drones russes en plein jour",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins 18 blessés en Ukraine dans des attaques de drones russes en plein jour"
+    },
+    "published": "Thu, 27 Aug 2026 19:05:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      17,
+      5,
+      10,
+      3,
+      239,
+      0
+    ],
+    "updated": "Thu, 27 Aug 2026 20:38:15 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      27,
+      18,
+      38,
+      15,
+      3,
+      239,
+      0
+    ],
+    "summary": "Huit personnes ont été blessées à la suite d’attaques russes, jeudi, dans l’oblast de Dnipropetrovsk, dans le centre du pays. Les autorités locales ukrainiennes ont également fait état de trois blessés à Kherson dans une frappe sur un bus municipal, et de trois autres à Odessa, deux villes du sud du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Huit personnes ont été blessées à la suite d’attaques russes, jeudi, dans l’oblast de Dnipropetrovsk, dans le centre du pays. Les autorités locales ukrainiennes ont également fait état de trois blessés à Kherson dans une frappe sur un bus municipal, et de trois autres à Odessa, deux villes du sud du pays."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-au-moins-18-blesses-en-ukraine-dans-des-attaques-de-drones-russes-en-plein-jour_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-au-moins-18-blesses-en-ukraine-dans-des-attaques-de-drones-russes-en-plein-jour_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-au-moins-18-blesses-en-ukraine-dans-des-attaques-de-drones-russes-en-plein-jour_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/694/0/5135/2567/644/322/60/0/1042b0e_ftp-1-ebumxxk82nyv-2026-08-27t113434z-1105809626-rc2y6naxwgcm-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans le centre-ville de Kiev, à la suite d’une attaque de drone russe, le 27 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alina Smutko/REUTERS"
+      }
+    ],
+    "credit": "Alina Smutko/REUTERS"
+  }
+}

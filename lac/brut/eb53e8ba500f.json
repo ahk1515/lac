@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T18:51:10.638546+00:00",
+  "_id": "eb53e8ba500f",
+  "brut": {
+    "title": "L’OMS déclare la fin de l’épidémie causée par le virus Ebola en Ouganda",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’OMS déclare la fin de l’épidémie causée par le virus Ebola en Ouganda"
+    },
+    "published": "Thu, 27 Aug 2026 17:36:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      15,
+      36,
+      33,
+      3,
+      239,
+      0
+    ],
+    "summary": "En l’absence de nouvelle contamination recensée 42 jours après la sortie du dernier malade de l’hôpital, l’Organisation a déclaré la fin de l’épidémie en Ouganda. L’épidémie continue cependant de faire rage en République démocratique du Congo.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En l’absence de nouvelle contamination recensée 42 jours après la sortie du dernier malade de l’hôpital, l’Organisation a déclaré la fin de l’épidémie en Ouganda. L’épidémie continue cependant de faire rage en République démocratique du Congo."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/381/0/5807/2903/644/322/60/0/9bab17c_ftp-1-ysn74ha8uh2a-5930600-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant l’unité d’isolement de l’hôpital national de référence de Mulago, à Kampala (Ouganda), le 8 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BADRU KATUMBA/AFP"
+      }
+    ],
+    "credit": "BADRU KATUMBA/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-27T18:51:10.883474+00:00",
+  "_id": "dcc9aa49dcdf",
+  "brut": {
+    "title": "Le Yucatán, un concentré d'héritage Maya au sud du Mexique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Yucatán, un concentré d'héritage Maya au sud du Mexique"
+    },
+    "summary": "Le \"13 Heures Découverte\" vous emmène ce jeudi sur la péninsule du Yucatán, au sud du Mexique. Le berceau de la civilisation Maya, où les vestiges impressionnants classés au patrimoine de l’Unesco côtoient la jungle luxuriante ponctuée de merveilles naturelles et les eaux turquoise des Caraïbes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le \"13 Heures Découverte\" vous emmène ce jeudi sur la péninsule du Yucatán, au sud du Mexique. Le berceau de la civilisation Maya, où les vestiges impressionnants classés au patrimoine de l’Unesco côtoient la jungle luxuriante ponctuée de merveilles naturelles et les eaux turquoise des Caraïbes."
+    },
+    "published": "Thu, 27 Aug 2026 18:32:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      16,
+      32,
+      27,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ameriques/le-yucatan-un-concentre-d-heritage-maya-au-sud-du-mexique_8165459.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Na7At93oFGroOGlR52Pg5PNIQoY/121x0:1519x786/432x243/filters:format(jpg)/2026/08/27/6a90667e7b1c4120362190.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ameriques/le-yucatan-un-concentre-d-heritage-maya-au-sud-du-mexique_8165459.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ameriques/le-yucatan-un-concentre-d-heritage-maya-au-sud-du-mexique_8165459.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

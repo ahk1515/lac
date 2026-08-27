@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T18:51:10.639248+00:00",
+  "_id": "5c90cf0faf4f",
+  "brut": {
+    "title": "TotalEnergies réduit son exposition au gaz russe mais ne se désengage pas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "TotalEnergies réduit son exposition au gaz russe mais ne se désengage pas"
+    },
+    "published": "Thu, 27 Aug 2026 17:00:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      15,
+      0,
+      4,
+      3,
+      239,
+      0
+    ],
+    "updated": "Thu, 27 Aug 2026 18:23:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      27,
+      16,
+      23,
+      26,
+      3,
+      239,
+      0
+    ],
+    "summary": "La major française a cédé sa participation dans le projet Arctic LNG 2 mais elle reste actionnaire du groupe russe Novatek et de l’usine de liquéfaction Yamal LNG, située en Sibérie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La major française a cédé sa participation dans le projet Arctic LNG 2 mais elle reste actionnaire du groupe russe Novatek et de l’usine de liquéfaction Yamal LNG, située en Sibérie."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/27/totalenergies-reduit-son-exposition-au-gaz-russe-mais-ne-se-desengage-pas_6758481_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/27/totalenergies-reduit-son-exposition-au-gaz-russe-mais-ne-se-desengage-pas_6758481_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/27/totalenergies-reduit-son-exposition-au-gaz-russe-mais-ne-se-desengage-pas_6758481_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/654/0/5568/2784/644/322/60/0/ce8b536_upload-1-iz40aobmtdce-000-9tr79c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La base de ressources du gisement d’Utrenneye faisant partie du projet Arctic LNG 2 de Novatek, sur la péninsule de Gydan, dans le nord de la Sibérie (Russie), le 30 novembre 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NATALIA KOLESNIKOVA/AFP"
+      }
+    ],
+    "credit": "NATALIA KOLESNIKOVA/AFP"
+  }
+}

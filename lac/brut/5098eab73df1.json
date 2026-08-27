@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-27T18:51:10.886183+00:00",
+  "_id": "5098eab73df1",
+  "brut": {
+    "title": "Les images impressionnantes des crues meurtrières au Népal",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les images impressionnantes des crues meurtrières au Népal"
+    },
+    "summary": "Au Népal, une gigantesque coulée de boue a fait au moins 273 morts et plus de 1 300 disparus. Des villages ont été rayés de la carte en quelques secondes. Les images amateurs illustrent la taille impressionnante de cette vague qui a tout emporté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Népal, une gigantesque coulée de boue a fait au moins 273 morts et plus de 1 300 disparus. Des villages ont été rayés de la carte en quelques secondes. Les images amateurs illustrent la taille impressionnante de cette vague qui a tout emporté."
+    },
+    "published": "Thu, 27 Aug 2026 13:41:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      11,
+      41,
+      2,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-images-impressionnantes-des-crues-meurtrieres-au-nepal_8165024.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/F3skpEYrOFRwL1KlVvytJayckmQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/27/6a90220098ddf444445737.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-images-impressionnantes-des-crues-meurtrieres-au-nepal_8165024.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-images-impressionnantes-des-crues-meurtrieres-au-nepal_8165024.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

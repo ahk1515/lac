@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T18:51:10.639014+00:00",
+  "_id": "31d72aaca83d",
+  "brut": {
+    "title": "En Syrie, la dissolution des FDS scelle la fin de l’autonomie des Kurdes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Syrie, la dissolution des FDS scelle la fin de l’autonomie des Kurdes"
+    },
+    "published": "Thu, 27 Aug 2026 17:01:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      15,
+      1,
+      30,
+      3,
+      239,
+      0
+    ],
+    "updated": "Thu, 27 Aug 2026 18:37:43 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      27,
+      16,
+      37,
+      43,
+      3,
+      239,
+      0
+    ],
+    "summary": "Après l’annonce, mardi 25 août, de la dissolution des Forces démocratiques syriennes, les responsables kurdes négocient leur intégration à l’Etat syrien, sans avoir aplani tous les contentieux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après l’annonce, mardi 25 août, de la dissolution des Forces démocratiques syriennes, les responsables kurdes négocient leur intégration à l’Etat syrien, sans avoir aplani tous les contentieux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/27/en-syrie-la-dissolution-des-fds-scelle-la-fin-de-l-autonomie-des-kurdes_6758482_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/27/en-syrie-la-dissolution-des-fds-scelle-la-fin-de-l-autonomie-des-kurdes_6758482_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/27/en-syrie-la-dissolution-des-fds-scelle-la-fin-de-l-autonomie-des-kurdes_6758482_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/491/0/5892/2946/644/322/60/0/7825491_ftp-1-rmc9dens0br8-ad7c98008f7a42f7b024d712a8739eb0-0-4d9ca9baaa3746eb85f92eab5475faf9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président syrien, Ahmed Al-Charaa, à droite, et le commandant des Forces démocratiques syriennes dirigées par les Kurdes, Mazloum Abdi, au palais présidentiel à Damas, le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ghaith Alsayed/AP"
+      }
+    ],
+    "credit": "Ghaith Alsayed/AP"
+  }
+}

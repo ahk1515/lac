@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-27T18:51:10.884455+00:00",
+  "_id": "6db706c93dc9",
+  "brut": {
+    "title": "Joan Baez : \"Je suis une amoureuse de tout ce qui peut me sauver dans la vie\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Joan Baez : \"Je suis une amoureuse de tout ce qui peut me sauver dans la vie\""
+    },
+    "summary": "L'auteure, compositrice et interprète Joan Baez est l'invitée exceptionnelle toute cette semaine du Monde d'Élodie, à l'occasion de la sortie, de son recueil de poésie, \"Quand tu verras ma mère, invite-la à danser\", aux éditions Points. Épisode 4 : L'amour.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'auteure, compositrice et interprète Joan Baez est l'invitée exceptionnelle toute cette semaine du Monde d'Élodie, à l'occasion de la sortie, de son recueil de poésie, \"Quand tu verras ma mère, invite-la à danser\", aux éditions Points. Épisode 4 : L'amour."
+    },
+    "published": "Thu, 27 Aug 2026 15:30:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      13,
+      30,
+      2,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/joan-baez-je-suis-une-amoureuse-de-tout-ce-qui-peut-me-sauver-dans-la-vie_8080265.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5jzlwvwCKkz-BVX5o2yVXaasMrM/0x208:4000x2458/432x243/filters:format(jpg)/2026/07/30/6a6b1d61b207e352324901.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/joan-baez-je-suis-une-amoureuse-de-tout-ce-qui-peut-me-sauver-dans-la-vie_8080265.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/joan-baez-je-suis-une-amoureuse-de-tout-ce-qui-peut-me-sauver-dans-la-vie_8080265.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

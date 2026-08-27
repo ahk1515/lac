@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T18:51:10.639433+00:00",
+  "_id": "bf2d15f1d78f",
+  "brut": {
+    "title": "Le procès du cerveau présumé du 11-Septembre, Khalid Cheikh Mohammed, commencera le 5 juin 2028",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le procès du cerveau présumé du 11-Septembre, Khalid Cheikh Mohammed, commencera le 5 juin 2028"
+    },
+    "published": "Thu, 27 Aug 2026 16:22:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      14,
+      22,
+      30,
+      3,
+      239,
+      0
+    ],
+    "updated": "Thu, 27 Aug 2026 17:46:12 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      27,
+      15,
+      46,
+      12,
+      3,
+      239,
+      0
+    ],
+    "summary": "Khalid Cheikh Mohammed, capturé au Pakistan en 2003, a été par la suite transféré à la prison de Guantanamo. Il est entre-temps passé par les prisons secrètes de la CIA en Pologne pour y subir des séances d’interrogatoire sous la torture.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Khalid Cheikh Mohammed, capturé au Pakistan en 2003, a été par la suite transféré à la prison de Guantanamo. Il est entre-temps passé par les prisons secrètes de la CIA en Pologne pour y subir des séances d’interrogatoire sous la torture."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/27/le-proces-du-cerveau-presume-du-11-septembre-khalid-cheikh-mohammed-commencera-le-5-juin-2028_6758479_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/27/le-proces-du-cerveau-presume-du-11-septembre-khalid-cheikh-mohammed-commencera-le-5-juin-2028_6758479_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/27/le-proces-du-cerveau-presume-du-11-septembre-khalid-cheikh-mohammed-commencera-le-5-juin-2028_6758479_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/227/0/2100/1050/644/322/60/0/261b138_upload-1-nkw84gw9b4zi-000-was2003102117426.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Photo, obtenue le 1ᵉʳ mars 2003, de Khalid Cheikh Mohammed, le cerveau présumé des attentats du 11 septembre 2001, peu après sa capture."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

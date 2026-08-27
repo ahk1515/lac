@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-27T18:51:10.882956+00:00",
+  "_id": "eb15513ae50e",
+  "brut": {
+    "title": "En Ukraine, des attaques de drones russes en plein jour font un mort et plusieurs blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, des attaques de drones russes en plein jour font un mort et plusieurs blessés"
+    },
+    "summary": "Ces attaques en pleine journée sont de moins en moins rares, en Ukraine comme en Russie, les deux pays se menant une guerre dans les airs de plus en plus intense.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces attaques en pleine journée sont de moins en moins rares, en Ukraine comme en Russie, les deux pays se menant une guerre dans les airs de plus en plus intense."
+    },
+    "published": "Thu, 27 Aug 2026 19:34:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      17,
+      34,
+      55,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-attaques-de-drones-russes-en-plein-jour-font-un-mort-et-plusieurs-blesses_8165549.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JLUKFqUj7n-b2akvotqardkKtac/0x244:4687x2880/432x243/filters:format(jpg)/2026/08/27/6a90750889785581871062.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-attaques-de-drones-russes-en-plein-jour-font-un-mort-et-plusieurs-blesses_8165549.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-attaques-de-drones-russes-en-plein-jour-font-un-mort-et-plusieurs-blesses_8165549.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
