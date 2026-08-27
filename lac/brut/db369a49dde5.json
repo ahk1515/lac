@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T07:26:05.897804+00:00",
+  "_id": "db369a49dde5",
+  "brut": {
+    "title": "En Algérie, douze morts dans des feux de forêt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Algérie, douze morts dans des feux de forêt"
+    },
+    "published": "Thu, 27 Aug 2026 01:22:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      23,
+      22,
+      24,
+      2,
+      238,
+      0
+    ],
+    "updated": "Thu, 27 Aug 2026 07:52:24 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      27,
+      5,
+      52,
+      24,
+      3,
+      239,
+      0
+    ],
+    "summary": "Des dizaines de personnes ont été évacuées, les incendies progressant jusque dans des zones résidentielles de plusieurs régions du nord-est du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des dizaines de personnes ont été évacuées, les incendies progressant jusque dans des zones résidentielles de plusieurs régions du nord-est du pays."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/27/en-algerie-12-morts-dans-des-incendies-de-forets_6757631_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/27/en-algerie-12-morts-dans-des-incendies-de-forets_6757631_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/27/en-algerie-12-morts-dans-des-incendies-de-forets_6757631_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/802/0/6216/3108/644/322/60/0/c8de223_upload-1-pcsq9xqxzk7v-000-c2qk7ek.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un agent forestier lutte contre un incendie de forêt dans une zone montagneuse près de la ville d’El-Hachimia (Algérie), le 21 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

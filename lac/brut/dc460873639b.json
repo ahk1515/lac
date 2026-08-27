@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-27T07:26:06.315782+00:00",
+  "_id": "dc460873639b",
+  "brut": {
+    "title": "PORTRAIT. Rock en Seine 2026 : Djo, le dévoué musicien (et acteur) aux accents nostalgiques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PORTRAIT. Rock en Seine 2026 : Djo, le dévoué musicien (et acteur) aux accents nostalgiques"
+    },
+    "summary": "Révélé comme acteur dans la série \"Stranger Things\", Joe Keery vient en France avec sa casquette de chanteur. Djo - son pseudo en musique - est à Rock en Seine pour un concert exceptionnel jeudi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Révélé comme acteur dans la série \"Stranger Things\", Joe Keery vient en France avec sa casquette de chanteur. Djo - son pseudo en musique - est à Rock en Seine pour un concert exceptionnel jeudi."
+    },
+    "published": "Thu, 27 Aug 2026 06:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      4,
+      0,
+      2,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/musique/rock-en-seine/portrait-rock-en-seine-2026-djo-le-devoue-musicien-et-acteur-aux-accents-nostalgiques_8135948.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2r_ZlzrUCYdt9qiY-z40qKE17-w/169x115:2936x1671/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8d8ec68ea04783063427.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/musique/rock-en-seine/portrait-rock-en-seine-2026-djo-le-devoue-musicien-et-acteur-aux-accents-nostalgiques_8135948.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/musique/rock-en-seine/portrait-rock-en-seine-2026-djo-le-devoue-musicien-et-acteur-aux-accents-nostalgiques_8135948.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

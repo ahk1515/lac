@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T07:26:05.897884+00:00",
+  "_id": "9c188d0079fd",
+  "brut": {
+    "title": "Les Etats-Unis suspendent les rendez-vous consulaires nécessaires à l’obtention d’un visa d’immigration",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis suspendent les rendez-vous consulaires nécessaires à l’obtention d’un visa d’immigration"
+    },
+    "published": "Thu, 27 Aug 2026 01:20:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      26,
+      23,
+      20,
+      30,
+      2,
+      238,
+      0
+    ],
+    "updated": "Thu, 27 Aug 2026 07:28:02 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      27,
+      5,
+      28,
+      2,
+      3,
+      239,
+      0
+    ],
+    "summary": "Cette mesure, qui devrait durer quelques semaines, a été prise afin de former les agents au renforcement des contrôles sur les critères d’admission, notamment la notion de « charge publique » pour le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette mesure, qui devrait durer quelques semaines, a été prise afin de former les agents au renforcement des contrôles sur les critères d’admission, notamment la notion de « charge publique » pour le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/27/les-etats-unis-suspendent-les-rendez-vous-consulaires-necessaires-a-l-obtention-d-un-visa-d-immigration_6757630_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/27/les-etats-unis-suspendent-les-rendez-vous-consulaires-necessaires-a-l-obtention-d-un-visa-d-immigration_6757630_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/27/les-etats-unis-suspendent-les-rendez-vous-consulaires-necessaires-a-l-obtention-d-un-visa-d-immigration_6757630_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/550/0/5500/2750/644/322/60/0/573f3ab_ftp-1-ymulkqnaqw0z-2026-08-26t002925z-1449012845-rc2wtmawz2eh-rtrmadp-3-usa-trump-migration-visas.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump et le secrétaire d’Etat américain, Marco Rubio, à Washington, le 7 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Elizabeth Frantz/REUTERS"
+      }
+    ],
+    "credit": "Elizabeth Frantz/REUTERS"
+  }
+}

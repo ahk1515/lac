@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-27T07:26:05.897044+00:00",
+  "_id": "d5ee10ff537a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : le point sur la situation"
+    },
+    "published": "Thu, 27 Aug 2026 06:51:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      4,
+      51,
+      11,
+      3,
+      239,
+      0
+    ],
+    "updated": "Thu, 27 Aug 2026 09:10:04 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      27,
+      7,
+      10,
+      4,
+      3,
+      239,
+      0
+    ],
+    "summary": "Le directeur de la CIA, John Ratcliffe, s’est rendu mardi à Moscou pour discuter « entre services secrets », a affirmé, mercredi, le porte-parole du Kremlin, Dmitri Peskov. Donald Trump a évoqué une possible avancée dans le dossier ukrainien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le directeur de la CIA, John Ratcliffe, s’est rendu mardi à Moscou pour discuter « entre services secrets », a affirmé, mercredi, le porte-parole du Kremlin, Dmitri Peskov. Donald Trump a évoqué une possible avancée dans le dossier ukrainien."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/97/0/3648/1824/644/322/60/0/b7bcc93_ftp-1-4ylcdiyyjihs-2026-07-31t200758z-16775392-rc27pmayep67-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump (à gauche), et le directeur de la CIA, John Ratcliffe, à Thurmont (Maryland, Etats-Unis), le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nathan Howard/REUTERS"
+      }
+    ],
+    "credit": "Nathan Howard/REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-27T07:26:06.315652+00:00",
+  "_id": "063fe504f058",
+  "brut": {
+    "title": "Le retour très discret de Meghan et Harry au Royaume-Uni",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le retour très discret de Meghan et Harry au Royaume-Uni"
+    },
+    "summary": "Six ans après leur départ fracassant, Harry et Meghan sont de retour au Royaume-Uni. Ils ont atterri dans la matinée du mercredi 26 août à l'aéroport de Birmingham, au Royaume-Uni, en toute discrétion.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Six ans après leur départ fracassant, Harry et Meghan sont de retour au Royaume-Uni. Ils ont atterri dans la matinée du mercredi 26 août à l'aéroport de Birmingham, au Royaume-Uni, en toute discrétion."
+    },
+    "published": "Thu, 27 Aug 2026 07:59:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      5,
+      59,
+      44,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/familles-royales/le-retour-tres-discret-de-meghan-et-harry-au-royaume-uni_8164568.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-tPGtlW5i8DrETPSl2Werc1epyU/130x0:1340x681/432x243/filters:format(jpg):quality(50)/2026/08/27/6a8fd210c9824032615329.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/familles-royales/le-retour-tres-discret-de-meghan-et-harry-au-royaume-uni_8164568.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/familles-royales/le-retour-tres-discret-de-meghan-et-harry-au-royaume-uni_8164568.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
