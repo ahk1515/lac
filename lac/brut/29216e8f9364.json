@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T19:54:00.497552+00:00",
+  "_id": "29216e8f9364",
+  "brut": {
+    "title": "VIDEO Algérie : le témoignage d’habitants sinistrés après des incendies meurtriers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Algérie : le témoignage d’habitants sinistrés après des incendies meurtriers"
+    },
+    "published": "Fri, 28 Aug 2026 14:26:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      12,
+      26,
+      11,
+      4,
+      240,
+      0
+    ],
+    "summary": "Des dizaines de personnes ont été évacuées, les incendies progressant jusque dans des zones résidentielles de plusieurs régions du nord-est du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des dizaines de personnes ont été évacuées, les incendies progressant jusque dans des zones résidentielles de plusieurs régions du nord-est du pays."
+    },
+    "id": "https://www.lemonde.fr/afrique/video/2026/08/28/algerie-le-temoignage-d-habitants-sinistres-apres-des-incendies-meurtriers_6759002_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/video/2026/08/28/algerie-le-temoignage-d-habitants-sinistres-apres-des-incendies-meurtriers_6759002_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/video/2026/08/28/algerie-le-temoignage-d-habitants-sinistres-apres-des-incendies-meurtriers_6759002_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/28/560/0/6720/3360/644/322/60/0/d0e4c7a_ftp-1-o93euvhtvyu8-5936530-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

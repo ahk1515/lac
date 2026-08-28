@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T19:54:00.671933+00:00",
+  "_id": "5d48a7be4b71",
+  "brut": {
+    "title": "Quand Donald Trump décide de jouer avec la géographie canadienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quand Donald Trump décide de jouer avec la géographie canadienne"
+    },
+    "summary": "En plein bras de fer avec le Canada, Donald a décidé de rebaptiser le Lac Ontario en \"Lac de l'Amérique\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En plein bras de fer avec le Canada, Donald a décidé de rebaptiser le Lac Ontario en \"Lac de l'Amérique\"."
+    },
+    "published": "Fri, 28 Aug 2026 21:38:19 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      19,
+      38,
+      19,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/quand-donald-trump-decide-de-jouer-avec-la-geographie-canadienne_8167157.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/D8q62tnhOBMzBmsC4ojoOMBmBRg/111x0:1564x817/432x243/filters:format(jpg)/2026/08/28/6a91e1647aaa0954325021.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/quand-donald-trump-decide-de-jouer-avec-la-geographie-canadienne_8167157.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/quand-donald-trump-decide-de-jouer-avec-la-geographie-canadienne_8167157.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

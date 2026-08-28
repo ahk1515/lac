@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T19:54:00.498490+00:00",
+  "_id": "56b9827164f5",
+  "brut": {
+    "title": "L’Islande, une nation sans armée, dépendante de l’OTAN pour sa sécurité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Islande, une nation sans armée, dépendante de l’OTAN pour sa sécurité"
+    },
+    "published": "Fri, 28 Aug 2026 11:00:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      9,
+      0,
+      16,
+      4,
+      240,
+      0
+    ],
+    "summary": "Malgré les menaces de Donald Trump contre son voisin groenlandais et les doutes pesant sur l’avenir de l’Alliance atlantique, l’île continue de compter sur sa relation avec les Etats-Unis, formalisée dans l’accord de défense de 1951.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Malgré les menaces de Donald Trump contre son voisin groenlandais et les doutes pesant sur l’avenir de l’Alliance atlantique, l’île continue de compter sur sa relation avec les Etats-Unis, formalisée dans l’accord de défense de 1951."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/28/l-islande-une-nation-sans-armee-dependante-de-l-otan-pour-sa-securite_6758976_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/28/l-islande-une-nation-sans-armee-dependante-de-l-otan-pour-sa-securite_6758976_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/28/l-islande-une-nation-sans-armee-dependante-de-l-otan-pour-sa-securite_6758976_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/1032/0/8256/4128/644/322/60/0/5a228aa_upload-1-sp22v1jwe8cz-dsf3410.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au port de Reykjavik, avant l’exercice bisannuel de l’OTAN en Islande Northern Viking, visant à tester les capacités des alliés, le 19 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BARA KRISTINSDOTTIR POUR « LE MONDE »"
+      }
+    ],
+    "credit": "BARA KRISTINSDOTTIR POUR « LE MONDE »"
+  }
+}

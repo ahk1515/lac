@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T19:54:00.674489+00:00",
+  "_id": "24e56f7b03a5",
+  "brut": {
+    "title": "La start-up française Pasqal fait son entrée à la Bourse de New York et lève 360 millions de dollars",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La start-up française Pasqal fait son entrée à la Bourse de New York et lève 360 millions de dollars"
+    },
+    "summary": "Spécialisée dans l'informatique quantique, l'entreprise doit commencer à être cotée vendredi sur le Nasdaq, à Wall Street.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Spécialisée dans l'informatique quantique, l'entreprise doit commencer à être cotée vendredi sur le Nasdaq, à Wall Street."
+    },
+    "published": "Fri, 28 Aug 2026 13:34:55 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      11,
+      34,
+      55,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/la-start-up-francaise-pasqal-fait-son-entree-a-la-bourse-de-new-york-et-leve-360-millions-de-dollars_8166476.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LVvP8i0eKpcicSZr_Sas_SU8NEg/0x260:5736x3487/432x243/filters:format(jpg)/2026/08/28/6a917125eac54217172113.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/la-start-up-francaise-pasqal-fait-son-entree-a-la-bourse-de-new-york-et-leve-360-millions-de-dollars_8166476.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/la-start-up-francaise-pasqal-fait-son-entree-a-la-bourse-de-new-york-et-leve-360-millions-de-dollars_8166476.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T19:54:00.498238+00:00",
+  "_id": "09b4ecd69e12",
+  "brut": {
+    "title": "Traverser le canal de Suez, un défi technique qui se paye en centaines de milliers de dollars",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Traverser le canal de Suez, un défi technique qui se paye en centaines de milliers de dollars"
+    },
+    "published": "Fri, 28 Aug 2026 12:11:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      10,
+      11,
+      44,
+      4,
+      240,
+      0
+    ],
+    "updated": "Fri, 28 Aug 2026 12:13:00 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      28,
+      10,
+      13,
+      0,
+      4,
+      240,
+      0
+    ],
+    "summary": "« Suez, canal historique » (5/6). L’axe reliant la Méditerranée à la mer Rouge est une artère essentielle du commerce mondial. Les navires qui l’empruntent – plus de 25 000 durant l’année 2022-2023, un record ! – doivent respecter une réglementation stricte et s’acquitter de droits de passage qui peuvent avoisiner 1 million de dollars.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Suez, canal historique » (5/6). L’axe reliant la Méditerranée à la mer Rouge est une artère essentielle du commerce mondial. Les navires qui l’empruntent – plus de 25 000 durant l’année 2022-2023, un record ! – doivent respecter une réglementation stricte et s’acquitter de droits de passage qui peuvent avoisiner 1 million de dollars."
+    },
+    "id": "https://www.lemonde.fr/series-d-ete/article/2026/08/28/traverser-le-canal-de-suez-un-defi-technique-qui-se-paye-en-centaines-de-milliers-de-dollars_6757908_3451061.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/28/traverser-le-canal-de-suez-un-defi-technique-qui-se-paye-en-centaines-de-milliers-de-dollars_6757908_3451061.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/series-d-ete/article/2026/08/28/traverser-le-canal-de-suez-un-defi-technique-qui-se-paye-en-centaines-de-milliers-de-dollars_6757908_3451061.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/310/0/7200/3600/644/322/60/0/9e75322_upload-1-icle4fq1xfea-000-96x22t.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Image satellite montrant le porte-conteneurs « Ever-Given » en travers du canal de Suez, le matin du 28 mars 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Maxar Technologies/AFP"
+      }
+    ],
+    "credit": "Maxar Technologies/AFP"
+  }
+}

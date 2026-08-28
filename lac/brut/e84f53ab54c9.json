@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T19:54:00.496609+00:00",
+  "_id": "e84f53ab54c9",
+  "brut": {
+    "title": "En Guinée, les soupçons d’exécutions extrajudiciaires se renforcent après la découverte de nouveaux corps",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Guinée, les soupçons d’exécutions extrajudiciaires se renforcent après la découverte de nouveaux corps"
+    },
+    "published": "Fri, 28 Aug 2026 18:30:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      16,
+      30,
+      7,
+      4,
+      240,
+      0
+    ],
+    "summary": "Alors que les cas de disparitions forcées se multiplient dans le pays depuis le putsch du général Mamadi Doumbouya, le 5 septembre 2021, six corps ont été découverts, lundi 24 août, dans une fosse commune à Sabakhouré.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les cas de disparitions forcées se multiplient dans le pays depuis le putsch du général Mamadi Doumbouya, le 5 septembre 2021, six corps ont été découverts, lundi 24 août, dans une fosse commune à Sabakhouré."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/28/en-guinee-les-soupcons-d-executions-extrajudiciaires-se-renforcent-apres-la-decouverte-de-nouveaux-corps_6759057_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/28/en-guinee-les-soupcons-d-executions-extrajudiciaires-se-renforcent-apres-la-decouverte-de-nouveaux-corps_6759057_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/28/en-guinee-les-soupcons-d-executions-extrajudiciaires-se-renforcent-apres-la-decouverte-de-nouveaux-corps_6759057_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/02/14/333/0/4000/2000/644/322/60/0/0b0ddbf_ftp-1-y5akz3txgd6i-5172949-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président de la Guinée, Mamadi Doumbouya, et son homologue gabonais, Brice Oligui Nguema, au siège de l’Union africaine, à Addis-Abeba, le 14 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MARCO SIMONCELLI/AFP"
+      }
+    ],
+    "credit": "MARCO SIMONCELLI/AFP"
+  }
+}

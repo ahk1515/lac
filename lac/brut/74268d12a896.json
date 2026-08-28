@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T19:54:00.674281+00:00",
+  "_id": "74268d12a896",
+  "brut": {
+    "title": "Un légionnaire français enlevé en Colombie dans une région contrôlée par les trafiquants de drogue",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un légionnaire français enlevé en Colombie dans une région contrôlée par les trafiquants de drogue"
+    },
+    "summary": "Un soldat de l’armée française a été enlevé début août en Colombie. Il fait partie de la Légion étrangère. De nationalité colombienne, il était en permission dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un soldat de l’armée française a été enlevé début août en Colombie. Il fait partie de la Légion étrangère. De nationalité colombienne, il était en permission dans le pays."
+    },
+    "published": "Fri, 28 Aug 2026 18:37:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      16,
+      37,
+      45,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-legionnaire-francais-enleve-en-colombie-dans-une-region-controlee-par-les-trafiquants-de-drogue_8166545.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-eAQ2FucNxjhTESWm9TmN77U-cw/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/28/6a917de4bd13d476595725.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-legionnaire-francais-enleve-en-colombie-dans-une-region-controlee-par-les-trafiquants-de-drogue_8166545.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-legionnaire-francais-enleve-en-colombie-dans-une-region-controlee-par-les-trafiquants-de-drogue_8166545.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

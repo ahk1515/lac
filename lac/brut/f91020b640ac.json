@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T19:54:00.496329+00:00",
+  "_id": "f91020b640ac",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie a attaqué le pays avec sept missiles et 96 drones d’attaque, dit l’armée de l’air ukrainienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie a attaqué le pays avec sept missiles et 96 drones d’attaque, dit l’armée de l’air ukrainienne"
+    },
+    "published": "Fri, 28 Aug 2026 18:59:10 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      16,
+      59,
+      10,
+      4,
+      240,
+      0
+    ],
+    "summary": "« La plupart des drones ennemis ont été dirigés vers la capitale », Kiev, a précisé l’armée. La défense aérienne ukrainienne a abattu ou neutralisé six des sept missiles ainsi que 73 drones d’attaque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La plupart des drones ennemis ont été dirigés vers la capitale », Kiev, a précisé l’armée. La défense aérienne ukrainienne a abattu ou neutralisé six des sept missiles ainsi que 73 drones d’attaque."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/28/en-direct-guerre-en-ukraine-la-russie-a-attaque-le-pays-avec-sept-missiles-et-96-drones-d-attaque-dit-l-armee-de-l-air-ukrainienne_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/28/en-direct-guerre-en-ukraine-la-russie-a-attaque-le-pays-avec-sept-missiles-et-96-drones-d-attaque-dit-l-armee-de-l-air-ukrainienne_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/28/en-direct-guerre-en-ukraine-la-russie-a-attaque-le-pays-avec-sept-missiles-et-96-drones-d-attaque-dit-l-armee-de-l-air-ukrainienne_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/28/823/0/5467/2733/644/322/60/0/110db9c_ftp-1-jcgndsuqptyn-5937252-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un incendie lié à une attaque aérienne visant un centre commercial à Zaporijia, le 28 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DARYA NAZAROVA/AFP"
+      }
+    ],
+    "credit": "DARYA NAZAROVA/AFP"
+  }
+}

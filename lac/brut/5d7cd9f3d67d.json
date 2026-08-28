@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T19:54:00.672245+00:00",
+  "_id": "5d7cd9f3d67d",
+  "brut": {
+    "title": "L'armée israélienne annonce avoir tué \"trois terroristes\" dans une rare frappe en Cisjordanie occupée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne annonce avoir tué \"trois terroristes\" dans une rare frappe en Cisjordanie occupée"
+    },
+    "summary": "Israël a présenté ces trois hommes tués dans la région de Jénine comme des membres du Hamas, mais une autre organisation, le Jihad islamique, les a revendiqués comme ses combattants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël a présenté ces trois hommes tués dans la région de Jénine comme des membres du Hamas, mais une autre organisation, le Jihad islamique, les a revendiqués comme ses combattants."
+    },
+    "published": "Fri, 28 Aug 2026 18:54:53 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      16,
+      54,
+      53,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-annonce-avoir-tue-trois-terroristes-dans-une-rare-frappe-en-cisjordanie-occupee_8167028.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-CVcEBbZsDsZX4_ID_FPx1vakj0/0x92:7642x4391/432x243/filters:format(jpg)/2026/08/28/6a91bd358418f315388720.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-annonce-avoir-tue-trois-terroristes-dans-une-rare-frappe-en-cisjordanie-occupee_8167028.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-annonce-avoir-tue-trois-terroristes-dans-une-rare-frappe-en-cisjordanie-occupee_8167028.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

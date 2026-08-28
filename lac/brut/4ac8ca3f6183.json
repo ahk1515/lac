@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T19:54:00.497105+00:00",
+  "_id": "4ac8ca3f6183",
+  "brut": {
+    "title": "Dans une frappe en Cisjordanie occupée, l’armée israélienne dit avoir « neutralisé trois terroristes »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans une frappe en Cisjordanie occupée, l’armée israélienne dit avoir « neutralisé trois terroristes »"
+    },
+    "published": "Fri, 28 Aug 2026 16:34:56 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      14,
+      34,
+      56,
+      4,
+      240,
+      0
+    ],
+    "updated": "Fri, 28 Aug 2026 21:10:16 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      28,
+      19,
+      10,
+      16,
+      4,
+      240,
+      0
+    ],
+    "summary": "Une opération conjointe de l’armée et des services de renseignement a été menée, vendredi, dans la région de Jénine, dans le nord du territoire palestinien occupé, selon un communiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une opération conjointe de l’armée et des services de renseignement a été menée, vendredi, dans la région de Jénine, dans le nord du territoire palestinien occupé, selon un communiqué."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/28/l-armee-israelienne-dit-cibler-plusieurs-terroristes-dans-de-rares-frappes-en-cisjordanie-occupee_6759044_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/28/l-armee-israelienne-dit-cibler-plusieurs-terroristes-dans-de-rares-frappes-en-cisjordanie-occupee_6759044_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/28/l-armee-israelienne-dit-cibler-plusieurs-terroristes-dans-de-rares-frappes-en-cisjordanie-occupee_6759044_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/28/360/0/4886/2443/644/322/60/0/b0526fd_ftp-1-mbls0thd1feq-2026-08-28t143909z-705473507-rc2q7nase404-rtrmadp-3-israel-palestinians-jenin-airstrike.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des militaires israéliens après une frappe aérienne israélienne à Jénine, en Cisjordanie occupée, le 28 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohamad Torokman / REUTERS"
+      }
+    ],
+    "credit": "Mohamad Torokman / REUTERS"
+  }
+}

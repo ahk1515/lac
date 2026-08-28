@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T19:54:00.674777+00:00",
+  "_id": "3f3e4c4a0b2b",
+  "brut": {
+    "title": "Donald Trump veut rebaptiser le lac Ontario \"lac d'Amérique\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump veut rebaptiser le lac Ontario \"lac d'Amérique\""
+    },
+    "summary": "Donald Trump veut rebaptiser le lac Ontario \"lac d'Amérique\". En pleine guerre commerciale avec le Canada, le président américain a signé un décret ordonnant ce changement de nom \"immédiat\", jeudi 27 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump veut rebaptiser le lac Ontario \"lac d'Amérique\". En pleine guerre commerciale avec le Canada, le président américain a signé un décret ordonnant ce changement de nom \"immédiat\", jeudi 27 août."
+    },
+    "published": "Fri, 28 Aug 2026 11:35:16 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      9,
+      35,
+      16,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/donald-trump-veut-rebaptiser-le-lac-ontario-lac-d-amerique_8166329.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Yi4wM7YZrj8RA2dxfQRKoEcVtys/1598x0:3516x3410/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/28/6a915634cd29c447617299.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/donald-trump-veut-rebaptiser-le-lac-ontario-lac-d-amerique_8166329.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/donald-trump-veut-rebaptiser-le-lac-ontario-lac-d-amerique_8166329.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

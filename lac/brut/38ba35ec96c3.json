@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T19:54:00.496871+00:00",
+  "_id": "38ba35ec96c3",
+  "brut": {
+    "title": "A Gaza, des frappes israéliennes font cinq morts, rapporte la défense civile palestinienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, des frappes israéliennes font cinq morts, rapporte la défense civile palestinienne"
+    },
+    "published": "Fri, 28 Aug 2026 17:46:51 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      15,
+      46,
+      51,
+      4,
+      240,
+      0
+    ],
+    "summary": "Des bombardements à Al-Qarara, dans le sud de l’enclave, ont tué trois personnes de la même famille ; deux autres personnes sont mortes dans une attaque de drone près de la ville de Gaza, selon les autorités gazaouies et des responsables médicaux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des bombardements à Al-Qarara, dans le sud de l’enclave, ont tué trois personnes de la même famille ; deux autres personnes sont mortes dans une attaque de drone près de la ville de Gaza, selon les autorités gazaouies et des responsables médicaux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/28/a-gaza-des-frappes-israeliennes-font-cinq-morts-rapporte-la-defense-civile-palestinienne_6759052_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/28/a-gaza-des-frappes-israeliennes-font-cinq-morts-rapporte-la-defense-civile-palestinienne_6759052_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/28/a-gaza-des-frappes-israeliennes-font-cinq-morts-rapporte-la-defense-civile-palestinienne_6759052_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/711/0/7707/3853/644/322/60/0/4962a61_ftp-1-e3vmmavbnivh-9480359025204b8594c37c2876b09244-2-206b8485ce364a6c8f41cd20af2dd72d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une frappe israélienne, à Deir Al-Balah, dans le centre de la bande de Gaza, le 25 août 2026 ."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdel Kareem Hana/AP"
+      }
+    ],
+    "credit": "Abdel Kareem Hana/AP"
+  }
+}

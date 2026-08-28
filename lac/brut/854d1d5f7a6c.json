@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T19:54:00.673227+00:00",
+  "_id": "854d1d5f7a6c",
+  "brut": {
+    "title": "\"Knitting raves\" : en Estonie, le tricot s'invite en boîte de nuit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Knitting raves\" : en Estonie, le tricot s'invite en boîte de nuit"
+    },
+    "summary": "À Tallinn, une ancienne usine de sous-marins reconvertie en brasserie artisanale accueille des soirées pas comme les autres : les participants y tricotent au son de la musique électronique des DJ. Le média public estonien ERR se penche sur ce sujet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Tallinn, une ancienne usine de sous-marins reconvertie en brasserie artisanale accueille des soirées pas comme les autres : les participants y tricotent au son de la musique électronique des DJ. Le média public estonien ERR se penche sur ce sujet."
+    },
+    "published": "Fri, 28 Aug 2026 15:52:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      13,
+      52,
+      25,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/knitting-raves-en-estonie-le-tricot-s-invite-en-boite-de-nuit_8166581.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/F6tYdJTEmgmJmfOJ39xT2JrSYjE/0x0:1440x810/432x243/filters:format(jpg)/2026/08/28/6a9188ace1807380901543.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/knitting-raves-en-estonie-le-tricot-s-invite-en-boite-de-nuit_8166581.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/knitting-raves-en-estonie-le-tricot-s-invite-en-boite-de-nuit_8166581.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
