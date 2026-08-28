@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T04:02:32.338296+00:00",
+  "_id": "1d7fbad778bb",
+  "brut": {
+    "title": "Crues meurtrières au Népal : quatre Français portés disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Crues meurtrières au Népal : quatre Français portés disparus"
+    },
+    "summary": "L'urgence absolue est désormais de retrouver les disparus, desquels font partie quatre Français. Soldats, secouristes et chiens de recherche sont donc mobilisés, et le temps presse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'urgence absolue est désormais de retrouver les disparus, desquels font partie quatre Français. Soldats, secouristes et chiens de recherche sont donc mobilisés, et le temps presse."
+    },
+    "published": "Thu, 27 Aug 2026 20:50:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      18,
+      50,
+      13,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crues-meurtrieres-au-nepal-quatre-francais-portes-disparus_8165606.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/jx0289QRddZBRyb0xeZ3OS92YN4/178x0:1506x747/432x243/filters:format(jpg)/2026/08/27/6a9081ab6b29e595797053.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crues-meurtrieres-au-nepal-quatre-francais-portes-disparus_8165606.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crues-meurtrieres-au-nepal-quatre-francais-portes-disparus_8165606.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T04:02:32.337637+00:00",
+  "_id": "801b27ca108e",
+  "brut": {
+    "title": "Italie : des missiles retrouvés dans la camionnette d'un Français",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Italie : des missiles retrouvés dans la camionnette d'un Français"
+    },
+    "summary": "Un simple contrôle de police et trois missiles antichars découverts dans une camionnette au port de Bari, dans le sud-est de l'Italie. Le conducteur français arrivait de Grèce. Le fabricant européen, assure à France Télévisions qu’il s’agissait de \"maquettes de tests\", sans explosifs et évoque un \"incident de marquage\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un simple contrôle de police et trois missiles antichars découverts dans une camionnette au port de Bari, dans le sud-est de l'Italie. Le conducteur français arrivait de Grèce. Le fabricant européen, assure à France Télévisions qu’il s’agissait de \"maquettes de tests\", sans explosifs et évoque un \"incident de marquage\"."
+    },
+    "published": "Thu, 27 Aug 2026 22:11:54 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      20,
+      11,
+      54,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/italie-des-missiles-retrouves-dans-la-camionnette-d-un-francais_8165681.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/a-q1W9RfV1JuV_qask6ySCUkqfA/123x0:1528x790/432x243/filters:format(jpg)/2026/08/27/6a90997f1a862797524676.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/italie-des-missiles-retrouves-dans-la-camionnette-d-un-francais_8165681.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/italie-des-missiles-retrouves-dans-la-camionnette-d-un-francais_8165681.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T04:02:32.337764+00:00",
+  "_id": "514209e9a61f",
+  "brut": {
+    "title": "A Gaza, des frappes israéliennes font trois morts, selon les secours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Gaza, des frappes israéliennes font trois morts, selon les secours"
+    },
+    "summary": "L'armée israélienne a confirmé avoir mené des frappes contre des \"terroristes du Hamas\" dans des zones de la bande de Gaza.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne a confirmé avoir mené des frappes contre des \"terroristes du Hamas\" dans des zones de la bande de Gaza."
+    },
+    "published": "Thu, 27 Aug 2026 22:00:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      20,
+      0,
+      7,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-des-frappes-israeliennes-font-trois-morts-selon-les-secours_8165651.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Ks2I1a0R8w5m7s0TJiddx1nG-dM/0x285:5472x3363/432x243/filters:format(jpg)/2026/08/27/6a909606c31c1527034517.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-des-frappes-israeliennes-font-trois-morts-selon-les-secours_8165651.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-des-frappes-israeliennes-font-trois-morts-selon-les-secours_8165651.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-28T04:02:32.337908+00:00",
+  "_id": "5ce3a2719fb2",
+  "brut": {
+    "title": "Catastrophe au Népal : quatre Français portés disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Catastrophe au Népal : quatre Français portés disparus"
+    },
+    "summary": "Retrouver des survivants : c’est l’urgence absolue. Mais dans ce relief difficile d’accès, routes et ponts sont détruits, les communications coupées, et certains secteurs ne sont accessibles que par hélicoptère. Soldats, secouristes et chiens de recherche sont mobilisés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Retrouver des survivants : c’est l’urgence absolue. Mais dans ce relief difficile d’accès, routes et ponts sont détruits, les communications coupées, et certains secteurs ne sont accessibles que par hélicoptère. Soldats, secouristes et chiens de recherche sont mobilisés."
+    },
+    "published": "Thu, 27 Aug 2026 21:04:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      27,
+      19,
+      4,
+      30,
+      3,
+      239,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/catastrophe-au-nepal-quatre-francais-portes-disparus_8165639.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/edDczTayzz2OJzDSu-l58LzUJ0I/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/27/6a908a1aa4136259379034.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/catastrophe-au-nepal-quatre-francais-portes-disparus_8165639.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/catastrophe-au-nepal-quatre-francais-portes-disparus_8165639.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

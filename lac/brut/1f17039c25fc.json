@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T04:02:32.103353+00:00",
+  "_id": "1f17039c25fc",
+  "brut": {
+    "title": "En Ukraine, le blocage des ports de la mer Noire asphyxie les exportations de céréales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, le blocage des ports de la mer Noire asphyxie les exportations de céréales"
+    },
+    "published": "Fri, 28 Aug 2026 05:00:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      3,
+      0,
+      5,
+      4,
+      240,
+      0
+    ],
+    "summary": "Les Russes ont intensifié leurs frappes sur les navires se dirigeant ou sortant des ports d’Odessa et des villes voisines, à tel point que le trafic maritime local est à l’arrêt depuis plus d’un mois. Une gageure logistique pour de nombreuses entreprises et un important manque à gagner pour l’Ukraine, grande productrice de céréales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Russes ont intensifié leurs frappes sur les navires se dirigeant ou sortant des ports d’Odessa et des villes voisines, à tel point que le trafic maritime local est à l’arrêt depuis plus d’un mois. Une gageure logistique pour de nombreuses entreprises et un important manque à gagner pour l’Ukraine, grande productrice de céréales."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/28/en-ukraine-le-blocage-des-ports-de-la-mer-noire-asphyxie-les-exportations-de-cereales_6758737_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/28/en-ukraine-le-blocage-des-ports-de-la-mer-noire-asphyxie-les-exportations-de-cereales_6758737_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/28/en-ukraine-le-blocage-des-ports-de-la-mer-noire-asphyxie-les-exportations-de-cereales_6758737_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/92/0/4000/2000/644/322/60/0/458fd02_upload-1-lg5q6dsiqogg-reportage-port-odessa-tchernomorsk-10.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue sur l'entrée du port d’Odessa, principal site d’exportation maritime du pays, quasiment paralysé par l’intensification des frappes russes contre ses infrastructures, le 23 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+      }
+    ],
+    "credit": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+  }
+}

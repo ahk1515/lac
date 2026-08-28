@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-28T04:02:32.103017+00:00",
+  "_id": "c78ddee5da90",
+  "brut": {
+    "title": "Des exercices militaires communs prévus en septembre entre les Etats-Unis, la Corée du Sud et le Japon, annonce Séoul",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des exercices militaires communs prévus en septembre entre les Etats-Unis, la Corée du Sud et le Japon, annonce Séoul"
+    },
+    "published": "Fri, 28 Aug 2026 05:50:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      3,
+      50,
+      14,
+      4,
+      240,
+      0
+    ],
+    "summary": "Cette annonce intervient quelques jours après que Donald Trump a réduit l’ampleur d’exercices annuels entre Washington et Séoul, afin de préserver des liens avec le leader de la Corée du Nord, Kim Jong-un.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette annonce intervient quelques jours après que Donald Trump a réduit l’ampleur d’exercices annuels entre Washington et Séoul, afin de préserver des liens avec le leader de la Corée du Nord, Kim Jong-un."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/28/des-exercices-militaires-communs-prevus-en-septembre-entre-les-etats-unis-la-coree-du-sud-et-le-japon-annonce-seoul_6758841_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/28/des-exercices-militaires-communs-prevus-en-septembre-entre-les-etats-unis-la-coree-du-sud-et-le-japon-annonce-seoul_6758841_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/28/des-exercices-militaires-communs-prevus-en-septembre-entre-les-etats-unis-la-coree-du-sud-et-le-japon-annonce-seoul_6758841_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/28/369/0/5220/2610/644/322/60/0/7b18a2c_ftp-1-4c5iy35vhaip-c32022a92f5d45629fbd6786e6ca5bb8-0-00f3cf20e3e049a393cf3b781e3e1596.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le porte-avions américain USS « George-Washington », lors des exercices « Freedom Edge »,  dans les eaux internationales au large de l’île de Jeju, au sud de la Corée du Sud, le 13 novembre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ministère de la défense sud-coréeen via AP"
+      }
+    ],
+    "credit": "Ministère de la défense sud-coréeen via AP"
+  }
+}
