@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T22:22:09.175393+00:00",
+  "_id": "d658c59694f5",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : le Kremlin accuse l’Europe de participer directement à des opérations militaires contre la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : le Kremlin accuse l’Europe de participer directement à des opérations militaires contre la Russie"
+    },
+    "published": "Sat, 29 Aug 2026 20:34:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      18,
+      34,
+      5,
+      5,
+      241,
+      0
+    ],
+    "summary": "Dmitri Peskov, porte-parole du Kremlin, a déclaré samedi ne voir « aucune raison d’espérer une amélioration de nos relations avec l’Europe ». En Ukraine, l’armée a fait état de près de 200 drones russes interceptés dans la journée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dmitri Peskov, porte-parole du Kremlin, a déclaré samedi ne voir « aucune raison d’espérer une amélioration de nos relations avec l’Europe ». En Ukraine, l’armée a fait état de près de 200 drones russes interceptés dans la journée."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/29/en-direct-guerre-en-ukraine-le-kremlin-accuse-l-europe-de-participer-directement-a-des-operations-militaires-contre-la-russie_6753793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/29/en-direct-guerre-en-ukraine-le-kremlin-accuse-l-europe-de-participer-directement-a-des-operations-militaires-contre-la-russie_6753793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/29/en-direct-guerre-en-ukraine-le-kremlin-accuse-l-europe-de-participer-directement-a-des-operations-militaires-contre-la-russie_6753793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/446/0/5009/2504/644/322/60/0/a3a3c30_ftp-1-yjppj19bmay4-ac4e000bbe314aeb9cc9d267a188cdec-0-7f8ea3d32dd846229c9f80d68cadc536.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un policier inspecte les lieux après qu’une attaque russe a touché un entrepôt, provoquant une explosion, à Myla, dans l’oblast de Kiev, le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP"
+      }
+    ],
+    "credit": "Dan Bashakov/AP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T22:22:09.176079+00:00",
+  "_id": "571304b65641",
+  "brut": {
+    "title": "Au Niger, la junte du général Tiani confrontée à une tentative de putsch",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Niger, la junte du général Tiani confrontée à une tentative de putsch"
+    },
+    "published": "Sat, 29 Aug 2026 18:41:54 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      16,
+      41,
+      54,
+      5,
+      241,
+      0
+    ],
+    "summary": "Des tirs sont entendus depuis le milieu de la nuit autour du palais présidentiel de Niamey et d’une base aérienne qui se trouve dans l’enceinte de l’aéroport de la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des tirs sont entendus depuis le milieu de la nuit autour du palais présidentiel de Niamey et d’une base aérienne qui se trouve dans l’enceinte de l’aéroport de la capitale."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-la-junte-du-general-tiani-confrontee-a-une-tentative-de-putsch_6760200_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-la-junte-du-general-tiani-confrontee-a-une-tentative-de-putsch_6760200_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-la-junte-du-general-tiani-confrontee-a-une-tentative-de-putsch_6760200_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/193/0/5568/2784/644/322/60/0/07d4419_upload-1-9p4uui5ru1su-000-36669nt.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le général Abdourahamane Tiani (au centre), chef du régime militaire au Niger, lors des festivités marquant le premier anniversaire de son arrivée au pouvoir à la suite d’un coup d’Etat, dans un stade de Niamey, le 26 juillet 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BOUREIMA HAMA/AFP"
+      }
+    ],
+    "credit": "BOUREIMA HAMA/AFP"
+  }
+}

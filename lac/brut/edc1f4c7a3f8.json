@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T22:22:09.175747+00:00",
+  "_id": "edc1f4c7a3f8",
+  "brut": {
+    "title": "En Cisjordanie, des colons israéliens attaquent un village palestinien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie, des colons israéliens attaquent un village palestinien"
+    },
+    "published": "Sat, 29 Aug 2026 19:50:45 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      17,
+      50,
+      45,
+      5,
+      241,
+      0
+    ],
+    "updated": "Sat, 29 Aug 2026 20:54:46 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      29,
+      18,
+      54,
+      46,
+      5,
+      241,
+      0
+    ],
+    "summary": "Selon des témoins, plusieurs dizaines de colons ont encerclé une maison de Qusra avant d’en être chassés par les forces de l’ordre, mais aucun n’a été interpellé. Le propriétaire de la maison assure que les occupants ont été menottés et frappés, avant d’être relâchés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon des témoins, plusieurs dizaines de colons ont encerclé une maison de Qusra avant d’en être chassés par les forces de l’ordre, mais aucun n’a été interpellé. Le propriétaire de la maison assure que les occupants ont été menottés et frappés, avant d’être relâchés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/29/en-cisjordanie-des-colons-israeliens-attaquent-un-village-palestinien_6760300_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/29/en-cisjordanie-des-colons-israeliens-attaquent-un-village-palestinien_6760300_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/29/en-cisjordanie-des-colons-israeliens-attaquent-un-village-palestinien_6760300_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/468/0/5616/2808/644/322/60/0/f9a59bb_ftp-1-oomolftxa7da-9c52bc50fd5a411a9a869e3ce0b71ac2-0-dc86c55aed8a405ab1657bab7d79163c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les forces israéliennes déployées aux abords d’un immeuble de Qusra, dans le nord de la Cisjordanie, le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Majdi Mohammed/AP Photo"
+      }
+    ],
+    "credit": "Majdi Mohammed/AP Photo"
+  }
+}

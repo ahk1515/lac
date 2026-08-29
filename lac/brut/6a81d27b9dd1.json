@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T22:22:09.175571+00:00",
+  "_id": "6a81d27b9dd1",
+  "brut": {
+    "title": "Près de Kiev, une attaque russe tue 37 personnes et pose la question en Ukraine de la présence d’installations sensibles en zone urbaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de Kiev, une attaque russe tue 37 personnes et pose la question en Ukraine de la présence d’installations sensibles en zone urbaine"
+    },
+    "published": "Sat, 29 Aug 2026 20:17:38 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      18,
+      17,
+      38,
+      5,
+      241,
+      0
+    ],
+    "updated": "Sat, 29 Aug 2026 20:48:55 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      29,
+      18,
+      48,
+      55,
+      5,
+      241,
+      0
+    ],
+    "summary": "La frappe, qui visait un dépôt de munitions en périphérie de Kiev, est l’une des plus violentes subies par l’oblast depuis le début de l’invasion russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La frappe, qui visait un dépôt de munitions en périphérie de Kiev, est l’une des plus violentes subies par l’oblast depuis le début de l’invasion russe."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/29/pres-de-kiev-une-attaque-russe-tue-37-personnes-et-pose-la-question-de-la-presence-d-installations-sensibles-en-zone-urbaine_6760334_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/29/pres-de-kiev-une-attaque-russe-tue-37-personnes-et-pose-la-question-de-la-presence-d-installations-sensibles-en-zone-urbaine_6760334_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/29/pres-de-kiev-une-attaque-russe-tue-37-personnes-et-pose-la-question-de-la-presence-d-installations-sensibles-en-zone-urbaine_6760334_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/613/0/7391/3695/644/322/60/0/2547585_ftp-1-x1tdiqzqlsek-81b96c73c36346a39c9aa782d85a1340-0-dc2a5725cc8f42aba8f89c5fc88a1161.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP"
+      }
+    ],
+    "credit": "Dan Bashakov/AP"
+  }
+}

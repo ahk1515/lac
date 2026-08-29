@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T22:22:09.175134+00:00",
+  "_id": "2cd51f78ac10",
+  "brut": {
+    "title": "Bande de Gaza : quatre morts signalés après des tirs de l’armée israélienne, qui dit avoir visé un cadre militaire du Hamas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bande de Gaza : quatre morts signalés après des tirs de l’armée israélienne, qui dit avoir visé un cadre militaire du Hamas"
+    },
+    "published": "Sat, 29 Aug 2026 23:31:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      21,
+      31,
+      18,
+      5,
+      241,
+      0
+    ],
+    "summary": "Selon les forces israéliennes, le chef militaire pris pour cible se cachait dans l’enceinte de l’hôpital des Martyrs d’Al-Aqsa, à Deir Al-Balah. Elles ne précisent pas s’il a été tué et n’ont pas dévoilé son identité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les forces israéliennes, le chef militaire pris pour cible se cachait dans l’enceinte de l’hôpital des Martyrs d’Al-Aqsa, à Deir Al-Balah. Elles ne précisent pas s’il a été tué et n’ont pas dévoilé son identité."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/29/bande-de-gaza-quatre-morts-signales-apres-des-tirs-de-l-armee-israelienne-qui-dit-avoir-vise-un-cadre-militaire-du-hamas_6760165_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/29/bande-de-gaza-quatre-morts-signales-apres-des-tirs-de-l-armee-israelienne-qui-dit-avoir-vise-un-cadre-militaire-du-hamas_6760165_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/29/bande-de-gaza-quatre-morts-signales-apres-des-tirs-de-l-armee-israelienne-qui-dit-avoir-vise-un-cadre-militaire-du-hamas_6760165_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/688/0/8259/4129/644/322/60/0/66e3b1a_ftp-1-dfyk1dk87wua-38b01ab1356b41a38ffa92e000ff0030-0-18dd9d81bd764f50bd8f5f36853d35e5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors des obsèques d’une des victimes des tirs israéliens, à Deir Al-Balah, dans la bande de Gaza, le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ABDEL KAREEM HANA/AP Photo"
+      }
+    ],
+    "credit": "ABDEL KAREEM HANA/AP Photo"
+  }
+}
