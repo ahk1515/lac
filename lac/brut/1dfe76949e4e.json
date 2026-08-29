@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-29T02:43:01.806625+00:00",
+  "_id": "1dfe76949e4e",
+  "brut": {
+    "title": "Au Liban, le Hezbollah rejette à nouveau l'accord avec Israël et refuse de \"se rendre\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Liban, le Hezbollah rejette à nouveau l'accord avec Israël et refuse de \"se rendre\""
+    },
+    "summary": "Un accord conclu le 26 juin sous l'égide des Etats-Unis prévoit que l'armée libanaise rétablisse son autorité dans le sud du pays, sous réserve du désarmement du Hezbollah.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un accord conclu le 26 juin sous l'égide des Etats-Unis prévoit que l'armée libanaise rétablisse son autorité dans le sud du pays, sous réserve du désarmement du Hezbollah."
+    },
+    "published": "Fri, 28 Aug 2026 22:41:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      20,
+      41,
+      5,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-le-hezbollah-rejette-a-nouveau-l-accord-avec-israel-et-refuse-de-se-rendre_8167190.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/S31KRJMHu0sop4AyUAZ73k8Guv8/0x312:6000x3687/432x243/filters:format(jpg)/2026/08/28/6a91f0f291fdf457593424.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-le-hezbollah-rejette-a-nouveau-l-accord-avec-israel-et-refuse-de-se-rendre_8167190.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-le-hezbollah-rejette-a-nouveau-l-accord-avec-israel-et-refuse-de-se-rendre_8167190.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

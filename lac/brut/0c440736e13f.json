@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T02:43:01.661228+00:00",
+  "_id": "0c440736e13f",
+  "brut": {
+    "title": "EN DIRECT, inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus"
+    },
+    "published": "Fri, 28 Aug 2026 23:48:18 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      21,
+      48,
+      18,
+      4,
+      240,
+      0
+    ],
+    "summary": "Le bilan de la catastrophe s’est alourdi, passant à 584 morts et près de 2 500 disparus. Mercredi, le Quai d’Orsay signalait la présence au Népal de 80 Français.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le bilan de la catastrophe s’est alourdi, passant à 584 morts et près de 2 500 disparus. Mercredi, le Quai d’Orsay signalait la présence au Népal de 80 Français."
+    },
+    "id": "https://www.lemonde.fr/planete/live/2026/08/28/en-direct-inondations-au-nepal-et-au-tibet-le-quai-d-orsay-confirme-que-quatre-francais-sont-portes-disparus_6758177_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/live/2026/08/28/en-direct-inondations-au-nepal-et-au-tibet-le-quai-d-orsay-confirme-que-quatre-francais-sont-portes-disparus_6758177_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/live/2026/08/28/en-direct-inondations-au-nepal-et-au-tibet-le-quai-d-orsay-confirme-que-quatre-francais-sont-portes-disparus_6758177_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/28/401/0/5500/2750/644/322/60/0/16b0d7f_ftp-1-weetiscgmgkq-2026-08-28t122849z-33431769-rc2n7na35uw5-rtrmadp-3-nepal-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une liste des personnes secourues dans les zones touchées par les crues soudaines, à Trishuli, dans le district de Nuwakot (Népal), le 28 août 2026. REUTERS/Navesh Chitrakar"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Navesh Chitrakar/REUTERS"
+      }
+    ],
+    "credit": "Navesh Chitrakar/REUTERS"
+  }
+}

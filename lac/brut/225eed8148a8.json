@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T02:43:01.660818+00:00",
+  "_id": "225eed8148a8",
+  "brut": {
+    "title": "L’administration Trump envisagerait de céder à un promoteur une petite partie du parc national de Yosemite, en Californie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’administration Trump envisagerait de céder à un promoteur une petite partie du parc national de Yosemite, en Californie"
+    },
+    "published": "Sat, 29 Aug 2026 01:22:40 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      23,
+      22,
+      40,
+      4,
+      240,
+      0
+    ],
+    "updated": "Sat, 29 Aug 2026 02:00:29 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      29,
+      0,
+      0,
+      29,
+      5,
+      241,
+      0
+    ],
+    "summary": "L’opération, à l’étude depuis plus d’un an, concernerait une bande de terre d’environ 400 mètres, convoitée par un investisseur immobilier privé, selon le site d’information américain Notus, à l’origine de ces révélations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’opération, à l’étude depuis plus d’un an, concernerait une bande de terre d’environ 400 mètres, convoitée par un investisseur immobilier privé, selon le site d’information américain Notus, à l’origine de ces révélations."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/29/l-administration-trump-envisagerait-de-ceder-une-petite-partie-du-parc-national-de-yosemite-en-californie_6759267_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/29/l-administration-trump-envisagerait-de-ceder-une-petite-partie-du-parc-national-de-yosemite-en-californie_6759267_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/29/l-administration-trump-envisagerait-de-ceder-une-petite-partie-du-parc-national-de-yosemite-en-californie_6759267_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2015/12/29/250/0/3000/1500/644/322/60/0/970b739_0ecbf2d79e694e4483581cd407f42205-562d0f612dad400d86b84eeaff2abe14-0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une vue du parc national de Yosemite, en Californie, le 2 octobre 2013."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tammy Webber/AP"
+      }
+    ],
+    "credit": "Tammy Webber/AP"
+  }
+}

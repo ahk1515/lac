@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-29T02:43:01.806843+00:00",
+  "_id": "b2c9737ec05b",
+  "brut": {
+    "title": "Le Royaume-Uni bloque l'exportation d'un tableau Rembrandt estimé à 83 millions d'euros",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Royaume-Uni bloque l'exportation d'un tableau Rembrandt estimé à 83 millions d'euros"
+    },
+    "summary": "Le portrait, peint en 1657 par le grand maître flamand, représente une femme aisée d'Amsterdam, Catrina Hooghsaet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le portrait, peint en 1657 par le grand maître flamand, représente une femme aisée d'Amsterdam, Catrina Hooghsaet."
+    },
+    "published": "Fri, 28 Aug 2026 22:25:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      20,
+      25,
+      33,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/arts-expos/peinture/le-royaume-uni-bloque-l-exportation-d-un-tableau-rembrandt-estime-a-83-millions-d-euros_8167109.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yXbyEyTNjhYX0bJrDUKtyPvbL6o/0x299:2691x1813/432x243/filters:format(jpg)/2026/08/28/6a91eeae4c8bc661645590.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/arts-expos/peinture/le-royaume-uni-bloque-l-exportation-d-un-tableau-rembrandt-estime-a-83-millions-d-euros_8167109.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/arts-expos/peinture/le-royaume-uni-bloque-l-exportation-d-un-tableau-rembrandt-estime-a-83-millions-d-euros_8167109.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

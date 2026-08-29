@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-29T02:43:01.807029+00:00",
+  "_id": "fe8fa7894eea",
+  "brut": {
+    "title": "Un soldat de la Légion étrangère française enlevé en Colombie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un soldat de la Légion étrangère française enlevé en Colombie"
+    },
+    "summary": "José Olger Melo Charry, caporal franco-colombien, était engagé dans l'armée française depuis quatre ans. Il était en séjour dans son pays d'origine. L'enlèvement n'a pour l'instant pas été revendiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "José Olger Melo Charry, caporal franco-colombien, était engagé dans l'armée française depuis quatre ans. Il était en séjour dans son pays d'origine. L'enlèvement n'a pour l'instant pas été revendiqué."
+    },
+    "published": "Fri, 28 Aug 2026 22:14:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      28,
+      20,
+      14,
+      17,
+      4,
+      240,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/ameriques/un-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie_8167193.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9Ky9dudnBvUtzdnwCRArmpbF9_g/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/28/6a91eb8fd6dc2956571043.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/ameriques/un-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie_8167193.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/ameriques/un-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie_8167193.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
