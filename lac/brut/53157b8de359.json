@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-29T16:14:30.788442+00:00",
+  "_id": "53157b8de359",
+  "brut": {
+    "title": "Attaques ukrainiennes contre les géants du commerce en ligne : les Russes sont rattrapés par la guerre.",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Attaques ukrainiennes contre les géants du commerce en ligne : les Russes sont rattrapés par la guerre."
+    },
+    "summary": "Des milliers de petits commerçants perdent leurs stocks et se retrouvent ruinés. Les consommateurs reçoivent leurs commandes en retard, ou pas du tout. Les prix augmentent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des milliers de petits commerçants perdent leurs stocks et se retrouvent ruinés. Les consommateurs reçoivent leurs commandes en retard, ou pas du tout. Les prix augmentent."
+    },
+    "published": "Sat, 29 Aug 2026 16:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      14,
+      0,
+      1,
+      5,
+      241,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/M2NFgM6KfKqz_mkpFiwiT0mehYw/0x79:1024x655/432x243/filters:format(jpg)/2026/08/29/6a929279e9f3d662857333.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

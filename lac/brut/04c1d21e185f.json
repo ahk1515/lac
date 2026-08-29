@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T16:14:30.608525+00:00",
+  "_id": "04c1d21e185f",
+  "brut": {
+    "title": "Colombie : l’hommage aux victimes du séisme à Bogota",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Colombie : l’hommage aux victimes du séisme à Bogota"
+    },
+    "published": "Sat, 29 Aug 2026 13:18:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      11,
+      18,
+      20,
+      5,
+      241,
+      0
+    ],
+    "summary": "Des habitants de la capitale se sont réunis vendredi 28 août sur la place Bolivar pour une veillée en hommage aux victimes du tremblement de terre qui a dévasté le pays, faisant plus de 330 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des habitants de la capitale se sont réunis vendredi 28 août sur la place Bolivar pour une veillée en hommage aux victimes du tremblement de terre qui a dévasté le pays, faisant plus de 330 morts."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/29/colombie-l-hommage-aux-victimes-du-seisme-a-bogota_6759988_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/29/colombie-l-hommage-aux-victimes-du-seisme-a-bogota_6759988_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/29/colombie-l-hommage-aux-victimes-du-seisme-a-bogota_6759988_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/488/0/5075/2537/644/322/60/0/ec25d5a_ftp-1-1wta46uaquzt-5943821-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RAUL ARBOLEDA / AFP"
+      }
+    ],
+    "credit": "RAUL ARBOLEDA / AFP"
+  }
+}
