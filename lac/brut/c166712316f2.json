@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T10:49:06.374554+00:00",
+  "_id": "c166712316f2",
+  "brut": {
+    "title": "Au Niger, des tirs et des détonations entendus près de l’aéroport de Niamey, le régime militaire appelle au « calme »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Niger, des tirs et des détonations entendus près de l’aéroport de Niamey, le régime militaire appelle au « calme »"
+    },
+    "published": "Sat, 29 Aug 2026 05:42:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      3,
+      42,
+      13,
+      5,
+      241,
+      0
+    ],
+    "updated": "Sat, 29 Aug 2026 11:04:11 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      29,
+      9,
+      4,
+      11,
+      5,
+      241,
+      0
+    ],
+    "summary": "L’aéroport international de la capitale a déjà été ciblé deux fois, cette année, par des djihadistes, d’abord par l’organisation Etat islamique en janvier, puis en juin par le Groupe de soutien de l’islam et des musulmans, la branche sahélienne d’Al-Qaida.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’aéroport international de la capitale a déjà été ciblé deux fois, cette année, par des djihadistes, d’abord par l’organisation Etat islamique en janvier, puis en juin par le Groupe de soutien de l’islam et des musulmans, la branche sahélienne d’Al-Qaida."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-des-tirs-et-des-detonations-entendus-aux-abords-de-l-aeroport-de-niamey_6759501_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-des-tirs-et-des-detonations-entendus-aux-abords-de-l-aeroport-de-niamey_6759501_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-des-tirs-et-des-detonations-entendus-aux-abords-de-l-aeroport-de-niamey_6759501_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/01/29/583/0/9626/4813/644/322/60/0/8bd6391_ftp-1-ct2bwthbwxzj-2026-01-29t201600z-1901443252-rc2xajabwh11-rtrmadp-3-niger-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une image satellite montre des barrages routiers à l’entrée de l’aéroport international Diori-Hamani, à Niamey, le 29 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vantor/via REUTERS"
+      }
+    ],
+    "credit": "Vantor/via REUTERS"
+  }
+}

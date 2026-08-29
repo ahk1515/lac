@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T10:49:06.374930+00:00",
+  "_id": "6fa81fad78e0",
+  "brut": {
+    "title": "Donald Trump annonce la mainmise des Etats-Unis sur le pétrole du Venezuela",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump annonce la mainmise des Etats-Unis sur le pétrole du Venezuela"
+    },
+    "published": "Sat, 29 Aug 2026 05:00:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      3,
+      0,
+      6,
+      5,
+      241,
+      0
+    ],
+    "updated": "Sat, 29 Aug 2026 10:41:16 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      29,
+      8,
+      41,
+      16,
+      5,
+      241,
+      0
+    ],
+    "summary": "Un accord entre Washington et Caracas donne aux Etats-Unis le contrôle sur 65 milliards de barils des réserves vénézuéliennes pour développer « 17 champs stratégiques » moyennant un investissement de « plus de 100 milliards de dollars ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un accord entre Washington et Caracas donne aux Etats-Unis le contrôle sur 65 milliards de barils des réserves vénézuéliennes pour développer « 17 champs stratégiques » moyennant un investissement de « plus de 100 milliards de dollars »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/29/donald-trump-annonce-la-mainmise-americaine-sur-le-petrole-venezuelien_6759434_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/29/donald-trump-annonce-la-mainmise-americaine-sur-le-petrole-venezuelien_6759434_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/29/donald-trump-annonce-la-mainmise-americaine-sur-le-petrole-venezuelien_6759434_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/408/0/4896/2448/644/322/60/0/450f4cf_upload-1-qiwmwvfku13m-068-aa-28072026-2897190.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un pétrolier ancré sur le lac de Maracaibo, avant de transporter son pétrole brut vers des raffineries aux États-Unis, sur ordre de Trump, à Maracaibo (Venezuela), le 27 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOSE ISAAC BULA/Anadolu via AFP"
+      }
+    ],
+    "credit": "JOSE ISAAC BULA/Anadolu via AFP"
+  }
+}

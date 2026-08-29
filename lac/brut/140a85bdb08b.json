@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-29T10:49:06.374388+00:00",
+  "_id": "140a85bdb08b",
+  "brut": {
+    "title": "Le canal de Suez, un laissez-passer pour les espèces invasives en Méditerranée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le canal de Suez, un laissez-passer pour les espèces invasives en Méditerranée"
+    },
+    "published": "Sat, 29 Aug 2026 06:00:29 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      29,
+      4,
+      0,
+      29,
+      5,
+      241,
+      0
+    ],
+    "summary": "« Suez, canal historique » (6/6). La création de l’axe maritime au XIXᵉ siècle a favorisé la migration d’espèces dites « lessepsiennes », d’après le nom du « père » du canal, depuis la mer Rouge jusqu’à la Grande Bleue. Elles prolifèrent, favorisées par la surpêche, la pollution, la construction côtière et l’accélération du réchauffement climatique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Suez, canal historique » (6/6). La création de l’axe maritime au XIXᵉ siècle a favorisé la migration d’espèces dites « lessepsiennes », d’après le nom du « père » du canal, depuis la mer Rouge jusqu’à la Grande Bleue. Elles prolifèrent, favorisées par la surpêche, la pollution, la construction côtière et l’accélération du réchauffement climatique."
+    },
+    "id": "https://www.lemonde.fr/series-d-ete/article/2026/08/29/le-canal-de-suez-un-laissez-passer-pour-les-especes-invasives-en-mediterranee_6759537_3451060.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/29/le-canal-de-suez-un-laissez-passer-pour-les-especes-invasives-en-mediterranee_6759537_3451060.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/series-d-ete/article/2026/08/29/le-canal-de-suez-un-laissez-passer-pour-les-especes-invasives-en-mediterranee_6759537_3451060.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/04/375/0/4500/2250/644/322/60/0/d5589f3_upload-1-iegrmaq12hmg-mh1-0114.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pêcheurs égyptiens, à Port-Saïd, le 11 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohamed Hossam pour « LE MONDE »"
+      }
+    ],
+    "credit": "Mohamed Hossam pour « LE MONDE »"
+  }
+}
