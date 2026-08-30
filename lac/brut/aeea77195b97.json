@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-30T22:24:26.801410+00:00",
+  "_id": "aeea77195b97",
+  "brut": {
+    "title": "VIDEO. \"Nous sommes tous couverts de coupures\" : au large de Chypre, des scènes de panique filmées lors du naufrage d'un ferry",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "VIDEO. \"Nous sommes tous couverts de coupures\" : au large de Chypre, des scènes de panique filmées lors du naufrage d'un ferry"
+    },
+    "summary": "Un catamaran en route vers la Turquie a chaviré avec 267 passagers à son bord, dimanche. Sept personnes sont mortes, tandis que 17 autres étaient toujours portées disparues dans la soirée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un catamaran en route vers la Turquie a chaviré avec 267 passagers à son bord, dimanche. Sept personnes sont mortes, tandis que 17 autres étaient toujours portées disparues dans la soirée."
+    },
+    "published": "Sun, 30 Aug 2026 23:27:08 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      21,
+      27,
+      8,
+      6,
+      242,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chypre-un-navire-fait-naufrage-au-large-des-cotes-au-moins-sept-personnes-sont-mortes_8169815.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JAGleO7NEDtJE2lb5vgm1qNaIjc/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a947c8c32cde021453519.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chypre-un-navire-fait-naufrage-au-large-des-cotes-au-moins-sept-personnes-sont-mortes_8169815.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chypre-un-navire-fait-naufrage-au-large-des-cotes-au-moins-sept-personnes-sont-mortes_8169815.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

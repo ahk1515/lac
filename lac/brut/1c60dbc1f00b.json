@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-30T22:24:26.801597+00:00",
+  "_id": "1c60dbc1f00b",
+  "brut": {
+    "title": "Le fléau des attaques de serpents",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le fléau des attaques de serpents"
+    },
+    "summary": "Au Kenya, la prévention contre les serpents est devenue une nécessité absolue. Le pays abrite les espèces les plus dangereuses au monde, des milliers de personnes en meurent chaque année... et les antidotes manquent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Kenya, la prévention contre les serpents est devenue une nécessité absolue. Le pays abrite les espèces les plus dangereuses au monde, des milliers de personnes en meurent chaque année... et les antidotes manquent."
+    },
+    "published": "Sun, 30 Aug 2026 19:00:01 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      17,
+      0,
+      1,
+      6,
+      242,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-fleau-des-attaques-de-serpents_8169596.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/pfu5cxESIlc3OvNDgbCED1K3sV0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/30/6a943b9e71891040509071.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-fleau-des-attaques-de-serpents_8169596.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-fleau-des-attaques-de-serpents_8169596.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

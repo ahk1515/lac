@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T22:24:26.412843+00:00",
+  "_id": "66d424f3d958",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : 52 blessés dénombrés à Myla, près de Kiev, deux jours après le bombardement d’un dépôt de munitions",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : 52 blessés dénombrés à Myla, près de Kiev, deux jours après le bombardement d’un dépôt de munitions"
+    },
+    "published": "Sun, 30 Aug 2026 21:08:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      19,
+      8,
+      31,
+      6,
+      242,
+      0
+    ],
+    "summary": "« Pour l’instant, nous comptons environ 300 bâtiments endommagés ici, à Myla, et dans les localités environnantes », a déclaré le chef de l’administration militaire de Kiev, qui fait toujours état de 38 morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Pour l’instant, nous comptons environ 300 bâtiments endommagés ici, à Myla, et dans les localités environnantes », a déclaré le chef de l’administration militaire de Kiev, qui fait toujours état de 38 morts."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-52-blesses-denombres-a-myla-pres-de-kiev-deux-jours-apres-le-bombardement-d-un-depot-de-munitions_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-52-blesses-denombres-a-myla-pres-de-kiev-deux-jours-apres-le-bombardement-d-un-depot-de-munitions_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-52-blesses-denombres-a-myla-pres-de-kiev-deux-jours-apres-le-bombardement-d-un-depot-de-munitions_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/720/0/8640/4320/644/322/60/0/7780c14_ftp-1-zmtzu3danyiz-a979839a5569416a99ec06cd9e6b1dde-0-a883bc85699e44bc958e6b051d08f090.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au lendemain d’une attaque russe qui a touché un entrepôt, suivie d’une explosion, dans le village de Myla, dans la banlieue de Kiev, le 30 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Francisco Seco / AP Photo/Francisco Seco"
+      }
+    ],
+    "credit": "Francisco Seco / AP Photo/Francisco Seco"
+  }
+}

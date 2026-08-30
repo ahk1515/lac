@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T22:24:26.412645+00:00",
+  "_id": "0001dfae70e0",
+  "brut": {
+    "title": "Le lac Ontario devient lac d’Amérique pour les utilisateurs de Google Maps aux Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le lac Ontario devient lac d’Amérique pour les utilisateurs de Google Maps aux Etats-Unis"
+    },
+    "published": "Sun, 30 Aug 2026 21:55:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      19,
+      55,
+      24,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 22:03:09 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      20,
+      3,
+      9,
+      6,
+      242,
+      0
+    ],
+    "summary": "Donald Trump a signé jeudi un décret pour changer « immédiatement » le nom du lac situé à la frontière avec le Canada, qu’il accuse de « dépouiller » les Etats-Unis. Les utilisateurs du reste du monde verront les deux dénominations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump a signé jeudi un décret pour changer « immédiatement » le nom du lac situé à la frontière avec le Canada, qu’il accuse de « dépouiller » les Etats-Unis. Les utilisateurs du reste du monde verront les deux dénominations."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/30/le-lac-ontario-devient-lac-d-amerique-pour-les-utilisateurs-de-google-maps-aux-etats-unis_6761564_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/30/le-lac-ontario-devient-lac-d-amerique-pour-les-utilisateurs-de-google-maps-aux-etats-unis_6761564_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/30/le-lac-ontario-devient-lac-d-amerique-pour-les-utilisateurs-de-google-maps-aux-etats-unis_6761564_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/50/0/1600/800/644/322/60/0/71f7fb8_ftp-1-gmdr9z0rcm5w-2026-08-30t163752z-1085179695-rc2w8naomdtk-rtrmadp-3-usa-trump-canada-google.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran de la carte de Google Maps réalisée le 30 aout 2026 montrant le lac Ontario, qui apparait sous le nom de Lake America pour les utilisateurs des Etats-Unis."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Google Maps / via REUTERS"
+      }
+    ],
+    "credit": "Google Maps / via REUTERS"
+  }
+}
