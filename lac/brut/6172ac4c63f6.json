@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T03:47:31.754465+00:00",
+  "_id": "6172ac4c63f6",
+  "brut": {
+    "title": "Inondations au Népal et au Tibet : la montée des eaux complique les opérations de secours ; près de 3 000 personnes toujours portées disparues",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Inondations au Népal et au Tibet : la montée des eaux complique les opérations de secours ; près de 3 000 personnes toujours portées disparues"
+    },
+    "published": "Sun, 30 Aug 2026 05:35:57 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      3,
+      35,
+      57,
+      6,
+      242,
+      0
+    ],
+    "summary": "Alors que l’espoir de retrouver des survivants s’amenuise, les secours népalais redoublent d’efforts pour atteindre des ouvriers piégés dans des tunnels sous la boue et les décombres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que l’espoir de retrouver des survivants s’amenuise, les secours népalais redoublent d’efforts pour atteindre des ouvriers piégés dans des tunnels sous la boue et les décombres."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/30/inondations-au-nepal-et-au-tibet-la-montee-des-eaux-complique-les-operations-de-secours-pres-de-3-000-personnes-toujours-portees-disparues_6760634_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/30/inondations-au-nepal-et-au-tibet-la-montee-des-eaux-complique-les-operations-de-secours-pres-de-3-000-personnes-toujours-portees-disparues_6760634_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/30/inondations-au-nepal-et-au-tibet-la-montee-des-eaux-complique-les-operations-de-secours-pres-de-3-000-personnes-toujours-portees-disparues_6760634_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/675/0/5472/2736/644/322/60/0/dcfc4ff_ftp-1-nqd6nrvy2wjo-c41823815fdc45bab1104163fc3b957f-0-d9a021e4d47e4267b342986ba625bbdb.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue aérienne des dégâts causés par les crues soudaines le long de la rivière Trishuli, alors qu’une alerte aux fortes pluies est en vigueur dans la zone de Trishuli Bazaar, district de Nuwakot, au Népal, le 30 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Rajesh Kumar Singh/AP"
+      }
+    ],
+    "credit": "Rajesh Kumar Singh/AP"
+  }
+}

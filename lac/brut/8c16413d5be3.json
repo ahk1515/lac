@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T03:47:31.754990+00:00",
+  "_id": "8c16413d5be3",
+  "brut": {
+    "title": "La Somalie et la Turquie libèrent un cargo détourné au terme d’une opération meurtrière ; le Puntland dénonce le paiement d’une rançon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Somalie et la Turquie libèrent un cargo détourné au terme d’une opération meurtrière ; le Puntland dénonce le paiement d’une rançon"
+    },
+    "published": "Sun, 30 Aug 2026 03:12:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      1,
+      12,
+      13,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 05:42:34 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      3,
+      42,
+      34,
+      6,
+      242,
+      0
+    ],
+    "summary": "Cette opération intervient dans un contexte de recrudescence des actes de piraterie au large de la Somalie, où au moins quinze attaques ont été recensées depuis le début de l’année, d’après une analyse de données de l’Organisation maritime internationale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette opération intervient dans un contexte de recrudescence des actes de piraterie au large de la Somalie, où au moins quinze attaques ont été recensées depuis le début de l’année, d’après une analyse de données de l’Organisation maritime internationale."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/30/la-somalie-et-la-turquie-liberent-un-cargo-detourne-au-terme-d-une-operation-meurtriere-le-puntland-denonce-le-paiement-d-une-rancon_6760499_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/30/la-somalie-et-la-turquie-liberent-un-cargo-detourne-au-terme-d-une-operation-meurtriere-le-puntland-denonce-le-paiement-d-une-rancon_6760499_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/30/la-somalie-et-la-turquie-liberent-un-cargo-detourne-au-terme-d-une-operation-meurtriere-le-puntland-denonce-le-paiement-d-une-rancon_6760499_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2024/03/16/54/0/1562/781/644/322/60/0/d56c8b4_5932802-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Illustration - Reprise du contrôle d’un navire maltais aux mains de pirates somaliens par la marine indienne, le 16 mars 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP/MARINE INDIENNE"
+      }
+    ],
+    "credit": "AFP/MARINE INDIENNE"
+  }
+}

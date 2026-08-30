@@ -17,7 +17,7 @@
   {
     "pays_a": "FRA",
     "pays_b": "RUS",
-    "co_citations": 62
+    "co_citations": 63
   },
   {
     "pays_a": "IRN",
@@ -275,6 +275,11 @@
     "co_citations": 3
   },
   {
+    "pays_a": "NER",
+    "pays_b": "RUS",
+    "co_citations": 3
+  },
+  {
     "pays_a": "DZA",
     "pays_b": "MLI",
     "co_citations": 3
@@ -300,8 +305,8 @@
     "co_citations": 2
   },
   {
-    "pays_a": "NER",
-    "pays_b": "RUS",
+    "pays_a": "FRA",
+    "pays_b": "NER",
     "co_citations": 2
   },
   {
@@ -367,11 +372,6 @@
   {
     "pays_a": "DEU",
     "pays_b": "TUR",
-    "co_citations": 1
-  },
-  {
-    "pays_a": "FRA",
-    "pays_b": "NER",
     "co_citations": 1
   },
   {

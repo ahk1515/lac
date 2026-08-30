@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T03:47:31.754790+00:00",
+  "_id": "ffa637177ef2",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la centrale nucléaire de Zaporijia pourrait être privée d’alimentation électrique d’ici dix jours, alerte l’AIEA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la centrale nucléaire de Zaporijia pourrait être privée d’alimentation électrique d’ici dix jours, alerte l’AIEA"
+    },
+    "published": "Sun, 30 Aug 2026 05:09:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      3,
+      9,
+      3,
+      6,
+      242,
+      0
+    ],
+    "summary": "Le scénario d’une panne générale est probable sans rétablissement de l’alimentation électrique externe ou des livraisons supplémentaires de gazole, a averti le directeur général de l’Agence internationale de l’énergie atomique, Rafael Grossi, samedi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le scénario d’une panne générale est probable sans rétablissement de l’alimentation électrique externe ou des livraisons supplémentaires de gazole, a averti le directeur général de l’Agence internationale de l’énergie atomique, Rafael Grossi, samedi."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-la-centrale-nucleaire-de-zaporijia-pourrait-etre-privee-d-alimentation-electrique-d-ici-dix-jours-alerte-l-aiea_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-la-centrale-nucleaire-de-zaporijia-pourrait-etre-privee-d-alimentation-electrique-d-ici-dix-jours-alerte-l-aiea_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-la-centrale-nucleaire-de-zaporijia-pourrait-etre-privee-d-alimentation-electrique-d-ici-dix-jours-alerte-l-aiea_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/0/0/5816/2908/644/322/60/0/47338f3_upload-1-nt1ziqo4mee8-2022-08-04t000000z-1085840555-rc2lpv9tjsl9-rtrmadp-3-ukraine-crisis-zaporizhzhia-nuclear.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La centrale nucléaire de Zaporijia, en Ukraine, le 4 août 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alexander Ermochenko/REUTERS"
+      }
+    ],
+    "credit": "Alexander Ermochenko/REUTERS"
+  }
+}
