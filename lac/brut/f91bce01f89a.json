@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T16:05:45.575834+00:00",
+  "_id": "f91bce01f89a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Sun, 30 Aug 2026 13:58:07 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      11,
+      58,
+      7,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 16:34:03 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      14,
+      34,
+      3,
+      6,
+      242,
+      0
+    ],
+    "summary": "La Russie dit préparer des « frappes massives contre les installations énergétiques de l’Ukraine », selon son ministère de la défense, en représailles aux « attaques continues du régime de Kiev contre les infrastructures civiles et le complexe pétrolier et énergétique de la Russie ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Russie dit préparer des « frappes massives contre les installations énergétiques de l’Ukraine », selon son ministère de la défense, en représailles aux « attaques continues du régime de Kiev contre les infrastructures civiles et le complexe pétrolier et énergétique de la Russie »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-les-dernieres-informations-au-30-aout-2026_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-les-dernieres-informations-au-30-aout-2026_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-les-dernieres-informations-au-30-aout-2026_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/848/0/6000/3000/644/322/60/0/f5fba91_ftp-1-2oh38wf4kkba-2026-08-30t130834z-65553213-rc2y8na00ris-rtrmadp-3-ukraine-crisis-attack-kyiv-region.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un secouriste, près d’une maison détruite par des frappes de drones russes vendredi soir, à Myla, dans l’oblast de Kiev, le 30 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}

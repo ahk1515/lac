@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-30T16:05:45.818259+00:00",
+  "_id": "d22a7db8d64d",
+  "brut": {
+    "title": "Un ferry chavire au large de Chypre avec 267 personnes à bord",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un ferry chavire au large de Chypre avec 267 personnes à bord"
+    },
+    "summary": "Un bateau de croisière avec 267 personnes à bord a fait naufrage, dimanche 30 août, au large des côtes de Chypre du Nord. Au moins \"six personnes ont perdu la vie\", selon les autorités. Près d'une vingtaine de moyens maritimes et aériens sont mobilisés dans le cadre des opérations de secours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un bateau de croisière avec 267 personnes à bord a fait naufrage, dimanche 30 août, au large des côtes de Chypre du Nord. Au moins \"six personnes ont perdu la vie\", selon les autorités. Près d'une vingtaine de moyens maritimes et aériens sont mobilisés dans le cadre des opérations de secours."
+    },
+    "published": "Sun, 30 Aug 2026 17:18:28 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      15,
+      18,
+      28,
+      6,
+      242,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chypre/un-ferry-chavire-au-large-de-chypre-avec-267-personnes-a-bord_8169677.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/j5u5BJi7iHu2au7vyd7pF3CDRKo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/30/6a9449aadf6d5811135185.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chypre/un-ferry-chavire-au-large-de-chypre-avec-267-personnes-a-bord_8169677.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chypre/un-ferry-chavire-au-large-de-chypre-avec-267-personnes-a-bord_8169677.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

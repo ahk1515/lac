@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T16:05:45.575361+00:00",
+  "_id": "71d8803eb265",
+  "brut": {
+    "title": "Un ferry de croisière naufragé au large de Chypre a coulé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un ferry de croisière naufragé au large de Chypre a coulé"
+    },
+    "published": "Sun, 30 Aug 2026 14:18:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      12,
+      18,
+      11,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 17:43:22 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      15,
+      43,
+      22,
+      6,
+      242,
+      0
+    ],
+    "summary": "Selon un premier bilan, sept personnes sont mortes et 237 ont été secourues, une vingtaine étant encore portées disparues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon un premier bilan, sept personnes sont mortes et 237 ont été secourues, une vingtaine étant encore portées disparues."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/30/naufrage-d-un-bateau-au-large-des-cotes-de-chypre-du-nord_6761219_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/30/naufrage-d-un-bateau-au-large-des-cotes-de-chypre-du-nord_6761219_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/30/naufrage-d-un-bateau-au-large-des-cotes-de-chypre-du-nord_6761219_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/120/0/1406/703/644/322/60/0/25a1e41_ftp-1-8m6gky4nlfdn-2026-08-30t120410z-129978392-rc209nalqtg7-rtrmadp-3-cyprus-vessel-capsize.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un hélicoptère ramène à terre des survivants secourus en mer, après le chavirage de leur embarcation au large de Kyrinia, dans le nord de Chypre, le 30 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

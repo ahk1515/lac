@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T16:05:45.574981+00:00",
+  "_id": "d3b376730493",
+  "brut": {
+    "title": "Chypre : au moins 7 morts dans le naufrage d’un bateau de croisière",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Chypre : au moins 7 morts dans le naufrage d’un bateau de croisière"
+    },
+    "published": "Sun, 30 Aug 2026 17:29:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      15,
+      29,
+      43,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 17:58:53 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      15,
+      58,
+      53,
+      6,
+      242,
+      0
+    ],
+    "summary": "Les causes du naufrage du ferry, à bord duquel avaient embarqué quelque 270 personnes, ne sont pas connues, mais un témoin a évoqué une explosion qui aurait fait plonger l’avant du bateau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les causes du naufrage du ferry, à bord duquel avaient embarqué quelque 270 personnes, ne sont pas connues, mais un témoin a évoqué une explosion qui aurait fait plonger l’avant du bateau."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/30/chypre-au-moins-7-morts-dans-le-naufrage-d-un-bateau-de-croisiere_6761388_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/30/chypre-au-moins-7-morts-dans-le-naufrage-d-un-bateau-de-croisiere_6761388_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/30/chypre-au-moins-7-morts-dans-le-naufrage-d-un-bateau-de-croisiere_6761388_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/112/0/3588/1794/644/322/60/0/713443e_ftp-1-poe7sncqjwds-2026-08-30t145303z-1753926598-rc229natpgz3-rtrmadp-3-cyprus-vessel-capsize-rescue.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Reuters TV / REUTERS"
+      }
+    ],
+    "credit": "Reuters TV / REUTERS"
+  }
+}

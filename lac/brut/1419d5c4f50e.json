@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-30T16:05:45.818734+00:00",
+  "_id": "1419d5c4f50e",
+  "brut": {
+    "title": "Deux avions de ligne survolent à basse altitude un stade et créent la polémique en Afrique du Sud",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux avions de ligne survolent à basse altitude un stade et créent la polémique en Afrique du Sud"
+    },
+    "summary": "Ce sont des images qui donnent des sueurs froides. La scène a eu lieu samedi 29 août en Afrique du Sud avant un match de rugby. Deux avions de ligne d’une compagnie sponsor de l’événement ont survolé le stade à si basse altitude que même des spécialistes de l’aviation s’en sont émus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce sont des images qui donnent des sueurs froides. La scène a eu lieu samedi 29 août en Afrique du Sud avant un match de rugby. Deux avions de ligne d’une compagnie sponsor de l’événement ont survolé le stade à si basse altitude que même des spécialistes de l’aviation s’en sont émus."
+    },
+    "published": "Sun, 30 Aug 2026 15:45:31 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      13,
+      45,
+      31,
+      6,
+      242,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/deux-avions-de-ligne-survolent-a-basse-altitude-un-stade-et-creent-la-polemique-en-afrique-du-sud_8169548.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_nJ3XuP36_qo1KxADYyUBslzFGA/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/30/6a94333bf0c3a717791482.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/deux-avions-de-ligne-survolent-a-basse-altitude-un-stade-et-creent-la-polemique-en-afrique-du-sud_8169548.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/deux-avions-de-ligne-survolent-a-basse-altitude-un-stade-et-creent-la-polemique-en-afrique-du-sud_8169548.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-30T16:05:45.818382+00:00",
+  "_id": "6e48a5da7956",
+  "brut": {
+    "title": "Le Liban, théâtre de nouvelles découvertes archéologiques en dépit de la guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Liban, théâtre de nouvelles découvertes archéologiques en dépit de la guerre"
+    },
+    "summary": "Dans le sud du pays, les fouilles sont suspendues en raison de la guerre entre Israël et le Hezbollah.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le sud du pays, les fouilles sont suspendues en raison de la guerre entre Israël et le Hezbollah."
+    },
+    "published": "Sun, 30 Aug 2026 16:53:51 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      14,
+      53,
+      51,
+      6,
+      242,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/patrimoine/archeologie/le-liban-theatre-de-nouvelles-decouvertes-archeologiques-en-depit-de-la-guerre_8169443.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rJ3-WC7a-fFGIkAUBpNNytZmtck/0x0:3000x1687/432x243/filters:format(jpg)/2026/08/30/6a94430074f18677863090.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/patrimoine/archeologie/le-liban-theatre-de-nouvelles-decouvertes-archeologiques-en-depit-de-la-guerre_8169443.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/patrimoine/archeologie/le-liban-theatre-de-nouvelles-decouvertes-archeologiques-en-depit-de-la-guerre_8169443.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

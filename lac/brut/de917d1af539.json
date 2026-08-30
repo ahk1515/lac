@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T16:05:45.575481+00:00",
+  "_id": "de917d1af539",
+  "brut": {
+    "title": "VIDÉO. En Cisjordanie occupée, des colons israéliens attaquent le village de Qusra",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDÉO. En Cisjordanie occupée, des colons israéliens attaquent le village de Qusra"
+    },
+    "published": "Sun, 30 Aug 2026 14:06:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      12,
+      6,
+      9,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 14:57:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      12,
+      57,
+      26,
+      6,
+      242,
+      0
+    ],
+    "summary": "Plusieurs dizaines de colons ont encerclé, samedi, une maison de Qusra et ont jeté des pierres sur des Palestiniens. Les forces de l’ordre les ont chassés sans en interpeller aucun et auraient frappé les occupants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs dizaines de colons ont encerclé, samedi, une maison de Qusra et ont jeté des pierres sur des Palestiniens. Les forces de l’ordre les ont chassés sans en interpeller aucun et auraient frappé les occupants."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/30/video-en-cisjordanie-occupee-des-colons-israeliens-attaquent-le-village-de-qusra_6761186_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/30/video-en-cisjordanie-occupee-des-colons-israeliens-attaquent-le-village-de-qusra_6761186_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/30/video-en-cisjordanie-occupee-des-colons-israeliens-attaquent-le-village-de-qusra_6761186_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/190/0/2277/1138/644/322/60/0/599ace0_ftp-1-nvhirwmlwf0f-5946503-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JAAFAR ASHTIYEH / AFP"
+      }
+    ],
+    "credit": "JAAFAR ASHTIYEH / AFP"
+  }
+}
