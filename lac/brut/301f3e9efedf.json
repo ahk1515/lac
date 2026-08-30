@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-30T09:44:54.418731+00:00",
+  "_id": "301f3e9efedf",
+  "brut": {
+    "title": "Guerre en Ukraine : une frappe russe touche un dépôt de munitions de l'armée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : une frappe russe touche un dépôt de munitions de l'armée"
+    },
+    "summary": "L'explosion d'un entrepôt frappé par un drone russe près de Kiev, dans la nuit du vendredi 28 au samedi 29 août, a fait au moins 37 morts. Il contenait des munitions, drones et explosifs utilisés par l’armée, sans les autorisations nécessaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'explosion d'un entrepôt frappé par un drone russe près de Kiev, dans la nuit du vendredi 28 au samedi 29 août, a fait au moins 37 morts. Il contenait des munitions, drones et explosifs utilisés par l’armée, sans les autorisations nécessaires."
+    },
+    "published": "Sun, 30 Aug 2026 07:37:14 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      5,
+      37,
+      14,
+      6,
+      242,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-frappe-russe-touche-un-depot-de-munitions-de-l-armee_8169197.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dMZKWC99sIlB9L7cko3mEKwfPRg/26x0:1510x835/432x243/filters:format(jpg)/2026/08/30/6a93c14d7ffc6645044289.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-frappe-russe-touche-un-depot-de-munitions-de-l-armee_8169197.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-frappe-russe-touche-un-depot-de-munitions-de-l-armee_8169197.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

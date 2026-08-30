@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T09:44:54.223060+00:00",
+  "_id": "d769a8e4f8f7",
+  "brut": {
+    "title": "En Suisse, des tirs en marge d’une rave-party à Aarau ont fait un mort et cinq blessés, les auteurs toujours recherchés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Suisse, des tirs en marge d’une rave-party à Aarau ont fait un mort et cinq blessés, les auteurs toujours recherchés"
+    },
+    "published": "Sun, 30 Aug 2026 08:04:05 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      6,
+      4,
+      5,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 11:30:59 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      9,
+      30,
+      59,
+      6,
+      242,
+      0
+    ],
+    "summary": "La police suisse invite la population à éviter le secteur en raison de coups de feu survenus, dans la nuit de samedi à dimanche, lors de la fête techno annuelle qui a rassemblé quelque 3 500 personnes à l’hippodrome d’Aarau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La police suisse invite la population à éviter le secteur en raison de coups de feu survenus, dans la nuit de samedi à dimanche, lors de la fête techno annuelle qui a rassemblé quelque 3 500 personnes à l’hippodrome d’Aarau."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/30/en-suisse-des-tirs-en-marge-d-une-rave-party-a-aarau-ont-fait-plusieurs-victimes_6760848_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/30/en-suisse-des-tirs-en-marge-d-une-rave-party-a-aarau-ont-fait-plusieurs-victimes_6760848_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/30/en-suisse-des-tirs-en-marge-d-une-rave-party-a-aarau-ont-fait-plusieurs-victimes_6760848_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/417/0/5000/2500/644/322/60/0/9d6d3f3_ftp-1-ygalxmqftyxt-d19856bb0fe647888d501dd5a35c5ac7-0-69e3393d37dc4186b530ff9aae0bf186.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers patrouillent dans une rue du centre-ville d’Aarau, en Suisse, ce dimanche 30 août 2026, à la suite de coups de feu survenus lors d’une rave-party."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Michael Buholzer / Michael Buholzer/Keystone via AP"
+      }
+    ],
+    "credit": "Michael Buholzer / Michael Buholzer/Keystone via AP"
+  }
+}

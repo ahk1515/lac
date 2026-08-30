@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-30T09:44:54.418284+00:00",
+  "_id": "dd60bbb328b3",
+  "brut": {
+    "title": "La Russie se prépare à des \"frappes massives\" contre le \"secteur énergétique\" de l'Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie se prépare à des \"frappes massives\" contre le \"secteur énergétique\" de l'Ukraine"
+    },
+    "summary": "Cette annonce intervient dans un contexte de nette intensification des attaques depuis plusieurs mois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette annonce intervient dans un contexte de nette intensification des attaques depuis plusieurs mois."
+    },
+    "published": "Sun, 30 Aug 2026 10:42:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      8,
+      42,
+      9,
+      6,
+      242,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-l-ukraine_8169281.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/iIYfLZsjPHfX77UrNjL2DoPl7H4/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a93e638cd3dc364093810.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-l-ukraine_8169281.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-l-ukraine_8169281.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

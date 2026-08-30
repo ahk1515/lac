@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T09:44:54.223569+00:00",
+  "_id": "7e2e3834c981",
+  "brut": {
+    "title": "La Tunisie fait face à une grave pénurie de bouteilles d’eau au terme d’un mois d’août caniculaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Tunisie fait face à une grave pénurie de bouteilles d’eau au terme d’un mois d’août caniculaire"
+    },
+    "published": "Sun, 30 Aug 2026 06:45:06 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      4,
+      45,
+      6,
+      6,
+      242,
+      0
+    ],
+    "summary": "Les rayons de la plupart des supermarchés et des commerces de proximité restent désespérément vides depuis plusieurs semaines. La pénurie touche un pays devenu dépendant à l’eau embouteillée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les rayons de la plupart des supermarchés et des commerces de proximité restent désespérément vides depuis plusieurs semaines. La pénurie touche un pays devenu dépendant à l’eau embouteillée."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/30/la-tunisie-fait-face-a-une-grave-penurie-de-bouteilles-d-eau-au-terme-d-un-mois-d-aout-caniculaire_6760779_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/30/la-tunisie-fait-face-a-une-grave-penurie-de-bouteilles-d-eau-au-terme-d-un-mois-d-aout-caniculaire_6760779_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/30/la-tunisie-fait-face-a-une-grave-penurie-de-bouteilles-d-eau-au-terme-d-un-mois-d-aout-caniculaire_6760779_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/596/0/7835/3917/644/322/60/0/79cfb1a_upload-1-kzx1wc5znssp-ap22284278593400.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un supermarché, à Tunis, le 10 octobre 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hassene Dridi/AP"
+      }
+    ],
+    "credit": "Hassene Dridi/AP"
+  }
+}

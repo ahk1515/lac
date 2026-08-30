@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T09:44:54.224117+00:00",
+  "_id": "d86e8664a7b8",
+  "brut": {
+    "title": "Comment le carnaval de Notting Hill est-il né ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comment le carnaval de Notting Hill est-il né ?"
+    },
+    "published": "Sun, 30 Aug 2026 06:00:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      4,
+      0,
+      13,
+      6,
+      242,
+      0
+    ],
+    "summary": "Depuis 1966, le carnaval de Notting Hill célèbre chaque année les cultures caribéennes à Londres. Mais derrière cette immense fête populaire se cache une histoire de racisme et de violences.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis 1966, le carnaval de Notting Hill célèbre chaque année les cultures caribéennes à Londres. Mais derrière cette immense fête populaire se cache une histoire de racisme et de violences."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/08/30/comment-le-carnaval-de-notting-hill-est-il-ne_6760669_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/08/30/comment-le-carnaval-de-notting-hill-est-il-ne_6760669_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/08/30/comment-le-carnaval-de-notting-hill-est-il-ne_6760669_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2015/08/24/342/0/4110/2055/644/322/60/0/67d73b1_11862-d0si5q.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LEON NEAL / AFP"
+      }
+    ],
+    "credit": "LEON NEAL / AFP"
+  }
+}

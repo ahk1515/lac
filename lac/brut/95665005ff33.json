@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T09:44:54.223889+00:00",
+  "_id": "95665005ff33",
+  "brut": {
+    "title": "En Guinée-Bissau, un référendum constitutionnel et l’ombre du président déchu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Guinée-Bissau, un référendum constitutionnel et l’ombre du président déchu"
+    },
+    "published": "Sun, 30 Aug 2026 06:00:25 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      4,
+      0,
+      25,
+      6,
+      242,
+      0
+    ],
+    "summary": "A trois mois de l’élection présidentielle, le général Horta N’Tam, arrivé à la tête du pays par un putsch, en novembre 2025, entend instaurer un régime présidentiel à la place du régime parlementaire en vigueur. L’opposition a appelé au boycott du scrutin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A trois mois de l’élection présidentielle, le général Horta N’Tam, arrivé à la tête du pays par un putsch, en novembre 2025, entend instaurer un régime présidentiel à la place du régime parlementaire en vigueur. L’opposition a appelé au boycott du scrutin."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/30/en-guinee-bissau-un-referendum-constitutionnel-et-l-ombre-du-president-dechu_6760671_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/30/en-guinee-bissau-un-referendum-constitutionnel-et-l-ombre-du-president-dechu_6760671_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/30/en-guinee-bissau-un-referendum-constitutionnel-et-l-ombre-du-president-dechu_6760671_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/581/0/4200/2100/644/322/60/0/fd39351_ftp-1-rtbwmx7tlltx-5919147-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le général Horta N’Tam au lendemain de son putsch en Guinée-Bissau, à Bissau, le 27 novembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PATRICK MEINHARDT/AFP"
+      }
+    ],
+    "credit": "PATRICK MEINHARDT/AFP"
+  }
+}

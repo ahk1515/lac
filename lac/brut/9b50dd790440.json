@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-30T09:44:54.222560+00:00",
+  "_id": "9b50dd790440",
+  "brut": {
+    "title": "L’Islande rejette les négociations d’adhésion à l’Union européenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Islande rejette les négociations d’adhésion à l’Union européenne"
+    },
+    "published": "Sun, 30 Aug 2026 11:01:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      30,
+      9,
+      1,
+      47,
+      6,
+      242,
+      0
+    ],
+    "updated": "Sun, 30 Aug 2026 11:37:00 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      30,
+      9,
+      37,
+      0,
+      6,
+      242,
+      0
+    ],
+    "summary": "Consultés samedi par référendum, les Islandais ont voté « non », à l’issue d’une campagne où la souveraineté de l’île et son indépendance ont dominé les débats. Le résultat de ce vote devrait être scruté à Bruxelles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Consultés samedi par référendum, les Islandais ont voté « non », à l’issue d’une campagne où la souveraineté de l’île et son indépendance ont dominé les débats. Le résultat de ce vote devrait être scruté à Bruxelles."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/30/les-islandais-rejettent-les-negociations-d-adhesion-a-l-union-europeenne_6760950_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/30/les-islandais-rejettent-les-negociations-d-adhesion-a-l-union-europeenne_6760950_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/30/les-islandais-rejettent-les-negociations-d-adhesion-a-l-union-europeenne_6760950_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/562/0/6558/3279/644/322/60/0/f178d1f_ftp-1-tkarfifzpncy-37a38850514f444883c6eacec6b92d79-0-8a13390266094af0906a6d705613dc5d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un bureau de vote à Reykjavik, le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marco Di Marco / AP Photo/Marco Di Marco"
+      }
+    ],
+    "credit": "Marco Di Marco / AP Photo/Marco Di Marco"
+  }
+}
