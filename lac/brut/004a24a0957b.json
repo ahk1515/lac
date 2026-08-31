@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T10:34:06.221207+00:00",
+  "_id": "004a24a0957b",
+  "brut": {
+    "title": "Les factures de gaz pèsent de plus en plus lourd dans le budget des ménages",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les factures de gaz pèsent de plus en plus lourd dans le budget des ménages"
+    },
+    "published": "Mon, 31 Aug 2026 10:41:27 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      8,
+      41,
+      27,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 10:43:07 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      8,
+      43,
+      7,
+      0,
+      243,
+      0
+    ],
+    "summary": "Le prix repère augmente de 5,6 % au 1er septembre sous l’effet des tensions persistantes au Moyen-Orient. Depuis avril, il a déjà bondi de près de 24 %.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le prix repère augmente de 5,6 % au 1er septembre sous l’effet des tensions persistantes au Moyen-Orient. Depuis avril, il a déjà bondi de près de 24 %."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/08/31/les-factures-de-gaz-pesent-de-plus-en-plus-lourd-dans-le-budget-des-menages_6762175_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/08/31/les-factures-de-gaz-pesent-de-plus-en-plus-lourd-dans-le-budget-des-menages_6762175_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/08/31/les-factures-de-gaz-pesent-de-plus-en-plus-lourd-dans-le-budget-des-menages_6762175_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/30/458/0/5500/2750/644/322/60/0/065787c_ftp-1-brhrvtlnrq5k-2026-07-30t075020z-299241273-rc2ewjaet0ez-rtrmadp-3-iran-crisis-qatarenergy-us.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Installations de production de gaz naturel liquéfié de QatarEnergy, à Ras Laffan Industrial City (Qatar), le 2 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

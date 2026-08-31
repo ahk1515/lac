@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T10:34:06.222602+00:00",
+  "_id": "c84e6f79422c",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : suivez nos dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : suivez nos dernières informations"
+    },
+    "published": "Mon, 31 Aug 2026 07:33:59 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      5,
+      33,
+      59,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 12:10:37 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      10,
+      10,
+      37,
+      0,
+      243,
+      0
+    ],
+    "summary": "La défense aérienne ukrainienne est parvenue à abattre ou à neutraliser 96 drones dans la nuit de dimanche à lundi, selon l’armée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La défense aérienne ukrainienne est parvenue à abattre ou à neutraliser 96 drones dans la nuit de dimanche à lundi, selon l’armée."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-suivez-nos-dernieres-informations_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-suivez-nos-dernieres-informations_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-suivez-nos-dernieres-informations_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/502/0/4000/2000/644/322/60/0/7b31b4c_upload-1-shsphxjnexpe-attaque-drone-entrepot-atb-9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur le site de l'incendie de l’entrepôt qui a été frappé par deux drones Shahed lundi matin, en banlieue de Kiev, le 31 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+      }
+    ],
+    "credit": "ADRIEN VAUTIER/LE PICTORIUM POUR « LE MONDE »"
+  }
+}

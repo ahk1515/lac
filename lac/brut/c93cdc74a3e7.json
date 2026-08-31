@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T10:34:06.222244+00:00",
+  "_id": "c93cdc74a3e7",
+  "brut": {
+    "title": "Les images de la crue soudaine dans le parc du Grand Canyon, en Arizona",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les images de la crue soudaine dans le parc du Grand Canyon, en Arizona"
+    },
+    "published": "Mon, 31 Aug 2026 09:33:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      7,
+      33,
+      17,
+      0,
+      243,
+      0
+    ],
+    "summary": "Des vidéos tournées par des randonneurs montrent un torrent d’eau boueuse déferlant le long d’un sentier et sous des passerelles, ainsi que des troncs d’arbres et d’autres débris emportés par la rivière en crue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des vidéos tournées par des randonneurs montrent un torrent d’eau boueuse déferlant le long d’un sentier et sous des passerelles, ainsi que des troncs d’arbres et d’autres débris emportés par la rivière en crue."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/31/les-images-de-la-crue-soudaine-dans-le-parc-du-grand-canyon-en-arizona_6762103_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/31/les-images-de-la-crue-soudaine-dans-le-parc-du-grand-canyon-en-arizona_6762103_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/31/les-images-de-la-crue-soudaine-dans-le-parc-du-grand-canyon-en-arizona_6762103_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/714/0/5712/2856/644/322/60/0/2c68a66_ftp-1-rbztvkjbcvkz-5958315-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette image fournie par le Service des parcs nationaux du Grand Canyon via X (anciennement Twitter) le 30 août 2026 montre les vestiges de piliers de pont en pierre le long du ruisseau Bright Angel, à la suite d’une crue soudaine qui a détruit la passerelle le 29 août. Plus de 20 personnes pourraient être portées disparues après cette crue soudaine dans le parc national du Grand Canyon, selon le Service des parcs nationaux. Les inondations ont touché la zone de Bright Angel Canyon et de Phantom Ranch samedi, a indiqué le service, précisant qu’il collaborait avec les autorités de l’Arizona pour évacuer les personnes et recenser les individus présents dans la zone sinistrée."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "J.THOMPSON, HANDOUT / AFP"
+      }
+    ],
+    "credit": "J.THOMPSON, HANDOUT / AFP"
+  }
+}

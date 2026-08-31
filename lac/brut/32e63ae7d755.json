@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T10:34:06.422646+00:00",
+  "_id": "32e63ae7d755",
+  "brut": {
+    "title": "Guerre en Ukraine : de nouvelles menaces de la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : de nouvelles menaces de la Russie"
+    },
+    "summary": "Les frappes se poursuivent en Ukraine. Moscou promet de les intensifier dans les prochaines semaines. Le ministre russe de la Défense a indiqué préparer des attaques massives contre le secteur énergétique ukrainien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les frappes se poursuivent en Ukraine. Moscou promet de les intensifier dans les prochaines semaines. Le ministre russe de la Défense a indiqué préparer des attaques massives contre le secteur énergétique ukrainien."
+    },
+    "published": "Mon, 31 Aug 2026 08:11:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      6,
+      11,
+      47,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-de-nouvelles-menaces-de-la-russie_8170241.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/eRKuliXUF2WKOR3ztXnLfMPV2qI/185x0:1575x782/432x243/filters:format(jpg)/2026/08/31/6a951a1b471eb081477776.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-de-nouvelles-menaces-de-la-russie_8170241.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-de-nouvelles-menaces-de-la-russie_8170241.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

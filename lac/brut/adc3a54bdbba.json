@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T10:34:06.423310+00:00",
+  "_id": "adc3a54bdbba",
+  "brut": {
+    "title": "La principale dissidence des ex-Farc revendique la capture d'un Colombien de la Légion étrangère française",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La principale dissidence des ex-Farc revendique la capture d'un Colombien de la Légion étrangère française"
+    },
+    "summary": "\"Le caporal Melo Charry est vivant, en parfaite santé\", a affirmé la guérilla colombienne de l'EMC, dans un communiqué.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Le caporal Melo Charry est vivant, en parfaite santé\", a affirmé la guérilla colombienne de l'EMC, dans un communiqué."
+    },
+    "published": "Mon, 31 Aug 2026 06:45:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      4,
+      45,
+      11,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/la-principale-dissidence-des-ex-farc-revendique-la-capture-d-un-colombien-de-la-legion-etrangere-francaise_8170166.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/PuLiTGKOt9g00FZCmfSssPvSqdA/0x520:5000x3333/432x243/filters:format(jpg)/2026/08/31/6a95068dabc79581257040.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/la-principale-dissidence-des-ex-farc-revendique-la-capture-d-un-colombien-de-la-legion-etrangere-francaise_8170166.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/la-principale-dissidence-des-ex-farc-revendique-la-capture-d-un-colombien-de-la-legion-etrangere-francaise_8170166.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

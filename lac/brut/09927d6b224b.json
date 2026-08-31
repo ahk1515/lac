@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T10:34:06.422165+00:00",
+  "_id": "09927d6b224b",
+  "brut": {
+    "title": "Au Mexique, une voiture piégée explose devant un commissariat, faisant plusieurs blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Mexique, une voiture piégée explose devant un commissariat, faisant plusieurs blessés"
+    },
+    "summary": "Après des années d'accalmie, la violence a de nouveau explosé dans l'Etat de Zacatecas depuis la découverte, le 18 juillet, de cinq corps pendus à un pont à Pozo de Gamboa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après des années d'accalmie, la violence a de nouveau explosé dans l'Etat de Zacatecas depuis la découverte, le 18 juillet, de cinq corps pendus à un pont à Pozo de Gamboa."
+    },
+    "published": "Mon, 31 Aug 2026 10:16:17 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      8,
+      16,
+      17,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/au-mexique-une-voiture-piegee-explose-devant-un-commissariat-faisant-plusieurs-blesses_8170337.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zb-EjnGfV0F5A_uAd9WTYHHJnBc/0x297:5710x3509/432x243/filters:format(jpg)/2026/08/31/6a95321ab3e6a637787266.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/au-mexique-une-voiture-piegee-explose-devant-un-commissariat-faisant-plusieurs-blesses_8170337.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/au-mexique-une-voiture-piegee-explose-devant-un-commissariat-faisant-plusieurs-blesses_8170337.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
