@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T18:48:10.404413+00:00",
+  "_id": "f3512e23c108",
+  "brut": {
+    "title": "L'épidémie d'Ebola en République démocratique du Congo dépasse les 6 000 cas confirmés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épidémie d'Ebola en République démocratique du Congo dépasse les 6 000 cas confirmés"
+    },
+    "summary": "Il s'agit de l'épidémie la plus meurtrière qu'ait dû affronter le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il s'agit de l'épidémie la plus meurtrière qu'ait dû affronter le pays."
+    },
+    "published": "Mon, 31 Aug 2026 16:46:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      14,
+      46,
+      43,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-6-000-cas-confirmes_8170892.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/whmApm7DtwcRzbQxD4GYcgMRAzw/0x67:1280x787/432x243/filters:format(jpg)/2026/08/31/6a95931fbcf03529418597.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-6-000-cas-confirmes_8170892.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-6-000-cas-confirmes_8170892.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

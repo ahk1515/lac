@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T18:48:10.197555+00:00",
+  "_id": "c52d13bbe083",
+  "brut": {
+    "title": "Crue soudaine dans le parc du Grand Canyon : au moins deux morts et une quinzaine de personnes recherchées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Crue soudaine dans le parc du Grand Canyon : au moins deux morts et une quinzaine de personnes recherchées"
+    },
+    "published": "Mon, 31 Aug 2026 18:41:41 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      16,
+      41,
+      41,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 19:30:21 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      17,
+      30,
+      21,
+      0,
+      243,
+      0
+    ],
+    "summary": "Dimanche, au lendemain du passage d’un torrent d’eau boueuse, les autorités du parc situé dans l’Arizona poursuivaient les opérations d’évacuation et de recherche dans un secteur prisé des randonneurs, où plusieurs infrastructures ont été détruites.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dimanche, au lendemain du passage d’un torrent d’eau boueuse, les autorités du parc situé dans l’Arizona poursuivaient les opérations d’évacuation et de recherche dans un secteur prisé des randonneurs, où plusieurs infrastructures ont été détruites."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/31/crue-soudaine-dans-le-parc-du-grand-canyon-au-moins-deux-morts-et-une-quinzaine-de-personnes-recherchees_6761762_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/31/crue-soudaine-dans-le-parc-du-grand-canyon-au-moins-deux-morts-et-une-quinzaine-de-personnes-recherchees_6761762_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/31/crue-soudaine-dans-le-parc-du-grand-canyon-au-moins-deux-morts-et-une-quinzaine-de-personnes-recherchees_6761762_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/216/0/4032/2016/644/322/60/0/d7e62ba_ftp-1-q3dgxqmm264m-5958331-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La passerelle d’un pont enjambant le ruisseau Bright Angel, détruite lors d’une crue éclair dans le Grand Canyon (Arizona), le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service des Parcs nationaux/AFP"
+      }
+    ],
+    "credit": "Service des Parcs nationaux/AFP"
+  }
+}

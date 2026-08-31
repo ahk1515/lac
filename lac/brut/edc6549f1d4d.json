@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T18:48:10.200054+00:00",
+  "_id": "edc6549f1d4d",
+  "brut": {
+    "title": "Aux Etats-Unis, une opposition grandissante à Flock, un réseau de 120 000 caméras qui identifient les voitures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, une opposition grandissante à Flock, un réseau de 120 000 caméras qui identifient les voitures"
+    },
+    "published": "Mon, 31 Aug 2026 13:00:13 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      11,
+      0,
+      13,
+      0,
+      243,
+      0
+    ],
+    "summary": "Le mouvement de contestation s’étend contre ce système de détection des plaques d’immatriculation, commercialisé par une société privée et considéré comme intrusif et liberticide. Sous pression, une centaine de villes ont rompu leur contrat avec l’entreprise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le mouvement de contestation s’étend contre ce système de détection des plaques d’immatriculation, commercialisé par une société privée et considéré comme intrusif et liberticide. Sous pression, une centaine de villes ont rompu leur contrat avec l’entreprise."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/31/aux-etats-unis-une-opposition-grandissante-a-flock-un-reseau-de-120-000-cameras-qui-identifient-les-voitures_6762379_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/31/aux-etats-unis-une-opposition-grandissante-a-flock-un-reseau-de-120-000-cameras-qui-identifient-les-voitures_6762379_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/31/aux-etats-unis-une-opposition-grandissante-a-flock-un-reseau-de-120-000-cameras-qui-identifient-les-voitures_6762379_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/06/333/0/4000/2000/644/322/60/0/3e62fc6_ftp-1-r2u5hjkjjouq-2026-08-06t054653z-908653142-rc2jsmazq3yv-rtrmadp-3-tech-flock.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une caméra Flock Safety à Commerce City (Colorado), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Cheney Orr/REUTERS"
+      }
+    ],
+    "credit": "Cheney Orr/REUTERS"
+  }
+}

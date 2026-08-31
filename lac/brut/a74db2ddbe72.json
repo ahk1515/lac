@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T18:48:10.199616+00:00",
+  "_id": "a74db2ddbe72",
+  "brut": {
+    "title": "Niger : une tentative de putsch avortée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Niger : une tentative de putsch avortée"
+    },
+    "published": "Mon, 31 Aug 2026 14:42:47 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      12,
+      42,
+      47,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 18:34:26 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      16,
+      34,
+      26,
+      0,
+      243,
+      0
+    ],
+    "summary": "Des tirs sont entendus depuis le milieu de la nuit autour du palais présidentiel de Niamey et d’une base aérienne qui se trouve dans l’enceinte de l’aéroport de la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des tirs sont entendus depuis le milieu de la nuit autour du palais présidentiel de Niamey et d’une base aérienne qui se trouve dans l’enceinte de l’aéroport de la capitale."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/08/31/niger-une-tentative-de-putsch-avortee_6762482_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/08/31/niger-une-tentative-de-putsch-avortee_6762482_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/08/31/niger-une-tentative-de-putsch-avortee_6762482_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/491/0/5887/2943/644/322/60/0/c731fbf_ftp-1-ssmkvksxqhdx-2026-08-29t195721z-1747522112-rc2i8nazurnp-rtrmadp-3-niger-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un agent de sécurité monte la garde dans la rue à la suite d’une attaque de mutins contre l’aéroport et la présidence à Niamey, au Niger, le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}

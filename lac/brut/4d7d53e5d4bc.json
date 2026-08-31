@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T18:48:10.197731+00:00",
+  "_id": "4d7d53e5d4bc",
+  "brut": {
+    "title": "Au Canada, les étudiants étrangers délaissent les universités après le resserrement des conditions d’immigration",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Canada, les étudiants étrangers délaissent les universités après le resserrement des conditions d’immigration"
+    },
+    "published": "Mon, 31 Aug 2026 18:19:22 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      16,
+      19,
+      22,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 20:03:02 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      18,
+      3,
+      2,
+      0,
+      243,
+      0
+    ],
+    "summary": "Le tour de vis, depuis 2024, du gouvernement fédéral et de celui du Québec en matière migratoire fait baisser les effectifs des établissements d’enseignement supérieur du pays, fragilisant leurs finances et faisant craindre, à long terme, des répercussions sur l’attractivité du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le tour de vis, depuis 2024, du gouvernement fédéral et de celui du Québec en matière migratoire fait baisser les effectifs des établissements d’enseignement supérieur du pays, fragilisant leurs finances et faisant craindre, à long terme, des répercussions sur l’attractivité du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/31/au-canada-les-etudiants-etrangers-delaissent-les-universites-suite-au-resserrement-des-conditions-d-immigration_6762609_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/31/au-canada-les-etudiants-etrangers-delaissent-les-universites-suite-au-resserrement-des-conditions-d-immigration_6762609_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/31/au-canada-les-etudiants-etrangers-delaissent-les-universites-suite-au-resserrement-des-conditions-d-immigration_6762609_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/382/0/4724/2362/644/322/60/0/d4cd63b_upload-1-7m3nnaaot89u-polytechnique-montreal-2-credit-caroline-perron.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le campus de Polytechnique Montréal (Canada), en 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Caroline Perron"
+      }
+    ],
+    "credit": "Caroline Perron"
+  }
+}

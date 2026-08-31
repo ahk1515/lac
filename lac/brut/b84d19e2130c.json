@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T18:48:10.403972+00:00",
+  "_id": "b84d19e2130c",
+  "brut": {
+    "title": "Guerre en Ukraine : les hommes russes fuient le pays pour échapper à la menace d'une nouvelle mobilisation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : les hommes russes fuient le pays pour échapper à la menace d'une nouvelle mobilisation"
+    },
+    "summary": "Face à la peur d'un appel massif des hommes pour le conflit, de nombreux Russes ont déjà pris la fuite. Ils souhaitent éviter le front où, selon certaines estimations, la durée de vie d’un soldat ne dépasserait pas 20 minutes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face à la peur d'un appel massif des hommes pour le conflit, de nombreux Russes ont déjà pris la fuite. Ils souhaitent éviter le front où, selon certaines estimations, la durée de vie d’un soldat ne dépasserait pas 20 minutes."
+    },
+    "published": "Mon, 31 Aug 2026 17:23:43 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      15,
+      23,
+      43,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-hommes-russes-fuient-le-pays-pour-echapper-a-la-menace-d-une-nouvelle-mobilisation_8170805.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MuT4q8XmNYPF1SX8b8rZc0jXGXs/0x159:2560x1598/432x243/filters:format(jpg)/2025/03/17/maxnewsfrfive963901-67d7d7e47e3dc184141255.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-hommes-russes-fuient-le-pays-pour-echapper-a-la-menace-d-une-nouvelle-mobilisation_8170805.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-hommes-russes-fuient-le-pays-pour-echapper-a-la-menace-d-une-nouvelle-mobilisation_8170805.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

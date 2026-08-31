@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T18:48:10.404542+00:00",
+  "_id": "e645fecfea29",
+  "brut": {
+    "title": "Italie : à la découverte de la piste cyclable suspendue du lac de Garde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Italie : à la découverte de la piste cyclable suspendue du lac de Garde"
+    },
+    "summary": "Lundi 31 août, le journal de 13 Heures vous emmène au lac de Garda situé au nord de l’Italie. C’est le plus grand du pays et l’un des plus beaux d’Europe. Direction une piste cyclable ancrée dans la roche et suspendue au-dessus de l’eau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Lundi 31 août, le journal de 13 Heures vous emmène au lac de Garda situé au nord de l’Italie. C’est le plus grand du pays et l’un des plus beaux d’Europe. Direction une piste cyclable ancrée dans la roche et suspendue au-dessus de l’eau."
+    },
+    "published": "Mon, 31 Aug 2026 16:33:44 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      14,
+      33,
+      44,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/italie-a-la-decouverte-de-la-piste-cyclable-suspendue-du-lac-de-garde_8170850.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/v84MVB0te9zDOHWyiNrbnrbtFqg/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a958f41934ff361273028.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/italie-a-la-decouverte-de-la-piste-cyclable-suspendue-du-lac-de-garde_8170850.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/italie-a-la-decouverte-de-la-piste-cyclable-suspendue-du-lac-de-garde_8170850.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

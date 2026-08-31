@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T18:48:10.199762+00:00",
+  "_id": "f0d2f54b721a",
+  "brut": {
+    "title": "Tirs mortels lors d’une rave-party en Suisse : un homme arrêté lundi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Tirs mortels lors d’une rave-party en Suisse : un homme arrêté lundi"
+    },
+    "published": "Mon, 31 Aug 2026 14:04:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      12,
+      4,
+      3,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 15:57:40 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      13,
+      57,
+      40,
+      0,
+      243,
+      0
+    ],
+    "summary": "La police cantonale d’Argovie affirme « privilégier la thèse selon laquelle l’auteur a agi seul », mais n’a pas précisé où il avait été interpellé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La police cantonale d’Argovie affirme « privilégier la thèse selon laquelle l’auteur a agi seul », mais n’a pas précisé où il avait été interpellé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/31/suisse-un-homme-arrete-apres-la-fusillade-mortelle-lors-d-une-rave-party-a-aarau_6762448_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/31/suisse-un-homme-arrete-apres-la-fusillade-mortelle-lors-d-une-rave-party-a-aarau_6762448_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/31/suisse-un-homme-arrete-apres-la-fusillade-mortelle-lors-d-une-rave-party-a-aarau_6762448_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/522/0/5728/2864/644/322/60/0/4df66dc_ftp-1-wjnb45mxckte-2026-08-31t084258z-1834770343-rc2j9nahiwl8-rtrmadp-3-swiss-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Près de l’hippodrome de Schachen, au lendemain de la fusillade mortelle lors d’une rave-party, à Aarau (Suisse), le 31 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Denis Balibouse/REUTERS"
+      }
+    ],
+    "credit": "Denis Balibouse/REUTERS"
+  }
+}

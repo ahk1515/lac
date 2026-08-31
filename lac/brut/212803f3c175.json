@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T18:48:10.404133+00:00",
+  "_id": "212803f3c175",
+  "brut": {
+    "title": "Quand D. Trump joue avec la géographie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quand D. Trump joue avec la géographie"
+    },
+    "summary": "« Ontario » signifie « lac beau et grand » et désigne ce vaste plan d'eau à la frontière américano-canadienne. Mais en pleine tension commerciale avec le Canada, Donald Trump a décidé de le renommer « lac de l'Amérique ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "« Ontario » signifie « lac beau et grand » et désigne ce vaste plan d'eau à la frontière américano-canadienne. Mais en pleine tension commerciale avec le Canada, Donald Trump a décidé de le renommer « lac de l'Amérique »."
+    },
+    "published": "Mon, 31 Aug 2026 17:01:33 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      15,
+      1,
+      33,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-d-trump-joue-avec-la-geographie_8170928.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-qNepy86DYaZvHBWZg0pLETbHNI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95969c3f2f7214279735.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-d-trump-joue-avec-la-geographie_8170928.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-d-trump-joue-avec-la-geographie_8170928.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

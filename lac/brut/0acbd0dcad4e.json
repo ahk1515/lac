@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T18:48:10.403829+00:00",
+  "_id": "0acbd0dcad4e",
+  "brut": {
+    "title": "Algérie : la peine de mort pour les pyromanes ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Algérie : la peine de mort pour les pyromanes ?"
+    },
+    "summary": "🇩🇿 Le président de l'Algérie Abdelmadjid Tebboune veut faire appliquer la peine de mort contre les pyromanes, après les incendies m*urtriers qui ont ravagé une partie du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇩🇿 Le président de l'Algérie Abdelmadjid Tebboune veut faire appliquer la peine de mort contre les pyromanes, après les incendies m*urtriers qui ont ravagé une partie du pays."
+    },
+    "published": "Mon, 31 Aug 2026 17:47:30 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      15,
+      47,
+      30,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/algerie/algerie-la-peine-de-mort-pour-les-pyromanes_8171033.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/yyhbcihFsiisKl3Pm-wAOY2XCCI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95a1ec9ee82956087766.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/algerie/algerie-la-peine-de-mort-pour-les-pyromanes_8171033.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/algerie/algerie-la-peine-de-mort-pour-les-pyromanes_8171033.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

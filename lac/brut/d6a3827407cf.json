@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T18:48:10.198044+00:00",
+  "_id": "d6a3827407cf",
+  "brut": {
+    "title": "A Gaza, cinq morts dans des frappes lancées par Israël, qui affirme avoir visé des membres du Hamas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, cinq morts dans des frappes lancées par Israël, qui affirme avoir visé des membres du Hamas"
+    },
+    "published": "Mon, 31 Aug 2026 17:50:09 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      15,
+      50,
+      9,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 19:19:12 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      17,
+      19,
+      12,
+      0,
+      243,
+      0
+    ],
+    "summary": "L’entrée d’un immeuble résidentiel et une voiture « civile » ont été touchées par l’armée israélienne. Elles étaient les cibles des tirs, selon les services de secours palestiniens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’entrée d’un immeuble résidentiel et une voiture « civile » ont été touchées par l’armée israélienne. Elles étaient les cibles des tirs, selon les services de secours palestiniens."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/31/a-gaza-cinq-morts-dans-des-frappes-lancees-par-israel-qui-affirme-avoir-vise-des-membres-du-hamas_6762604_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/31/a-gaza-cinq-morts-dans-des-frappes-lancees-par-israel-qui-affirme-avoir-vise-des-membres-du-hamas_6762604_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/31/a-gaza-cinq-morts-dans-des-frappes-lancees-par-israel-qui-affirme-avoir-vise-des-membres-du-hamas_6762604_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/429/0/5149/2574/644/322/60/0/6666e8f_ftp-1-6hc2f3xzizgx-5961632-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des Palestiniens font leurs adieux aux victimes d’une frappe aérienne israélienne qui a visé un véhicule, à l’hôpital Al-Shifa, à Gaza, alors que les corps sont transportés pour être inhumés, le 31 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OMAR AL-QATTAA / AFP"
+      }
+    ],
+    "credit": "OMAR AL-QATTAA / AFP"
+  }
+}

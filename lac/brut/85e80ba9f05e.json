@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T18:48:10.197364+00:00",
+  "_id": "85e80ba9f05e",
+  "brut": {
+    "title": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités"
+    },
+    "published": "Mon, 31 Aug 2026 20:11:23 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      18,
+      11,
+      23,
+      0,
+      243,
+      0
+    ],
+    "updated": "Mon, 31 Aug 2026 20:30:46 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      18,
+      30,
+      46,
+      0,
+      243,
+      0
+    ],
+    "summary": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre laquelle il n’existe ni vaccin ni traitement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre laquelle il n’existe ni vaccin ni traitement."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/08/31/ebola-en-rdc-l-epidemie-depasse-les-6-000-cas-confirmes-et-les-2-900-morts-annoncent-les-autorites_6762743_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/31/ebola-en-rdc-l-epidemie-depasse-les-6-000-cas-confirmes-et-les-2-900-morts-annoncent-les-autorites_6762743_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/08/31/ebola-en-rdc-l-epidemie-depasse-les-6-000-cas-confirmes-et-les-2-900-morts-annoncent-les-autorites_6762743_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/500/0/6000/3000/644/322/60/0/23633fc_ftp-1-5avuoaqzofub-17a395fafbd24eab8808d45e06c7caab-1-dc5072e1ea334e2183001e0db58f387f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes vêtues d’équipements de protection s’apprêtent à descendre dans une tombe le cercueil contenant la dépouille de Baudjo Baraka Jules, âgé de 6 ans, mort des suites de la maladie à virus Ebola, à Bunia (Ituri, RDC), le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dieudonne Dirole / AP Photo/Dieudonne Dirole"
+      }
+    ],
+    "credit": "Dieudonne Dirole / AP Photo/Dieudonne Dirole"
+  }
+}

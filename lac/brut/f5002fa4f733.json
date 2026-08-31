@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T18:48:10.403426+00:00",
+  "_id": "f5002fa4f733",
+  "brut": {
+    "title": "Grand Canyon : des crues soudaines font deux morts et une quinzaine de disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Grand Canyon : des crues soudaines font deux morts et une quinzaine de disparus"
+    },
+    "summary": "Des pluies torrentielles ont provoqué des crues soudaines dans le Grand Canyon, dans l’Utah, emportant un refuge et plusieurs tentes. Deux personnes sont mortes et une quinzaine d’autres sont portées disparues. Plus de 60 visiteurs et employés du parc ont été évacués par hélicoptère alors que les recherches se poursuivent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des pluies torrentielles ont provoqué des crues soudaines dans le Grand Canyon, dans l’Utah, emportant un refuge et plusieurs tentes. Deux personnes sont mortes et une quinzaine d’autres sont portées disparues. Plus de 60 visiteurs et employés du parc ont été évacués par hélicoptère alors que les recherches se poursuivent."
+    },
+    "published": "Mon, 31 Aug 2026 20:39:04 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      18,
+      39,
+      4,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/grand-canyon-des-crues-soudaines-font-deux-morts-et-une-quinzaine-de-disparus_8171195.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/eqj8zgRDblZLm-kVARb6rDIJfhM/42x0:751x399/432x243/filters:format(jpg)/2026/08/31/6a95ca456e5b9805205166.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/grand-canyon-des-crues-soudaines-font-deux-morts-et-une-quinzaine-de-disparus_8171195.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/grand-canyon-des-crues-soudaines-font-deux-morts-et-une-quinzaine-de-disparus_8171195.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

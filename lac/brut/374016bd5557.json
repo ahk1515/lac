@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T18:48:10.406434+00:00",
+  "_id": "374016bd5557",
+  "brut": {
+    "title": "Israël va expulser un militant britannique retenu par des colons israéliens en Cisjordanie occupée, annonce son avocate",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël va expulser un militant britannique retenu par des colons israéliens en Cisjordanie occupée, annonce son avocate"
+    },
+    "summary": "Les faits se sont produits samedi dans un village palestinien du sud de la Cisjordanie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les faits se sont produits samedi dans un village palestinien du sud de la Cisjordanie."
+    },
+    "published": "Mon, 31 Aug 2026 14:38:54 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      12,
+      38,
+      54,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/israel-va-expulser-un-militant-britannique-retenu-par-des-colons-israeliens-en-cisjordanie-occupee-annonce-son-avocate_8170721.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/bG48MrO3FO6pb4t8WSjfz1POHNA/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a9571e034094694329177.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/israel-va-expulser-un-militant-britannique-retenu-par-des-colons-israeliens-en-cisjordanie-occupee-annonce-son-avocate_8170721.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/israel-va-expulser-un-militant-britannique-retenu-par-des-colons-israeliens-en-cisjordanie-occupee-annonce-son-avocate_8170721.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
