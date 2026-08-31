@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T03:49:30.114636+00:00",
+  "_id": "f35d43adbd1c",
+  "brut": {
+    "title": "Midterms : Trump et les républicains sous pression",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Midterms : Trump et les républicains sous pression"
+    },
+    "published": "Mon, 31 Aug 2026 05:00:11 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      3,
+      0,
+      11,
+      0,
+      243,
+      0
+    ],
+    "summary": "A l’approche des élections de mi-mandat du 3 novembre, la chute de popularité de Donald Trump et l’enlisement du conflit en Iran menacent la majorité républicaine au Congrès. Explications en podcast avec Piotr Smolar, correspondant du « Monde » à Washington.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A l’approche des élections de mi-mandat du 3 novembre, la chute de popularité de Donald Trump et l’enlisement du conflit en Iran menacent la majorité républicaine au Congrès. Explications en podcast avec Piotr Smolar, correspondant du « Monde » à Washington."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/08/31/midterms-trump-et-les-republicains-sous-pression_6761828_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/08/31/midterms-trump-et-les-republicains-sous-pression_6761828_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/08/31/midterms-trump-et-les-republicains-sous-pression_6761828_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/0/0/1800/900/644/322/60/0/00540bc_upload-1-u0mkamrabryk-trump.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Seul un Américain sur trois, en moyenne, soutient l’action de Donald Trump, un chiffre historiquement bas."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "WIN MCNAMEE / GETTY IMAGES NORTH AMERICA / AFP"
+      }
+    ],
+    "credit": "WIN MCNAMEE / GETTY IMAGES NORTH AMERICA / AFP"
+  }
+}
