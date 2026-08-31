@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T23:37:19.027561+00:00",
+  "_id": "5418f80f06fc",
+  "brut": {
+    "title": "Moyen-Orient : le retour de la guerre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Moyen-Orient : le retour de la guerre ?"
+    },
+    "summary": "Après un mois de relative accalmie, le Moyen-Orient est à nouveau sous haute tension. Donald Trump qualifie aujourd’hui l’Iran de “pays mort”. Les bombardements américains ont repris sur l’île iranienne de Larak : deux morts selon Téhéran. Un regain de tension qui inquiète les marchés financiers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après un mois de relative accalmie, le Moyen-Orient est à nouveau sous haute tension. Donald Trump qualifie aujourd’hui l’Iran de “pays mort”. Les bombardements américains ont repris sur l’île iranienne de Larak : deux morts selon Téhéran. Un regain de tension qui inquiète les marchés financiers."
+    },
+    "published": "Mon, 31 Aug 2026 21:12:56 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      19,
+      12,
+      56,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/moyen-orient-le-retour-de-la-guerre_8171243.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/OFib5SOuf58ocP3Z2EzwJB2nFtA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95d20b1c4c5476084798.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/moyen-orient-le-retour-de-la-guerre_8171243.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/moyen-orient-le-retour-de-la-guerre_8171243.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

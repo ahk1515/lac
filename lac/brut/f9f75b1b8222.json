@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T23:37:18.774812+00:00",
+  "_id": "f9f75b1b8222",
+  "brut": {
+    "title": "La mairie de Deauville désavouée par la justice après le retrait d’une photo de Gaza d’un festival",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mairie de Deauville désavouée par la justice après le retrait d’une photo de Gaza d’un festival"
+    },
+    "published": "Mon, 31 Aug 2026 20:55:03 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      18,
+      55,
+      3,
+      0,
+      243,
+      0
+    ],
+    "summary": "L’image, représentant un match de football au milieu de bâtiments détruits par l’armée israélienne, avait été discrètement retirée courant août d’une place où elle devait être exposée durant trois mois dans le cadre du Deauville Sport Images Festival sur les valeurs du sport.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’image, représentant un match de football au milieu de bâtiments détruits par l’armée israélienne, avait été discrètement retirée courant août d’une place où elle devait être exposée durant trois mois dans le cadre du Deauville Sport Images Festival sur les valeurs du sport."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/08/31/la-mairie-de-deauville-desavouee-par-la-justice-apres-le-retrait-d-une-photo-de-gaza-d-un-festival_6762814_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/08/31/la-mairie-de-deauville-desavouee-par-la-justice-apres-le-retrait-d-une-photo-de-gaza-d-un-festival_6762814_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/08/31/la-mairie-de-deauville-desavouee-par-la-justice-apres-le-retrait-d-une-photo-de-gaza-d-un-festival_6762814_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/633/0/5746/2873/644/322/60/0/77bd238_upload-1-zqwu7oio0pee-ap26045546939760.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des joueurs palestiniens du Gaza Sporting Club et de l’Ahli Gaza Club participent à un match de football sur un terrain récemment aménagé, à Gaza, le 14 février 2026. La photo était exposée au Deauville Sport Images Festival avant d’être retirée par la mairie de Deauville."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jehad Alshrafi/AP"
+      }
+    ],
+    "credit": "Jehad Alshrafi/AP"
+  }
+}

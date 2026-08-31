@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T23:37:18.774496+00:00",
+  "_id": "ef52d5811500",
+  "brut": {
+    "title": "Amazon visé par une plainte pour surfacturation en secret de publicités à plus de 1 million d’annonceurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Amazon visé par une plainte pour surfacturation en secret de publicités à plus de 1 million d’annonceurs"
+    },
+    "published": "Mon, 31 Aug 2026 23:35:20 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      21,
+      35,
+      20,
+      0,
+      243,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 00:47:11 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      22,
+      47,
+      11,
+      0,
+      243,
+      0
+    ],
+    "summary": "Selon les plaignants, le géant du commerce en ligne aurait surfacturé ses clients annonceurs de plus de 20 milliards de dollars depuis 2019, grâce à un mécanisme d’enchères publicitaires qu’ils jugent trompeur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les plaignants, le géant du commerce en ligne aurait surfacturé ses clients annonceurs de plus de 20 milliards de dollars depuis 2019, grâce à un mécanisme d’enchères publicitaires qu’ils jugent trompeur."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/31/amazon-vise-par-une-plainte-pour-surfacturation-en-secret-de-publicites-a-plus-de-1-million-d-annonceurs_6762855_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/31/amazon-vise-par-une-plainte-pour-surfacturation-en-secret-de-publicites-a-plus-de-1-million-d-annonceurs_6762855_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/31/amazon-vise-par-une-plainte-pour-surfacturation-en-secret-de-publicites-a-plus-de-1-million-d-annonceurs_6762855_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2022/02/08/209/0/4573/2286/644/322/60/0/8acdabb_5492382-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le logo d’Amazon au centre de distribution de Staten Island, à New York, le 8 février 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANGELA WEISS/AFP"
+      }
+    ],
+    "credit": "ANGELA WEISS/AFP"
+  }
+}

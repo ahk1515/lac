@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T23:37:18.774394+00:00",
+  "_id": "66c2612cf8b5",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev prépare de nouvelles frappes contre la Russie et estime que Poutine veut poursuivre la guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev prépare de nouvelles frappes contre la Russie et estime que Poutine veut poursuivre la guerre"
+    },
+    "published": "Mon, 31 Aug 2026 23:52:24 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      21,
+      52,
+      24,
+      0,
+      243,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 00:00:17 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      22,
+      0,
+      17,
+      0,
+      243,
+      0
+    ],
+    "summary": "Volodymyr Zelensky a, par ailleurs, confirmé un échange avec les émissaires du président des Etats-Unis, Donald Trump, Steve Witkoff et Jared Kushner, qui préparent des contacts avec la partie russe ainsi qu’une visite en Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Volodymyr Zelensky a, par ailleurs, confirmé un échange avec les émissaires du président des Etats-Unis, Donald Trump, Steve Witkoff et Jared Kushner, qui préparent des contacts avec la partie russe ainsi qu’une visite en Ukraine."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/11/0/3000/1500/644/322/60/0/6080704_ftp-1-xfqqaeuk5sqf-5922517-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président ukrainien, Volodymyr Zelensky, et le commandant en chef des forces armées ukrainiennes, Mykhailo Drapaty, visitent des positions sur le front, dans un lieu non divulgué du sud de l’Ukraine, le 26 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service de presse de la présidence ukrainienne via AFP"
+      }
+    ],
+    "credit": "Service de presse de la présidence ukrainienne via AFP"
+  }
+}

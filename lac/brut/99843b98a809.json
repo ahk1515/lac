@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-08-31T23:37:19.027662+00:00",
+  "_id": "99843b98a809",
+  "brut": {
+    "title": "Concours de sosies de Zohran Mamdani",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Concours de sosies de Zohran Mamdani"
+    },
+    "summary": "Un concours de sosies de Zohran Mamdani, le maire de New York, a opposé 9 candidats à l'applaudimètre, dimanche 30 août. À la clé un prix de 100 dollars.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un concours de sosies de Zohran Mamdani, le maire de New York, a opposé 9 candidats à l'applaudimètre, dimanche 30 août. À la clé un prix de 100 dollars."
+    },
+    "published": "Mon, 31 Aug 2026 21:00:02 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      19,
+      0,
+      2,
+      0,
+      243,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/concours-de-sosies-de-zohran-mamdani_8171114.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/CWNKrc3GVAe3RdWxwKMLMowU2R8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95aef529957288634901.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/concours-de-sosies-de-zohran-mamdani_8171114.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/concours-de-sosies-de-zohran-mamdani_8171114.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

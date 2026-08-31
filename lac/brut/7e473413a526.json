@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-08-31T23:37:18.774717+00:00",
+  "_id": "7e473413a526",
+  "brut": {
+    "title": "La guerre, nouvelle normalité du détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La guerre, nouvelle normalité du détroit d’Ormuz"
+    },
+    "published": "Mon, 31 Aug 2026 22:02:26 +0200",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      20,
+      2,
+      26,
+      0,
+      243,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 00:08:11 +0200",
+    "updated_parsed": [
+      2026,
+      8,
+      31,
+      22,
+      8,
+      11,
+      0,
+      243,
+      0
+    ],
+    "summary": "La reprise des frappes entre les Etats-Unis et l’Iran, lundi, confirme que le conflit s’est installé durablement dans ces eaux. L’outil de dissuasion qu’était pour Téhéran le blocage de cette artère stratégique s’émousse peu à peu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La reprise des frappes entre les Etats-Unis et l’Iran, lundi, confirme que le conflit s’est installé durablement dans ces eaux. L’outil de dissuasion qu’était pour Téhéran le blocage de cette artère stratégique s’émousse peu à peu."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/08/31/la-guerre-nouvelle-normalite-du-detroit-d-ormouz_6762818_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/08/31/la-guerre-nouvelle-normalite-du-detroit-d-ormouz_6762818_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/08/31/la-guerre-nouvelle-normalite-du-detroit-d-ormouz_6762818_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/458/0/5500/2750/644/322/60/0/90fe1b8_ftp-1-awh3dt54bwkv-2026-08-26t175535z-1108723801-rc2e6na355bg-rtrmadp-3-iran-crisis-hormuz.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des navires au loin dans le détroit d’Ormuz, près de la plage de Bandar-e Abbas (Iran), le 26 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Majid Asgaripour/WANA via REUTERS"
+      }
+    ],
+    "credit": "Majid Asgaripour/WANA via REUTERS"
+  }
+}
