@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T16:06:07.932594+00:00",
+  "_id": "eb55e8071fbf",
+  "brut": {
+    "title": "Bombardement de Bouaké en 2004 : les familles des victimes portent plainte contre un marchand d’armes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bombardement de Bouaké en 2004 : les familles des victimes portent plainte contre un marchand d’armes"
+    },
+    "published": "Tue, 01 Sep 2026 18:00:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      16,
+      0,
+      10,
+      1,
+      244,
+      0
+    ],
+    "summary": "Vingt-deux ans après l’attaque qui a tué neuf militaires français, fin 2004, en Côte d’Ivoire, une plainte a été déposée, mardi 1ᵉʳ septembre à Paris, contre Robert Montoya, un marchand d’armes accusé d’avoir organisé l’exfiltration de pilotes biélorusses.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vingt-deux ans après l’attaque qui a tué neuf militaires français, fin 2004, en Côte d’Ivoire, une plainte a été déposée, mardi 1ᵉʳ septembre à Paris, contre Robert Montoya, un marchand d’armes accusé d’avoir organisé l’exfiltration de pilotes biélorusses."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/bombardement-de-bouake-en-2004-les-familles-des-victimes-portent-plainte-contre-un-marchand-d-armes_6763503_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/bombardement-de-bouake-en-2004-les-familles-des-victimes-portent-plainte-contre-un-marchand-d-armes_6763503_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/bombardement-de-bouake-en-2004-les-familles-des-victimes-portent-plainte-contre-un-marchand-d-armes_6763503_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2021/04/15/170/0/2048/1024/644/322/60/0/2f63417_5606325-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le camp de la force française « Licorne », à Bouaké, en Côte d’Ivoire, le 10 novembre 2004, quatre jours après son bombardement."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILIPPE DESMAZES / AFP"
+      }
+    ],
+    "credit": "PHILIPPE DESMAZES / AFP"
+  }
+}

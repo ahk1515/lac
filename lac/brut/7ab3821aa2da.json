@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T16:06:07.935019+00:00",
+  "_id": "7ab3821aa2da",
+  "brut": {
+    "title": "Cisjordanie occupée : le Programme alimentaire des Nations unies réduit de moitié son aide alimentaire, faute de financements",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cisjordanie occupée : le Programme alimentaire des Nations unies réduit de moitié son aide alimentaire, faute de financements"
+    },
+    "published": "Tue, 01 Sep 2026 12:43:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      10,
+      43,
+      46,
+      1,
+      244,
+      0
+    ],
+    "summary": "L’agence de l’ONU ne pourra plus venir en aide qu’à 200 000 personnes, alors que les besoins alimentaires dans le territoire ont plus que doublé en deux ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’agence de l’ONU ne pourra plus venir en aide qu’à 200 000 personnes, alors que les besoins alimentaires dans le territoire ont plus que doublé en deux ans."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/cisjordanie-occupee-le-programme-alimentaire-des-nations-unies-reduit-de-moitie-son-aide-alimentaire-faute-de-financements_6763474_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/cisjordanie-occupee-le-programme-alimentaire-des-nations-unies-reduit-de-moitie-son-aide-alimentaire-faute-de-financements_6763474_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/cisjordanie-occupee-le-programme-alimentaire-des-nations-unies-reduit-de-moitie-son-aide-alimentaire-faute-de-financements_6763474_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/14/468/0/5616/2808/644/322/60/0/dc1cbfe_ftp-1-blm7bivhjbzp-da555cdcbf8d495da735dd5d4df1d081-0-8932a440a723400f912d43eab299f3a9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des militants rassemblant des vivres devant des soldats de l’armée israélienne qui bloquent la route menant aux maisons de familles palestiniennes assiégées par des colons israéliens depuis six jours, dans le village de Qusra, en Cisjordanie occupée, le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Majdi Mohammed/AP Photo"
+      }
+    ],
+    "credit": "Majdi Mohammed/AP Photo"
+  }
+}

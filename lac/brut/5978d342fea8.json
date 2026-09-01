@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T16:06:08.391826+00:00",
+  "_id": "5978d342fea8",
+  "brut": {
+    "title": "Guerre en Ukraine : au moins 12 morts dans une nouvelle attaque russe massive contre Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : au moins 12 morts dans une nouvelle attaque russe massive contre Kiev"
+    },
+    "summary": "Une nouvelle attaque russe massive a visé Kiev dans la nuit du lundi 31 août au mardi 1er septembre. Missiles et drones ont frappé la capitale ukrainienne, faisant au moins 12 morts et une vingtaine de blessés. Des immeubles résidentiels et des infrastructures ferroviaires ont notamment été touchés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une nouvelle attaque russe massive a visé Kiev dans la nuit du lundi 31 août au mardi 1er septembre. Missiles et drones ont frappé la capitale ukrainienne, faisant au moins 12 morts et une vingtaine de blessés. Des immeubles résidentiels et des infrastructures ferroviaires ont notamment été touchés."
+    },
+    "published": "Tue, 01 Sep 2026 15:35:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      13,
+      35,
+      10,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dans-une-nouvelle-attaque-russe-massive-contre-kiev_8172188.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/BBqMmGJ6-OzUUv1agapY0hUutLU/0x13:852x493/432x243/filters:format(jpg)/2026/09/01/6a96d476eca70316906035.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dans-une-nouvelle-attaque-russe-massive-contre-kiev_8172188.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dans-une-nouvelle-attaque-russe-massive-contre-kiev_8172188.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

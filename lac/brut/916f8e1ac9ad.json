@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T16:06:07.934246+00:00",
+  "_id": "916f8e1ac9ad",
+  "brut": {
+    "title": "Canicule : en 2026, le Royaume-Uni et la Belgique enregistrent leur été le plus chaud",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Canicule : en 2026, le Royaume-Uni et la Belgique enregistrent leur été le plus chaud"
+    },
+    "published": "Tue, 01 Sep 2026 15:53:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      13,
+      53,
+      49,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 16:00:46 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      14,
+      0,
+      46,
+      1,
+      244,
+      0
+    ],
+    "summary": "Sur la saison, la température moyenne relevée dans ces deux pays européens a respectivement été de 16,5 °C, et de 20,3 °C. Leurs agences météorologiques soulignent la nouvelle fréquence d’irruption de périodes caniculaires, qui s’enchaînent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sur la saison, la température moyenne relevée dans ces deux pays européens a respectivement été de 16,5 °C, et de 20,3 °C. Leurs agences météorologiques soulignent la nouvelle fréquence d’irruption de périodes caniculaires, qui s’enchaînent."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/01/canicule-en-2026-le-royaume-uni-et-la-belgique-enregistrent-leur-ete-le-plus-chaud_6763485_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/01/canicule-en-2026-le-royaume-uni-et-la-belgique-enregistrent-leur-ete-le-plus-chaud_6763485_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/01/canicule-en-2026-le-royaume-uni-et-la-belgique-enregistrent-leur-ete-le-plus-chaud_6763485_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/13/41/0/3688/1844/644/322/60/0/f2ff498_ftp-1-lktbo1nfjlf4-2026-08-13t141945z-1586910575-rc2pxmac316c-rtrmadp-3-europe-weather-britain.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une vague de chaleur à Londres, le 13 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Isabel Infantes/REUTERS"
+      }
+    ],
+    "credit": "Isabel Infantes/REUTERS"
+  }
+}

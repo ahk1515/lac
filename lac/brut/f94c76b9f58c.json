@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T16:06:08.394395+00:00",
+  "_id": "f94c76b9f58c",
+  "brut": {
+    "title": "Aux États-Unis, la couverture vaccinale des enfants de maternelle recule",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, la couverture vaccinale des enfants de maternelle recule"
+    },
+    "summary": "C'est l'heure de la rentrée en France. Les enfants qui entrent à l'école ou en crèche sont obligatoirement vaccinés contre la diphtérie, le tétanos ou encore les pneumocoques. Aux États-Unis, au contraire, on peut être scolarisé sans être vacciné, et des maladies qu'on croyait avoir éradiquées font leur retour.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "C'est l'heure de la rentrée en France. Les enfants qui entrent à l'école ou en crèche sont obligatoirement vaccinés contre la diphtérie, le tétanos ou encore les pneumocoques. Aux États-Unis, au contraire, on peut être scolarisé sans être vacciné, et des maladies qu'on croyait avoir éradiquées font leur retour."
+    },
+    "published": "Tue, 01 Sep 2026 11:38:56 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      9,
+      38,
+      56,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/aux-etats-unis-la-couverture-vaccinale-des-enfants-de-maternelle-recule_8168459.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/SClADvzGyxdohhdciT73k_Nd4Is/0x304:3702x2387/432x243/filters:format(jpg)/2026/09/01/6a969cc7da038400148281.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/aux-etats-unis-la-couverture-vaccinale-des-enfants-de-maternelle-recule_8168459.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/aux-etats-unis-la-couverture-vaccinale-des-enfants-de-maternelle-recule_8168459.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

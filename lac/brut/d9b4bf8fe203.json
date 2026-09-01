@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T16:06:07.933970+00:00",
+  "_id": "d9b4bf8fe203",
+  "brut": {
+    "title": "En Iran, une photojournaliste condamnée à quinze ans de prison pour avoir diffusé des images de la répression à l’étranger",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Iran, une photojournaliste condamnée à quinze ans de prison pour avoir diffusé des images de la répression à l’étranger"
+    },
+    "published": "Tue, 01 Sep 2026 16:30:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      14,
+      30,
+      7,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 16:52:13 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      14,
+      52,
+      13,
+      1,
+      244,
+      0
+    ],
+    "summary": "Accusée d’avoir transmis des photos à l’étranger, Yalda Moaiery vient de voir sa condamnation confirmée en appel. « Le Monde » avait publié ses images des manifestations contre le régime en janvier. Un témoignage rare.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Accusée d’avoir transmis des photos à l’étranger, Yalda Moaiery vient de voir sa condamnation confirmée en appel. « Le Monde » avait publié ses images des manifestations contre le régime en janvier. Un témoignage rare."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/01/en-iran-une-photojournaliste-condamnee-a-quinze-ans-de-prison-pour-avoir-diffuse-des-images-de-la-repression-a-l-etranger_6763492_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/01/en-iran-une-photojournaliste-condamnee-a-quinze-ans-de-prison-pour-avoir-diffuse-des-images-de-la-repression-a-l-etranger_6763492_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/01/en-iran-une-photojournaliste-condamnee-a-quinze-ans-de-prison-pour-avoir-diffuse-des-images-de-la-repression-a-l-etranger_6763492_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/116/0/1500/750/644/322/60/0/0bfb716_ftp-1-fficccwtzcmf-440700-3494657.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La famille d’Ilia Dehghani, 19 ans, tué à Téhéran le 9 janvier, honore sa mémoire quarante jours après sa mort."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Yalda Moaiery"
+      }
+    ],
+    "credit": "Yalda Moaiery"
+  }
+}

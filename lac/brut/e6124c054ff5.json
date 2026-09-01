@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T16:06:08.392937+00:00",
+  "_id": "e6124c054ff5",
+  "brut": {
+    "title": "L'inflation dans la zone euro grimpe à 3,3% au mois d'août, une première depuis trois ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'inflation dans la zone euro grimpe à 3,3% au mois d'août, une première depuis trois ans"
+    },
+    "summary": "Cette augmentation des prix est une des conséquences directes de la guerre au Moyen-Orient.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette augmentation des prix est une des conséquences directes de la guerre au Moyen-Orient."
+    },
+    "published": "Tue, 01 Sep 2026 12:51:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      10,
+      51,
+      38,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-zone-euro-grimpe-a-3-3-au-mois-d-aout-une-premiere-depuis-trois-ans-tiree-par-la-hausse-des-prix-de-l-energie_8172029.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CWWJS-t5WJYA9Hsx2h706c0FZXE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/01/6a96ad63e4c3a278805315.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-zone-euro-grimpe-a-3-3-au-mois-d-aout-une-premiere-depuis-trois-ans-tiree-par-la-hausse-des-prix-de-l-energie_8172029.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-zone-euro-grimpe-a-3-3-au-mois-d-aout-une-premiere-depuis-trois-ans-tiree-par-la-hausse-des-prix-de-l-energie_8172029.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

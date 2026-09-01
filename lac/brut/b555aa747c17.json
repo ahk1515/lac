@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T16:06:08.391357+00:00",
+  "_id": "b555aa747c17",
+  "brut": {
+    "title": "L'épave du ferry qui a coulé au large de Chypre du Nord a été localisée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épave du ferry qui a coulé au large de Chypre du Nord a été localisée"
+    },
+    "summary": "Un bateau de croisière avec 267 personnes à bord a fait naufrage dimanche, au large des côtes de Chypre du Nord. Le bilan provisoire est d'au moins 8 morts et 20 disparus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un bateau de croisière avec 267 personnes à bord a fait naufrage dimanche, au large des côtes de Chypre du Nord. Le bilan provisoire est d'au moins 8 morts et 20 disparus."
+    },
+    "published": "Tue, 01 Sep 2026 16:55:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      14,
+      55,
+      13,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chypre/l-epave-du-ferry-qui-a-coule-au-large-de-chypre-du-nord-a-ete-localisee_8172323.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0ghD1yu-vkr0XWV83BmH26fxTic/0x53:1024x629/432x243/filters:format(jpg)/2026/09/01/6a96e62eed9fe146009937.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chypre/l-epave-du-ferry-qui-a-coule-au-large-de-chypre-du-nord-a-ete-localisee_8172323.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chypre/l-epave-du-ferry-qui-a-coule-au-large-de-chypre-du-nord-a-ete-localisee_8172323.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

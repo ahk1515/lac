@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T16:06:08.391191+00:00",
+  "_id": "c48c564262c0",
+  "brut": {
+    "title": "Bali : des rizières aux temples, à vélo, l'île se découvre autrement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Bali : des rizières aux temples, à vélo, l'île se découvre autrement"
+    },
+    "summary": "À Bali, une famille grenobloise a choisi de découvrir l’île à vélo, loin des circuits touristiques. Pendant trois heures, les touristes traversent des rizières, participent aux travaux des champs et découvrent des temples hindous. Une immersion au plus près de la culture balinaise, ponctuée par un déjeuner dans un warung traditionnel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Bali, une famille grenobloise a choisi de découvrir l’île à vélo, loin des circuits touristiques. Pendant trois heures, les touristes traversent des rizières, participent aux travaux des champs et découvrent des temples hindous. Une immersion au plus près de la culture balinaise, ponctuée par un déjeuner dans un warung traditionnel."
+    },
+    "published": "Tue, 01 Sep 2026 17:10:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      15,
+      10,
+      10,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/bali-des-rizieres-aux-temples-a-velo-l-ile-se-decouvre-autrement_8172332.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gBVR7ewMGb6mQdubQhumUt9mKKE/0x22:815x481/432x243/filters:format(jpg)/2026/09/01/6a96e9df97ad3896895091.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/bali-des-rizieres-aux-temples-a-velo-l-ile-se-decouvre-autrement_8172332.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/bali-des-rizieres-aux-temples-a-velo-l-ile-se-decouvre-autrement_8172332.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

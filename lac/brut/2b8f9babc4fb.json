@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T16:06:08.391664+00:00",
+  "_id": "2b8f9babc4fb",
+  "brut": {
+    "title": "Burning Man : une Tour Eiffel géante surgit dans le désert du Nevada",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Burning Man : une Tour Eiffel géante surgit dans le désert du Nevada"
+    },
+    "summary": "À Burning Man, dans le désert du Nevada, une étrange Tour Eiffel a fait son apparition. Coupée en deux et couchée dans le sable, l'œuvre de l'artiste français Philippe Maindron mesure 50 mètres de haut et pèse 30 tonnes. Une installation monumentale, mais éphémère.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Burning Man, dans le désert du Nevada, une étrange Tour Eiffel a fait son apparition. Coupée en deux et couchée dans le sable, l'œuvre de l'artiste français Philippe Maindron mesure 50 mètres de haut et pèse 30 tonnes. Une installation monumentale, mais éphémère."
+    },
+    "published": "Tue, 01 Sep 2026 16:20:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      14,
+      20,
+      54,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/burning-man-une-tour-eiffel-geante-surgit-dans-le-desert-du-nevada_8172263.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZKBxwf4C4gFYKJsTJWFda7HHgAI/0x31:752x454/432x243/filters:format(jpg)/2026/09/01/6a96de5a10a36672860445.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/burning-man-une-tour-eiffel-geante-surgit-dans-le-desert-du-nevada_8172263.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/burning-man-une-tour-eiffel-geante-surgit-dans-le-desert-du-nevada_8172263.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

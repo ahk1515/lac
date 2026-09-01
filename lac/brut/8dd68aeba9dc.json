@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T16:06:07.935552+00:00",
+  "_id": "8dd68aeba9dc",
+  "brut": {
+    "title": "En Espagne, plus de 5 000 morts de la chaleur depuis le 1er juin, pire bilan depuis 2015",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, plus de 5 000 morts de la chaleur depuis le 1er juin, pire bilan depuis 2015"
+    },
+    "published": "Tue, 01 Sep 2026 11:19:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      9,
+      19,
+      39,
+      1,
+      244,
+      0
+    ],
+    "summary": "Entre juin et août, la chaleur a provoqué davantage de victimes que lors de tout été depuis le début de ces relevés, en 2015, selon l’Institut de santé Carlos III.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Entre juin et août, la chaleur a provoqué davantage de victimes que lors de tout été depuis le début de ces relevés, en 2015, selon l’Institut de santé Carlos III."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/01/en-espagne-plus-de-5-000-morts-de-la-chaleur-depuis-le-1er-juin-pire-bilan-depuis-2015_6763394_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/01/en-espagne-plus-de-5-000-morts-de-la-chaleur-depuis-le-1er-juin-pire-bilan-depuis-2015_6763394_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/01/en-espagne-plus-de-5-000-morts-de-la-chaleur-depuis-le-1er-juin-pire-bilan-depuis-2015_6763394_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/09/552/0/3280/1640/644/322/60/0/08572c3_ftp-1-e0mmibkynmwj-2026-06-09t141435z-1638190440-rc2dqlag8s47-rtrmadp-3-pope-spain.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un homme souffrant de l’épuisement dû à la chaleur à Barcelone (Espagne), le 9 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nacho Doce/REUTERS"
+      }
+    ],
+    "credit": "Nacho Doce/REUTERS"
+  }
+}

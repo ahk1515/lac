@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T16:06:07.934427+00:00",
+  "_id": "40c72c2f2f81",
+  "brut": {
+    "title": "Dans la ville de Gaza, quatre morts au cours d’une opération israélienne contre un responsable du Hamas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la ville de Gaza, quatre morts au cours d’une opération israélienne contre un responsable du Hamas"
+    },
+    "published": "Tue, 01 Sep 2026 15:15:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      13,
+      15,
+      26,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 17:09:47 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      15,
+      9,
+      47,
+      1,
+      244,
+      0
+    ],
+    "summary": "L’Etat hébreu affirme avoir arrêté un « terroriste de haut rang » appartenant au mouvement islamiste, lors de bombardements d’une intensité rare menés mardi dans la ville de Gaza, ce que le Hamas n’a pas confirmé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Etat hébreu affirme avoir arrêté un « terroriste de haut rang » appartenant au mouvement islamiste, lors de bombardements d’une intensité rare menés mardi dans la ville de Gaza, ce que le Hamas n’a pas confirmé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/dans-la-ville-de-gaza-trois-morts-dans-une-operation-israelienne-visant-un-responsable-du-hamas_6763482_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/dans-la-ville-de-gaza-trois-morts-dans-une-operation-israelienne-visant-un-responsable-du-hamas_6763482_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/dans-la-ville-de-gaza-trois-morts-dans-une-operation-israelienne-visant-un-responsable-du-hamas_6763482_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/1010/0/5500/2750/644/322/60/0/7b6a07c_ftp-1-07y7iunegdwj-2026-09-01t105755z-1095573501-rc2aanaie032-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les corps de deux enfants tués lors d’une attaque israélienne à Gaza, le 1ᵉʳ septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DAWOUD ABU ALKAS/REUTERS"
+      }
+    ],
+    "credit": "DAWOUD ABU ALKAS/REUTERS"
+  }
+}
