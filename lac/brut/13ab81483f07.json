@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T22:23:30.618022+00:00",
+  "_id": "13ab81483f07",
+  "brut": {
+    "title": "L'armée américaine annonce avoir déclenché de nouvelles frappes contre l'Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée américaine annonce avoir déclenché de nouvelles frappes contre l'Iran"
+    },
+    "summary": "\"Les forces américaines ont commencé à frapper des cibles [liées aux] Gardiens de la révolution en Iran\", a déclaré le Centcom.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Les forces américaines ont commencé à frapper des cibles [liées aux] Gardiens de la révolution en Iran\", a déclaré le Centcom."
+    },
+    "published": "Tue, 01 Sep 2026 19:20:40 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      17,
+      20,
+      40,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-annonce-avoir-declenche-des-frappes-contre-l-iran-pour-la-deuxieme-journee-consecutive_8172569.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zReZzGuk-EoslmBKaTH14gdQ7IY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/01/6a97046fc734b765520099.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-annonce-avoir-declenche-des-frappes-contre-l-iran-pour-la-deuxieme-journee-consecutive_8172569.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-annonce-avoir-declenche-des-frappes-contre-l-iran-pour-la-deuxieme-journee-consecutive_8172569.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

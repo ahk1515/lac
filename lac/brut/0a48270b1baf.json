@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T22:23:30.503021+00:00",
+  "_id": "0a48270b1baf",
+  "brut": {
+    "title": "Au Venezuela, l’Assemblée nationale approuve l’accord pétrolier avec les Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Venezuela, l’Assemblée nationale approuve l’accord pétrolier avec les Etats-Unis"
+    },
+    "published": "Tue, 01 Sep 2026 22:35:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      20,
+      35,
+      54,
+      1,
+      244,
+      0
+    ],
+    "summary": "L’accord permet aux Etats-Unis d’exploiter 17 gisements pétroliers vénézuéliens dont le potentiel est évalué à 65 milliards de barils. Le Venezuela évalue à 209 milliards de dollars la création de richesse sur vingt-cinq ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’accord permet aux Etats-Unis d’exploiter 17 gisements pétroliers vénézuéliens dont le potentiel est évalué à 65 milliards de barils. Le Venezuela évalue à 209 milliards de dollars la création de richesse sur vingt-cinq ans."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/au-venezuela-l-assemblee-nationale-approuve-l-accord-petrolier-avec-les-etats-unis_6763530_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/au-venezuela-l-assemblee-nationale-approuve-l-accord-petrolier-avec-les-etats-unis_6763530_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/au-venezuela-l-assemblee-nationale-approuve-l-accord-petrolier-avec-les-etats-unis_6763530_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/542/0/6500/3250/644/322/60/0/dff3bd0_ftp-1-b67bwh115vfh-2026-08-31t100048z-1750635765-rc2m9na49l9h-rtrmadp-3-usa-venezuela-oil.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Puits de pétrole sur le lac Maracaibo, à Cabimas, au Venezuela, le 27 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Leonardo Fernandez Viloria / REUTERS"
+      }
+    ],
+    "credit": "Leonardo Fernandez Viloria / REUTERS"
+  }
+}

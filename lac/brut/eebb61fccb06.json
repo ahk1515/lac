@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T22:23:30.617916+00:00",
+  "_id": "eebb61fccb06",
+  "brut": {
+    "title": "La France consomme-t-elle beaucoup de viandes importées du brésil ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La France consomme-t-elle beaucoup de viandes importées du brésil ?"
+    },
+    "summary": "L'Union européenne va suspendre à partir de ce jeudi plusieurs importations animales en provenance du Brésil, faute de garantie suffisante sur le respect des règles sanitaires. Quels sont les changements à prévoir dans l'assiette des Français ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Union européenne va suspendre à partir de ce jeudi plusieurs importations animales en provenance du Brésil, faute de garantie suffisante sur le respect des règles sanitaires. Quels sont les changements à prévoir dans l'assiette des Français ?"
+    },
+    "published": "Tue, 01 Sep 2026 19:38:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      17,
+      38,
+      49,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/alimentation/la-france-consomme-t-elle-beaucoup-de-viandes-importees-du-bresil_8172464.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GzhgS31b1aujJk2weIlSq40IT48/0x340:4250x2728/432x243/filters:format(jpg)/2022/01/24/php5RkhKL.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/alimentation/la-france-consomme-t-elle-beaucoup-de-viandes-importees-du-bresil_8172464.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/alimentation/la-france-consomme-t-elle-beaucoup-de-viandes-importees-du-bresil_8172464.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

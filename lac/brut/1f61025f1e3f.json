@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T22:23:30.503821+00:00",
+  "_id": "1f61025f1e3f",
+  "brut": {
+    "title": "En Guinée-Bissau, le passage à un régime présidentiel fort approuvé par référendum",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Guinée-Bissau, le passage à un régime présidentiel fort approuvé par référendum"
+    },
+    "published": "Tue, 01 Sep 2026 20:03:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      18,
+      3,
+      42,
+      1,
+      244,
+      0
+    ],
+    "summary": "Le scrutin, qui s’est déroulé dimanche dans un climat politique tendu, précède de quelques mois les élections générales prévues le 6 décembre pour un retour des civils au pouvoir. L’opposition avait appelé à le boycotter.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le scrutin, qui s’est déroulé dimanche dans un climat politique tendu, précède de quelques mois les élections générales prévues le 6 décembre pour un retour des civils au pouvoir. L’opposition avait appelé à le boycotter."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/01/en-guinee-bissau-le-passage-a-un-regime-presidentiel-fort-approuve-par-referendum_6763522_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/01/en-guinee-bissau-le-passage-a-un-regime-presidentiel-fort-approuve-par-referendum_6763522_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/01/en-guinee-bissau-le-passage-a-un-regime-presidentiel-fort-approuve-par-referendum_6763522_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/386/0/2655/1327/644/322/60/0/8db3bab_ftp-1-1mtfhqm3jevj-2026-09-01t165824z-1196543569-rc2danarcr41-rtrmadp-3-bissau-politics-referendum.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Carmen Isaura Lobo, présidente de la commission électorale bissau-guinéenne, annonce le résultat du référendum constitutionnel, le 1er septembre 2026, à Bissau."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

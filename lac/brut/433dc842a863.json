@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T22:23:30.504135+00:00",
+  "_id": "433dc842a863",
+  "brut": {
+    "title": "Attaque au drone à l’aéroport de Leipzig : l’Allemagne accuse la Russie d’une « attaque hybride »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attaque au drone à l’aéroport de Leipzig : l’Allemagne accuse la Russie d’une « attaque hybride »"
+    },
+    "published": "Tue, 01 Sep 2026 19:31:27 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      17,
+      31,
+      27,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 19:40:37 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      17,
+      40,
+      37,
+      1,
+      244,
+      0
+    ],
+    "summary": "Une enquête des services de renseignement allemands révèle que des individus impliqués dans l’attaque ont agi pour le compte d’agences gouvernementales russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une enquête des services de renseignement allemands révèle que des individus impliqués dans l’attaque ont agi pour le compte d’agences gouvernementales russes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/attaque-au-drone-a-l-aeroport-de-leipzig-l-allemagne-accuse-la-russie-d-une-attaque-hybride_6763518_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/attaque-au-drone-a-l-aeroport-de-leipzig-l-allemagne-accuse-la-russie-d-une-attaque-hybride_6763518_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/attaque-au-drone-a-l-aeroport-de-leipzig-l-allemagne-accuse-la-russie-d-une-attaque-hybride_6763518_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/646/0/7755/3877/644/322/60/0/60457ac_ftp-1-mn0ain1o4zpt-5970449-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ministre de l’intérieur allemand Alexander Dobrindt, à droite, et le ministre des affaires étrangères allemand, Johann Wadephul lors de leur déclaration conjointe au ministère de l’intérieur à Berlin, le 1er septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TOBIAS SCHWARZ / AFP"
+      }
+    ],
+    "credit": "TOBIAS SCHWARZ / AFP"
+  }
+}

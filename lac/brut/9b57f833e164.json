@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T22:23:30.504480+00:00",
+  "_id": "9b57f833e164",
+  "brut": {
+    "title": "Ada Yonath, biologiste moléculaire et prix Nobel de chimie, est morte",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ada Yonath, biologiste moléculaire et prix Nobel de chimie, est morte"
+    },
+    "published": "Tue, 01 Sep 2026 18:42:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      16,
+      42,
+      14,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 20:38:00 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      18,
+      38,
+      0,
+      1,
+      244,
+      0
+    ],
+    "summary": "Lauréate du prix Nobel de chimie en 2009 pour la découverte de la structure des ribosomes, capables de fabriquer nos protéines à partir de l’ARN, la scientifique israélienne est morte le 31 août, à l’âge de 87 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Lauréate du prix Nobel de chimie en 2009 pour la découverte de la structure des ribosomes, capables de fabriquer nos protéines à partir de l’ARN, la scientifique israélienne est morte le 31 août, à l’âge de 87 ans."
+    },
+    "id": "https://www.lemonde.fr/disparitions/article/2026/09/01/ada-yonath-biologiste-moleculaire-est-morte_6763510_3382.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/disparitions/article/2026/09/01/ada-yonath-biologiste-moleculaire-est-morte_6763510_3382.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/disparitions/article/2026/09/01/ada-yonath-biologiste-moleculaire-est-morte_6763510_3382.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/204/0/2627/1313/644/322/60/0/20895db_upload-1-0zeurd2ds80c-2009-10-07t120000z-1306984952-gm1e5a805lk01-rtrmadp-3-nobel-chemistry.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La scientifique israélienne Ada Yonath, professeure à l’Institut Weizmann des sciences, lors d’une conférence de presse à Rehovot, près de Tel-Aviv, le 7 octobre 2009."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Baz Ratner/REUTERS"
+      }
+    ],
+    "credit": "Baz Ratner/REUTERS"
+  }
+}
