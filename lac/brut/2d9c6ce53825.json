@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T09:10:58.064310+00:00",
+  "_id": "2d9c6ce53825",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des frappes meurtrières sur Kiev et sa région ; l’Ukraine vise un port russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des frappes meurtrières sur Kiev et sa région ; l’Ukraine vise un port russe"
+    },
+    "published": "Tue, 01 Sep 2026 06:44:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      4,
+      44,
+      31,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 09:20:57 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      7,
+      20,
+      57,
+      1,
+      244,
+      0
+    ],
+    "summary": "Au moins 11 personnes sont mortes lors d’attaques sur la capitale et l’oblast du même nom, dont sept dans une frappe de missiles contre un dépôt ferroviaire de la ville. Par ailleurs, un incendie s’est déclaré dans l’important port russe d’Oust-Louga, visé par une attaque de drones ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins 11 personnes sont mortes lors d’attaques sur la capitale et l’oblast du même nom, dont sept dans une frappe de missiles contre un dépôt ferroviaire de la ville. Par ailleurs, un incendie s’est déclaré dans l’important port russe d’Oust-Louga, visé par une attaque de drones ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/01/en-direct-guerre-en-ukraine-des-frappes-meurtrieres-sur-kiev-et-sa-region-l-ukraine-vise-un-port-russe_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/01/en-direct-guerre-en-ukraine-des-frappes-meurtrieres-sur-kiev-et-sa-region-l-ukraine-vise-un-port-russe_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/01/en-direct-guerre-en-ukraine-des-frappes-meurtrieres-sur-kiev-et-sa-region-l-ukraine-vise-un-port-russe_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/670/0/4000/2000/644/322/60/0/7aa4334_upload-1-6z5pqijozqon-bombardement-boryspil-4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur les lieux d’une frappe russe survenue au milieu de la nuit, à Boryspil, dans l’oblast de Kiev, le 1ᵉʳ  septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Adrien Vautier/Le Pictorium pour « LE MONDE »"
+      }
+    ],
+    "credit": "Adrien Vautier/Le Pictorium pour « LE MONDE »"
+  }
+}

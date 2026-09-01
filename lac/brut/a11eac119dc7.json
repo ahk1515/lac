@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T09:10:58.903839+00:00",
+  "_id": "a11eac119dc7",
+  "brut": {
+    "title": "Guerre en Ukraine : une attaque russe \"massive\" fait 12 morts à Kiev et dans sa région",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : une attaque russe \"massive\" fait 12 morts à Kiev et dans sa région"
+    },
+    "summary": "L'armée russe a mené \"une attaque massive de missiles et drones de combat\" et ciblé \"délibérément des installations civiles et des bâtiments résidentiels\", a déclaré un dirigeant de l'administration militaire de la région de Kiev qui entoure la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée russe a mené \"une attaque massive de missiles et drones de combat\" et ciblé \"délibérément des installations civiles et des bâtiments résidentiels\", a déclaré un dirigeant de l'administration militaire de la région de Kiev qui entoure la capitale."
+    },
+    "published": "Tue, 01 Sep 2026 09:48:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      7,
+      48,
+      35,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-russe-massive-fait-neuf-morts-a-kiev-et-dans-sa-region_8171675.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9HGjh4cree6BliX04L7m98HJ9So/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/01/6a966e1154ff5088789429.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-russe-massive-fait-neuf-morts-a-kiev-et-dans-sa-region_8171675.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-russe-massive-fait-neuf-morts-a-kiev-et-dans-sa-region_8171675.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

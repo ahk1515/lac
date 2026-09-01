@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T09:10:58.904302+00:00",
+  "_id": "75a4dedacdd3",
+  "brut": {
+    "title": "Un milliardaire veut créer sa propre ville privée dans les Caraïbes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un milliardaire veut créer sa propre ville privée dans les Caraïbes"
+    },
+    "summary": "Sur la petite île caribéenne de Nevis, l’investisseur belge Olivier Janssens veut construire Destiny, une enclave futuriste presque autonome, avec sa propre monnaie et ses propres tribunaux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sur la petite île caribéenne de Nevis, l’investisseur belge Olivier Janssens veut construire Destiny, une enclave futuriste presque autonome, avec sa propre monnaie et ses propres tribunaux."
+    },
+    "published": "Tue, 01 Sep 2026 07:41:22 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      5,
+      41,
+      22,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/un-milliardaire-veut-creer-sa-propre-ville-privee-dans-les-caraibes_8168441.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/grmXC5jxByBSaSB-AwjmiHBFYUM/0x270:5150x3166/432x243/filters:format(jpg)/2026/09/01/6a9662e16e7cf804783389.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/un-milliardaire-veut-creer-sa-propre-ville-privee-dans-les-caraibes_8168441.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/un-milliardaire-veut-creer-sa-propre-ville-privee-dans-les-caraibes_8168441.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

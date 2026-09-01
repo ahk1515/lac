@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T09:10:58.903684+00:00",
+  "_id": "b4cd51b7cb8a",
+  "brut": {
+    "title": "En Chine, les capacités d'énergie solaire dépassent désormais celles du charbon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Chine, les capacités d'énergie solaire dépassent désormais celles du charbon"
+    },
+    "summary": "Le pays, premier émetteur mondial de gaz à effet de serre responsables du changement climatique, s'est engagé à atteindre le pic de ses émissions d'ici à 2030 et la neutralité carbone d'ici à 2060.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pays, premier émetteur mondial de gaz à effet de serre responsables du changement climatique, s'est engagé à atteindre le pic de ses émissions d'ici à 2030 et la neutralité carbone d'ici à 2060."
+    },
+    "published": "Tue, 01 Sep 2026 08:37:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      6,
+      37,
+      12,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/energie/en-chine-les-capacites-d-energie-solaire-depassent-desormais-celles-du-charbon_8171678.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/M1WL7-INlvzY_jDoCMAsFaqmpLk/0x320:6144x3776/432x243/filters:format(jpg)/2026/09/01/6a967224cc5ae368811131.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/energie/en-chine-les-capacites-d-energie-solaire-depassent-desormais-celles-du-charbon_8171678.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/energie/en-chine-les-capacites-d-energie-solaire-depassent-desormais-celles-du-charbon_8171678.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

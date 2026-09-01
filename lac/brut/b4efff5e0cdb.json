@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T09:10:58.064709+00:00",
+  "_id": "b4efff5e0cdb",
+  "brut": {
+    "title": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique"
+    },
+    "published": "Tue, 01 Sep 2026 06:00:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      4,
+      0,
+      10,
+      1,
+      244,
+      0
+    ],
+    "summary": "Un porte-conteneurs chinois a inauguré la première ligne maritime régulière Asie-Europe passant par le cercle polaire. Cette nouvelle route permet de réduire les temps de parcours mais n’est pas sans risques, environnementaux comme géopolitiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un porte-conteneurs chinois a inauguré la première ligne maritime régulière Asie-Europe passant par le cercle polaire. Cette nouvelle route permet de réduire les temps de parcours mais n’est pas sans risques, environnementaux comme géopolitiques."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/281/0/5074/2537/644/322/60/0/ba544f2_upload-1-2ymv3zfz6u6c-000-c4rf49k.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une photo, mise à disposition par le groupe portuaire Ningbo-Zhoushan, montre le porte-conteneurs « Dubai Tower » quittant le port de Ningbo-Zhoushan (Chine), à destination de celui de Felixstowe (Royaume-Uni), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ningbo Zhoushan Port Group/AFP"
+      }
+    ],
+    "credit": "Ningbo Zhoushan Port Group/AFP"
+  }
+}

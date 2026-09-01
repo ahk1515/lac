@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T09:10:58.904620+00:00",
+  "_id": "9bd3ea964e66",
+  "brut": {
+    "title": "Une campagne de pro-excision fait polémique au Mali",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une campagne de pro-excision fait polémique au Mali"
+    },
+    "summary": "Au Mali, une campagne en faveur de l’excision avec des affiches générées par IA circule sur les réseaux sociaux. Cette campagne a suscité l’indignation au sein de la diaspora malienne et a ravivé le débat sur l’interdiction de cette pratique, encore très répandue dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Mali, une campagne en faveur de l’excision avec des affiches générées par IA circule sur les réseaux sociaux. Cette campagne a suscité l’indignation au sein de la diaspora malienne et a ravivé le débat sur l’interdiction de cette pratique, encore très répandue dans le pays."
+    },
+    "published": "Tue, 01 Sep 2026 06:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      4,
+      0,
+      3,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/une-campagne-de-pro-excision-fait-polemique-au-mali_8170658.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GdN-Bqgz6sWXb4vBMvxx8nXN4Rk/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95631fb1ec5499984884.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/une-campagne-de-pro-excision-fait-polemique-au-mali_8170658.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/une-campagne-de-pro-excision-fait-polemique-au-mali_8170658.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

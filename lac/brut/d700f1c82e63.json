@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T09:10:58.903182+00:00",
+  "_id": "d700f1c82e63",
+  "brut": {
+    "title": "À Los Angeles, d'anciens membres de gangs jouent les médiateurs auprès des sans-abri",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Los Angeles, d'anciens membres de gangs jouent les médiateurs auprès des sans-abri"
+    },
+    "summary": "Une société privée intervient auprès des personnes sans-abri pour les convaincre de quitter les campements installés dans les rues de Venice Beach. Une initiative saluée par les riverains, mais qui soulève tout de même des questions sur le rôle de cette entreprise et les méthodes employées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une société privée intervient auprès des personnes sans-abri pour les convaincre de quitter les campements installés dans les rues de Venice Beach. Une initiative saluée par les riverains, mais qui soulève tout de même des questions sur le rôle de cette entreprise et les méthodes employées."
+    },
+    "published": "Tue, 01 Sep 2026 09:33:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      7,
+      33,
+      49,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6MpYujiJ32wWjEYNWeYPkPA4Ae4/0x21:1024x597/432x243/filters:format(jpg)/2026/09/01/6a966e4d23cf3360915486.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

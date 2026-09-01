@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T09:10:58.064501+00:00",
+  "_id": "64877733d35e",
+  "brut": {
+    "title": "En Colombie, des bombardements ordonnés par le gouvernement tuent 20 guérilleros",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, des bombardements ordonnés par le gouvernement tuent 20 guérilleros"
+    },
+    "published": "Tue, 01 Sep 2026 06:39:24 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      4,
+      39,
+      24,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 07:37:36 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      5,
+      37,
+      36,
+      1,
+      244,
+      0
+    ],
+    "summary": "Il s’agit des frappes les plus meurtrières depuis l’arrivée au pouvoir le 7 août d’Abelardo de la Espriella, qui a promis une lutte sans merci contre les groupes criminels.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il s’agit des frappes les plus meurtrières depuis l’arrivée au pouvoir le 7 août d’Abelardo de la Espriella, qui a promis une lutte sans merci contre les groupes criminels."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/en-colombie-des-bombardements-ordonnes-par-le-gouvernement-tuent-20-guerilleros_6763109_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/en-colombie-des-bombardements-ordonnes-par-le-gouvernement-tuent-20-guerilleros_6763109_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/en-colombie-des-bombardements-ordonnes-par-le-gouvernement-tuent-20-guerilleros_6763109_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/40/0/4883/2441/644/322/60/0/ede5b58_ftp-1-ajsdx5gsd8ld-5927459-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président colombien, Abelardo de la Espriella, à Bogota, le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RAUL ARBOLEDA/AFP"
+      }
+    ],
+    "credit": "RAUL ARBOLEDA/AFP"
+  }
+}

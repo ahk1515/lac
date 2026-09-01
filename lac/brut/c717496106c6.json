@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-01T09:10:58.904452+00:00",
+  "_id": "c717496106c6",
+  "brut": {
+    "title": "Plusieurs passants poignardés à New York, dont un mortellement, l'assaillante tuée par la police",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plusieurs passants poignardés à New York, dont un mortellement, l'assaillante tuée par la police"
+    },
+    "summary": "L'assaillante était connue de la police pour des incidents liés à ses problèmes mentaux. \"Nous n'avons aucune raison de croire qu'il s'agit d'un acte de terrorisme\", a poursuivi la cheffe de la police de New York.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'assaillante était connue de la police pour des incidents liés à ses problèmes mentaux. \"Nous n'avons aucune raison de croire qu'il s'agit d'un acte de terrorisme\", a poursuivi la cheffe de la police de New York."
+    },
+    "published": "Tue, 01 Sep 2026 07:11:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      5,
+      11,
+      7,
+      1,
+      244,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/une-femme-tuee-par-la-police-a-new-york-apres-avoir-poignarde-des-passants-faisant-un-mort_8171531.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/BhAu9eyrEudHYjNjFg4Bg6uk9zQ/0x204:3368x2099/432x243/filters:format(jpg)/2026/09/01/6a965d4b8788b645119471.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/une-femme-tuee-par-la-police-a-new-york-apres-avoir-poignarde-des-passants-faisant-un-mort_8171531.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/une-femme-tuee-par-la-police-a-new-york-apres-avoir-poignarde-des-passants-faisant-un-mort_8171531.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
