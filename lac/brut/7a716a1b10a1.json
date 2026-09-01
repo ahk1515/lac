@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T03:42:13.296153+00:00",
+  "_id": "7a716a1b10a1",
+  "brut": {
+    "title": "La Suède, dans la crainte d’une guerre, planifie les funérailles d’une partie de sa population",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Suède, dans la crainte d’une guerre, planifie les funérailles d’une partie de sa population"
+    },
+    "published": "Tue, 01 Sep 2026 05:00:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      3,
+      0,
+      14,
+      1,
+      244,
+      0
+    ],
+    "summary": "Dans le cadre de la reconstruction de la défense du royaume scandinave, l’armée et de nombreuses organisations civiles se préparent, à travers des entraînements grandeur nature, à prendre en charge les corps de 5 % des victimes d’un potentiel conflit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le cadre de la reconstruction de la défense du royaume scandinave, l’armée et de nombreuses organisations civiles se préparent, à travers des entraînements grandeur nature, à prendre en charge les corps de 5 % des victimes d’un potentiel conflit."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/la-suede-dans-la-crainte-d-une-guerre-planifie-les-funerailles-d-une-partie-de-sa-population_6763088_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/la-suede-dans-la-crainte-d-une-guerre-planifie-les-funerailles-d-une-partie-de-sa-population_6763088_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/la-suede-dans-la-crainte-d-une-guerre-planifie-les-funerailles-d-une-partie-de-sa-population_6763088_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/338/0/7484/3742/644/322/60/0/873be65_upload-1-90mkq92fobih-1282375.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un prêtre prononce quelques mots devant la fosse commune où des sacs mortuaires factices sont alignés lors de l’exercice militaire « Aurora 26 » à Väddö (Suède), le 7 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Magnus Aronson/Ikon"
+      }
+    ],
+    "credit": "Magnus Aronson/Ikon"
+  }
+}

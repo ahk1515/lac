@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T03:42:13.296626+00:00",
+  "_id": "3c4eb6f9493c",
+  "brut": {
+    "title": "New York : une femme tuée à Times Square lors d’une attaque au couteau, l’assaillante abattue par la police",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "New York : une femme tuée à Times Square lors d’une attaque au couteau, l’assaillante abattue par la police"
+    },
+    "published": "Tue, 01 Sep 2026 03:48:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      1,
+      48,
+      45,
+      1,
+      244,
+      0
+    ],
+    "updated": "Tue, 01 Sep 2026 05:12:39 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      1,
+      3,
+      12,
+      39,
+      1,
+      244,
+      0
+    ],
+    "summary": "Selon les autorités qui excluent la piste terroriste, l’assaillante, qui a aussi blessé un homme, était connue pour des troubles psychiatriques. La police lui a tiré dessus alors qu’elle refusait de lâcher ses armes et s’approchait des agents.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les autorités qui excluent la piste terroriste, l’assaillante, qui a aussi blessé un homme, était connue pour des troubles psychiatriques. La police lui a tiré dessus alors qu’elle refusait de lâcher ses armes et s’approchait des agents."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/01/new-york-une-femme-tuee-a-times-square-lors-d-une-attaque-au-couteau-l-assaillante-abattue-par-la-police_6763054_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/01/new-york-une-femme-tuee-a-times-square-lors-d-une-attaque-au-couteau-l-assaillante-abattue-par-la-police_6763054_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/01/new-york-une-femme-tuee-a-times-square-lors-d-une-attaque-au-couteau-l-assaillante-abattue-par-la-police_6763054_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/1376/0/8256/4128/644/322/60/0/77efb62_ftp-1-xoymksyrqkrm-5965082-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur la scène d’une attaque au couteau à Times Square, à New York, le 31 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANGELA WEISS/AFP"
+      }
+    ],
+    "credit": "ANGELA WEISS/AFP"
+  }
+}

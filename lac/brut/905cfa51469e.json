@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-01T03:42:13.296364+00:00",
+  "_id": "905cfa51469e",
+  "brut": {
+    "title": "Dans le canal de Panama, El Niño impose une baisse du trafic maritime et l’envolée des prix de passage",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le canal de Panama, El Niño impose une baisse du trafic maritime et l’envolée des prix de passage"
+    },
+    "published": "Tue, 01 Sep 2026 05:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      1,
+      3,
+      0,
+      13,
+      1,
+      244,
+      0
+    ],
+    "summary": "Le phénomène climatique fait chuter les apports en eau dans le passage par lequel trasite habituellement 5 % du commerce mondial.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le phénomène climatique fait chuter les apports en eau dans le passage par lequel trasite habituellement 5 % du commerce mondial."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/449/0/6995/3497/644/322/60/0/a41f3cb_upload-1-m17zbiuna2rx-gettyimages-2280490961.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le navire transporteur de gaz de pétrole liquéfié « Gas Virgo » est remorqué vers les écluses d’Agua Clara du canal de Panama, près de Colon (Panama), le 11 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Walter Hurtado/Bloomberg via Getty Images"
+      }
+    ],
+    "credit": "Walter Hurtado/Bloomberg via Getty Images"
+  }
+}
