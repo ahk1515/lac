@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T19:21:04.724506+00:00",
+  "_id": "4cfc96611f5d",
+  "brut": {
+    "title": "Tunisie : la pénurie d'eau s'accentue avec les fortes chaleurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tunisie : la pénurie d'eau s'accentue avec les fortes chaleurs"
+    },
+    "summary": "En Tunisie, une pénurie d'eau frappe plusieurs régions alors que le pays fait face à des températures pouvant atteindre 49 degrés. Entre coupures d'électricité, production d'eau minérale ralentie et stocks réalisés par certains habitants, la situation reste tendue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Tunisie, une pénurie d'eau frappe plusieurs régions alors que le pays fait face à des températures pouvant atteindre 49 degrés. Entre coupures d'électricité, production d'eau minérale ralentie et stocks réalisés par certains habitants, la situation reste tendue."
+    },
+    "published": "Wed, 02 Sep 2026 21:15:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      19,
+      15,
+      21,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/tunisie/tunisie-la-penurie-d-eau-s-accentue-avec-les-fortes-chaleurs_8174360.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5XFAbUc_Aprn5gJgQkrZIzFFq0w/0x33:846x509/432x243/filters:format(jpg)/2026/09/02/6a98754ba1389346550022.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/tunisie/tunisie-la-penurie-d-eau-s-accentue-avec-les-fortes-chaleurs_8174360.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/tunisie/tunisie-la-penurie-d-eau-s-accentue-avec-les-fortes-chaleurs_8174360.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

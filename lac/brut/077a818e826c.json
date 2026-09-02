@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T19:21:04.725274+00:00",
+  "_id": "077a818e826c",
+  "brut": {
+    "title": "Donald Trump suggère de rebaptiser le détroit d'Ormuz \"détroit Trump\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump suggère de rebaptiser le détroit d'Ormuz \"détroit Trump\""
+    },
+    "summary": "Le président américain avait déjà publié en août une carte montrant le détroit d'Ormuz et le décrivant comme un \"nouveau territoire américain\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président américain avait déjà publié en août une carte montrant le détroit d'Ormuz et le décrivant comme un \"nouveau territoire américain\"."
+    },
+    "published": "Wed, 02 Sep 2026 18:37:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      16,
+      37,
+      50,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-suggere-de-rebaptiser-le-detroit-d-ormuz-detroit-trump_8174189.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Ewdm0xIub17RpAe-fgjt0yyJqyo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/02/6a984eb4e6acb415983927.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-suggere-de-rebaptiser-le-detroit-d-ormuz-detroit-trump_8174189.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-suggere-de-rebaptiser-le-detroit-d-ormuz-detroit-trump_8174189.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

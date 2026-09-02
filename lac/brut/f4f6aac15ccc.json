@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T19:21:04.725439+00:00",
+  "_id": "f4f6aac15ccc",
+  "brut": {
+    "title": "Un Japonais arrêté pour avoir tué une trentaine de hamsters",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un Japonais arrêté pour avoir tué une trentaine de hamsters"
+    },
+    "summary": "Un Japonais a été arrêté pour avoir tué une trentaine de hamsters dans des \"love hotels\". Des vidéos des mises à mort ont été retrouvées sur son téléphone.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un Japonais a été arrêté pour avoir tué une trentaine de hamsters dans des \"love hotels\". Des vidéos des mises à mort ont été retrouvées sur son téléphone."
+    },
+    "published": "Wed, 02 Sep 2026 18:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      16,
+      0,
+      2,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/un-japonais-arrete-pour-avoir-tue-une-trentaine-de-hamsters_8173997.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qx8z8QF34Be0pMBIfB7wYJAunaI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a98334df1a82982307771.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/un-japonais-arrete-pour-avoir-tue-une-trentaine-de-hamsters_8173997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/un-japonais-arrete-pour-avoir-tue-une-trentaine-de-hamsters_8173997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

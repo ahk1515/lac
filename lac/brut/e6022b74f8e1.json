@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T19:21:04.724689+00:00",
+  "_id": "e6022b74f8e1",
+  "brut": {
+    "title": "Drone explosif : l'Europe accuse la Russie de terrorisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Drone explosif : l'Europe accuse la Russie de terrorisme"
+    },
+    "summary": "L'Union européenne évoque un acte de terrorisme après l'attaque au drone explosif à l'aéroport de Leipzig. L'Allemagne accuse directement la Russie. Le ton monte entre l'Europe et Moscou.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Union européenne évoque un acte de terrorisme après l'attaque au drone explosif à l'aéroport de Leipzig. L'Allemagne accuse directement la Russie. Le ton monte entre l'Europe et Moscou."
+    },
+    "published": "Wed, 02 Sep 2026 20:59:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      18,
+      59,
+      41,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/drone-explosif-l-europe-accuse-la-russie-de-terrorisme_8174363.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jMjngyTOe9i1rYFWhPWvDrtAiwk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a9871f356b5b576499720.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/drone-explosif-l-europe-accuse-la-russie-de-terrorisme_8174363.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/drone-explosif-l-europe-accuse-la-russie-de-terrorisme_8174363.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

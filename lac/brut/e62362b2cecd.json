@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T19:21:04.725019+00:00",
+  "_id": "e62362b2cecd",
+  "brut": {
+    "title": "Emmanuel Macron inaugure l'exposition de la tapisserie de Bayeux à Londres et qualifie ce prêt de \"geste d’amitié\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron inaugure l'exposition de la tapisserie de Bayeux à Londres et qualifie ce prêt de \"geste d’amitié\""
+    },
+    "summary": "Le chef de l'Etat avait personnellement décidé de prêter la tapisserie pour un an lors de sa visite d'Etat au Royaume-Uni en juillet 2025, afin de \"revivifier la relation culturelle\" et marquer \"la confiance\" actuelle entre Paris et Londres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le chef de l'Etat avait personnellement décidé de prêter la tapisserie pour un an lors de sa visite d'Etat au Royaume-Uni en juillet 2025, afin de \"revivifier la relation culturelle\" et marquer \"la confiance\" actuelle entre Paris et Londres."
+    },
+    "published": "Wed, 02 Sep 2026 20:22:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      18,
+      22,
+      12,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/emmanuel-macron-inaugure-l-exposition-de-la-tapisserie-de-bayeux-installee-a-londres-pour-un-an_8174294.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VNx0nnUZh23XSTuU6lXhUr375GM/0x53:1024x629/432x243/filters:format(jpg)/2026/09/02/6a98652660b8e587049230.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/emmanuel-macron-inaugure-l-exposition-de-la-tapisserie-de-bayeux-installee-a-londres-pour-un-an_8174294.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/emmanuel-macron-inaugure-l-exposition-de-la-tapisserie-de-bayeux-installee-a-londres-pour-un-an_8174294.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

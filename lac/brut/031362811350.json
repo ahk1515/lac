@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T19:21:04.314618+00:00",
+  "_id": "031362811350",
+  "brut": {
+    "title": "Donald Trump propose de donner son nom au détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump propose de donner son nom au détroit d’Ormuz"
+    },
+    "published": "Wed, 02 Sep 2026 19:04:23 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      17,
+      4,
+      23,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 20:17:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      18,
+      17,
+      3,
+      2,
+      245,
+      0
+    ],
+    "summary": "A la mi-août, le président des Etats-Unis a publié une carte du détroit le présentant comme un « nouveau territoire américain », reprenant une idée qu’il avait exprimée quelques jours auparavant sur un ton qui laissait penser à une plaisanterie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la mi-août, le président des Etats-Unis a publié une carte du détroit le présentant comme un « nouveau territoire américain », reprenant une idée qu’il avait exprimée quelques jours auparavant sur un ton qui laissait penser à une plaisanterie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/donald-trump-propose-de-donner-son-nom-au-detroit-d-ormuz_6764487_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/donald-trump-propose-de-donner-son-nom-au-detroit-d-ormuz_6764487_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/donald-trump-propose-de-donner-son-nom-au-detroit-d-ormuz_6764487_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/06/22/250/0/3000/1500/644/322/60/0/ea0eec1_ftp-import-images-1-jdmfjomuikjb-2025-06-22t205700z-1847669318-rc2w7farkdmt-rtrmadp-3-iran-nucelar-hormuz.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un buste du président des Etats-Unis, Donald Trump, devant une carte du détroit d’Ormuz. Illustration réalisée le 22 juin 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dado Ruvic / REUTERS"
+      }
+    ],
+    "credit": "Dado Ruvic / REUTERS"
+  }
+}

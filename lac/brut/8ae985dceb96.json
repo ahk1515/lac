@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T19:21:04.314146+00:00",
+  "_id": "8ae985dceb96",
+  "brut": {
+    "title": "En Afrique du Sud, le survol d’un stade par des avions de ligne avant un match de rugby annulé à la suite d’une polémique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Afrique du Sud, le survol d’un stade par des avions de ligne avant un match de rugby annulé à la suite d’une polémique"
+    },
+    "published": "Wed, 02 Sep 2026 20:01:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      18,
+      1,
+      41,
+      2,
+      245,
+      0
+    ],
+    "summary": "Quelques minutes avant une rencontre opposant la Nouvelle-Zélande et l’Afrique du Sud, deux Embraer d’Airlink ont survolé le stade du Cap. La manœuvre spectaculaire a suscité des critiques : d’après Flightradar, l’aéronef est passé à moins de 14 mètres du toit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quelques minutes avant une rencontre opposant la Nouvelle-Zélande et l’Afrique du Sud, deux Embraer d’Airlink ont survolé le stade du Cap. La manœuvre spectaculaire a suscité des critiques : d’après Flightradar, l’aéronef est passé à moins de 14 mètres du toit."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/02/en-afrique-du-sud-le-survol-d-un-stade-par-des-avions-de-ligne-avant-un-match-de-rugby-annule-a-la-suite-d-une-polemique_6764529_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/02/en-afrique-du-sud-le-survol-d-un-stade-par-des-avions-de-ligne-avant-un-match-de-rugby-annule-a-la-suite-d-une-polemique_6764529_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/02/en-afrique-du-sud-le-survol-d-un-stade-par-des-avions-de-ligne-avant-un-match-de-rugby-annule-a-la-suite-d-une-polemique_6764529_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/22/638/0/7655/3827/644/322/60/0/918505c_ftp-1-bvzxgjkmdgqk-6f53f64f480c432f818cb4f0521a6f62-0-73faaf254e0b472ba099aa52fa579d64.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Themba Hadebe / AP Photo/Themba Hadebe"
+      }
+    ],
+    "credit": "Themba Hadebe / AP Photo/Themba Hadebe"
+  }
+}
