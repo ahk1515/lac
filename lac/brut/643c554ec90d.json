@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T22:22:59.704568+00:00",
+  "_id": "643c554ec90d",
+  "brut": {
+    "title": "A Malte, le magnat Yorgen Fenech, accusé d’avoir orchestré le meurtre de la journaliste Daphne Caruana Galizia, acquitté par un tribunal",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Malte, le magnat Yorgen Fenech, accusé d’avoir orchestré le meurtre de la journaliste Daphne Caruana Galizia, acquitté par un tribunal"
+    },
+    "published": "Wed, 02 Sep 2026 21:33:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      19,
+      33,
+      14,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 22:51:19 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      20,
+      51,
+      19,
+      2,
+      245,
+      0
+    ],
+    "summary": "L’homme d’affaires était accusé d’avoir commandité l’attentat à la voiture piégée qui a coûté la vie à la journaliste âgée de 53 ans, un événement qui avait bouleversé cette nation insulaire et suscité une vague de condamnations à l’échelle mondiale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’homme d’affaires était accusé d’avoir commandité l’attentat à la voiture piégée qui a coûté la vie à la journaliste âgée de 53 ans, un événement qui avait bouleversé cette nation insulaire et suscité une vague de condamnations à l’échelle mondiale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/a-malte-le-magnat-yorgen-fenech-accuse-d-avoir-orchestre-le-meurtre-de-la-journaliste-daphne-caruana-galizia-acquitte-par-un-tribunal_6764536_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/a-malte-le-magnat-yorgen-fenech-accuse-d-avoir-orchestre-le-meurtre-de-la-journaliste-daphne-caruana-galizia-acquitte-par-un-tribunal_6764536_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/a-malte-le-magnat-yorgen-fenech-accuse-d-avoir-orchestre-le-meurtre-de-la-journaliste-daphne-caruana-galizia-acquitte-par-un-tribunal_6764536_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/18/0/2000/1000/644/322/60/0/0b10a39_ftp-1-8lhu0r7e26d3-989c078519e8412b8f8983a086764b54-0-4d416068040c40319f440184e1bd4c76.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Yorgen Fenech au tribunal de La Valette, le 29 novembre 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AP"
+      }
+    ],
+    "credit": "AP"
+  }
+}

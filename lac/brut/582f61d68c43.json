@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T22:23:00.339130+00:00",
+  "_id": "582f61d68c43",
+  "brut": {
+    "title": "Trois cyclones simultanés sont en cours dans le Pacifique, un phénomène rare favorisé par El Niño",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Trois cyclones simultanés sont en cours dans le Pacifique, un phénomène rare favorisé par El Niño"
+    },
+    "summary": "Une succession similaire de quatre cyclones s'était produite en 2015, autre année marquée par un El Niño intense.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une succession similaire de quatre cyclones s'était produite en 2015, autre année marquée par un El Niño intense."
+    },
+    "published": "Thu, 03 Sep 2026 00:00:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      22,
+      0,
+      34,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/trois-cyclones-simultanes-sont-en-cours-dans-le-pacifique-un-phenomene-rare-favorise-par-el-nino_8174474.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2m5FNbrXhG0qfvoiVX8_iNT9ea4/0x31:1024x607/432x243/filters:format(jpg)/2026/09/02/6a989c303eecc616519178.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/trois-cyclones-simultanes-sont-en-cours-dans-le-pacifique-un-phenomene-rare-favorise-par-el-nino_8174474.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/trois-cyclones-simultanes-sont-en-cours-dans-le-pacifique-un-phenomene-rare-favorise-par-el-nino_8174474.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

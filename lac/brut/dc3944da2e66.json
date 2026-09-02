@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T22:23:00.339679+00:00",
+  "_id": "dc3944da2e66",
+  "brut": {
+    "title": "Opération commando à Gaza pour arrêter le chef des renseignements du Hamas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Opération commando à Gaza pour arrêter le chef des renseignements du Hamas"
+    },
+    "summary": "Les forces spéciales israéliennes ont mené mardi 1er septembre 2026 une opération commando dans la ville de Gaza pour arrêter le chef des renseignements du Hamas à Gaza.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les forces spéciales israéliennes ont mené mardi 1er septembre 2026 une opération commando dans la ville de Gaza pour arrêter le chef des renseignements du Hamas à Gaza."
+    },
+    "published": "Wed, 02 Sep 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      20,
+      0,
+      1,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/operation-commando-a-gaza-pour-arreter-le-chef-des-renseignements-du-hamas_8174270.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/f6OKa-MDOGe4V4JAhBGuDu7Hm_c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a985806703c2886149021.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/operation-commando-a-gaza-pour-arreter-le-chef-des-renseignements-du-hamas_8174270.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/operation-commando-a-gaza-pour-arreter-le-chef-des-renseignements-du-hamas_8174270.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

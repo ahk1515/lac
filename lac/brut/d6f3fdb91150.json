@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T22:22:59.704703+00:00",
+  "_id": "d6f3fdb91150",
+  "brut": {
+    "title": "Tapisserie de Bayeux à Londres : Emmanuel Macron visite l’exposition au British Museum",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Tapisserie de Bayeux à Londres : Emmanuel Macron visite l’exposition au British Museum"
+    },
+    "published": "Wed, 02 Sep 2026 21:33:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      19,
+      33,
+      13,
+      2,
+      245,
+      0
+    ],
+    "summary": "Le chef de l’Etat avait personnellement décidé du prêt pour un an de la tapisserie au Royaume-Uni lors de sa visite d’Etat en juillet 2025, afin de marquer « la confiance » actuelle entre les deux pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef de l’Etat avait personnellement décidé du prêt pour un an de la tapisserie au Royaume-Uni lors de sa visite d’Etat en juillet 2025, afin de marquer « la confiance » actuelle entre les deux pays."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/02/tapisserie-de-bayeux-a-londres-emmanuel-macron-visite-l-exposition-au-british-museum_6764535_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/02/tapisserie-de-bayeux-a-londres-emmanuel-macron-visite-l-exposition-au-british-museum_6764535_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/02/tapisserie-de-bayeux-a-londres-emmanuel-macron-visite-l-exposition-au-british-museum_6764535_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/585/0/7026/3513/644/322/60/0/1e819f0_ftp-1-31ciizsknujk-5981173-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel et Brigitte Macron, le roi Charles III et son épouse, la reine Camilla, pour une visite en avant-première de l’exposition de la tapisserie de Bayeux au British Museum, le 2 septembre 2026, à Londres."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUDOVIC MARIN / AFP"
+      }
+    ],
+    "credit": "LUDOVIC MARIN / AFP"
+  }
+}
