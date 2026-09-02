@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T16:00:10.197728+00:00",
+  "_id": "5275de5c0db4",
+  "brut": {
+    "title": "Attaque au drone à l’aéroport de Leipzig attribuée à la Russie : l’Union européenne dénonce un acte de « terrorisme soutenu par un Etat »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attaque au drone à l’aéroport de Leipzig attribuée à la Russie : l’Union européenne dénonce un acte de « terrorisme soutenu par un Etat »"
+    },
+    "published": "Wed, 02 Sep 2026 10:32:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      8,
+      32,
+      10,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 15:09:41 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      13,
+      9,
+      41,
+      2,
+      245,
+      0
+    ],
+    "summary": "De son côté, la France a annoncé avoir convoqué le chargé d’affaires russe à Paris pour « protester très vivement » contre « l’attaque hybride » imputée à la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De son côté, la France a annoncé avoir convoqué le chargé d’affaires russe à Paris pour « protester très vivement » contre « l’attaque hybride » imputée à la Russie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/attaque-au-drone-a-l-aeroport-de-leipzig-attribuee-a-la-russie-l-union-europeenne-denonce-un-acte-de-terrorisme-soutenu-par-un-etat_6764320_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/attaque-au-drone-a-l-aeroport-de-leipzig-attribuee-a-la-russie-l-union-europeenne-denonce-un-acte-de-terrorisme-soutenu-par-un-etat_6764320_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/attaque-au-drone-a-l-aeroport-de-leipzig-attribuee-a-la-russie-l-union-europeenne-denonce-un-acte-de-terrorisme-soutenu-par-un-etat_6764320_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/324/0/3000/1500/644/322/60/0/cc8b3a2_upload-1-fc21swv5ehz7-000-c3zw6yg.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un technicien de la police scientifique et un robot de déminage, à la suite de la découverte d’un drone chargé d’explosifs à l’aéroport de Leipzig-Halle, à Schkeuditz (Allemagne), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HENDRIK SCHMIDT/AFP"
+      }
+    ],
+    "credit": "HENDRIK SCHMIDT/AFP"
+  }
+}

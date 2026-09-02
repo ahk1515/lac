@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.519495+00:00",
+  "_id": "20e5631602e7",
+  "brut": {
+    "title": "Deux journalistes français et leur collaborateur local remis en liberté provisoire après avoir été détenus au Togo",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux journalistes français et leur collaborateur local remis en liberté provisoire après avoir été détenus au Togo"
+    },
+    "summary": "L'un des réalisateurs avait précédemment été libéré fin août, sous contrôle judiciaire, pour suivre des soins à Lomé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'un des réalisateurs avait précédemment été libéré fin août, sous contrôle judiciaire, pour suivre des soins à Lomé."
+    },
+    "published": "Wed, 02 Sep 2026 10:55:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      8,
+      55,
+      49,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/togo/un-realisateur-francais-et-son-collaborateur-local-places-en-liberte-provisoire-apres-avoir-ete-detenus-au-togo_8173457.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/q3gmCs7gnJFlotbufvGW4N2gnHI/0x437:4200x2800/432x243/filters:format(jpg)/2026/09/02/6a97e19f57261027733671.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/togo/un-realisateur-francais-et-son-collaborateur-local-places-en-liberte-provisoire-apres-avoir-ete-detenus-au-togo_8173457.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/togo/un-realisateur-francais-et-son-collaborateur-local-places-en-liberte-provisoire-apres-avoir-ete-detenus-au-togo_8173457.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

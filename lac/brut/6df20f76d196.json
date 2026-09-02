@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.518959+00:00",
+  "_id": "6df20f76d196",
+  "brut": {
+    "title": "En Allemagne, une enquête antiterroriste ouverte après une attaque près d'une centrale thermique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Allemagne, une enquête antiterroriste ouverte après une attaque près d'une centrale thermique"
+    },
+    "summary": "Plusieurs lignes électriques ont été endommagées près de Jänschwalde, dans l'est du pays, ce qui a provoqué une brève interruption de l'alimentation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plusieurs lignes électriques ont été endommagées près de Jänschwalde, dans l'est du pays, ce qui a provoqué une brève interruption de l'alimentation."
+    },
+    "published": "Wed, 02 Sep 2026 12:56:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      10,
+      56,
+      42,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-enquete-antiterroriste-ouverte-apres-une-attaque-pres-d-une-centrale-thermique_8173715.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/F8Bs9STA5oM1jJzrCFY5qKVGNtI/0x107:1024x683/432x243/filters:format(jpg)/2026/09/02/6a9800bbbf788193320210.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-enquete-antiterroriste-ouverte-apres-une-attaque-pres-d-une-centrale-thermique_8173715.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-enquete-antiterroriste-ouverte-apres-une-attaque-pres-d-une-centrale-thermique_8173715.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

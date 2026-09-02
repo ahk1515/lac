@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T16:00:10.196812+00:00",
+  "_id": "fb7ded1dd4b4",
+  "brut": {
+    "title": "En Allemagne, les autorités ouvrent une enquête antiterroriste après une explosion près d’une centrale thermique dans l’est du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, les autorités ouvrent une enquête antiterroriste après une explosion près d’une centrale thermique dans l’est du pays"
+    },
+    "published": "Wed, 02 Sep 2026 12:58:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      10,
+      58,
+      39,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 14:18:31 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      12,
+      18,
+      31,
+      2,
+      245,
+      0
+    ],
+    "summary": "Une panne suspecte dans l’ouest de l’Allemagne est également considérée comme un possible acte de sabotage, avec la piste d’une « implication étrangère » ou d’« extrémistes de gauche » étudiée par les enquêteurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une panne suspecte dans l’ouest de l’Allemagne est également considérée comme un possible acte de sabotage, avec la piste d’une « implication étrangère » ou d’« extrémistes de gauche » étudiée par les enquêteurs."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/en-allemagne-les-autorites-ouvrent-une-enquete-antiterroriste-apres-une-explosion-pres-d-une-centrale-thermique-dans-l-est-du-pays_6764369_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/en-allemagne-les-autorites-ouvrent-une-enquete-antiterroriste-apres-une-explosion-pres-d-une-centrale-thermique-dans-l-est-du-pays_6764369_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/en-allemagne-les-autorites-ouvrent-une-enquete-antiterroriste-apres-une-explosion-pres-d-une-centrale-thermique-dans-l-est-du-pays_6764369_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/375/0/6000/3000/644/322/60/0/f34d346_ftp-1-fqwpazb7n7jh-2722c2288be54bd0af9878227e646377-0-e0f48d5b36bc4470b81577b923fce385.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une unité de police allemande mène des recherches de grande envergure dans le secteur de Turnow-Preilack, près de la centrale thermique de Jänschwalde (Brandebourg), en Allemagne, le 2 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Frank Hammerschmidt/DPA via AP"
+      }
+    ],
+    "credit": "Frank Hammerschmidt/DPA via AP"
+  }
+}

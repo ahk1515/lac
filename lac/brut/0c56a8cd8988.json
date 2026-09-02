@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.517870+00:00",
+  "_id": "0c56a8cd8988",
+  "brut": {
+    "title": "Une épave détectée après le naufrage d'un chalutier français au large de l'Angleterre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une épave détectée après le naufrage d'un chalutier français au large de l'Angleterre"
+    },
+    "summary": "\"La plus grande prudence s'impose toutefois tant que les vérifications n'ont pas pu être faites\", précise le parquet de Saint-Brieuc, mercredi auprès d'ICI Armorique. Deux pêcheurs sont portés disparus depuis samedi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"La plus grande prudence s'impose toutefois tant que les vérifications n'ont pas pu être faites\", précise le parquet de Saint-Brieuc, mercredi auprès d'ICI Armorique. Deux pêcheurs sont portés disparus depuis samedi."
+    },
+    "published": "Wed, 02 Sep 2026 13:10:59 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      11,
+      10,
+      59,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/une-epave-detectee-apres-le-naufrage-d-un-chalutier-francais-au-large-de-l-angleterre_8173706.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/XUaow9KDNX50RHL56nYU4T6tIvo/0x312:6499x3968/432x243/filters:format(jpg)/2026/09/02/6a9801fb5374c766784556.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/une-epave-detectee-apres-le-naufrage-d-un-chalutier-francais-au-large-de-l-angleterre_8173706.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/une-epave-detectee-apres-le-naufrage-d-un-chalutier-francais-au-large-de-l-angleterre_8173706.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.519238+00:00",
+  "_id": "3780f69a7b7f",
+  "brut": {
+    "title": "Le bilan de l'épidémie d'Ebola en République démocratique du Congo dépasse les 3 000 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le bilan de l'épidémie d'Ebola en République démocratique du Congo dépasse les 3 000 morts"
+    },
+    "summary": "Avec plus de 6 000 cas confirmés elon les derniers relevés des autorités sanitaires congolaises, cette épidémie est la plus meurtrière qu'ait eu à affronter le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avec plus de 6 000 cas confirmés elon les derniers relevés des autorités sanitaires congolaises, cette épidémie est la plus meurtrière qu'ait eu à affronter le pays."
+    },
+    "published": "Wed, 02 Sep 2026 12:23:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      10,
+      23,
+      43,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-3-000-morts_8173661.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/k2G1m_P10nDSiPlyiu0E5c-XUOQ/0x146:5760x3386/432x243/filters:format(jpg)/2026/09/02/6a97f7852afb0119954699.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-3-000-morts_8173661.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-3-000-morts_8173661.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

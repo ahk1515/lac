@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T16:00:10.196972+00:00",
+  "_id": "0ad753ddb585",
+  "brut": {
+    "title": "Ebola en RDC : l’épidémie cause plus de 3 000 morts, sur plus de 6 000 cas confirmés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola en RDC : l’épidémie cause plus de 3 000 morts, sur plus de 6 000 cas confirmés"
+    },
+    "published": "Wed, 02 Sep 2026 12:22:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      10,
+      22,
+      52,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 12:33:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      10,
+      33,
+      29,
+      2,
+      245,
+      0
+    ],
+    "summary": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre lequel il n’existe ni vaccin ni traitement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre lequel il n’existe ni vaccin ni traitement."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/02/ebola-en-rdc-l-epidemie-depasse-la-barre-des-3-000-morts-sur-plus-de-6-000-cas-confirmes_6764364_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/02/ebola-en-rdc-l-epidemie-depasse-la-barre-des-3-000-morts-sur-plus-de-6-000-cas-confirmes_6764364_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/02/ebola-en-rdc-l-epidemie-depasse-la-barre-des-3-000-morts-sur-plus-de-6-000-cas-confirmes_6764364_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/465/0/4000/2000/644/322/60/0/d2726e2_ftp-1-sxoy7hju11mn-2026-09-01t213141z-1337632565-rc2ndmaakunb-rtrmadp-3-health-ebola-britain-drc.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le cimetière de Ceca-20, où de nombreuses tombes ont été creusées à mesure que l’épidémie d’Ebola s’est propagée, à Mongbwalu (République démocratique du Congo), le 14 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gradel Muyisa Mumbere/REUTERS"
+      }
+    ],
+    "credit": "Gradel Muyisa Mumbere/REUTERS"
+  }
+}

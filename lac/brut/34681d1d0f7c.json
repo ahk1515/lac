@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T16:00:10.195073+00:00",
+  "_id": "34681d1d0f7c",
+  "brut": {
+    "title": "En Serbie, l’opposition ciblée par le logiciel espion Pegasus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Serbie, l’opposition ciblée par le logiciel espion Pegasus"
+    },
+    "published": "Wed, 02 Sep 2026 17:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      15,
+      0,
+      11,
+      2,
+      245,
+      0
+    ],
+    "summary": "Une douzaine de personnes, dont un parlementaire et des étudiants participant au mouvement de protestation contre le pouvoir, ont reçu une notification suggérant qu’elles avaient été visées par le mouchard.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une douzaine de personnes, dont un parlementaire et des étudiants participant au mouvement de protestation contre le pouvoir, ont reçu une notification suggérant qu’elles avaient été visées par le mouchard."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/09/02/en-serbie-l-opposition-ciblee-par-le-logiciel-espion-pegasus_6764464_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/09/02/en-serbie-l-opposition-ciblee-par-le-logiciel-espion-pegasus_6764464_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/09/02/en-serbie-l-opposition-ciblee-par-le-logiciel-espion-pegasus_6764464_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/755/0/6000/3000/644/322/60/0/9d369c4_ftp-1-wwmblgkes5el-2026-09-01t205710z-1008404197-rc2iana4cw89-rtrmadp-3-serbia-protests.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une nouvelle manifestation étudiante s’est tenue à Belgrade, le 1er septembre 2026, vingt-deux mois après la catastrophe de Novi Sad, qui a été à l’origine d’un vaste mouvement anticorruption."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marko Djurica / REUTERS"
+      }
+    ],
+    "credit": "Marko Djurica / REUTERS"
+  }
+}

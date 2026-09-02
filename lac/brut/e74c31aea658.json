@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.517742+00:00",
+  "_id": "e74c31aea658",
+  "brut": {
+    "title": "Attaque de l'aéroport de Leipzig : l'Allemagne accuse la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Attaque de l'aéroport de Leipzig : l'Allemagne accuse la Russie"
+    },
+    "summary": "L’Allemagne a accusé la Russie, mardi 1er septembre, d’avoir envoyé, le 4 août, un drone chargé d’explosifs vers l’aéroport de Leipzig, une plateforme militaire stratégique pour l’armée allemande et l’Otan.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’Allemagne a accusé la Russie, mardi 1er septembre, d’avoir envoyé, le 4 août, un drone chargé d’explosifs vers l’aéroport de Leipzig, une plateforme militaire stratégique pour l’armée allemande et l’Otan."
+    },
+    "published": "Wed, 02 Sep 2026 13:22:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      11,
+      22,
+      15,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/attaque-de-l-aeroport-de-leipzig-l-allemagne-accuse-la-russie_8173742.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zP0Q-esQZW7Efr_ubJAmvIVuqGs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a9806c2b51b0417407218.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/attaque-de-l-aeroport-de-leipzig-l-allemagne-accuse-la-russie_8173742.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/attaque-de-l-aeroport-de-leipzig-l-allemagne-accuse-la-russie_8173742.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

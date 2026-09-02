@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.517091+00:00",
+  "_id": "fc87395792bd",
+  "brut": {
+    "title": "Une frappe américaine a fait au moins quatre morts lors d'un mariage en Iran, selon le Croissant-Rouge iranien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une frappe américaine a fait au moins quatre morts lors d'un mariage en Iran, selon le Croissant-Rouge iranien"
+    },
+    "summary": "Sans commenter directement cet événement, le Commandement central américain assure que l'armée américaine \"ne prend jamais pour cible des civils\"",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sans commenter directement cet événement, le Commandement central américain assure que l'armée américaine \"ne prend jamais pour cible des civils\""
+    },
+    "published": "Wed, 02 Sep 2026 15:10:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      13,
+      10,
+      6,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/une-frappe-americaine-a-fait-au-moins-quatre-morts-lors-d-un-mariage-en-iran-selon-le-croissant-rouge-iranien_8173763.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uWuLMhWFqrAyFIvzwJy9Qm2ANDU/1055x927:2537x1760/432x243/filters:format(jpg)/2026/09/02/6a980e6b2dfd4038878160.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/une-frappe-americaine-a-fait-au-moins-quatre-morts-lors-d-un-mariage-en-iran-selon-le-croissant-rouge-iranien_8173763.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/une-frappe-americaine-a-fait-au-moins-quatre-morts-lors-d-un-mariage-en-iran-selon-le-croissant-rouge-iranien_8173763.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

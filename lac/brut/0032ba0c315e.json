@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.517219+00:00",
+  "_id": "0032ba0c315e",
+  "brut": {
+    "title": "VIDEO. Emmanuel Macron dénonce une \"guerre hybride que mène la Russie\" après l'explosion d'un drone à l'aéroport de Leipzig, début août",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "VIDEO. Emmanuel Macron dénonce une \"guerre hybride que mène la Russie\" après l'explosion d'un drone à l'aéroport de Leipzig, début août"
+    },
+    "summary": "Le président français a aussi apporté \"son soutien et sa solidarité\" à l'Allemagne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président français a aussi apporté \"son soutien et sa solidarité\" à l'Allemagne."
+    },
+    "published": "Wed, 02 Sep 2026 15:02:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      13,
+      2,
+      32,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/video-drone-explosif-a-l-aeroport-de-leipzig-emmanuel-macron-denonce-une-guerre-hybride-que-mene-la-russie_8173850.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/lLWtnGA2TsZ1wI4lV1E8L-TgdoI/0x992:6000x4367/432x243/filters:format(jpg)/2026/09/02/6a981c9eb8271358910886.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/video-drone-explosif-a-l-aeroport-de-leipzig-emmanuel-macron-denonce-une-guerre-hybride-que-mene-la-russie_8173850.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/video-drone-explosif-a-l-aeroport-de-leipzig-emmanuel-macron-denonce-une-guerre-hybride-que-mene-la-russie_8173850.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

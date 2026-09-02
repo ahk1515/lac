@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.517466+00:00",
+  "_id": "cf995146ecb7",
+  "brut": {
+    "title": "Après le naufrage d'un ferry au large de Chypre du Nord, les 20 personnes portées disparues sont probablement prisonnières de l'épave, redoutent les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après le naufrage d'un ferry au large de Chypre du Nord, les 20 personnes portées disparues sont probablement prisonnières de l'épave, redoutent les autorités"
+    },
+    "summary": "L'épave du ferry qui a coulé dimanche au large des côtes de la République autoproclamée, faisant huit morts et 20 disparus, a été localisée mardi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'épave du ferry qui a coulé dimanche au large des côtes de la République autoproclamée, faisant huit morts et 20 disparus, a été localisée mardi."
+    },
+    "published": "Wed, 02 Sep 2026 15:04:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      13,
+      4,
+      14,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chypre/les-20-personnes-portees-disparues-sont-probablement-prisonnieres-de-l-epave-du-ferry-qui-a-coule-au-large-de-chypre-redoutent-les-autorites_8173808.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hTe4MY_J8pGHxCyZSFjp-IaBBzQ/0x29:1024x605/432x243/filters:format(jpg)/2026/09/02/6a9819beb693d463220549.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chypre/les-20-personnes-portees-disparues-sont-probablement-prisonnieres-de-l-epave-du-ferry-qui-a-coule-au-large-de-chypre-redoutent-les-autorites_8173808.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chypre/les-20-personnes-portees-disparues-sont-probablement-prisonnieres-de-l-epave-du-ferry-qui-a-coule-au-large-de-chypre-redoutent-les-autorites_8173808.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

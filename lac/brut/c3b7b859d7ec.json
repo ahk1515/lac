@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T16:00:10.195772+00:00",
+  "_id": "c3b7b859d7ec",
+  "brut": {
+    "title": "En Thaïlande, le pouvoir augmente la pression sur les touristes et les étrangers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Thaïlande, le pouvoir augmente la pression sur les touristes et les étrangers"
+    },
+    "published": "Wed, 02 Sep 2026 15:33:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      13,
+      33,
+      51,
+      2,
+      245,
+      0
+    ],
+    "summary": "Une loi, entrée en vigueur le 28 août, permet désormais l’expulsion administrative rapide des étrangers pour « comportement inapproprié ». Cette mesure vise les touristes indélicats et les fraudeurs dans le domaine du travail, alors que des discours xénophobes se font ouvertement entendre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une loi, entrée en vigueur le 28 août, permet désormais l’expulsion administrative rapide des étrangers pour « comportement inapproprié ». Cette mesure vise les touristes indélicats et les fraudeurs dans le domaine du travail, alors que des discours xénophobes se font ouvertement entendre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/en-thailande-le-pouvoir-augmente-la-pression-sur-les-touristes-et-les-etrangers_6764419_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/en-thailande-le-pouvoir-augmente-la-pression-sur-les-touristes-et-les-etrangers_6764419_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/en-thailande-le-pouvoir-augmente-la-pression-sur-les-touristes-et-les-etrangers_6764419_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/1000/0/6000/3000/644/322/60/0/f6516af_upload-1-4xkvmxewboqf-2025-06-07t085359z-1205356348-rc2akeaw2e4k-rtrmadp-3-travel-cm-bangkok.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des touristes sur Khaosan Road, à Bangkok, en Thaïlande, en 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Athit Perawongmetha/REUTERS"
+      }
+    ],
+    "credit": "Athit Perawongmetha/REUTERS"
+  }
+}

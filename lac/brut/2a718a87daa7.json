@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.517608+00:00",
+  "_id": "2a718a87daa7",
+  "brut": {
+    "title": "Dix marins portés disparus après la collision de deux cargos en mer de Marmara, au large de la Turquie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dix marins portés disparus après la collision de deux cargos en mer de Marmara, au large de la Turquie"
+    },
+    "summary": "Pour l'heure, \"aucun survivant\" n'a été retrouvé, a déclaré le ministre turc des Transports, Abdulkadir Uraloglu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour l'heure, \"aucun survivant\" n'a été retrouvé, a déclaré le ministre turc des Transports, Abdulkadir Uraloglu."
+    },
+    "published": "Wed, 02 Sep 2026 14:32:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      12,
+      32,
+      11,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/turquie/dix-marins-portes-disparus-apres-la-collision-de-deux-cargos-en-mer-de-marmara-au-large-de-la-turquie_8173793.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5gYqhugKXCKLyTI4dKeqpvlkUdI/0x53:1024x629/432x243/filters:format(jpg)/2026/09/02/6a981629decf0104936476.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/turquie/dix-marins-portes-disparus-apres-la-collision-de-deux-cargos-en-mer-de-marmara-au-large-de-la-turquie_8173793.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/turquie/dix-marins-portes-disparus-apres-la-collision-de-deux-cargos-en-mer-de-marmara-au-large-de-la-turquie_8173793.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

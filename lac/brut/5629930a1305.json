@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T16:00:10.197561+00:00",
+  "_id": "5629930a1305",
+  "brut": {
+    "title": "En Norvège, Mette-Marit, une reine fragilisée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Norvège, Mette-Marit, une reine fragilisée"
+    },
+    "published": "Wed, 02 Sep 2026 10:36:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      8,
+      36,
+      3,
+      2,
+      245,
+      0
+    ],
+    "summary": "Greffée des deux poumons en juin, la nouvelle reine de Norvège est montée sur le trône aux côtés de son époux, Haakon VIII, pendant sa convalescence. Malgré l’empathie que suscite sa situation, les nombreux scandales qui se sont succédé autour d’elle en font une personnalité très controversée dans le royaume.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Greffée des deux poumons en juin, la nouvelle reine de Norvège est montée sur le trône aux côtés de son époux, Haakon VIII, pendant sa convalescence. Malgré l’empathie que suscite sa situation, les nombreux scandales qui se sont succédé autour d’elle en font une personnalité très controversée dans le royaume."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/02/en-norvege-mette-marit-une-reine-fragilisee_6764322_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/02/en-norvege-mette-marit-une-reine-fragilisee_6764322_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/02/en-norvege-mette-marit-une-reine-fragilisee_6764322_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/177/0/1500/750/644/322/60/0/fc95ca7_upload-1-vxibbci8ueri-web-dpaphotosseven579124.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La princesse Mette-Marit, en octobre 2024, à Berlin."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jens Kalaene / Jens Kalaene/dpa"
+      }
+    ],
+    "credit": "Jens Kalaene / Jens Kalaene/dpa"
+  }
+}

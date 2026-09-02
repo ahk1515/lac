@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T16:00:10.516841+00:00",
+  "_id": "61099e63abbb",
+  "brut": {
+    "title": "George Clooney, adulé par les habitants de Venise, va recevoir un Lion d'or d'honneur à la Mostra",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "George Clooney, adulé par les habitants de Venise, va recevoir un Lion d'or d'honneur à la Mostra"
+    },
+    "summary": "Un mariage, un plat à son nom L'acteur américain George Clooney aime Venise, autant que la lagune l'aime. Pour l'ensemble de sa carrière, le festival de la Mostra va lui remettre mercredi soir un Lion d'or d'honneur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un mariage, un plat à son nom L'acteur américain George Clooney aime Venise, autant que la lagune l'aime. Pour l'ensemble de sa carrière, le festival de la Mostra va lui remettre mercredi soir un Lion d'or d'honneur."
+    },
+    "published": "Wed, 02 Sep 2026 15:27:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      13,
+      27,
+      32,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/cinema/george-clooney-qui-va-recevoir-un-lion-d-or-d-honneur-a-la-mostra-est-adore-a-venise_8173574.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CsMyauJ2D91BQwFDc7M9-cnyj1c/0x300:5760x3540/432x243/filters:format(jpg)/2026/09/02/6a97f01a3e15a701475590.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/cinema/george-clooney-qui-va-recevoir-un-lion-d-or-d-honneur-a-la-mostra-est-adore-a-venise_8173574.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/cinema/george-clooney-qui-va-recevoir-un-lion-d-or-d-honneur-a-la-mostra-est-adore-a-venise_8173574.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
