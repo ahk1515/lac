@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T03:01:07.343985+00:00",
+  "_id": "00a6fe475980",
+  "brut": {
+    "title": "Au Québec, la cause indépendantiste séduit la jeunesse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Québec, la cause indépendantiste séduit la jeunesse"
+    },
+    "published": "Wed, 02 Sep 2026 04:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      2,
+      0,
+      2,
+      2,
+      245,
+      0
+    ],
+    "summary": "Plus de trente ans après le dernier référendum sur l’indépendance du Québec, une partie de la nouvelle génération rêve de faire de la province canadienne un pays souverain. Propulsé par une viralité sur les réseaux sociaux, le mouvement fait entendre sa voix à l’approche des élections provinciales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plus de trente ans après le dernier référendum sur l’indépendance du Québec, une partie de la nouvelle génération rêve de faire de la province canadienne un pays souverain. Propulsé par une viralité sur les réseaux sociaux, le mouvement fait entendre sa voix à l’approche des élections provinciales."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/au-quebec-la-cause-independantiste-seduit-la-jeunesse_6763728_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/au-quebec-la-cause-independantiste-seduit-la-jeunesse_6763728_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/au-quebec-la-cause-independantiste-seduit-la-jeunesse_6763728_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/0/0/5677/2838/644/322/60/0/6fd2252_upload-1-ggco1xx6meiw-000-82aj2gq.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une manifestation pour l’indépendance du Québec, à Montréal, le 25 octobre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GENEVIEVE NORMAND/AFP"
+      }
+    ],
+    "credit": "GENEVIEVE NORMAND/AFP"
+  }
+}

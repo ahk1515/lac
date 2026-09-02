@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T03:01:07.343749+00:00",
+  "_id": "dc6a74620571",
+  "brut": {
+    "title": "Assassinat de Charlie Kirk : un juge américain statue que le suspect, Tyler Robinson, sera jugé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Assassinat de Charlie Kirk : un juge américain statue que le suspect, Tyler Robinson, sera jugé"
+    },
+    "published": "Wed, 02 Sep 2026 04:02:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      2,
+      2,
+      4,
+      2,
+      245,
+      0
+    ],
+    "summary": "L’homme de 23 ans, qui risque la peine de mort, a plaidé non coupable des charges qui pèsent contre lui.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’homme de 23 ans, qui risque la peine de mort, a plaidé non coupable des charges qui pèsent contre lui."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/assassinat-de-charlie-kirk-un-juge-americain-statue-que-le-suspect-tyler-robinson-sera-juge_6763729_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/assassinat-de-charlie-kirk-un-juge-americain-statue-que-le-suspect-tyler-robinson-sera-juge_6763729_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/assassinat-de-charlie-kirk-un-juge-americain-statue-que-le-suspect-tyler-robinson-sera-juge_6763729_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/11/0/3000/1500/644/322/60/0/f607095_ftp-1-jnhjmnchq0n1-fa6e14567f5b40d1b0ff598aa4719a49-1-4f82ba29448a4502b2e99300c08a91a8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Tyler Robinson lors d’une audience au tribunal de Provo (Utah), le 16 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bethany Baker/AP"
+      }
+    ],
+    "credit": "Bethany Baker/AP"
+  }
+}
