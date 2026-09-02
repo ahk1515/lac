@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T08:24:16.889553+00:00",
+  "_id": "6f3bd591952b",
+  "brut": {
+    "title": "Entre l’Ukraine et la Russie, une guerre d’usure asymétrique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Entre l’Ukraine et la Russie, une guerre d’usure asymétrique"
+    },
+    "published": "Wed, 02 Sep 2026 06:00:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      4,
+      0,
+      31,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 10:07:34 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      8,
+      7,
+      34,
+      2,
+      245,
+      0
+    ],
+    "summary": "Ces dernières semaines, Kiev et Moscou ont intensifié les attaques contre les infrastructures de l’ennemi, avec pour objectif d’affaiblir son économie et d’atteindre le moral de sa population. Mais l’Ukraine paie un tribut plus lourd, alors qu’elle ne dispose pas de missiles balistiques et a de plus en plus de mal à intercepter ceux qui la visent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces dernières semaines, Kiev et Moscou ont intensifié les attaques contre les infrastructures de l’ennemi, avec pour objectif d’affaiblir son économie et d’atteindre le moral de sa population. Mais l’Ukraine paie un tribut plus lourd, alors qu’elle ne dispose pas de missiles balistiques et a de plus en plus de mal à intercepter ceux qui la visent."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/quatre-ans-et-demi-apres-l-invasion-de-l-ukraine-la-russie-est-devenue-plus-vulnerable-mais-garde-une-nette-superiorite-dans-la-guerre-aerienne_6763876_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/quatre-ans-et-demi-apres-l-invasion-de-l-ukraine-la-russie-est-devenue-plus-vulnerable-mais-garde-une-nette-superiorite-dans-la-guerre-aerienne_6763876_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/quatre-ans-et-demi-apres-l-invasion-de-l-ukraine-la-russie-est-devenue-plus-vulnerable-mais-garde-une-nette-superiorite-dans-la-guerre-aerienne_6763876_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/592/0/4000/2000/644/322/60/0/1cf277c_upload-1-lfsbzv2auux1-sujet-guerre-economique-30.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Programmation d’un drone par un soldat ukrainien,  lors d’une mission visant un entrepôt Wildberries, dans la région de Moscou. Dans un lieu tenu secret, dans la région de Poltava (Ukraine), le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Adrien Vautier/Le Pictorium pour « Le Monde »"
+      }
+    ],
+    "credit": "Adrien Vautier/Le Pictorium pour « Le Monde »"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T08:24:16.888352+00:00",
+  "_id": "6e93d477970d",
+  "brut": {
+    "title": "En Espagne, le premier ministre, Pedro Sanchez, tente de reprendre la main sur la crise de Ceuta",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, le premier ministre, Pedro Sanchez, tente de reprendre la main sur la crise de Ceuta"
+    },
+    "published": "Wed, 02 Sep 2026 08:36:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      6,
+      36,
+      28,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 09:12:20 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      7,
+      12,
+      20,
+      2,
+      245,
+      0
+    ],
+    "summary": "Face à une situation qui reste explosive dans l’enclave espagnole, l’exécutif multiplie les annonces : aide économique, hébergement d’urgence, visite du roi Felipe VI… Mais le chef du gouvernement ne parvient pas à éteindre une contestation qui gagne jusqu’à son propre camp.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Face à une situation qui reste explosive dans l’enclave espagnole, l’exécutif multiplie les annonces : aide économique, hébergement d’urgence, visite du roi Felipe VI… Mais le chef du gouvernement ne parvient pas à éteindre une contestation qui gagne jusqu’à son propre camp."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/en-espagne-le-premier-ministre-pedro-sanchez-tente-de-reprendre-la-main-sur-la-crise-de-ceuta_6764079_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/en-espagne-le-premier-ministre-pedro-sanchez-tente-de-reprendre-la-main-sur-la-crise-de-ceuta_6764079_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/en-espagne-le-premier-ministre-pedro-sanchez-tente-de-reprendre-la-main-sur-la-crise-de-ceuta_6764079_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/439/0/5256/2628/644/322/60/0/36c555e_ftp-1-hn8xmzwppf8z-5971283-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La police espagnole encadrant un groupe de migrants massés devant l’entrée du centre d’accueil de Loma del Colmenar, à Ceuta, en Espagne, le 1ᵉʳ septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANTONIO SEMPERE/AFP"
+      }
+    ],
+    "credit": "ANTONIO SEMPERE/AFP"
+  }
+}

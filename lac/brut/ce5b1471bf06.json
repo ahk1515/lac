@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T08:24:16.889732+00:00",
+  "_id": "ce5b1471bf06",
+  "brut": {
+    "title": "Dans le sud du Liban, des habitants désemparés, entre désarmement compliqué du Hezbollah et frappes israéliennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sud du Liban, des habitants désemparés, entre désarmement compliqué du Hezbollah et frappes israéliennes"
+    },
+    "published": "Wed, 02 Sep 2026 06:00:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      4,
+      0,
+      20,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 08:53:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      6,
+      53,
+      29,
+      2,
+      245,
+      0
+    ],
+    "summary": "A Zaoutar El-Gharbiyé, Froun et Srifa, villes devenues « zones pilotes » en juillet, l’armée libanaise tente de se déployer, tandis que des habitants essaient de revenir dans leurs maisons détruites. Parallèlement, les bombardements israéliens se poursuivent à proximité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Zaoutar El-Gharbiyé, Froun et Srifa, villes devenues « zones pilotes » en juillet, l’armée libanaise tente de se déployer, tandis que des habitants essaient de revenir dans leurs maisons détruites. Parallèlement, les bombardements israéliens se poursuivent à proximité."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/dans-le-sud-du-liban-des-habitants-desempares-entre-desarmement-complique-du-hezbollah-et-frappes-israeliennes_6763871_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/dans-le-sud-du-liban-des-habitants-desempares-entre-desarmement-complique-du-hezbollah-et-frappes-israeliennes_6763871_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/dans-le-sud-du-liban-des-habitants-desempares-entre-desarmement-complique-du-hezbollah-et-frappes-israeliennes_6763871_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/492/0/3000/1500/644/322/60/0/23c0203_upload-1-hnmgazd0ytsl-alik4741.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A proximité d’un soldat de l’armée libanaise, Abbas Mostafa, 37 ans, avec son fils, Ali, 10 ans, venus récupérer des affaires dans les décombres de leur maison détruite lors d’une frappe israélienne, à Zaoutar El-Gharbiyé (gouvernorat de Nabatiyé, Liban sud), le 28 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALI KHARA POUR « LE MONDE »"
+      }
+    ],
+    "credit": "ALI KHARA POUR « LE MONDE »"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T08:24:16.888161+00:00",
+  "_id": "c8397a66709b",
+  "brut": {
+    "title": "Les deux journalistes français détenus au Togo depuis la fin juillet, Gaël Mocaër et Sebastian Perez Pezzani, ont été libérés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les deux journalistes français détenus au Togo depuis la fin juillet, Gaël Mocaër et Sebastian Perez Pezzani, ont été libérés"
+    },
+    "published": "Wed, 02 Sep 2026 09:50:24 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      7,
+      50,
+      24,
+      2,
+      245,
+      0
+    ],
+    "summary": "Gaël Mocaër et Sebastian Perez Pezzani, partis tourner un épisode de la série documentaire « Les Routes de l’impossible » sur France 5, avaient été arrêtés le 27 juillet. Ils sont poursuivis pour de supposées fausses déclarations liées à leur visa. Selon les informations du « Monde », ils devraient regagner la France dès mercredi soir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaël Mocaër et Sebastian Perez Pezzani, partis tourner un épisode de la série documentaire « Les Routes de l’impossible » sur France 5, avaient été arrêtés le 27 juillet. Ils sont poursuivis pour de supposées fausses déclarations liées à leur visa. Selon les informations du « Monde », ils devraient regagner la France dès mercredi soir."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/02/les-deux-journalistes-francais-detenus-au-togo-depuis-la-fin-juillet-gael-mocaer-et-sebastian-perez-pezzani-ont-ete-liberes_6764212_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/02/les-deux-journalistes-francais-detenus-au-togo-depuis-la-fin-juillet-gael-mocaer-et-sebastian-perez-pezzani-ont-ete-liberes_6764212_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/02/les-deux-journalistes-francais-detenus-au-togo-depuis-la-fin-juillet-gael-mocaer-et-sebastian-perez-pezzani-ont-ete-liberes_6764212_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/529/0/3888/1944/644/322/60/0/4c178ec_upload-1-vpskjklf20gd-000-328q8ev.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’entrée de la prison de Lomé, le 22 avril 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MATTEO FRASCHINI KOFFI/AFP"
+      }
+    ],
+    "credit": "MATTEO FRASCHINI KOFFI/AFP"
+  }
+}

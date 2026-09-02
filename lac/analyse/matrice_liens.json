@@ -2,22 +2,22 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 371
+    "co_citations": 376
   },
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 290
+    "co_citations": 292
   },
   {
     "pays_a": "ISR",
     "pays_b": "USA",
-    "co_citations": 94
+    "co_citations": 95
   },
   {
     "pays_a": "FRA",
     "pays_b": "RUS",
-    "co_citations": 65
+    "co_citations": 69
   },
   {
     "pays_a": "IRN",
@@ -25,13 +25,13 @@
     "co_citations": 48
   },
   {
-    "pays_a": "UKR",
-    "pays_b": "USA",
-    "co_citations": 44
-  },
-  {
     "pays_a": "ISR",
     "pays_b": "LBN",
+    "co_citations": 45
+  },
+  {
+    "pays_a": "UKR",
+    "pays_b": "USA",
     "co_citations": 44
   },
   {
@@ -40,19 +40,19 @@
     "co_citations": 43
   },
   {
+    "pays_a": "FRA",
+    "pays_b": "UKR",
+    "co_citations": 42
+  },
+  {
     "pays_a": "RUS",
     "pays_b": "USA",
     "co_citations": 41
   },
   {
-    "pays_a": "FRA",
-    "pays_b": "UKR",
-    "co_citations": 40
-  },
-  {
     "pays_a": "CHN",
     "pays_b": "USA",
-    "co_citations": 36
+    "co_citations": 37
   },
   {
     "pays_a": "FRA",
@@ -62,7 +62,12 @@
   {
     "pays_a": "FRA",
     "pays_b": "GBR",
-    "co_citations": 29
+    "co_citations": 30
+  },
+  {
+    "pays_a": "DEU",
+    "pays_b": "RUS",
+    "co_citations": 28
   },
   {
     "pays_a": "FRA",
@@ -71,12 +76,12 @@
   },
   {
     "pays_a": "DEU",
-    "pays_b": "RUS",
-    "co_citations": 25
+    "pays_b": "FRA",
+    "co_citations": 24
   },
   {
     "pays_a": "DEU",
-    "pays_b": "FRA",
+    "pays_b": "UKR",
     "co_citations": 22
   },
   {
@@ -87,11 +92,6 @@
   {
     "pays_a": "GBR",
     "pays_b": "USA",
-    "co_citations": 19
-  },
-  {
-    "pays_a": "DEU",
-    "pays_b": "UKR",
     "co_citations": 19
   },
   {
@@ -372,6 +372,16 @@
   {
     "pays_a": "BRA",
     "pays_b": "FRA",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "IND",
+    "pays_b": "RUS",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "IND",
+    "pays_b": "UKR",
     "co_citations": 1
   },
   {

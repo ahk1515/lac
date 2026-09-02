@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-02T08:24:16.888725+00:00",
+  "_id": "10e2485d8209",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la France convoque le chargé d’affaires russe à Paris pour protester contre « l’attaque hybride » à l’aéroport de Leipzig, imputée à la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la France convoque le chargé d’affaires russe à Paris pour protester contre « l’attaque hybride » à l’aéroport de Leipzig, imputée à la Russie"
+    },
+    "published": "Wed, 02 Sep 2026 06:43:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      4,
+      43,
+      45,
+      2,
+      245,
+      0
+    ],
+    "updated": "Wed, 02 Sep 2026 09:55:19 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      2,
+      7,
+      55,
+      19,
+      2,
+      245,
+      0
+    ],
+    "summary": "L’incident impliquant un drone chargé d’explosifs au début d’août à l’aéroport allemand, que l’Allemagne attribue à la Russie, présente « les caractéristiques d’un acte de terrorisme soutenu par un Etat », a estimé la cheffe de la diplomatie européenne, Kaja Kallas.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’incident impliquant un drone chargé d’explosifs au début d’août à l’aéroport allemand, que l’Allemagne attribue à la Russie, présente « les caractéristiques d’un acte de terrorisme soutenu par un Etat », a estimé la cheffe de la diplomatie européenne, Kaja Kallas."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/02/en-direct-guerre-en-ukraine-les-sanctions-allemandes-envers-la-russie-sont-une-nouvelle-erreur-grossiere-dit-vladimir-poutine_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/02/en-direct-guerre-en-ukraine-les-sanctions-allemandes-envers-la-russie-sont-une-nouvelle-erreur-grossiere-dit-vladimir-poutine_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/02/en-direct-guerre-en-ukraine-les-sanctions-allemandes-envers-la-russie-sont-une-nouvelle-erreur-grossiere-dit-vladimir-poutine_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/07/246/0/2094/1047/644/322/60/0/9dc0dc5_ftp-1-wasfr98ndwnp-2026-08-07t101811z-1181325072-rc2csmamcfed-rtrmadp-3-germany-security-airport.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un technicien de la police scientifique et un robot de déminage, suite à la découverte d’un drone chargé d’explosifs à l’aéroport de Leipzig-Halle, à Schkeuditz (Allemagne), le 5 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Axel Schmidt/REUTERS"
+      }
+    ],
+    "credit": "Axel Schmidt/REUTERS"
+  }
+}

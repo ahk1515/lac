@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-02T08:24:17.070653+00:00",
+  "_id": "437ff405e165",
+  "brut": {
+    "title": "Guerre en Ukraine : qui sont encore les alliés de la Russie ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : qui sont encore les alliés de la Russie ?"
+    },
+    "summary": "À l'occasion des 25 ans de l'Organisation de coopération de Shanghai, Vladimir Poutine a été interpellé par le Premier ministre indien qui lui a demandé directement d'arrêter la guerre en Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À l'occasion des 25 ans de l'Organisation de coopération de Shanghai, Vladimir Poutine a été interpellé par le Premier ministre indien qui lui a demandé directement d'arrêter la guerre en Ukraine."
+    },
+    "published": "Wed, 02 Sep 2026 08:49:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      6,
+      49,
+      26,
+      2,
+      245,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-qui-sont-encore-les-allies-de-la-russie_8173289.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/qk_VkJQzieqhKgwSquwVRenYB_Q/164x0:1527x767/432x243/filters:format(jpg)/2026/09/02/6a97bf4168acf725330533.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-qui-sont-encore-les-allies-de-la-russie_8173289.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-qui-sont-encore-les-allies-de-la-russie_8173289.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
