@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T22:17:49.260171+00:00",
+  "_id": "aed536f7d86f",
+  "brut": {
+    "title": "La RDC va déplacer son ambassade en Israël de Tel-Aviv à Jérusalem",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La RDC va déplacer son ambassade en Israël de Tel-Aviv à Jérusalem"
+    },
+    "published": "Thu, 03 Sep 2026 21:29:47 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      19,
+      29,
+      47,
+      3,
+      246,
+      0
+    ],
+    "summary": "Le gouvernement de République démocratique du Congo a multiplié les initiatives, ces dernières années, pour conclure des partenariats économiques, et s’est notamment rapproché des Etats-Unis, dont l’ambassade a été déplacée dans la Ville sainte en 2018.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement de République démocratique du Congo a multiplié les initiatives, ces dernières années, pour conclure des partenariats économiques, et s’est notamment rapproché des Etats-Unis, dont l’ambassade a été déplacée dans la Ville sainte en 2018."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/la-rdc-va-deplacer-son-ambassade-en-israel-de-tel-aviv-a-jerusalem_6765220_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/la-rdc-va-deplacer-son-ambassade-en-israel-de-tel-aviv-a-jerusalem_6765220_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/la-rdc-va-deplacer-son-ambassade-en-israel-de-tel-aviv-a-jerusalem_6765220_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/05/06/0/0/3000/1500/644/322/60/0/6fe950e_ftp-1-n4ztpngqhqm3-58ac2f0baab349ee8c047a3f7aeda703-0-350ce427faea47aba0e1332576e1d922.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président de la République démocratique du Congo, Felix Tshisekedi, à Washington, le 4 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evan Vucci/AP"
+      }
+    ],
+    "credit": "Evan Vucci/AP"
+  }
+}
