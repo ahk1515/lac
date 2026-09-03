@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T19:06:19.833262+00:00",
+  "_id": "cfd044db562b",
+  "brut": {
+    "title": "L’économie allemande amorce sa reprise, portée par les exportations vers l’Europe et l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’économie allemande amorce sa reprise, portée par les exportations vers l’Europe et l’IA"
+    },
+    "published": "Thu, 03 Sep 2026 19:00:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      17,
+      0,
+      9,
+      3,
+      246,
+      0
+    ],
+    "summary": "Deux instituts de conjoncture ont nettement relevé leurs prévisions de croissance pour 2026, avec des signes de reprise bien plus favorables que prévu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux instituts de conjoncture ont nettement relevé leurs prévisions de croissance pour 2026, avec des signes de reprise bien plus favorables que prévu."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/03/l-economie-allemande-amorce-sa-reprise-portee-par-les-exportations-vers-l-europe-et-l-ia_6765196_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/03/l-economie-allemande-amorce-sa-reprise-portee-par-les-exportations-vers-l-europe-et-l-ia_6765196_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/03/l-economie-allemande-amorce-sa-reprise-portee-par-les-exportations-vers-l-europe-et-l-ia_6765196_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/0/0/4874/2437/644/322/60/0/d6efd6f_upload-1-cebfw1lmvoyr-2019-05-20t090425z-19205633-rc12e4ef59c0-rtrmadp-3-semiconductors-trumpf-asml.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des techniciens de Trumpf règlent les composants optiques de l’un de leurs lasers CO2 au siège de l’entreprise, à Ditzingen, en Allemagne, le 15 mai 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KAI PFAFFENBACH/REUTERS"
+      }
+    ],
+    "credit": "KAI PFAFFENBACH/REUTERS"
+  }
+}

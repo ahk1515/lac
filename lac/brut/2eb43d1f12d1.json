@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-03T19:06:20.050960+00:00",
+  "_id": "2eb43d1f12d1",
+  "brut": {
+    "title": "Le fils de Donald Trump dévoile son nouveau passeport à l'effigie de son père",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le fils de Donald Trump dévoile son nouveau passeport à l'effigie de son père"
+    },
+    "summary": "Le fils de Donald Trump, Eric Trump, a dévoilé sur X le nouveau passeport à l’effigie de son père. Une édition limitée conçue pour commémorer le 250e anniversaire de l’indépendance des États-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le fils de Donald Trump, Eric Trump, a dévoilé sur X le nouveau passeport à l’effigie de son père. Une édition limitée conçue pour commémorer le 250e anniversaire de l’indépendance des États-Unis."
+    },
+    "published": "Thu, 03 Sep 2026 17:45:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      15,
+      45,
+      2,
+      3,
+      246,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/le-fils-de-donald-trump-devoile-son-nouveau-passeport-a-l-effigie-de-son-pere_8175767.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/XYnUas2ZKvSTPeOQQZ9QhNMKt4c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/03/6a9995dde9c9c213208130.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/le-fils-de-donald-trump-devoile-son-nouveau-passeport-a-l-effigie-de-son-pere_8175767.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/le-fils-de-donald-trump-devoile-son-nouveau-passeport-a-l-effigie-de-son-pere_8175767.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

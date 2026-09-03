@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T19:06:19.832423+00:00",
+  "_id": "3869dc456d48",
+  "brut": {
+    "title": "Au Yémen, les combats entre forces gouvernementales et rebelles houthistes s’intensifient",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, les combats entre forces gouvernementales et rebelles houthistes s’intensifient"
+    },
+    "published": "Thu, 03 Sep 2026 19:51:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      17,
+      51,
+      31,
+      3,
+      246,
+      0
+    ],
+    "summary": "Le gouvernement yéménite avait averti, le mois dernier, que les rebelles cherchaient à prendre position aux abords du détroit de Bab Al-Mandab. Selon une source militaire, les combats les plus intenses ont lieu entre la ville portuaire de Moka, sur la côte ouest, et Taëz.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement yéménite avait averti, le mois dernier, que les rebelles cherchaient à prendre position aux abords du détroit de Bab Al-Mandab. Selon une source militaire, les combats les plus intenses ont lieu entre la ville portuaire de Moka, sur la côte ouest, et Taëz."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/au-yemen-les-combats-entre-forces-gouvernementales-et-rebelles-houthistes-s-intensifient_6765208_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/au-yemen-les-combats-entre-forces-gouvernementales-et-rebelles-houthistes-s-intensifient_6765208_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/au-yemen-les-combats-entre-forces-gouvernementales-et-rebelles-houthistes-s-intensifient_6765208_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/11/400/0/960/480/644/322/60/0/9f18b05_ftp-1-hk2ravah93yr-2026-08-11t194853z-246622791-rc2hwma6gky6-rtrmadp-3-iran-crisis-shipping.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dégâts subis par le cargo « Tihamah » près de Murad, au Yémen, le 11 août 2026. Le ministère des transports yémenite a annoncé que quatre membres d’équipage avaient été tués dans l’attaque du navire dans le détroit de Bab Al-Mandab."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MEDIA OFFICE OF THE MINISTRY OF TRANSPORT / via REUTERS"
+      }
+    ],
+    "credit": "MEDIA OFFICE OF THE MINISTRY OF TRANSPORT / via REUTERS"
+  }
+}

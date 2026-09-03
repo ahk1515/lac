@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T19:06:19.832240+00:00",
+  "_id": "61a768962932",
+  "brut": {
+    "title": "La Syrie dit avoir commencé à détruire les armes chimiques de l’ère Al-Assad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Syrie dit avoir commencé à détruire les armes chimiques de l’ère Al-Assad"
+    },
+    "published": "Thu, 03 Sep 2026 20:29:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      18,
+      29,
+      20,
+      3,
+      246,
+      0
+    ],
+    "summary": "Selon la haute représentante des Nations unies pour le désarmement, la destruction de 42 bombes aériennes a été constatée le mois dernier par une équipe de l’Organisation pour l’interdiction des armes chimiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon la haute représentante des Nations unies pour le désarmement, la destruction de 42 bombes aériennes a été constatée le mois dernier par une équipe de l’Organisation pour l’interdiction des armes chimiques."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/857/0/5500/2750/644/322/60/0/b5bb2a8_ftp-1-0qclrodirzns-2026-08-21t092011z-2036483410-rc201nawwolc-rtrmadp-3-syria-security-museum.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des linceuls symboliques représentant les victimes de l’attaque chimique de 2013 sont exposés à l’hôpital de Kafr Batna (Syrie),  le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Khalil Ashawi/REUTERS"
+      }
+    ],
+    "credit": "Khalil Ashawi/REUTERS"
+  }
+}

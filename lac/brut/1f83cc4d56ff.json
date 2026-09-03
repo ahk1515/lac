@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T19:06:19.833104+00:00",
+  "_id": "1f83cc4d56ff",
+  "brut": {
+    "title": "Iran : une mission des Nations unies demande le retrait d’un projet de loi pénalisant certains contacts avec l’étranger",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Iran : une mission des Nations unies demande le retrait d’un projet de loi pénalisant certains contacts avec l’étranger"
+    },
+    "published": "Thu, 03 Sep 2026 19:02:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      17,
+      2,
+      35,
+      3,
+      246,
+      0
+    ],
+    "summary": "En vertu de ce texte, en cours d’examen au Parlement, les Iraniens pourraient « faire l’objet de poursuites pénales s’ils n’obtenaient pas d’autorisation préalable pour des activités courantes », estiment les enquêteurs de la mission.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En vertu de ce texte, en cours d’examen au Parlement, les Iraniens pourraient « faire l’objet de poursuites pénales s’ils n’obtenaient pas d’autorisation préalable pour des activités courantes », estiment les enquêteurs de la mission."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/iran-une-mission-des-nations-unies-demande-le-retrait-d-un-projet-de-loi-penalisant-certains-contacts-avec-l-etranger_6765199_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/iran-une-mission-des-nations-unies-demande-le-retrait-d-un-projet-de-loi-penalisant-certains-contacts-avec-l-etranger_6765199_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/iran-une-mission-des-nations-unies-demande-le-retrait-d-un-projet-de-loi-penalisant-certains-contacts-avec-l-etranger_6765199_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/234/0/8192/4096/644/322/60/0/84837a8_ftp-1-mvqqom0s4b33-5977864-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une affiche représentant le Guide suprême iranien, l’ayatollah Mojtaba Khamenei, devant une mosquée de Téhéran, le 2 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ATTA KENARE/AFP"
+      }
+    ],
+    "credit": "ATTA KENARE/AFP"
+  }
+}

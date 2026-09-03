@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T19:06:19.831913+00:00",
+  "_id": "c88a344ffe53",
+  "brut": {
+    "title": "Après les inondations dans l’Himalaya, la Chine impose un contrôle strict des informations liées au Tibet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après les inondations dans l’Himalaya, la Chine impose un contrôle strict des informations liées au Tibet"
+    },
+    "published": "Thu, 03 Sep 2026 20:30:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      18,
+      30,
+      10,
+      3,
+      246,
+      0
+    ],
+    "summary": "Depuis la catastrophe du 26 août, la couverture de l’actualité de la région, hautement sensible pour les autorités, est réduite aux informations données par Pékin, qui fait la part belle aux opérations de secours. Le pouvoir censure les contenus publiés par les citoyens et bannit l’accès à la zone meurtrie pour les journalistes étrangers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis la catastrophe du 26 août, la couverture de l’actualité de la région, hautement sensible pour les autorités, est réduite aux informations données par Pékin, qui fait la part belle aux opérations de secours. Le pouvoir censure les contenus publiés par les citoyens et bannit l’accès à la zone meurtrie pour les journalistes étrangers."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/apres-les-inondations-dans-l-himalaya-la-chine-impose-un-controle-strict-des-informations-liees-au-tibet_6765213_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/apres-les-inondations-dans-l-himalaya-la-chine-impose-un-controle-strict-des-informations-liees-au-tibet_6765213_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/apres-les-inondations-dans-l-himalaya-la-chine-impose-un-controle-strict-des-informations-liees-au-tibet_6765213_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/688/0/8256/4128/644/322/60/0/51f64dd_ftp-1-4syqwk4tfok5-5984359-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le 2 septembre 2026, les équipes de secours fouillent les décombres laissés par une coulée de boue dans la zone la plus touchée, près du port détruit de Gyirong, dans le comté de Gyirong, dans la région du Tibet, à l’ouest de la Chine."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CNS/AFP"
+      }
+    ],
+    "credit": "CNS/AFP"
+  }
+}
