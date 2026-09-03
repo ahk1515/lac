@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T08:33:47.104976+00:00",
+  "_id": "cb6488d7a05f",
+  "brut": {
+    "title": "Les Etats-Unis ont coulé un navire suspecté de contribuer au narcotrafic en Equateur",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis ont coulé un navire suspecté de contribuer au narcotrafic en Equateur"
+    },
+    "published": "Thu, 03 Sep 2026 06:52:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      4,
+      52,
+      41,
+      3,
+      246,
+      0
+    ],
+    "updated": "Thu, 03 Sep 2026 10:09:44 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      3,
+      8,
+      9,
+      44,
+      3,
+      246,
+      0
+    ],
+    "summary": "Soupçonné d’apporter un soutien logistique au groupe criminel Los Choneros, un bateau a été intercepté puis coulé, mercredi, au cours d’une opération menée conjointement par Washington et Quito.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soupçonné d’apporter un soutien logistique au groupe criminel Los Choneros, un bateau a été intercepté puis coulé, mercredi, au cours d’une opération menée conjointement par Washington et Quito."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/les-etats-unis-ont-coule-un-navire-suspecte-de-contribuer-au-narcotrafic-en-equateur_6764924_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/les-etats-unis-ont-coule-un-navire-suspecte-de-contribuer-au-narcotrafic-en-equateur_6764924_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/les-etats-unis-ont-coule-un-navire-suspecte-de-contribuer-au-narcotrafic-en-equateur_6764924_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/95/0/3002/1501/644/322/60/0/3771f1e_upload-1-qpnaqvtswl9d-capture-d-e-cran-2026-09-03-a-06-47-00.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le bateau suspecté de participer au narcotrafic en Equateur, avant d’être visé par une frappe américaine, sur une capture d’écran d’une vidéo publiée par le commandement sud des Etats-Unis, le 2 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "U.S. Southern Command via X"
+      }
+    ],
+    "credit": "U.S. Southern Command via X"
+  }
+}

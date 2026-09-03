@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-03T08:33:47.906315+00:00",
+  "_id": "3bb9d708938e",
+  "brut": {
+    "title": "ENQUETE. \"Ça devrait être impossible\" : malgré leur interdiction, des médias russes comme RT France restent facilement accessibles sur internet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "ENQUETE. \"Ça devrait être impossible\" : malgré leur interdiction, des médias russes comme RT France restent facilement accessibles sur internet"
+    },
+    "summary": "En quelques clics, l'Agence de vérification de l'information Radio France est parvenue à accéder à RT France, à rt.com ou à Sputnik. Une enquête de Reporters sans frontières démontre par ailleurs que la plupart des agents IA ont accès aux contenus de ces médias officiels russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En quelques clics, l'Agence de vérification de l'information Radio France est parvenue à accéder à RT France, à rt.com ou à Sputnik. Une enquête de Reporters sans frontières démontre par ailleurs que la plupart des agents IA ont accès aux contenus de ces médias officiels russes."
+    },
+    "published": "Thu, 03 Sep 2026 07:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      5,
+      0,
+      2,
+      3,
+      246,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/medias/enquete-ca-devrait-etre-impossible-malgre-leur-interdiction-des-medias-russes-comme-rt-france-restent-facilement-accessibles-sur-internet_8174390.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/WXOQGUtHEKV329LV_SMv7hbi8ng/0x106:1024x682/432x243/filters:format(jpg)/2026/09/02/6a987a109fde9268220750.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/medias/enquete-ca-devrait-etre-impossible-malgre-leur-interdiction-des-medias-russes-comme-rt-france-restent-facilement-accessibles-sur-internet_8174390.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/medias/enquete-ca-devrait-etre-impossible-malgre-leur-interdiction-des-medias-russes-comme-rt-france-restent-facilement-accessibles-sur-internet_8174390.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

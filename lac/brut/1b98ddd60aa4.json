@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-03T08:33:47.904553+00:00",
+  "_id": "1b98ddd60aa4",
+  "brut": {
+    "title": "REPORTAGE. \"Je dois réduire la quantité de marchandises\" : en Allemagne, les navigateurs s'adaptent face à l’assèchement du Rhin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. \"Je dois réduire la quantité de marchandises\" : en Allemagne, les navigateurs s'adaptent face à l’assèchement du Rhin"
+    },
+    "summary": "Au mois d'août, le niveau du Rhin a été historiquement bas à cause de la sécheresse. Et tout n'est pas revenu à la normale, en septembre, pour le transport fluvial.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au mois d'août, le niveau du Rhin a été historiquement bas à cause de la sécheresse. Et tout n'est pas revenu à la normale, en septembre, pour le transport fluvial."
+    },
+    "published": "Thu, 03 Sep 2026 08:48:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      6,
+      48,
+      39,
+      3,
+      246,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-je-dois-reduire-la-quantite-de-marchandises-les-navigateurs-s-adaptent-face-a-l-assechement-du-rhin_8174750.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4wXvV1LF__N3c_tgfg6_aXtbDQE/0x0:1639x922/432x243/filters:format(jpg)/2026/09/03/6a98ffcdbc128098701509.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-je-dois-reduire-la-quantite-de-marchandises-les-navigateurs-s-adaptent-face-a-l-assechement-du-rhin_8174750.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-je-dois-reduire-la-quantite-de-marchandises-les-navigateurs-s-adaptent-face-a-l-assechement-du-rhin_8174750.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

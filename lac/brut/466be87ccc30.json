@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-03T08:33:47.904239+00:00",
+  "_id": "466be87ccc30",
+  "brut": {
+    "title": "Deux attaques en Allemagne contre le réseau électrique relancent la crainte des sabotages en Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux attaques en Allemagne contre le réseau électrique relancent la crainte des sabotages en Europe"
+    },
+    "summary": "Deux attaques ont visé en moins de 24 heures des installations électriques allemandes, dont l’une à une centaine de kilomètres de Berlin. Des incidents qui illustrent la vulnérabilité croissante des réseaux électriques européens, au moment où plusieurs pays renforcent leur protection face aux risques de sabotage.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux attaques ont visé en moins de 24 heures des installations électriques allemandes, dont l’une à une centaine de kilomètres de Berlin. Des incidents qui illustrent la vulnérabilité croissante des réseaux électriques européens, au moment où plusieurs pays renforcent leur protection face aux risques de sabotage."
+    },
+    "published": "Thu, 03 Sep 2026 09:42:23 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      7,
+      42,
+      23,
+      3,
+      246,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/deux-attaques-en-allemagne-contre-le-reseau-electrique-relancent-la-crainte-des-sabotages-en-europe_8168429.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YZ0opc5eQGqueoxuN56FGrpBPtA/432x243/filters:format(jpg)/2026/08/18/6a84b2d026e0f856314974.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/deux-attaques-en-allemagne-contre-le-reseau-electrique-relancent-la-crainte-des-sabotages-en-europe_8168429.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/deux-attaques-en-allemagne-contre-le-reseau-electrique-relancent-la-crainte-des-sabotages-en-europe_8168429.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

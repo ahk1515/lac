@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-03T08:33:47.904452+00:00",
+  "_id": "00b24f646fc4",
+  "brut": {
+    "title": "Tapisserie de Bayeux à Londres : une inauguration en présence d'Emmanuel Macron et Charles III",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tapisserie de Bayeux à Londres : une inauguration en présence d'Emmanuel Macron et Charles III"
+    },
+    "summary": "Emmanuel Macron et le roi Charles III étaient ensemble au British Museum de Londres pour une visite en avant-première de l'exposition de la tapisserie de Bayeux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron et le roi Charles III étaient ensemble au British Museum de Londres pour une visite en avant-première de l'exposition de la tapisserie de Bayeux."
+    },
+    "published": "Thu, 03 Sep 2026 08:52:48 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      6,
+      52,
+      48,
+      3,
+      246,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tapisserie-de-bayeux-a-londres-une-inauguration-en-presence-d-emmanuel-macron-et-charles-iii_8174864.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/-_praYSHj-5j2bYc3GXnc-qzyq4/182x0:1509x746/432x243/filters:format(jpg)/2026/09/03/6a990b6b84b48198712900.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tapisserie-de-bayeux-a-londres-une-inauguration-en-presence-d-emmanuel-macron-et-charles-iii_8174864.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tapisserie-de-bayeux-a-londres-une-inauguration-en-presence-d-emmanuel-macron-et-charles-iii_8174864.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
