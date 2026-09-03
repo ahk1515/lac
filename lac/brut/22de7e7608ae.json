@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T15:49:35.706432+00:00",
+  "_id": "22de7e7608ae",
+  "brut": {
+    "title": "En Allemagne, le faible niveau des stocks de gaz nourrit la peur d’une nouvelle crise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, le faible niveau des stocks de gaz nourrit la peur d’une nouvelle crise"
+    },
+    "published": "Thu, 03 Sep 2026 17:30:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      15,
+      30,
+      9,
+      3,
+      246,
+      0
+    ],
+    "summary": "Les réservoirs de gaz allemands ne sont remplis qu’à 53 %, bien moins qu’à la même époque ces dernières années. Les entreprises du secteur soulignent que la logique économique du stockage a changé. La situation crée de nouvelles dépendances, entre autres, au gaz naturel liquéfié américain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les réservoirs de gaz allemands ne sont remplis qu’à 53 %, bien moins qu’à la même époque ces dernières années. Les entreprises du secteur soulignent que la logique économique du stockage a changé. La situation crée de nouvelles dépendances, entre autres, au gaz naturel liquéfié américain."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/03/en-allemagne-le-faible-niveau-des-stocks-de-gaz-nourrit-la-peur-d-une-nouvelle-crise_6765177_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/03/en-allemagne-le-faible-niveau-des-stocks-de-gaz-nourrit-la-peur-d-une-nouvelle-crise_6765177_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/03/en-allemagne-le-faible-niveau-des-stocks-de-gaz-nourrit-la-peur-d-une-nouvelle-crise_6765177_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/265/0/8256/4128/644/322/60/0/536c007_upload-1-temkim4ut9pn-ap26120576228691.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’unité flottante de stockage et de regazéification de gaz naturel liquéfié Höegh Esperanza, à Wilhelmshaven (Allemagne), le 30 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Izabela Mittwollen/picture-alliance/dpa/AP Images"
+      }
+    ],
+    "credit": "Izabela Mittwollen/picture-alliance/dpa/AP Images"
+  }
+}

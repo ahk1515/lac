@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T15:49:35.706321+00:00",
+  "_id": "77833bc68bb7",
+  "brut": {
+    "title": "Israël annonce la libération de cinq civils libanais",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël annonce la libération de cinq civils libanais"
+    },
+    "published": "Thu, 03 Sep 2026 17:34:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      15,
+      34,
+      14,
+      3,
+      246,
+      0
+    ],
+    "summary": "La mesure a été prise dans le cadre des négociations bilatérales et des efforts entrepris par les deux parties pour localiser les dépouilles de dirigeants de la communauté juive libanaise assassinés au milieu des années 1980, a précisé le gouvernement israélien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mesure a été prise dans le cadre des négociations bilatérales et des efforts entrepris par les deux parties pour localiser les dépouilles de dirigeants de la communauté juive libanaise assassinés au milieu des années 1980, a précisé le gouvernement israélien."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/israel-annonce-la-liberation-de-cinq-civils-libanais_6765181_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/israel-annonce-la-liberation-de-cinq-civils-libanais_6765181_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/israel-annonce-la-liberation-de-cinq-civils-libanais_6765181_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/21/560/0/6720/3360/644/322/60/0/83fc3a2_ftp-1-e4hst0c0yjin-5887967-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats israéliens à Chaqra, dans le sud du Liban, le 21 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AMMAR AMMAR / AFP"
+      }
+    ],
+    "credit": "AMMAR AMMAR / AFP"
+  }
+}
