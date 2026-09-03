@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T03:02:17.587203+00:00",
+  "_id": "74cbedf93af8",
+  "brut": {
+    "title": "Le Parlement du Liechtenstein approuve une initiative citoyenne visant à légaliser l’avortement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Parlement du Liechtenstein approuve une initiative citoyenne visant à légaliser l’avortement"
+    },
+    "published": "Thu, 03 Sep 2026 03:51:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      1,
+      51,
+      34,
+      3,
+      246,
+      0
+    ],
+    "updated": "Thu, 03 Sep 2026 04:09:06 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      3,
+      2,
+      9,
+      6,
+      3,
+      246,
+      0
+    ],
+    "summary": "Les élus du Landtag ont voté à une courte majorité, mercredi, en faveur de cette démarche qui a recueilli un nombre important de signatures. Le régent de la principauté, le prince Aloïs, opposé à l’initiative, dispose d’un droit de véto.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les élus du Landtag ont voté à une courte majorité, mercredi, en faveur de cette démarche qui a recueilli un nombre important de signatures. Le régent de la principauté, le prince Aloïs, opposé à l’initiative, dispose d’un droit de véto."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/le-parlement-du-liechtenstein-approuve-une-initiative-citoyenne-visant-a-legaliser-l-avortement_6764705_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/le-parlement-du-liechtenstein-approuve-une-initiative-citoyenne-visant-a-legaliser-l-avortement_6764705_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/le-parlement-du-liechtenstein-approuve-une-initiative-citoyenne-visant-a-legaliser-l-avortement_6764705_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/454/0/4000/2000/644/322/60/0/1696c26_upload-1-dtlzwzxlzd5m-liechtenstein-parliament-building.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Parlement du Liechtenstein, dans la capitale, Vaduz, le 18 août 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Camjor/CC-BY-SA-4.0"
+      }
+    ],
+    "credit": "Camjor/CC-BY-SA-4.0"
+  }
+}

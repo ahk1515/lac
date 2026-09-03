@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T03:02:17.587039+00:00",
+  "_id": "ae26ad03da70",
+  "brut": {
+    "title": "L’Algérie va ouvrir une prison pour narcotrafiquants dans le désert hostile du Tanezrouft",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Algérie va ouvrir une prison pour narcotrafiquants dans le désert hostile du Tanezrouft"
+    },
+    "published": "Thu, 03 Sep 2026 04:00:57 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      2,
+      0,
+      57,
+      3,
+      246,
+      0
+    ],
+    "updated": "Thu, 03 Sep 2026 04:11:51 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      3,
+      2,
+      11,
+      51,
+      3,
+      246,
+      0
+    ],
+    "summary": "La transformation d’une caserne militaire en établissement de haute sécurité destiné aux « barons de la drogue » intervient alors que les autorités multiplient les mises en garde contre l’essor du trafic de stupéfiants dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La transformation d’une caserne militaire en établissement de haute sécurité destiné aux « barons de la drogue » intervient alors que les autorités multiplient les mises en garde contre l’essor du trafic de stupéfiants dans le pays."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/03/l-algerie-va-ouvrir-une-prison-pour-narcotrafiquants-dans-le-desert-hostile-du-tanezrouft_6764738_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/03/l-algerie-va-ouvrir-une-prison-pour-narcotrafiquants-dans-le-desert-hostile-du-tanezrouft_6764738_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/03/l-algerie-va-ouvrir-une-prison-pour-narcotrafiquants-dans-le-desert-hostile-du-tanezrouft_6764738_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/65/0/2063/1031/644/322/60/0/2dd874f_upload-1-t61m3al9eesl-tanezrouft-piste1990.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans le désert du Tanezrouft (Algérie), en 1990."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Albert Backer/CC BY-SA 3.0"
+      }
+    ],
+    "credit": "Albert Backer/CC BY-SA 3.0"
+  }
+}

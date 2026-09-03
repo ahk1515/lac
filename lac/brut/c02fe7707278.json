@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-03T03:02:17.586424+00:00",
+  "_id": "c02fe7707278",
+  "brut": {
+    "title": "Ceuta : un rapport de la police espagnole contredit la version du gouvernement sur le rôle du Maroc",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ceuta : un rapport de la police espagnole contredit la version du gouvernement sur le rôle du Maroc"
+    },
+    "published": "Thu, 03 Sep 2026 05:00:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      3,
+      0,
+      51,
+      3,
+      246,
+      0
+    ],
+    "summary": "Un document transmis à la justice décrit la « totale permissivité » des forces de sécurité marocaines lors de l’arrivée massive de migrants, les 30 et 31 juillet, et affirme que certains agents ont même guidé les passages vers l’enclave espagnole.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un document transmis à la justice décrit la « totale permissivité » des forces de sécurité marocaines lors de l’arrivée massive de migrants, les 30 et 31 juillet, et affirme que certains agents ont même guidé les passages vers l’enclave espagnole."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/03/ceuta-un-rapport-de-la-police-espagnole-contredit-la-version-du-gouvernement-sur-le-role-du-maroc_6764813_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/03/ceuta-un-rapport-de-la-police-espagnole-contredit-la-version-du-gouvernement-sur-le-role-du-maroc_6764813_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/03/ceuta-un-rapport-de-la-police-espagnole-contredit-la-version-du-gouvernement-sur-le-role-du-maroc_6764813_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/31/443/0/5311/2655/644/322/60/0/f76dd5d_ftp-1-rlrj1ivsc0up-5749212-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des agents des forces de sécurité marocaines face à des migrants qui tentent de pénétrer dans l’enclave espagnole de Ceuta, près de la ville de Fnideq (Maroc), le 31 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ABDEL MAJID BZIOUAT/AFP"
+      }
+    ],
+    "credit": "ABDEL MAJID BZIOUAT/AFP"
+  }
+}
