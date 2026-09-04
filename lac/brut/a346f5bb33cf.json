@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T03:02:20.528034+00:00",
+  "_id": "a346f5bb33cf",
+  "brut": {
+    "title": "Singapour, un rêve qui ne tient pas ses promesses pour les travailleurs migrants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Singapour, un rêve qui ne tient pas ses promesses pour les travailleurs migrants"
+    },
+    "published": "Fri, 04 Sep 2026 04:00:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      2,
+      0,
+      12,
+      4,
+      247,
+      0
+    ],
+    "summary": "Majoritairement originaires d’Inde ou du Bangladesh, ils s’endettent lourdement pour venir dans l’espoir de faire vivre leur famille, avant de déchanter face aux salaires et aux conditions de travail très éloignés de ce qui leur avait été promis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Majoritairement originaires d’Inde ou du Bangladesh, ils s’endettent lourdement pour venir dans l’espoir de faire vivre leur famille, avant de déchanter face aux salaires et aux conditions de travail très éloignés de ce qui leur avait été promis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/singapour-un-reve-qui-ne-tient-pas-ses-promesses-pour-les-travailleurs-migrants_6765421_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/singapour-un-reve-qui-ne-tient-pas-ses-promesses-pour-les-travailleurs-migrants_6765421_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/singapour-un-reve-qui-ne-tient-pas-ses-promesses-pour-les-travailleurs-migrants_6765421_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/330/0/3996/1998/644/322/60/0/681e072_upload-1-61dlo2ntdwhj-000-9mt7az.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des travailleurs migrants sur un chantier, à Singapour, le 14 septembre 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ROSLAN RAHMAN/AFP"
+      }
+    ],
+    "credit": "ROSLAN RAHMAN/AFP"
+  }
+}

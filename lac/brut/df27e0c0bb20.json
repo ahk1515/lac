@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T03:02:20.528489+00:00",
+  "_id": "df27e0c0bb20",
+  "brut": {
+    "title": "La Maison Blanche publie un jeu vidéo dont le but est d’expulser des immigrés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Maison Blanche publie un jeu vidéo dont le but est d’expulser des immigrés"
+    },
+    "published": "Fri, 04 Sep 2026 02:58:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      0,
+      58,
+      9,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 03:00:19 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      1,
+      0,
+      19,
+      4,
+      247,
+      0
+    ],
+    "summary": "Calqué visuellement sur le modèle de « Snake », le jeu a pour objectif de rassembler un maximum de personnages ayant traversé la frontière afin de les expulser. Un autre jeu publié sur le site officiel de la Maison Blanche consiste à construire un mur à la frontière avec le Mexique, à la manière de « Tetris ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Calqué visuellement sur le modèle de « Snake », le jeu a pour objectif de rassembler un maximum de personnages ayant traversé la frontière afin de les expulser. Un autre jeu publié sur le site officiel de la Maison Blanche consiste à construire un mur à la frontière avec le Mexique, à la manière de « Tetris »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/14/0/1702/851/644/322/60/0/a1f5391_upload-1-y5p2zl8p7nym-capture-d-ecran-2026-09-04-014221.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran du site de la Maison Blanche, sur lequel a été publié un jeu vidéo anti-migrants."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "whitehouse.gov"
+      }
+    ],
+    "credit": "whitehouse.gov"
+  }
+}

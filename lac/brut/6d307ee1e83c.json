@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T03:02:20.528857+00:00",
+  "_id": "6d307ee1e83c",
+  "brut": {
+    "title": "La FIFA dénonce une « campagne de dénigrement » menée par l’UEFA à son égard",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La FIFA dénonce une « campagne de dénigrement » menée par l’UEFA à son égard"
+    },
+    "published": "Fri, 04 Sep 2026 01:01:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      23,
+      1,
+      45,
+      3,
+      246,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 02:51:38 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      0,
+      51,
+      38,
+      4,
+      247,
+      0
+    ],
+    "summary": "Dans le sillage du projet économique avorté de la FIFA, l’instance européenne prépare une action en justice contre le patron du football mondial, Gianni Infantino, pour « gestion déloyale ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sillage du projet économique avorté de la FIFA, l’instance européenne prépare une action en justice contre le patron du football mondial, Gianni Infantino, pour « gestion déloyale »."
+    },
+    "id": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/0/0/3207/1603/644/322/60/0/e9a3d0f_ftp-1-dk5qimn4vuft-5910273-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Gianni Infantino (à gauche) et Aleksander Ceferin, le 12 février 2026, à Bruxelles."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PAU BARRENA/AFP"
+      }
+    ],
+    "credit": "PAU BARRENA/AFP"
+  }
+}

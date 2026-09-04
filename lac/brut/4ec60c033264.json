@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T03:02:20.529063+00:00",
+  "_id": "4ec60c033264",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : une dizaine de blessés signalés à Kiev à la suite d’attaques de drones russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : une dizaine de blessés signalés à Kiev à la suite d’attaques de drones russes"
+    },
+    "published": "Fri, 04 Sep 2026 00:27:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      3,
+      22,
+      27,
+      58,
+      3,
+      246,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 00:44:32 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      3,
+      22,
+      44,
+      32,
+      3,
+      246,
+      0
+    ],
+    "summary": "Un immeuble de neuf étages a notamment été touché dans le quartier d’Holossіїv, selon les services de secours ukrainiens, qui ont fait état de trois blessées et de 25 personnes évacuées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un immeuble de neuf étages a notamment été touché dans le quartier d’Holossіїv, selon les services de secours ukrainiens, qui ont fait état de trois blessées et de 25 personnes évacuées."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-une-dizaine-de-blesses-signales-a-kiev-a-la-suite-d-attaques-de-drones-russes_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-une-dizaine-de-blesses-signales-a-kiev-a-la-suite-d-attaques-de-drones-russes_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-une-dizaine-de-blesses-signales-a-kiev-a-la-suite-d-attaques-de-drones-russes_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/720/0/8640/4320/644/322/60/0/d620162_ftp-1-weyisn0tnkaq-e0d3677b6e9b42578978543b0b74e52d-0-d099104adbf3446ca7d5754b545737af.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une attaque de drones russes, à Kiev, le 3 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP Photo/Efrem Lukatsky"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP Photo/Efrem Lukatsky"
+  }
+}
