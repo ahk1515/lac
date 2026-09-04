@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T22:07:40.212742+00:00",
+  "_id": "5392e572e29a",
+  "brut": {
+    "title": "Des manifestants évacués lors du congrès annuel de Reform UK",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des manifestants évacués lors du congrès annuel de Reform UK"
+    },
+    "summary": "Le président du Rassemblement national Jordan Bardella a été invité par le leader d’extrême droite Nigel Farage au congrès annuel du parti Reform UK à Birmingham (Royaume-Uni), vendredi 4 septembre, pour signer un protocole d'accord anti-immigration.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président du Rassemblement national Jordan Bardella a été invité par le leader d’extrême droite Nigel Farage au congrès annuel du parti Reform UK à Birmingham (Royaume-Uni), vendredi 4 septembre, pour signer un protocole d'accord anti-immigration."
+    },
+    "published": "Fri, 04 Sep 2026 23:03:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      21,
+      3,
+      43,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/des-manifestants-evacues-lors-du-congres-annuel-de-reform-uk_8177933.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YeRyRGZoQ6vVgQ-toTGNr5MKLfs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9b3213a7394540519197.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/des-manifestants-evacues-lors-du-congres-annuel-de-reform-uk_8177933.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/des-manifestants-evacues-lors-du-congres-annuel-de-reform-uk_8177933.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T22:07:39.908404+00:00",
+  "_id": "d626292054d5",
+  "brut": {
+    "title": "Visite du pape : le préfet de police de Paris détaille le dispositif de sécurité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape : le préfet de police de Paris détaille le dispositif de sécurité"
+    },
+    "published": "Fri, 04 Sep 2026 21:26:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      19,
+      26,
+      20,
+      4,
+      247,
+      0
+    ],
+    "summary": "Quatorze mille policiers, gendarmes et militaires de l’opération « Sentinelle » seront mobilisés le premier jour et 12 000 le lendemain, selon Patrice Faure, qui promet d’assurer une sécurité maximale tout en minimisant les contraintes pour les Parisiens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quatorze mille policiers, gendarmes et militaires de l’opération « Sentinelle » seront mobilisés le premier jour et 12 000 le lendemain, selon Patrice Faure, qui promet d’assurer une sécurité maximale tout en minimisant les contraintes pour les Parisiens."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/visite-du-pape-le-prefet-de-police-de-paris-detaille-le-dispositif-de-securite_6765863_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/visite-du-pape-le-prefet-de-police-de-paris-detaille-le-dispositif-de-securite_6765863_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/visite-du-pape-le-prefet-de-police-de-paris-detaille-le-dispositif-de-securite_6765863_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/402/0/4822/2411/644/322/60/0/f4716d4_ftp-1-e8mq5l0udmsx-2026-09-03t101332z-1327239901-rc2lbnab0k3z-rtrmadp-3-pope-france.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant une église parisienne, le 3 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Benoit Tessier / REUTERS"
+      }
+    ],
+    "credit": "Benoit Tessier / REUTERS"
+  }
+}

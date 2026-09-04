@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T22:07:40.213171+00:00",
+  "_id": "b7d81e939716",
+  "brut": {
+    "title": "Crise des migrants à Ceuta : la colère monte",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Crise des migrants à Ceuta : la colère monte"
+    },
+    "summary": "Un mois après l'arrivée de plus de 70 000 migrants à Ceuta (Espagne), des milliers de migrants s’entassent toujours sur la plage et dans les rues, espérant voir leur demande de droit d’asile enregistrée. La situation devient très tendue avec les habitants de l’enclave exaspérés par les tensions et la misère environnante.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un mois après l'arrivée de plus de 70 000 migrants à Ceuta (Espagne), des milliers de migrants s’entassent toujours sur la plage et dans les rues, espérant voir leur demande de droit d’asile enregistrée. La situation devient très tendue avec les habitants de l’enclave exaspérés par les tensions et la misère environnante."
+    },
+    "published": "Fri, 04 Sep 2026 21:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      19,
+      0,
+      1,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/crise-des-migrants-a-ceuta-la-colere-monte_8177585.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/iLqWNM1gTBpLykJk-LjoZLIdcfM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9ae5fd33410571243259.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/crise-des-migrants-a-ceuta-la-colere-monte_8177585.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/crise-des-migrants-a-ceuta-la-colere-monte_8177585.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
