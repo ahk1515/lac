@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T08:29:29.916472+00:00",
+  "_id": "5d976dc6c93b",
+  "brut": {
+    "title": "Avec la sécheresse, la récolte de maïs s'effondre en Europe, de la Hongrie à la France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avec la sécheresse, la récolte de maïs s'effondre en Europe, de la Hongrie à la France"
+    },
+    "summary": "Frappée par les sécheresses à répétition et les températures extrêmes, la Hongrie devrait devenir importatrice nette de maïs en 2026. Un basculement qui touche aussi d'autres grands producteurs européens, dont la France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Frappée par les sécheresses à répétition et les températures extrêmes, la Hongrie devrait devenir importatrice nette de maïs en 2026. Un basculement qui touche aussi d'autres grands producteurs européens, dont la France."
+    },
+    "published": "Fri, 04 Sep 2026 09:37:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      7,
+      37,
+      45,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/avec-la-secheresse-la-recolte-de-mais-s-effondre-en-europe-de-la-hongrie-a-la-france_8168423.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/R9UGnioHLKnvFNKEljEvJxX8g1E/0x247:4752x2920/432x243/filters:format(jpg)/2026/09/03/6a99631f325ea885858558.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/avec-la-secheresse-la-recolte-de-mais-s-effondre-en-europe-de-la-hongrie-a-la-france_8168423.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/avec-la-secheresse-la-recolte-de-mais-s-effondre-en-europe-de-la-hongrie-a-la-france_8168423.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

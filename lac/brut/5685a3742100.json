@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T08:29:29.917129+00:00",
+  "_id": "5685a3742100",
+  "brut": {
+    "title": "Hugging Face, la start-up française de l'IA rachetée 13 milliards de dollars par Nvidia",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Hugging Face, la start-up française de l'IA rachetée 13 milliards de dollars par Nvidia"
+    },
+    "summary": "Le rachat de Hugging Face par Nvidia illustre l’importance stratégique de l’IA ouverte, dont la plateforme française est devenue une référence mondiale. Une opération qui souligne aussi la difficulté de la France à retenir ses champions technologiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le rachat de Hugging Face par Nvidia illustre l’importance stratégique de l’IA ouverte, dont la plateforme française est devenue une référence mondiale. Une opération qui souligne aussi la difficulté de la France à retenir ses champions technologiques."
+    },
+    "published": "Fri, 04 Sep 2026 08:05:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      6,
+      5,
+      1,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/hugging-face-la-start-up-francaise-de-l-ia-rachetee-13-milliards-de-dollars-par-nvidia_8147414.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/PNKkMaZXM2f_KbPhhEtZogYbwbA/0x111:7114x4113/432x243/filters:format(jpg)/2026/09/04/6a9a4bf74cd14885662925.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/hugging-face-la-start-up-francaise-de-l-ia-rachetee-13-milliards-de-dollars-par-nvidia_8147414.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/hugging-face-la-start-up-francaise-de-l-ia-rachetee-13-milliards-de-dollars-par-nvidia_8147414.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

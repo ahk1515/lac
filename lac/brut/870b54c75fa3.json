@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T08:29:29.567105+00:00",
+  "_id": "870b54c75fa3",
+  "brut": {
+    "title": "La Corée du Sud envisage de contribuer à sécuriser le détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Corée du Sud envisage de contribuer à sécuriser le détroit d’Ormuz"
+    },
+    "published": "Fri, 04 Sep 2026 08:02:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      6,
+      2,
+      31,
+      4,
+      247,
+      0
+    ],
+    "summary": "Soucieuse de préserver sa défense face à la Corée du Nord, Séoul envisage d’engager des moyens militaires à Ormuz, alors que la pression américaine s’intensifie sur ses alliés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soucieuse de préserver sa défense face à la Corée du Nord, Séoul envisage d’engager des moyens militaires à Ormuz, alors que la pression américaine s’intensifie sur ses alliés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/la-coree-du-sud-envisage-de-contribuer-a-securiser-le-detroit-d-ormuz_6765734_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/la-coree-du-sud-envisage-de-contribuer-a-securiser-le-detroit-d-ormuz_6765734_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/la-coree-du-sud-envisage-de-contribuer-a-securiser-le-detroit-d-ormuz_6765734_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/31/391/0/4696/2348/644/322/60/0/f4f33f8_ftp-1-84aew1f6ru3k-2026-08-31t175100z-942363201-rc2i9nahptc6-rtrmadp-3-iran-crisis-oman-hormuz.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Navires près du détroit d’Ormuz, vus depuis Musandam, à Oman, le 31 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

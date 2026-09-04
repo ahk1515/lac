@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T08:29:29.566467+00:00",
+  "_id": "e0333aba0cfd",
+  "brut": {
+    "title": "« Dragon Ball » dans « Le Monde », du « Club Dorothée » aux accords entre chefs d’Etat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Dragon Ball » dans « Le Monde », du « Club Dorothée » aux accords entre chefs d’Etat"
+    },
+    "published": "Fri, 04 Sep 2026 10:00:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      8,
+      0,
+      7,
+      4,
+      247,
+      0
+    ],
+    "summary": "L’Arabie saoudite prévoit de créer trois parcs d’attractions près de Paris, dont l’un d’entre eux sera consacré à l’univers du manga d’Akira Toriyama. Le quotidien du soir mentionnait « Dragon Ball » pour la première fois le 27 mars 1989, alors que l’œuvre remportait déjà l’adhésion des jeunes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite prévoit de créer trois parcs d’attractions près de Paris, dont l’un d’entre eux sera consacré à l’univers du manga d’Akira Toriyama. Le quotidien du soir mentionnait « Dragon Ball » pour la première fois le 27 mars 1989, alors que l’œuvre remportait déjà l’adhésion des jeunes."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/04/dragon-ball-dans-le-monde-du-club-dorothee-aux-accords-entre-chefs-d-etat_6765744_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/04/dragon-ball-dans-le-monde-du-club-dorothee-aux-accords-entre-chefs-d-etat_6765744_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/04/dragon-ball-dans-le-monde-du-club-dorothee-aux-accords-entre-chefs-d-etat_6765744_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/30/0/1024/512/644/322/60/0/2f64fcb_upload-1-uddt3fyzpdgu-010-a7a21040-305.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A droite, le personnage principal de « Dragon Ball Z », Son Goku."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Photo12 via AFP"
+      }
+    ],
+    "credit": "Photo12 via AFP"
+  }
+}

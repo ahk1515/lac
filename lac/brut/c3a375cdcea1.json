@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T08:29:29.916021+00:00",
+  "_id": "c3a375cdcea1",
+  "brut": {
+    "title": "La Finlande se prépare au pire en cas d'attaque de la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Finlande se prépare au pire en cas d'attaque de la Russie"
+    },
+    "summary": "Face à la menace de la Russie, la Finlande a mis en place la plus grande opération de sécurité civile depuis la Seconde Guerre mondiale. Un abri a été creusé dans la roche pour accueillir la population en cas d'attaque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face à la menace de la Russie, la Finlande a mis en place la plus grande opération de sécurité civile depuis la Seconde Guerre mondiale. Un abri a été creusé dans la roche pour accueillir la population en cas d'attaque."
+    },
+    "published": "Fri, 04 Sep 2026 10:13:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      8,
+      13,
+      6,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-finlande-se-prepare-au-pire-en-cas-d-attaque-de-la-russie_8176637.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/658kh4NwhWn9fn-4-cL9wzQ6XGo/93x0:1442x759/432x243/filters:format(jpg)/2026/09/04/6a9a7cefd45be696523417.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-finlande-se-prepare-au-pire-en-cas-d-attaque-de-la-russie_8176637.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-finlande-se-prepare-au-pire-en-cas-d-attaque-de-la-russie_8176637.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

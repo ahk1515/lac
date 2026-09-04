@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T08:29:29.567281+00:00",
+  "_id": "c8c124d89c6a",
+  "brut": {
+    "title": "Après la tentative d’attentat à Leipzig, en Allemagne, l’Europe cherche à dissuader la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après la tentative d’attentat à Leipzig, en Allemagne, l’Europe cherche à dissuader la Russie"
+    },
+    "published": "Fri, 04 Sep 2026 07:50:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      5,
+      50,
+      12,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 09:07:04 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      7,
+      7,
+      4,
+      4,
+      247,
+      0
+    ],
+    "summary": "Les actes hostiles attribués à Moscou se multiplient sur le Vieux Continent. Le 3 septembre, Copenhague a accusé Moscou de préparer des « actions de sabotage » contre l’industrie de défense danoise. Pourtant, les moyens de riposte divisent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les actes hostiles attribués à Moscou se multiplient sur le Vieux Continent. Le 3 septembre, Copenhague a accusé Moscou de préparer des « actions de sabotage » contre l’industrie de défense danoise. Pourtant, les moyens de riposte divisent."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/apres-la-tentative-d-attentat-de-leipzig-en-allemagne-l-europe-cherche-a-dissuader-la-russie_6765732_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/apres-la-tentative-d-attentat-de-leipzig-en-allemagne-l-europe-cherche-a-dissuader-la-russie_6765732_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/apres-la-tentative-d-attentat-de-leipzig-en-allemagne-l-europe-cherche-a-dissuader-la-russie_6765732_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/1019/0/6823/3411/644/322/60/0/8e62743_ftp-1-qegoqibpznx9-5988889-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes attendent à l’entrée du consulat général de Russie, à Bad Godesberg (Allemagne), le 3 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "INA FASSBENDER/AFP"
+      }
+    ],
+    "credit": "INA FASSBENDER/AFP"
+  }
+}

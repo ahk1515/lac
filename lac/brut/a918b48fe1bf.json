@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T08:29:29.567858+00:00",
+  "_id": "a918b48fe1bf",
+  "brut": {
+    "title": "Le géant espagnol Mango, du petit commerce de mode à la mort tragique de son fondateur",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le géant espagnol Mango, du petit commerce de mode à la mort tragique de son fondateur"
+    },
+    "published": "Fri, 04 Sep 2026 06:20:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      4,
+      20,
+      4,
+      4,
+      247,
+      0
+    ],
+    "summary": "En mai, la justice catalane a fait interpeller Jonathan Andic pour homicide, soupçonnant le fils du fondateur de l’entreprise de prêt-à-porter d’avoir poussé son père de 71 ans dans un ravin. Une fin aussi surprenante que tragique pour Isak Andic. En près de quarante ans, ce fils d’immigrés turcs a transformé son petit commerce de fripes à Barcelone en un empire textile florissant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En mai, la justice catalane a fait interpeller Jonathan Andic pour homicide, soupçonnant le fils du fondateur de l’entreprise de prêt-à-porter d’avoir poussé son père de 71 ans dans un ravin. Une fin aussi surprenante que tragique pour Isak Andic. En près de quarante ans, ce fils d’immigrés turcs a transformé son petit commerce de fripes à Barcelone en un empire textile florissant."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/04/le-geant-espagnol-mango-du-petit-commerce-de-mode-a-la-mort-tragique-de-son-fondateur_6765629_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/04/le-geant-espagnol-mango-du-petit-commerce-de-mode-a-la-mort-tragique-de-son-fondateur_6765629_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/04/le-geant-espagnol-mango-du-petit-commerce-de-mode-a-la-mort-tragique-de-son-fondateur_6765629_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/62/0/1500/750/644/322/60/0/59cea43_ftp-1-jmg8l9tny7gg-440625-3493044.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Isak Andic avec son fils, Jonathan Andic, pour le défilé de la collection printemps-été 2014, à Barcelone, en 2013."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alamy/Abaca"
+      }
+    ],
+    "credit": "Alamy/Abaca"
+  }
+}

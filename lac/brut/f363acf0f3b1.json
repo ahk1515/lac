@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T08:29:29.567453+00:00",
+  "_id": "f363acf0f3b1",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : deux policiers tués lors d’une attaque russe dans l’oblast de Dnipropetrovsk, affirment les autorités militaires locales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : deux policiers tués lors d’une attaque russe dans l’oblast de Dnipropetrovsk, affirment les autorités militaires locales"
+    },
+    "published": "Fri, 04 Sep 2026 06:57:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      4,
+      57,
+      19,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 10:22:00 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      8,
+      22,
+      0,
+      4,
+      247,
+      0
+    ],
+    "summary": "Une attaque de drones russes, tôt vendredi, a tué deux policiers et blessé un troisième, dans la commune rurale de Bohdanivka, située dans l’est du pays, a fait savoir Mykola Loukachouk, chef du conseil de l’oblast de Dnipropetrovsk.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une attaque de drones russes, tôt vendredi, a tué deux policiers et blessé un troisième, dans la commune rurale de Bohdanivka, située dans l’est du pays, a fait savoir Mykola Loukachouk, chef du conseil de l’oblast de Dnipropetrovsk."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-dit-attendre-a-kiev-des-emissaires-americains-apres-leur-passage-a-moscou_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-dit-attendre-a-kiev-des-emissaires-americains-apres-leur-passage-a-moscou_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-dit-attendre-a-kiev-des-emissaires-americains-apres-leur-passage-a-moscou_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/420/0/5039/2519/644/322/60/0/6a2bb11_ftp-1-vyfh77rbqrys-2026-09-03t182910z-1912706302-rc2ubna743fr-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une attaque de drones russes, à Kiev, le 3 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anatolii Stepanov/REUTERS"
+      }
+    ],
+    "credit": "Anatolii Stepanov/REUTERS"
+  }
+}
