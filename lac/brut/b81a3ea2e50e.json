@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T15:47:45.848726+00:00",
+  "_id": "b81a3ea2e50e",
+  "brut": {
+    "title": "Kiev : les images du siège du service de sécurité ukrainien après la frappe de drone russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Kiev : les images du siège du service de sécurité ukrainien après la frappe de drone russe"
+    },
+    "published": "Fri, 04 Sep 2026 17:34:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      15,
+      34,
+      5,
+      4,
+      247,
+      0
+    ],
+    "summary": "Le drone visait « directement le bureau du chef du SBU » dans le bâtiment, selon Volodymyr Zelensky.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le drone visait « directement le bureau du chef du SBU » dans le bâtiment, selon Volodymyr Zelensky."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/04/kiev-les-images-du-siege-du-service-de-securite-ukrainien-apres-la-frappe-de-drone-russe_6765822_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/04/kiev-les-images-du-siege-du-service-de-securite-ukrainien-apres-la-frappe-de-drone-russe_6765822_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/04/kiev-les-images-du-siege-du-service-de-securite-ukrainien-apres-la-frappe-de-drone-russe_6765822_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/403/0/4204/2102/644/322/60/0/3a6edd9_ftp-1-og3e2a6ukhg0-2026-09-04t141856z-481125835-rc2dcnay6s1n-rtrmadp-3-ukraine-crisis-atack-sbu.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gleb Garanich / REUTERS"
+      }
+    ],
+    "credit": "Gleb Garanich / REUTERS"
+  }
+}

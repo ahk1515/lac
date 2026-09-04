@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T15:47:45.850518+00:00",
+  "_id": "89ef9afab44a",
+  "brut": {
+    "title": "Au Brésil, un scandale politico-financier fait vaciller le Tribunal suprême fédéral",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, un scandale politico-financier fait vaciller le Tribunal suprême fédéral"
+    },
+    "published": "Fri, 04 Sep 2026 14:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      12,
+      0,
+      3,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 15:01:46 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      13,
+      1,
+      46,
+      4,
+      247,
+      0
+    ],
+    "summary": "Le juge Alexandre de Moraes, responsable de la condamnation de l’ancien président d’extrême droite Jair Bolsonaro, est soupçonné de collusion avec le banquier Daniel Vorcaro, en prison depuis le 4 mars dans le cadre de l’affaire Master.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le juge Alexandre de Moraes, responsable de la condamnation de l’ancien président d’extrême droite Jair Bolsonaro, est soupçonné de collusion avec le banquier Daniel Vorcaro, en prison depuis le 4 mars dans le cadre de l’affaire Master."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-un-scandale-politico-financier-fait-vaciller-le-tribunal-supreme-federal_6765786_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-un-scandale-politico-financier-fait-vaciller-le-tribunal-supreme-federal_6765786_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-un-scandale-politico-financier-fait-vaciller-le-tribunal-supreme-federal_6765786_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/341/0/4099/2049/644/322/60/0/558179d_ftp-1-zcqmyasr84uq-5980969-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Alexandre de Moraes, juge à la Cour suprême du Brésil, lors d’une audience à la Cour suprême fédérale, à Brasilia, le 2 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EVARISTO SA/AFP"
+      }
+    ],
+    "credit": "EVARISTO SA/AFP"
+  }
+}

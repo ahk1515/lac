@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T15:47:45.850130+00:00",
+  "_id": "52fa7222c4ba",
+  "brut": {
+    "title": "En Suisse, l’ombre de Moscou sur un vote crucial pour la neutralité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Suisse, l’ombre de Moscou sur un vote crucial pour la neutralité"
+    },
+    "published": "Fri, 04 Sep 2026 15:03:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      13,
+      3,
+      7,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 17:32:04 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      15,
+      32,
+      4,
+      4,
+      247,
+      0
+    ],
+    "summary": "Le 27 septembre, les citoyens sont appelés à se prononcer sur une initiative populaire de la droite souverainiste visant à sanctuariser une neutralité plus stricte, qui empêcherait par exemple Berne de sanctionner un pays belligérant, comme la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 27 septembre, les citoyens sont appelés à se prononcer sur une initiative populaire de la droite souverainiste visant à sanctuariser une neutralité plus stricte, qui empêcherait par exemple Berne de sanctionner un pays belligérant, comme la Russie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/en-suisse-l-ombre-de-moscou-sur-un-vote-crucial-pour-la-neutralite_6765793_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/en-suisse-l-ombre-de-moscou-sur-un-vote-crucial-pour-la-neutralite_6765793_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/en-suisse-l-ombre-de-moscou-sur-un-vote-crucial-pour-la-neutralite_6765793_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/572/0/5000/2500/644/322/60/0/03d3c77_ftp-1-8i3sz27srmdp-5946423-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le drapeau présidentiel russe brandi devant le Parlement suisse avant une manifestation des partisans de l’initiative populaire « Préserver la neutralité suisse », à Berne, le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FABRICE COFFRINI/AFP"
+      }
+    ],
+    "credit": "FABRICE COFFRINI/AFP"
+  }
+}

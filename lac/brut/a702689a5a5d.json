@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T15:47:45.851602+00:00",
+  "_id": "a702689a5a5d",
+  "brut": {
+    "title": "Royaume-Uni : démission de deux responsables du parti d’extrême droite Reform UK, mis en cause dans un reportage compromettant sur son financement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Royaume-Uni : démission de deux responsables du parti d’extrême droite Reform UK, mis en cause dans un reportage compromettant sur son financement"
+    },
+    "published": "Fri, 04 Sep 2026 12:01:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      10,
+      1,
+      28,
+      4,
+      247,
+      0
+    ],
+    "summary": "Dans un reportage filmé en caméra cachée et diffusé sur Channel 4, James Orr et Dan Jukes sont accusés d’avoir tenté de contourner la loi électorale afin de percevoir les 500 000 livres sterling d’un donateur américain pour le parti.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans un reportage filmé en caméra cachée et diffusé sur Channel 4, James Orr et Dan Jukes sont accusés d’avoir tenté de contourner la loi électorale afin de percevoir les 500 000 livres sterling d’un donateur américain pour le parti."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/royaume-uni-demission-de-deux-responsables-du-parti-d-extreme-droite-reform-uk-mis-en-cause-dans-un-reportage-compromettant-sur-son-financement_6765769_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/royaume-uni-demission-de-deux-responsables-du-parti-d-extreme-droite-reform-uk-mis-en-cause-dans-un-reportage-compromettant-sur-son-financement_6765769_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/royaume-uni-demission-de-deux-responsables-du-parti-d-extreme-droite-reform-uk-mis-en-cause-dans-un-reportage-compromettant-sur-son-financement_6765769_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/538/0/5000/2500/644/322/60/0/457960b_ftp-1-wgpl1hhxckpu-5993251-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le leader du parti Reform UK, Nigel Farage, au centre, avec son conseiller Dan Jukes, à gauche, à Londres, le 30 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CARLOS JASSO / AFP"
+      }
+    ],
+    "credit": "CARLOS JASSO / AFP"
+  }
+}

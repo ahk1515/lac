@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T15:47:46.176610+00:00",
+  "_id": "7b59b0096668",
+  "brut": {
+    "title": "Ceuta, l'exaspération des habitants face aux migrants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ceuta, l'exaspération des habitants face aux migrants"
+    },
+    "summary": "Un mois après l’arrivée de plus de 70.000 migrants à Ceuta, la crise est devenue politique en Espagne. Les habitants de Ceuta manifestent leur exaspération. Face à eux, des milliers de migrants sont toujours bloqués dans l’enclave.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un mois après l’arrivée de plus de 70.000 migrants à Ceuta, la crise est devenue politique en Espagne. Les habitants de Ceuta manifestent leur exaspération. Face à eux, des milliers de migrants sont toujours bloqués dans l’enclave."
+    },
+    "published": "Fri, 04 Sep 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      15,
+      0,
+      2,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-l-exasperation-des-habitants-face-aux-migrants_8176994.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/crcutpUvjEa_8B27C4FQM8jSatg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9aa4c58030e352554870.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-l-exasperation-des-habitants-face-aux-migrants_8176994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/ceuta-l-exasperation-des-habitants-face-aux-migrants_8176994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

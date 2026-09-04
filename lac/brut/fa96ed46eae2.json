@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T15:47:46.177043+00:00",
+  "_id": "fa96ed46eae2",
+  "brut": {
+    "title": "Le siège des services de sécurité ukrainiens touché par une frappe russe dans le centre de Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le siège des services de sécurité ukrainiens touché par une frappe russe dans le centre de Kiev"
+    },
+    "summary": "Le président Volodymyr Zelensky affirme que le drone était dirigé directement vers le bureau du chef du service, Oleksandr Poklad. Celui-ci est en vie, a précisé le président ukrainien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président Volodymyr Zelensky affirme que le drone était dirigé directement vers le bureau du chef du service, Oleksandr Poklad. Celui-ci est en vie, a précisé le président ukrainien."
+    },
+    "published": "Fri, 04 Sep 2026 17:13:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      15,
+      13,
+      29,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-siege-des-services-de-securite-ukrainiens-touche-par-une-frappe-russe-dans-le-centre-de-kiev_8177279.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yFvU6QoY8E1-dydkUPcPjPhPzEQ/0x19:869x508/432x243/filters:format(jpg)/2026/09/04/6a9ad3bccaa9d583130798.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-siege-des-services-de-securite-ukrainiens-touche-par-une-frappe-russe-dans-le-centre-de-kiev_8177279.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-siege-des-services-de-securite-ukrainiens-touche-par-une-frappe-russe-dans-le-centre-de-kiev_8177279.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

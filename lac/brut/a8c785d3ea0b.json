@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T15:47:45.851130+00:00",
+  "_id": "a8c785d3ea0b",
+  "brut": {
+    "title": "Quatre civils libérés par Israël transférés par le CICR au Liban",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quatre civils libérés par Israël transférés par le CICR au Liban"
+    },
+    "published": "Fri, 04 Sep 2026 12:49:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      10,
+      49,
+      35,
+      4,
+      247,
+      0
+    ],
+    "summary": "C’est la première fois que des personnes détenues sont libérées depuis qu’ont commencé, en avril, les négociations entre le Liban et Israël, sous l’égide des Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "C’est la première fois que des personnes détenues sont libérées depuis qu’ont commencé, en avril, les négociations entre le Liban et Israël, sous l’égide des Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/quatre-civils-liberes-par-israel-transferes-par-le-cicr-au-liban_6765778_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/quatre-civils-liberes-par-israel-transferes-par-le-cicr-au-liban_6765778_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/quatre-civils-liberes-par-israel-transferes-par-le-cicr-au-liban_6765778_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/542/0/6510/3255/644/322/60/0/10ea46e_ftp-1-wgcqasaeyin5-5993511-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un convoi du Comité international de la Croix-Rouge, en route pour accueillir quatre personnes qui avaient été détenues en Israël, près d’Al-Mansouri (Liban), le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KAWNAT HAJU/AFP"
+      }
+    ],
+    "credit": "KAWNAT HAJU/AFP"
+  }
+}

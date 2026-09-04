@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T15:47:45.849433+00:00",
+  "_id": "509824f2e09e",
+  "brut": {
+    "title": "Au Yémen, plus de 120 morts depuis jeudi dans l’offensive des rebelles houthistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, plus de 120 morts depuis jeudi dans l’offensive des rebelles houthistes"
+    },
+    "published": "Fri, 04 Sep 2026 16:34:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      14,
+      34,
+      44,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 16:41:15 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      14,
+      41,
+      15,
+      4,
+      247,
+      0
+    ],
+    "summary": "Selon les sources militaires gouvernementales, les rebelles cherchent à prendre position aux abords du détroit de Bab Al-Mandab. Des renforts ont été dépêchés à la demande de l’Arabie saoudite pour enrayer leur progression.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les sources militaires gouvernementales, les rebelles cherchent à prendre position aux abords du détroit de Bab Al-Mandab. Des renforts ont été dépêchés à la demande de l’Arabie saoudite pour enrayer leur progression."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/au-yemen-plus-de-120-morts-depuis-jeudi-dans-l-offensive-des-rebelles-houthistes_6765805_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/au-yemen-plus-de-120-morts-depuis-jeudi-dans-l-offensive-des-rebelles-houthistes_6765805_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/au-yemen-plus-de-120-morts-depuis-jeudi-dans-l-offensive-des-rebelles-houthistes_6765805_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/478/0/5734/2867/644/322/60/0/e5761ad_ftp-1-ndk3jjy74yit-2026-08-26t041848z-687459869-rc2n5naklsbo-rtrmadp-3-yemen-religion-prophet.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des combattants houthistes à Sanaa, le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Khaled Abdullah / REUTERS"
+      }
+    ],
+    "credit": "Khaled Abdullah / REUTERS"
+  }
+}

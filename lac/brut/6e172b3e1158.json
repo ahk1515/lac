@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T15:47:46.177465+00:00",
+  "_id": "6e172b3e1158",
+  "brut": {
+    "title": "En Espagne, 45,7°C relevés en Andalousie, un record historique pour un mois de septembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, 45,7°C relevés en Andalousie, un record historique pour un mois de septembre"
+    },
+    "summary": "Le précédent record était également de 45,7°C. Il avait été enregistré à Montoro, également en Andalousie, le 6 septembre 2016.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le précédent record était également de 45,7°C. Il avait été enregistré à Montoro, également en Andalousie, le 6 septembre 2016."
+    },
+    "published": "Fri, 04 Sep 2026 14:38:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      12,
+      38,
+      18,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-espagne-45-7-c-releves-en-andalousie-un-record-historique-pour-un-mois-de-septembre_8177105.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/oL_sCSFN9kMXyUWHTp6kvBhBULE/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9aba1e0b795628301159.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-espagne-45-7-c-releves-en-andalousie-un-record-historique-pour-un-mois-de-septembre_8177105.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-espagne-45-7-c-releves-en-andalousie-un-record-historique-pour-un-mois-de-septembre_8177105.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
