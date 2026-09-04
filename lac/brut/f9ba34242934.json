@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T18:49:22.362098+00:00",
+  "_id": "f9ba34242934",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev prépare une riposte à l’attaque russe contre le siège de son service de sécurité, annonce Volodymyr Zelensky",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev prépare une riposte à l’attaque russe contre le siège de son service de sécurité, annonce Volodymyr Zelensky"
+    },
+    "published": "Fri, 04 Sep 2026 20:42:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      18,
+      42,
+      11,
+      4,
+      247,
+      0
+    ],
+    "summary": "Un drone russe a visé « directement le bureau du chef du SBU », Oleksandr Poklad, dans le centre de Kiev, selon le président ukrainien. Neuf personnes ont été blessées, selon le maire de la capitale ukrainienne. Selon M. Zelensky, le calendrier des opérations sera choisi afin d’obtenir « un résultat concret ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un drone russe a visé « directement le bureau du chef du SBU », Oleksandr Poklad, dans le centre de Kiev, selon le président ukrainien. Neuf personnes ont été blessées, selon le maire de la capitale ukrainienne. Selon M. Zelensky, le calendrier des opérations sera choisi afin d’obtenir « un résultat concret »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-kiev-prepare-une-riposte-a-l-attaque-russe-contre-le-siege-de-son-service-de-securite-annonce-volodymyr-zelensky_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-kiev-prepare-une-riposte-a-l-attaque-russe-contre-le-siege-de-son-service-de-securite-annonce-volodymyr-zelensky_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-kiev-prepare-une-riposte-a-l-attaque-russe-contre-le-siege-de-son-service-de-securite-annonce-volodymyr-zelensky_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/464/0/5046/2523/644/322/60/0/ab4d1ab_ftp-1-kouadu0u1wqh-2026-09-04t142059z-1953815339-rc2dcna8cis9-rtrmadp-3-ukraine-crisis-atack-sbu.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers interviennent au siège du service de sécurité d’Ukraine, à Kiev, le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gleb Garanich / REUTERS"
+      }
+    ],
+    "credit": "Gleb Garanich / REUTERS"
+  }
+}

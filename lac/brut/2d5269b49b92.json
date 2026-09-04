@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T18:49:23.099713+00:00",
+  "_id": "2d5269b49b92",
+  "brut": {
+    "title": "CARTE. Découvrez le parcours que va emprunter le pape Léon XIV lors de sa visite historique à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "CARTE. Découvrez le parcours que va emprunter le pape Léon XIV lors de sa visite historique à Paris"
+    },
+    "summary": "Le souverain pontife doit traverser une partie de la rive gauche en papamobile vendredi 25 septembre, avant de rejoindre Notre-Dame de Paris, révèle France Télévisions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le souverain pontife doit traverser une partie de la rive gauche en papamobile vendredi 25 septembre, avant de rejoindre Notre-Dame de Paris, révèle France Télévisions."
+    },
+    "published": "Fri, 04 Sep 2026 19:00:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      17,
+      0,
+      41,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/carte-decouvrez-le-parcours-que-va-emprunter-le-pape-leon-xiv-lors-de-sa-visite-historique-a-paris_8176799.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/EVo4jFIY9als-b58mjNbmtZNzgY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9a8fedbe4a1910243311.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/carte-decouvrez-le-parcours-que-va-emprunter-le-pape-leon-xiv-lors-de-sa-visite-historique-a-paris_8176799.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/carte-decouvrez-le-parcours-que-va-emprunter-le-pape-leon-xiv-lors-de-sa-visite-historique-a-paris_8176799.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

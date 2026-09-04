@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-04T18:49:23.098999+00:00",
+  "_id": "be176a76cd07",
+  "brut": {
+    "title": "Plan d'urgence pour l'agriculture, l'extrême droite en Europe... Les informés de franceinfo du vendredi 4 septembre 2026",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plan d'urgence pour l'agriculture, l'extrême droite en Europe... Les informés de franceinfo du vendredi 4 septembre 2026"
+    },
+    "summary": "Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect."
+    },
+    "published": "Fri, 04 Sep 2026 20:33:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      18,
+      33,
+      46,
+      4,
+      247,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/plan-d-urgence-pour-l-agriculture-l-extreme-droite-en-europe-les-informes-de-franceinfo-du-vendredi-4-septembre-2026_8144999.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/3dX_ZMJMhfOTbeF9LfGiY4HB-mA/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/04/6a9b098d49bf0702633485.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/plan-d-urgence-pour-l-agriculture-l-extreme-droite-en-europe-les-informes-de-franceinfo-du-vendredi-4-septembre-2026_8144999.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/plan-d-urgence-pour-l-agriculture-l-extreme-droite-en-europe-les-informes-de-franceinfo-du-vendredi-4-septembre-2026_8144999.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T18:49:22.363960+00:00",
+  "_id": "eca37d734f16",
+  "brut": {
+    "title": "Israël affirme parachever son contrôle sur le sud du Liban après la prise de la colline d’Ali Taher",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël affirme parachever son contrôle sur le sud du Liban après la prise de la colline d’Ali Taher"
+    },
+    "published": "Fri, 04 Sep 2026 18:35:56 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      16,
+      35,
+      56,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 19:05:38 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      17,
+      5,
+      38,
+      4,
+      247,
+      0
+    ],
+    "summary": "Le Hezbollah, le mouvement chiite libanais, minimise la prise, jeudi par les forces israéliennes, de la hauteur d’Ali-Taher et dénonce une manœuvre électorale du premier ministre de l’Etat hébreu, Benyamin Nétanyahou.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Hezbollah, le mouvement chiite libanais, minimise la prise, jeudi par les forces israéliennes, de la hauteur d’Ali-Taher et dénonce une manœuvre électorale du premier ministre de l’Etat hébreu, Benyamin Nétanyahou."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/liban-israel-annonce-avoir-pris-une-colline-strategique-au-hezbollah-et-parachever-son-controle-sur-la-zone_6765838_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/liban-israel-annonce-avoir-pris-une-colline-strategique-au-hezbollah-et-parachever-son-controle-sur-la-zone_6765838_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/liban-israel-annonce-avoir-pris-une-colline-strategique-au-hezbollah-et-parachever-son-controle-sur-la-zone_6765838_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/645/0/7739/3869/644/322/60/0/08ca4b2_ftp-1-k03gyopytdyj-1de6c43c7dd246a18dc0bdaa97f622cd-0-5ab1177ab0cb4888b5b531db40102705.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Hussein Ayash (centre), libéré d’une prison israélienne, chez sa famille, à Harouf (Liban), le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammed Zaatari/AP Photo"
+      }
+    ],
+    "credit": "Mohammed Zaatari/AP Photo"
+  }
+}

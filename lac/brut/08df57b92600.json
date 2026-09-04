@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T18:49:22.362341+00:00",
+  "_id": "08df57b92600",
+  "brut": {
+    "title": "Un bombardement israélien fait deux morts dans le sud du Liban",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un bombardement israélien fait deux morts dans le sud du Liban"
+    },
+    "published": "Fri, 04 Sep 2026 20:34:57 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      18,
+      34,
+      57,
+      4,
+      247,
+      0
+    ],
+    "summary": "Deux jeunes hommes ont été « pris pour cible alors qu’ils circulaient à moto » à Nabatiyé, non loin de la colline d’Ali-Taher, dont l’armée israélienne affirme avoir pris le contrôle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux jeunes hommes ont été « pris pour cible alors qu’ils circulaient à moto » à Nabatiyé, non loin de la colline d’Ali-Taher, dont l’armée israélienne affirme avoir pris le contrôle."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/04/un-bombardement-israelien-fait-deux-morts-dans-le-sud-du-liban_6765860_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/04/un-bombardement-israelien-fait-deux-morts-dans-le-sud-du-liban_6765860_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/04/un-bombardement-israelien-fait-deux-morts-dans-le-sud-du-liban_6765860_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/208/0/2500/1250/644/322/60/0/a42b24e_ftp-1-n27mfqn5bec8-5994015-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après des bombardements israéliens sur la colline d’Ali-Taher, vue depuis Nabatiyé, au Liban, le 14 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

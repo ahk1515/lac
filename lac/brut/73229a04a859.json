@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T18:49:22.363291+00:00",
+  "_id": "73229a04a859",
+  "brut": {
+    "title": "Le RN et parti britannique Reform UK annoncent un pacte contre l’immigration clandestine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le RN et parti britannique Reform UK annoncent un pacte contre l’immigration clandestine"
+    },
+    "published": "Fri, 04 Sep 2026 19:33:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      17,
+      33,
+      44,
+      4,
+      247,
+      0
+    ],
+    "updated": "Fri, 04 Sep 2026 20:22:21 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      4,
+      18,
+      22,
+      21,
+      4,
+      247,
+      0
+    ],
+    "summary": "Selon le protocole d’accord signé à Birmingham, les demandeurs d’asile arrivant au Royaume-Uni ‌en ayant traversé la Manche seraient placés en ‌détention puis renvoyés en France, dont les autorités se chargeraient de les reconduire dans leur pays ‌d’origine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le protocole d’accord signé à Birmingham, les demandeurs d’asile arrivant au Royaume-Uni ‌en ayant traversé la Manche seraient placés en ‌détention puis renvoyés en France, dont les autorités se chargeraient de les reconduire dans leur pays ‌d’origine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/04/le-rassemblement-national-s-accorde-avec-reform-uk-sur-un-plan-contre-l-immigration-clandestine_6765849_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/04/le-rassemblement-national-s-accorde-avec-reform-uk-sur-un-plan-contre-l-immigration-clandestine_6765849_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/04/le-rassemblement-national-s-accorde-avec-reform-uk-sur-un-plan-contre-l-immigration-clandestine_6765849_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/552/0/5500/2750/644/322/60/0/e188321_ftp-1-i5adval7qiqd-2026-09-04t142618z-434854760-rc2ecnap26wj-rtrmadp-3-britain-politics-reform-conference.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Nigel Farage, chef de file de Reform UK, et Jordan Bardella, président du Rassemblement national, le 4 septembre 2026, à Birmingham (Royaume-Uni)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Isabel Infantes / REUTERS"
+      }
+    ],
+    "credit": "Isabel Infantes / REUTERS"
+  }
+}

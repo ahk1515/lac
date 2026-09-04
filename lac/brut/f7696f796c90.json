@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-04T18:49:22.362726+00:00",
+  "_id": "f7696f796c90",
+  "brut": {
+    "title": "Au Niger, la disparition du journaliste Moussa Kaka provoque de vives inquiétudes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Niger, la disparition du journaliste Moussa Kaka provoque de vives inquiétudes"
+    },
+    "published": "Fri, 04 Sep 2026 20:27:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      18,
+      27,
+      7,
+      4,
+      247,
+      0
+    ],
+    "summary": "Le directeur de la Radio-Télévision Saraounia, ancien correspondant de l’ONG Reporters sans frontières et de Radio France Internationale, n’a pas été vu depuis lundi 31 août. Une disparition qui intervient deux jours après une tentative de putsch à Niamey, dans un contexte de forte dégradation de la liberté de la presse dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le directeur de la Radio-Télévision Saraounia, ancien correspondant de l’ONG Reporters sans frontières et de Radio France Internationale, n’a pas été vu depuis lundi 31 août. Une disparition qui intervient deux jours après une tentative de putsch à Niamey, dans un contexte de forte dégradation de la liberté de la presse dans le pays."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/04/au-niger-la-disparition-du-journaliste-moussa-kaka-provoque-de-vives-inquietudes_6765858_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/04/au-niger-la-disparition-du-journaliste-moussa-kaka-provoque-de-vives-inquietudes_6765858_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/04/au-niger-la-disparition-du-journaliste-moussa-kaka-provoque-de-vives-inquietudes_6765858_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/142/0/2048/1024/644/322/60/0/af06f63_upload-1-7w1ajrcio2sr-000-par2005021367651.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Moussa Kaka, directeur de la Radio-Télévision Saraounia (RTS), à Niamey, le 12 février 2005."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEYLLOU DIALLO/AFP"
+      }
+    ],
+    "credit": "SEYLLOU DIALLO/AFP"
+  }
+}
