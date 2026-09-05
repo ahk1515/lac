@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T14:38:03.594705+00:00",
+  "_id": "1c395420fdf9",
+  "brut": {
+    "title": "Vladimir Poutine, chef de guerre et chef de campagne électorale, prépare la Russie à une escalade militaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vladimir Poutine, chef de guerre et chef de campagne électorale, prépare la Russie à une escalade militaire"
+    },
+    "published": "Sat, 05 Sep 2026 16:30:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      14,
+      30,
+      11,
+      5,
+      248,
+      0
+    ],
+    "summary": "Pour la première fois depuis l’invasion de l’Ukraine en février 2022, les Russes élisent leurs députés entre les 18 et 20 septembre. Orchestré par le Kremlin, ce scrutin n’a pas d’enjeu électoral et est avant tout un instrument pour mobiliser à la guerre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour la première fois depuis l’invasion de l’Ukraine en février 2022, les Russes élisent leurs députés entre les 18 et 20 septembre. Orchestré par le Kremlin, ce scrutin n’a pas d’enjeu électoral et est avant tout un instrument pour mobiliser à la guerre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/vladimir-poutine-chef-de-guerre-et-chef-de-campagne-electorale-prepare-la-russie-a-une-escalade-militaire_6766351_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/vladimir-poutine-chef-de-guerre-et-chef-de-campagne-electorale-prepare-la-russie-a-une-escalade-militaire_6766351_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/vladimir-poutine-chef-de-guerre-et-chef-de-campagne-electorale-prepare-la-russie-a-une-escalade-militaire_6766351_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/577/0/5528/2764/644/322/60/0/eb70a1d_ftp-1-pikcbyuyhxa9-5997187-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur cette photo diffusée par l’agence de presse russe Sputnik, le président russe, Vladimir Poutine, préside une réunion du Conseil de sécurité russe à Moscou, le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MIKHAIL METZEL/AFP"
+      }
+    ],
+    "credit": "MIKHAIL METZEL/AFP"
+  }
+}

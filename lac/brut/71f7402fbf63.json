@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T14:38:03.596547+00:00",
+  "_id": "71f7402fbf63",
+  "brut": {
+    "title": "Tunisie : le journaliste Mohamed Yousfi interpellé avant un passage à la radio, où il devait parler de la crise de l’eau",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Tunisie : le journaliste Mohamed Yousfi interpellé avant un passage à la radio, où il devait parler de la crise de l’eau"
+    },
+    "published": "Sat, 05 Sep 2026 12:55:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      10,
+      55,
+      35,
+      5,
+      248,
+      0
+    ],
+    "updated": "Sat, 05 Sep 2026 12:59:53 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      5,
+      10,
+      59,
+      53,
+      5,
+      248,
+      0
+    ],
+    "summary": "L’interpellation de Mohamed Yousfi survient alors qu’il devait s’exprimer sur la crise de l’eau, dans un contexte de pressions accrues sur les voix critiques en Tunisie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’interpellation de Mohamed Yousfi survient alors qu’il devait s’exprimer sur la crise de l’eau, dans un contexte de pressions accrues sur les voix critiques en Tunisie."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/05/tunisie-le-journaliste-mohamed-yousfi-interpelle-avant-un-passage-a-la-radio-ou-il-devait-parler-de-la-crise-de-l-eau_6766329_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/05/tunisie-le-journaliste-mohamed-yousfi-interpelle-avant-un-passage-a-la-radio-ou-il-devait-parler-de-la-crise-de-l-eau_6766329_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/05/tunisie-le-journaliste-mohamed-yousfi-interpelle-avant-un-passage-a-la-radio-ou-il-devait-parler-de-la-crise-de-l-eau_6766329_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/487/0/5900/2950/644/322/60/0/d1096ba_upload-1-ps4udtszi6ai-2023-01-29t072857z-1907874311-rc270z9x4sy4-rtrmadp-3-tunisia-election.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un policier monte la garde devant un bureau de vote, lors du second tour des élections législatives, à Tunis, le 29 janvier 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ZOUBEIR SOUISSI/REUTERS"
+      }
+    ],
+    "credit": "ZOUBEIR SOUISSI/REUTERS"
+  }
+}

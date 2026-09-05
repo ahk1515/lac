@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T14:38:03.595741+00:00",
+  "_id": "acfd4a40aa1e",
+  "brut": {
+    "title": "En Corée du Sud, un cinéma créatif et talentueux, mais une production en crise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Corée du Sud, un cinéma créatif et talentueux, mais une production en crise"
+    },
+    "published": "Sat, 05 Sep 2026 14:00:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      12,
+      0,
+      26,
+      5,
+      248,
+      0
+    ],
+    "summary": "Le cinéma sud-coréen peine à se sortir d’une baisse de fréquentation des salles depuis la pandémie de Covid-19, qui a poussé les spectateurs vers les plateformes de streaming. La production s’en ressent, notamment à travers la chute du nombre de films réalisés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le cinéma sud-coréen peine à se sortir d’une baisse de fréquentation des salles depuis la pandémie de Covid-19, qui a poussé les spectateurs vers les plateformes de streaming. La production s’en ressent, notamment à travers la chute du nombre de films réalisés."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/05/en-coree-du-sud-un-cinema-creatif-et-talentueux-mais-une-production-en-crise_6766341_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/05/en-coree-du-sud-un-cinema-creatif-et-talentueux-mais-une-production-en-crise_6766341_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/05/en-coree-du-sud-un-cinema-creatif-et-talentueux-mais-une-production-en-crise_6766341_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/704/0/7877/3938/644/322/60/0/ac163d7_upload-1-okhomo03auay-000-a3kf89g.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant la vitrine d’une boulangerie décorée de personnages issus de la série Netflix « KPop Demon Hunters » , qui a remporté deux Oscars, à Séoul, le 17 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JUNG YEON-JE/AFP"
+      }
+    ],
+    "credit": "JUNG YEON-JE/AFP"
+  }
+}

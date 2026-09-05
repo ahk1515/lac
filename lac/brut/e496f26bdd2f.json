@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T14:38:03.595145+00:00",
+  "_id": "e496f26bdd2f",
+  "brut": {
+    "title": "Au Royaume-Uni, l’accès au port de Douvres brièvement perturbé par des manifestants anti-immigration cagoulés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Royaume-Uni, l’accès au port de Douvres brièvement perturbé par des manifestants anti-immigration cagoulés"
+    },
+    "published": "Sat, 05 Sep 2026 15:29:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      13,
+      29,
+      43,
+      5,
+      248,
+      0
+    ],
+    "summary": "Des images diffusées en ligne ont montré des manifestants vêtus de noir affluer vers les routes du port de Douvres, interrompant dans la matinée le trafic maritime avec la France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des images diffusées en ligne ont montré des manifestants vêtus de noir affluer vers les routes du port de Douvres, interrompant dans la matinée le trafic maritime avec la France."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/au-royaume-uni-l-acces-au-port-de-douvres-brievement-perturbe-par-des-manifestants-anti-immigration-cagoules_6766349_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/au-royaume-uni-l-acces-au-port-de-douvres-brievement-perturbe-par-des-manifestants-anti-immigration-cagoules_6766349_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/au-royaume-uni-l-acces-au-port-de-douvres-brievement-perturbe-par-des-manifestants-anti-immigration-cagoules_6766349_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/801/0/4000/2000/644/322/60/0/ca63529_ftp-1-pon9gcdnurjf-cf28e90e8eb24cfc94109e5da2009143-0-1cd7333aa9604d7f8315a1191cc50205.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des manifestants à la gare Dover Priory, à Douvres (Angleterre), le 5 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Oscar Rihll/PA via AP"
+      }
+    ],
+    "credit": "Oscar Rihll/PA via AP"
+  }
+}

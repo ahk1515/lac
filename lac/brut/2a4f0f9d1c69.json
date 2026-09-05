@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T14:38:03.595561+00:00",
+  "_id": "2a4f0f9d1c69",
+  "brut": {
+    "title": "A Monaco, Thierry Lacoste, ex-avocat du prince Albert II, mis en examen pour corruption",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Monaco, Thierry Lacoste, ex-avocat du prince Albert II, mis en examen pour corruption"
+    },
+    "published": "Sat, 05 Sep 2026 14:19:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      12,
+      19,
+      43,
+      5,
+      248,
+      0
+    ],
+    "summary": "Cette mise en cause ouvre un nouvel épisode de la bataille judiciaire qui secoue la principauté depuis la publication, en 2021, des « dossiers du Rocher ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette mise en cause ouvre un nouvel épisode de la bataille judiciaire qui secoue la principauté depuis la publication, en 2021, des « dossiers du Rocher »."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/05/a-monaco-thierry-lacoste-ex-avocat-du-prince-albert-ii-mis-en-examen-pour-corruption_6766344_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/05/a-monaco-thierry-lacoste-ex-avocat-du-prince-albert-ii-mis-en-examen-pour-corruption_6766344_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/05/a-monaco-thierry-lacoste-ex-avocat-du-prince-albert-ii-mis-en-examen-pour-corruption_6766344_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/250/0/2048/1024/644/322/60/0/e7c0de1_ftp-1-le94ltbqdd1i-5996023-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le prince Albert II de Monaco (à gauche) et l’avocat de la famille princière monégasque, Thierry Lacoste (à droite), le 22 juillet 2011 à Monte-Carlo, Monaco."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VALERY HACHE / AFP"
+      }
+    ],
+    "credit": "VALERY HACHE / AFP"
+  }
+}

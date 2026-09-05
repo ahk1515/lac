@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-05T14:38:03.809170+00:00",
+  "_id": "6901e464f4b8",
+  "brut": {
+    "title": "Un drone russe frappe le siège du service de sécurité ukrainien à Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un drone russe frappe le siège du service de sécurité ukrainien à Kiev"
+    },
+    "summary": "Un drone russe a frappé, vendredi 4 septembre, le bâtiment central du SBU, le service de sécurité ukrainien, en plein centre de Kiev. Cette attaque visait, selon Volodymyr Zelensky, le bureau du chef de ce puissant organisme, Oleksandr Poklad.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un drone russe a frappé, vendredi 4 septembre, le bâtiment central du SBU, le service de sécurité ukrainien, en plein centre de Kiev. Cette attaque visait, selon Volodymyr Zelensky, le bureau du chef de ce puissant organisme, Oleksandr Poklad."
+    },
+    "published": "Sat, 05 Sep 2026 10:47:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      8,
+      47,
+      53,
+      5,
+      248,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-frappe-le-siege-du-service-de-securite-ukrainien-a-kiev_8178524.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/o6jARY1n_T6mfnivl4UQp74YV7U/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/05/6a9bd70ea4a00552794050.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-frappe-le-siege-du-service-de-securite-ukrainien-a-kiev_8178524.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-frappe-le-siege-du-service-de-securite-ukrainien-a-kiev_8178524.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
