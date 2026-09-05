@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-05T08:03:40.915410+00:00",
+  "_id": "057dd4e3ef00",
+  "brut": {
+    "title": "L’AfD aux portes du pouvoir en Saxe-Anhalt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’AfD aux portes du pouvoir en Saxe-Anhalt"
+    },
+    "summary": "Quedlinbourg, petite ville touristique du Land de Saxe-Anhalt, en Allemagne, va voter le 6 septembre pour choisir le nouveau président de région. Ulrich Siegmund, le candidat de l’AfD (Alternative pour l’Allemagne), parti d'extrême droite, est en passe de l'emporter. Ce serait une rupture dans l’histoire du pays, où l’extrême droite n’a plus gouverné depuis 1945.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quedlinbourg, petite ville touristique du Land de Saxe-Anhalt, en Allemagne, va voter le 6 septembre pour choisir le nouveau président de région. Ulrich Siegmund, le candidat de l’AfD (Alternative pour l’Allemagne), parti d'extrême droite, est en passe de l'emporter. Ce serait une rupture dans l’histoire du pays, où l’extrême droite n’a plus gouverné depuis 1945."
+    },
+    "published": "Sat, 05 Sep 2026 10:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      8,
+      0,
+      2,
+      5,
+      248,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/politique/l-afd-aux-portes-du-pouvoir-en-saxe-anhalt_8177507.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RrrITnpLhH1ZjQ_hjACHHA32XBY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9ae046e913a271637559.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/politique/l-afd-aux-portes-du-pouvoir-en-saxe-anhalt_8177507.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/politique/l-afd-aux-portes-du-pouvoir-en-saxe-anhalt_8177507.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

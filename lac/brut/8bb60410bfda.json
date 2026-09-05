@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T08:03:40.629216+00:00",
+  "_id": "8bb60410bfda",
+  "brut": {
+    "title": "En Israël, les divisions religieuses entre juifs s’invitent dans la campagne des élections législatives",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Israël, les divisions religieuses entre juifs s’invitent dans la campagne des élections législatives"
+    },
+    "published": "Sat, 05 Sep 2026 10:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      8,
+      0,
+      11,
+      5,
+      248,
+      0
+    ],
+    "summary": "La ville de Jérusalem vit de plus en plus sous la pression des juifs ultraorthodoxes et des sionistes qui souhaitent imposer leurs revendications religieuses.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La ville de Jérusalem vit de plus en plus sous la pression des juifs ultraorthodoxes et des sionistes qui souhaitent imposer leurs revendications religieuses."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/en-israel-les-divisions-religieuses-entre-juifs-s-invitent-dans-la-campagne-des-elections-legislatives_6766314_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/en-israel-les-divisions-religieuses-entre-juifs-s-invitent-dans-la-campagne-des-elections-legislatives_6766314_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/en-israel-les-divisions-religieuses-entre-juifs-s-invitent-dans-la-campagne-des-elections-legislatives_6766314_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/30/0/0/8192/4096/644/322/60/0/81b9d25_ftp-1-kiuhn59szvjc-5952556-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un juif ultraorthodoxe, à Jérusalem, le 30 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ILIA YEFIMOVICH/AFP"
+      }
+    ],
+    "credit": "ILIA YEFIMOVICH/AFP"
+  }
+}

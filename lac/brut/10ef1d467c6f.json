@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T08:03:40.629784+00:00",
+  "_id": "10ef1d467c6f",
+  "brut": {
+    "title": "Jenny Andersson, historienne : « On assiste à un remodelage de l’image de la Suède, qui s’inscrit maintenant dans un axe clairement néoconservateur »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Jenny Andersson, historienne : « On assiste à un remodelage de l’image de la Suède, qui s’inscrit maintenant dans un axe clairement néoconservateur »"
+    },
+    "published": "Sat, 05 Sep 2026 06:00:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      4,
+      0,
+      16,
+      5,
+      248,
+      0
+    ],
+    "updated": "Sat, 05 Sep 2026 06:35:35 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      5,
+      4,
+      35,
+      35,
+      5,
+      248,
+      0
+    ],
+    "summary": "A l’approche des élections législatives suédoises, prévues le 13 septembre, cette spécialiste de la social-démocratie analyse, dans un entretien au « Monde », les évolutions sociétales qui ont marqué la Suède depuis les années 1990.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A l’approche des élections législatives suédoises, prévues le 13 septembre, cette spécialiste de la social-démocratie analyse, dans un entretien au « Monde », les évolutions sociétales qui ont marqué la Suède depuis les années 1990."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/jenny-andersson-historienne-on-assiste-a-un-remodelage-de-l-image-de-la-suede-qui-s-inscrit-maintenant-dans-un-axe-clairement-neoconservateur_6766136_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/jenny-andersson-historienne-on-assiste-a-un-remodelage-de-l-image-de-la-suede-qui-s-inscrit-maintenant-dans-un-axe-clairement-neoconservateur_6766136_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/jenny-andersson-historienne-on-assiste-a-un-remodelage-de-l-image-de-la-suede-qui-s-inscrit-maintenant-dans-un-axe-clairement-neoconservateur_6766136_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/0/0/800/400/644/322/60/0/b40999f_upload-1-qvcyo0ug9pxd-andersson-jenny-foto-upssala-universitet-nyhet.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Jenny Andersson, à l’université d’Uppsala (Suède), en septembre 2020."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Université d’Uppsala"
+      }
+    ],
+    "credit": "Université d’Uppsala"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T08:03:40.629544+00:00",
+  "_id": "55da89e7fb5e",
+  "brut": {
+    "title": "Journalisme d’investigation : quelle place pour les femmes ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Journalisme d’investigation : quelle place pour les femmes ?"
+    },
+    "published": "Sat, 05 Sep 2026 07:00:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      5,
+      0,
+      12,
+      5,
+      248,
+      0
+    ],
+    "summary": "« Festival international de journalisme » (7/7). Etre une femme et journaliste d’investigation, est-ce que ça change quelque chose et pourquoi sont-elles moins nombreuses ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Festival international de journalisme » (7/7). Etre une femme et journaliste d’investigation, est-ce que ça change quelque chose et pourquoi sont-elles moins nombreuses ?"
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/09/05/journalisme-d-investigation-quelle-place-pour-les-femmes_6766174_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/09/05/journalisme-d-investigation-quelle-place-pour-les-femmes_6766174_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/09/05/journalisme-d-investigation-quelle-place-pour-les-femmes_6766174_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/23/250/0/3000/1500/644/322/60/0/882dc7d_upload-1-vjtrp158gim1-festival.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Le Monde"
+      }
+    ],
+    "credit": "Le Monde"
+  }
+}

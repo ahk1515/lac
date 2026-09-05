@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T08:03:40.629409+00:00",
+  "_id": "3e3387a1068b",
+  "brut": {
+    "title": "Au Népal, les recherches se poursuivent pour tenter de localiser de nouveaux survivants dans les tunnels",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Népal, les recherches se poursuivent pour tenter de localiser de nouveaux survivants dans les tunnels"
+    },
+    "published": "Sat, 05 Sep 2026 09:55:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      7,
+      55,
+      38,
+      5,
+      248,
+      0
+    ],
+    "summary": "Les secours poursuivaient samedi leurs recherches dans les tunnels ensevelis du nord du Népal, au lendemain du sauvetage de deux ouvriers qui y étaient bloqués depuis neuf jours. La crue dévastatrice du 26 août a fait au moins 1 325 morts et près de 5 600 disparus dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les secours poursuivaient samedi leurs recherches dans les tunnels ensevelis du nord du Népal, au lendemain du sauvetage de deux ouvriers qui y étaient bloqués depuis neuf jours. La crue dévastatrice du 26 août a fait au moins 1 325 morts et près de 5 600 disparus dans le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/au-nepal-les-recherches-se-poursuivent-pour-tenter-de-localiser-de-nouveaux-survivants-dans-les-tunnels_6766313_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/au-nepal-les-recherches-se-poursuivent-pour-tenter-de-localiser-de-nouveaux-survivants-dans-les-tunnels_6766313_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/au-nepal-les-recherches-se-poursuivent-pour-tenter-de-localiser-de-nouveaux-survivants-dans-les-tunnels_6766313_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/0/0/5518/2759/644/322/60/0/066012e_ftp-1-r9h1gamhwqfu-5994473-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PEDRO PARDO / AFP"
+      }
+    ],
+    "credit": "PEDRO PARDO / AFP"
+  }
+}
