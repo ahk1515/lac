@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T17:55:03.732242+00:00",
+  "_id": "d5e3ad960296",
+  "brut": {
+    "title": "Les Etats-Unis affirment avoir détruit trois pétroliers iraniens en représailles à des tirs contre deux de leurs navires dans le golfe Persique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis affirment avoir détruit trois pétroliers iraniens en représailles à des tirs contre deux de leurs navires dans le golfe Persique"
+    },
+    "published": "Sat, 05 Sep 2026 17:50:33 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      15,
+      50,
+      33,
+      5,
+      248,
+      0
+    ],
+    "updated": "Sat, 05 Sep 2026 19:15:25 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      5,
+      17,
+      15,
+      25,
+      5,
+      248,
+      0
+    ],
+    "summary": "Un porte-avions et un destroyer américains « ont échappé à de multiples attaques iraniennes non provoquées », selon l’armée américaine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un porte-avions et un destroyer américains « ont échappé à de multiples attaques iraniennes non provoquées », selon l’armée américaine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/les-etats-unis-affirment-avoir-detruit-trois-petroliers-iraniens-apres-des-tirs-contre-deux-de-ses-navires-dans-le-golfe-persique_6766361_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/les-etats-unis-affirment-avoir-detruit-trois-petroliers-iraniens-apres-des-tirs-contre-deux-de-ses-navires-dans-le-golfe-persique_6766361_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/les-etats-unis-affirment-avoir-detruit-trois-petroliers-iraniens-apres-des-tirs-contre-deux-de-ses-navires-dans-le-golfe-persique_6766361_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/71/0/1730/865/644/322/60/0/e425269_ftp-1-dxsvmy5yxi9q-5003234-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran d’une vidéo diffusée par le commandement central des Etats-Unis montrant ce que ce dernier présente comme une frappe des forces armées américaines contre un pétrolier iranien, dans le golfe d’Oman, le 5 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CENTCOM via AFP"
+      }
+    ],
+    "credit": "CENTCOM via AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-05T17:55:04.473802+00:00",
+  "_id": "fa668125ced1",
+  "brut": {
+    "title": "L'éditeur de \"Tetris\" fait bloc contre un jeu vidéo mis en ligne par la Maison Blanche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'éditeur de \"Tetris\" fait bloc contre un jeu vidéo mis en ligne par la Maison Blanche"
+    },
+    "summary": "La présidence américaine a créé un jeu intitulé \"Build The Wall\" dont l'objectif est de construire un mur à la frontière très inspiré de la création de The Tetris Company. \"Nous prenons l'atteinte à la propriété intellectuelle très au sérieux\", a fait savoir l'entreprise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La présidence américaine a créé un jeu intitulé \"Build The Wall\" dont l'objectif est de construire un mur à la frontière très inspiré de la création de The Tetris Company. \"Nous prenons l'atteinte à la propriété intellectuelle très au sérieux\", a fait savoir l'entreprise."
+    },
+    "published": "Sat, 05 Sep 2026 18:17:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      16,
+      17,
+      29,
+      5,
+      248,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/l-editeur-de-tetris-fait-bloc-contre-un-jeu-video-mis-en-ligne-par-la-maison-blanche_8178773.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/LtjBMloyOwa84Y8t3lFTJFeeje0/45x0:1601x875/432x243/filters:format(jpg)/2026/09/05/6a9c2b5ca0f39442346206.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/l-editeur-de-tetris-fait-bloc-contre-un-jeu-video-mis-en-ligne-par-la-maison-blanche_8178773.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/l-editeur-de-tetris-fait-bloc-contre-un-jeu-video-mis-en-ligne-par-la-maison-blanche_8178773.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
