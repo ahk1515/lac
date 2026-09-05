@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T21:55:41.045032+00:00",
+  "_id": "2db711cde66a",
+  "brut": {
+    "title": "La Grèce annonce des aides et allégements fiscaux de 2,2 milliards d’euros pour 2027",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Grèce annonce des aides et allégements fiscaux de 2,2 milliards d’euros pour 2027"
+    },
+    "published": "Sat, 05 Sep 2026 21:29:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      19,
+      29,
+      51,
+      5,
+      248,
+      0
+    ],
+    "summary": "Malgré la reprise économique et la croissance affichée de plus de 2 % depuis la fin de la crise économique, l’inflation est rampante et le coût de la vie ne cesse d’augmenter, sans que les salaires suivent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Malgré la reprise économique et la croissance affichée de plus de 2 % depuis la fin de la crise économique, l’inflation est rampante et le coût de la vie ne cesse d’augmenter, sans que les salaires suivent."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/la-grece-annonce-des-aides-et-allegements-fiscaux-de-2-2-milliards-d-euros-pour-2027_6766436_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/la-grece-annonce-des-aides-et-allegements-fiscaux-de-2-2-milliards-d-euros-pour-2027_6766436_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/la-grece-annonce-des-aides-et-allegements-fiscaux-de-2-2-milliards-d-euros-pour-2027_6766436_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/408/0/4928/2464/644/322/60/0/35c0175_ftp-1-06qbofffco4v-5005834-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre grec Kyriakos Mitsotakis prononce un discours lors de l’inauguration de la foire internationale annuelle de Thessalonique, le 5 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAKIS MITROLIDIS / AFP"
+      }
+    ],
+    "credit": "SAKIS MITROLIDIS / AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-05T21:55:41.355834+00:00",
+  "_id": "5a0b27abf643",
+  "brut": {
+    "title": "L'ONU adopte une résolution pour changer notre carte du monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ONU adopte une résolution pour changer notre carte du monde"
+    },
+    "summary": "Longtemps dominée par la projection de Mercator, la représentation du monde déforme les superficies, notamment celles de l'Afrique et du Groenland. L'ONU encourage désormais une cartographie plus fidèle à la réalité. Derrière ces choix géographiques se joue aussi une bataille d'influence entre puissances.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Longtemps dominée par la projection de Mercator, la représentation du monde déforme les superficies, notamment celles de l'Afrique et du Groenland. L'ONU encourage désormais une cartographie plus fidèle à la réalité. Derrière ces choix géographiques se joue aussi une bataille d'influence entre puissances."
+    },
+    "published": "Sat, 05 Sep 2026 21:03:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      19,
+      3,
+      3,
+      5,
+      248,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/l-onu-adopte-une-resolution-pour-changer-notre-carte-du-monde_8179040.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/EBJC1iKUZnQ7qCJ4OQSbgJ0rEsI/0x28:838x499/432x243/filters:format(jpg)/2026/09/05/6a9c67327630f306082820.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/l-onu-adopte-une-resolution-pour-changer-notre-carte-du-monde_8179040.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/l-onu-adopte-une-resolution-pour-changer-notre-carte-du-monde_8179040.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
