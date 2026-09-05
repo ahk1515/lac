@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T03:04:04.136630+00:00",
+  "_id": "0fc2a321f454",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan « visant à mettre fin à la guerre »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan « visant à mettre fin à la guerre »"
+    },
+    "published": "Sat, 05 Sep 2026 01:25:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      4,
+      23,
+      25,
+      8,
+      4,
+      247,
+      0
+    ],
+    "summary": "Un drone russe a frappé, vendredi après-midi, le siège du service de sécurité d’Ukraine, dans le centre de Kiev. Une « escalade majeure », selon la diplomatie ukrainienne. Volodymyr Zelensky a annoncé la préparation d’une riposte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un drone russe a frappé, vendredi après-midi, le siège du service de sécurité d’Ukraine, dans le centre de Kiev. Une « escalade majeure », selon la diplomatie ukrainienne. Volodymyr Zelensky a annoncé la préparation d’une riposte."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_6760568_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_6760568_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_6760568_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/542/0/6500/3250/644/322/60/0/479aa53_ftp-1-lkymkaaxgucs-2026-09-04t193223z-591715852-rc2jcnalktcf-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump s’adresse à la presse depuis la Maison Blanche, à Washington, le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evelyn Hockstein / REUTERS"
+      }
+    ],
+    "credit": "Evelyn Hockstein / REUTERS"
+  }
+}

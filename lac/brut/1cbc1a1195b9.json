@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T03:04:04.136432+00:00",
+  "_id": "1cbc1a1195b9",
+  "brut": {
+    "title": "Aux Etats-Unis, une bataille juridique intense se joue autour du vote par correspondance pour les midterms",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, une bataille juridique intense se joue autour du vote par correspondance pour les midterms"
+    },
+    "published": "Sat, 05 Sep 2026 03:18:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      1,
+      18,
+      6,
+      5,
+      248,
+      0
+    ],
+    "updated": "Sat, 05 Sep 2026 04:16:02 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      5,
+      2,
+      16,
+      2,
+      5,
+      248,
+      0
+    ],
+    "summary": "Une juge fédérale a prolongé, vendredi, le blocage d’un décret de Donald Trump visant à limiter le vote par correspondance lors des élections de mi-mandat, alors que les premiers bulletins ont été envoyés le jour même. L’administration a déjà fait appel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une juge fédérale a prolongé, vendredi, le blocage d’un décret de Donald Trump visant à limiter le vote par correspondance lors des élections de mi-mandat, alors que les premiers bulletins ont été envoyés le jour même. L’administration a déjà fait appel."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/05/aux-etats-unis-une-bataille-juridique-intense-se-joue-autour-du-vote-par-correspondance-pour-les-midterms_6765962_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/aux-etats-unis-une-bataille-juridique-intense-se-joue-autour-du-vote-par-correspondance-pour-les-midterms_6765962_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/05/aux-etats-unis-une-bataille-juridique-intense-se-joue-autour-du-vote-par-correspondance-pour-les-midterms_6765962_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/651/0/7874/3937/644/322/60/0/6dbf45e_ftp-1-wrhgj634y6zr-2026-08-26t153029z-773523816-rc2g2na8oniz-rtrmadp-3-usa-trump-election-lawsuit.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une urne électorale à Boston, dans le Massachusetts (États-Unis), le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Brian Snyder/REUTERS"
+      }
+    ],
+    "credit": "Brian Snyder/REUTERS"
+  }
+}

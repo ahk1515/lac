@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-05T03:04:04.136159+00:00",
+  "_id": "4e20968c7566",
+  "brut": {
+    "title": "Le procès de Lindsay Clancy, accusée de triple infanticide, annulé faute d’unanimité du jury aux Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le procès de Lindsay Clancy, accusée de triple infanticide, annulé faute d’unanimité du jury aux Etats-Unis"
+    },
+    "published": "Sat, 05 Sep 2026 03:18:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      1,
+      18,
+      25,
+      5,
+      248,
+      0
+    ],
+    "updated": "Sat, 05 Sep 2026 03:42:00 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      5,
+      1,
+      42,
+      0,
+      5,
+      248,
+      0
+    ],
+    "summary": "Après quasiment sept jours de délibérations, onze jurés étaient favorables à l’acquittement sur le fondement de l’irresponsabilité pénale, tandis qu’un s’opposait à ce verdict. La femme de 36 ans pourra éventuellement être à nouveau jugée ultérieurement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après quasiment sept jours de délibérations, onze jurés étaient favorables à l’acquittement sur le fondement de l’irresponsabilité pénale, tandis qu’un s’opposait à ce verdict. La femme de 36 ans pourra éventuellement être à nouveau jugée ultérieurement."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/05/le-proces-de-lindsay-clancy-accusee-de-triple-infanticide-annule-faute-d-unanimite-du-jury_6765963_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/05/le-proces-de-lindsay-clancy-accusee-de-triple-infanticide-annule-faute-d-unanimite-du-jury_6765963_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/05/le-proces-de-lindsay-clancy-accusee-de-triple-infanticide-annule-faute-d-unanimite-du-jury_6765963_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/346/0/3000/1500/644/322/60/0/01f9231_ftp-1-b4tu8xwx5o9z-df94438a127c49b5b4dc8442befaa43d-0-f78ed95d4ccf481a844f57e9ed5e563e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lindsay Clancy et son avocat, devant le tribunal de Plymouth (Massachusetts), le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Greg Derr/The Patriot Ledger via AP"
+      }
+    ],
+    "credit": "Greg Derr/The Patriot Ledger via AP"
+  }
+}

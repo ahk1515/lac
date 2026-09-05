@@ -21405,6 +21405,18 @@
     "pays": []
   },
   {
+    "date": "Sat, 05 Sep 2026 00:22:23 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "L'ONU évoque la possibilité d'un \"crime contre l’humanité\" et d'un \"nettoyage ethnique\" commis par Israël après le déplacement de Palestiniens de Cisjordanie",
+    "texte": "Dans un nouveau rapport, le Haut-Commissariat conclut que les forces de sécurité israéliennes ont déplacé de force l'ensemble de la population palestinienne de trois camps de réfugiés en Cisjordanie occupée entre janvier et février 2025 et continuent d'empêcher leur retour.",
+    "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-onu-evoque-la-possibilite-d-un-crime-contre-l-humanite-et-d-un-nettoyage-ethnique-commis-par-israel-apres-le-deplacement-de-palestiniens-de-cisjordanie_8177957.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "e95d2117c2ec",
+    "pays": [
+      "ISR"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -48584,6 +48596,44 @@
     "id": "d626292054d5",
     "pays": [
       "FRA"
+    ]
+  },
+  {
+    "date": "Sat, 05 Sep 2026 03:18:25 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Le procès de Lindsay Clancy, accusée de triple infanticide, annulé faute d’unanimité du jury aux Etats-Unis",
+    "texte": "Après quasiment sept jours de délibérations, onze jurés étaient favorables à l’acquittement sur le fondement de l’irresponsabilité pénale, tandis qu’un s’opposait à ce verdict. La femme de 36 ans pourra éventuellement être à nouveau jugée ultérieurement.",
+    "url": "https://www.lemonde.fr/societe/article/2026/09/05/le-proces-de-lindsay-clancy-accusee-de-triple-infanticide-annule-faute-d-unanimite-du-jury_6765963_3224.html",
+    "id": "4e20968c7566",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Sat, 05 Sep 2026 03:18:06 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Aux Etats-Unis, une bataille juridique intense se joue autour du vote par correspondance pour les midterms",
+    "texte": "Une juge fédérale a prolongé, vendredi, le blocage d’un décret de Donald Trump visant à limiter le vote par correspondance lors des élections de mi-mandat, alors que les premiers bulletins ont été envoyés le jour même. L’administration a déjà fait appel.",
+    "url": "https://www.lemonde.fr/international/article/2026/09/05/aux-etats-unis-une-bataille-juridique-intense-se-joue-autour-du-vote-par-correspondance-pour-les-midterms_6765962_3210.html",
+    "id": "1cbc1a1195b9",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Sat, 05 Sep 2026 01:25:08 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan « visant à mettre fin à la guerre »",
+    "texte": "Un drone russe a frappé, vendredi après-midi, le siège du service de sécurité d’Ukraine, dans le centre de Kiev. Une « escalade majeure », selon la diplomatie ukrainienne. Volodymyr Zelensky a annoncé la préparation d’une riposte.",
+    "url": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_6760568_3210.html",
+    "id": "0fc2a321f454",
+    "pays": [
+      "RUS",
+      "UKR",
+      "USA"
     ]
   }
 ]
