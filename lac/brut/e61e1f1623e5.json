@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T03:03:44.578804+00:00",
+  "_id": "e61e1f1623e5",
+  "brut": {
+    "title": "Les corps des deux pêcheurs français disparus dans le naufrage de leur chalutier ont été retrouvés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les corps des deux pêcheurs français disparus dans le naufrage de leur chalutier ont été retrouvés"
+    },
+    "published": "Sun, 06 Sep 2026 01:27:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      23,
+      27,
+      32,
+      5,
+      248,
+      0
+    ],
+    "updated": "Sun, 06 Sep 2026 01:45:06 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      5,
+      23,
+      45,
+      6,
+      5,
+      248,
+      0
+    ],
+    "summary": "Après plusieurs jours de recherches rendues difficiles par la météo, les plongeurs ont finalement pu remonter les corps grâce à une accalmie au large de Plymouth, au Royaume-Uni.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après plusieurs jours de recherches rendues difficiles par la météo, les plongeurs ont finalement pu remonter les corps grâce à une accalmie au large de Plymouth, au Royaume-Uni."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/06/les-corps-des-deux-pecheurs-francais-disparus-dans-le-naufrage-de-leur-chalutier-ont-ete-retrouves_6766634_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/06/les-corps-des-deux-pecheurs-francais-disparus-dans-le-naufrage-de-leur-chalutier-ont-ete-retrouves_6766634_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/06/les-corps-des-deux-pecheurs-francais-disparus-dans-le-naufrage-de-leur-chalutier-ont-ete-retrouves_6766634_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/355/0/2801/1400/644/322/60/0/8116f7e_upload-1-ndkezebsxqbl-maxnewsworldfive422754.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le port de commerce du Légué, où était basé le chalutier français « Maranello », entre les villes de Saint-Brieuc et Plérin (Côtes-d’Armor), le 25 mars 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marc OLLIVIER/« OUEST-FRANCE »/MAXPPP"
+      }
+    ],
+    "credit": "Marc OLLIVIER/« OUEST-FRANCE »/MAXPPP"
+  }
+}

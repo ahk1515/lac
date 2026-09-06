@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T03:03:44.578934+00:00",
+  "_id": "a5ba164f9304",
+  "brut": {
+    "title": "Isar Aerospace réussit le premier lancement orbital privé depuis l’Europe continentale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Isar Aerospace réussit le premier lancement orbital privé depuis l’Europe continentale"
+    },
+    "published": "Sun, 06 Sep 2026 00:44:22 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      5,
+      22,
+      44,
+      22,
+      5,
+      248,
+      0
+    ],
+    "updated": "Sun, 06 Sep 2026 01:47:52 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      5,
+      23,
+      47,
+      52,
+      5,
+      248,
+      0
+    ],
+    "summary": "L’exploit ouvre la voie à une nouvelle concurrence européenne sur le marché des lancements spatiaux privés, face à des acteurs comme SpaceX.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’exploit ouvre la voie à une nouvelle concurrence européenne sur le marché des lancements spatiaux privés, face à des acteurs comme SpaceX."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/09/06/isar-aerospace-reussit-le-premier-lancement-orbital-prive-depuis-l-europe-continentale_6766601_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/09/06/isar-aerospace-reussit-le-premier-lancement-orbital-prive-depuis-l-europe-continentale_6766601_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/09/06/isar-aerospace-reussit-le-premier-lancement-orbital-prive-depuis-l-europe-continentale_6766601_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/665/0/7972/3986/644/322/60/0/1724347_ftp-1-oocdgt8pjf0m-2026-09-05t214032z-412477254-rc28dnac5xwb-rtrmadp-3-europe-space-norway-launch.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La fusée de l’entreprise allemande Isar Aerospace lors de son décollage depuis une base d’Andoya (Norvège), le 5 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Franziska Kegel/Isar Aerospace via REUTERS"
+      }
+    ],
+    "credit": "Franziska Kegel/Isar Aerospace via REUTERS"
+  }
+}

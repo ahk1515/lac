@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T03:03:44.578167+00:00",
+  "_id": "76d10e3eb810",
+  "brut": {
+    "title": "En Australie-Occidentale, le gouvernement prépare l’avenir après la fermeture annoncée des centrales à charbon publiques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Australie-Occidentale, le gouvernement prépare l’avenir après la fermeture annoncée des centrales à charbon publiques"
+    },
+    "published": "Sun, 06 Sep 2026 05:00:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      3,
+      0,
+      32,
+      6,
+      249,
+      0
+    ],
+    "summary": "La cité minière de Collie, où sont situées trois centrales thermiques, ambitionne d’être un modèle à une transition énergétique et économique réussie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La cité minière de Collie, où sont situées trois centrales thermiques, ambitionne d’être un modèle à une transition énergétique et économique réussie."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/06/en-australie-occidentale-le-gouvernement-prepare-l-avenir-apres-la-fermeture-annoncee-des-centrales-a-charbon-publiques_6766772_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-australie-occidentale-le-gouvernement-prepare-l-avenir-apres-la-fermeture-annoncee-des-centrales-a-charbon-publiques_6766772_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/06/en-australie-occidentale-le-gouvernement-prepare-l-avenir-apres-la-fermeture-annoncee-des-centrales-a-charbon-publiques_6766772_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/0/0/8192/4096/644/322/60/0/063de4d_upload-1-y9wneh67zunr-collie-battery-energy-storage-system-t6a4865.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’installation de stockage d’électricité de Neoen, dont la maintenance est assurée par Tesla, à Collie (Australie), le 15 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILIP GOSTELOW POUR « LE MONDE »"
+      }
+    ],
+    "credit": "PHILIP GOSTELOW POUR « LE MONDE »"
+  }
+}

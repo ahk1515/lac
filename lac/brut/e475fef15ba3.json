@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T03:03:44.578397+00:00",
+  "_id": "e475fef15ba3",
+  "brut": {
+    "title": "« Le Liban a sans doute aujourd’hui le gouvernement le plus respectable de son histoire »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le Liban a sans doute aujourd’hui le gouvernement le plus respectable de son histoire »"
+    },
+    "published": "Sun, 06 Sep 2026 05:00:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      3,
+      0,
+      17,
+      6,
+      249,
+      0
+    ],
+    "summary": "Le premier ministre, Nawaf Salam, ancien président de la Cour internationale de justice, accorde une priorité au droit qui n’a pas d’équivalent dans l’histoire libanaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le premier ministre, Nawaf Salam, ancien président de la Cour internationale de justice, accorde une priorité au droit qui n’a pas d’équivalent dans l’histoire libanaise."
+    },
+    "id": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/06/le-liban-a-sans-doute-aujourd-hui-le-gouvernement-le-plus-respectable-de-son-histoire_6766769_6116995.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/06/le-liban-a-sans-doute-aujourd-hui-le-gouvernement-le-plus-respectable-de-son-histoire_6766769_6116995.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/06/le-liban-a-sans-doute-aujourd-hui-le-gouvernement-le-plus-respectable-de-son-histoire_6766769_6116995.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/0/0/7544/3772/644/322/60/0/15faa8e_upload-1-l7sosdbhzijr-ap26038436096644.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre libanais, Nawaf Salam, visite le village de Tayr Harfa (Liban), le long de la frontière avec Israël, le 7 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MOHAMMED ZAATARI/AP"
+      }
+    ],
+    "credit": "MOHAMMED ZAATARI/AP"
+  }
+}
