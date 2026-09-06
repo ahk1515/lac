@@ -32,7 +32,7 @@
   {
     "pays_a": "ISR",
     "pays_b": "LBN",
-    "co_citations": 52
+    "co_citations": 53
   },
   {
     "pays_a": "FRA",
@@ -156,17 +156,17 @@
   },
   {
     "pays_a": "DEU",
+    "pays_b": "USA",
+    "co_citations": 9
+  },
+  {
+    "pays_a": "DEU",
     "pays_b": "GBR",
     "co_citations": 9
   },
   {
     "pays_a": "GBR",
     "pays_b": "RUS",
-    "co_citations": 8
-  },
-  {
-    "pays_a": "DEU",
-    "pays_b": "USA",
     "co_citations": 8
   },
   {

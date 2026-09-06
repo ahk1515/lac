@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T18:01:51.318153+00:00",
+  "_id": "05de2a0df181",
+  "brut": {
+    "title": "En lançant sa fusée en orbite, la start-up bavaroise Isar Aerospace bouleverse l’écosystème spatial européen",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En lançant sa fusée en orbite, la start-up bavaroise Isar Aerospace bouleverse l’écosystème spatial européen"
+    },
+    "published": "Sun, 06 Sep 2026 19:03:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      17,
+      3,
+      12,
+      6,
+      249,
+      0
+    ],
+    "updated": "Sun, 06 Sep 2026 19:49:54 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      6,
+      17,
+      49,
+      54,
+      6,
+      249,
+      0
+    ],
+    "summary": "La fusée Spectrum a placé sur orbite cinq satellites samedi. Un succès qui permet à l’entreprise allemande de prétendre jouer un rôle de complément à Ariane-6 face à l’américain SpaceX.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La fusée Spectrum a placé sur orbite cinq satellites samedi. Un succès qui permet à l’entreprise allemande de prétendre jouer un rôle de complément à Ariane-6 face à l’américain SpaceX."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/106/0/3840/1920/644/322/60/0/2efa7b7_ftp-1-tvbqpbyt9to1-5011200-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La fusée de l’entreprise allemande Isar Aerospace lors de son décollage depuis la base d’Andoya (Norvège), le 5 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Isar Aerospace/AFP"
+      }
+    ],
+    "credit": "Isar Aerospace/AFP"
+  }
+}

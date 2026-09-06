@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-06T18:01:51.885111+00:00",
+  "_id": "bdf2ceff69e6",
+  "brut": {
+    "title": "En Allemagne, l'AfD remporte une très large victoire en Saxe-Anhalt, une première pour un parti d'extrême droite depuis 1945",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Allemagne, l'AfD remporte une très large victoire en Saxe-Anhalt, une première pour un parti d'extrême droite depuis 1945"
+    },
+    "summary": "Le parti Alternative für Deutschland a récolté près de 44% des voix, selon les premières estimations publiées par les instituts de sondages.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parti Alternative für Deutschland a récolté près de 44% des voix, selon les premières estimations publiées par les instituts de sondages."
+    },
+    "published": "Sun, 06 Sep 2026 18:33:55 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      16,
+      33,
+      55,
+      6,
+      249,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-remporte-une-tres-large-victoire-en-saxe-anhalt-une-premiere-pour-un-parti-d-extreme-droite-depuis-1945_8179994.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ff22MBxKDKtWXRpMxyR8ifrxzd4/0x0:4864x2736/432x243/filters:format(jpg)/2026/09/06/6a9d93a013371571827958.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-remporte-une-tres-large-victoire-en-saxe-anhalt-une-premiere-pour-un-parti-d-extreme-droite-depuis-1945_8179994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-remporte-une-tres-large-victoire-en-saxe-anhalt-une-premiere-pour-un-parti-d-extreme-droite-depuis-1945_8179994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

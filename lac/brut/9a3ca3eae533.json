@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T18:01:51.319237+00:00",
+  "_id": "9a3ca3eae533",
+  "brut": {
+    "title": "Yémen : 141 morts depuis samedi dans les affrontements entre rebelles houthistes et forces gouvernementales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Yémen : 141 morts depuis samedi dans les affrontements entre rebelles houthistes et forces gouvernementales"
+    },
+    "published": "Sun, 06 Sep 2026 17:08:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      15,
+      8,
+      26,
+      6,
+      249,
+      0
+    ],
+    "summary": "Ce bilan porte à plus de 300 le nombre de morts depuis l’offensive lancée jeudi par les houthistes et visant à garder le contrôle de l’accès à la mer Rouge.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce bilan porte à plus de 300 le nombre de morts depuis l’offensive lancée jeudi par les houthistes et visant à garder le contrôle de l’accès à la mer Rouge."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/06/yemen-141-morts-depuis-samedi-dans-les-affrontements-entre-rebelles-houthistes-et-forces-gouvernementales_6767385_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/06/yemen-141-morts-depuis-samedi-dans-les-affrontements-entre-rebelles-houthistes-et-forces-gouvernementales_6767385_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/06/yemen-141-morts-depuis-samedi-dans-les-affrontements-entre-rebelles-houthistes-et-forces-gouvernementales_6767385_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/398/0/4774/2387/644/322/60/0/fe7c208_ftp-1-3bb2fjmrxxhc-5002175-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des forces fidèles au gouvernement yéménite soutenu par l’Arabie saoudite, dans le district de Hays, au sud d’Hodeïda, le 5 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KHALED ZIAD / AFP"
+      }
+    ],
+    "credit": "KHALED ZIAD / AFP"
+  }
+}
