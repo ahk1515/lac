@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T21:57:17.517163+00:00",
+  "_id": "ef73d0da8dda",
+  "brut": {
+    "title": "A Miami, un avion-cargo d’Amazon sort de piste et percute des véhicules, faisant cinq morts et cinq blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Miami, un avion-cargo d’Amazon sort de piste et percute des véhicules, faisant cinq morts et cinq blessés"
+    },
+    "published": "Sun, 06 Sep 2026 22:19:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      20,
+      19,
+      26,
+      6,
+      249,
+      0
+    ],
+    "updated": "Sun, 06 Sep 2026 23:52:57 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      6,
+      21,
+      52,
+      57,
+      6,
+      249,
+      0
+    ],
+    "summary": "Le Boeing 767-300 du vol Prime Air 7598 était en provenance de Porto Rico. Les autorités n’ont pas encore communiqué d’informations concernant d’éventuels blessés ou morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Boeing 767-300 du vol Prime Air 7598 était en provenance de Porto Rico. Les autorités n’ont pas encore communiqué d’informations concernant d’éventuels blessés ou morts."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/06/a-miami-un-avion-cargo-d-amazon-sort-de-piste-et-percute-des-vehicules_6767591_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/06/a-miami-un-avion-cargo-d-amazon-sort-de-piste-et-percute-des-vehicules_6767591_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/06/a-miami-un-avion-cargo-d-amazon-sort-de-piste-et-percute-des-vehicules_6767591_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/500/0/6000/3000/644/322/60/0/382da82_ftp-1-z9fqp0gfjoja-5015153-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un avion-cargo d’Amazon après s’être écrasé à l’aéroport international de Miami, en Floride, le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Joe Raedle/Getty Images/AFP"
+      }
+    ],
+    "credit": "Joe Raedle/Getty Images/AFP"
+  }
+}
