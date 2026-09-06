@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-06T14:57:50.575698+00:00",
+  "_id": "602fe86dd474",
+  "brut": {
+    "title": "En Egypte, une présentatrice télé et 11 autres personnes condamnées à mort pour trafic de drogue",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Egypte, une présentatrice télé et 11 autres personnes condamnées à mort pour trafic de drogue"
+    },
+    "summary": "Sarah Khalifa est connue pour une émission consacrée aux affaires de sécurité et de criminalité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sarah Khalifa est connue pour une émission consacrée aux affaires de sécurité et de criminalité."
+    },
+    "published": "Sun, 06 Sep 2026 15:11:55 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      13,
+      11,
+      55,
+      6,
+      249,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-presentatrice-tv-et-11-autres-personnes-condamnees-a-mort-pour-trafic-de-drogue_8179754.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/1Mvv7ES8WqEC_WTlrHrbz6PIxAM/0x53:1024x629/432x243/filters:format(jpg)/2026/09/06/6a9d5832d06fd818619877.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-presentatrice-tv-et-11-autres-personnes-condamnees-a-mort-pour-trafic-de-drogue_8179754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-presentatrice-tv-et-11-autres-personnes-condamnees-a-mort-pour-trafic-de-drogue_8179754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

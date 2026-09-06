@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T14:57:49.788088+00:00",
+  "_id": "eafd253d8f56",
+  "brut": {
+    "title": "La tournée européenne de Jordan Bardella minée par les polémiques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tournée européenne de Jordan Bardella minée par les polémiques"
+    },
+    "published": "Sun, 06 Sep 2026 05:00:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      3,
+      0,
+      18,
+      6,
+      249,
+      0
+    ],
+    "updated": "Sun, 06 Sep 2026 15:30:22 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      6,
+      13,
+      30,
+      22,
+      6,
+      249,
+      0
+    ],
+    "summary": "Les visites du président du RN au Royaume-Uni et en Italie, vendredi et samedi, destinées à soigner l’image du parti d’extrême droite sur la scène européenne, ont viré au fiasco, achoppant sur les dossiers de l’immigration et de l’aide à l’Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les visites du président du RN au Royaume-Uni et en Italie, vendredi et samedi, destinées à soigner l’image du parti d’extrême droite sur la scène européenne, ont viré au fiasco, achoppant sur les dossiers de l’immigration et de l’aide à l’Ukraine."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/09/06/la-tournee-europeenne-de-jordan-bardella-minee-par-les-polemiques_6766770_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/09/06/la-tournee-europeenne-de-jordan-bardella-minee-par-les-polemiques_6766770_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/09/06/la-tournee-europeenne-de-jordan-bardella-minee-par-les-polemiques_6766770_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/0/0/5000/2500/644/322/60/0/d2ad04c_ftp-1-iagubnkgttx2-5995337-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Jordan Bardella, président du Rassemblement national, lors de la seconde journée de la conférence du parti Reform UK à Birmingham (Royaume-Uni), le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OLI SCARFF/AFP"
+      }
+    ],
+    "credit": "OLI SCARFF/AFP"
+  }
+}

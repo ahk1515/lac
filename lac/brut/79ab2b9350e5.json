@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-06T14:57:50.575316+00:00",
+  "_id": "79ab2b9350e5",
+  "brut": {
+    "title": "\"Fauda\" : l’ultime saison au cœur du traumatisme du 7 octobre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Fauda\" : l’ultime saison au cœur du traumatisme du 7 octobre"
+    },
+    "summary": "Pour sa dernière année, \"Fauda\" s’empare des attaques du 7 octobre. Une ultime saison pour la série israélienne qui dure depuis 11 ans déjà.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour sa dernière année, \"Fauda\" s’empare des attaques du 7 octobre. Une ultime saison pour la série israélienne qui dure depuis 11 ans déjà."
+    },
+    "published": "Sun, 06 Sep 2026 16:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      14,
+      0,
+      1,
+      6,
+      249,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/fauda-l-ultime-saison-au-c-ur-du-traumatisme-du-7-octobre_8145110.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vLVbR0Ww4pzumBRJoOzPk4uTb48/0x62:1200x737/432x243/filters:format(jpg)/2026/09/04/6a9a94808b312774534841.jpeg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/fauda-l-ultime-saison-au-c-ur-du-traumatisme-du-7-octobre_8145110.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/fauda-l-ultime-saison-au-c-ur-du-traumatisme-du-7-octobre_8145110.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

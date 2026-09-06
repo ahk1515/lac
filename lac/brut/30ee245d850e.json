@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T14:57:49.787469+00:00",
+  "_id": "30ee245d850e",
+  "brut": {
+    "title": "Une embarcation naviguant vers le Royaume-Unis avec 140 migrants à bord secourue au large de la baie de Seine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une embarcation naviguant vers le Royaume-Unis avec 140 migrants à bord secourue au large de la baie de Seine"
+    },
+    "published": "Sun, 06 Sep 2026 15:15:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      13,
+      15,
+      9,
+      6,
+      249,
+      0
+    ],
+    "summary": "L’embarcation a été prise en charge dans la nuit de samedi à dimanche par plusieurs navires et deux hélicoptères, annonce la préfecture maritime de la Manche et de la mer du Nord, qui juge le lieu de départ « inhabituel pour la zone ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’embarcation a été prise en charge dans la nuit de samedi à dimanche par plusieurs navires et deux hélicoptères, annonce la préfecture maritime de la Manche et de la mer du Nord, qui juge le lieu de départ « inhabituel pour la zone »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/06/une-embarcation-naviguant-vers-le-royaume-unis-avec-140-migrants-a-bord-secourue-au-large-de-la-baie-de-seine_6767305_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/06/une-embarcation-naviguant-vers-le-royaume-unis-avec-140-migrants-a-bord-secourue-au-large-de-la-baie-de-seine_6767305_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/06/une-embarcation-naviguant-vers-le-royaume-unis-avec-140-migrants-a-bord-secourue-au-large-de-la-baie-de-seine_6767305_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/547/0/5696/2848/644/322/60/0/307cab8_ftp-1-yizd1zz9rqye-2026-09-06t082012z-2112781979-rc2idna0zci8-rtrmadp-3-europe-migration-france-britain.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une femme et son enfant tentent de monter à bord d’une embarcation pneumatique pour traverser la Manche et rejoindre la Grande-Bretagne, sur la plage de Petit-Fort-Philippe, à Gravelines (Nord), le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stephanie Lecocq/REUTERS"
+      }
+    ],
+    "credit": "Stephanie Lecocq/REUTERS"
+  }
+}

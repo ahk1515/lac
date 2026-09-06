@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T14:57:49.787560+00:00",
+  "_id": "3d34cda18783",
+  "brut": {
+    "title": "Spectrum : un premier vol orbital historique pour le secteur privé européen",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Spectrum : un premier vol orbital historique pour le secteur privé européen"
+    },
+    "published": "Sun, 06 Sep 2026 13:54:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      11,
+      54,
+      19,
+      6,
+      249,
+      0
+    ],
+    "summary": "La société allemande Isar Aerospace a placé, samedi 5 septembre, une fusée en orbite. Ce lancement réussi, effectué de Norvège, fait suite à plusieurs mois de retards, dus à des problèmes techniques ou de sécurité.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La société allemande Isar Aerospace a placé, samedi 5 septembre, une fusée en orbite. Ce lancement réussi, effectué de Norvège, fait suite à plusieurs mois de retards, dus à des problèmes techniques ou de sécurité."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/06/spectrum-un-premier-vol-orbital-historique-pour-le-secteur-prive-europeen_6767296_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/06/spectrum-un-premier-vol-orbital-historique-pour-le-secteur-prive-europeen_6767296_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/06/spectrum-un-premier-vol-orbital-historique-pour-le-secteur-prive-europeen_6767296_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/120/0/3840/1920/644/322/60/0/2efa7b7_ftp-1-tvbqpbyt9to1-5011200-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HANDOUT / AFP"
+      }
+    ],
+    "credit": "HANDOUT / AFP"
+  }
+}

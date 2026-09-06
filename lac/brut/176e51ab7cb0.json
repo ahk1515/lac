@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T14:57:49.787963+00:00",
+  "_id": "176e51ab7cb0",
+  "brut": {
+    "title": "Au Népal, les autorités répètent que les recherches se poursuivent malgré les difficultés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Népal, les autorités répètent que les recherches se poursuivent malgré les difficultés"
+    },
+    "published": "Sun, 06 Sep 2026 10:27:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      8,
+      27,
+      12,
+      6,
+      249,
+      0
+    ],
+    "updated": "Sun, 06 Sep 2026 11:41:22 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      6,
+      9,
+      41,
+      22,
+      6,
+      249,
+      0
+    ],
+    "summary": "Les secours assurent continuer leurs recherches dans le nord du Népal, onze jours après la crue soudaine qui a causé 1 341 morts et près de 5 000 disparus. Quatre personnes ont été retrouvées vivantes ces deux derniers jours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les secours assurent continuer leurs recherches dans le nord du Népal, onze jours après la crue soudaine qui a causé 1 341 morts et près de 5 000 disparus. Quatre personnes ont été retrouvées vivantes ces deux derniers jours."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/06/au-nepal-les-autorites-repetent-que-les-recherches-se-poursuivent-malgre-les-difficultes_6767059_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/06/au-nepal-les-autorites-repetent-que-les-recherches-se-poursuivent-malgre-les-difficultes_6767059_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/06/au-nepal-les-autorites-repetent-que-les-recherches-se-poursuivent-malgre-les-difficultes_6767059_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/05/544/0/4500/2250/644/322/60/0/9986ee1_ftp-1-qugrvpcbwlk2-2026-09-05t132501z-483500065-rc2ycnatb8a9-rtrmadp-3-nepal-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres de l’équipe de recherche et de sauvetage de l’armée népalaise utilisent des bâtons en bois pour rechercher des survivants sous la boue, à Nuwakot (Népal), le 5 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Adnan Abidi/REUTERS"
+      }
+    ],
+    "credit": "Adnan Abidi/REUTERS"
+  }
+}

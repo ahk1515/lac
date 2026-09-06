@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-06T14:57:50.575948+00:00",
+  "_id": "542e23e2b68a",
+  "brut": {
+    "title": "Guerre en Ukraine, voyage des émissaires américains… le \"8h30 franceinfo\" de Nicolas Tenzer",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine, voyage des émissaires américains… le \"8h30 franceinfo\" de Nicolas Tenzer"
+    },
+    "summary": "Le politologue et spécialiste des relations internationales était l'invité du \"8h30 franceinfo\", dimanche 6 septembre 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le politologue et spécialiste des relations internationales était l'invité du \"8h30 franceinfo\", dimanche 6 septembre 2026."
+    },
+    "published": "Sun, 06 Sep 2026 11:28:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      9,
+      28,
+      38,
+      6,
+      249,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-voyage-des-emissaires-americains-le-8h30-franceinfo-de-nicolas-tenzer_8145068.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/vGkv5IJl6C5dqXfPf6nhhMtPB54/0x3:1190x672/432x243/filters:format(jpg)/2026/09/06/6a9d3162f2623647123309.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-voyage-des-emissaires-americains-le-8h30-franceinfo-de-nicolas-tenzer_8145068.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-voyage-des-emissaires-americains-le-8h30-franceinfo-de-nicolas-tenzer_8145068.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T14:57:49.787126+00:00",
+  "_id": "716dd6cc39f9",
+  "brut": {
+    "title": "Attentat contre la Marche des fiertés de Berlin : le lieu de mémoire vandalisé deux fois en une semaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Attentat contre la Marche des fiertés de Berlin : le lieu de mémoire vandalisé deux fois en une semaine"
+    },
+    "published": "Sun, 06 Sep 2026 16:02:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      14,
+      2,
+      38,
+      6,
+      249,
+      0
+    ],
+    "summary": "Un érable planté dans le parc Tiergarten en hommage aux victimes de l’attentat commis en juillet contre la Marche des fiertés de Berlin a été arraché, une semaine après le vandalisme d’un banc arc-en-ciel voisin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un érable planté dans le parc Tiergarten en hommage aux victimes de l’attentat commis en juillet contre la Marche des fiertés de Berlin a été arraché, une semaine après le vandalisme d’un banc arc-en-ciel voisin."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/06/attentat-contre-la-marche-des-fiertes-de-berlin-le-lieu-de-memoire-vandalise-deux-fois-en-une-semaine_6767343_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/06/attentat-contre-la-marche-des-fiertes-de-berlin-le-lieu-de-memoire-vandalise-deux-fois-en-une-semaine_6767343_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/06/attentat-contre-la-marche-des-fiertes-de-berlin-le-lieu-de-memoire-vandalise-deux-fois-en-une-semaine_6767343_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/1244/0/7461/3730/644/322/60/0/ccf1a29_ftp-1-4ewhyk0jbutl-5011236-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes, dont Alfonso Pantisano, référent de la police de Berlin pour les questions LGBTQ, plantent un arbre en hommage aux victimes de l’attentat de la Marche des fiertés, dans le parc Tiergarten, à Berlin, le 6 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHN MACDOUGALL/AFP"
+      }
+    ],
+    "credit": "JOHN MACDOUGALL/AFP"
+  }
+}
