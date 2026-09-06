@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T08:22:38.109298+00:00",
+  "_id": "16f2b3e5882a",
+  "brut": {
+    "title": "New Covent Garden, le marché aux airs de corne d’abondance qui fournit les restaurants étoilés de Londres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "New Covent Garden, le marché aux airs de corne d’abondance qui fournit les restaurants étoilés de Londres"
+    },
+    "published": "Sun, 06 Sep 2026 10:00:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      8,
+      0,
+      12,
+      6,
+      249,
+      0
+    ],
+    "summary": "Après avoir bénéficié d’une montée en gamme entamée il y a vingt-cinq ans, l’un des trois derniers marchés de gros de fruits et légumes de la capitale britannique veut désormais s’ouvrir au grand public.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après avoir bénéficié d’une montée en gamme entamée il y a vingt-cinq ans, l’un des trois derniers marchés de gros de fruits et légumes de la capitale britannique veut désormais s’ouvrir au grand public."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/06/new-covent-garden-le-marche-aux-airs-de-corne-d-abondance-qui-fournit-les-restaurants-etoiles-de-londres_6767022_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/06/new-covent-garden-le-marche-aux-airs-de-corne-d-abondance-qui-fournit-les-restaurants-etoiles-de-londres_6767022_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/06/new-covent-garden-le-marche-aux-airs-de-corne-d-abondance-qui-fournit-les-restaurants-etoiles-de-londres_6767022_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/10/795/0/5903/2951/644/322/60/0/d2611aa_upload-1-36p3rfgvhdma-000-34q6377.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans l’allée des acheteurs du secteur fruits et légumes du marché de New Covent Garden, à Londres, le 24 avril 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JUSTIN TALLIS/AFP"
+      }
+    ],
+    "credit": "JUSTIN TALLIS/AFP"
+  }
+}

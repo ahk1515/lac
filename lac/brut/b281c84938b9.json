@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T08:22:38.109094+00:00",
+  "_id": "b281c84938b9",
+  "brut": {
+    "title": "Au Kenya, l’alcool contrefait envahit le marché et devient une menace sanitaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Kenya, l’alcool contrefait envahit le marché et devient une menace sanitaire"
+    },
+    "published": "Sun, 06 Sep 2026 10:00:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      8,
+      0,
+      16,
+      6,
+      249,
+      0
+    ],
+    "summary": "Un rapport publié en mai 2025 estime que l’alcool illicite représente 60 % du marché kényan en volume, soit une hausse de 27 % depuis 2022. Des cas d’intoxication sont régulièrement rapportés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un rapport publié en mai 2025 estime que l’alcool illicite représente 60 % du marché kényan en volume, soit une hausse de 27 % depuis 2022. Des cas d’intoxication sont régulièrement rapportés."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/06/au-kenya-l-alcool-contrefait-envahit-le-marche-et-devient-une-menace-sanitaire_6767023_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/06/au-kenya-l-alcool-contrefait-envahit-le-marche-et-devient-une-menace-sanitaire_6767023_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/06/au-kenya-l-alcool-contrefait-envahit-le-marche-et-devient-une-menace-sanitaire_6767023_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/269/0/6000/3000/644/322/60/0/fdba35f_upload-1-xaccpepdegkx-000-33h628y.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un producteur de chang’aa, une eau-de-vie traditionnelle artisanale, dans une distillerie clandestine de Nairobi, le 17 novembre 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AMAURY FALT-BROWN/AFP"
+      }
+    ],
+    "credit": "AMAURY FALT-BROWN/AFP"
+  }
+}

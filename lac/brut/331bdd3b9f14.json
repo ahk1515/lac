@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T08:22:38.109578+00:00",
+  "_id": "331bdd3b9f14",
+  "brut": {
+    "title": "En Indonésie, six aéroports paralysés après l’éruption de l’Anak Krakatoa",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Indonésie, six aéroports paralysés après l’éruption de l’Anak Krakatoa"
+    },
+    "published": "Sun, 06 Sep 2026 08:10:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      6,
+      10,
+      38,
+      6,
+      249,
+      0
+    ],
+    "updated": "Sun, 06 Sep 2026 09:38:21 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      6,
+      7,
+      38,
+      21,
+      6,
+      249,
+      0
+    ],
+    "summary": "Six aéroports indonésiens, dont celui de Jakarta, ont été fermés dimanche en raison des cendres émises par l’Anak Krakatoa. Plus de 200 vols et 20 000 passagers ont déjà été affectés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Six aéroports indonésiens, dont celui de Jakarta, ont été fermés dimanche en raison des cendres émises par l’Anak Krakatoa. Plus de 200 vols et 20 000 passagers ont déjà été affectés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/06/en-indonesie-l-aeroport-de-jakarta-ferme-apres-l-eruption-de-l-anak-krakatoa_6766955_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/06/en-indonesie-l-aeroport-de-jakarta-ferme-apres-l-eruption-de-l-anak-krakatoa_6766955_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/06/en-indonesie-l-aeroport-de-jakarta-ferme-apres-l-eruption-de-l-anak-krakatoa_6766955_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/480/0/5760/2880/644/322/60/0/fa840c6_ftp-1-ekzfxrps3ifx-5010122-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un terminal de l’aéroport Soekarno-Hatta, à Tangerang en Indonésie, le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RONALD SIAGIAN / AFP"
+      }
+    ],
+    "credit": "RONALD SIAGIAN / AFP"
+  }
+}

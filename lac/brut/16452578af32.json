@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-06T08:22:38.207040+00:00",
+  "_id": "16452578af32",
+  "brut": {
+    "title": "Des frappes israéliennes font quatre morts dans le sud du Liban, annonce le ministère de la Santé libanais",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des frappes israéliennes font quatre morts dans le sud du Liban, annonce le ministère de la Santé libanais"
+    },
+    "summary": "Alors que les affrontements dans le pays ont diminué depuis juin et la signature d'un protocole entre les Etats-Unis et l'Iran et à un accord-cadre entre le Liban et Israël, l'armée israélienne poursuit de ses opérations militaires sporadiques dans le Sud.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alors que les affrontements dans le pays ont diminué depuis juin et la signature d'un protocole entre les Etats-Unis et l'Iran et à un accord-cadre entre le Liban et Israël, l'armée israélienne poursuit de ses opérations militaires sporadiques dans le Sud."
+    },
+    "published": "Sun, 06 Sep 2026 09:49:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      7,
+      49,
+      5,
+      6,
+      249,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer_8179475.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/mRqTsL-owIDJElmoulB9Bi8zJ4g/0x53:1024x629/432x243/filters:format(jpg)/2026/09/06/6a9d08c5a4963769209353.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer_8179475.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer_8179475.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

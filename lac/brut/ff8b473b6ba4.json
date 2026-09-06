@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-06T08:22:38.110163+00:00",
+  "_id": "ff8b473b6ba4",
+  "brut": {
+    "title": "Dans une Libye divisée, Donald Trump mise sur son « art du deal » pour se poser en faiseur de paix",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans une Libye divisée, Donald Trump mise sur son « art du deal » pour se poser en faiseur de paix"
+    },
+    "published": "Sun, 06 Sep 2026 05:30:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      3,
+      30,
+      18,
+      6,
+      249,
+      0
+    ],
+    "summary": "Après quinze ans de discrétion sur le dossier libyen, Washington veut réconcilier les autorités rivales de l’Est et de l’Ouest autour d’un accord de partage du pouvoir négocié entre quelques seigneurs locaux. Loin d’apaiser le pays, cette initiative déclenche une fébrile recomposition des rapports de force et met à nu la fragilité des alliances de part et d’autre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après quinze ans de discrétion sur le dossier libyen, Washington veut réconcilier les autorités rivales de l’Est et de l’Ouest autour d’un accord de partage du pouvoir négocié entre quelques seigneurs locaux. Loin d’apaiser le pays, cette initiative déclenche une fébrile recomposition des rapports de force et met à nu la fragilité des alliances de part et d’autre."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/06/dans-une-libye-divisee-donald-trump-mise-sur-son-art-du-deal-pour-se-poser-en-faiseur-de-paix_6766778_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/06/dans-une-libye-divisee-donald-trump-mise-sur-son-art-du-deal-pour-se-poser-en-faiseur-de-paix_6766778_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/06/dans-une-libye-divisee-donald-trump-mise-sur-son-art-du-deal-pour-se-poser-en-faiseur-de-paix_6766778_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2020/05/27/126/0/4032/2016/644/322/60/0/14427b6_vaABfy1qB7sgOmRJy1zgtQrw.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le porte-parole militaire des forces du gouvernement d’accord national libyen, Muhammad Qanunu, s’exprime après sa capture à la base aérienne d’al-Watiya aux mains des forces fidèles à Khalifa Haftar, à Tripoli, le 20 mai 2020."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MAHMUD TURKIA/AFP"
+      }
+    ],
+    "credit": "MAHMUD TURKIA/AFP"
+  }
+}

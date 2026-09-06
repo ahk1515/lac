@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-06T08:22:38.206928+00:00",
+  "_id": "af1f5b5c4673",
+  "brut": {
+    "title": "DIRECT. Elections régionales en Allemagne : les bureaux de votes sont ouverts en Saxe-Anhalt, où l'extrême droite est favorite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "DIRECT. Elections régionales en Allemagne : les bureaux de votes sont ouverts en Saxe-Anhalt, où l'extrême droite est favorite"
+    },
+    "summary": "Le parti d'extrême droite Alternative pour l'Allemagne (AfD) est en passe de remporter dans ce Land de l'est du pays, où l'extrême droite pourrait faire une percée inédite dans le pays depuis 1945.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parti d'extrême droite Alternative pour l'Allemagne (AfD) est en passe de remporter dans ce Land de l'est du pays, où l'extrême droite pourrait faire une percée inédite dans le pays depuis 1945."
+    },
+    "published": "Sun, 06 Sep 2026 09:16:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      6,
+      7,
+      16,
+      50,
+      6,
+      249,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5C6AXxmalbPDaSGrwa3I3jh7Nqs/0x53:1024x629/432x243/filters:format(jpg)/2026/09/06/6a9d133be90cc242768471.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
