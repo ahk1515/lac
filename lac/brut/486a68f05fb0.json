@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-07T22:30:28.931599+00:00",
+  "_id": "486a68f05fb0",
+  "brut": {
+    "title": "L’Union européenne promet de resserrer les liens avec le Groenland",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Union européenne promet de resserrer les liens avec le Groenland"
+    },
+    "published": "Mon, 07 Sep 2026 20:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      18,
+      0,
+      2,
+      0,
+      250,
+      0
+    ],
+    "summary": "Huit mois après les menaces américaines d’annexion du territoire autonome danois, Ursula von der Leyen, présidente de la Commission européenne, s’est rendue à Nuuk, les 6 et 7 septembre. Elle y a présenté une enveloppe de 200 millions d’euros de soutien à l’île.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Huit mois après les menaces américaines d’annexion du territoire autonome danois, Ursula von der Leyen, présidente de la Commission européenne, s’est rendue à Nuuk, les 6 et 7 septembre. Elle y a présenté une enveloppe de 200 millions d’euros de soutien à l’île."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/07/l-union-europeenne-promet-de-resserrer-les-liens-avec-le-groenland_6767987_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/07/l-union-europeenne-promet-de-resserrer-les-liens-avec-le-groenland_6767987_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/07/l-union-europeenne-promet-de-resserrer-les-liens-avec-le-groenland_6767987_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/07/1291/0/7744/3872/644/322/60/0/e7aef6c_ftp-1-y5ufooycedd1-492065b72edf4bd1afa4e7c1915d26b2-0-7d97f696fddb4d75adb9d84d63857119.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ursula von der Leyen, présidente de la Commission européenne, Jens-Frederik Nielsen, premier ministre groenlandais, et Mette Frederiksen, première ministre danoise, lors de la visite de la société Eutelsat OneWeb, à Nuuk (Groenland), le 7 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mads Claus Rasmussen/Ritzau Scanpix via AP"
+      }
+    ],
+    "credit": "Mads Claus Rasmussen/Ritzau Scanpix via AP"
+  }
+}

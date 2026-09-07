@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T22:30:29.474140+00:00",
+  "_id": "d0562fa469ed",
+  "brut": {
+    "title": "En Ukraine, le procureur général démissionne sur fond d'accusations de corruption",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, le procureur général démissionne sur fond d'accusations de corruption"
+    },
+    "summary": "Il est accusé d'avoir appartenu à un réseau qui recevait de l'argent pour protéger des centres d'appels frauduleux organisant des escroqueries au téléphone.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il est accusé d'avoir appartenu à un réseau qui recevait de l'argent pour protéger des centres d'appels frauduleux organisant des escroqueries au téléphone."
+    },
+    "published": "Tue, 08 Sep 2026 00:13:36 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      22,
+      13,
+      36,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-le-procureur-general-demissionne-sur-fond-d-accusations-de-corruption_8181800.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/bwt_dwZ9jVpmyNzud4_y7b-yFwM/0x53:1024x629/432x243/filters:format(jpg)/2026/09/08/6a9f3707456b3674636747.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-le-procureur-general-demissionne-sur-fond-d-accusations-de-corruption_8181800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-le-procureur-general-demissionne-sur-fond-d-accusations-de-corruption_8181800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T22:30:29.474798+00:00",
+  "_id": "4b739dcb1fe4",
+  "brut": {
+    "title": "Le crash spectaculaire d'un avion-cargo d'Amazon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le crash spectaculaire d'un avion-cargo d'Amazon"
+    },
+    "summary": "À Miami, un atterrissage qui vire au drame. Un avion-cargo transportant des colis pour Amazon est sorti de piste, avant de percuter plusieurs véhicules et de prendre feu. Au moins cinq personnes sont mortes, cinq autres sont blessées. Comment le Boeing a-t-il pu terminer sa course au-delà de l’aéroport ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Miami, un atterrissage qui vire au drame. Un avion-cargo transportant des colis pour Amazon est sorti de piste, avant de percuter plusieurs véhicules et de prendre feu. Au moins cinq personnes sont mortes, cinq autres sont blessées. Comment le Boeing a-t-il pu terminer sa course au-delà de l’aéroport ?"
+    },
+    "published": "Mon, 07 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      20,
+      0,
+      2,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/le-crash-spectaculaire-d-un-avion-cargo-d-amazon_8181719.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NJpLr6owqXUh9hVGKZeofIhkLlw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9f1138c4832120170795.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/le-crash-spectaculaire-d-un-avion-cargo-d-amazon_8181719.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/le-crash-spectaculaire-d-un-avion-cargo-d-amazon_8181719.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

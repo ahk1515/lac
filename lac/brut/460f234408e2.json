@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T22:30:29.474589+00:00",
+  "_id": "460f234408e2",
+  "brut": {
+    "title": "La Finlande a inauguré une clôture de 200 km à la frontière avec la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Finlande a inauguré une clôture de 200 km à la frontière avec la Russie"
+    },
+    "summary": "En 2023, la Finlande a accusé la Russie de lui livrer une \"guerre hybride\" en orchestrant l'arrivée de ressortissants de pays tiers à sa frontière, des allégations que le Kremlin a rejetées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En 2023, la Finlande a accusé la Russie de lui livrer une \"guerre hybride\" en orchestrant l'arrivée de ressortissants de pays tiers à sa frontière, des allégations que le Kremlin a rejetées."
+    },
+    "published": "Mon, 07 Sep 2026 22:49:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      20,
+      49,
+      19,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-finlande-a-inaugure-une-cloture-de-200-km-a-la-frontiere-avec-la-russie_8181752.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/aCo2F3Ry4AdHhxk2cbim5v5Rj-M/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9f190c201c7268734632.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-finlande-a-inaugure-une-cloture-de-200-km-a-la-frontiere-avec-la-russie_8181752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-finlande-a-inaugure-une-cloture-de-200-km-a-la-frontiere-avec-la-russie_8181752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

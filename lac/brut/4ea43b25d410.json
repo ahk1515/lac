@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T22:30:29.475429+00:00",
+  "_id": "4ea43b25d410",
+  "brut": {
+    "title": "La Russie annonce la fermeture du consulat allemand à Saint-Pétersbourg",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie annonce la fermeture du consulat allemand à Saint-Pétersbourg"
+    },
+    "summary": "Ses employés devront avoir quitté le territoire au plus tard le 18 septembre, a déclaré le ministère des Affaires étrangères russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ses employés devront avoir quitté le territoire au plus tard le 18 septembre, a déclaré le ministère des Affaires étrangères russe."
+    },
+    "published": "Mon, 07 Sep 2026 21:09:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      19,
+      9,
+      1,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-russie-annonce-la-fermeture-du-consulat-allemand-a-saint-petersbourg_8181620.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9vCXt_WiIM1kn3YnDLce6zbXAAY/0x102:2834x1696/432x243/filters:format(jpg)/2026/09/07/6a9ef0e72f9ea310689032.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-russie-annonce-la-fermeture-du-consulat-allemand-a-saint-petersbourg_8181620.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-russie-annonce-la-fermeture-du-consulat-allemand-a-saint-petersbourg_8181620.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
