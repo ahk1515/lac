@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.674578+00:00",
+  "_id": "9cbc092e26d1",
+  "brut": {
+    "title": "Voici la nouvelle carte du monde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Voici la nouvelle carte du monde"
+    },
+    "summary": "L’ONU a adopté le 4 septembre une nouvelle carte du monde. L’objectif ? Être plus fidèle à la réalité. La carte Mercator, très utilisée dans les manuels scolaires, fait par exemple paraître l’Afrique plus petite qu’elle ne l’est réellement. Mais ça, c’est bientôt fini.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’ONU a adopté le 4 septembre une nouvelle carte du monde. L’objectif ? Être plus fidèle à la réalité. La carte Mercator, très utilisée dans les manuels scolaires, fait par exemple paraître l’Afrique plus petite qu’elle ne l’est réellement. Mais ça, c’est bientôt fini."
+    },
+    "published": "Mon, 07 Sep 2026 15:50:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      13,
+      50,
+      58,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/voici-la-nouvelle-carte-du-monde_8181218.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dQ_EHjoSrFTca1p--hWajS5Pz7c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9ec103e73c7601497802.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/voici-la-nouvelle-carte-du-monde_8181218.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/voici-la-nouvelle-carte-du-monde_8181218.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

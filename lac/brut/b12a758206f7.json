@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.673887+00:00",
+  "_id": "b12a758206f7",
+  "brut": {
+    "title": "Le Canada peut-il résister à Donald Trump ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Canada peut-il résister à Donald Trump ?"
+    },
+    "summary": "Donald Trump a-t-il raison de considérer que \"sans les États-Unis, le Canada ne pourrait pas survivre\" ? Selon plusieurs experts, aucun des deux pays ne sortirait victorieux d'une guerre économique sur le long terme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump a-t-il raison de considérer que \"sans les États-Unis, le Canada ne pourrait pas survivre\" ? Selon plusieurs experts, aucun des deux pays ne sortirait victorieux d'une guerre économique sur le long terme."
+    },
+    "published": "Mon, 07 Sep 2026 18:38:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      16,
+      38,
+      6,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/vrai-ou-fake/le-canada-peut-il-resister-a-donald-trump_8181527.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/FADMy1oM_6aF8EhfQEsCKnwPpYQ/66x0:1268x676/432x243/filters:format(jpg)/2026/09/07/6a9ee855d6cb3619885120.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/vrai-ou-fake/le-canada-peut-il-resister-a-donald-trump_8181527.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/vrai-ou-fake/le-canada-peut-il-resister-a-donald-trump_8181527.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

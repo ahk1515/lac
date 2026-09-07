@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.675266+00:00",
+  "_id": "3053b90f4c68",
+  "brut": {
+    "title": "Un homme se jette par la fenêtre pour échapper à ses ravisseurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un homme se jette par la fenêtre pour échapper à ses ravisseurs"
+    },
+    "summary": "Un homme se jette par la fenêtre pour échapper à ses ravisseurs. Il était séquestré et violenté par plusieurs hommes selon la police du Lincolnshire, en GB, qui a diffusé les images de vidéosurveillance.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un homme se jette par la fenêtre pour échapper à ses ravisseurs. Il était séquestré et violenté par plusieurs hommes selon la police du Lincolnshire, en GB, qui a diffusé les images de vidéosurveillance."
+    },
+    "published": "Mon, 07 Sep 2026 15:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      13,
+      0,
+      1,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/un-homme-se-jette-par-la-fenetre-pour-echapper-a-ses-ravisseurs_8180987.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/kQOvsxkE0o2oJBrom3XkER9bveM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9eaa0cd1c2d766246008.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/un-homme-se-jette-par-la-fenetre-pour-echapper-a-ses-ravisseurs_8180987.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/un-homme-se-jette-par-la-fenetre-pour-echapper-a-ses-ravisseurs_8180987.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

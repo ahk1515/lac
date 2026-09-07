@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.676471+00:00",
+  "_id": "13e22c60ba60",
+  "brut": {
+    "title": "Le chancelier Friedrich Merz se dit \"profondément choqué\" par la victoire du parti d'extrême droite allemand AfD en Saxe-Anhalt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le chancelier Friedrich Merz se dit \"profondément choqué\" par la victoire du parti d'extrême droite allemand AfD en Saxe-Anhalt"
+    },
+    "summary": "Le dirigeant allemand a pris la parole lundi midi, au lendemain de la victoire électorale régionale de l'extrême droite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le dirigeant allemand a pris la parole lundi midi, au lendemain de la victoire électorale régionale de l'extrême droite."
+    },
+    "published": "Mon, 07 Sep 2026 15:03:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      13,
+      3,
+      38,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/friedrich-merz-se-dit-profondement-choque-par-la-victoire-du-parti-d-extreme-droite-allemand-afd-en-saxe-anhalt_8180966.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/pmWfyA1mxqufwV-3mqD6lHpsNBw/0x77:1024x653/432x243/filters:format(jpg)/2026/09/07/6a9ea2bfa3b55705753991.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/friedrich-merz-se-dit-profondement-choque-par-la-victoire-du-parti-d-extreme-droite-allemand-afd-en-saxe-anhalt_8180966.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/friedrich-merz-se-dit-profondement-choque-par-la-victoire-du-parti-d-extreme-droite-allemand-afd-en-saxe-anhalt_8180966.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

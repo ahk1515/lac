@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.676754+00:00",
+  "_id": "cee25eb0973c",
+  "brut": {
+    "title": "Large victoire de l'extrême droite en Allemagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Large victoire de l'extrême droite en Allemagne"
+    },
+    "summary": "Coup de tonnerre en Allemagne : l’AfD remporte pour la première fois un Land, la Saxe-Anhalt. Son candidat de 35 ans recueille près de 44 % des voix, une victoire historique pour l’extrême droite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Coup de tonnerre en Allemagne : l’AfD remporte pour la première fois un Land, la Saxe-Anhalt. Son candidat de 35 ans recueille près de 44 % des voix, une victoire historique pour l’extrême droite."
+    },
+    "published": "Mon, 07 Sep 2026 13:22:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      11,
+      22,
+      28,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/large-victoire-de-l-extreme-droite-en-allemagne_8180954.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-nFvgZd7Q30L3TswmM3XLvAejeM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e9e664fe84014009142.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/large-victoire-de-l-extreme-droite-en-allemagne_8180954.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/large-victoire-de-l-extreme-droite-en-allemagne_8180954.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

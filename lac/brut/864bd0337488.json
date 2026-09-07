@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-07T17:17:31.336257+00:00",
+  "_id": "864bd0337488",
+  "brut": {
+    "title": "Serbie : le premier ministre réclame au président la dissolution de l’Assemblée nationale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Serbie : le premier ministre réclame au président la dissolution de l’Assemblée nationale"
+    },
+    "published": "Mon, 07 Sep 2026 18:04:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      16,
+      4,
+      3,
+      0,
+      250,
+      0
+    ],
+    "updated": "Mon, 07 Sep 2026 18:16:48 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      7,
+      16,
+      16,
+      48,
+      0,
+      250,
+      0
+    ],
+    "summary": "Le mouvement de protestation mené par les étudiants pendant près de deux ans demandait de longue date des élections législatives anticipées en octobre. Le président nationaliste, Aleksandar Vucic, dispose de soixante-douze heures pour accepter la proposition du gouvernement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le mouvement de protestation mené par les étudiants pendant près de deux ans demandait de longue date des élections législatives anticipées en octobre. Le président nationaliste, Aleksandar Vucic, dispose de soixante-douze heures pour accepter la proposition du gouvernement."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/755/0/6000/3000/644/322/60/0/9d369c4_ftp-1-wwmblgkes5el-2026-09-01t205710z-1008404197-rc2iana4cw89-rtrmadp-3-serbia-protests.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une manifestation menée par des étudiants, à Belgrade, en Serbie, le 1ᵉʳ septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Marko Djurica / REUTERS"
+      }
+    ],
+    "credit": "Marko Djurica / REUTERS"
+  }
+}

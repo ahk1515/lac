@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-07T17:17:31.338409+00:00",
+  "_id": "3d8dd85d360c",
+  "brut": {
+    "title": "« L’Europe dispose aujourd’hui d’une fenêtre de tir inédite pour se doter d’un véhicule spatial habité »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« L’Europe dispose aujourd’hui d’une fenêtre de tir inédite pour se doter d’un véhicule spatial habité »"
+    },
+    "published": "Mon, 07 Sep 2026 14:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      12,
+      0,
+      2,
+      0,
+      250,
+      0
+    ],
+    "summary": "Le Sommet international sur l’espace de Paris, les 9 et 10 septembre, constitue une opportunité pour lancer le projet d’une capsule capable d’embarquer des hommes. Ce serait un pari industriel, dont les retombées dépasseraient le seul secteur spatial, explique Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Sommet international sur l’espace de Paris, les 9 et 10 septembre, constitue une opportunité pour lancer le projet d’une capsule capable d’embarquer des hommes. Ce serait un pari industriel, dont les retombées dépasseraient le seul secteur spatial, explique Stéphane Lauer, éditorialiste au « Monde », dans sa chronique."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/07/l-europe-dispose-aujourd-hui-d-une-fenetre-de-tir-inedite-pour-se-doter-d-un-vehicule-spatial-habite_6767935_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/07/l-europe-dispose-aujourd-hui-d-une-fenetre-de-tir-inedite-pour-se-doter-d-un-vehicule-spatial-habite_6767935_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/07/l-europe-dispose-aujourd-hui-d-une-fenetre-de-tir-inedite-pour-se-doter-d-un-vehicule-spatial-habite_6767935_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/175/0/5000/2500/644/322/60/0/287ae69_ftp-1-oi4slfgd6vfj-2026-09-02t135541z-927969113-rc2vr8azfagq-rtrmadp-3-europe-space.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le lanceur lourd européen Ariane 6 décolle depuis Kourou, le 9 juillet 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Manuel Pedoussaut/Agence spatiale européenne via REUTERS"
+      }
+    ],
+    "credit": "Manuel Pedoussaut/Agence spatiale européenne via REUTERS"
+  }
+}

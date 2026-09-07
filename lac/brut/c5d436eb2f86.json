@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.673244+00:00",
+  "_id": "c5d436eb2f86",
+  "brut": {
+    "title": "Victoire de l'AfD en Saxe-Anhalt : la réaction des Allemands",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Victoire de l'AfD en Saxe-Anhalt : la réaction des Allemands"
+    },
+    "summary": "Un séisme politique en Allemagne, avec l'arrivée largement en tête du parti d'extrême-droite, l'AfD avec 44 % des voix dans la région de Saxe-Anhalt.  Les électeurs ont fait le choix d'une politique aux mesures radicales notamment  sur l'immigration et  l'éducation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un séisme politique en Allemagne, avec l'arrivée largement en tête du parti d'extrême-droite, l'AfD avec 44 % des voix dans la région de Saxe-Anhalt.  Les électeurs ont fait le choix d'une politique aux mesures radicales notamment  sur l'immigration et  l'éducation."
+    },
+    "published": "Mon, 07 Sep 2026 19:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      17,
+      0,
+      1,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-la-reaction-des-allemands_8181539.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/XHFA_tUoHq349jPBDKaoiLSOIMQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9ee3a12b380649544469.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-la-reaction-des-allemands_8181539.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-la-reaction-des-allemands_8181539.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

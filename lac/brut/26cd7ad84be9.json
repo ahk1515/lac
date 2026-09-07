@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.673713+00:00",
+  "_id": "26cd7ad84be9",
+  "brut": {
+    "title": "Il est le nouveau visage de l'extrême droite allemande",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il est le nouveau visage de l'extrême droite allemande"
+    },
+    "summary": "\"L'homme le plus dangereux d’Allemagne\". C'est comme ça que Der Spiegel, un journal allemand qualifie Ulrich Siegmund. Cet homme politique allemand d'extrême droite pourrait diriger la région de la Saxe-Anhalt, et cela serait une première depuis la fin de l'Allemagne nazie...",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"L'homme le plus dangereux d’Allemagne\". C'est comme ça que Der Spiegel, un journal allemand qualifie Ulrich Siegmund. Cet homme politique allemand d'extrême droite pourrait diriger la région de la Saxe-Anhalt, et cela serait une première depuis la fin de l'Allemagne nazie..."
+    },
+    "published": "Mon, 07 Sep 2026 18:40:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      16,
+      40,
+      35,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/il-est-le-nouveau-visage-de-l-extreme-droite-allemande_8181557.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2xP14i_U73X8a4CiLzAKRKLIKgk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9ee8f0608d5572591913.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-est-le-nouveau-visage-de-l-extreme-droite-allemande_8181557.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/il-est-le-nouveau-visage-de-l-extreme-droite-allemande_8181557.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

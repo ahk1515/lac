@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T17:17:31.676899+00:00",
+  "_id": "8a78251bd64f",
+  "brut": {
+    "title": "6 morts après l'effondrement d'un immeuble à New Delhi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "6 morts après l'effondrement d'un immeuble à New Delhi"
+    },
+    "summary": "Un immeuble de 5 étages s'est effondré dimanche 6 septembre à New Delhi, la capitale indienne, provoquant la mort d'au moins 6 personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un immeuble de 5 étages s'est effondré dimanche 6 septembre à New Delhi, la capitale indienne, provoquant la mort d'au moins 6 personnes."
+    },
+    "published": "Mon, 07 Sep 2026 13:04:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      11,
+      4,
+      32,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/inde/6-morts-apres-l-effondrement-d-un-immeuble-a-new-delhi_8180936.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/C1p0iePXqHwyya1n_u_iTuaFGtg/2233x0:4913x4765/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e9a31bc6a3663175041.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/inde/6-morts-apres-l-effondrement-d-un-immeuble-a-new-delhi_8180936.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/inde/6-morts-apres-l-effondrement-d-un-immeuble-a-new-delhi_8180936.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
