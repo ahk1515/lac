@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T08:56:30.163571+00:00",
+  "_id": "0b2ecc417100",
+  "brut": {
+    "title": "Indonésie : l'éruption d'un volcan cloue au sol plus de 170 000 voyageurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Indonésie : l'éruption d'un volcan cloue au sol plus de 170 000 voyageurs"
+    },
+    "summary": "Les autorités indonésiennes ont suspendu, dimanche 6 septembre, l'activité de huit aéroports, dont celui de Jakarta, après l’éruption du volcan Anak Krakatoa. Plus de 200 vols ont été annulés, concernant plus de 170 000 passagers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités indonésiennes ont suspendu, dimanche 6 septembre, l'activité de huit aéroports, dont celui de Jakarta, après l’éruption du volcan Anak Krakatoa. Plus de 200 vols ont été annulés, concernant plus de 170 000 passagers."
+    },
+    "published": "Mon, 07 Sep 2026 09:55:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      7,
+      55,
+      2,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/indonesie-l-eruption-d-un-volcan-cloue-au-sol-plus-de-170-000-voyageurs_8180552.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JXLOP5IlmcaFyuxKgbPkKPo8acs/44x0:1295x704/432x243/filters:format(jpg)/2026/09/07/6a9e66f6b13f5574027417.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/indonesie-l-eruption-d-un-volcan-cloue-au-sol-plus-de-170-000-voyageurs_8180552.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/indonesie-l-eruption-d-un-volcan-cloue-au-sol-plus-de-170-000-voyageurs_8180552.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T08:56:30.166388+00:00",
+  "_id": "27eb43f61f3d",
+  "brut": {
+    "title": "Une \"affaire Pelicot\" au Royaume-Uni",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une \"affaire Pelicot\" au Royaume-Uni"
+    },
+    "summary": "Un Britannique est jugé en même temps que douze hommes de tous âges devant le tribunal de Manchester. Il est accusé d'avoir drogué, violé et livré sa femme à d'autres hommes pendant 20 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un Britannique est jugé en même temps que douze hommes de tous âges devant le tribunal de Manchester. Il est accusé d'avoir drogué, violé et livré sa femme à d'autres hommes pendant 20 ans."
+    },
+    "published": "Mon, 07 Sep 2026 06:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      4,
+      0,
+      2,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/justice-proces/une-affaire-pelicot-au-royaume-uni_8177267.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/o4LQhaLZuCe9hAyO-TJIiXV0GWM/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9ac49db3711493105711.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/justice-proces/une-affaire-pelicot-au-royaume-uni_8177267.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/justice-proces/une-affaire-pelicot-au-royaume-uni_8177267.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

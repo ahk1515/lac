@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T08:56:30.163415+00:00",
+  "_id": "0af4af42a777",
+  "brut": {
+    "title": "Au Royaume-Uni, une manifestation anti-migrants à Portsmouth après l'arrivée d'une embarcation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Royaume-Uni, une manifestation anti-migrants à Portsmouth après l'arrivée d'une embarcation"
+    },
+    "summary": "Ce rassemblement, survenu dans la nuit de lundi à dimanche, intervient au lendemain du blocage du port de Douvres, là aussi par des manifestants anti-migrants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce rassemblement, survenu dans la nuit de lundi à dimanche, intervient au lendemain du blocage du port de Douvres, là aussi par des manifestants anti-migrants."
+    },
+    "published": "Mon, 07 Sep 2026 10:25:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      8,
+      25,
+      8,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/immigration/au-royaume-uni-une-manifestation-anti-migrants-a-portsmouth-apres-l-arrivee-d-une-embarcation_8180585.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/OczXOYiXN91s0F9BumedmG7_z5g/0x32:1024x608/432x243/filters:format(jpg)/2026/09/07/6a9e7107771df535886047.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/immigration/au-royaume-uni-une-manifestation-anti-migrants-a-portsmouth-apres-l-arrivee-d-une-embarcation_8180585.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/immigration/au-royaume-uni-une-manifestation-anti-migrants-a-portsmouth-apres-l-arrivee-d-une-embarcation_8180585.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

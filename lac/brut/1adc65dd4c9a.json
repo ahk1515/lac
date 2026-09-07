@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T08:56:30.164363+00:00",
+  "_id": "1adc65dd4c9a",
+  "brut": {
+    "title": "Onze personnes sont mortes au Liban dans des frappes israéliennes nocturnes sur un village du Sud",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Onze personnes sont mortes au Liban dans des frappes israéliennes nocturnes sur un village du Sud"
+    },
+    "summary": "Deux nourrissons ont notamment été tués, selon l'Agence nationale d'information libanaise. L'attaque est survenue au lendemain de raids ayant fait sept morts, malgré le cessez-le-feu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux nourrissons ont notamment été tués, selon l'Agence nationale d'information libanaise. L'attaque est survenue au lendemain de raids ayant fait sept morts, malgré le cessez-le-feu."
+    },
+    "published": "Mon, 07 Sep 2026 09:50:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      7,
+      50,
+      54,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/onze-personnes-sont-mortes-au-liban-dans-des-frappes-israeliennes-nocturnes-sur-un-village-du-sud_8180504.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TMlmSC0yhINXTFqZty3D32kG4_w/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e6854c2ebb095330653.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/onze-personnes-sont-mortes-au-liban-dans-des-frappes-israeliennes-nocturnes-sur-un-village-du-sud_8180504.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/onze-personnes-sont-mortes-au-liban-dans-des-frappes-israeliennes-nocturnes-sur-un-village-du-sud_8180504.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

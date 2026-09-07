@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-07T08:56:29.334413+00:00",
+  "_id": "cd9b5441e7ea",
+  "brut": {
+    "title": "Miami : les images de l’avion-cargo d’Amazon sorti de piste",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Miami : les images de l’avion-cargo d’Amazon sorti de piste"
+    },
+    "published": "Mon, 07 Sep 2026 10:12:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      8,
+      12,
+      32,
+      0,
+      250,
+      0
+    ],
+    "summary": "L’accident s’est produit en début d’après-midi, peu avant 14 heures (20 heures à Paris). Cinq personnes sont mortes et cinq autres sont blessées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’accident s’est produit en début d’après-midi, peu avant 14 heures (20 heures à Paris). Cinq personnes sont mortes et cinq autres sont blessées."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/07/miami-les-images-de-l-avion-cargo-d-amazon-sorti-de-piste_6767915_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/07/miami-les-images-de-l-avion-cargo-d-amazon-sorti-de-piste_6767915_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/07/miami-les-images-de-l-avion-cargo-d-amazon-sorti-de-piste_6767915_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/07/45/0/1440/720/644/322/60/0/b0ee443_ftp-1-6p5qze4p5ork-2026-09-07t044416z-1949879252-rc24enaxiaun-rtrmadp-3-usa-crash-plane-miami.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Rohan Ellis / Rohan Ellis via REUTERS"
+      }
+    ],
+    "credit": "Rohan Ellis / Rohan Ellis via REUTERS"
+  }
+}

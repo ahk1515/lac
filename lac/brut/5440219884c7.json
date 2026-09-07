@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T08:56:30.165112+00:00",
+  "_id": "5440219884c7",
+  "brut": {
+    "title": "Chapelets, t-shirts, bracelets… L'Eglise s'organise pour financer la venue de Léon XIV en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chapelets, t-shirts, bracelets… L'Eglise s'organise pour financer la venue de Léon XIV en France"
+    },
+    "summary": "L'Eglise de France doit prendre en charge financièrement une large partie de la visite du pape Léon XIV en France, du 25 au 28 septembre. Elle fait donc appel aux dons et propose aussi des produits officiels à la vente.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Eglise de France doit prendre en charge financièrement une large partie de la visite du pape Léon XIV en France, du 25 au 28 septembre. Elle fait donc appel aux dons et propose aussi des produits officiels à la vente."
+    },
+    "published": "Mon, 07 Sep 2026 07:08:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      5,
+      8,
+      9,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/chapelets-t-shirts-bracelets-l-eglise-s-organise-pour-financer-la-venue-de-leon-xiv-en-france_8178830.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-Yw5xvP_5Q-oQGsxVn_gDWYb21I/0x375:4000x2625/432x243/filters:format(jpg)/2026/09/05/6a9c7bc5eae55883333620.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/chapelets-t-shirts-bracelets-l-eglise-s-organise-pour-financer-la-venue-de-leon-xiv-en-france_8178830.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/chapelets-t-shirts-bracelets-l-eglise-s-organise-pour-financer-la-venue-de-leon-xiv-en-france_8178830.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

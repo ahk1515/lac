@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-07T08:56:29.334050+00:00",
+  "_id": "a74f41d00242",
+  "brut": {
+    "title": "Le modèle politique allemand menacé par l’extrême droite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le modèle politique allemand menacé par l’extrême droite"
+    },
+    "published": "Mon, 07 Sep 2026 10:45:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      8,
+      45,
+      4,
+      0,
+      250,
+      0
+    ],
+    "summary": "La victoire de l’AfD aux élections régionales en Saxe-Anhalt, dimanche, est une sévère leçon pour le chancelier Merz. La CDU, principal parti de gouvernement, s’effondre face à un programme xénophobe et nationaliste qui vient porter un coup à un système de gouvernance fondé sur le rejet des extrêmes et le consensus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La victoire de l’AfD aux élections régionales en Saxe-Anhalt, dimanche, est une sévère leçon pour le chancelier Merz. La CDU, principal parti de gouvernement, s’effondre face à un programme xénophobe et nationaliste qui vient porter un coup à un système de gouvernance fondé sur le rejet des extrêmes et le consensus."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/07/le-modele-politique-allemand-menace-par-l-extreme-droite_6767920_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/07/le-modele-politique-allemand-menace-par-l-extreme-droite_6767920_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/07/le-modele-politique-allemand-menace-par-l-extreme-droite_6767920_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/07/220/0/6671/3335/644/322/60/0/6bdeb9f_ftp-1-k6wzffh3lrnp-ff96c168195144cb94db971508824da1-1-5313ed99a8b645b3ba42bc9b1a9c9ddd.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres du parti Alternative pour l’Allemagne célèbrent la victoire en brandissant une pancarte à l’effigie d’Ulrich Siegmund, tête de liste de l’AfD, à l’issue des élections régionales en Saxe-Anhalt, à Magdebourg (Allemagne), le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Matthias Schrader/AP Photo"
+      }
+    ],
+    "credit": "Matthias Schrader/AP Photo"
+  }
+}

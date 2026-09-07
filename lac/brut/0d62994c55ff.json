@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T08:56:30.164507+00:00",
+  "_id": "0d62994c55ff",
+  "brut": {
+    "title": "Un avion-cargo d’Amazon sort de piste et fait 5 morts à Miami",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un avion-cargo d’Amazon sort de piste et fait 5 morts à Miami"
+    },
+    "summary": "À Miami (États-Unis), cinq personnes ont été tuées et cinq autres blessées, dimanche 6 septembre, après qu’un avion-cargo d’Amazon est sorti en bout de piste. Il a percuté plusieurs véhicules avant de prendre feu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Miami (États-Unis), cinq personnes ont été tuées et cinq autres blessées, dimanche 6 septembre, après qu’un avion-cargo d’Amazon est sorti en bout de piste. Il a percuté plusieurs véhicules avant de prendre feu."
+    },
+    "published": "Mon, 07 Sep 2026 08:25:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      6,
+      25,
+      25,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-avion-cargo-d-amazon-sort-de-piste-et-fait-5-morts-a-miami_8180492.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qVeR73leM6lzXnntL6mtrSLvMz8/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/07/6a9e58090eacd047014453.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-avion-cargo-d-amazon-sort-de-piste-et-fait-5-morts-a-miami_8180492.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-avion-cargo-d-amazon-sort-de-piste-et-fait-5-morts-a-miami_8180492.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

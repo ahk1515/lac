@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-07T08:56:29.334569+00:00",
+  "_id": "abf1d4314570",
+  "brut": {
+    "title": "Des frappes israéliennes au Liban font 11 morts, dont deux nourrissons, malgré le cessez-le-feu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des frappes israéliennes au Liban font 11 morts, dont deux nourrissons, malgré le cessez-le-feu"
+    },
+    "published": "Mon, 07 Sep 2026 09:52:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      7,
+      52,
+      1,
+      0,
+      250,
+      0
+    ],
+    "updated": "Mon, 07 Sep 2026 10:41:41 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      7,
+      8,
+      41,
+      41,
+      0,
+      250,
+      0
+    ],
+    "summary": "Malgré la trêve annoncée, les frappes israéliennes continuent de toucher des civils et des secouristes dans le sud du Liban, selon la NNA.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Malgré la trêve annoncée, les frappes israéliennes continuent de toucher des civils et des secouristes dans le sud du Liban, selon la NNA."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/07/des-frappes-israeliennes-au-liban-font-11-morts-dont-deux-nourrissons-malgre-le-cessez-le-feu_6767911_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/07/des-frappes-israeliennes-au-liban-font-11-morts-dont-deux-nourrissons-malgre-le-cessez-le-feu_6767911_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/07/des-frappes-israeliennes-au-liban-font-11-morts-dont-deux-nourrissons-malgre-le-cessez-le-feu_6767911_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/07/804/0/8640/4320/644/322/60/0/8c0d8ff_ftp-1-xl3dc4npp7cy-175f90ab557149e78d4d7f45cff2967a-0-2d70664f195d49b5bc67361d23a1647c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes recherchent des victimes sous les décombres d’un bâtiment détruit par une frappe aérienne israélienne, dans le village de Kfar Remmane, dans le sud du Liban, le 7 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mohammed Zaatari/AP"
+      }
+    ],
+    "credit": "Mohammed Zaatari/AP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-07T08:56:30.163910+00:00",
+  "_id": "576264269623",
+  "brut": {
+    "title": "Au Yémen, plus de 300 combattants morts dans les affrontements entre rebelles et forces gouvernementales, de nombreuses familles déplacées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Yémen, plus de 300 combattants morts dans les affrontements entre rebelles et forces gouvernementales, de nombreuses familles déplacées"
+    },
+    "summary": "Ces combats, relancés par les rebelles houthis jeudi, ont forcé de nombreux civils à fuir. Selon l'ONU, environ 1 790 familles avaient déjà dû quitter leur logement vendredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces combats, relancés par les rebelles houthis jeudi, ont forcé de nombreux civils à fuir. Selon l'ONU, environ 1 790 familles avaient déjà dû quitter leur logement vendredi."
+    },
+    "published": "Mon, 07 Sep 2026 09:20:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      7,
+      20,
+      21,
+      0,
+      250,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-plus-de-300-combattants-morts-dans-les-affrontements-entre-rebelles-et-forces-gouvernementales-de-nombreuses-familles-deplacees_8180486.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/thNu_KYVxp6mrQPaw2QQqOud_k4/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e630714d11658108884.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-plus-de-300-combattants-morts-dans-les-affrontements-entre-rebelles-et-forces-gouvernementales-de-nombreuses-familles-deplacees_8180486.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-plus-de-300-combattants-morts-dans-les-affrontements-entre-rebelles-et-forces-gouvernementales-de-nombreuses-familles-deplacees_8180486.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
