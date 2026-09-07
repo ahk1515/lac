@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-07T03:01:46.480848+00:00",
+  "_id": "95340f8d73c5",
+  "brut": {
+    "title": "La merdenea, feuilleté au fromage, symbole de la lutte contre la gentrification de Bucarest",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La merdenea, feuilleté au fromage, symbole de la lutte contre la gentrification de Bucarest"
+    },
+    "published": "Mon, 07 Sep 2026 05:00:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      7,
+      3,
+      0,
+      15,
+      0,
+      250,
+      0
+    ],
+    "summary": "Sur les réseaux sociaux roumains, une bataille entre cette spécialité locale de pâtisserie salée et le croissant a pris des proportions inattendues. Les habitants de la capitale entendent défendre « l’une des dernières sources d’alimentation abordable ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sur les réseaux sociaux roumains, une bataille entre cette spécialité locale de pâtisserie salée et le croissant a pris des proportions inattendues. Les habitants de la capitale entendent défendre « l’une des dernières sources d’alimentation abordable »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/07/la-merdenea-feuillete-au-fromage-symbole-de-la-lutte-contre-la-gentrification-de-bucarest_6767758_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/07/la-merdenea-feuillete-au-fromage-symbole-de-la-lutte-contre-la-gentrification-de-bucarest_6767758_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/07/la-merdenea-feuillete-au-fromage-symbole-de-la-lutte-contre-la-gentrification-de-bucarest_6767758_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/564/0/988/494/644/322/60/0/8335574_upload-1-ssv1xg4vm5wo-capture-d-e-cran-2026-09-07-a-00-21-12.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une capture d’écran d’une vidéo diffusée, le 21 août 2026, sur le compte Instagram de la pâtisserie Amzei en réponse à la vidéo d’Edmond Niculusca."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "patiseria_amzei/Instagram"
+      }
+    ],
+    "credit": "patiseria_amzei/Instagram"
+  }
+}
