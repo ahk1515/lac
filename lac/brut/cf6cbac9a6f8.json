@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T16:01:56.468806+00:00",
+  "_id": "cf6cbac9a6f8",
+  "brut": {
+    "title": "Un employé se jette sur une route pour sauver un enfant",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un employé se jette sur une route pour sauver un enfant"
+    },
+    "summary": "À Puebla, au Mexique, un employé de magasin a risqué sa vie pour sauver un enfant qui s’était aventuré sur une route très fréquentée. Son réflexe a évité un drame.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Puebla, au Mexique, un employé de magasin a risqué sa vie pour sauver un enfant qui s’était aventuré sur une route très fréquentée. Son réflexe a évité un drame."
+    },
+    "published": "Tue, 08 Sep 2026 13:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      11,
+      0,
+      1,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/un-employe-se-jette-sur-une-route-pour-sauver-un-enfant_8183006.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/yFpvKNG_IgfYtSQXxtPDb0fmGFY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6a9fdf60dc50c876765332.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/un-employe-se-jette-sur-une-route-pour-sauver-un-enfant_8183006.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/un-employe-se-jette-sur-une-route-pour-sauver-un-enfant_8183006.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

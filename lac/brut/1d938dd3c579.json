@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T16:01:56.183501+00:00",
+  "_id": "1d938dd3c579",
+  "brut": {
+    "title": "En Ukraine, le procureur général, Rouslan Kravtchenko, démissionne après sa mise en cause dans une affaire de corruption",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, le procureur général, Rouslan Kravtchenko, démissionne après sa mise en cause dans une affaire de corruption"
+    },
+    "published": "Tue, 08 Sep 2026 10:37:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      8,
+      37,
+      21,
+      1,
+      251,
+      0
+    ],
+    "summary": "Les instances chargées de la lutte contre la corruption ont annoncé, ce week-end, la mise au jour d’un réseau « dirigé par un responsable du bureau du procureur général », qui recevait de l’argent pour protéger des centres d’appels frauduleux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les instances chargées de la lutte contre la corruption ont annoncé, ce week-end, la mise au jour d’un réseau « dirigé par un responsable du bureau du procureur général », qui recevait de l’argent pour protéger des centres d’appels frauduleux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/08/en-ukraine-le-procureur-general-rouslan-kravtchenko-demissionne-apres-sa-mise-en-cause-dans-une-affaire-de-corruption_6768201_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/08/en-ukraine-le-procureur-general-rouslan-kravtchenko-demissionne-apres-sa-mise-en-cause-dans-une-affaire-de-corruption_6768201_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/08/en-ukraine-le-procureur-general-rouslan-kravtchenko-demissionne-apres-sa-mise-en-cause-dans-une-affaire-de-corruption_6768201_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/290/0/4500/2250/644/322/60/0/9aed06d_ftp-1-htddzxiifcs3-2026-09-08t001433z-937206824-rc2bsfam4lwy-rtrmadp-3-ukraine-crisis-prosecutor.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Rouslan Kravtchenko, procureur général d’Ukraine, à Kiev le 23 juillet 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "THOMAS PETER/REUTERS"
+      }
+    ],
+    "credit": "THOMAS PETER/REUTERS"
+  }
+}

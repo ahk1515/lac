@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T16:01:56.181631+00:00",
+  "_id": "d71a497010b9",
+  "brut": {
+    "title": "Comment l’île Maurice traque les moustiques pour empêcher le retour du paludisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comment l’île Maurice traque les moustiques pour empêcher le retour du paludisme"
+    },
+    "published": "Tue, 08 Sep 2026 16:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      14,
+      0,
+      13,
+      1,
+      251,
+      0
+    ],
+    "summary": "Le pays, parmi les plus riches d’Afrique, a été certifié exempt de paludisme pour la première fois en 1973. Mais éviter le retour de la maladie est un combat quotidien qui réclame une vigilance accrue, des rues de l’île à l’aéroport.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pays, parmi les plus riches d’Afrique, a été certifié exempt de paludisme pour la première fois en 1973. Mais éviter le retour de la maladie est un combat quotidien qui réclame une vigilance accrue, des rues de l’île à l’aéroport."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/08/comment-l-ile-maurice-traque-les-moustiques-pour-empecher-le-retour-du-paludisme_6768392_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/08/comment-l-ile-maurice-traque-les-moustiques-pour-empecher-le-retour-du-paludisme_6768392_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/08/comment-l-ile-maurice-traque-les-moustiques-pour-empecher-le-retour-du-paludisme_6768392_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/333/0/4000/2000/644/322/60/0/af5231a_upload-1-ir01syk6j63z-000-34ew32m.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La capitale, Port-Louis, en janvier 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GIANLUIGI GUERCIA / AFP"
+      }
+    ],
+    "credit": "GIANLUIGI GUERCIA / AFP"
+  }
+}

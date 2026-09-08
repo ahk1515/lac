@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T16:01:56.469438+00:00",
+  "_id": "f7551970712f",
+  "brut": {
+    "title": "Donald Trump publie une fausse carte des Etats-Unis incluant les Antilles françaises et Saint-Pierre-et-Miquelon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump publie une fausse carte des Etats-Unis incluant les Antilles françaises et Saint-Pierre-et-Miquelon"
+    },
+    "summary": "Sur cette carte publiée lundi sur Truth social, le drapeau des Etats-Unis recouvre également le Canada, le Groenland, l'Islande ou encore le Mexique. En réaction, l'Islande a convoqué l'ambassadeur des Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sur cette carte publiée lundi sur Truth social, le drapeau des Etats-Unis recouvre également le Canada, le Groenland, l'Islande ou encore le Mexique. En réaction, l'Islande a convoqué l'ambassadeur des Etats-Unis."
+    },
+    "published": "Tue, 08 Sep 2026 11:53:22 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      9,
+      53,
+      22,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-publie-une-fausse-carte-des-etats-unis-incluant-les-antilles-francaises-et-saint-pierre-et-miquelon_8182850.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LysuE1OQOv1CdktQ5g2hCZ6lUAs/0x16:1024x592/432x243/filters:format(jpg)/2026/09/08/6a9fd15d0a8df578723130.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-publie-une-fausse-carte-des-etats-unis-incluant-les-antilles-francaises-et-saint-pierre-et-miquelon_8182850.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-publie-une-fausse-carte-des-etats-unis-incluant-les-antilles-francaises-et-saint-pierre-et-miquelon_8182850.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T16:01:56.182429+00:00",
+  "_id": "81356718126e",
+  "brut": {
+    "title": "Quand le conflit israélo-palestinien s’exporte en Thaïlande",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quand le conflit israélo-palestinien s’exporte en Thaïlande"
+    },
+    "published": "Tue, 08 Sep 2026 14:00:30 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      12,
+      0,
+      30,
+      1,
+      251,
+      0
+    ],
+    "summary": "Bangkok a annoncé l’expulsion d’un Français, directeur d’un parc animalier, qui refusait les Israéliens, et d’un Israélien qui l’a menacé de mort.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bangkok a annoncé l’expulsion d’un Français, directeur d’un parc animalier, qui refusait les Israéliens, et d’un Israélien qui l’a menacé de mort."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/08/quand-le-conflit-israelo-palestinien-s-exporte-en-thailande_6768381_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/08/quand-le-conflit-israelo-palestinien-s-exporte-en-thailande_6768381_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/08/quand-le-conflit-israelo-palestinien-s-exporte-en-thailande_6768381_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/338/0/5346/2673/644/322/60/0/67108b9_ftp-1-wn7zismnkak9-2026-09-02t093132z-1362199518-rc2xanacfj75-rtrmadp-3-thailand-singapore.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Anutin Charnvirakul, premier ministre thaïlandais, à Bangkok, le 2 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valeria Mongelli/REUTERS"
+      }
+    ],
+    "credit": "Valeria Mongelli/REUTERS"
+  }
+}

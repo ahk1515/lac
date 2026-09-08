@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T16:01:56.469143+00:00",
+  "_id": "653403d2116d",
+  "brut": {
+    "title": "Benyamin Nétanyahou dans la tourmente après la publication d'un article selon lequel il aurait été informé de l'attaque du 7-Octobre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Benyamin Nétanyahou dans la tourmente après la publication d'un article selon lequel il aurait été informé de l'attaque du 7-Octobre"
+    },
+    "summary": "Selon le journal \"Haaretz\", le Premier ministre israélien, informé d'une attaque en préparation, n'a pas transmis l'information. Cette enquête a provoqué une avalanche de critiques de la part de ses opposants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon le journal \"Haaretz\", le Premier ministre israélien, informé d'une attaque en préparation, n'a pas transmis l'information. Cette enquête a provoqué une avalanche de critiques de la part de ses opposants."
+    },
+    "published": "Tue, 08 Sep 2026 11:51:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      9,
+      51,
+      51,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-critique-apres-la-publication-d-un-article-le-disant-informe-de-l-attaque-du-7-octobre_8182916.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/12YaZV8WchG9QGZQJsXukpvy8AM/0x0:1024x576/432x243/filters:format(jpg)/2026/09/08/6a9fd7e7ce26a684051145.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-critique-apres-la-publication-d-un-article-le-disant-informe-de-l-attaque-du-7-octobre_8182916.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-critique-apres-la-publication-d-un-article-le-disant-informe-de-l-attaque-du-7-octobre_8182916.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

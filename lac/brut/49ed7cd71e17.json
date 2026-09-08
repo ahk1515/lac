@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T16:01:56.181278+00:00",
+  "_id": "49ed7cd71e17",
+  "brut": {
+    "title": "Roman Badanine : « Pour Poutine, la guerre en Ukraine n’est qu’un moyen de se maintenir au pouvoir »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Roman Badanine : « Pour Poutine, la guerre en Ukraine n’est qu’un moyen de se maintenir au pouvoir »"
+    },
+    "published": "Tue, 08 Sep 2026 16:37:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      14,
+      37,
+      46,
+      1,
+      251,
+      0
+    ],
+    "summary": "Le coauteur, avec Mikhaïl Roubine, du livre événement « Le Tsar en personne » (en librairie le 17 septembre), dont « Le Monde » publie en exclusivité de larges extraits, explique leur démarche et souligne quelques-uns des enseignements de leur enquête.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le coauteur, avec Mikhaïl Roubine, du livre événement « Le Tsar en personne » (en librairie le 17 septembre), dont « Le Monde » publie en exclusivité de larges extraits, explique leur démarche et souligne quelques-uns des enseignements de leur enquête."
+    },
+    "id": "https://www.lemonde.fr/livres/article/2026/09/08/roman-badanine-pour-poutine-la-guerre-en-ukraine-n-est-qu-un-moyen-de-se-maintenir-au-pouvoir_6768396_3260.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/livres/article/2026/09/08/roman-badanine-pour-poutine-la-guerre-en-ukraine-n-est-qu-un-moyen-de-se-maintenir-au-pouvoir_6768396_3260.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/livres/article/2026/09/08/roman-badanine-pour-poutine-la-guerre-en-ukraine-n-est-qu-un-moyen-de-se-maintenir-au-pouvoir_6768396_3260.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/04/1050/0/2800/1400/644/322/60/0/a5f4e91_upload-1-8ijcgdqqnao4-herb25473-2023cl18.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Poupée russe « Rossia » avec le portrait de Vladimir Poutine, achetée au magasin Goum, à Moscou, en 2019. Extrait de la série « Mauvais souvenirs » (2023)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Guillaume Herbaut/Agence VU"
+      }
+    ],
+    "credit": "Guillaume Herbaut/Agence VU"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T16:01:56.467507+00:00",
+  "_id": "4c4e090d2e32",
+  "brut": {
+    "title": "Le suspect des actes de sabotage sur le réseau électrique allemand a été arrêté, annonce la police",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le suspect des actes de sabotage sur le réseau électrique allemand a été arrêté, annonce la police"
+    },
+    "summary": "D'après les médias allemands, il s'agit de l'homme de 48 ans recherché depuis vendredi, et qualifié par le gouvernement de militant \"extrémiste\" du climat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "D'après les médias allemands, il s'agit de l'homme de 48 ans recherché depuis vendredi, et qualifié par le gouvernement de militant \"extrémiste\" du climat."
+    },
+    "published": "Tue, 08 Sep 2026 14:00:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      12,
+      0,
+      28,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/l-auteur-presume-des-actes-de-sabotage-sur-le-reseau-electrique-allemand-a-ete-arrete-annonce-la-police_8183096.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JI1P8RaegbcquuPoP9PSzLUBsSY/0x203:3882x2386/432x243/filters:format(jpg)/2026/09/08/6a9ff46c72f56365475184.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-auteur-presume-des-actes-de-sabotage-sur-le-reseau-electrique-allemand-a-ete-arrete-annonce-la-police_8183096.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/l-auteur-presume-des-actes-de-sabotage-sur-le-reseau-electrique-allemand-a-ete-arrete-annonce-la-police_8183096.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

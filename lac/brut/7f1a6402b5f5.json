@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T16:01:56.180196+00:00",
+  "_id": "7f1a6402b5f5",
+  "brut": {
+    "title": "L’Australie veut permettre aux utilisateurs de désactiver les algorithmes sur les réseaux sociaux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Australie veut permettre aux utilisateurs de désactiver les algorithmes sur les réseaux sociaux"
+    },
+    "published": "Tue, 08 Sep 2026 17:06:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      15,
+      6,
+      9,
+      1,
+      251,
+      0
+    ],
+    "summary": "Après avoir interdit les réseaux sociaux aux moins de 16 ans, le gouvernement australien compte présenter un nouveau texte imposant un « devoir de protection » aux plateformes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après avoir interdit les réseaux sociaux aux moins de 16 ans, le gouvernement australien compte présenter un nouveau texte imposant un « devoir de protection » aux plateformes."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/09/08/l-australie-veut-permettre-aux-utilisateurs-de-desactiver-les-algorithmes-sur-les-reseaux-sociaux_6768406_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/09/08/l-australie-veut-permettre-aux-utilisateurs-de-desactiver-les-algorithmes-sur-les-reseaux-sociaux_6768406_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/09/08/l-australie-veut-permettre-aux-utilisateurs-de-desactiver-les-algorithmes-sur-les-reseaux-sociaux_6768406_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/720/0/8640/4320/644/322/60/0/2ada0da_ftp-1-5yfsbfkzqokk-304bde07aa894025a048b383fdc7308f-0-31279f7ee9ca4308923a383778658309.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un adolescent se sert de son téléphone à Sydney le 8 novembre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Rick Rycroft/AP Photo"
+      }
+    ],
+    "credit": "Rick Rycroft/AP Photo"
+  }
+}

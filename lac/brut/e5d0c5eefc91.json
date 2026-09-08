@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T16:01:56.465678+00:00",
+  "_id": "e5d0c5eefc91",
+  "brut": {
+    "title": "Cargos échoués, marins tués : la Turquie, victime collatérale de la guerre entre l'Ukraine et la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cargos échoués, marins tués : la Turquie, victime collatérale de la guerre entre l'Ukraine et la Russie"
+    },
+    "summary": "Depuis le mois de mai, en mer Noire, les attaques de navires par des drones, russes comme ukrainiens, se comptent par dizaines. Rien qu'au cours du mois de juillet, au moins 23 marins turcs auraient été tués au cours de ces attaques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis le mois de mai, en mer Noire, les attaques de navires par des drones, russes comme ukrainiens, se comptent par dizaines. Rien qu'au cours du mois de juillet, au moins 23 marins turcs auraient été tués au cours de ces attaques."
+    },
+    "published": "Tue, 08 Sep 2026 17:26:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      15,
+      26,
+      16,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/turquie/cargos-echoues-marins-tues-la-turquie-victime-collaterale-de-la-guerre-entre-l-ukraine-et-la-russie_8183165.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/1xd1S_1QPPB8x_ULo5o-hcq8gUk/0x208:4000x2458/432x243/filters:format(jpg)/2026/09/08/6aa01c778eb4f030691624.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/turquie/cargos-echoues-marins-tues-la-turquie-victime-collaterale-de-la-guerre-entre-l-ukraine-et-la-russie_8183165.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/turquie/cargos-echoues-marins-tues-la-turquie-victime-collaterale-de-la-guerre-entre-l-ukraine-et-la-russie_8183165.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T16:01:56.466568+00:00",
+  "_id": "099f6fa3d0a1",
+  "brut": {
+    "title": "Pourquoi le niveau des élèves britanniques est-il meilleur que celui des Français ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pourquoi le niveau des élèves britanniques est-il meilleur que celui des Français ?"
+    },
+    "summary": "Selon l’enquête PISA, les élèves britanniques obtiennent de meilleurs résultats que les Français dans les trois matières évaluées. Autonomie des enseignants, formation continue, soutien aux établissements difficiles : leur système scolaire mise sur une recette qui semble porter ses fruits.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon l’enquête PISA, les élèves britanniques obtiennent de meilleurs résultats que les Français dans les trois matières évaluées. Autonomie des enseignants, formation continue, soutien aux établissements difficiles : leur système scolaire mise sur une recette qui semble porter ses fruits."
+    },
+    "published": "Tue, 08 Sep 2026 16:14:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      14,
+      14,
+      35,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/education/pourquoi-le-niveau-des-eleves-britanniques-est-il-meilleur-que-celui-des-francais_8183156.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DHkF5ga3PS6etfSwceBcmtP3jQk/432x243/filters:format(jpg)/2026/08/31/6a95a509a217b177028727.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/education/pourquoi-le-niveau-des-eleves-britanniques-est-il-meilleur-que-celui-des-francais_8183156.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/education/pourquoi-le-niveau-des-eleves-britanniques-est-il-meilleur-que-celui-des-francais_8183156.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

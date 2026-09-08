@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T16:01:56.180455+00:00",
+  "_id": "b4abdc7b33da",
+  "brut": {
+    "title": "François Bayrou jugé en appel dans l’affaire des assistants parlementaires européens du MoDem",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "François Bayrou jugé en appel dans l’affaire des assistants parlementaires européens du MoDem"
+    },
+    "published": "Tue, 08 Sep 2026 17:00:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      15,
+      0,
+      25,
+      1,
+      251,
+      0
+    ],
+    "summary": "Relaxé en 2024, l’ancien premier ministre comparaît pour près d’un mois à la cour d’appel de Paris au côté de dix autres prévenus pour détournement de fonds publics.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Relaxé en 2024, l’ancien premier ministre comparaît pour près d’un mois à la cour d’appel de Paris au côté de dix autres prévenus pour détournement de fonds publics."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/08/francois-bayrou-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6768404_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/08/francois-bayrou-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6768404_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/08/francois-bayrou-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6768404_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/0/0/8256/4128/644/322/60/0/5c0ac5d_ftp-1-qrrxcnvjeejz-5990955-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "François Bayrou arrive au tribunal de grande instance de Paris, le 5 février 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MIGUEL MEDINA /AFP"
+      }
+    ],
+    "credit": "MIGUEL MEDINA /AFP"
+  }
+}
