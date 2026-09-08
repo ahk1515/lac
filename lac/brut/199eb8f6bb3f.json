@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T08:37:15.664861+00:00",
+  "_id": "199eb8f6bb3f",
+  "brut": {
+    "title": "Royaume-Uni : une manifestation anti-migrants à Portsmouth",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Royaume-Uni : une manifestation anti-migrants à Portsmouth"
+    },
+    "summary": "À Portsmouth, une manifestation contre les migrants a dégénéré dimanche 6 septembre après le sauvetage de 140 personnes. Alors que le gouvernement annonce une baisse des arrivées de 50 %, la tension monte face à de nouveaux itinéraires de passeurs et aux dérives de l'extrême droite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Portsmouth, une manifestation contre les migrants a dégénéré dimanche 6 septembre après le sauvetage de 140 personnes. Alors que le gouvernement annonce une baisse des arrivées de 50 %, la tension monte face à de nouveaux itinéraires de passeurs et aux dérives de l'extrême droite."
+    },
+    "published": "Tue, 08 Sep 2026 08:16:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      6,
+      16,
+      58,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-une-manifestation-anti-migrants-a-portsmouth_8182631.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/JIasx8k0Q5-kMpg12_ZqX402B9I/0x22:1401x810/432x243/filters:format(jpg)/2026/09/08/6a9fa853f3b46156306816.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-une-manifestation-anti-migrants-a-portsmouth_8182631.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-une-manifestation-anti-migrants-a-portsmouth_8182631.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T08:37:15.665130+00:00",
+  "_id": "500d559ef315",
+  "brut": {
+    "title": "L'Allemagne sous le choc après la victoire de l'extrême droite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Allemagne sous le choc après la victoire de l'extrême droite"
+    },
+    "summary": "C'est un choc politique sans précédent. Le parti d'extrême droite, AfD, est arrivé en tête aux élections régionales de Saxe-Anhalt. La contestation s’exprime dans la rue. Et le chancelier Friedrich Merz se dit “profondément choqué” par le résultat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "C'est un choc politique sans précédent. Le parti d'extrême droite, AfD, est arrivé en tête aux élections régionales de Saxe-Anhalt. La contestation s’exprime dans la rue. Et le chancelier Friedrich Merz se dit “profondément choqué” par le résultat."
+    },
+    "published": "Tue, 08 Sep 2026 08:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      6,
+      0,
+      1,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-sous-le-choc-apres-la-victoire-de-l-extreme-droite_8181737.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/29m3LF17LE5_7iet44Sbo72dnLc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9f16e454645252864895.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-sous-le-choc-apres-la-victoire-de-l-extreme-droite_8181737.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-sous-le-choc-apres-la-victoire-de-l-extreme-droite_8181737.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

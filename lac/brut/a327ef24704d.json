@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T08:37:15.551352+00:00",
+  "_id": "a327ef24704d",
+  "brut": {
+    "title": "L’Iran brandit la menace d’une escalade militaire pour briser le blocus américain",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Iran brandit la menace d’une escalade militaire pour briser le blocus américain"
+    },
+    "published": "Tue, 08 Sep 2026 10:03:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      8,
+      3,
+      44,
+      1,
+      251,
+      0
+    ],
+    "summary": "Téhéran, dont les exportations de brut sont réduites à peu de chose, peine à trouver des ressources budgétaires. Le régime iranien pourrait être tenté de mettre à profit la perspective des élections américaines de mi-mandat pour augmenter la pression militaire sur l’administration Trump.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Téhéran, dont les exportations de brut sont réduites à peu de chose, peine à trouver des ressources budgétaires. Le régime iranien pourrait être tenté de mettre à profit la perspective des élections américaines de mi-mandat pour augmenter la pression militaire sur l’administration Trump."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/08/l-iran-brandit-la-menace-d-une-escalade-militaire-pour-briser-le-blocus-americain_6768197_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/08/l-iran-brandit-la-menace-d-une-escalade-militaire-pour-briser-le-blocus-americain_6768197_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/08/l-iran-brandit-la-menace-d-une-escalade-militaire-pour-briser-le-blocus-americain_6768197_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/06/648/0/7779/3889/644/322/60/0/33ad963_ftp-1-r2snq2rjv8wq-5013880-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Bâtiments de stockage endommagés par une frappe américaine, sur le port de Kouhestak (Iran), le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ATTA KENARE/AFP"
+      }
+    ],
+    "credit": "ATTA KENARE/AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T08:37:15.551988+00:00",
+  "_id": "dbda79c87277",
+  "brut": {
+    "title": "VIDEO Guerre en Ukraine : la Russie reprend ses frappes sur Kiev après 3 jours de trêve",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Guerre en Ukraine : la Russie reprend ses frappes sur Kiev après 3 jours de trêve"
+    },
+    "published": "Tue, 08 Sep 2026 08:58:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      6,
+      58,
+      8,
+      1,
+      251,
+      0
+    ],
+    "summary": "Andrii Sybiha, ministre des affaires étrangères ukrainien, a dénoncé une nouvelle attaque russe massive contre la capitale, lancée, selon lui ,« dès le départ » des émissaires du président américain et qui a fait au moins deux morts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Andrii Sybiha, ministre des affaires étrangères ukrainien, a dénoncé une nouvelle attaque russe massive contre la capitale, lancée, selon lui ,« dès le départ » des émissaires du président américain et qui a fait au moins deux morts."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/08/guerre-en-ukraine-la-russie-reprend-ses-frappes-contre-kiev-apres-trois-jours-de-treve_6768125_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/08/guerre-en-ukraine-la-russie-reprend-ses-frappes-contre-kiev-apres-trois-jours-de-treve_6768125_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/08/guerre-en-ukraine-la-russie-reprend-ses-frappes-contre-kiev-apres-trois-jours-de-treve_6768125_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/433/0/5196/2598/644/322/60/0/e85d0e0_ftp-1-zpewzljwlwho-4a65b8bae3cb473999515fc04b8d268c-0-836ae63c4c4b4667a1c2025ade4b49ca.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un immeuble a pris feu à la suite des attaques russes massives de la capitale ukrainienne, Kiev, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EFREM LUKATSKY/AP Photo"
+      }
+    ],
+    "credit": "EFREM LUKATSKY/AP Photo"
+  }
+}

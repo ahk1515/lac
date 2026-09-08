@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T08:37:15.665932+00:00",
+  "_id": "cb2802281331",
+  "brut": {
+    "title": "Donald Trump veut sauver Hollywood grâce à un crédit d’impôt",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump veut sauver Hollywood grâce à un crédit d’impôt"
+    },
+    "summary": "De plus en plus de films et séries télévisées américains sont tournés en dehors des États-Unis, dans des pays avec plus d'avantages fiscaux. Donald Trump souhaite redonner toute sa gloire aux studio hollywoodiens en mettant en place un crédit d'impôt, afin de faire revenir ces tournages sur le sol américain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De plus en plus de films et séries télévisées américains sont tournés en dehors des États-Unis, dans des pays avec plus d'avantages fiscaux. Donald Trump souhaite redonner toute sa gloire aux studio hollywoodiens en mettant en place un crédit d'impôt, afin de faire revenir ces tournages sur le sol américain."
+    },
+    "published": "Tue, 08 Sep 2026 06:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      4,
+      0,
+      1,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/politique/donald-trump-veut-sauver-hollywood-grace-a-un-credit-d-impot_8181080.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jaDF0nnWoopo5Fz_6Ne95_nN5TM/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9eb9e3e904c483191348.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/politique/donald-trump-veut-sauver-hollywood-grace-a-un-credit-d-impot_8181080.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/politique/donald-trump-veut-sauver-hollywood-grace-a-un-credit-d-impot_8181080.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

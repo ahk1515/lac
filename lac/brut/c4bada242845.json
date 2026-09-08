@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T08:37:15.664571+00:00",
+  "_id": "c4bada242845",
+  "brut": {
+    "title": "À San Francisco, des militants emmenés par un Français campent devant OpenAI pour tenter de freiner la course à l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À San Francisco, des militants emmenés par un Français campent devant OpenAI pour tenter de freiner la course à l’IA"
+    },
+    "summary": "Depuis le 22 juillet, une poignée d’activistes s’installe chaque jour devant les bureaux d’OpenAI à San Francisco. À leur tête, le Français Michaël Trazzi, 30 ans, réclame un accord international pour stopper la course au développement des intelligences artificielles les plus avancées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis le 22 juillet, une poignée d’activistes s’installe chaque jour devant les bureaux d’OpenAI à San Francisco. À leur tête, le Français Michaël Trazzi, 30 ans, réclame un accord international pour stopper la course au développement des intelligences artificielles les plus avancées."
+    },
+    "published": "Tue, 08 Sep 2026 08:46:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      6,
+      46,
+      44,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/a-san-francisco-des-militants-emmenes-par-un-francais-campent-devant-openai-pour-freiner-la-course-a-l-ia_8168414.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/h188nGye-2yEu_ssTWvajRJb3YY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/08/6a9faeeb6d34a855190966.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/a-san-francisco-des-militants-emmenes-par-un-francais-campent-devant-openai-pour-freiner-la-course-a-l-ia_8168414.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/a-san-francisco-des-militants-emmenes-par-un-francais-campent-devant-openai-pour-freiner-la-course-a-l-ia_8168414.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
