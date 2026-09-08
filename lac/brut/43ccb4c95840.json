@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T22:22:31.735304+00:00",
+  "_id": "43ccb4c95840",
+  "brut": {
+    "title": "Le maire de Ceuta demande l’aide de l’Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le maire de Ceuta demande l’aide de l’Europe"
+    },
+    "published": "Tue, 08 Sep 2026 19:30:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      17,
+      30,
+      5,
+      1,
+      251,
+      0
+    ],
+    "updated": "Tue, 08 Sep 2026 19:55:31 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      8,
+      17,
+      55,
+      31,
+      1,
+      251,
+      0
+    ],
+    "summary": "Après l’afflux de migrants à la fin juillet dans l’enclave espagnole au Maroc, certains Etats-membres appellent à un nouveau durcissement de la politique migratoire européenne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après l’afflux de migrants à la fin juillet dans l’enclave espagnole au Maroc, certains Etats-membres appellent à un nouveau durcissement de la politique migratoire européenne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/08/le-maire-de-ceuta-demande-l-aide-de-l-europe_6768443_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/08/le-maire-de-ceuta-demande-l-aide-de-l-europe_6768443_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/08/le-maire-de-ceuta-demande-l-aide-de-l-europe_6768443_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/780/0/4680/2340/644/322/60/0/8e30d00_ftp-1-ha6lq9lvxmpn-ab159165df6e4457b57477a8fb6c372b-0-261e55511994429baead60508acffcb3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Juan Jesus Vivas, maire-président de Ceuta, au Parlement européen, à Bruxelles, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Omar Havana/AP"
+      }
+    ],
+    "credit": "Omar Havana/AP"
+  }
+}

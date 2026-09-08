@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T22:22:32.262915+00:00",
+  "_id": "64ade615521d",
+  "brut": {
+    "title": "Au Royaume-Uni, plus de 1 000 vols annulés dans plusieurs grandes villes après un \"problème technique\" du contrôle aérien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Royaume-Uni, plus de 1 000 vols annulés dans plusieurs grandes villes après un \"problème technique\" du contrôle aérien"
+    },
+    "summary": "Les aéroports londoniens d'Heathrow et Gatwick, mais aussi ceux de Liverpool, Birmingham ou Edimbourg font partie des sites britanniques concernés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les aéroports londoniens d'Heathrow et Gatwick, mais aussi ceux de Liverpool, Birmingham ou Edimbourg font partie des sites britanniques concernés."
+    },
+    "published": "Tue, 08 Sep 2026 22:33:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      20,
+      33,
+      15,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/transports/au-royaume-uni-de-nombreux-vols-annules-apres-un-probleme-technique-du-controle-aerien_8183633.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/J75xO6e-B97xHE5Y6QoshKidGC8/0x397:7612x4679/432x243/filters:format(jpg)/2026/09/08/6aa04258c238e974407931.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/transports/au-royaume-uni-de-nombreux-vols-annules-apres-un-probleme-technique-du-controle-aerien_8183633.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/transports/au-royaume-uni-de-nombreux-vols-annules-apres-un-probleme-technique-du-controle-aerien_8183633.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

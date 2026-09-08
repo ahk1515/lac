@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T22:22:31.734518+00:00",
+  "_id": "35bc46e20af1",
+  "brut": {
+    "title": "Détroit d’Ormuz : l’Iran affirme avoir saisi un drone sous-marin américain, tandis que Washington parle d’un engin « défectueux »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Détroit d’Ormuz : l’Iran affirme avoir saisi un drone sous-marin américain, tandis que Washington parle d’un engin « défectueux »"
+    },
+    "published": "Tue, 08 Sep 2026 22:22:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      20,
+      22,
+      26,
+      1,
+      251,
+      0
+    ],
+    "updated": "Tue, 08 Sep 2026 23:06:36 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      8,
+      21,
+      6,
+      36,
+      1,
+      251,
+      0
+    ],
+    "summary": "L’armée américaine a par ailleurs mené une attaque de missile contre un pétrolier iranien près de l’île iranienne de Kharg, dans le Golfe, a rapporté mardi soir l’agence iranienne Tasnim.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée américaine a par ailleurs mené une attaque de missile contre un pétrolier iranien près de l’île iranienne de Kharg, dans le Golfe, a rapporté mardi soir l’agence iranienne Tasnim."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/937/0/5708/2854/644/322/60/0/135c7e9_ftp-1-4w1chuix8nuv-8d4445d574cc4c088418e53eb24fd46e-0-e923f132ddef41389c073b491a001e0d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette photo diffusée par les gardiens de la révolution iraniens montrerait un drone sous-marin américain capturé dans le détroit d’Ormuz, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sepahnews via AP"
+      }
+    ],
+    "credit": "Sepahnews via AP"
+  }
+}

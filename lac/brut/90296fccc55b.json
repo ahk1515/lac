@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T22:22:32.262523+00:00",
+  "_id": "90296fccc55b",
+  "brut": {
+    "title": "Ils se réfugient dans le métro de Kiev face aux bombes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ils se réfugient dans le métro de Kiev face aux bombes"
+    },
+    "summary": "Au moins trois morts à Kiev. Nouvelle nuit d'angoisse sous les missiles et les drones russes. Les Ukrainiens, exaspérés, trouvent refuge dans le métro.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins trois morts à Kiev. Nouvelle nuit d'angoisse sous les missiles et les drones russes. Les Ukrainiens, exaspérés, trouvent refuge dans le métro."
+    },
+    "published": "Tue, 08 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      20,
+      0,
+      2,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-se-refugient-dans-le-metro-de-kiev-face-aux-bombes_8183714.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/X8hcWEbroLxU4YnLlXTHgkYXGY0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6aa05e7878ece582355925.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-se-refugient-dans-le-metro-de-kiev-face-aux-bombes_8183714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-se-refugient-dans-le-metro-de-kiev-face-aux-bombes_8183714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

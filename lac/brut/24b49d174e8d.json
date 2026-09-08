@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-08T22:22:32.262074+00:00",
+  "_id": "24b49d174e8d",
+  "brut": {
+    "title": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump"
+    },
+    "summary": "Cette initiative de la série satirique tourne en dérision les velléités du président américain de rebaptiser des lieux à travers le monde par des décisions unilatérales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette initiative de la série satirique tourne en dérision les velléités du président américain de rebaptiser des lieux à travers le monde par des décisions unilatérales."
+    },
+    "published": "Tue, 08 Sep 2026 23:53:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      21,
+      53,
+      0,
+      1,
+      251,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/iypxF9eB80qaa6Gbaa9f5xnG-lM/0x0:1024x576/432x243/filters:format(jpg)/2026/09/08/6aa0836918f9d880545602.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

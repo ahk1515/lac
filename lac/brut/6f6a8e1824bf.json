@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-08T22:22:31.734890+00:00",
+  "_id": "6f6a8e1824bf",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : cinq personnes sont mortes à Kiev et 25 ont été blessées depuis la fin de la trêve de trois jours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : cinq personnes sont mortes à Kiev et 25 ont été blessées depuis la fin de la trêve de trois jours"
+    },
+    "published": "Tue, 08 Sep 2026 20:53:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      18,
+      53,
+      0,
+      1,
+      251,
+      0
+    ],
+    "updated": "Tue, 08 Sep 2026 21:57:47 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      8,
+      19,
+      57,
+      47,
+      1,
+      251,
+      0
+    ],
+    "summary": "Après trois jours de trêve en raison de la visite à Kiev des émissaires américains Steve Witkoff et Jared Kushner, et des pourparlers visant à mettre fin à la guerre, de fortes explosions ont été entendues tôt mardi à Kiev, ont constaté des journalistes de l’Agence France-Presse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après trois jours de trêve en raison de la visite à Kiev des émissaires américains Steve Witkoff et Jared Kushner, et des pourparlers visant à mettre fin à la guerre, de fortes explosions ont été entendues tôt mardi à Kiev, ont constaté des journalistes de l’Agence France-Presse."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-cinq-personnes-sont-mortes-a-kiev-et-25-ont-ete-blessees-depuis-la-fin-de-la-treve-de-trois-jours_6766818_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-cinq-personnes-sont-mortes-a-kiev-et-25-ont-ete-blessees-depuis-la-fin-de-la-treve-de-trois-jours_6766818_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-cinq-personnes-sont-mortes-a-kiev-et-25-ont-ete-blessees-depuis-la-fin-de-la-treve-de-trois-jours_6766818_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/866/0/5955/2977/644/322/60/0/b37c2b0_ftp-1-0byoldqf36vv-b6d8b5ca9b6b4ef1894ef90d3eadb7f4-0-06ded27fbf044febaf40ce70866cf085.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Incendie d’un entrepôt à la suite d’une attaque russe, à Kiev, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP Photo"
+      }
+    ],
+    "credit": "Dan Bashakov/AP Photo"
+  }
+}
