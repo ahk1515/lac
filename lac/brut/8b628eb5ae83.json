@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T15:57:29.087511+00:00",
+  "_id": "8b628eb5ae83",
+  "brut": {
+    "title": "L’espace, un test de puissance pour l’Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’espace, un test de puissance pour l’Europe"
+    },
+    "published": "Wed, 09 Sep 2026 11:30:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      9,
+      30,
+      5,
+      2,
+      252,
+      0
+    ],
+    "summary": "Les pays du Vieux Continent continuent de gérer le sujet du spatial comme un assemblage de souverainetés nationales alors que la compétition se joue entre blocs de puissance. S’ils ne veulent pas décrocher face aux Etats-Unis et à la Chine, les Européens doivent changer de méthode.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les pays du Vieux Continent continuent de gérer le sujet du spatial comme un assemblage de souverainetés nationales alors que la compétition se joue entre blocs de puissance. S’ils ne veulent pas décrocher face aux Etats-Unis et à la Chine, les Européens doivent changer de méthode."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/09/l-espace-un-test-de-puissance-pour-l-europe_6768873_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/09/l-espace-un-test-de-puissance-pour-l-europe_6768873_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/09/l-espace-un-test-de-puissance-pour-l-europe_6768873_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/462/0/4425/2212/644/322/60/0/f920416_ftp-1-mpxgr94aapsx-5986403-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des scientifiques testent des combinaisons spatiales au centre de simulation lunaire LUNA situé sur le campus du Centre aérospatial allemand à Cologne (Rhénanie-du-Nord-Westphalie), le 3 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "INA FASSBENDER/AFP"
+      }
+    ],
+    "credit": "INA FASSBENDER/AFP"
+  }
+}

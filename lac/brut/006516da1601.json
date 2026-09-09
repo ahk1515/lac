@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T15:57:29.087179+00:00",
+  "_id": "006516da1601",
+  "brut": {
+    "title": "VIDEO L’Arabie saoudite publie les images des dégâts après les attaques des houthistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO L’Arabie saoudite publie les images des dégâts après les attaques des houthistes"
+    },
+    "published": "Wed, 09 Sep 2026 11:47:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      9,
+      47,
+      9,
+      2,
+      252,
+      0
+    ],
+    "summary": "Le royaume saoudien a mené plus de 30 frappes aériennes en représailles à une attaque majeure des rebelles yéménites qui avait fait 73 blessés civils, selon la coalition dirigée par Riyad.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le royaume saoudien a mené plus de 30 frappes aériennes en représailles à une attaque majeure des rebelles yéménites qui avait fait 73 blessés civils, selon la coalition dirigée par Riyad."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/09/yemen-l-arabie-saoudite-publie-les-images-des-degats-apres-les-attaques-des-houthistes_6768877_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/09/yemen-l-arabie-saoudite-publie-les-images-des-degats-apres-les-attaques-des-houthistes_6768877_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/09/yemen-l-arabie-saoudite-publie-les-images-des-degats-apres-les-attaques-des-houthistes_6768877_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/48/0/1871/935/644/322/60/0/6c79128_ftp-1-bwnqbvslunl9-2026-09-09t070649z-1828416707-rc2ifnabun30-rtrmadp-3-saudi-yemen-aftermath.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Saudi Press Agency / via REUTERS"
+      }
+    ],
+    "credit": "Saudi Press Agency / via REUTERS"
+  }
+}

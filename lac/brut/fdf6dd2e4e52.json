@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T15:57:29.085335+00:00",
+  "_id": "fdf6dd2e4e52",
+  "brut": {
+    "title": "Espagne : l’été 2026 « a été le plus chaud jamais enregistré », selon l’agence météorologique espagnole",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Espagne : l’été 2026 « a été le plus chaud jamais enregistré », selon l’agence météorologique espagnole"
+    },
+    "published": "Wed, 09 Sep 2026 15:03:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      13,
+      3,
+      11,
+      2,
+      252,
+      0
+    ],
+    "updated": "Wed, 09 Sep 2026 15:23:21 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      9,
+      13,
+      23,
+      21,
+      2,
+      252,
+      0
+    ],
+    "summary": "Sur la saison, la température moyenne relevée dans le pays a été de 24,5 °C. L’agence météorologique espagnole a recensé quatre vagues de chaleur, pour un total de 61 jours de températures extrêmes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sur la saison, la température moyenne relevée dans le pays a été de 24,5 °C. L’agence météorologique espagnole a recensé quatre vagues de chaleur, pour un total de 61 jours de températures extrêmes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/09/canicule-en-2026-l-espagne-enregistre-son-ete-le-plus-chaud_6768909_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/09/canicule-en-2026-l-espagne-enregistre-son-ete-le-plus-chaud_6768909_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/09/canicule-en-2026-l-espagne-enregistre-son-ete-le-plus-chaud_6768909_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/966/0/7691/3845/644/322/60/0/33545b2_upload-1-2qwv3tvr0pgz-000-c6zd2cu.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une vague de chaleur à Madrid, le 25 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "THOMAS COEX/AFP"
+      }
+    ],
+    "credit": "THOMAS COEX/AFP"
+  }
+}

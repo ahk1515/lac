@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-09T15:57:29.908383+00:00",
+  "_id": "aa2bb7cf8b89",
+  "brut": {
+    "title": "OpenAI affirme avoir résolu l’équation mathématique de Navier-Stokes, un défi vieux de deux siècles, mais la prouesse fait polémique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "OpenAI affirme avoir résolu l’équation mathématique de Navier-Stokes, un défi vieux de deux siècles, mais la prouesse fait polémique"
+    },
+    "summary": "Le créateur de ChatGPT annonce avoir trouvé la solution à l'équation Navier-Stokes, faisant partie des sept problèmes dits du millénaire. Mais des chercheurs estiment qu'il y a plagiat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le créateur de ChatGPT annonce avoir trouvé la solution à l'équation Navier-Stokes, faisant partie des sept problèmes dits du millénaire. Mais des chercheurs estiment qu'il y a plagiat."
+    },
+    "published": "Wed, 09 Sep 2026 10:50:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      8,
+      50,
+      26,
+      2,
+      252,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/openai-affirme-avoir-resolu-l-equation-mathematique-de-navier-stokes-un-defi-vieux-de-deux-siecles-mais-la-prouesse-fait-polemique_8168348.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/EyaQ6pdPzdQPbjyS7KHlWKYSRXQ/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/09/6aa11cd4921a7849326279.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/openai-affirme-avoir-resolu-l-equation-mathematique-de-navier-stokes-un-defi-vieux-de-deux-siecles-mais-la-prouesse-fait-polemique_8168348.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/openai-affirme-avoir-resolu-l-equation-mathematique-de-navier-stokes-un-defi-vieux-de-deux-siecles-mais-la-prouesse-fait-polemique_8168348.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

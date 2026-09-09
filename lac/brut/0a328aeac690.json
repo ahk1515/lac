@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-09T15:57:29.905505+00:00",
+  "_id": "0a328aeac690",
+  "brut": {
+    "title": "Europe : les pays les plus touchés par la crise du logement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Europe : les pays les plus touchés par la crise du logement"
+    },
+    "summary": "En Europe, se loger coûte de plus en plus cher. Dans 11 pays sur 27, les prix ont plus que doublé depuis 2015. C’est ce que pointe le Conseil de l’Union européenne. Cette crise touche particulièrement les jeunes qui quittent le logement parental de plus en plus tardivement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Europe, se loger coûte de plus en plus cher. Dans 11 pays sur 27, les prix ont plus que doublé depuis 2015. C’est ce que pointe le Conseil de l’Union européenne. Cette crise touche particulièrement les jeunes qui quittent le logement parental de plus en plus tardivement."
+    },
+    "published": "Wed, 09 Sep 2026 16:00:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      14,
+      0,
+      20,
+      2,
+      252,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/europe-les-pays-les-plus-touches-par-la-crise-du-logement_8184857.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_z0x5Cd_Uw9vrPMP5f0CIgnfPrA/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/09/6aa165d4e3e65481488372.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/europe-les-pays-les-plus-touches-par-la-crise-du-logement_8184857.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/europe-les-pays-les-plus-touches-par-la-crise-du-logement_8184857.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
