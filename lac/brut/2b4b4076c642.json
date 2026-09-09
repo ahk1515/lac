@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-09T08:39:12.072293+00:00",
+  "_id": "2b4b4076c642",
+  "brut": {
+    "title": "La Maison Blanche retire de son site un jeu vidéo polémique inspiré de \"Tetris\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Maison Blanche retire de son site un jeu vidéo polémique inspiré de \"Tetris\""
+    },
+    "summary": "Proposé depuis jeudi sur le site de la Maison Blanche, le jeu \"Build the Wall\" (\"Construisez le mur\") invitait les joueurs à bâtir un mur pour protéger \"la frontière de la horde qui arrive\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Proposé depuis jeudi sur le site de la Maison Blanche, le jeu \"Build the Wall\" (\"Construisez le mur\") invitait les joueurs à bâtir un mur pour protéger \"la frontière de la horde qui arrive\"."
+    },
+    "published": "Wed, 09 Sep 2026 07:44:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      5,
+      44,
+      50,
+      2,
+      252,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/la-maison-blanche-retire-de-son-site-un-jeu-video-polemique-inspire-de-tetris_8184248.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/IjjNqGfO-kyIuFDAvxX12RuwIRQ/299x0:1587x724/432x243/filters:format(jpg)/2026/09/09/6aa0ef9ca583f519578063.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/la-maison-blanche-retire-de-son-site-un-jeu-video-polemique-inspire-de-tetris_8184248.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/la-maison-blanche-retire-de-son-site-un-jeu-video-polemique-inspire-de-tetris_8184248.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

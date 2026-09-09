@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-09T08:39:12.070913+00:00",
+  "_id": "dff00299ada2",
+  "brut": {
+    "title": "Bernard Arnault 3/4 : Puissant parmi les puissants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Bernard Arnault 3/4 : Puissant parmi les puissants"
+    },
+    "summary": "Le portrait, en quatre parties, de Bernard Arnault, l’homme des présidents, raconté par Agathe Mahuet et Théo Gomar. Bernard Arnault cultive depuis des décennies des relations étroites avec les puissants, de Donald Trump à Emmanuel Macron, en passant par Xi Jinping et Vladimir Poutine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le portrait, en quatre parties, de Bernard Arnault, l’homme des présidents, raconté par Agathe Mahuet et Théo Gomar. Bernard Arnault cultive depuis des décennies des relations étroites avec les puissants, de Donald Trump à Emmanuel Macron, en passant par Xi Jinping et Vladimir Poutine."
+    },
+    "published": "Wed, 09 Sep 2026 09:37:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      7,
+      37,
+      52,
+      2,
+      252,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-3-4-puissant-parmi-les-puissants_8180906.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/eyqel2Oxx6vfbWSm5kNOG7CbS-U/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e994ec8561768226862.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-3-4-puissant-parmi-les-puissants_8180906.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-3-4-puissant-parmi-les-puissants_8180906.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

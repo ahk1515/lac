@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T08:39:11.389296+00:00",
+  "_id": "407d143964c3",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : un poste à la frontière avec la Moldavie attaqué par des drones russes, le gouvernement moldave dénonce « un risque direct pour ses citoyens »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : un poste à la frontière avec la Moldavie attaqué par des drones russes, le gouvernement moldave dénonce « un risque direct pour ses citoyens »"
+    },
+    "published": "Wed, 09 Sep 2026 08:10:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      6,
+      10,
+      52,
+      2,
+      252,
+      0
+    ],
+    "updated": "Wed, 09 Sep 2026 10:25:31 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      9,
+      8,
+      25,
+      31,
+      2,
+      252,
+      0
+    ],
+    "summary": "Une attaque de drones russes contre le poste-frontière de Starokojache a tué deux personnes et en a blessé trois autres, selon le gouverneur local. Selon les autorités ukrainiennes, près de 200 drones ont été lancés sur Kiev et sa région. Moscou affirme avoir abattu près de 600 drones ukrainiens, et confirme une attaque contre sa flotte à Novorossiïsk.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une attaque de drones russes contre le poste-frontière de Starokojache a tué deux personnes et en a blessé trois autres, selon le gouverneur local. Selon les autorités ukrainiennes, près de 200 drones ont été lancés sur Kiev et sa région. Moscou affirme avoir abattu près de 600 drones ukrainiens, et confirme une attaque contre sa flotte à Novorossiïsk."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/09/en-direct-guerre-en-ukraine-deux-morts-dans-une-attaque-de-drones-russes-a-la-frontiere-entre-l-ukraine-et-la-moldavie_6766818_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/09/en-direct-guerre-en-ukraine-deux-morts-dans-une-attaque-de-drones-russes-a-la-frontiere-entre-l-ukraine-et-la-moldavie_6766818_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/09/en-direct-guerre-en-ukraine-deux-morts-dans-une-attaque-de-drones-russes-a-la-frontiere-entre-l-ukraine-et-la-moldavie_6766818_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/202/0/1350/675/644/322/60/0/9b1d232_ftp-1-j8j3nm9htvwu-2026-09-09t065836z-1888600457-rc2ifnazl9ke-rtrmadp-3-ukraine-crisis-attack-border.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le poste de contrôle frontalier de Starokojache, à la frontière entre l’Ukraine et la Moldavie, endommagé par une frappe de drone russe dans l’oblast d’Odessa (Ukraine), le 9 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service national des gardes-frontières d’Ukraine/REUTERS"
+      }
+    ],
+    "credit": "Service national des gardes-frontières d’Ukraine/REUTERS"
+  }
+}

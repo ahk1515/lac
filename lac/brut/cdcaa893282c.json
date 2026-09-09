@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T08:39:11.391142+00:00",
+  "_id": "cdcaa893282c",
+  "brut": {
+    "title": "Les Pays-Bas se découvrent à leur tour vulnérables à la sécheresse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Pays-Bas se découvrent à leur tour vulnérables à la sécheresse"
+    },
+    "published": "Wed, 09 Sep 2026 05:30:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      3,
+      30,
+      13,
+      2,
+      252,
+      0
+    ],
+    "summary": "Alors que le pays s’est construit en luttant contre le risque d’inondation, les Néerlandais doivent opérer un profond changement de mentalité et prendre en compte la sécheresse dans leur gestion centenaire de l’eau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que le pays s’est construit en luttant contre le risque d’inondation, les Néerlandais doivent opérer un profond changement de mentalité et prendre en compte la sécheresse dans leur gestion centenaire de l’eau."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/09/les-pays-bas-se-decouvrent-a-leur-tour-vulnerables-a-la-secheresse_6768821_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/09/les-pays-bas-se-decouvrent-a-leur-tour-vulnerables-a-la-secheresse_6768821_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/09/les-pays-bas-se-decouvrent-a-leur-tour-vulnerables-a-la-secheresse_6768821_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/237/0/5854/2927/644/322/60/0/bdd3aea_ftp-1-brytodpengub-57fea8327c1d427d865ba234b1e8fa0d-3-a0dcbc92472a440d9ceb051e5159b788.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le lit asséché de la rivière Waal, près de Nimègue (Pays-Bas), le 30 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Patrick Post/AP"
+      }
+    ],
+    "credit": "Patrick Post/AP"
+  }
+}

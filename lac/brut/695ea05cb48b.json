@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T08:39:11.389138+00:00",
+  "_id": "695ea05cb48b",
+  "brut": {
+    "title": "Yémen : plus de 30 frappes aériennes saoudiennes en représailles à une attaque majeure des rebelles houthistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Yémen : plus de 30 frappes aériennes saoudiennes en représailles à une attaque majeure des rebelles houthistes"
+    },
+    "published": "Wed, 09 Sep 2026 08:34:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      6,
+      34,
+      37,
+      2,
+      252,
+      0
+    ],
+    "summary": "Elles ont été lancées au lendemain d’une attaque d’ampleur des houthistes contre le sud de l’Arabie saoudite et qui a fait 73 blessés civils, selon la coalition dirigée par Riyad.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Elles ont été lancées au lendemain d’une attaque d’ampleur des houthistes contre le sud de l’Arabie saoudite et qui a fait 73 blessés civils, selon la coalition dirigée par Riyad."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/09/yemen-plus-de-30-frappes-aeriennes-saoudiennes-en-represailles-a-une-attaque-majeure-des-rebelles-houthistes_6768845_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/09/yemen-plus-de-30-frappes-aeriennes-saoudiennes-en-represailles-a-une-attaque-majeure-des-rebelles-houthistes_6768845_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/09/yemen-plus-de-30-frappes-aeriennes-saoudiennes-en-represailles-a-une-attaque-majeure-des-rebelles-houthistes_6768845_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/250/0/3000/1500/644/322/60/0/8359368_ftp-1-apl95ssfvfgl-5025309-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette capture d’écran, tirée d’une vidéo diffusée le 8 septembre 2026 par les Forces de résistance nationale au Yémen (soutenues par l’Arabie saoudite), montre le tir d’une roquette en direction de combattants houthistes, sur le front de Kadha, à l’ouest de la ville de Taëz (Yémen)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Forces de résistance nationale du Yémen/AFP"
+      }
+    ],
+    "credit": "Forces de résistance nationale du Yémen/AFP"
+  }
+}

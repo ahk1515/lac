@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T08:39:11.390334+00:00",
+  "_id": "d317e9165b02",
+  "brut": {
+    "title": "Au Royaume-Uni, une panne du contrôle aérien « très complexe » a provoqué des annulations de vols en cascade",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Royaume-Uni, une panne du contrôle aérien « très complexe » a provoqué des annulations de vols en cascade"
+    },
+    "published": "Wed, 09 Sep 2026 06:13:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      4,
+      13,
+      31,
+      2,
+      252,
+      0
+    ],
+    "updated": "Wed, 09 Sep 2026 07:34:32 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      9,
+      5,
+      34,
+      32,
+      2,
+      252,
+      0
+    ],
+    "summary": "L’organisme britannique chargé du contrôle aérien a assuré avoir résolu le dysfonctionnement, mais au moins 177 vols ont encore été annulés mercredi, contre environ 1 300 la veille, selon le site de suivi du trafic aérien Flightradar24.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’organisme britannique chargé du contrôle aérien a assuré avoir résolu le dysfonctionnement, mais au moins 177 vols ont encore été annulés mercredi, contre environ 1 300 la veille, selon le site de suivi du trafic aérien Flightradar24."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/09/au-royaume-uni-une-panne-du-controle-aerien-tres-complexe-a-provoque-des-annulations-de-vols-en-cascade_6768831_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/09/au-royaume-uni-une-panne-du-controle-aerien-tres-complexe-a-provoque-des-annulations-de-vols-en-cascade_6768831_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/09/au-royaume-uni-une-panne-du-controle-aerien-tres-complexe-a-provoque-des-annulations-de-vols-en-cascade_6768831_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/417/0/5000/2500/644/322/60/0/d18c54a_ftp-1-9zkd9v0grmmd-5032403-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A l’aéroport de Londres-Heathrow, à Londres, après l’annulation de nombreux vols, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HENRY NICHOLLS/AFP"
+      }
+    ],
+    "credit": "HENRY NICHOLLS/AFP"
+  }
+}

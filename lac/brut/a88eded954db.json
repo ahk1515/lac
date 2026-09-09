@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T08:39:11.390483+00:00",
+  "_id": "a88eded954db",
+  "brut": {
+    "title": "Le gouvernement grec aux petits soins avec le haut clergé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement grec aux petits soins avec le haut clergé"
+    },
+    "published": "Wed, 09 Sep 2026 06:09:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      4,
+      9,
+      1,
+      2,
+      252,
+      0
+    ],
+    "updated": "Wed, 09 Sep 2026 06:45:47 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      9,
+      4,
+      45,
+      47,
+      2,
+      252,
+      0
+    ],
+    "summary": "L’augmentation massive des salaires des évêques a choqué l’opposition de gauche et une partie des citoyens, relançant le débat sur la non-séparation entre l’Eglise orthodoxe et l’Etat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’augmentation massive des salaires des évêques a choqué l’opposition de gauche et une partie des citoyens, relançant le débat sur la non-séparation entre l’Eglise orthodoxe et l’Etat."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/09/le-gouvernement-grec-aux-petits-soins-du-haut-clerge_6768830_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/09/le-gouvernement-grec-aux-petits-soins-du-haut-clerge_6768830_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/09/le-gouvernement-grec-aux-petits-soins-du-haut-clerge_6768830_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/03/13/500/0/6000/3000/644/322/60/0/b6d90c1_ftp-import-images-1-6ks4p2qnjmek-2025-03-13t103523z-2009588165-rc2acdauanij-rtrmadp-3-greece-president.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’archevêque d’Athènes et de la Grèce, Hiéronyme II, et le nouveau président grec, Constantine Tassoulas, lors de sa cérémonie de prestation de serment au Parlement grec, à Athènes, le 13 mars 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Louisa Gouliamaki/REUTERS"
+      }
+    ],
+    "credit": "Louisa Gouliamaki/REUTERS"
+  }
+}
