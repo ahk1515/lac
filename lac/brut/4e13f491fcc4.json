@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T03:13:35.912637+00:00",
+  "_id": "4e13f491fcc4",
+  "brut": {
+    "title": "Bolivie : les cultures de coca en hausse de 7 % en 2025",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bolivie : les cultures de coca en hausse de 7 % en 2025"
+    },
+    "published": "Wed, 09 Sep 2026 04:10:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      2,
+      10,
+      13,
+      2,
+      252,
+      0
+    ],
+    "summary": "Le pays sud-américain, où des groupes criminels se disputent le contrôle de couloirs servant au trafic de cocaïne, a vu la superficie de ces plantations atteindre « 36 400 hectares » dans des zones que l’Etat peine a accédé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pays sud-américain, où des groupes criminels se disputent le contrôle de couloirs servant au trafic de cocaïne, a vu la superficie de ces plantations atteindre « 36 400 hectares » dans des zones que l’Etat peine a accédé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/09/bolivie-les-cultures-de-coca-en-hausse-de-7-en-2025_6768721_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/09/bolivie-les-cultures-de-coca-en-hausse-de-7-en-2025_6768721_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/09/bolivie-les-cultures-de-coca-en-hausse-de-7-en-2025_6768721_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/323/0/8139/4069/644/322/60/0/f33a518_ftp-1-ascnsqldsh21-91251a565f724bf1bf7fcfa95cd87b2d-0-7c6454682b8e4e8a8a12680d79ee4e20.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un vendeur de feuilles de coca, à La Paz, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Juan Karita/AP"
+      }
+    ],
+    "credit": "Juan Karita/AP"
+  }
+}
