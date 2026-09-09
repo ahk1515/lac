@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T19:10:11.703119+00:00",
+  "_id": "92429df817bb",
+  "brut": {
+    "title": "Le retour annoncé de la météorite Agpalilik au Groenland, un geste de conciliation du Danemark",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le retour annoncé de la météorite Agpalilik au Groenland, un geste de conciliation du Danemark"
+    },
+    "published": "Wed, 09 Sep 2026 21:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      19,
+      0,
+      13,
+      2,
+      252,
+      0
+    ],
+    "summary": "Exposé à Copenhague, le caillou ferreux se trouve sur le sol danois depuis 1967. Sa restitution s’inscrit dans les efforts d’apaisement déployés par le Danemark à l’égard du territoire autonome, qui se sont intensifiés face aux menaces d’annexion américaines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Exposé à Copenhague, le caillou ferreux se trouve sur le sol danois depuis 1967. Sa restitution s’inscrit dans les efforts d’apaisement déployés par le Danemark à l’égard du territoire autonome, qui se sont intensifiés face aux menaces d’annexion américaines."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/09/le-retour-annonce-de-la-meteorite-agpalilik-au-groenland-un-geste-de-conciliation-du-danemark_6768959_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/09/le-retour-annonce-de-la-meteorite-agpalilik-au-groenland-un-geste-de-conciliation-du-danemark_6768959_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/09/le-retour-annonce-de-la-meteorite-agpalilik-au-groenland-un-geste-de-conciliation-du-danemark_6768959_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/07/635/0/7536/3768/644/322/60/0/f12e945_ftp-1-mbdl0cnihmxj-5022069-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La météorite de fer Agpalilik, dans la cour du Muséum d’histoire naturelle du Danemark, à Copenhague, le 29 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NIELS AHLMANN OLESEN/AFP"
+      }
+    ],
+    "credit": "NIELS AHLMANN OLESEN/AFP"
+  }
+}

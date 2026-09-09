@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T19:10:11.703836+00:00",
+  "_id": "63011382fe69",
+  "brut": {
+    "title": "Aux Etats-Unis, l’été 2026 a été le plus chaud jamais enregistré",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, l’été 2026 a été le plus chaud jamais enregistré"
+    },
+    "published": "Wed, 09 Sep 2026 18:28:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      16,
+      28,
+      2,
+      2,
+      252,
+      0
+    ],
+    "updated": "Wed, 09 Sep 2026 18:29:01 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      9,
+      16,
+      29,
+      1,
+      2,
+      252,
+      0
+    ],
+    "summary": "Plus globalement, quatre des cinq étés les plus chauds jamais enregistrés dans le pays sont survenus au cours des cinq dernières années, souligne l’Agence américaine d’observation océanique et atmosphérique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plus globalement, quatre des cinq étés les plus chauds jamais enregistrés dans le pays sont survenus au cours des cinq dernières années, souligne l’Agence américaine d’observation océanique et atmosphérique."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/09/aux-etats-unis-l-ete-2026-a-ete-le-plus-chaud-jamais-enregistre_6768941_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/09/aux-etats-unis-l-ete-2026-a-ete-le-plus-chaud-jamais-enregistre_6768941_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/09/aux-etats-unis-l-ete-2026-a-ete-le-plus-chaud-jamais-enregistre_6768941_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/12/542/0/6500/3250/644/322/60/0/42e51a2_ftp-1-4bcm5xqjwiud-2026-08-12t191307z-1677015364-rc24xmabvjp1-rtrmadp-3-usa-environment-lake-mead.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La ligne blanche visible sur les parois rocheuses du lac Mead, près de Boulder City (Nevada), témoignant du niveau atteint par les eaux du plus grand réservoir des États-Unis avant la sécheresse qui l’a frappé, le 12 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Daniel Cole/EUTERS"
+      }
+    ],
+    "credit": "Daniel Cole/EUTERS"
+  }
+}
