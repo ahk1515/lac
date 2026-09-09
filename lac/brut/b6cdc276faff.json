@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T22:16:23.551229+00:00",
+  "_id": "b6cdc276faff",
+  "brut": {
+    "title": "Arabie saoudite : une nouvelle attaque houthiste après des dizaines de frappes saoudiennes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Arabie saoudite : une nouvelle attaque houthiste après des dizaines de frappes saoudiennes"
+    },
+    "published": "Wed, 09 Sep 2026 21:37:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      19,
+      37,
+      51,
+      2,
+      252,
+      0
+    ],
+    "summary": "Cette nouvelle escalade a lieu au lendemain d’une attaque d’envergure des houthistes ayant fait 73 blessés dans le royaume saoudien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette nouvelle escalade a lieu au lendemain d’une attaque d’envergure des houthistes ayant fait 73 blessés dans le royaume saoudien."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/09/arabie-saoudite-une-nouvelle-attaque-houthiste-apres-des-dizaines-de-frappes-saoudiennes_6768962_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/09/arabie-saoudite-une-nouvelle-attaque-houthiste-apres-des-dizaines-de-frappes-saoudiennes_6768962_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/09/arabie-saoudite-une-nouvelle-attaque-houthiste-apres-des-dizaines-de-frappes-saoudiennes_6768962_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/1452/0/7014/3507/644/322/60/0/c7b3bd4_ftp-1-mr1mkx7xhtst-5035123-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue aérienne de la base aérienne du roi Khaled, près de la ville saoudienne de Khamis Mushait, après avoir été touchée par une frappe houthiste, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PLANET LABS/AFP"
+      }
+    ],
+    "credit": "PLANET LABS/AFP"
+  }
+}

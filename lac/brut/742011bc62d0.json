@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-09T22:16:23.550487+00:00",
+  "_id": "742011bc62d0",
+  "brut": {
+    "title": "La Syrie condamne l’entrée « illégale » de Benyamin Nétanyahou sur son territoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Syrie condamne l’entrée « illégale » de Benyamin Nétanyahou sur son territoire"
+    },
+    "published": "Wed, 09 Sep 2026 22:54:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      20,
+      54,
+      34,
+      2,
+      252,
+      0
+    ],
+    "updated": "Wed, 09 Sep 2026 23:36:44 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      9,
+      21,
+      36,
+      44,
+      2,
+      252,
+      0
+    ],
+    "summary": "Le premier ministre israélien, lors d’une rare visite à ses troupes déployées sur le versant syrien du mont Hermon, a affirmé que la République islamique d’Iran était sur le point de s’effondrer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le premier ministre israélien, lors d’une rare visite à ses troupes déployées sur le versant syrien du mont Hermon, a affirmé que la République islamique d’Iran était sur le point de s’effondrer."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/09/la-syrie-condamne-l-entree-illegale-de-benyamin-netanyahou-sur-son-territoire_6768997_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/09/la-syrie-condamne-l-entree-illegale-de-benyamin-netanyahou-sur-son-territoire_6768997_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/09/la-syrie-condamne-l-entree-illegale-de-benyamin-netanyahou-sur-son-territoire_6768997_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/375/0/4500/2250/644/322/60/0/462a458_ftp-1-prywsdgtx1zm-2026-08-20t145842z-840729433-rc2c2naqjzue-rtrmadp-3-israel-syria.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un char israélien roule du côté israélien de la ligne de cessez-le-feu entre le plateau du Golan, occupé par Israël, et la Syrie, le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AYAL MARGOLIN/REUTERS"
+      }
+    ],
+    "credit": "AYAL MARGOLIN/REUTERS"
+  }
+}
