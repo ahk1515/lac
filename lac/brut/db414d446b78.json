@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T22:15:52.856744+00:00",
+  "_id": "db414d446b78",
+  "brut": {
+    "title": "Au Yémen, les houthistes remportent une victoire majeure en prenant la ville de Moka, leur assurant un contrôle sur l’entrée de la mer Rouge",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, les houthistes remportent une victoire majeure en prenant la ville de Moka, leur assurant un contrôle sur l’entrée de la mer Rouge"
+    },
+    "published": "Thu, 10 Sep 2026 22:36:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      20,
+      36,
+      41,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 22:59:09 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      20,
+      59,
+      9,
+      3,
+      253,
+      0
+    ],
+    "summary": "Le groupe yéménite, allié de l’Iran, s’est emparé le 10 septembre d’une ville stratégique aux portes du détroit de Bab Al-Mandab, menaçant un peu plus la navigation en mer Rouge alors que l’Iran cherche à verrouiller le détroit d’Ormuz.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le groupe yéménite, allié de l’Iran, s’est emparé le 10 septembre d’une ville stratégique aux portes du détroit de Bab Al-Mandab, menaçant un peu plus la navigation en mer Rouge alors que l’Iran cherche à verrouiller le détroit d’Ormuz."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/au-yemen-les-houthistes-remportent-une-victoire-majeure-en-prenant-la-ville-de-moka-leur-assurant-un-controle-sur-l-entree-de-la-mer-rouge_6770114_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/au-yemen-les-houthistes-remportent-une-victoire-majeure-en-prenant-la-ville-de-moka-leur-assurant-un-controle-sur-l-entree-de-la-mer-rouge_6770114_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/au-yemen-les-houthistes-remportent-une-victoire-majeure-en-prenant-la-ville-de-moka-leur-assurant-un-controle-sur-l-entree-de-la-mer-rouge_6770114_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/332/0/2000/1000/644/322/60/0/104aa9f_ftp-1-7dczw2iz7vwp-5046886-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette capture d’écran, issue d’images publiées sur les réseaux sociaux montre des combattants houthis dans la ville portuaire stratégique de Moka, sur la mer Rouge, le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

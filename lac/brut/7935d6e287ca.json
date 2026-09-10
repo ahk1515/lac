@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T22:15:52.856948+00:00",
+  "_id": "7935d6e287ca",
+  "brut": {
+    "title": "A Londres, l’engouement pour la tapisserie de Bayeux, récit d’un événement « ancré dans les esprits »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Londres, l’engouement pour la tapisserie de Bayeux, récit d’un événement « ancré dans les esprits »"
+    },
+    "published": "Thu, 10 Sep 2026 21:54:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      19,
+      54,
+      46,
+      3,
+      253,
+      0
+    ],
+    "summary": "Les premiers visiteurs ont pu admirer, jeudi, au British Museum, l’œuvre prêtée au Royaume-Uni par la France jusqu’en juillet 2027. L’importance de l’arrivée de Guillaume le Conquérant sur le trône d’Angleterre dans le récit national et la curiosité pour une tapisserie millénaire expliquent l’intérêt du public.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les premiers visiteurs ont pu admirer, jeudi, au British Museum, l’œuvre prêtée au Royaume-Uni par la France jusqu’en juillet 2027. L’importance de l’arrivée de Guillaume le Conquérant sur le trône d’Angleterre dans le récit national et la curiosité pour une tapisserie millénaire expliquent l’intérêt du public."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/09/10/a-londres-l-engouement-pour-la-tapisserie-de-bayeux-recit-d-un-evenement-ancre-dans-les-esprits_6770112_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/09/10/a-londres-l-engouement-pour-la-tapisserie-de-bayeux-recit-d-un-evenement-ancre-dans-les-esprits_6770112_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/09/10/a-londres-l-engouement-pour-la-tapisserie-de-bayeux-recit-d-un-evenement-ancre-dans-les-esprits_6770112_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/0/0/7056/3528/644/322/60/0/1e6d006_ftp-1-z63uidw4mzaw-5043077-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La tapisserie de Bayeux, au British Museum, à Londres, le 7 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ADRIAN DENNIS / AFP"
+      }
+    ],
+    "credit": "ADRIAN DENNIS / AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T22:15:53.102724+00:00",
+  "_id": "df7addd2de95",
+  "brut": {
+    "title": "Une énorme trombe marine filmée en Italie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une énorme trombe marine filmée en Italie"
+    },
+    "summary": "Une énorme trombe marine a touché la côte nord italienne, à San Michele di Pagana, en Ligurie. Il s’agit d’une énorme colonne tourbillonnante d’air et de brume qui se forme au-dessus de l’eau, à cause de la différence de température entre l’eau et l’air.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une énorme trombe marine a touché la côte nord italienne, à San Michele di Pagana, en Ligurie. Il s’agit d’une énorme colonne tourbillonnante d’air et de brume qui se forme au-dessus de l’eau, à cause de la différence de température entre l’eau et l’air."
+    },
+    "published": "Thu, 10 Sep 2026 21:30:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      19,
+      30,
+      1,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/une-enorme-trombe-marine-filmee-en-italie_8187179.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/YTZW8TE5WzZUz5j_cyrgkPrE35c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/10/6aa2ea84220b5393162413.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/une-enorme-trombe-marine-filmee-en-italie_8187179.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/une-enorme-trombe-marine-filmee-en-italie_8187179.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
