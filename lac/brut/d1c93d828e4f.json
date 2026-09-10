@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T03:13:12.016563+00:00",
+  "_id": "d1c93d828e4f",
+  "brut": {
+    "title": "En Corée du Sud, le scandale des affaires de disparitions classées sans la moindre enquête de police",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Corée du Sud, le scandale des affaires de disparitions classées sans la moindre enquête de police"
+    },
+    "published": "Thu, 10 Sep 2026 05:00:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      3,
+      0,
+      8,
+      3,
+      253,
+      0
+    ],
+    "summary": "Un agent de l’île de Jeju a été arrêté pour avoir négligé plusieurs cas de disparitions de personnes, dont deux ont été retrouvées mortes, en raison de la charge de travail que leur traitement supposait. Une réforme en profondeur de l’institution a été promise par le président Lee Jae Myung.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un agent de l’île de Jeju a été arrêté pour avoir négligé plusieurs cas de disparitions de personnes, dont deux ont été retrouvées mortes, en raison de la charge de travail que leur traitement supposait. Une réforme en profondeur de l’institution a été promise par le président Lee Jae Myung."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/en-coree-du-sud-le-scandale-des-affaires-de-disparitions-classees-sans-la-moindre-enquete-de-police_6769262_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/en-coree-du-sud-le-scandale-des-affaires-de-disparitions-classees-sans-la-moindre-enquete-de-police_6769262_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/en-coree-du-sud-le-scandale-des-affaires-de-disparitions-classees-sans-la-moindre-enquete-de-police_6769262_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/401/0/8192/4096/644/322/60/0/6e7ef33_ftp-1-fjr0atzdcnzm-e257a0c417e64dbda5f33c707f48d869-0-250cc36776fc427eb00752071d9bff75.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un policier cherche une disparue, Jang Mi-ran, sur l’île de Jeju (Corée du Sud), le 24 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Park Ji-ho/Yonhap via AP"
+      }
+    ],
+    "credit": "Park Ji-ho/Yonhap via AP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T03:13:12.017243+00:00",
+  "_id": "432e0dad16af",
+  "brut": {
+    "title": "Nigeria : un influenceur critique du gouvernement assassiné en pleine campagne présidentielle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Nigeria : un influenceur critique du gouvernement assassiné en pleine campagne présidentielle"
+    },
+    "published": "Thu, 10 Sep 2026 01:07:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      23,
+      7,
+      15,
+      2,
+      252,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 03:08:23 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      1,
+      8,
+      23,
+      3,
+      253,
+      0
+    ],
+    "summary": "Le meurtre d’Ibrahim Khalil Dan Shagamu à Kano illustre les risques croissants encourus par les voix dissidentes dans le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le meurtre d’Ibrahim Khalil Dan Shagamu à Kano illustre les risques croissants encourus par les voix dissidentes dans le pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/nigeria-un-influenceur-critique-du-gouvernement-assassine-en-pleine-campagne-presidentielle_6769096_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/nigeria-un-influenceur-critique-du-gouvernement-assassine-en-pleine-campagne-presidentielle_6769096_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/nigeria-un-influenceur-critique-du-gouvernement-assassine-en-pleine-campagne-presidentielle_6769096_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/88/0/680/340/644/322/60/0/2cecc81_upload-1-iyuqfwg3jsvc-hrx9twoxqaa98cv.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’influenceur nigérian Ibrahim Khalil Dan Shagamu, sur une photo publiée, le 9 septembre 2026, par Amnesty International Nigeria sur son compte X."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "@AmnestyNigeria via X"
+      }
+    ],
+    "credit": "@AmnestyNigeria via X"
+  }
+}

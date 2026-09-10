@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T03:13:12.016820+00:00",
+  "_id": "54cf385dfc05",
+  "brut": {
+    "title": "Ukraine : la crise politique malgré la guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ukraine : la crise politique malgré la guerre"
+    },
+    "published": "Thu, 10 Sep 2026 05:00:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      3,
+      0,
+      5,
+      3,
+      253,
+      0
+    ],
+    "summary": "Alors que les frappes russes se multiplient sur le territoire ukrainien, le gouvernement traverse depuis cet été une crise ponctuée de conflits internes et de scandales. Dans ce podcast, Thomas d’Istria, correspondant du « Monde » à Kiev, analyse plusieurs semaines de turbulences au sommet de l’Etat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les frappes russes se multiplient sur le territoire ukrainien, le gouvernement traverse depuis cet été une crise ponctuée de conflits internes et de scandales. Dans ce podcast, Thomas d’Istria, correspondant du « Monde » à Kiev, analyse plusieurs semaines de turbulences au sommet de l’Etat."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/09/10/ukraine-la-crise-politique-malgre-la-guerre_6769261_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/09/10/ukraine-la-crise-politique-malgre-la-guerre_6769261_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/09/10/ukraine-la-crise-politique-malgre-la-guerre_6769261_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/46/0/1800/900/644/322/60/0/a8cfb0f_upload-1-mjlimmh8codj-zelensky-lhdm.JPEG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Depuis juillet 2026, le gouvernement ukrainien de Voldymyr Zelensky connaît un enchaînement ininterrompu de scandales et de conflits internes."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Francisco Seco / AP Photo/Francisco Seco"
+      }
+    ],
+    "credit": "Francisco Seco / AP Photo/Francisco Seco"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T03:13:12.017425+00:00",
+  "_id": "e0c50247f3bc",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : un drone russe a violé l’espace aérien moldave peu avant le décollage de l’avion de Volodymyr Zelensky",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : un drone russe a violé l’espace aérien moldave peu avant le décollage de l’avion de Volodymyr Zelensky"
+    },
+    "published": "Thu, 10 Sep 2026 00:53:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      9,
+      22,
+      53,
+      43,
+      2,
+      252,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 00:58:38 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      9,
+      22,
+      58,
+      38,
+      2,
+      252,
+      0
+    ],
+    "summary": "L’espace aérien moldave a été fermé durant près d’une heure, mardi après-midi, alors que le président ukrainien allait décoller de Chisinau vers Oslo. Selon les autorités, le drone est tombé et a explosé à environ 160 km de l’aéroport de la capitale moldave.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’espace aérien moldave a été fermé durant près d’une heure, mardi après-midi, alors que le président ukrainien allait décoller de Chisinau vers Oslo. Selon les autorités, le drone est tombé et a explosé à environ 160 km de l’aéroport de la capitale moldave."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-un-drone-russe-a-viole-l-espace-aerien-moldave-peu-avant-le-decollage-de-l-avion-de-volodymyr-zelensky_6766818_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-un-drone-russe-a-viole-l-espace-aerien-moldave-peu-avant-le-decollage-de-l-avion-de-volodymyr-zelensky_6766818_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-un-drone-russe-a-viole-l-espace-aerien-moldave-peu-avant-le-decollage-de-l-avion-de-volodymyr-zelensky_6766818_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/0/0/4998/2499/644/322/60/0/879cf22_ftp-1-v7wrppmaz109-69e0c737abc74bea8a41ade327ffa86e-0-95fc750d0ae94ca4adcca452679eaf8c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président ukrainien, Volodymyr Zelensky, à Oslo, le 9 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gorm Kallestad/AP"
+      }
+    ],
+    "credit": "Gorm Kallestad/AP"
+  }
+}

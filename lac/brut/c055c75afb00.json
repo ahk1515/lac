@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T03:13:12.017049+00:00",
+  "_id": "c055c75afb00",
+  "brut": {
+    "title": "Aux Philippines, au moins cinq morts et des dizaines de disparus dans l’incendie d’un ferry",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Philippines, au moins cinq morts et des dizaines de disparus dans l’incendie d’un ferry"
+    },
+    "published": "Thu, 10 Sep 2026 03:23:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      1,
+      23,
+      15,
+      3,
+      253,
+      0
+    ],
+    "summary": "Un feu s’est déclaré, mercredi soir, dans le MV « June Aster » à environ 2,2 kilomètres du rivage, près d’un site touristique de la province de Palawan. Quarante-deux personnes ont pu être secourues jusqu’à présent, mais 87 autres restent recherchées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un feu s’est déclaré, mercredi soir, dans le MV « June Aster » à environ 2,2 kilomètres du rivage, près d’un site touristique de la province de Palawan. Quarante-deux personnes ont pu être secourues jusqu’à présent, mais 87 autres restent recherchées."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/aux-philippines-au-moins-cinq-morts-et-des-dizaines-de-disparus-dans-l-incendie-d-un-ferry_6769162_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/aux-philippines-au-moins-cinq-morts-et-des-dizaines-de-disparus-dans-l-incendie-d-un-ferry_6769162_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/aux-philippines-au-moins-cinq-morts-et-des-dizaines-de-disparus-dans-l-incendie-d-un-ferry_6769162_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/86/0/2000/1000/644/322/60/0/7b898f8_ftp-1-zlkdz4bqkuu3-5042377-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une photo, mise à disposition par les garde-côtes philippins, montre des rescapés aidés par des pêcheurs après l’incendie de leur ferry au large de Palawan (Philippines), le 9 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Garde côtière philippine/AFP"
+      }
+    ],
+    "credit": "Garde côtière philippine/AFP"
+  }
+}
