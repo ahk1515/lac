@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T18:57:09.874386+00:00",
+  "_id": "a319473c09b1",
+  "brut": {
+    "title": "Des frappes russes sur un centre commercial font au moins quatre morts et 60 blessés dans l'est de l'Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des frappes russes sur un centre commercial font au moins quatre morts et 60 blessés dans l'est de l'Ukraine"
+    },
+    "summary": "Ce bilan, transmis par le gouverneur régional, est provisoire à ce stade, alors que des commerces et des véhicules ont été endommagés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce bilan, transmis par le gouverneur régional, est provisoire à ce stade, alors que des commerces et des véhicules ont été endommagés."
+    },
+    "published": "Thu, 10 Sep 2026 19:11:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      17,
+      11,
+      54,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-sur-un-centre-commercial-font-au-moins-quatre-morts-et-60-blesses-dans-l-est-de-l-ukraine_8187083.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dxmATE3EKtOBuoO6xDi5XSrmm2A/0x57:1024x633/432x243/filters:format(jpg)/2026/09/10/6aa2d9137851f279519320.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-sur-un-centre-commercial-font-au-moins-quatre-morts-et-60-blesses-dans-l-est-de-l-ukraine_8187083.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-sur-un-centre-commercial-font-au-moins-quatre-morts-et-60-blesses-dans-l-est-de-l-ukraine_8187083.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

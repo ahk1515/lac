@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T18:57:09.323868+00:00",
+  "_id": "6080aa3c30c5",
+  "brut": {
+    "title": "RDC : au moins 14 écoliers tués après un incendie à Bukavu, dans l’est du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "RDC : au moins 14 écoliers tués après un incendie à Bukavu, dans l’est du pays"
+    },
+    "published": "Thu, 10 Sep 2026 18:24:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      16,
+      24,
+      2,
+      3,
+      253,
+      0
+    ],
+    "summary": "Située au bord du lac Kivu et célèbre pour ses maisons de bois typiques entassées à flanc de colline, la capitale du Sud-Kivu est régulièrement frappée par des incendies meurtriers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Située au bord du lac Kivu et célèbre pour ses maisons de bois typiques entassées à flanc de colline, la capitale du Sud-Kivu est régulièrement frappée par des incendies meurtriers."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/10/rdc-au-moins-14-ecoliers-tues-apres-un-incendie-a-bukavu-dans-l-est-du-pays_6769957_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/10/rdc-au-moins-14-ecoliers-tues-apres-un-incendie-a-bukavu-dans-l-est-du-pays_6769957_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/10/rdc-au-moins-14-ecoliers-tues-apres-un-incendie-a-bukavu-dans-l-est-du-pays_6769957_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/586/0/5500/2750/644/322/60/0/483aa9a_ftp-1-chtuhbq7jwgr-2026-09-10t131620z-580387303-rc2agna2ectm-rtrmadp-3-congo-fire.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants tente d’éteindre l’incendie d’une école localisée dans une zone contrôlée par les rebelles de l’AFC/M23 soutenus par le Rwanda, à Bukavu (République démocratique du Congo), le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Victoire Mukenge/REUTERS"
+      }
+    ],
+    "credit": "Victoire Mukenge/REUTERS"
+  }
+}

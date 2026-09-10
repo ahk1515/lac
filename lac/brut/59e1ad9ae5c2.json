@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T18:57:09.323674+00:00",
+  "_id": "59e1ad9ae5c2",
+  "brut": {
+    "title": "Aux Pays-Bas, le gouvernement s’apprête à retirer sa licence à une télévision d’extrême droite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Pays-Bas, le gouvernement s’apprête à retirer sa licence à une télévision d’extrême droite"
+    },
+    "published": "Thu, 10 Sep 2026 18:27:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      16,
+      27,
+      11,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 19:57:01 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      17,
+      57,
+      1,
+      3,
+      253,
+      0
+    ],
+    "summary": "La chaîne Ongehoord Nederland, « Les Pays-Bas que l’on n’entend pas » en français, intégrée au service public depuis 2022, s’est, à plusieurs reprises, illustrée par des propos racistes ou antisémites.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La chaîne Ongehoord Nederland, « Les Pays-Bas que l’on n’entend pas » en français, intégrée au service public depuis 2022, s’est, à plusieurs reprises, illustrée par des propos racistes ou antisémites."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/aux-pays-bas-le-gouvernement-s-apprete-a-retirer-sa-licence-a-une-television-d-extreme-droite_6769958_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/aux-pays-bas-le-gouvernement-s-apprete-a-retirer-sa-licence-a-une-television-d-extreme-droite_6769958_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/aux-pays-bas-le-gouvernement-s-apprete-a-retirer-sa-licence-a-une-television-d-extreme-droite_6769958_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/0/0/5030/2515/644/322/60/0/a82f3d4_upload-1-qmp31hxenphv-000-93va3fb.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Rianne Letschert, ministre des médias néerlandaise, à La Haye (Pays-Bas), le 24 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHIL NIJHUIS/AFP"
+      }
+    ],
+    "credit": "PHIL NIJHUIS/AFP"
+  }
+}

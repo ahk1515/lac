@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T18:57:09.324047+00:00",
+  "_id": "dc0714de304c",
+  "brut": {
+    "title": "Le Somaliland courtise les Etats-Unis, après avoir été reconnu par Israël",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Somaliland courtise les Etats-Unis, après avoir été reconnu par Israël"
+    },
+    "published": "Thu, 10 Sep 2026 18:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      16,
+      0,
+      3,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 18:45:26 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      16,
+      45,
+      26,
+      3,
+      253,
+      0
+    ],
+    "summary": "A Washington, le président de la république autoproclamée du Somaliland arpente actuellement les lieux de pouvoir américains, ou du moins leurs coulisses. Une opération délicate, qu’Abdirahman Mohamed Abdullahi mène en vantant l’emplacement stratégique de son pays, face au Yémen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Washington, le président de la république autoproclamée du Somaliland arpente actuellement les lieux de pouvoir américains, ou du moins leurs coulisses. Une opération délicate, qu’Abdirahman Mohamed Abdullahi mène en vantant l’emplacement stratégique de son pays, face au Yémen."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/apres-avoir-ete-reconnu-par-israel-le-somaliland-courtise-les-etats-unis_6769919_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/apres-avoir-ete-reconnu-par-israel-le-somaliland-courtise-les-etats-unis_6769919_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/apres-avoir-ete-reconnu-par-israel-le-somaliland-courtise-les-etats-unis_6769919_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/14/0/0/2802/1401/644/322/60/0/d753474_ftp-1-5nq43se5qhvy-2026-06-14t101007z-1691410591-rc2ltla7iqr4-rtrmadp-3-israel-somaliland-president.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Abdirahman Mohamed Abdullahi, président de la république autoproclamée du Somaliland, et Isaac Herzog, président israélien, à Jérusalem, le 14 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ronen Zvulun/REUTERS"
+      }
+    ],
+    "credit": "Ronen Zvulun/REUTERS"
+  }
+}

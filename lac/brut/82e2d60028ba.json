@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T18:57:09.323049+00:00",
+  "_id": "82e2d60028ba",
+  "brut": {
+    "title": "Pour les marchés du pétrole, l’énigme du trafic dans un détroit d’Ormuz mi-ouvert mi-fermé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour les marchés du pétrole, l’énigme du trafic dans un détroit d’Ormuz mi-ouvert mi-fermé"
+    },
+    "published": "Thu, 10 Sep 2026 19:00:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      17,
+      0,
+      19,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 19:35:20 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      17,
+      35,
+      20,
+      3,
+      253,
+      0
+    ],
+    "summary": "Washington martèle que d’importants volumes d’or noir franchissent désormais le goulet maritime. Mais les transits restent perturbés par les attaques iraniennes et les prix du brut s’envolent à nouveau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Washington martèle que d’importants volumes d’or noir franchissent désormais le goulet maritime. Mais les transits restent perturbés par les attaques iraniennes et les prix du brut s’envolent à nouveau."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/10/pour-les-marches-du-petrole-l-enigme-du-trafic-dans-un-detroit-d-ormuz-mi-ouvert-mi-ferme_6769967_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/10/pour-les-marches-du-petrole-l-enigme-du-trafic-dans-un-detroit-d-ormuz-mi-ouvert-mi-ferme_6769967_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/10/pour-les-marches-du-petrole-l-enigme-du-trafic-dans-un-detroit-d-ormuz-mi-ouvert-mi-ferme_6769967_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/0/0/3000/1500/644/322/60/0/39a6b3b_ftp-1-vgmvowwp21s0-5034436-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran réalisée le 9 septembre 2026 à partir d’une vidéo fournie par le commandement central des Etats-Unis (Centcom) le 8 septembre. L’armée américaine présente ce navire comme étant un pétrolier iranien sombrant dans le golfe d’Oman."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "US CENTRAL COMMAND PUBLIC AFFAIRS/AFP"
+      }
+    ],
+    "credit": "US CENTRAL COMMAND PUBLIC AFFAIRS/AFP"
+  }
+}
