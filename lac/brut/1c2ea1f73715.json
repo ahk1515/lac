@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T15:52:13.967730+00:00",
+  "_id": "1c2ea1f73715",
+  "brut": {
+    "title": "Donald Trump et le 11-Septembre, 25 ans de souvenirs inventés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump et le 11-Septembre, 25 ans de souvenirs inventés"
+    },
+    "published": "Thu, 10 Sep 2026 15:00:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      13,
+      0,
+      6,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 15:31:24 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      13,
+      31,
+      24,
+      3,
+      253,
+      0
+    ],
+    "summary": "Le président américain a affirmé avoir été secouru par des pompiers près du World Trade Center. Depuis 2001, il ne cesse de se présenter comme témoin privilégié des attentats, s’appropriant des scènes qu’il n’a pas vécues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain a affirmé avoir été secouru par des pompiers près du World Trade Center. Depuis 2001, il ne cesse de se présenter comme témoin privilégié des attentats, s’appropriant des scènes qu’il n’a pas vécues."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/09/10/attentats-du-11-septembre-les-souvenirs-a-geometrie-variable-de-donald-trump_6769762_4355770.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/10/attentats-du-11-septembre-les-souvenirs-a-geometrie-variable-de-donald-trump_6769762_4355770.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/09/10/attentats-du-11-septembre-les-souvenirs-a-geometrie-variable-de-donald-trump_6769762_4355770.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/120/0/5148/2574/644/322/60/0/c751e76_ftp-1-usifulpaiaaw-d824268011964e4ba2f40c887ad65f88-1-3073fdd7c3954f28a9dfed2c186b1b91.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump lors d’un événement organisé à l’occasion du vingt-cinquième anniversaire des attentats du 11-Septembre, à Washington, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jacquelyn Martin/AP"
+      }
+    ],
+    "credit": "Jacquelyn Martin/AP"
+  }
+}

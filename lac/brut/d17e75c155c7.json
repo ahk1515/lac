@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T15:52:13.966434+00:00",
+  "_id": "d17e75c155c7",
+  "brut": {
+    "title": "Les reliques d’un prince russe du XIVᵉ siècle au secours de l’armée russe dans le Donbass",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les reliques d’un prince russe du XIVᵉ siècle au secours de l’armée russe dans le Donbass"
+    },
+    "published": "Thu, 10 Sep 2026 17:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      15,
+      0,
+      4,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 17:28:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      15,
+      28,
+      29,
+      3,
+      253,
+      0
+    ],
+    "summary": "Les reliques de Dmitri Donskoï (1350 -1389), grand prince de Moscovie, ont été paradées en tournée auprès des soldats pour soutenir leur moral. Canonisé en 1988, le saint patron de l’armée russe est vanté comme celui qui a vaincu la Horde d’or, l’empire tataro-mongol auquel les princes russes furent assujettis pendant deux cent quarante ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les reliques de Dmitri Donskoï (1350 -1389), grand prince de Moscovie, ont été paradées en tournée auprès des soldats pour soutenir leur moral. Canonisé en 1988, le saint patron de l’armée russe est vanté comme celui qui a vaincu la Horde d’or, l’empire tataro-mongol auquel les princes russes furent assujettis pendant deux cent quarante ans."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/les-reliques-d-un-prince-russe-du-xiv-siecle-au-secours-de-l-armee-russe-dans-le-donbass_6769836_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/les-reliques-d-un-prince-russe-du-xiv-siecle-au-secours-de-l-armee-russe-dans-le-donbass_6769836_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/les-reliques-d-un-prince-russe-du-xiv-siecle-au-secours-de-l-armee-russe-dans-le-donbass_6769836_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/20/416/0/4993/2496/644/322/60/0/5b458af_ftp-1-bs8vxxlcspwv-cd47a3a0fc7d4fe3b116c9ff7269922b-0-ecf7000d72e44746abae5e1074447ba3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président russe, Vladimir Poutine, lors d’un office devant les reliques du saint grand-prince Dmitri Donskoï, découvertes lors de travaux de restauration de la cathédrale de l’Archange-Saint-Michel de Moscou, le 20 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vyacheslav Prokofiev/Sputnik via AP"
+      }
+    ],
+    "credit": "Vyacheslav Prokofiev/Sputnik via AP"
+  }
+}

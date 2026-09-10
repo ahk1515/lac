@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T15:52:14.105367+00:00",
+  "_id": "0beb4b9c0c42",
+  "brut": {
+    "title": "John Malkovich, Penélope Cruz, Mark Ruffalo... Défilé attendu de stars au Festival international du film de Toronto",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "John Malkovich, Penélope Cruz, Mark Ruffalo... Défilé attendu de stars au Festival international du film de Toronto"
+    },
+    "summary": "Au programme du plus grand festival de cinéma d'Amérique du Nord, des avant-premières très attendues, mais aussi des films déjà présentés à Cannes ou à Venise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au programme du plus grand festival de cinéma d'Amérique du Nord, des avant-premières très attendues, mais aussi des films déjà présentés à Cannes ou à Venise."
+    },
+    "published": "Thu, 10 Sep 2026 16:17:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      14,
+      17,
+      25,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/cinema/john-malkovich-penelope-cruz-mark-ruffalo-defile-attendu-de-stars-au-festival-international-du-film-de-toronto_8185940.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NxPYf3zZT3kQNFOVadNL7PhZDL4/0x0:3000x1687/432x243/filters:format(jpg)/2026/09/10/6aa2b8452d7c2304137208.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/cinema/john-malkovich-penelope-cruz-mark-ruffalo-defile-attendu-de-stars-au-festival-international-du-film-de-toronto_8185940.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/cinema/john-malkovich-penelope-cruz-mark-ruffalo-defile-attendu-de-stars-au-festival-international-du-film-de-toronto_8185940.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

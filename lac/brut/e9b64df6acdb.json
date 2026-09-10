@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T15:52:13.965716+00:00",
+  "_id": "e9b64df6acdb",
+  "brut": {
+    "title": "En Thaïlande, les ultranationalistes manifestent contre Israël",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Thaïlande, les ultranationalistes manifestent contre Israël"
+    },
+    "published": "Thu, 10 Sep 2026 17:33:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      15,
+      33,
+      6,
+      3,
+      253,
+      0
+    ],
+    "summary": "Les réseaux sociaux thaïlandais rapportent une myriade d’affaires impliquant des ressortissants israéliens où se mêlent incivilités, investissements louches, comportements menaçants, mais aussi théories du complot.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les réseaux sociaux thaïlandais rapportent une myriade d’affaires impliquant des ressortissants israéliens où se mêlent incivilités, investissements louches, comportements menaçants, mais aussi théories du complot."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/en-thailande-les-ultranationalistes-manifestent-contre-israel_6769883_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/en-thailande-les-ultranationalistes-manifestent-contre-israel_6769883_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/en-thailande-les-ultranationalistes-manifestent-contre-israel_6769883_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/1217/0/8640/4320/644/322/60/0/9597cb4_ftp-1-3mnaunwnx6ak-66ec6a346a404cbdbb1b09ba6101beff-0-6fd78bc2ab424e9c900b3f3ffa7dbc7e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sondhi Limthongkul, patron de presse et militant politique, lors d’une manifestation devant l’ambassade d’Israël à Bangkok, le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sakchai Lalit/AP"
+      }
+    ],
+    "credit": "Sakchai Lalit/AP"
+  }
+}

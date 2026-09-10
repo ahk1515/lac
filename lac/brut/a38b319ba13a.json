@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T15:52:14.106740+00:00",
+  "_id": "a38b319ba13a",
+  "brut": {
+    "title": "Tapisserie de Bayeux : les Britanniques à l'assaut de l'exposition",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tapisserie de Bayeux : les Britanniques à l'assaut de l'exposition"
+    },
+    "summary": "Après avoir traversé la Manche, la Tapisserie de Bayeux est désormais exposée au British Museum de Londres, où elle restera pendant un an. Ouverte aujourd'hui, l’exposition affiche déjà complet, témoignant de l’immense engouement qu’elle suscite outre-Manche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après avoir traversé la Manche, la Tapisserie de Bayeux est désormais exposée au British Museum de Londres, où elle restera pendant un an. Ouverte aujourd'hui, l’exposition affiche déjà complet, témoignant de l’immense engouement qu’elle suscite outre-Manche."
+    },
+    "published": "Thu, 10 Sep 2026 13:12:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      11,
+      12,
+      12,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/tapisserie-de-bayeux-les-britanniques-a-l-assaut-de-l-exposition_8186291.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4s2hIa2pY1Kc_h4Xsqo9a-hqvbg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/10/6aa2906708c12629608157.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/tapisserie-de-bayeux-les-britanniques-a-l-assaut-de-l-exposition_8186291.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/tapisserie-de-bayeux-les-britanniques-a-l-assaut-de-l-exposition_8186291.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

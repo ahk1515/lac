@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T15:52:13.968644+00:00",
+  "_id": "b59580ec9830",
+  "brut": {
+    "title": "A Gaza, les ordres d’évacuation israéliens ont repris, alors que les négociations restent au point mort",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, les ordres d’évacuation israéliens ont repris, alors que les négociations restent au point mort"
+    },
+    "published": "Thu, 10 Sep 2026 14:00:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      12,
+      0,
+      5,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 17:07:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      15,
+      7,
+      3,
+      3,
+      253,
+      0
+    ],
+    "summary": "Tandis que l’armée israélienne multiplie les attaques après la capture du responsable de la sécurité intérieure du Hamas dans la ville de Gaza, le processus de désarmement du mouvement islamiste et du retrait israélien demeure suspendu au législatives, le 27 octobre, dans l’Etat hébreu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Tandis que l’armée israélienne multiplie les attaques après la capture du responsable de la sécurité intérieure du Hamas dans la ville de Gaza, le processus de désarmement du mouvement islamiste et du retrait israélien demeure suspendu au législatives, le 27 octobre, dans l’Etat hébreu."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/a-gaza-les-ordres-d-evacuation-israeliens-ont-repris-alors-que-les-negociations-restent-au-point-mort_6769748_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/a-gaza-les-ordres-d-evacuation-israeliens-ont-repris-alors-que-les-negociations-restent-au-point-mort_6769748_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/a-gaza-les-ordres-d-evacuation-israeliens-ont-repris-alors-que-les-negociations-restent-au-point-mort_6769748_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/221/0/6000/3000/644/322/60/0/a3ebc98_ftp-1-a6b97dm2kyp8-2026-09-09t112333z-1545295840-rc2nfnak19bi-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une frappe israélienne – menée après que l’armée de l’Etat hébreu demandé aux habitants d’évacuer la zone – dans le camp de réfugiés d’Al-Chati, à Gaza, le 9 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dawoud Abu Alkas/REUTERS"
+      }
+    ],
+    "credit": "Dawoud Abu Alkas/REUTERS"
+  }
+}

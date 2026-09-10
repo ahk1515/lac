@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T15:52:13.969168+00:00",
+  "_id": "0f12aa3b3ca6",
+  "brut": {
+    "title": "Chine : un navire marchand en maintenance dans un port prend feu, au moins 25 personnes tuées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Chine : un navire marchand en maintenance dans un port prend feu, au moins 25 personnes tuées"
+    },
+    "published": "Thu, 10 Sep 2026 12:58:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      10,
+      58,
+      20,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 16:16:43 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      14,
+      16,
+      43,
+      3,
+      253,
+      0
+    ],
+    "summary": "Le navire comptait 42 personnes à bord, selon l’agence d’Etat Chine nouvelle, qui n’a pas précisé le pavillon du bateau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le navire comptait 42 personnes à bord, selon l’agence d’Etat Chine nouvelle, qui n’a pas précisé le pavillon du bateau."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/en-chine-un-incendie-a-fait-au-moins-20-morts-sur-un-navire-etranger-en-maintenance_6769739_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/en-chine-un-incendie-a-fait-au-moins-20-morts-sur-un-navire-etranger-en-maintenance_6769739_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/en-chine-un-incendie-a-fait-au-moins-20-morts-sur-un-navire-etranger-en-maintenance_6769739_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/151/0/1411/705/644/322/60/0/0205879_ftp-1-xu5vk4fcmlo5-6837c65b28544f85b2fe6df9d0129c22-0-3d7d1b1188ef4fada6b9336fdaee8f12.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un cargo en feu à quai, à Qingdao, dans la province du Shandong (Chine), le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Qingdaowolin via AP"
+      }
+    ],
+    "credit": "Qingdaowolin via AP"
+  }
+}

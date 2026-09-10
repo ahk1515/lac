@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T15:52:13.967341+00:00",
+  "_id": "0346bd726acf",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique des frappes contre plusieurs ports russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev revendique des frappes contre plusieurs ports russes"
+    },
+    "published": "Thu, 10 Sep 2026 16:16:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      14,
+      16,
+      1,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 16:40:34 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      14,
+      40,
+      34,
+      3,
+      253,
+      0
+    ],
+    "summary": "Les ports de Sotchi, Makhatchkala et Novorossiïsk ont notamment été visés mercredi et dans la nuit de mercredi à jeudi par des attaques ukrainiennes. De leur côté, les Etats-Unis ont détruit cinq pétroliers iraniens, dont trois liés à la flotte fantôme russe, selon Kiev.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les ports de Sotchi, Makhatchkala et Novorossiïsk ont notamment été visés mercredi et dans la nuit de mercredi à jeudi par des attaques ukrainiennes. De leur côté, les Etats-Unis ont détruit cinq pétroliers iraniens, dont trois liés à la flotte fantôme russe, selon Kiev."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-kiev-revendique-des-frappes-contre-plusieurs-ports-russes_6766818_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-kiev-revendique-des-frappes-contre-plusieurs-ports-russes_6766818_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-kiev-revendique-des-frappes-contre-plusieurs-ports-russes_6766818_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/19/990/0/8183/4091/644/322/60/0/63076e3_ftp-1-djb0n4m4xlua-495296b1a86848048f0169cc74694e08-2-7058311006584f0bbad945d308fb1379.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des drones d’attaque à longue portée ukrainiens pour une mission de frappe en profondeur visant des cibles russes loin derrière les lignes, dans un lieu tenu secret en Ukraine, le 16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP Photo"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP Photo"
+  }
+}

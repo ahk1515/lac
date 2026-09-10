@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T15:52:13.968459+00:00",
+  "_id": "80977eed7025",
+  "brut": {
+    "title": "Olivia Rodrigo, la pop star qui ose défier Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Olivia Rodrigo, la pop star qui ose défier Donald Trump"
+    },
+    "published": "Thu, 10 Sep 2026 14:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      12,
+      0,
+      13,
+      3,
+      253,
+      0
+    ],
+    "summary": "La pop star californienne a clos, fin août, la première édition du Daisy Chain Fields, le festival féministe qu’elle a fondé. Un événement caritatif dans la droite ligne des engagements de la chanteuse de 23 ans, qui n’hésite pas à attaquer frontalement l’administration Trump.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La pop star californienne a clos, fin août, la première édition du Daisy Chain Fields, le festival féministe qu’elle a fondé. Un événement caritatif dans la droite ligne des engagements de la chanteuse de 23 ans, qui n’hésite pas à attaquer frontalement l’administration Trump."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/10/olivia-rodrigo-la-pop-star-qui-ose-defier-donald-trump_6769747_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/10/olivia-rodrigo-la-pop-star-qui-ose-defier-donald-trump_6769747_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/10/olivia-rodrigo-la-pop-star-qui-ose-defier-donald-trump_6769747_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/128/0/1500/750/644/322/60/0/baab6b7_ftp-1-bpx9okzg9zy5-441630-3496261.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La chanteuse californienne Olivia Rodrigo au festival Daisy Chain Fields, le 29 août, à Irvien (Californie)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Chris Pizzello/AP/SIPA"
+      }
+    ],
+    "credit": "Chris Pizzello/AP/SIPA"
+  }
+}

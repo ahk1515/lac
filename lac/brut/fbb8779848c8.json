@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T15:52:14.106246+00:00",
+  "_id": "fbb8779848c8",
+  "brut": {
+    "title": "Faut-il craindre une pénurie générale de carburants en France ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Faut-il craindre une pénurie générale de carburants en France ?"
+    },
+    "summary": "Après la flambée du prix des carburants, faut-il craindre des ruptures d'approvisionnement ? C'est le cas depuis 24 heures chez Total, dans certaines stations qui sont prises d'assaut, en raison de la politique de plafonnement des prix. Doit-on craindre des situations plus générales ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après la flambée du prix des carburants, faut-il craindre des ruptures d'approvisionnement ? C'est le cas depuis 24 heures chez Total, dans certaines stations qui sont prises d'assaut, en raison de la politique de plafonnement des prix. Doit-on craindre des situations plus générales ?"
+    },
+    "published": "Thu, 10 Sep 2026 17:25:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      15,
+      25,
+      52,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/automobile/essence/faut-il-craindre-une-penurie-generale-de-carburants-en-france_8186435.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/mA0RGd3igXiRgI4BEh5p63o0UL4/76x0:1241x655/432x243/filters:format(jpg)/2026/09/10/6aa2aa574e4e4310526111.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/automobile/essence/faut-il-craindre-une-penurie-generale-de-carburants-en-france_8186435.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/automobile/essence/faut-il-craindre-une-penurie-generale-de-carburants-en-france_8186435.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

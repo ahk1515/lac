@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T15:52:14.105870+00:00",
+  "_id": "17e5fe7654a3",
+  "brut": {
+    "title": "Malgré le départ de Viktor Orban, la Hongrie persiste à freiner le processus d'adhésion de l'Ukraine à l'Union européenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Malgré le départ de Viktor Orban, la Hongrie persiste à freiner le processus d'adhésion de l'Ukraine à l'Union européenne"
+    },
+    "summary": "Budapest invoque les droits des minorités nationales pour bloquer les négociations d'adhésion à l'UE de l'Ukraine, laissant Kiev dans l'incertitude, comme l'explique cet article du média ukrainien Suspilne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Budapest invoque les droits des minorités nationales pour bloquer les négociations d'adhésion à l'UE de l'Ukraine, laissant Kiev dans l'incertitude, comme l'explique cet article du média ukrainien Suspilne."
+    },
+    "published": "Thu, 10 Sep 2026 15:50:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      13,
+      50,
+      32,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/union-europeenne/malgre-le-depart-de-viktor-orban-la-hongrie-persiste-a-freiner-le-processus-d-adhesion-de-l-ukraine-a-l-union-europeenne_8186372.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9qHvfvWGk9gOuGAfujCnssp1wqM/0x102:1200x777/432x243/filters:format(jpg)/2026/09/10/6aa29def9528c148099883.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/malgre-le-depart-de-viktor-orban-la-hongrie-persiste-a-freiner-le-processus-d-adhesion-de-l-ukraine-a-l-union-europeenne_8186372.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/union-europeenne/malgre-le-depart-de-viktor-orban-la-hongrie-persiste-a-freiner-le-processus-d-adhesion-de-l-ukraine-a-l-union-europeenne_8186372.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

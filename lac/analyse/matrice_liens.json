@@ -2,47 +2,47 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 444
+    "co_citations": 447
   },
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 315
+    "co_citations": 316
   },
   {
     "pays_a": "ISR",
     "pays_b": "USA",
-    "co_citations": 103
+    "co_citations": 104
   },
   {
     "pays_a": "FRA",
     "pays_b": "RUS",
-    "co_citations": 76
+    "co_citations": 77
   },
   {
     "pays_a": "UKR",
     "pays_b": "USA",
-    "co_citations": 75
+    "co_citations": 76
   },
   {
     "pays_a": "RUS",
     "pays_b": "USA",
-    "co_citations": 72
+    "co_citations": 74
   },
   {
     "pays_a": "FRA",
     "pays_b": "USA",
-    "co_citations": 57
+    "co_citations": 58
+  },
+  {
+    "pays_a": "FRA",
+    "pays_b": "GBR",
+    "co_citations": 55
   },
   {
     "pays_a": "ISR",
     "pays_b": "LBN",
     "co_citations": 55
-  },
-  {
-    "pays_a": "FRA",
-    "pays_b": "GBR",
-    "co_citations": 54
   },
   {
     "pays_a": "IRN",
@@ -62,7 +62,7 @@
   {
     "pays_a": "CHN",
     "pays_b": "USA",
-    "co_citations": 45
+    "co_citations": 47
   },
   {
     "pays_a": "DEU",
@@ -97,7 +97,7 @@
   {
     "pays_a": "TUR",
     "pays_b": "USA",
-    "co_citations": 21
+    "co_citations": 22
   },
   {
     "pays_a": "GBR",
@@ -165,14 +165,19 @@
     "co_citations": 10
   },
   {
+    "pays_a": "CHN",
+    "pays_b": "FRA",
+    "co_citations": 10
+  },
+  {
     "pays_a": "BRA",
     "pays_b": "USA",
     "co_citations": 9
   },
   {
     "pays_a": "CHN",
-    "pays_b": "FRA",
-    "co_citations": 9
+    "pays_b": "RUS",
+    "co_citations": 8
   },
   {
     "pays_a": "CAF",
@@ -180,14 +185,14 @@
     "co_citations": 7
   },
   {
-    "pays_a": "CHN",
-    "pays_b": "RUS",
-    "co_citations": 7
-  },
-  {
     "pays_a": "RUS",
     "pays_b": "TUR",
     "co_citations": 7
+  },
+  {
+    "pays_a": "IRN",
+    "pays_b": "RUS",
+    "co_citations": 6
   },
   {
     "pays_a": "IND",
@@ -215,8 +220,8 @@
     "co_citations": 5
   },
   {
-    "pays_a": "IRN",
-    "pays_b": "RUS",
+    "pays_a": "CHN",
+    "pays_b": "IRN",
     "co_citations": 5
   },
   {
@@ -245,11 +250,6 @@
     "co_citations": 4
   },
   {
-    "pays_a": "CHN",
-    "pays_b": "IRN",
-    "co_citations": 4
-  },
-  {
     "pays_a": "FRA",
     "pays_b": "NER",
     "co_citations": 4
@@ -257,6 +257,11 @@
   {
     "pays_a": "DEU",
     "pays_b": "ISR",
+    "co_citations": 4
+  },
+  {
+    "pays_a": "DZA",
+    "pays_b": "MLI",
     "co_citations": 4
   },
   {
@@ -292,11 +297,6 @@
   {
     "pays_a": "MLI",
     "pays_b": "RUS",
-    "co_citations": 3
-  },
-  {
-    "pays_a": "DZA",
-    "pays_b": "MLI",
     "co_citations": 3
   },
   {
