@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T08:39:45.199781+00:00",
+  "_id": "89c82f404c96",
+  "brut": {
+    "title": "Donald Trump promet 5 000 dollars à chaque adulte américain en cas de victoire des républicains aux élections de mi-mandat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump promet 5 000 dollars à chaque adulte américain en cas de victoire des républicains aux élections de mi-mandat"
+    },
+    "summary": "A moins de deux mois des élections de mi-mandat, les projections estiment que les démocrates vont s'emparer de la majorité à la Chambre des représentants et possiblement, de justesse, au Sénat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A moins de deux mois des élections de mi-mandat, les projections estiment que les démocrates vont s'emparer de la majorité à la Chambre des représentants et possiblement, de justesse, au Sénat."
+    },
+    "published": "Thu, 10 Sep 2026 08:58:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      6,
+      58,
+      50,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-un-gros-cheque-a-ses-partisans-pour-sauver-les-elections-de-mi-mandat_8185793.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/G5eQ5_ZH5ycjCPMF3koRlFLddWc/0x0:1024x576/432x243/filters:format(jpg)/2026/09/10/6aa23e2f27754375376564.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-un-gros-cheque-a-ses-partisans-pour-sauver-les-elections-de-mi-mandat_8185793.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-un-gros-cheque-a-ses-partisans-pour-sauver-les-elections-de-mi-mandat_8185793.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

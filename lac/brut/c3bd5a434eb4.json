@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T08:39:45.073371+00:00",
+  "_id": "c3bd5a434eb4",
+  "brut": {
+    "title": "11-Septembre : vingt-cinq ans après les attentats, Zacarias Moussaoui, le prisonnier français oublié",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "11-Septembre : vingt-cinq ans après les attentats, Zacarias Moussaoui, le prisonnier français oublié"
+    },
+    "published": "Thu, 10 Sep 2026 05:34:40 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      3,
+      34,
+      40,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 10:15:08 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      8,
+      15,
+      8,
+      3,
+      253,
+      0
+    ],
+    "summary": "Ce Français, dépêché par Al-Qaida aux Etats-Unis en vue de commettre des attentats et condamné pour complicité dans ceux du 11-Septembre, purge depuis vingt ans une peine de prison à vie, sans possibilité de libération, dans un pénitencier du Colorado. Son avocat demande son transfèrement en France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce Français, dépêché par Al-Qaida aux Etats-Unis en vue de commettre des attentats et condamné pour complicité dans ceux du 11-Septembre, purge depuis vingt ans une peine de prison à vie, sans possibilité de libération, dans un pénitencier du Colorado. Son avocat demande son transfèrement en France."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/11-septembre-vingt-cinq-ans-apres-les-attentats-zacarias-moussaoui-le-prisonnier-francais-oublie_6769335_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/11-septembre-vingt-cinq-ans-apres-les-attentats-zacarias-moussaoui-le-prisonnier-francais-oublie_6769335_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/11-septembre-vingt-cinq-ans-apres-les-attentats-zacarias-moussaoui-le-prisonnier-francais-oublie_6769335_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/1448/0/3862/1931/644/322/60/0/94905ac_upload-1-m9rvlsyrelm7-rea11638613.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le pénitencier fédéral de très haute sécurité de Florence, dans le Colorado, le 1ᵉʳ avril 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREW MILLER/« The New York Times »/REA"
+      }
+    ],
+    "credit": "ANDREW MILLER/« The New York Times »/REA"
+  }
+}

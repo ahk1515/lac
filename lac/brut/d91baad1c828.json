@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T08:39:45.198930+00:00",
+  "_id": "d91baad1c828",
+  "brut": {
+    "title": "De Nanterre, pour un spécial Céline Dion, aux salles privatives, le karaoké séduit toujours autant",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De Nanterre, pour un spécial Céline Dion, aux salles privatives, le karaoké séduit toujours autant"
+    },
+    "summary": "À deux jours du premier des 16 concerts de Céline Dion, un karaoké géant consacré à la chanteuse a réuni ses fans à Levallois-Perret. Né au Japon il y a plus de 50 ans, le karaoké connaît aujourd’hui un nouveau succès, notamment auprès des plus jeunes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À deux jours du premier des 16 concerts de Céline Dion, un karaoké géant consacré à la chanteuse a réuni ses fans à Levallois-Perret. Né au Japon il y a plus de 50 ans, le karaoké connaît aujourd’hui un nouveau succès, notamment auprès des plus jeunes."
+    },
+    "published": "Thu, 10 Sep 2026 08:21:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      6,
+      21,
+      51,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/de-nanterre-pour-un-special-celine-dion-aux-salles-privatives-le-karaoke-seduit-toujours-autant_8168426.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uKo-6EVtn5INKiD9dpVBNYL9Yww/0x187:2000x1312/432x243/filters:format(jpg)/2026/09/10/6aa24b273b11c238259366.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/de-nanterre-pour-un-special-celine-dion-aux-salles-privatives-le-karaoke-seduit-toujours-autant_8168426.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/de-nanterre-pour-un-special-celine-dion-aux-salles-privatives-le-karaoke-seduit-toujours-autant_8168426.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

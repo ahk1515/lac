@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-10T08:39:45.199372+00:00",
+  "_id": "d32e31d57d8b",
+  "brut": {
+    "title": "\"A suivre Loïc de la Mornais\" du mercredi 9 septembre : le quart d'heure américain",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"A suivre Loïc de la Mornais\" du mercredi 9 septembre : le quart d'heure américain"
+    },
+    "summary": "Dans le quart d'heure américain du mercredi 9 septembre, Loïc de la Mornais et ses invités reviennent sur l'actualité aux États-Unis. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre 20h30 et 22h sur la chaîne info, canal 16.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le quart d'heure américain du mercredi 9 septembre, Loïc de la Mornais et ses invités reviennent sur l'actualité aux États-Unis. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre 20h30 et 22h sur la chaîne info, canal 16."
+    },
+    "published": "Thu, 10 Sep 2026 07:55:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      5,
+      55,
+      53,
+      3,
+      253,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-du-mercredi-9-septembre-le-quart-d-heure-americain_8185829.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/bNfoGog6IzEwIxqcz24PSQf8a7k/0x3:1287x727/432x243/filters:format(jpg)/2026/09/10/6aa24661c0479581048464.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-du-mercredi-9-septembre-le-quart-d-heure-americain_8185829.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-du-mercredi-9-septembre-le-quart-d-heure-americain_8185829.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

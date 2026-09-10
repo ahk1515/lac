@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T08:39:45.072035+00:00",
+  "_id": "9f2113b1ad11",
+  "brut": {
+    "title": "11-Septembre, vingt-cinq ans après : quand des artistes plasticiens s’emparaient de l’événement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "11-Septembre, vingt-cinq ans après : quand des artistes plasticiens s’emparaient de l’événement"
+    },
+    "published": "Thu, 10 Sep 2026 10:00:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      8,
+      0,
+      16,
+      3,
+      253,
+      0
+    ],
+    "summary": "Gerhard Richter, Sigmar Polke, Hassan Musa ou encore Adel Abdessemed ont interprété, chacun à sa manière, l’attaque terroriste contre les tours jumelles du World Trade Center et ses conséquences.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gerhard Richter, Sigmar Polke, Hassan Musa ou encore Adel Abdessemed ont interprété, chacun à sa manière, l’attaque terroriste contre les tours jumelles du World Trade Center et ses conséquences."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/09/10/11-septembre-vingt-cinq-ans-apres-quand-des-artistes-plasticiens-s-emparaient-de-l-evenement_6769555_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/09/10/11-septembre-vingt-cinq-ans-apres-quand-des-artistes-plasticiens-s-emparaient-de-l-evenement_6769555_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/09/10/11-septembre-vingt-cinq-ans-apres-quand-des-artistes-plasticiens-s-emparaient-de-l-evenement_6769555_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/139/0/3504/1752/644/322/60/0/2abc2d7_upload-1-cuoit8ga34ae-000-par196527.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "« Great American Nude » (2002), de Hassan Musa, exposé au Centre Pompidou, à Paris, en 2005."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PIERRE VERDY/AFP"
+      }
+    ],
+    "credit": "PIERRE VERDY/AFP"
+  }
+}

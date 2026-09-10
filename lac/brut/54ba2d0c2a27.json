@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T08:39:45.072174+00:00",
+  "_id": "54ba2d0c2a27",
+  "brut": {
+    "title": "Emmanuel Grégoire se rendra aux Etats-Unis pour rencontrer le maire de New York Zohran Mamdani",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Grégoire se rendra aux Etats-Unis pour rencontrer le maire de New York Zohran Mamdani"
+    },
+    "published": "Thu, 10 Sep 2026 09:33:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      7,
+      33,
+      2,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 10:10:58 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      8,
+      10,
+      58,
+      3,
+      253,
+      0
+    ],
+    "summary": "Le maire de Paris sera dans la plus grande ville des Etats-Unis fin septembre, à l’invitation de son homologue new-yorkais, pour participer à l’Urban 20, une initiative de diplomatie des villes en miroir du G20.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le maire de Paris sera dans la plus grande ville des Etats-Unis fin septembre, à l’invitation de son homologue new-yorkais, pour participer à l’Urban 20, une initiative de diplomatie des villes en miroir du G20."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/09/10/emmanuel-gregoire-se-rendra-aux-etats-unis-pour-rencontrer-le-maire-de-new-york-zohran-mamdani_6769488_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/09/10/emmanuel-gregoire-se-rendra-aux-etats-unis-pour-rencontrer-le-maire-de-new-york-zohran-mamdani_6769488_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/09/10/emmanuel-gregoire-se-rendra-aux-etats-unis-pour-rencontrer-le-maire-de-new-york-zohran-mamdani_6769488_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/07/12/391/0/7479/3739/644/322/60/0/cef8481_ftp-1-io6odt90ctk3-5602708-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Grégoire, à Paris, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "THOMAS SAMSON/AFP"
+      }
+    ],
+    "credit": "THOMAS SAMSON/AFP"
+  }
+}

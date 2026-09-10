@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T08:39:45.073247+00:00",
+  "_id": "4ba55f3e7b01",
+  "brut": {
+    "title": "Le 11-Septembre, le jour où tout a basculé en matière de sûreté aérienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 11-Septembre, le jour où tout a basculé en matière de sûreté aérienne"
+    },
+    "published": "Thu, 10 Sep 2026 05:34:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      3,
+      34,
+      53,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 10:30:39 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      8,
+      30,
+      39,
+      3,
+      253,
+      0
+    ],
+    "summary": "Les terroristes du World Trade Center, du Pentagone et du vol UA93 ont déjoué tous les systèmes sécuritaires mis en place à l’époque dans les aéroports et les avions. Ce choc va conduire à des réformes majeures, durables et efficaces de la doctrine de sûreté dans l’aviation civile.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les terroristes du World Trade Center, du Pentagone et du vol UA93 ont déjoué tous les systèmes sécuritaires mis en place à l’époque dans les aéroports et les avions. Ce choc va conduire à des réformes majeures, durables et efficaces de la doctrine de sûreté dans l’aviation civile."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/10/le-11-septembre-le-jour-ou-tout-a-bascule-en-matiere-de-surete-aerienne_6769336_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/10/le-11-septembre-le-jour-ou-tout-a-bascule-en-matiere-de-surete-aerienne_6769336_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/10/le-11-septembre-le-jour-ou-tout-a-bascule-en-matiere-de-surete-aerienne_6769336_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/59/0/353/176/644/322/60/0/38f3fd4_upload-1-07p33koyekgu-ap01091101934.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur cette image tirée d’une vidéo de surveillance obtenue par Associated Press, le pirate de l’air Khalid Al-Mihdhar, vêtu d’une chemise jaune, passe le contrôle de sécurité à l’aéroport international de Dulles à Chantilly (Virginie, Etats-Unis), le 11 septembre 2001. Quelques heures seulement avant que le vol 77 d’American Airlines ne s’écrase sur le Pentagone."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ASSOCIATED PRESS"
+      }
+    ],
+    "credit": "ASSOCIATED PRESS"
+  }
+}

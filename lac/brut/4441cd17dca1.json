@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-10T08:39:45.073730+00:00",
+  "_id": "4441cd17dca1",
+  "brut": {
+    "title": "A Ceuta, sur la plage de Trampolin, des milliers de migrants entassés dans des conditions insalubres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Ceuta, sur la plage de Trampolin, des milliers de migrants entassés dans des conditions insalubres"
+    },
+    "published": "Thu, 10 Sep 2026 05:30:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      10,
+      3,
+      30,
+      6,
+      3,
+      253,
+      0
+    ],
+    "updated": "Thu, 10 Sep 2026 08:51:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      10,
+      6,
+      51,
+      29,
+      3,
+      253,
+      0
+    ],
+    "summary": "Alors que circule la rumeur d’une nouvelle arrivée de migrants le 20 septembre dans la ville espagnole d’Afrique du nord, les hébergements sont insuffisants dans les centres d’accueil de l’Etat. La crise migratoire empoisonne chaque jour davantage les relations entre l’Espagne et le Maroc.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que circule la rumeur d’une nouvelle arrivée de migrants le 20 septembre dans la ville espagnole d’Afrique du nord, les hébergements sont insuffisants dans les centres d’accueil de l’Etat. La crise migratoire empoisonne chaque jour davantage les relations entre l’Espagne et le Maroc."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/10/a-ceuta-la-crise-migratoire-empoisonne-chaque-jour-davantage-les-relations-entre-l-espagne-et-le-maroc_6769330_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/10/a-ceuta-la-crise-migratoire-empoisonne-chaque-jour-davantage-les-relations-entre-l-espagne-et-le-maroc_6769330_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/10/a-ceuta-la-crise-migratoire-empoisonne-chaque-jour-davantage-les-relations-entre-l-espagne-et-le-maroc_6769330_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/844/0/5864/2932/644/322/60/0/54738ab_upload-1-pmen4v6cgwiu-08092026-mph-ceuta-lemonde-20.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des milliers de migrants sur la plage de Trampolin, à Ceuta (Espagne), le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Macarena Pérez"
+      }
+    ],
+    "credit": "Macarena Pérez"
+  }
+}
