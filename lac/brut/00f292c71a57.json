@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T22:16:05.215477+00:00",
+  "_id": "00f292c71a57",
+  "brut": {
+    "title": "Lady Diana : la \"robe de la vengeance\" mise aux enchères",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Lady Diana : la \"robe de la vengeance\" mise aux enchères"
+    },
+    "summary": "La célèbre « robe de la vengeance » de Lady Diana est mise aux enchères et pourrait être vendue 250 000 €. Retour sur l’histoire de cette robe iconique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La célèbre « robe de la vengeance » de Lady Diana est mise aux enchères et pourrait être vendue 250 000 €. Retour sur l’histoire de cette robe iconique."
+    },
+    "published": "Fri, 11 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      20,
+      0,
+      2,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/familles-royales/lady-diana-la-robe-de-la-vengeance-mise-aux-encheres_8188640.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/ViiLsTryohyLN6zU4fFI1BJX_jA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa41f6d50351449103278.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/familles-royales/lady-diana-la-robe-de-la-vengeance-mise-aux-encheres_8188640.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/familles-royales/lady-diana-la-robe-de-la-vengeance-mise-aux-encheres_8188640.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

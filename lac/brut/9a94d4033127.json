@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T22:16:05.215271+00:00",
+  "_id": "9a94d4033127",
+  "brut": {
+    "title": "La CIA déclassifie des notes concernant Al-Qaïda 25 ans après le 11-Septembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La CIA déclassifie des notes concernant Al-Qaïda 25 ans après le 11-Septembre"
+    },
+    "summary": "Ces documents \"retracent l'histoire de la compréhension fluctuante des analystes de la CIA concernant Al-Qaïda\", a expliqué l'agence.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces documents \"retracent l'histoire de la compréhension fluctuante des analystes de la CIA concernant Al-Qaïda\", a expliqué l'agence."
+    },
+    "published": "Fri, 11 Sep 2026 22:56:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      20,
+      56,
+      21,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/la-cia-declassifie-des-notes-concernant-al-qaida-25-ans-apres-le-11-septembre_8188895.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YxQRv6pmGIAb6EH9bV2c2AnzIHY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/11/6aa46aaf24cf3370654269.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/la-cia-declassifie-des-notes-concernant-al-qaida-25-ans-apres-le-11-septembre_8188895.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/la-cia-declassifie-des-notes-concernant-al-qaida-25-ans-apres-le-11-septembre_8188895.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
