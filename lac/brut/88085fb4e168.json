@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T18:59:14.649765+00:00",
+  "_id": "88085fb4e168",
+  "brut": {
+    "title": "En Ukraine, dans le village martyr d’Andriïvka, antre du « boucher de Boutcha »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, dans le village martyr d’Andriïvka, antre du « boucher de Boutcha »"
+    },
+    "published": "Fri, 11 Sep 2026 18:00:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      16,
+      0,
+      7,
+      4,
+      254,
+      0
+    ],
+    "updated": "Fri, 11 Sep 2026 19:03:30 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      11,
+      17,
+      3,
+      30,
+      4,
+      254,
+      0
+    ],
+    "summary": "Ce sont les hommes du colonel Azatbek Omourbekov, sacré « héros de la Russie », qui, en mars 2022, ont perpétré les massacres d’Ukrainiens dans la région de Kiev. « Le Monde » a retrouvé la trace de ce jeune colonel dans l’école d’un village ukrainien proche de la capitale, Andriïvka, d’où il donnait ses ordres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce sont les hommes du colonel Azatbek Omourbekov, sacré « héros de la Russie », qui, en mars 2022, ont perpétré les massacres d’Ukrainiens dans la région de Kiev. « Le Monde » a retrouvé la trace de ce jeune colonel dans l’école d’un village ukrainien proche de la capitale, Andriïvka, d’où il donnait ses ordres."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/11/en-ukraine-dans-le-village-martyr-d-andriivka-antre-du-boucher-de-boutcha_6770614_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/11/en-ukraine-dans-le-village-martyr-d-andriivka-antre-du-boucher-de-boutcha_6770614_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/11/en-ukraine-dans-le-village-martyr-d-andriivka-antre-du-boucher-de-boutcha_6770614_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/733/0/2953/1476/644/322/60/0/6d34c26_upload-1-42bhytlvhomg-2026-07-09-heg-ukraine-0659.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une villageoise d’Andriïvka devant sa maison, occupée par des soldats russes en mars 2022. Région de Kiev, Ukraine, 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Guillaume Herbaut pour « LE MONDE »"
+      }
+    ],
+    "credit": "Guillaume Herbaut pour « LE MONDE »"
+  }
+}

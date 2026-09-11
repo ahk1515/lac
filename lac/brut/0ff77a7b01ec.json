@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T18:59:14.649544+00:00",
+  "_id": "0ff77a7b01ec",
+  "brut": {
+    "title": "Le XXIᵉ siècle a-t-il vraiment débuté avec le 11-Septembre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le XXIᵉ siècle a-t-il vraiment débuté avec le 11-Septembre ?"
+    },
+    "published": "Fri, 11 Sep 2026 18:00:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      16,
+      0,
+      17,
+      4,
+      254,
+      0
+    ],
+    "summary": "Par leur caractère inédit, les attentats de New York, en 2001, ont immédiatement donné le sentiment d’entrer dans un autre monde. Pourtant, d’autres ruptures majeures peuvent prétendre au titre d’acte de naissance de notre époque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Par leur caractère inédit, les attentats de New York, en 2001, ont immédiatement donné le sentiment d’entrer dans un autre monde. Pourtant, d’autres ruptures majeures peuvent prétendre au titre d’acte de naissance de notre époque."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/11/le-xxi-siecle-a-t-il-vraiment-debute-avec-le-11-septembre_6770615_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/11/le-xxi-siecle-a-t-il-vraiment-debute-avec-le-11-septembre_6770615_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/11/le-xxi-siecle-a-t-il-vraiment-debute-avec-le-11-septembre_6770615_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/07/729/0/2362/1181/644/322/60/0/78eb3eb_upload-1-wb6lxfly0hbz-lemonde-idee-xxiemesiecle-wtc.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OLIVIER BONHOMME"
+      }
+    ],
+    "credit": "OLIVIER BONHOMME"
+  }
+}
