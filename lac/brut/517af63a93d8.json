@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.457618+00:00",
+  "_id": "517af63a93d8",
+  "brut": {
+    "title": "11 septembre 2001 un des points de bascule du complotisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "11 septembre 2001 un des points de bascule du complotisme"
+    },
+    "summary": "Salut c’est Sarah, ça dit quoi ?\n\nAujourd’hui marque les 25 ans des attentats du 11 septembre 2001. Alors qu’il a lieu juste après l’apparition d’internet, cet événement va occuper une place majeure dans l’essor des théories du complot. Des théories encore massivement relayées aujourd’hui…",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Salut c’est Sarah, ça dit quoi ?\n\nAujourd’hui marque les 25 ans des attentats du 11 septembre 2001. Alors qu’il a lieu juste après l’apparition d’internet, cet événement va occuper une place majeure dans l’essor des théories du complot. Des théories encore massivement relayées aujourd’hui…"
+    },
+    "published": "Fri, 11 Sep 2026 10:27:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      8,
+      27,
+      42,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-2001-un-des-points-de-bascule-du-complotisme_8187962.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/iqJl3SQ9hQ1emvU6qnWbZT7O3UQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa3bb1102956595947325.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-2001-un-des-points-de-bascule-du-complotisme_8187962.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-2001-un-des-points-de-bascule-du-complotisme_8187962.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.458689+00:00",
+  "_id": "250e1907ccac",
+  "brut": {
+    "title": "A suivre Loïc de la Mornais : le quart d'heure américain du jeudi 10 septembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A suivre Loïc de la Mornais : le quart d'heure américain du jeudi 10 septembre"
+    },
+    "summary": "Dans le quart d'heure américain du jeudi 10 septembre, Loïc de la Mornais et ses invités reviennent sur l'actualité aux États-Unis. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre 20h30 et 22h sur la chaîne info, canal 16.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le quart d'heure américain du jeudi 10 septembre, Loïc de la Mornais et ses invités reviennent sur l'actualité aux États-Unis. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre 20h30 et 22h sur la chaîne info, canal 16."
+    },
+    "published": "Fri, 11 Sep 2026 07:41:30 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      5,
+      41,
+      30,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-le-quart-d-heure-americain-du-jeudi-10-septembre_8187752.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-KX5_UZpVvvPrbwzUlwv3f2sQoE/146x0:1128x552/432x243/filters:format(jpg)/2026/09/11/6aa393f08b600290811366.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-le-quart-d-heure-americain-du-jeudi-10-septembre_8187752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/a-suivre-loic-de-la-mornais-le-quart-d-heure-americain-du-jeudi-10-septembre_8187752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

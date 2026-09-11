@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.458479+00:00",
+  "_id": "bc34dcc96ff3",
+  "brut": {
+    "title": "États-Unis : 3 milliards de dollars levés pour des tunnels routiers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "États-Unis : 3 milliards de dollars levés pour des tunnels routiers"
+    },
+    "summary": "La journaliste Charlie Perreau parle, jeudi 10 septembre, d'un projet de tunnels développé par une entreprise aux États-Unis. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre 20h30 et 22h sur la chaîne info, canal 16.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La journaliste Charlie Perreau parle, jeudi 10 septembre, d'un projet de tunnels développé par une entreprise aux États-Unis. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre 20h30 et 22h sur la chaîne info, canal 16."
+    },
+    "published": "Fri, 11 Sep 2026 08:04:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      6,
+      4,
+      4,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/etats-unis-3-milliards-de-dollars-leves-pour-des-tunnels-routiers_8187770.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/faOewaxhfW551C4pkyPsMuGRx7s/60x0:1220x653/432x243/filters:format(jpg)/2026/09/11/6aa399620eedf636766538.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/etats-unis-3-milliards-de-dollars-leves-pour-des-tunnels-routiers_8187770.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/etats-unis-3-milliards-de-dollars-leves-pour-des-tunnels-routiers_8187770.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

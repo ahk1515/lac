@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.458054+00:00",
+  "_id": "7c7a0857c649",
+  "brut": {
+    "title": "PODCAST. 25 ans d'un attentat, de la prison pour avoir menacé une prof et c'est parti pour Céline : ça dit quoi ce 11 septembre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PODCAST. 25 ans d'un attentat, de la prison pour avoir menacé une prof et c'est parti pour Céline : ça dit quoi ce 11 septembre ?"
+    },
+    "summary": "Ce vendredi 11 septembre,  25 ans après les attentats du World Trade Center les théories complotistes circulent toujours, un homme a été condamné à 6 mois de prison après avoir menacé la maîtresse de son fils et la résidence de Céline Dion démarre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce vendredi 11 septembre,  25 ans après les attentats du World Trade Center les théories complotistes circulent toujours, un homme a été condamné à 6 mois de prison après avoir menacé la maîtresse de son fils et la résidence de Céline Dion démarre."
+    },
+    "published": "Fri, 11 Sep 2026 08:42:30 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      6,
+      42,
+      30,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/25-ans-d-un-attentat-de-la-prison-pour-avoir-menace-une-prof-et-c-est-parti-pour-celine-ca-dit-quoi-ce-11-septembre_8177903.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jwylMOk2p0tOa1Vu4Y6yFYTs-64/0x0:2048x1152/432x243/filters:format(jpg)/2017/07/18/php51xejX_1.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/25-ans-d-un-attentat-de-la-prison-pour-avoir-menace-une-prof-et-c-est-parti-pour-celine-ca-dit-quoi-ce-11-septembre_8177903.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/25-ans-d-un-attentat-de-la-prison-pour-avoir-menace-une-prof-et-c-est-parti-pour-celine-ca-dit-quoi-ce-11-septembre_8177903.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

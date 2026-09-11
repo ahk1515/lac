@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T08:35:15.763957+00:00",
+  "_id": "8f42b7a7a156",
+  "brut": {
+    "title": "25 ans du 11-Septembre : pourquoi les attentats continuent-ils de faire des victimes ? Comprendre en trois minutes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "25 ans du 11-Septembre : pourquoi les attentats continuent-ils de faire des victimes ? Comprendre en trois minutes"
+    },
+    "published": "Fri, 11 Sep 2026 06:00:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      4,
+      0,
+      10,
+      4,
+      254,
+      0
+    ],
+    "summary": "Ces vingt-cinq dernières années, plus de 9 400 personnes sont mortes de pathologies liées aux attentats du 11 septembre 2001 aux Etats-Unis, dépassant le bilan humain de la journée des attaques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces vingt-cinq dernières années, plus de 9 400 personnes sont mortes de pathologies liées aux attentats du 11 septembre 2001 aux Etats-Unis, dépassant le bilan humain de la journée des attaques."
+    },
+    "id": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/09/11/25-ans-du-11-septembre-pourquoi-les-attentats-continuent-ils-de-faire-des-victimes-comprendre-en-trois-minutes_6770323_6176282.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/09/11/25-ans-du-11-septembre-pourquoi-les-attentats-continuent-ils-de-faire-des-victimes-comprendre-en-trois-minutes_6770323_6176282.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/09/11/25-ans-du-11-septembre-pourquoi-les-attentats-continuent-ils-de-faire-des-victimes-comprendre-en-trois-minutes_6770323_6176282.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/60/0/1920/960/644/322/60/0/0cf9ce8_upload-1-ktnhhtktvium-tilehorizontale.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Olivier Escher / « Le Monde »"
+      }
+    ],
+    "credit": "Olivier Escher / « Le Monde »"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.457264+00:00",
+  "_id": "e3aee7604170",
+  "brut": {
+    "title": "25 ans après, la génération 11-Septembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "25 ans après, la génération 11-Septembre"
+    },
+    "summary": "25 ans après les attentats du 11-Septembre, comment transmettre cette mémoire aux plus jeunes, qui n’ont pas vécu ce traumatisme ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "25 ans après les attentats du 11-Septembre, comment transmettre cette mémoire aux plus jeunes, qui n’ont pas vécu ce traumatisme ?"
+    },
+    "published": "Fri, 11 Sep 2026 10:33:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      8,
+      33,
+      17,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/25-ans-apres-la-generation-11-septembre_8187968.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/14loCl_D1hxaLAYnu34r-Kw6aiQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa3bcb7551c6794658933.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/25-ans-apres-la-generation-11-septembre_8187968.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/25-ans-apres-la-generation-11-septembre_8187968.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

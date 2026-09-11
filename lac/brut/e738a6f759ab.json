@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T08:35:15.763102+00:00",
+  "_id": "e738a6f759ab",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie dit avoir abattu 777 drones ukrainiens dans la nuit, des attaques qui ont fait deux morts selon les autorités locales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie dit avoir abattu 777 drones ukrainiens dans la nuit, des attaques qui ont fait deux morts selon les autorités locales"
+    },
+    "published": "Fri, 11 Sep 2026 09:57:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      7,
+      57,
+      3,
+      4,
+      254,
+      0
+    ],
+    "updated": "Fri, 11 Sep 2026 10:08:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      11,
+      8,
+      8,
+      3,
+      4,
+      254,
+      0
+    ],
+    "summary": "L’armée ukrainienne a, pour sa part, déclaré avoir abattu ou neutralisé 138 des 161 engins lancés par les forces russes sur le territoire ukrainien dans la nuit de jeudi à vendredi. A Kiev, au moins huit personnes ont été blessées dans ces frappes russes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée ukrainienne a, pour sa part, déclaré avoir abattu ou neutralisé 138 des 161 engins lancés par les forces russes sur le territoire ukrainien dans la nuit de jeudi à vendredi. A Kiev, au moins huit personnes ont été blessées dans ces frappes russes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/11/en-direct-guerre-en-ukraine-la-russie-dit-avoir-abattu-777-drones-ukrainiens-dans-la-nuit-des-attaques-qui-ont-fait-deux-morts-selon-les-autorites-locales_6766818_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/11/en-direct-guerre-en-ukraine-la-russie-dit-avoir-abattu-777-drones-ukrainiens-dans-la-nuit-des-attaques-qui-ont-fait-deux-morts-selon-les-autorites-locales_6766818_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/11/en-direct-guerre-en-ukraine-la-russie-dit-avoir-abattu-777-drones-ukrainiens-dans-la-nuit-des-attaques-qui-ont-fait-deux-morts-selon-les-autorites-locales_6766818_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/189/0/4146/2073/644/322/60/0/7e50998_ftp-1-dimc84jhjuxq-d2c6961f3c7a41b18bb5697403db5e2e-0-c09041e8c3dd4e3fb44f5299cc9e78f9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un drone d’attaque ukrainien à longue portée FP-1, en Ukraine, le 16 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Efrem Lukatsky/AP Photo"
+      }
+    ],
+    "credit": "Efrem Lukatsky/AP Photo"
+  }
+}

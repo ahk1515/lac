@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.458584+00:00",
+  "_id": "1321a120fa31",
+  "brut": {
+    "title": "Qui est concerné par la nouvelle augmentation du prix du gaz début octobre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Qui est concerné par la nouvelle augmentation du prix du gaz début octobre ?"
+    },
+    "summary": "Plus de sept millions de ménages, dont le contrat est indexé sur le prix repère, subiront la hausse du gaz en octobre, tandis que les abonnés ayant opté pour un prix fixe seront épargnés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de sept millions de ménages, dont le contrat est indexé sur le prix repère, subiront la hausse du gaz en octobre, tandis que les abonnés ayant opté pour un prix fixe seront épargnés."
+    },
+    "published": "Fri, 11 Sep 2026 08:03:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      6,
+      3,
+      10,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-brief-eco/qui-est-concerne-par-la-nouvelle-augmentation-du-prix-du-gaz-debut-octobre_8165813.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CwGKq61CMYOb6lhWsMwQUFQFBGs/0x307:5908x3631/432x243/filters:format(jpg)/2026/09/11/6aa395c99d0c4414121965.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/qui-est-concerne-par-la-nouvelle-augmentation-du-prix-du-gaz-debut-octobre_8165813.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-brief-eco/qui-est-concerne-par-la-nouvelle-augmentation-du-prix-du-gaz-debut-octobre_8165813.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

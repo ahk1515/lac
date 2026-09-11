@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.459909+00:00",
+  "_id": "d6bc68ae2c4b",
+  "brut": {
+    "title": "Les groupes armés recrutent sur TikTok et Facebook",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les groupes armés recrutent sur TikTok et Facebook"
+    },
+    "summary": "🇨🇴 En Colombie, des dissidents des FARC utilisent les réseaux sociaux pour attirer de \nnouvelles recrues. Dans un rapport publié le 24 août, l’ONG Human Rights Watch estime qu’au moins 1 500 enfants ont été enrôlés depuis 2021.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇨🇴 En Colombie, des dissidents des FARC utilisent les réseaux sociaux pour attirer de \nnouvelles recrues. Dans un rapport publié le 24 août, l’ONG Human Rights Watch estime qu’au moins 1 500 enfants ont été enrôlés depuis 2021."
+    },
+    "published": "Fri, 11 Sep 2026 06:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      4,
+      0,
+      4,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/les-groupes-armes-recrutent-sur-tiktok-et-facebook_8186441.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/k2c46aHV8I_uc-MoKLLA-p-2zLc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/10/6aa2a71ada8ba226683680.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/les-groupes-armes-recrutent-sur-tiktok-et-facebook_8186441.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/les-groupes-armes-recrutent-sur-tiktok-et-facebook_8186441.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T08:35:15.763233+00:00",
+  "_id": "c19874ac1f36",
+  "brut": {
+    "title": "A cheval sur la frontière entre le Canada et les Etats-Unis, la petite bibliothèque qui tient tête à Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A cheval sur la frontière entre le Canada et les Etats-Unis, la petite bibliothèque qui tient tête à Donald Trump"
+    },
+    "published": "Fri, 11 Sep 2026 09:15:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      7,
+      15,
+      25,
+      4,
+      254,
+      0
+    ],
+    "summary": "Inaugurée en 1905 pour symboliser l’amitié entre Ottawa et Washington, la bibliothèque Haskell se retrouve au cœur des tensions commerciales entre les deux pays. Le personnel, les usagers de l’établissement et les habitants de la région tentent d’entretenir le vivre-ensemble.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Inaugurée en 1905 pour symboliser l’amitié entre Ottawa et Washington, la bibliothèque Haskell se retrouve au cœur des tensions commerciales entre les deux pays. Le personnel, les usagers de l’établissement et les habitants de la région tentent d’entretenir le vivre-ensemble."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/11/a-cheval-sur-la-frontiere-entre-le-canada-et-les-etats-unis-la-petite-bibliotheque-qui-tient-tete-a-donald-trump_6770438_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/11/a-cheval-sur-la-frontiere-entre-le-canada-et-les-etats-unis-la-petite-bibliotheque-qui-tient-tete-a-donald-trump_6770438_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/11/a-cheval-sur-la-frontiere-entre-le-canada-et-les-etats-unis-la-petite-bibliotheque-qui-tient-tete-a-donald-trump_6770438_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/1318/0/7927/3963/644/322/60/0/53538eb_upload-1-ejk5xnibpuiw-ai-stanstead-260907-08.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur le sol de la bibliothèque Haskell, une ligne noire délimite le Canada et les Etats-Unis, à Stanstead, au Canada, le 7 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Andrej Ivanov POUR « LE MONDE»"
+      }
+    ],
+    "credit": "Andrej Ivanov POUR « LE MONDE»"
+  }
+}

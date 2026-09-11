@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.457846+00:00",
+  "_id": "345a2de640ba",
+  "brut": {
+    "title": "Un cargo russe, frappé par des drones ukrainiens, s’échoue sur une plage en Turquie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un cargo russe, frappé par des drones ukrainiens, s’échoue sur une plage en Turquie"
+    },
+    "summary": "Le \"OMSKIY-107\", un navire de fret battant pavillon russe, a été attaqué en mer Noire par des drones ukrainiens. Son équipage a abandonné le navire et le cargo a dérivé jusqu'à la plage de Şile, près d'Istanbul, en Turquie, où il se trouve depuis le 30 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le \"OMSKIY-107\", un navire de fret battant pavillon russe, a été attaqué en mer Noire par des drones ukrainiens. Son équipage a abandonné le navire et le cargo a dérivé jusqu'à la plage de Şile, près d'Istanbul, en Turquie, où il se trouve depuis le 30 août."
+    },
+    "published": "Fri, 11 Sep 2026 10:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      8,
+      0,
+      1,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/turquie/un-cargo-russe-frappe-par-des-drones-ukrainiens-s-echoue-sur-une-plage-en-turquie_8186738.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yPcHkukXUPHaVvz8Ww-1wAFL3wY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/10/6aa2c9894b66e168854220.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/turquie/un-cargo-russe-frappe-par-des-drones-ukrainiens-s-echoue-sur-une-plage-en-turquie_8186738.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/turquie/un-cargo-russe-frappe-par-des-drones-ukrainiens-s-echoue-sur-une-plage-en-turquie_8186738.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

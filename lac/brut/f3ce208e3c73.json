@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T08:35:15.762977+00:00",
+  "_id": "f3ce208e3c73",
+  "brut": {
+    "title": "La guerre hybride dans « Le Monde », des conséquences du conflit irakien à l’attaque au drone en Allemagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La guerre hybride dans « Le Monde », des conséquences du conflit irakien à l’attaque au drone en Allemagne"
+    },
+    "published": "Fri, 11 Sep 2026 10:00:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      8,
+      0,
+      12,
+      4,
+      254,
+      0
+    ],
+    "summary": "L’expression est régulièrement employée pour qualifier les tentatives de déstabilisation de l’Europe par la Russie, comme après la découverte, le 4 août, d’engins explosifs à l’aéroport de Leipzig. Le quotidien la mentionne pour la première fois le 15 février 2003 dans un contexte lié aux menaces islamistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’expression est régulièrement employée pour qualifier les tentatives de déstabilisation de l’Europe par la Russie, comme après la découverte, le 4 août, d’engins explosifs à l’aéroport de Leipzig. Le quotidien la mentionne pour la première fois le 15 février 2003 dans un contexte lié aux menaces islamistes."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/11/la-guerre-hybride-dans-le-monde-des-consequences-du-conflit-irakien-a-l-attaque-au-drone-en-allemagne_6770506_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/11/la-guerre-hybride-dans-le-monde-des-consequences-du-conflit-irakien-a-l-attaque-au-drone-en-allemagne_6770506_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/11/la-guerre-hybride-dans-le-monde-des-consequences-du-conflit-irakien-a-l-attaque-au-drone-en-allemagne_6770506_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/85/0/1024/512/644/322/60/0/a966e52_upload-1-jq3z4qr3igtm-043-dpa-pa-260807-99-277993-dpai.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers enquêtent le 7 août 2026 à l’aéroport de Leipzig, en Allemagne, après la découverte d’un drone chargé d’explosifs."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEBASTIAN WILLNOW / dpa Picture-Alliance via AFP"
+      }
+    ],
+    "credit": "SEBASTIAN WILLNOW / dpa Picture-Alliance via AFP"
+  }
+}

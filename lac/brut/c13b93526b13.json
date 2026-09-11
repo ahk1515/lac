@@ -1,0 +1,71 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T08:35:15.763835+00:00",
+  "_id": "c13b93526b13",
+  "brut": {
+    "title": "VIDEO - 11 septembre 2001 : le récit minute par minute des attentats les plus meurtriers de l’histoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO - 11 septembre 2001 : le récit minute par minute des attentats les plus meurtriers de l’histoire"
+    },
+    "published": "Fri, 11 Sep 2026 06:00:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      4,
+      0,
+      15,
+      4,
+      254,
+      0
+    ],
+    "updated": "Fri, 11 Sep 2026 09:47:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      11,
+      7,
+      47,
+      29,
+      4,
+      254,
+      0
+    ],
+    "summary": "Il y a tout juste vingt-cinq ans, en moins d’une heure et demie, quatre avions s’écrasaient à New York, à Washington et à Shanksville (Pennsylvanie), causant la mort de 2 977 personnes. Récit d’une journée qui a traumatisé les Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il y a tout juste vingt-cinq ans, en moins d’une heure et demie, quatre avions s’écrasaient à New York, à Washington et à Shanksville (Pennsylvanie), causant la mort de 2 977 personnes. Récit d’une journée qui a traumatisé les Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/11/11-septembre-2001-le-recit-minute-par-minute-des-attentats-les-plus-meurtriers-de-l-histoire_6770324_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/11/11-septembre-2001-le-recit-minute-par-minute-des-attentats-les-plus-meurtriers-de-l-histoire_6770324_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/11/11-septembre-2001-le-recit-minute-par-minute-des-attentats-les-plus-meurtriers-de-l-histoire_6770324_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/0/0/3200/1600/644/322/60/0/63edd8f_upload-1-skpqd9m81xoh-919f714-969834154-thumbnail-wtc-base-1-1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le 11 septembre 2001, deux avions s’écrasent dans les tours du World Trade Center, à New York."
+      }
+    ]
+  }
+}

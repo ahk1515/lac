@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T08:35:16.458257+00:00",
+  "_id": "b1061c6d7618",
+  "brut": {
+    "title": "Iran : le prix des carburants s'envole",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Iran : le prix des carburants s'envole"
+    },
+    "summary": "L'économie s'effondre en Iran. Le pays est asphyxié par la guerre au Moyen-Orient et les sanctions économiques. Le régime a mis en place un système de rationnement, notamment pour l'essence, alors que 40 % de la population vit sous le seuil de pauvreté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'économie s'effondre en Iran. Le pays est asphyxié par la guerre au Moyen-Orient et les sanctions économiques. Le régime a mis en place un système de rationnement, notamment pour l'essence, alors que 40 % de la population vit sous le seuil de pauvreté."
+    },
+    "published": "Fri, 11 Sep 2026 08:44:27 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      6,
+      44,
+      27,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/iran-le-prix-des-carburants-s-envolent_8187779.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ls2TcX-LbSk6-PhnXFfoWxdmjSE/145x0:1273x634/432x243/filters:format(jpg)/2026/09/11/6aa397a70e26f244264494.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/iran-le-prix-des-carburants-s-envolent_8187779.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/iran-le-prix-des-carburants-s-envolent_8187779.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
