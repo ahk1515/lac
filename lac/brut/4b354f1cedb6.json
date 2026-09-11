@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T03:08:49.818265+00:00",
+  "_id": "4b354f1cedb6",
+  "brut": {
+    "title": "11-Septembre : les huit principales théories du complot décortiquées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "11-Septembre : les huit principales théories du complot décortiquées"
+    },
+    "published": "Fri, 11 Sep 2026 05:00:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      3,
+      0,
+      15,
+      4,
+      254,
+      0
+    ],
+    "summary": "L’étrange effondrement de la tour n° 7, des mouvements boursiers suspects, l’absence de trace d’avion sur le Pentagone… Vingt-cinq ans après, ces attentats sont encore l’objet de rumeurs conspirationnistes tenaces. Pourtant, il existe des éléments de réponse clairs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’étrange effondrement de la tour n° 7, des mouvements boursiers suspects, l’absence de trace d’avion sur le Pentagone… Vingt-cinq ans après, ces attentats sont encore l’objet de rumeurs conspirationnistes tenaces. Pourtant, il existe des éléments de réponse clairs."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/09/11/11-septembre-les-huit-principales-theories-du-complot-decortiquees_6094267_4355771.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/11/11-septembre-les-huit-principales-theories-du-complot-decortiquees_6094267_4355771.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/09/11/11-septembre-les-huit-principales-theories-du-complot-decortiquees_6094267_4355771.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2021/09/01/187/0/2048/1024/644/322/60/0/b9a0472_ftf-118-usa-sept11-file-0911-11.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des théories conspirationnistes affirment que les Etats-Unis auraient laissé faire les attentats du 11 septembre 2001."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JEFF CHRISTENSEN / REUTERS"
+      }
+    ],
+    "credit": "JEFF CHRISTENSEN / REUTERS"
+  }
+}
