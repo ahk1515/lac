@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T15:54:46.819382+00:00",
+  "_id": "13f53050f207",
+  "brut": {
+    "title": "Comment le 11-Septembre a changé l’extrême droite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comment le 11-Septembre a changé l’extrême droite"
+    },
+    "published": "Fri, 11 Sep 2026 13:00:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      11,
+      0,
+      15,
+      4,
+      254,
+      0
+    ],
+    "summary": "Les attentats terroristes du 11 septembre 2001 aux Etats-Unis ont formé un point de bascule pour les droites radicales. Depuis lors, ces courants politiques ont adopté un discours violemment anti-islam en défense d’un prétendu « Occident judéo-chrétien ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les attentats terroristes du 11 septembre 2001 aux Etats-Unis ont formé un point de bascule pour les droites radicales. Depuis lors, ces courants politiques ont adopté un discours violemment anti-islam en défense d’un prétendu « Occident judéo-chrétien »."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/11/comment-le-11-septembre-a-change-l-extreme-droite_6770569_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/11/comment-le-11-septembre-a-change-l-extreme-droite_6770569_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/11/comment-le-11-septembre-a-change-l-extreme-droite_6770569_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2023/12/17/349/0/4500/2250/644/322/60/0/1a07d28_1702832254965-maxbestof174710.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Rassemblement en soutien au groupe d’extrême droite Génération identitaire, dissous par le gouvernement en mars 2026. A Paris, le 20 février 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Aurelien Morissard/IP3 PRESS/MAXPPP"
+      }
+    ],
+    "credit": "Aurelien Morissard/IP3 PRESS/MAXPPP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T15:54:46.816595+00:00",
+  "_id": "9011456458f5",
+  "brut": {
+    "title": "Au Yémen, les houthistes ont pris le contrôle de tout le littoral de la mer Rouge, selon une source gouvernementale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, les houthistes ont pris le contrôle de tout le littoral de la mer Rouge, selon une source gouvernementale"
+    },
+    "published": "Fri, 11 Sep 2026 17:15:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      15,
+      15,
+      25,
+      4,
+      254,
+      0
+    ],
+    "updated": "Fri, 11 Sep 2026 17:26:45 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      11,
+      15,
+      26,
+      45,
+      4,
+      254,
+      0
+    ],
+    "summary": "L’avancée des rebelles leur donne un accès au détroit de Bab Al-Mandab, stratégique pour le commerce international. « La navigation est sûre pour toutes les compagnies, à l’exception des navires saoudiens, qui ont déjà été interdits d’accès », a déclaré le porte-parole militaire du mouvement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’avancée des rebelles leur donne un accès au détroit de Bab Al-Mandab, stratégique pour le commerce international. « La navigation est sûre pour toutes les compagnies, à l’exception des navires saoudiens, qui ont déjà été interdits d’accès », a déclaré le porte-parole militaire du mouvement."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/11/au-yemen-les-houthistes-ont-pris-le-controle-de-tout-le-littoral-donnant-sur-la-mer-rouge-selon-une-source-gouvernementale_6770571_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/11/au-yemen-les-houthistes-ont-pris-le-controle-de-tout-le-littoral-donnant-sur-la-mer-rouge-selon-une-source-gouvernementale_6770571_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/11/au-yemen-les-houthistes-ont-pris-le-controle-de-tout-le-littoral-donnant-sur-la-mer-rouge-selon-une-source-gouvernementale_6770571_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/560/0/6720/3360/644/322/60/0/34b542c_ftp-1-l8m30doy4ifd-75d49a0c1da944dfa000c67d59c4b540-1-7dfa44dabfc44db4832802cd9dabf9df.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des rebelles houthistes défilent lors d’une campagne de mobilisation à Sanaa, au Yémen, le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AP Photo/STR"
+      }
+    ],
+    "credit": "AP Photo/STR"
+  }
+}

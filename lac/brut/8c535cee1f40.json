@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.453483+00:00",
+  "_id": "8c535cee1f40",
+  "brut": {
+    "title": "Le gouverneur de Californie signe une loi pour protéger les enfants sur les réseaux sociaux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le gouverneur de Californie signe une loi pour protéger les enfants sur les réseaux sociaux"
+    },
+    "summary": "Le texte interdit notamment aux plateformes de réseaux sociaux de proposer des fonctionnalités addictives aux utilisateurs de moins de 16 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le texte interdit notamment aux plateformes de réseaux sociaux de proposer des fonctionnalités addictives aux utilisateurs de moins de 16 ans."
+    },
+    "published": "Fri, 11 Sep 2026 12:11:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      10,
+      11,
+      20,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouverneur-de-californie-signe-une-loi-pour-proteger-les-enfants-sur-les-reseaux-sociaux_8188100.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/a8gnhlMd5P4ieZC7b_Mg0043Pgw/0x49:1024x625/432x243/filters:format(jpg)/2026/09/11/6aa3cecb2bb7b585460030.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouverneur-de-californie-signe-une-loi-pour-proteger-les-enfants-sur-les-reseaux-sociaux_8188100.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouverneur-de-californie-signe-une-loi-pour-proteger-les-enfants-sur-les-reseaux-sociaux_8188100.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

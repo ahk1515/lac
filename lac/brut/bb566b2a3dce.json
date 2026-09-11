@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.450819+00:00",
+  "_id": "bb566b2a3dce",
+  "brut": {
+    "title": "Une attaque d'Israël crée un tremblement de terre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque d'Israël crée un tremblement de terre"
+    },
+    "summary": "Une explosion provoquée par Israël a déclenché un séisme au Liban. Leur objectif annoncé : faire exploser des tunnels souterrains du Hezbollah, groupe armé dans la région.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une explosion provoquée par Israël a déclenché un séisme au Liban. Leur objectif annoncé : faire exploser des tunnels souterrains du Hezbollah, groupe armé dans la région."
+    },
+    "published": "Fri, 11 Sep 2026 16:40:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      14,
+      40,
+      44,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/une-attaque-d-israel-cree-un-tremblement-de-terre_8188472.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/lC42eSc7moGrucjLuIT4Qn0MUXY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa412dbc9e32984283761.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/une-attaque-d-israel-cree-un-tremblement-de-terre_8188472.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/une-attaque-d-israel-cree-un-tremblement-de-terre_8188472.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

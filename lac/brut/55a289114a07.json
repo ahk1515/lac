@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T15:54:46.818437+00:00",
+  "_id": "55a289114a07",
+  "brut": {
+    "title": "Ebola en RDC : l’épidémie a causé plus de 3 300 morts sur plus de 6 800 cas confirmés et s’étend à une septième province du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola en RDC : l’épidémie a causé plus de 3 300 morts sur plus de 6 800 cas confirmés et s’étend à une septième province du pays"
+    },
+    "published": "Fri, 11 Sep 2026 14:37:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      12,
+      37,
+      51,
+      4,
+      254,
+      0
+    ],
+    "updated": "Fri, 11 Sep 2026 16:03:21 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      11,
+      14,
+      3,
+      21,
+      4,
+      254,
+      0
+    ],
+    "summary": "Déclarée au mois de mai, cette épidémie est la pire de l’histoire de la République démocratique du Congo. Elle touche désormais le Sud-Ubangui, une région située dans le nord-ouest du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Déclarée au mois de mai, cette épidémie est la pire de l’histoire de la République démocratique du Congo. Elle touche désormais le Sud-Ubangui, une région située dans le nord-ouest du pays."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/11/ebola-en-rdc-l-epidemie-a-cause-plus-de-3-300-morts-sur-plus-de-6-800-cas-confirmes-et-s-etend-a-une-septieme-province-du-pays_6770578_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/11/ebola-en-rdc-l-epidemie-a-cause-plus-de-3-300-morts-sur-plus-de-6-800-cas-confirmes-et-s-etend-a-une-septieme-province-du-pays_6770578_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/11/ebola-en-rdc-l-epidemie-a-cause-plus-de-3-300-morts-sur-plus-de-6-800-cas-confirmes-et-s-etend-a-une-septieme-province-du-pays_6770578_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/371/0/5000/2500/644/322/60/0/cec7e39_ftp-1-imrcnvin0bx3-2026-09-11t065623z-308121323-rc2egna72sgl-rtrmadp-3-health-ebola-butembo.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des agents de santé congolais vêtus d’équipements de protection individuelle préparent une unité d’urgence à l’hôpital adventiste de Mutiri, dans la province du Nord-Kivu (République démocratique du Congo), le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gradel Muyisa Mumbere / REUTERS"
+      }
+    ],
+    "credit": "Gradel Muyisa Mumbere / REUTERS"
+  }
+}

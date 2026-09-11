@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T15:54:46.818113+00:00",
+  "_id": "c97f20879acd",
+  "brut": {
+    "title": "Au Brésil, l’accès à Internet fait entrer les peuples amazoniens dans la campagne présidentielle : « Cela montre aux politiques ce qui arrive ici ! »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, l’accès à Internet fait entrer les peuples amazoniens dans la campagne présidentielle : « Cela montre aux politiques ce qui arrive ici ! »"
+    },
+    "published": "Fri, 11 Sep 2026 15:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      13,
+      0,
+      3,
+      4,
+      254,
+      0
+    ],
+    "updated": "Fri, 11 Sep 2026 15:23:13 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      11,
+      13,
+      23,
+      13,
+      4,
+      254,
+      0
+    ],
+    "summary": "Grâce à des antennes Starlink installées par une alliance d’organisations locales, des milliers de villages isolés d’Amazonie accèdent pour la première fois à Internet – et à une information politique jusque-là hors de portée, avant le scrutin du 4 octobre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Grâce à des antennes Starlink installées par une alliance d’organisations locales, des milliers de villages isolés d’Amazonie accèdent pour la première fois à Internet – et à une information politique jusque-là hors de portée, avant le scrutin du 4 octobre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/11/au-bresil-l-acces-a-internet-fait-entrer-les-peuples-amazoniens-dans-la-campagne-presidentielle-cela-aide-a-montrer-aux-deputes-aux-politiques-ce-qui-est-en-train-d-arriver-ici_6770583_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/11/au-bresil-l-acces-a-internet-fait-entrer-les-peuples-amazoniens-dans-la-campagne-presidentielle-cela-aide-a-montrer-aux-deputes-aux-politiques-ce-qui-est-en-train-d-arriver-ici_6770583_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/11/au-bresil-l-acces-a-internet-fait-entrer-les-peuples-amazoniens-dans-la-campagne-presidentielle-cela-aide-a-montrer-aux-deputes-aux-politiques-ce-qui-est-en-train-d-arriver-ici_6770583_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/769/0/5669/2834/644/322/60/0/b7029cf_upload-1-chrsm7rp19ng-prt26br3960mao.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants de la communauté autochtone de Terra Preta filment un défilé organisé sur le terrain de football du village pour célébrer l’anniversaire de la création de l’Etat d’Amazonas et la fête de l’indépendance du Brésil, à Terra Preta (Brésil), le 4 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tommaso Protti pour « Le Monde »"
+      }
+    ],
+    "credit": "Tommaso Protti pour « Le Monde »"
+  }
+}

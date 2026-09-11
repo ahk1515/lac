@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.451721+00:00",
+  "_id": "2ce68f6dae63",
+  "brut": {
+    "title": "11-Septembre : 25 ans après, le seul rescapé français des attentats veut \"être tourné vers l'avenir\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "11-Septembre : 25 ans après, le seul rescapé français des attentats veut \"être tourné vers l'avenir\""
+    },
+    "summary": "Ce jour-là, Bruno Dellinger travaillait dans l'une des deux tours du World Trade Center, au 47e étage.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce jour-là, Bruno Dellinger travaillait dans l'une des deux tours du World Trade Center, au 47e étage."
+    },
+    "published": "Fri, 11 Sep 2026 15:35:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      13,
+      35,
+      34,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-25-ans-apres-le-seul-rescape-francais-des-attentats-veut-etre-tourne-vers-l-avenir_8188367.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zE8jnLkQooxM9B6FNOhdWJ3i7OM/0x0:1632x918/432x243/filters:format(jpg)/2016/09/09/phplWlRpe_1.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-25-ans-apres-le-seul-rescape-francais-des-attentats-veut-etre-tourne-vers-l-avenir_8188367.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-25-ans-apres-le-seul-rescape-francais-des-attentats-veut-etre-tourne-vers-l-avenir_8188367.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.453227+00:00",
+  "_id": "f2f9312a5dcc",
+  "brut": {
+    "title": "Les rebelles houthis du Yémen s'emparent de l'ensemble de la côte bordant la mer Rouge, dont le détroit stratégique de Bab el-Mandeb",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les rebelles houthis du Yémen s'emparent de l'ensemble de la côte bordant la mer Rouge, dont le détroit stratégique de Bab el-Mandeb"
+    },
+    "summary": "Avec la guerre au Moyen-Orient et le blocage du détroit d'Ormuz, Bab el-Mandeb, qui relie l'Europe à l'Asie, est devenu un passage obligé pour la navigation maritime.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avec la guerre au Moyen-Orient et le blocage du détroit d'Ormuz, Bab el-Mandeb, qui relie l'Europe à l'Asie, est devenu un passage obligé pour la navigation maritime."
+    },
+    "published": "Fri, 11 Sep 2026 16:45:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      14,
+      45,
+      4,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-rebelles-houthis-du-yemen-s-approchent-du-detroit-strategique-de-bab-el-mandeb_8188217.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8u9rl2arfkaIsR08S4K6DQNEHuQ/0x53:1024x629/432x243/filters:format(jpg)/2026/09/11/6aa3e3de2be3f053321125.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-rebelles-houthis-du-yemen-s-approchent-du-detroit-strategique-de-bab-el-mandeb_8188217.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-rebelles-houthis-du-yemen-s-approchent-du-detroit-strategique-de-bab-el-mandeb_8188217.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

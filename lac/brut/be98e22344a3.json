@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.451594+00:00",
+  "_id": "be98e22344a3",
+  "brut": {
+    "title": "Visite du pape en France : la justice autorise la Ville de Metz à financer des écrans géants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Visite du pape en France : la justice autorise la Ville de Metz à financer des écrans géants"
+    },
+    "summary": "Saisi par des associations laïques, le tribunal administratif de Strasbourg a refusé de suspendre la subvention de 250 000 euros prévue par la municipalité. Le juge estime que l'événement répond à des impératifs d'intérêt général.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Saisi par des associations laïques, le tribunal administratif de Strasbourg a refusé de suspendre la subvention de 250 000 euros prévue par la municipalité. Le juge estime que l'événement répond à des impératifs d'intérêt général."
+    },
+    "published": "Fri, 11 Sep 2026 15:41:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      13,
+      41,
+      21,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-justice-autorise-la-ville-de-metz-a-financer-des-ecrans-geants-pour-la-venue-du-pape_8188349.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0Gb4W5_BKTfAIOaGCWNjZQMI8D0/0x356:6838x4202/432x243/filters:format(jpg)/2026/09/11/6aa40481205ee525778965.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-justice-autorise-la-ville-de-metz-a-financer-des-ecrans-geants-pour-la-venue-du-pape_8188349.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-justice-autorise-la-ville-de-metz-a-financer-des-ecrans-geants-pour-la-venue-du-pape_8188349.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

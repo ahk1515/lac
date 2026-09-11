@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T15:54:46.817069+00:00",
+  "_id": "6476d864d4ab",
+  "brut": {
+    "title": "La mort de Tung Chee-hwa, premier capitaine à la barre de l’instable vaisseau Hongkong",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mort de Tung Chee-hwa, premier capitaine à la barre de l’instable vaisseau Hongkong"
+    },
+    "published": "Fri, 11 Sep 2026 16:41:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      14,
+      41,
+      42,
+      4,
+      254,
+      0
+    ],
+    "summary": "Cet ancien magnat de l’armement maritime avait pris la tête de l’ancienne colonie britannique lors de sa rétrocession à la Chine en 1997. Il s’est éteint mardi 8 septembre, à l’âge de 89 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cet ancien magnat de l’armement maritime avait pris la tête de l’ancienne colonie britannique lors de sa rétrocession à la Chine en 1997. Il s’est éteint mardi 8 septembre, à l’âge de 89 ans."
+    },
+    "id": "https://www.lemonde.fr/disparitions/article/2026/09/11/la-mort-de-tung-chee-hwa-premier-capitaine-a-la-barre-de-l-instable-vaisseau-hongkong_6770602_3382.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/disparitions/article/2026/09/11/la-mort-de-tung-chee-hwa-premier-capitaine-a-la-barre-de-l-instable-vaisseau-hongkong_6770602_3382.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/disparitions/article/2026/09/11/la-mort-de-tung-chee-hwa-premier-capitaine-a-la-barre-de-l-instable-vaisseau-hongkong_6770602_3382.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/291/0/3500/1750/644/322/60/0/5bc696e_ftp-1-59atrzoihakw-2026-09-09t010742z-1112430214-rc2hfs8aiqkf-rtrmadp-3-hongkong-tung-cheewha.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Chee-hwa assiste aux funérailles de Cheng Yu-tung, fondateur du groupe immobilier hongkongais New World Development, à Hongkong (Chine), le 13 octobre 2016."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Bobby Yip/REUTERS"
+      }
+    ],
+    "credit": "Bobby Yip/REUTERS"
+  }
+}

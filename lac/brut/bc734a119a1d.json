@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.453351+00:00",
+  "_id": "bc734a119a1d",
+  "brut": {
+    "title": "Israël provoque un mini-séisme au sud-Liban",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël provoque un mini-séisme au sud-Liban"
+    },
+    "summary": "Israël a dynamité la colline d’Ali Taher au sud-Liban. La secousse a été tellement puissante qu'elle a provoqué un mini séisme de magnitude 4,1. L'armée israélienne dit avoir détruit des infrastructures du Hezbollah servant à mener des attaques contre l'État hébreu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël a dynamité la colline d’Ali Taher au sud-Liban. La secousse a été tellement puissante qu'elle a provoqué un mini séisme de magnitude 4,1. L'armée israélienne dit avoir détruit des infrastructures du Hezbollah servant à mener des attaques contre l'État hébreu."
+    },
+    "published": "Fri, 11 Sep 2026 12:50:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      10,
+      50,
+      10,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/conflit-israel-iran/israel-provoque-un-mini-seisme-au-sud-liban_8188205.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/G_SP_j4VYzL1Ljc2X1oOK_-Di0Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa3dcb390fba206882216.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/conflit-israel-iran/israel-provoque-un-mini-seisme-au-sud-liban_8188205.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/conflit-israel-iran/israel-provoque-un-mini-seisme-au-sud-liban_8188205.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.453097+00:00",
+  "_id": "54ddd74b3353",
+  "brut": {
+    "title": "Qui était \"l'homme au bandana rouge\", un des héros\ndu 11-Septembre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Qui était \"l'homme au bandana rouge\", un des héros\ndu 11-Septembre ?"
+    },
+    "summary": "Il y a 25 ans, lors des attentas du 11 septembre 2001, un jeune de 24 ans surnommé \"l'homme au bandana rouge\" est devenu un symbole d'héroïsme aux États-Unis. Ce trader a sauvé 18 personnes, au péril de sa vie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il y a 25 ans, lors des attentas du 11 septembre 2001, un jeune de 24 ans surnommé \"l'homme au bandana rouge\" est devenu un symbole d'héroïsme aux États-Unis. Ce trader a sauvé 18 personnes, au péril de sa vie."
+    },
+    "published": "Fri, 11 Sep 2026 14:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      12,
+      0,
+      2,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/qui-etait-l-homme-au-bandana-rouge-un-des-heros-du-11-septembre_8188196.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/kjmEoq_bawL_Xj27FjQEc_7nwjE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa3da6583047369640537.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/qui-etait-l-homme-au-bandana-rouge-un-des-heros-du-11-septembre_8188196.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/qui-etait-l-homme-au-bandana-rouge-un-des-heros-du-11-septembre_8188196.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

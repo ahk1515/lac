@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T15:54:46.817703+00:00",
+  "_id": "01049b9a5ade",
+  "brut": {
+    "title": "VIDEO Les houthistes prennent une position clé du détroit stratégique de Bab Al-Mandab",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Les houthistes prennent une position clé du détroit stratégique de Bab Al-Mandab"
+    },
+    "published": "Fri, 11 Sep 2026 15:32:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      13,
+      32,
+      18,
+      4,
+      254,
+      0
+    ],
+    "summary": "Le groupe yéménite, allié de l’Iran, s’est emparé jeudi d’une ville stratégique aux portes du détroit de Bab Al-Mandab, menaçant un peu plus la navigation en mer Rouge alors que l’Iran cherche à verrouiller le détroit d’Ormuz.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le groupe yéménite, allié de l’Iran, s’est emparé jeudi d’une ville stratégique aux portes du détroit de Bab Al-Mandab, menaçant un peu plus la navigation en mer Rouge alors que l’Iran cherche à verrouiller le détroit d’Ormuz."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/11/les-houthistes-prennent-une-position-cle-du-detroit-strategique-de-bab-al-mandab_6770588_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/11/les-houthistes-prennent-une-position-cle-du-detroit-strategique-de-bab-al-mandab_6770588_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/11/les-houthistes-prennent-une-position-cle-du-detroit-strategique-de-bab-al-mandab_6770588_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/109/0/3434/1717/644/322/60/0/c8220e8_ftp-1-pmyp0tot69x6-2026-09-10t151843z-164283904-rc2egnajyqit-rtrmadp-3-iran-crisis-saudi-yemen-mocha.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AL MASIRAH / via REUTERS"
+      }
+    ],
+    "credit": "AL MASIRAH / via REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.453619+00:00",
+  "_id": "a1b09abe0756",
+  "brut": {
+    "title": "Quatre personnes sont mortes dans des échanges de frappes respectives entre la Russie et l'Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatre personnes sont mortes dans des échanges de frappes respectives entre la Russie et l'Ukraine"
+    },
+    "summary": "Les deux pays sont engagés depuis plusieurs mois dans une nette escalade des frappes à longue portée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les deux pays sont engagés depuis plusieurs mois dans une nette escalade des frappes à longue portée."
+    },
+    "published": "Fri, 11 Sep 2026 12:06:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      10,
+      6,
+      4,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-respectives-en-la-russie-et-l-ukraine_8187827.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qr0UXMuxH0LTtFtZKDdxw_Q4m6A/0x5:1024x581/432x243/filters:format(jpg)/2026/09/11/6aa3c99fa36ee555562433.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-respectives-en-la-russie-et-l-ukraine_8187827.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-respectives-en-la-russie-et-l-ukraine_8187827.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

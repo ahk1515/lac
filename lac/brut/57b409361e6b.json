@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-11T15:54:47.450233+00:00",
+  "_id": "57b409361e6b",
+  "brut": {
+    "title": "En Espagne, l'adaptation des villes au changement climatique peine à franchir un palier",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, l'adaptation des villes au changement climatique peine à franchir un palier"
+    },
+    "summary": "Une étude publiée dans \"The Lancet\" analyse les impacts du changement climatique et les solutions envisagées dans 850 villes européennes. En Espagne, Pampelune se distingue par ses transports durables, tandis que Cuenca se démarque par sa superficie boisée, comme le détaille dans cet article le média public espagnol RTVE.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une étude publiée dans \"The Lancet\" analyse les impacts du changement climatique et les solutions envisagées dans 850 villes européennes. En Espagne, Pampelune se distingue par ses transports durables, tandis que Cuenca se démarque par sa superficie boisée, comme le détaille dans cet article le média public espagnol RTVE."
+    },
+    "published": "Fri, 11 Sep 2026 17:16:23 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      15,
+      16,
+      23,
+      4,
+      254,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/en-espagne-l-adaptation-des-villes-au-changement-climatique-peine-a-franchir-un-palier_8188415.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CAemJFv6K3fQM3tmtcfG86gY0fU/0x0:4000x2250/432x243/filters:format(jpg)/2026/09/11/6aa40d6b8634a394558971.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-l-adaptation-des-villes-au-changement-climatique-peine-a-franchir-un-palier_8188415.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/en-espagne-l-adaptation-des-villes-au-changement-climatique-peine-a-franchir-un-palier_8188415.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-11T15:54:46.818776+00:00",
+  "_id": "a18912f38727",
+  "brut": {
+    "title": "Le 11-Septembre dans les archives du « Monde »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 11-Septembre dans les archives du « Monde »"
+    },
+    "published": "Fri, 11 Sep 2026 14:27:55 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      11,
+      12,
+      27,
+      55,
+      4,
+      254,
+      0
+    ],
+    "summary": "Mardi 11 septembre 2001, 8 h 46. Un premier avion s’écrase contre les tours du World Trade Center. C’est le début des attentats qui frappèrent l’Amérique, de New York à Washington en passant par la Pennsylvanie, faisant des milliers de victimes, et bouleversant à jamais l’ordre du monde. Nous vous proposons une sélection d’archives du « Monde » de cet événement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mardi 11 septembre 2001, 8 h 46. Un premier avion s’écrase contre les tours du World Trade Center. C’est le début des attentats qui frappèrent l’Amérique, de New York à Washington en passant par la Pennsylvanie, faisant des milliers de victimes, et bouleversant à jamais l’ordre du monde. Nous vous proposons une sélection d’archives du « Monde » de cet événement."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/11/le-11-septembre-dans-les-archives-du-monde_6770577_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/11/le-11-septembre-dans-les-archives-du-monde_6770577_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/11/le-11-septembre-dans-les-archives-du-monde_6770577_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/0/0/664/332/644/322/60/0/8e0940b_upload-1-6aotjhevobfa-une-13-septembre-2001.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La une du 13 septembre 2001."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "« Le Monde »"
+      }
+    ],
+    "credit": "« Le Monde »"
+  }
+}
