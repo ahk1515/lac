@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T21:56:23.500561+00:00",
+  "_id": "7a7d444441c5",
+  "brut": {
+    "title": "Carburants : pourquoi la crise va encore s’aggraver ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Carburants : pourquoi la crise va encore s’aggraver ?"
+    },
+    "summary": "Après le détroit d’Ormuz, l’Arabie saoudite se retrouve prise en étau avec la progression stratégique des Houthis, soutenus par l’Iran, au niveau du détroit de Bab el-Mandeb.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après le détroit d’Ormuz, l’Arabie saoudite se retrouve prise en étau avec la progression stratégique des Houthis, soutenus par l’Iran, au niveau du détroit de Bab el-Mandeb."
+    },
+    "published": "Sat, 12 Sep 2026 22:08:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      20,
+      8,
+      37,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/carburants-pourquoi-la-crise-va-encore-s-aggraver_8190047.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DMSHQTdI3-v29kWvh_428kOl-Ho/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/12/6aa597404e056186775461.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/carburants-pourquoi-la-crise-va-encore-s-aggraver_8190047.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/carburants-pourquoi-la-crise-va-encore-s-aggraver_8190047.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
