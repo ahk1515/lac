@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T03:15:00.008726+00:00",
+  "_id": "725c50f0f0fc",
+  "brut": {
+    "title": "En RDC, la mort d’au moins 26 écoliers après un incendie à Bukavu suscite une vague d’émotion nationale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En RDC, la mort d’au moins 26 écoliers après un incendie à Bukavu suscite une vague d’émotion nationale"
+    },
+    "published": "Sat, 12 Sep 2026 02:49:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      0,
+      49,
+      25,
+      5,
+      255,
+      0
+    ],
+    "updated": "Sat, 12 Sep 2026 05:11:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      12,
+      3,
+      11,
+      3,
+      5,
+      255,
+      0
+    ],
+    "summary": "Le sinistre a provoqué un mouvement de panique et une bousculade qui ont coûté « la vie à au moins 26 enfants » et « blessé 25 autres », a affirmé l’Unicef dans un communiqué, vendredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le sinistre a provoqué un mouvement de panique et une bousculade qui ont coûté « la vie à au moins 26 enfants » et « blessé 25 autres », a affirmé l’Unicef dans un communiqué, vendredi."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/12/rdc-la-mort-d-au-moins-26-ecoliers-apres-un-incendie-a-bukavu-suscite-une-vague-d-emotion-nationale_6770707_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/12/rdc-la-mort-d-au-moins-26-ecoliers-apres-un-incendie-a-bukavu-suscite-une-vague-d-emotion-nationale_6770707_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/12/rdc-la-mort-d-au-moins-26-ecoliers-apres-un-incendie-a-bukavu-suscite-une-vague-d-emotion-nationale_6770707_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/330/0/6048/3024/644/322/60/0/4514432_ftp-1-cunl3rf2mtnu-5059257-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le site de l’incendie qui a tué au moins 26 enfants à Bukavu (République démocratique du Congo), photographié au lendemain du sinistre, le 11 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOSPIN MWISHA/AFP"
+      }
+    ],
+    "credit": "JOSPIN MWISHA/AFP"
+  }
+}

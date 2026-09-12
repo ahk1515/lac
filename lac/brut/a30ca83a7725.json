@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T03:15:00.008014+00:00",
+  "_id": "a30ca83a7725",
+  "brut": {
+    "title": "Maha Al-Daya, la brodeuse de Gaza qui résiste avec du fil et une aiguille",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Maha Al-Daya, la brodeuse de Gaza qui résiste avec du fil et une aiguille"
+    },
+    "published": "Sat, 12 Sep 2026 05:00:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      3,
+      0,
+      12,
+      5,
+      255,
+      0
+    ],
+    "summary": "Réfugiée en France, Maha Al-Daya a fui les bombardements qui s’abattent sur l’enclave palestinienne depuis octobre 2023. Afin de conserver une trace du vécu des Gazaouis, elle reproduit, par la pratique d’une broderie ancestrale, les cartes d’évacuation larguées par I’armée israélienne. Un geste de résistance et de résilience qui ancre sur la toile la mémoire de sa terre d’origine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Réfugiée en France, Maha Al-Daya a fui les bombardements qui s’abattent sur l’enclave palestinienne depuis octobre 2023. Afin de conserver une trace du vécu des Gazaouis, elle reproduit, par la pratique d’une broderie ancestrale, les cartes d’évacuation larguées par I’armée israélienne. Un geste de résistance et de résilience qui ancre sur la toile la mémoire de sa terre d’origine."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/12/maha-al-daya-la-brodeuse-de-gaza-qui-resiste-avec-du-fil-et-une-aiguille_6770773_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/12/maha-al-daya-la-brodeuse-de-gaza-qui-resiste-avec-du-fil-et-une-aiguille_6770773_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/12/maha-al-daya-la-brodeuse-de-gaza-qui-resiste-avec-du-fil-et-une-aiguille_6770773_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/602/0/4888/2444/644/322/60/0/009ef7c_upload-1-zdet9jkpdkv6-17.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Maha Al-Daya, 50 ans, est une artiste palestinienne évacuée de Gaza en avril 2024. Elle vit en exil à Paris depuis janvier 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALINE DESCHAMPS pour M Le magazine du Monde"
+      }
+    ],
+    "credit": "ALINE DESCHAMPS pour M Le magazine du Monde"
+  }
+}
