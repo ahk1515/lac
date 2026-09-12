@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T15:01:37.121319+00:00",
+  "_id": "69f484975d1e",
+  "brut": {
+    "title": "Immigration : pourquoi les candidats à l’exil du continent africain se reportent sur la route des îles Canaries",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Immigration : pourquoi les candidats à l’exil du continent africain se reportent sur la route des îles Canaries"
+    },
+    "published": "Sat, 12 Sep 2026 16:00:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      14,
+      0,
+      9,
+      5,
+      255,
+      0
+    ],
+    "summary": "A la fin d’août 2026, 1 046 personnes ont été secourues dans l’océan Atlantique en une semaine seulement, selon Médecins sans frontières. Ces exilés tentaient de rejoindre les îles Canaries à bord d’embarcations de fortune. Alors que l’Union européenne externalise le contrôle de ses frontières, les candidats à l’émigration se reportent sur la traversée de l’Atlantique au départ de l’Afrique de l’Ouest.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la fin d’août 2026, 1 046 personnes ont été secourues dans l’océan Atlantique en une semaine seulement, selon Médecins sans frontières. Ces exilés tentaient de rejoindre les îles Canaries à bord d’embarcations de fortune. Alors que l’Union européenne externalise le contrôle de ses frontières, les candidats à l’émigration se reportent sur la traversée de l’Atlantique au départ de l’Afrique de l’Ouest."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/12/immigration-pourquoi-les-candidats-a-l-exil-du-continent-africain-se-reportent-sur-la-route-des-iles-canaries_6771540_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/12/immigration-pourquoi-les-candidats-a-l-exil-du-continent-africain-se-reportent-sur-la-route-des-iles-canaries_6771540_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/12/immigration-pourquoi-les-candidats-a-l-exil-du-continent-africain-se-reportent-sur-la-route-des-iles-canaries_6771540_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/44/13/1362/681/644/322/60/0/6b6f4b4_upload-1-ajqo9duy7x8b-vigentte-migration-sirius.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "En 2024, plus de 10 000 personnes ont disparu sur la route migratoire des îles Canaries selon l’ONG Caminando Fronteras, soit une moyenne de 27 morts par jour."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Le Monde"
+      }
+    ],
+    "credit": "Le Monde"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T15:01:37.121946+00:00",
+  "_id": "f7b0ab1d2694",
+  "brut": {
+    "title": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz après des frappes de drones en provenance d’Irak",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz après des frappes de drones en provenance d’Irak"
+    },
+    "published": "Sat, 12 Sep 2026 12:30:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      10,
+      30,
+      3,
+      5,
+      255,
+      0
+    ],
+    "updated": "Sat, 12 Sep 2026 14:58:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      12,
+      12,
+      58,
+      3,
+      5,
+      255,
+      0
+    ],
+    "summary": "Alors que houthistes yéménites contrôlent l’accès à la mer Rouge, l’oléoduc Est-Ouest, seule option terrestre au blocage du détroit d’Ormuz, a été visé le 10 septembre. Les deux principales voies d’exportation du royaume saoudien sont désormais menacées par les attaques de l’axe pro-iranien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que houthistes yéménites contrôlent l’accès à la mer Rouge, l’oléoduc Est-Ouest, seule option terrestre au blocage du détroit d’Ormuz, a été visé le 10 septembre. Les deux principales voies d’exportation du royaume saoudien sont désormais menacées par les attaques de l’axe pro-iranien."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-le-pipeline-qui-lui-sert-a-contourner-le-detroit-d-ormuz-apres-des-frappes-de-drones-en-provenance-d-irak_6771330_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-le-pipeline-qui-lui-sert-a-contourner-le-detroit-d-ormuz-apres-des-frappes-de-drones-en-provenance-d-irak_6771330_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-le-pipeline-qui-lui-sert-a-contourner-le-detroit-d-ormuz-apres-des-frappes-de-drones-en-provenance-d-irak_6771330_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/12/2301/0/3102/1551/644/322/60/0/f852278_upload-1-6f4rynjmj9gn-000-c82x2we.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Diptyque d’images satellites fournies par Planet Labs PBC d’un site situé le long du tracé de l’oléoduc Est-Ouest (Petroline), au sud-est de Médine, en Arabie saoudite, le 6 septembre 2026 (en haut), et le même site, le 11 septembre 2026, après avoir été endommagé par un incendie."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PLANET LABS PBC/AFP"
+      }
+    ],
+    "credit": "PLANET LABS PBC/AFP"
+  }
+}

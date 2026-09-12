@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T15:01:37.121450+00:00",
+  "_id": "bad9a80db2a7",
+  "brut": {
+    "title": "Aux Philippines, le bilan de l’incendie sur un ferry grimpe à 76 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Philippines, le bilan de l’incendie sur un ferry grimpe à 76 morts"
+    },
+    "published": "Sat, 12 Sep 2026 14:08:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      12,
+      8,
+      10,
+      5,
+      255,
+      0
+    ],
+    "updated": "Sat, 12 Sep 2026 16:31:15 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      12,
+      14,
+      31,
+      15,
+      5,
+      255,
+      0
+    ],
+    "summary": "Après une explosion, les flammes, parties de la cale mercredi, ont envahi l’ensemble du MV « June-Aster » avec une extrême célérité, « en quelques secondes », avait expliqué vendredi à l’AFP la porte-parole des gardes-côtes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après une explosion, les flammes, parties de la cale mercredi, ont envahi l’ensemble du MV « June-Aster » avec une extrême célérité, « en quelques secondes », avait expliqué vendredi à l’AFP la porte-parole des gardes-côtes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/12/aux-philippines-l-incendie-d-un-ferry-fait-au-moins-35-morts-et-une-cinquantaine-de-disparus_6771402_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/12/aux-philippines-l-incendie-d-un-ferry-fait-au-moins-35-morts-et-une-cinquantaine-de-disparus_6771402_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/12/aux-philippines-l-incendie-d-un-ferry-fait-au-moins-35-morts-et-une-cinquantaine-de-disparus_6771402_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/12/650/0/7798/3899/644/322/60/0/e6443e4_ftp-1-boqh06qwt6dz-1abbb75a2d8841febd8de82409d35e0f-0-5abaf2f5c5904b06b58ca5092bb00703.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les secouristes transfèrent les dépouilles des victimes de l’incendie survenu à bord du ferry MV « June-Aster » d’un navire de la garde côtière philippine au port de Borac, à Coron, dans la province de Palawan, dans l’ouest des Philippines, le 12 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AARON FAVILA/AP Photo"
+      }
+    ],
+    "credit": "AARON FAVILA/AP Photo"
+  }
+}

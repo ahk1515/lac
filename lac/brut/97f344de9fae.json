@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T15:01:37.122132+00:00",
+  "_id": "97f344de9fae",
+  "brut": {
+    "title": "Les premiers effets d’El Niño se font sentir au Pérou, touché par des températures record et une surmortalité d’espèces marines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les premiers effets d’El Niño se font sentir au Pérou, touché par des températures record et une surmortalité d’espèces marines"
+    },
+    "published": "Sat, 12 Sep 2026 12:00:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      10,
+      0,
+      12,
+      5,
+      255,
+      0
+    ],
+    "summary": "Le réchauffement anormal des eaux de surface du Pacifique a profondément modifié les conditions de l’écosystème marin le long du littoral, affectant notamment la disponibilité de l’anchois, espèce pilier de la chaîne alimentaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le réchauffement anormal des eaux de surface du Pacifique a profondément modifié les conditions de l’écosystème marin le long du littoral, affectant notamment la disponibilité de l’anchois, espèce pilier de la chaîne alimentaire."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/12/les-premiers-effets-d-el-nino-se-font-sentir-au-perou-touche-par-des-temperatures-record-et-une-surmortalite-d-especes-marines_6771296_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/12/les-premiers-effets-d-el-nino-se-font-sentir-au-perou-touche-par-des-temperatures-record-et-une-surmortalite-d-especes-marines_6771296_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/12/les-premiers-effets-d-el-nino-se-font-sentir-au-perou-touche-par-des-temperatures-record-et-une-surmortalite-d-especes-marines_6771296_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/17/458/0/5500/2750/644/322/60/0/48c21f6_ftp-1-wwcitqi213nu-2026-08-17t151147z-1961870555-rc2c0nanwjf9-rtrmadp-3-peru-weather-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un quartier de Lima touché par de fortes pluies, au Pérou, le 17 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Angela Ponce/REUTERS"
+      }
+    ],
+    "credit": "Angela Ponce/REUTERS"
+  }
+}

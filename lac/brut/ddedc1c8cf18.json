@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T15:01:37.121828+00:00",
+  "_id": "ddedc1c8cf18",
+  "brut": {
+    "title": "Vingt-cinq djihadistes français détenus en Irak saisissent la CEDH pour demander leur rapatriement en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vingt-cinq djihadistes français détenus en Irak saisissent la CEDH pour demander leur rapatriement en France"
+    },
+    "published": "Sat, 12 Sep 2026 13:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      11,
+      0,
+      11,
+      5,
+      255,
+      0
+    ],
+    "summary": "Ces membres du groupe Etat islamique avaient été discrètement transférés de la Syrie vers l’Irak, où ils encourent la peine de mort. Leurs avocats dénoncent le refus de Paris de les juger en France, ce qui constitue, selon eux, une entorse à l’Etat de droit laissant place à « l’arbitraire des décisions de l’exécutif ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces membres du groupe Etat islamique avaient été discrètement transférés de la Syrie vers l’Irak, où ils encourent la peine de mort. Leurs avocats dénoncent le refus de Paris de les juger en France, ce qui constitue, selon eux, une entorse à l’Etat de droit laissant place à « l’arbitraire des décisions de l’exécutif »."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/12/vingt-cinq-djihadistes-francais-detenus-en-irak-saisissent-la-cedh-pour-demander-leur-rapatriement-en-france_6771364_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/12/vingt-cinq-djihadistes-francais-detenus-en-irak-saisissent-la-cedh-pour-demander-leur-rapatriement-en-france_6771364_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/12/vingt-cinq-djihadistes-francais-detenus-en-irak-saisissent-la-cedh-pour-demander-leur-rapatriement-en-france_6771364_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/1020/0/6120/3060/644/322/60/0/4b00830_upload-1-vqyrx3exiib2-ap26043744766520.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Forces de sécurité irakiennes escortant des djihadistes de l’Etat islamique vers la prison centrale d’Al-Karkh,à Bagdad, le 12 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hadi Mizban/AP"
+      }
+    ],
+    "credit": "Hadi Mizban/AP"
+  }
+}

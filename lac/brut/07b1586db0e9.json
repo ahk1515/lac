@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T15:01:37.397211+00:00",
+  "_id": "07b1586db0e9",
+  "brut": {
+    "title": "L'AFD allemande est-elle néonazie ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'AFD allemande est-elle néonazie ?"
+    },
+    "summary": "Le parti allemand AFD, créé en 2013, est-il néonazi ? L'équipe de \"Vrai ou Faux\" a décrypté les déclarations de ses membres aux côtés de spécialistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parti allemand AFD, créé en 2013, est-il néonazi ? L'équipe de \"Vrai ou Faux\" a décrypté les déclarations de ses membres aux côtés de spécialistes."
+    },
+    "published": "Sat, 12 Sep 2026 16:49:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      14,
+      49,
+      31,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/o-dw7PvRlp_hvNbMaDcZNpw4ZFs/0x28:1664x964/432x243/filters:format(jpg)/2026/09/12/6aa56271c1101568903667.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

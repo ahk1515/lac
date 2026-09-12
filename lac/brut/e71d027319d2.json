@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T15:01:37.398078+00:00",
+  "_id": "e71d027319d2",
+  "brut": {
+    "title": "Le conflit au Moyen-Orient aggrave la crise des carburants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le conflit au Moyen-Orient aggrave la crise des carburants"
+    },
+    "summary": "La hausse du prix des carburants et combustibles ne va pas s’enrayer de sitôt, avec de nouvelles tensions au Moyen-Orient. Les Houthis, soutenus par l’Iran, ont pris le contrôle au Yémen d’une zone stratégique en mer Rouge, au niveau du détroit de Bab el-Mandeb, un passage clé pour le commerce mondial et le transport du pétrole. Résultat : les marchés s’affolent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La hausse du prix des carburants et combustibles ne va pas s’enrayer de sitôt, avec de nouvelles tensions au Moyen-Orient. Les Houthis, soutenus par l’Iran, ont pris le contrôle au Yémen d’une zone stratégique en mer Rouge, au niveau du détroit de Bab el-Mandeb, un passage clé pour le commerce mondial et le transport du pétrole. Résultat : les marchés s’affolent."
+    },
+    "published": "Sat, 12 Sep 2026 15:48:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      13,
+      48,
+      17,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-conflit-au-moyen-orient-aggrave-la-crise-des-carburants_8189738.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/IISIuXkuP6l0HBtRH_PZvjYUuO4/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/12/6aa545bb1d51f743874257.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-conflit-au-moyen-orient-aggrave-la-crise-des-carburants_8189738.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-conflit-au-moyen-orient-aggrave-la-crise-des-carburants_8189738.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

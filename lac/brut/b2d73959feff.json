@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T15:01:37.397546+00:00",
+  "_id": "b2d73959feff",
+  "brut": {
+    "title": "En Suède, des élections sur fond de tournant sécuritaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Suède, des élections sur fond de tournant sécuritaire"
+    },
+    "summary": "Appelés à voter ce dimanche, les électeurs suédois placent la santé, l’éducation et le pouvoir d’achat au premier rang de leurs préoccupations. Mais la criminalité et la violence des gangs, en pleine expansion, ont durablement transformé le paysage politique du royaume scandinave.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Appelés à voter ce dimanche, les électeurs suédois placent la santé, l’éducation et le pouvoir d’achat au premier rang de leurs préoccupations. Mais la criminalité et la violence des gangs, en pleine expansion, ont durablement transformé le paysage politique du royaume scandinave."
+    },
+    "published": "Sat, 12 Sep 2026 15:39:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      13,
+      39,
+      52,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8A3Wdw916_H1HRGXMs70iHaMMM0/0x339:6521x4007/432x243/filters:format(jpg)/2026/09/12/6aa5515384ec4745423932.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

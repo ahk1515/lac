@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T15:01:37.397977+00:00",
+  "_id": "c3df11ad6e4e",
+  "brut": {
+    "title": "Guerre en Ukraine : quatre morts dans des frappes russes nocturnes, dont deux dans une usine ArcelorMittal",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : quatre morts dans des frappes russes nocturnes, dont deux dans une usine ArcelorMittal"
+    },
+    "summary": "\"Nous condamnons fermement ces attaques ennemies insidieuses\", a réagi le groupe sidérurgique. En plus des frappes mortelles, d'autres ont blessé 35 personnes dans la ville portuaire d'Odessa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Nous condamnons fermement ces attaques ennemies insidieuses\", a réagi le groupe sidérurgique. En plus des frappes mortelles, d'autres ont blessé 35 personnes dans la ville portuaire d'Odessa."
+    },
+    "published": "Sat, 12 Sep 2026 14:52:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      12,
+      52,
+      14,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/XUqLq7yUv_H9PCx7a12XKwaZXM4/0x93:1024x669/432x243/filters:format(jpg)/2026/09/12/6aa54aec7e140427243319.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

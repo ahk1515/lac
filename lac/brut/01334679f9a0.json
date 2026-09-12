@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T15:01:37.398321+00:00",
+  "_id": "01334679f9a0",
+  "brut": {
+    "title": "11-Septembre : une manifestation anti-islam en marge des commémorations à New York",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "11-Septembre : une manifestation anti-islam en marge des commémorations à New York"
+    },
+    "summary": "\"Américains, est-ce que vous vous souvenez de ce que l’islam violent a fait à votre belle ville ?\". L'influenceur d'extrême droite Jake Lang et un groupe de quelques dizaines de personnes ont participé, vendredi 11 septembre, à une manifestation anti-islam devant la mairie de New York, le jour du 25e anniversaire des attentats du 11-Septembre 2001.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Américains, est-ce que vous vous souvenez de ce que l’islam violent a fait à votre belle ville ?\". L'influenceur d'extrême droite Jake Lang et un groupe de quelques dizaines de personnes ont participé, vendredi 11 septembre, à une manifestation anti-islam devant la mairie de New York, le jour du 25e anniversaire des attentats du 11-Septembre 2001."
+    },
+    "published": "Sat, 12 Sep 2026 12:49:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      10,
+      49,
+      25,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-une-manifestation-anti-islam-en-marge-des-commemorations-a-new-york_8189684.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/2QXXre0udfXRgOZ3MSz3sR79B4U/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/12/6aa52e0be59b5930961925.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-une-manifestation-anti-islam-en-marge-des-commemorations-a-new-york_8189684.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/11-septembre-une-manifestation-anti-islam-en-marge-des-commemorations-a-new-york_8189684.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

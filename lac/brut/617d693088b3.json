@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T15:01:37.398544+00:00",
+  "_id": "617d693088b3",
+  "brut": {
+    "title": "Les séries \"Widow's Bay\" et \"The Pitt\" favorites pour les Emmy Awards",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les séries \"Widow's Bay\" et \"The Pitt\" favorites pour les Emmy Awards"
+    },
+    "summary": "La série \"Hacks\", avec Jean Smart, domine les nominations dans la catégorie comédie avec 24 citations, contre 19 pour \"Widow's Bay\", pour cette édition 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La série \"Hacks\", avec Jean Smart, domine les nominations dans la catégorie comédie avec 24 citations, contre 19 pour \"Widow's Bay\", pour cette édition 2026."
+    },
+    "published": "Sat, 12 Sep 2026 12:22:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      10,
+      22,
+      26,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/series/les-series-widow-s-bay-et-the-pitt-favorites-pour-les-emmy-awards_8189591.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UjT72_ne2Fc-gGmfQRms3wLX25s/0x83:1600x983/432x243/filters:format(jpg)/2026/09/12/6aa5253c7a858180520114.jpeg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/series/les-series-widow-s-bay-et-the-pitt-favorites-pour-les-emmy-awards_8189591.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/series/les-series-widow-s-bay-et-the-pitt-favorites-pour-les-emmy-awards_8189591.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
