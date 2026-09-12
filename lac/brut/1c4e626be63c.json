@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T08:22:44.136822+00:00",
+  "_id": "1c4e626be63c",
+  "brut": {
+    "title": "Trois virées en famille pour réviser l’Union européenne, son histoire, son fonctionnement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois virées en famille pour réviser l’Union européenne, son histoire, son fonctionnement"
+    },
+    "published": "Sat, 12 Sep 2026 06:00:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      4,
+      0,
+      37,
+      5,
+      255,
+      0
+    ],
+    "summary": "« L’école buissonnière ». Chaque mois, des idées pour faire les devoirs en plein air. Cette semaine, on se sent un peu plus européen à Bruxelles, on se glisse dans la peau d’un eurodéputé à Europa Expérience, à Paris, et on entre dans l’intimité de Jean Monnet dans les Yvelines.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« L’école buissonnière ». Chaque mois, des idées pour faire les devoirs en plein air. Cette semaine, on se sent un peu plus européen à Bruxelles, on se glisse dans la peau d’un eurodéputé à Europa Expérience, à Paris, et on entre dans l’intimité de Jean Monnet dans les Yvelines."
+    },
+    "id": "https://www.lemonde.fr/intimites/article/2026/09/12/trois-virees-en-famille-pour-reviser-l-union-europeenne-son-histoire-son-fonctionnement_6770947_6190330.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/intimites/article/2026/09/12/trois-virees-en-famille-pour-reviser-l-union-europeenne-son-histoire-son-fonctionnement_6770947_6190330.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/intimites/article/2026/09/12/trois-virees-en-famille-pour-reviser-l-union-europeenne-son-histoire-son-fonctionnement_6770947_6190330.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/396/0/4785/2392/644/322/60/0/f0aee6a_upload-1-v1gq3f2pue1q-europa-experience-21.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Europa Expérience, à Paris."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CHRISTOPHE ECHARD/EU"
+      }
+    ],
+    "credit": "CHRISTOPHE ECHARD/EU"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T08:22:44.136262+00:00",
+  "_id": "571a7ad92852",
+  "brut": {
+    "title": "Art contemporain d’Afrique : à Bruxelles, Reinata Sadimba et Raymond Tsham rassemblés pour dialoguer",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Art contemporain d’Afrique : à Bruxelles, Reinata Sadimba et Raymond Tsham rassemblés pour dialoguer"
+    },
+    "published": "Sat, 12 Sep 2026 09:00:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      7,
+      0,
+      14,
+      5,
+      255,
+      0
+    ],
+    "summary": "A la galerie bruxelloise de Christophe Person, la Mozambicaine et le Congolais présentent leurs créations, qui se répondent. Jusqu’au 1er novembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la galerie bruxelloise de Christophe Person, la Mozambicaine et le Congolais présentent leurs créations, qui se répondent. Jusqu’au 1er novembre."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/12/art-contemporain-d-afrique-a-bruxelles-reinata-sadimba-et-raymond-tsham-rassembles-pour-dialoguer_6771125_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/12/art-contemporain-d-afrique-a-bruxelles-reinata-sadimba-et-raymond-tsham-rassembles-pour-dialoguer_6771125_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/12/art-contemporain-d-afrique-a-bruxelles-reinata-sadimba-et-raymond-tsham-rassembles-pour-dialoguer_6771125_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/715/0/4031/2015/644/322/60/0/72db85d_upload-1-20djr6p2lz6w-img-1237.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Quatre statuettes de Reinata Sadimba et deux dessins de Raymond Tsham à la galerie de Christophe Person, à Bruxelles, en septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Galerie Christophe Person"
+      }
+    ],
+    "credit": "Galerie Christophe Person"
+  }
+}

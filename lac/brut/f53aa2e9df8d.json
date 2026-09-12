@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T08:22:44.136455+00:00",
+  "_id": "f53aa2e9df8d",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se dit prêt à rencontrer Vladimir Poutine au G20 de Miami, en décembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se dit prêt à rencontrer Vladimir Poutine au G20 de Miami, en décembre"
+    },
+    "published": "Sat, 12 Sep 2026 08:33:47 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      6,
+      33,
+      47,
+      5,
+      255,
+      0
+    ],
+    "updated": "Sat, 12 Sep 2026 09:40:48 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      12,
+      7,
+      40,
+      48,
+      5,
+      255,
+      0
+    ],
+    "summary": "Le président ukrainien a affirmé qu’il s’y rendrait si son homologue russe participait au sommet prévu aux Etats-Unis. Les deux hommes ne se sont pas rencontrés depuis 2019 et le Russe n’a personnellement participé à aucun sommet du G20 depuis cette même année.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien a affirmé qu’il s’y rendrait si son homologue russe participait au sommet prévu aux Etats-Unis. Les deux hommes ne se sont pas rencontrés depuis 2019 et le Russe n’a personnellement participé à aucun sommet du G20 depuis cette même année."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/12/en-direct-guerre-en-ukraine-la-russie-a-attaque-l-ukraine-avec-une-centaine-de-drones-et-plus-de-14-missiles-dans-la-nuit-de-vendredi-a-samedi_6766818_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/12/en-direct-guerre-en-ukraine-la-russie-a-attaque-l-ukraine-avec-une-centaine-de-drones-et-plus-de-14-missiles-dans-la-nuit-de-vendredi-a-samedi_6766818_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/12/en-direct-guerre-en-ukraine-la-russie-a-attaque-l-ukraine-avec-une-centaine-de-drones-et-plus-de-14-missiles-dans-la-nuit-de-vendredi-a-samedi_6766818_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/1687/0/3373/1686/644/322/60/0/55284a0_ftp-1-xr6q6ntrdcw2-2026-09-10t175829z-172643853-rc2hgnagd9df-rtrmadp-3-ukraine-crisis-canada.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Volodymyr Zelensky lors d’une visite officielle à Calgary (Alberta), au Canada, le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Todd Korol / REUTERS"
+      }
+    ],
+    "credit": "Todd Korol / REUTERS"
+  }
+}

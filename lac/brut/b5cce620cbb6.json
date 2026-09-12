@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T08:22:44.136015+00:00",
+  "_id": "b5cce620cbb6",
+  "brut": {
+    "title": "Quelques œuvres de Reinata Sadimba et Raymond Tsham",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quelques œuvres de Reinata Sadimba et Raymond Tsham"
+    },
+    "published": "Sat, 12 Sep 2026 09:00:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      7,
+      0,
+      17,
+      5,
+      255,
+      0
+    ],
+    "summary": "A la galerie Christophe Person de Bruxelles, les deux artistes présentent leurs créations. Au menu de l’exposition « Héritages vivants, réinventer les formes » : figurines en argile cuite et dessins au stylo à bille sur papier.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la galerie Christophe Person de Bruxelles, les deux artistes présentent leurs créations. Au menu de l’exposition « Héritages vivants, réinventer les formes » : figurines en argile cuite et dessins au stylo à bille sur papier."
+    },
+    "id": "https://www.lemonde.fr/afrique/portfolio/2026/09/12/quelques-uvres-de-reinata-sadimba-et-raymond-tsham_6771126_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/portfolio/2026/09/12/quelques-uvres-de-reinata-sadimba-et-raymond-tsham_6771126_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/portfolio/2026/09/12/quelques-uvres-de-reinata-sadimba-et-raymond-tsham_6771126_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/03/393/0/1432/716/644/322/60/0/42fbaaa_upload-1-oqcnhye8k1ii-sadimba-1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "« La polygamie », de Reinata Sadimba (2025). Céramique et graphite (24 cm x 30 cm x 19,5 cm)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Cuauhtli Gutiérrez"
+      }
+    ],
+    "credit": "Cuauhtli Gutiérrez"
+  }
+}
