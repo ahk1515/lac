@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-12T18:06:14.075152+00:00",
+  "_id": "9f8b2b2049db",
+  "brut": {
+    "title": "Au Maroc, la campagne des élections législatives s’ouvre sur fond de crise sociale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Maroc, la campagne des élections législatives s’ouvre sur fond de crise sociale"
+    },
+    "summary": "La coalition gouvernementale dirigée par Aziz Akhannouch joue gros dans ce scrutin, dominé par la question des inégalités sociales et des disparités territoriales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La coalition gouvernementale dirigée par Aziz Akhannouch joue gros dans ce scrutin, dominé par la question des inégalités sociales et des disparités territoriales."
+    },
+    "published": "Sat, 12 Sep 2026 17:30:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      15,
+      30,
+      2,
+      5,
+      255,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-campagne-des-elections-legislatives-s-ouvre-sur-fond-de-crise-sociale_8167364.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/m5l6vy0ns-Y10RX-exn7NZuXXV0/0x214:4114x2528/432x243/filters:format(jpg)/2026/09/12/6aa538bc6ba80898108619.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-campagne-des-elections-legislatives-s-ouvre-sur-fond-de-crise-sociale_8167364.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-campagne-des-elections-legislatives-s-ouvre-sur-fond-de-crise-sociale_8167364.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

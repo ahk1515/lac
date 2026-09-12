@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-12T18:06:13.929255+00:00",
+  "_id": "0a778ca5bee6",
+  "brut": {
+    "title": "Capgemini vend sa filiale qui avait fait polémique pour son contrat avec l’ICE",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Capgemini vend sa filiale qui avait fait polémique pour son contrat avec l’ICE"
+    },
+    "published": "Sat, 12 Sep 2026 19:48:59 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      12,
+      17,
+      48,
+      59,
+      5,
+      255,
+      0
+    ],
+    "summary": "La décision de se séparer de cette filiale avait été prise au début de février, après la controverse provoquée par la révélation d’un contrat fournissant un outil d’identification et de localisation de personnes étrangères à l’ICE.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La décision de se séparer de cette filiale avait été prise au début de février, après la controverse provoquée par la révélation d’un contrat fournissant un outil d’identification et de localisation de personnes étrangères à l’ICE."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/12/capgemini-vend-sa-filiale-qui-avait-fait-polemique-pour-son-contrat-avec-l-ice_6771813_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/12/capgemini-vend-sa-filiale-qui-avait-fait-polemique-pour-son-contrat-avec-l-ice_6771813_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/12/capgemini-vend-sa-filiale-qui-avait-fait-polemique-pour-son-contrat-avec-l-ice_6771813_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/05/01/500/0/6000/3000/644/322/60/0/f2d7287_ftp-1-pu4ogwi85gmw-2026-05-01t194634z-1696988642-rc2j0laxoayb-rtrmadp-3-may-day-usa-los-angeles.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pancartes brandies lors d’une manifestation, à Los Angeles, en Californie, aux Etats-Unis, le 1ᵉʳ mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MIKE BLAKE/REUTERS"
+      }
+    ],
+    "credit": "MIKE BLAKE/REUTERS"
+  }
+}
