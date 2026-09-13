@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T18:32:43.261718+00:00",
+  "_id": "1abe2db858fc",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : un train touché par un drone et des frappes russes près de la frontière avec la Pologne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : un train touché par un drone et des frappes russes près de la frontière avec la Pologne"
+    },
+    "published": "Sun, 13 Sep 2026 19:18:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      17,
+      18,
+      25,
+      6,
+      256,
+      0
+    ],
+    "summary": "Une locomotive d’un train de voyageurs reliant Kiev à Varsovie a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes. Le premier ministre polonais, Donald Tusk, a convoqué une réunion spéciale, dimanche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une locomotive d’un train de voyageurs reliant Kiev à Varsovie a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes. Le premier ministre polonais, Donald Tusk, a convoqué une réunion spéciale, dimanche."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-touche-par-un-drone-et-des-frappes-russes-pres-de-la-frontiere-avec-la-pologne_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-touche-par-un-drone-et-des-frappes-russes-pres-de-la-frontiere-avec-la-pologne_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-touche-par-un-drone-et-des-frappes-russes-pres-de-la-frontiere-avec-la-pologne_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/456/0/1602/801/644/322/60/0/74f29bd_ftp-1-tmpvqidredz2-2026-09-13t115747z-405018044-rc2binadynpy-rtrmadp-3-ukraine-crisis-attack-border.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une attaque de drone russea touché une station service à Starovoïtove, dans la région de Volhynie (Ukraine), près de la frontière polonaise, le 13 septembre 2026. Image tirée d’une vidéo publiée sur les réseaux sociaux.\n\nVerification:\n- Location and date confirmed by original file metadata \n- Gas station, buildings, and road layout matched satellite and archive imagery \n- A Russian drone struck near the Ukrainian-Polish border overnight, Ukraine’s Foreign Minister Andrii Sybiha said on September 13 \n- A spokesperson for Volyn Customs told Ukraine’s public broadcaster that falling debris ignited a gas station near the border checkpoint"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sylwester Uchanski / Sylwester Uchanski via REUTERS"
+      }
+    ],
+    "credit": "Sylwester Uchanski / Sylwester Uchanski via REUTERS"
+  }
+}
