@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-13T22:07:41.226532+00:00",
+  "_id": "b13a54be807a",
+  "brut": {
+    "title": "La Russie frappe un train à 800 mètres de la frontière polonaise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie frappe un train à 800 mètres de la frontière polonaise"
+    },
+    "summary": "Un train de voyageurs qui prenait la direction de Varsovie a été touché par un drone russe. Le Premier ministre polonais affirme que la Russie a effectué une frappe à 800 mètres de sa frontière. Quelques heures plus tôt, un autre train, qui transportait l’ancien Premier ministre britannique Boris Johnson, a été stoppé en urgence.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un train de voyageurs qui prenait la direction de Varsovie a été touché par un drone russe. Le Premier ministre polonais affirme que la Russie a effectué une frappe à 800 mètres de sa frontière. Quelques heures plus tôt, un autre train, qui transportait l’ancien Premier ministre britannique Boris Johnson, a été stoppé en urgence."
+    },
+    "published": "Sun, 13 Sep 2026 22:00:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      20,
+      0,
+      42,
+      6,
+      256,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-russie-frappe-un-train-a-800-metres-de-la-frontiere-polonaise_8191124.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/oTO8pi2nGN3fJdWqoDYX31ObtiU/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/13/6aa6eeca609f0936742513.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-russie-frappe-un-train-a-800-metres-de-la-frontiere-polonaise_8191124.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-russie-frappe-un-train-a-800-metres-de-la-frontiere-polonaise_8191124.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-13T22:07:41.226715+00:00",
+  "_id": "176bdbf79812",
+  "brut": {
+    "title": "Au Yémen, la recrudescence des combats entraîne le déplacement de près de 86 000 personnes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Yémen, la recrudescence des combats entraîne le déplacement de près de 86 000 personnes"
+    },
+    "summary": "Plus de 2 000 de ces réfugiés ont fui par bateau vers Djibouti, où ils reçoivent une \"assistance immédiate\", selon l'Organisation internationale pour les migrations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 2 000 de ces réfugiés ont fui par bateau vers Djibouti, où ils reçoivent une \"assistance immédiate\", selon l'Organisation internationale pour les migrations."
+    },
+    "published": "Sun, 13 Sep 2026 20:39:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      18,
+      39,
+      34,
+      6,
+      256,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-la-recrudescence-des-combats-entraine-le-deplacement-de-pres-de-86-000-personnes_8191109.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6f-BIXi0_8SjZlqipiPxlMPGQJA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/13/6aa6ed7b6c0b7868393240.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-la-recrudescence-des-combats-entraine-le-deplacement-de-pres-de-86-000-personnes_8191109.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-la-recrudescence-des-combats-entraine-le-deplacement-de-pres-de-86-000-personnes_8191109.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

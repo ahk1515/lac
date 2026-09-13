@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T22:07:40.968205+00:00",
+  "_id": "ab323828bf7d",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les forces russes ont lancé plus de 300 drones d’attaque sur l’Ukraine, dimanche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les forces russes ont lancé plus de 300 drones d’attaque sur l’Ukraine, dimanche"
+    },
+    "published": "Sun, 13 Sep 2026 23:49:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      21,
+      49,
+      34,
+      6,
+      256,
+      0
+    ],
+    "summary": "Selon l’armée ukrainienne, 310 drones ont été abattus sur les 323 utilisés par les forces russes dans la journée. Le premier ministre polonais, Donald Tusk, a convoqué une réunion spéciale après qu’une locomotive d’un train de voyageurs a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon l’armée ukrainienne, 310 drones ont été abattus sur les 323 utilisés par les forces russes dans la journée. Le premier ministre polonais, Donald Tusk, a convoqué une réunion spéciale après qu’une locomotive d’un train de voyageurs a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-les-forces-russes-ont-lance-plus-de-300-drones-d-attaque-sur-l-ukraine-dimanche_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-les-forces-russes-ont-lance-plus-de-300-drones-d-attaque-sur-l-ukraine-dimanche_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-les-forces-russes-ont-lance-plus-de-300-drones-d-attaque-sur-l-ukraine-dimanche_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/456/0/1602/801/644/322/60/0/74f29bd_ftp-1-tmpvqidredz2-2026-09-13t115747z-405018044-rc2binadynpy-rtrmadp-3-ukraine-crisis-attack-border.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une attaque de drone russe a touché une station-service à Starovoïtove, dans la région de Volhynie (Ukraine), près de la frontière polonaise, le 13 septembre 2026. Image tirée d’une vidéo publiée sur les réseaux sociaux."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sylwester Uchanski / Sylwester Uchanski via REUTERS"
+      }
+    ],
+    "credit": "Sylwester Uchanski / Sylwester Uchanski via REUTERS"
+  }
+}
