@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T03:18:54.575551+00:00",
+  "_id": "27d368f1d439",
+  "brut": {
+    "title": "La France se soumet à un acte de contrition discret pour lever le blocage américain contre son nouvel ambassadeur à Washington",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La France se soumet à un acte de contrition discret pour lever le blocage américain contre son nouvel ambassadeur à Washington"
+    },
+    "published": "Sun, 13 Sep 2026 04:10:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      2,
+      10,
+      54,
+      6,
+      256,
+      0
+    ],
+    "summary": "La nomination d’Aurélien Lechevallier, un proche d’Emmanuel Macron, était gelée en réponse à un message de la diplomatie française, le 25 juillet, critiquant la position américaine sur les droits de l’homme. Un communiqué de mea culpa a été publié vendredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La nomination d’Aurélien Lechevallier, un proche d’Emmanuel Macron, était gelée en réponse à un message de la diplomatie française, le 25 juillet, critiquant la position américaine sur les droits de l’homme. Un communiqué de mea culpa a été publié vendredi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/13/la-france-se-soumet-a-un-acte-de-contrition-discret-pour-lever-le-blocage-americain-contre-son-nouvel-ambassadeur-a-washington_6772111_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/13/la-france-se-soumet-a-un-acte-de-contrition-discret-pour-lever-le-blocage-americain-contre-son-nouvel-ambassadeur-a-washington_6772111_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/13/la-france-se-soumet-a-un-acte-de-contrition-discret-pour-lever-le-blocage-americain-contre-son-nouvel-ambassadeur-a-washington_6772111_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/35/290/2822/1411/644/322/60/0/1c11541_upload-1-nkajahqemhqa-000-94zf2kp.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’ambassadeur de France à Washington, Laurent Bili, à l’Institut de la paix, dans la capitale américaine, le 3 février 2026. Le diplomate est censé être remplacé par Aurélien Lechevallier."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALEX WROBLEWSKI/AFP"
+      }
+    ],
+    "credit": "ALEX WROBLEWSKI/AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T03:18:54.575366+00:00",
+  "_id": "eb9c1728d210",
+  "brut": {
+    "title": "Au Chili, près de 300 arrestations lors des commémorations pour les victimes de la dictature Pinochet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Chili, près de 300 arrestations lors des commémorations pour les victimes de la dictature Pinochet"
+    },
+    "published": "Sun, 13 Sep 2026 04:58:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      2,
+      58,
+      0,
+      6,
+      256,
+      0
+    ],
+    "updated": "Sun, 13 Sep 2026 05:09:19 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      13,
+      3,
+      9,
+      19,
+      6,
+      256,
+      0
+    ],
+    "summary": "En l’absence de cérémonie officielle, des milliers de personnes sont descendues dans la rue, vendredi 11 et samedi 12 septembre, pour condamner la dictature militaire qui avait fait plus de 3 200 victimes, mortes ou disparues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En l’absence de cérémonie officielle, des milliers de personnes sont descendues dans la rue, vendredi 11 et samedi 12 septembre, pour condamner la dictature militaire qui avait fait plus de 3 200 victimes, mortes ou disparues."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/13/au-chili-pres-de-300-arrestations-lors-des-commemorations-pour-les-victimes-de-la-dictature-pinochet_6772177_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/13/au-chili-pres-de-300-arrestations-lors-des-commemorations-pour-les-victimes-de-la-dictature-pinochet_6772177_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/13/au-chili-pres-de-300-arrestations-lors-des-commemorations-pour-les-victimes-de-la-dictature-pinochet_6772177_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/555/0/5035/2517/644/322/60/0/fa3c577_ftp-1-zx5pmyyw9wmb-5060837-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Affrontements entre la police et des manifestants, à Santiago, le 11 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JAVIER TORRES/AFP"
+      }
+    ],
+    "credit": "JAVIER TORRES/AFP"
+  }
+}
