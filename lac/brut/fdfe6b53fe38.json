@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T09:01:57.527620+00:00",
+  "_id": "fdfe6b53fe38",
+  "brut": {
+    "title": "En accueillant la formule 1, Madrid poursuit sa folle course aux grands événements",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En accueillant la formule 1, Madrid poursuit sa folle course aux grands événements"
+    },
+    "published": "Sun, 13 Sep 2026 10:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      8,
+      0,
+      3,
+      6,
+      256,
+      0
+    ],
+    "summary": "Le Grand Prix d’Espagne est organisé dimanche sur un nouveau circuit semi-urbain. Un événement qui illustre la passion du pays pour les sports mécaniques, ainsi que l’ambition de la ville de s’imposer parmi les capitales mondiales du divertissement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Grand Prix d’Espagne est organisé dimanche sur un nouveau circuit semi-urbain. Un événement qui illustre la passion du pays pour les sports mécaniques, ainsi que l’ambition de la ville de s’imposer parmi les capitales mondiales du divertissement."
+    },
+    "id": "https://www.lemonde.fr/sport/article/2026/09/13/en-accueillant-la-formule-1-madrid-poursuit-sa-folle-course-aux-grands-evenements_6772365_3242.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sport/article/2026/09/13/en-accueillant-la-formule-1-madrid-poursuit-sa-folle-course-aux-grands-evenements_6772365_3242.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sport/article/2026/09/13/en-accueillant-la-formule-1-madrid-poursuit-sa-folle-course-aux-grands-evenements_6772365_3242.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/315/0/5440/2720/644/322/60/0/d20c17a_ftp-1-qgne383qkfou-5977595-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le circuit de formule 1 Madring, à Madrid, le 2 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "THOMAS COEX / AFP"
+      }
+    ],
+    "credit": "THOMAS COEX / AFP"
+  }
+}

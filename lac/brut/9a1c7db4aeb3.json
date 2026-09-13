@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-13T09:01:57.686538+00:00",
+  "_id": "9a1c7db4aeb3",
+  "brut": {
+    "title": "\"Fantômes rouges\", ce que la Révolution culturelle dit de la Chine d'aujourd'hui",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Fantômes rouges\", ce que la Révolution culturelle dit de la Chine d'aujourd'hui"
+    },
+    "summary": "Cette semaine, une journaliste explore le traumatisme provoqué chez les Chinois par la Révolution culturelle et dont ils ne sont toujours pas autorisés à parler.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette semaine, une journaliste explore le traumatisme provoqué chez les Chinois par la Révolution culturelle et dont ils ne sont toujours pas autorisés à parler."
+    },
+    "published": "Sun, 13 Sep 2026 10:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      8,
+      0,
+      3,
+      6,
+      256,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/livre-actu/fantomes-rouges-ce-que-la-revolution-culturelle-dit-de-la-chine-d-aujourd-hui_8149337.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uXL-F-tNi84Stvw_Sy4i-EkWnTw/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/10/6aa25695380e8904349399.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/livre-actu/fantomes-rouges-ce-que-la-revolution-culturelle-dit-de-la-chine-d-aujourd-hui_8149337.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/livre-actu/fantomes-rouges-ce-que-la-revolution-culturelle-dit-de-la-chine-d-aujourd-hui_8149337.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

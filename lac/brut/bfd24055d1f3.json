@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T09:01:57.528029+00:00",
+  "_id": "bfd24055d1f3",
+  "brut": {
+    "title": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »"
+    },
+    "published": "Sun, 13 Sep 2026 07:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      5,
+      0,
+      11,
+      6,
+      256,
+      0
+    ],
+    "summary": "Six ans après leur signature, les accords d’Abraham, loin de généraliser la normalisation israélo-arabe, ont aggravé les dissensions au Moyen-Orient, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Six ans après leur signature, les accords d’Abraham, loin de généraliser la normalisation israélo-arabe, ont aggravé les dissensions au Moyen-Orient, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde »."
+    },
+    "id": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/13/les-accords-d-abraham-ont-plutot-encourage-la-guerre-que-la-paix-au-moyen-orient_6772232_6116995.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/13/les-accords-d-abraham-ont-plutot-encourage-la-guerre-que-la-paix-au-moyen-orient_6772232_6116995.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/13/les-accords-d-abraham-ont-plutot-encourage-la-guerre-que-la-paix-au-moyen-orient_6772232_6116995.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2020/12/12/489/0/5874/2937/644/322/60/0/f7e1680_b1ee2d07e0c249a0824748845178218b-4f8cbad068d847e9828f5bed3d36b364-0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président Donald Trump (au centre), en compagnie (de gauche à droite), du ministre des affaires étrangères de Bahreïn, Khalid Ben Ahmed Al-Khalifa, du premier ministre israélien, Benyamin Nétanyahou, et du ministre des affaires étrangères des Emirats arabes unis, Abdullah Ben Zayed Al-Nahyan, lors de la cérémonie de signature des accords d’Abraham sur la pelouse sud de la Maison Blanche, le 15 septembre 2020, à Washington."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alex Brandon / AP"
+      }
+    ],
+    "credit": "Alex Brandon / AP"
+  }
+}

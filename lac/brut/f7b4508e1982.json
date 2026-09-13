@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-13T09:01:57.686300+00:00",
+  "_id": "f7b4508e1982",
+  "brut": {
+    "title": "Le Premier ministre canadien Mark Carney va se rendre avec Emmanuel Macron à Saint-Pierre-et-Miquelon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Premier ministre canadien Mark Carney va se rendre avec Emmanuel Macron à Saint-Pierre-et-Miquelon"
+    },
+    "summary": "\"Il s'agira de la première visite officielle d'un Premier ministre canadien dans l'archipel\", a souligné la présidence française. Emmanuel Macron y est attendu du 19 au 21 septembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Il s'agira de la première visite officielle d'un Premier ministre canadien dans l'archipel\", a souligné la présidence française. Emmanuel Macron y est attendu du 19 au 21 septembre."
+    },
+    "published": "Sun, 13 Sep 2026 10:13:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      8,
+      13,
+      35,
+      6,
+      256,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/canada/le-premier-ministre-canadien-mark-carney-va-se-rendre-avec-emmanuel-macron-a-saint-pierre-et-miquelon_8190524.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vhBpQ6ZuVB-vEC8KJbssPQqP0Xw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/13/6aa65a9cf284a328616963.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/canada/le-premier-ministre-canadien-mark-carney-va-se-rendre-avec-emmanuel-macron-a-saint-pierre-et-miquelon_8190524.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/canada/le-premier-ministre-canadien-mark-carney-va-se-rendre-avec-emmanuel-macron-a-saint-pierre-et-miquelon_8190524.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

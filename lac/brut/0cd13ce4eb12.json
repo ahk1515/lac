@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T09:01:57.527810+00:00",
+  "_id": "0cd13ce4eb12",
+  "brut": {
+    "title": "Détroit d’Ormuz : une frappe contre un navire marchand iranien fait un mort, selon l’Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Détroit d’Ormuz : une frappe contre un navire marchand iranien fait un mort, selon l’Iran"
+    },
+    "published": "Sun, 13 Sep 2026 08:25:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      6,
+      25,
+      4,
+      6,
+      256,
+      0
+    ],
+    "updated": "Sun, 13 Sep 2026 09:18:45 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      13,
+      7,
+      18,
+      45,
+      6,
+      256,
+      0
+    ],
+    "summary": "La frappe a également fait trois blessés dimanche matin, selon les autorités iraniennes, qui n’ont pas précisé l’origine de l’attaque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La frappe a également fait trois blessés dimanche matin, selon les autorités iraniennes, qui n’ont pas précisé l’origine de l’attaque."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/13/detroit-d-ormuz-une-frappe-contre-un-navire-marchand-iranien-fait-un-mort-selon-l-iran_6772298_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/13/detroit-d-ormuz-une-frappe-contre-un-navire-marchand-iranien-fait-un-mort-selon-l-iran_6772298_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/13/detroit-d-ormuz-une-frappe-contre-un-navire-marchand-iranien-fait-un-mort-selon-l-iran_6772298_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/193/0/2609/1304/644/322/60/0/34a4c2c_ftp-1-ecsil2unj395-2026-09-10t060005z-1739171652-rc2rqmar10qo-rtrmadp-3-usa-sept11-foreign-policy.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des navires dans le détroit d’Ormuz, vus de Musandam, Oman, le 3 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}
