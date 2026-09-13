@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-13T15:39:34.380842+00:00",
+  "_id": "f2fb99f8cc13",
+  "brut": {
+    "title": "Guerre en Ukraine : une \"attaque systémique\" est \"en cours\" contre les transports ferroviaires ukrainiens, une alerte \"de haut niveau\" déclenchée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : une \"attaque systémique\" est \"en cours\" contre les transports ferroviaires ukrainiens, une alerte \"de haut niveau\" déclenchée"
+    },
+    "summary": "Cet avertissement de la compagnie des chemins de fer ukrainiens survient après l'attaque, qui a visé, dimanche matin, un train à destination de la Pologne avec 206 passagers à bord.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cet avertissement de la compagnie des chemins de fer ukrainiens survient après l'attaque, qui a visé, dimanche matin, un train à destination de la Pologne avec 206 passagers à bord."
+    },
+    "published": "Sun, 13 Sep 2026 14:57:55 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      12,
+      57,
+      55,
+      6,
+      256,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3onmuEp1h7lHHUJqZl962fO7MdM/0x339:4300x2758/432x243/filters:format(jpg)/2026/09/13/6aa68cbf8492d263890506.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

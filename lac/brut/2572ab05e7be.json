@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-13T15:39:34.380500+00:00",
+  "_id": "2572ab05e7be",
+  "brut": {
+    "title": "Visite du pape Léon XIV en France : les artisans s'activent pour réaliser les costumes liturgiques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Visite du pape Léon XIV en France : les artisans s'activent pour réaliser les costumes liturgiques"
+    },
+    "summary": "J-12 avant la venue du pape Léon XIV en France, qui célébrera trois messes au total. Pour l’occasion, 5 000 étoles liturgiques en jacquard doivent être livrées pour les prêtres et les diacres. Une commande répartie entre quatre entreprises, qui s’activent pour être dans les temps.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "J-12 avant la venue du pape Léon XIV en France, qui célébrera trois messes au total. Pour l’occasion, 5 000 étoles liturgiques en jacquard doivent être livrées pour les prêtres et les diacres. Une commande répartie entre quatre entreprises, qui s’activent pour être dans les temps."
+    },
+    "published": "Sun, 13 Sep 2026 15:54:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      13,
+      54,
+      26,
+      6,
+      256,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/costumes-liturgiques-ca-s-active-avant-la-venue-du-pape-leon-xiv_8190791.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-TjTpu3wyuzwCTeOVnKi7u_bXKw/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/13/6aa6977489757904543888.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/costumes-liturgiques-ca-s-active-avant-la-venue-du-pape-leon-xiv_8190791.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/costumes-liturgiques-ca-s-active-avant-la-venue-du-pape-leon-xiv_8190791.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

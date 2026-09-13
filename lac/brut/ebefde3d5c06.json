@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T15:39:33.667769+00:00",
+  "_id": "ebefde3d5c06",
+  "brut": {
+    "title": "En Indonésie, le naufrage d’un ferry fait six morts et 129 disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Indonésie, le naufrage d’un ferry fait six morts et 129 disparus"
+    },
+    "published": "Sun, 13 Sep 2026 13:22:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      11,
+      22,
+      34,
+      6,
+      256,
+      0
+    ],
+    "updated": "Sun, 13 Sep 2026 15:29:00 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      13,
+      13,
+      29,
+      0,
+      6,
+      256,
+      0
+    ],
+    "summary": "Le navire « Virgo-Transport 8 » transportait 243 passagers et membres d’équipage. Il avait appareillé samedi de Surabaya, dans l’est de l’île de Java, pour rejoindre Banjarmassin, dans l’île de Bornéo, d’après un signalement aux secours des propriétaires du ferry.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le navire « Virgo-Transport 8 » transportait 243 passagers et membres d’équipage. Il avait appareillé samedi de Surabaya, dans l’est de l’île de Java, pour rejoindre Banjarmassin, dans l’île de Bornéo, d’après un signalement aux secours des propriétaires du ferry."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/13/en-indonesie-le-naufrage-d-un-ferry-fait-six-morts-et-130-disparus_6772600_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/13/en-indonesie-le-naufrage-d-un-ferry-fait-six-morts-et-130-disparus_6772600_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/13/en-indonesie-le-naufrage-d-un-ferry-fait-six-morts-et-130-disparus_6772600_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/36/0/1156/578/644/322/60/0/51d8fbe_ftp-1-fasi1uhxyuiz-2026-09-13t090138z-896264361-rc28ina2pwx5-rtrmadp-3-indonesia-ship.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les sauveteurs interviennent lors d’une opération de recherche après le naufrage du navire « Virgo-Transport 8 », qui faisait la traversée entre Surabaya et Banjarmassin, dans la mer de Java, en Indonésie, le 13 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Indonesia's National Search and / via REUTERS"
+      }
+    ],
+    "credit": "Indonesia's National Search and / via REUTERS"
+  }
+}

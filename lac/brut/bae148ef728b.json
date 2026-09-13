@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-13T15:39:33.667481+00:00",
+  "_id": "bae148ef728b",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : une « attaque systémique » est « en cours » contre le rail à travers le pays, selon la compagnie des chemins de fer ukrainiens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : une « attaque systémique » est « en cours » contre le rail à travers le pays, selon la compagnie des chemins de fer ukrainiens"
+    },
+    "published": "Sun, 13 Sep 2026 14:19:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      13,
+      12,
+      19,
+      58,
+      6,
+      256,
+      0
+    ],
+    "updated": "Sun, 13 Sep 2026 17:31:30 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      13,
+      15,
+      31,
+      30,
+      6,
+      256,
+      0
+    ],
+    "summary": "Une locomotive d’un train de voyageurs reliant Kiev à Varsovie a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une locomotive d’un train de voyageurs reliant Kiev à Varsovie a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-touche-par-un-drone-russe-sans-faire-de-victimes_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-touche-par-un-drone-russe-sans-faire-de-victimes_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-touche-par-un-drone-russe-sans-faire-de-victimes_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/12/171/0/2048/1024/644/322/60/0/adbd895_ftp-1-jyrd61rlmzki-2026-09-12t144938z-541326783-rc2qhnarfzl8-rtrmadp-3-ukraine-crisis-attack-lutsk.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pompiers interviennent sur le train été touché par un drone russe à Loutsk, le 12 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "State Emergency Service of Ukrai / via REUTERS"
+      }
+    ],
+    "credit": "State Emergency Service of Ukrai / via REUTERS"
+  }
+}
