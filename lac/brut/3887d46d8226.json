@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T17:44:57.437943+00:00",
+  "_id": "3887d46d8226",
+  "brut": {
+    "title": "Les images du train frappé par un drone russe sur un train reliant Kiev à Varsovie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les images du train frappé par un drone russe sur un train reliant Kiev à Varsovie"
+    },
+    "published": "Mon, 14 Sep 2026 15:33:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      13,
+      33,
+      43,
+      0,
+      257,
+      0
+    ],
+    "summary": "L’Ukraine dénonce une « attaque systémique » contre son réseau ferroviaire tandis que la Pologne, membre de l’OTAN, craint une « escalade » de la part de la Russie. Un autre train, avec à son bord des personnalités européennes et américaines, venait de quitter la gare visée, dimanche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Ukraine dénonce une « attaque systémique » contre son réseau ferroviaire tandis que la Pologne, membre de l’OTAN, craint une « escalade » de la part de la Russie. Un autre train, avec à son bord des personnalités européennes et américaines, venait de quitter la gare visée, dimanche."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/14/les-images-du-train-reliant-kiev-a-varsovie-frappe-par-un-drone-russe_6773837_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/14/les-images-du-train-reliant-kiev-a-varsovie-frappe-par-un-drone-russe_6773837_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/14/les-images-du-train-reliant-kiev-a-varsovie-frappe-par-un-drone-russe_6773837_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/166/0/2000/1000/644/322/60/0/54e1f84_ftp-1-dyxhqbagfidu-737b623b19f147bba48d599d4343a243-0-5101bd3de3764de189ccfbdef6a81625.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ukrainian Ukrzaliznytsia Railway Company Press Office via AP"
+      }
+    ],
+    "credit": "Ukrainian Ukrzaliznytsia Railway Company Press Office via AP"
+  }
+}

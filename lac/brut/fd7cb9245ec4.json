@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T17:44:57.437765+00:00",
+  "_id": "fd7cb9245ec4",
+  "brut": {
+    "title": "Au Mali, au moins 50 militaires et cinq mercenaires russes tués jeudi dans une attaque djihadiste",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mali, au moins 50 militaires et cinq mercenaires russes tués jeudi dans une attaque djihadiste"
+    },
+    "published": "Mon, 14 Sep 2026 15:44:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      13,
+      44,
+      16,
+      0,
+      257,
+      0
+    ],
+    "summary": "Depuis 2012, le Mali fait face à une profonde crise sécuritaire, nourrie notamment par les violences de groupes djihadistes, de leurs alliés indépendantistes touareg du Front de libération de l’Azawad et de groupes criminels communautaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis 2012, le Mali fait face à une profonde crise sécuritaire, nourrie notamment par les violences de groupes djihadistes, de leurs alliés indépendantistes touareg du Front de libération de l’Azawad et de groupes criminels communautaires."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/14/au-mali-au-moins-50-militaires-et-cinq-mercenaires-russes-tues-jeudi-dans-une-attaque-djihadiste_6773838_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/14/au-mali-au-moins-50-militaires-et-cinq-mercenaires-russes-tues-jeudi-dans-une-attaque-djihadiste_6773838_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/14/au-mali-au-moins-50-militaires-et-cinq-mercenaires-russes-tues-jeudi-dans-une-attaque-djihadiste_6773838_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/04/27/525/0/4200/2100/644/322/60/0/a4a554d_ftp-1-fjhopgsfeig7-5879705-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des combattants du Front de libération de l’Azawad (FLA) à Kidal, le 26 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

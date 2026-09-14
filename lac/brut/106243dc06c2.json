@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T17:44:57.436123+00:00",
+  "_id": "106243dc06c2",
+  "brut": {
+    "title": "Vladimir Poutine, un président bunkérisé dans une Russie mise sous cloche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vladimir Poutine, un président bunkérisé dans une Russie mise sous cloche"
+    },
+    "published": "Mon, 14 Sep 2026 19:00:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      17,
+      0,
+      7,
+      0,
+      257,
+      0
+    ],
+    "updated": "Mon, 14 Sep 2026 19:27:28 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      14,
+      17,
+      27,
+      28,
+      0,
+      257,
+      0
+    ],
+    "summary": "« Le système Poutine » (1/3). Les pléthoriques « siloviki », ces officiers issus des services de sécurité, ont pris le pouvoir et sont omniprésents dans les élites. Dans la société, ils ont diffusé un climat de peur et de suspicion qui interdit toute remise en question du Kremlin et de la guerre en Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le système Poutine » (1/3). Les pléthoriques « siloviki », ces officiers issus des services de sécurité, ont pris le pouvoir et sont omniprésents dans les élites. Dans la société, ils ont diffusé un climat de peur et de suspicion qui interdit toute remise en question du Kremlin et de la guerre en Ukraine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/14/vladimir-poutine-un-president-bunkerise-dans-une-russie-mise-sous-cloche_6773871_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/14/vladimir-poutine-un-president-bunkerise-dans-une-russie-mise-sous-cloche_6773871_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/14/vladimir-poutine-un-president-bunkerise-dans-une-russie-mise-sous-cloche_6773871_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/4/0/2126/1063/644/322/60/0/cba6560_upload-1-ou23dxti4rrk-lemonde-serie-poutine-300dpi-1-b.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anne-Gaëlle Amiot"
+      }
+    ],
+    "credit": "Anne-Gaëlle Amiot"
+  }
+}

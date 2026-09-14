@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T17:44:57.712499+00:00",
+  "_id": "e4acfb13e91b",
+  "brut": {
+    "title": "Aux Etats-Unis, le Kennedy Center risque la faillite, rapporte un média américain",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux Etats-Unis, le Kennedy Center risque la faillite, rapporte un média américain"
+    },
+    "summary": "Selon des documents obtenus par \"The Washington Post\", le conseil d'administration du Kennedy Center doit voter mardi une éventuelle fermeture du principal bâtiment de ce centre dédié aux arts du spectacle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon des documents obtenus par \"The Washington Post\", le conseil d'administration du Kennedy Center doit voter mardi une éventuelle fermeture du principal bâtiment de ce centre dédié aux arts du spectacle."
+    },
+    "published": "Mon, 14 Sep 2026 14:28:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      12,
+      28,
+      15,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-kennedy-center-risque-la-faillite-rapporte-un-media-americain_8191901.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/s9-zHuMmujQZPQc5pzkCWkCJ770/0x106:1024x682/432x243/filters:format(jpg)/2026/09/14/6aa7de5d66e8e018880780.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-kennedy-center-risque-la-faillite-rapporte-un-media-americain_8191901.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-kennedy-center-risque-la-faillite-rapporte-un-media-americain_8191901.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

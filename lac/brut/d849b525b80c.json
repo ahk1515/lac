@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T17:44:57.710366+00:00",
+  "_id": "d849b525b80c",
+  "brut": {
+    "title": "Donald Trump affirme que l'Ukraine et la Russie ont accepté d'arrêter les bombardements sur les infrastructures énergétiques adverses",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump affirme que l'Ukraine et la Russie ont accepté d'arrêter les bombardements sur les infrastructures énergétiques adverses"
+    },
+    "summary": "Le président américain avait interpellé, dimanche, son homologue ukrainien, Volodymyr Zelensky, l'appelant à \"arrêter\" d'attaquer les raffineries de pétrole en Russie, face à la hausse des prix à la pompe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président américain avait interpellé, dimanche, son homologue ukrainien, Volodymyr Zelensky, l'appelant à \"arrêter\" d'attaquer les raffineries de pétrole en Russie, face à la hausse des prix à la pompe."
+    },
+    "published": "Mon, 14 Sep 2026 19:21:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      17,
+      21,
+      50,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-l-ukraine-et-la-russie-ont-accepte-d-arreter-les-bombardements-sur-les-infrastructures-energetiques-adverses_8192360.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_NEwXiHujwyEoyfKendkTmM8qAY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/14/6aa82b73df0c7427488473.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-l-ukraine-et-la-russie-ont-accepte-d-arreter-les-bombardements-sur-les-infrastructures-energetiques-adverses_8192360.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-l-ukraine-et-la-russie-ont-accepte-d-arreter-les-bombardements-sur-les-infrastructures-energetiques-adverses_8192360.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

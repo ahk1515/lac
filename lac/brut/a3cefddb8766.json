@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T17:44:57.437164+00:00",
+  "_id": "a3cefddb8766",
+  "brut": {
+    "title": "En Espagne, des centaines de milliers de citoyens pourraient être privés de droit de vote aux législatives de 2027",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, des centaines de milliers de citoyens pourraient être privés de droit de vote aux législatives de 2027"
+    },
+    "published": "Mon, 14 Sep 2026 16:40:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      14,
+      40,
+      14,
+      0,
+      257,
+      0
+    ],
+    "summary": "Saisie par deux partis d’extrême droite, la Cour suprême de Madrid a suspendu le droit de vote accordé depuis 2022 aux descendants d’exilés de l’époque franquiste, déclenchant une vive polémique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Saisie par deux partis d’extrême droite, la Cour suprême de Madrid a suspendu le droit de vote accordé depuis 2022 aux descendants d’exilés de l’époque franquiste, déclenchant une vive polémique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/14/en-espagne-des-centaines-de-milliers-de-citoyens-pourraient-etre-prives-de-droit-de-vote-aux-legislatives-de-2027_6773843_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/14/en-espagne-des-centaines-de-milliers-de-citoyens-pourraient-etre-prives-de-droit-de-vote-aux-legislatives-de-2027_6773843_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/14/en-espagne-des-centaines-de-milliers-de-citoyens-pourraient-etre-prives-de-droit-de-vote-aux-legislatives-de-2027_6773843_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/194/0/5568/2784/644/322/60/0/159a4ae_upload-1-07q2zdu5wu5r-000-1hp5t8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La Cour suprême espagnole, à Madrid, le 21 juin 2019."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GABRIEL BOUYS/AFP"
+      }
+    ],
+    "credit": "GABRIEL BOUYS/AFP"
+  }
+}

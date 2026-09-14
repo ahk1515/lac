@@ -2,12 +2,12 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 471
+    "co_citations": 477
   },
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 325
+    "co_citations": 329
   },
   {
     "pays_a": "ISR",
@@ -17,17 +17,17 @@
   {
     "pays_a": "UKR",
     "pays_b": "USA",
-    "co_citations": 80
+    "co_citations": 82
   },
   {
     "pays_a": "FRA",
     "pays_b": "RUS",
-    "co_citations": 78
+    "co_citations": 82
   },
   {
     "pays_a": "RUS",
     "pays_b": "USA",
-    "co_citations": 78
+    "co_citations": 80
   },
   {
     "pays_a": "FRA",
@@ -45,24 +45,24 @@
     "co_citations": 56
   },
   {
+    "pays_a": "DEU",
+    "pays_b": "RUS",
+    "co_citations": 52
+  },
+  {
     "pays_a": "IRN",
     "pays_b": "ISR",
     "co_citations": 51
   },
   {
-    "pays_a": "DEU",
-    "pays_b": "RUS",
-    "co_citations": 51
+    "pays_a": "FRA",
+    "pays_b": "UKR",
+    "co_citations": 50
   },
   {
     "pays_a": "CHN",
     "pays_b": "USA",
     "co_citations": 50
-  },
-  {
-    "pays_a": "FRA",
-    "pays_b": "UKR",
-    "co_citations": 48
   },
   {
     "pays_a": "DEU",
@@ -180,6 +180,11 @@
     "co_citations": 9
   },
   {
+    "pays_a": "IRN",
+    "pays_b": "RUS",
+    "co_citations": 9
+  },
+  {
     "pays_a": "RUS",
     "pays_b": "TUR",
     "co_citations": 8
@@ -187,11 +192,6 @@
   {
     "pays_a": "CHN",
     "pays_b": "IRN",
-    "co_citations": 8
-  },
-  {
-    "pays_a": "IRN",
-    "pays_b": "RUS",
     "co_citations": 8
   },
   {
@@ -205,14 +205,14 @@
     "co_citations": 7
   },
   {
-    "pays_a": "CHN",
-    "pays_b": "GBR",
+    "pays_a": "IRN",
+    "pays_b": "UKR",
     "co_citations": 6
   },
   {
-    "pays_a": "IRN",
-    "pays_b": "UKR",
-    "co_citations": 5
+    "pays_a": "CHN",
+    "pays_b": "GBR",
+    "co_citations": 6
   },
   {
     "pays_a": "FRA",
@@ -270,6 +270,11 @@
     "co_citations": 4
   },
   {
+    "pays_a": "MLI",
+    "pays_b": "RUS",
+    "co_citations": 4
+  },
+  {
     "pays_a": "DZA",
     "pays_b": "NER",
     "co_citations": 4
@@ -311,11 +316,6 @@
   },
   {
     "pays_a": "IND",
-    "pays_b": "RUS",
-    "co_citations": 3
-  },
-  {
-    "pays_a": "MLI",
     "pays_b": "RUS",
     "co_citations": 3
   },
