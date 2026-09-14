@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T09:35:02.324460+00:00",
+  "_id": "874a262db977",
+  "brut": {
+    "title": "Au moins 63 arrestations dans un coup de filet anti-LGBT+ en Turquie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 63 arrestations dans un coup de filet anti-LGBT+ en Turquie"
+    },
+    "summary": "Cette vaste opération a été mise en lumière par le pouvoir islamo-conservateur de Recep Tayyip Erdogan, qui dit agir au nom de la protection de la famille traditionnelle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette vaste opération a été mise en lumière par le pouvoir islamo-conservateur de Recep Tayyip Erdogan, qui dit agir au nom de la protection de la famille traditionnelle."
+    },
+    "published": "Mon, 14 Sep 2026 09:18:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      7,
+      18,
+      7,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/turquie/au-moins-63-arrestations-dans-un-coup-de-filet-anti-lgbt-en-turquie_8191481.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rWcmsYTBRsXJ2AwwARLbmyjNHPI/0x0:1024x576/432x243/filters:format(jpg)/2026/09/14/6aa78db80dabb481848875.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/turquie/au-moins-63-arrestations-dans-un-coup-de-filet-anti-lgbt-en-turquie_8191481.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/turquie/au-moins-63-arrestations-dans-un-coup-de-filet-anti-lgbt-en-turquie_8191481.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

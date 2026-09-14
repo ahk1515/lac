@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T09:35:02.324036+00:00",
+  "_id": "1370f5b97e8c",
+  "brut": {
+    "title": "Un mort et 25 disparus dans le naufrage d'une embarcation de migrants au large de la Grèce",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un mort et 25 disparus dans le naufrage d'une embarcation de migrants au large de la Grèce"
+    },
+    "summary": "Selon des témoignages de rescapés, 77 personnes se trouvaient à bord de l'embarcation, qui a chaviré à environ 70 km au sud de Gavdos, près de la Crète.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon des témoignages de rescapés, 77 personnes se trouvaient à bord de l'embarcation, qui a chaviré à environ 70 km au sud de Gavdos, près de la Crète."
+    },
+    "published": "Mon, 14 Sep 2026 10:24:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      8,
+      24,
+      37,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/un-mort-et-25-disparus-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8191589.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/V8XwHdSxEgS0LrkGduoiwl0TMlk/0x39:1024x615/432x243/filters:format(jpg)/2026/09/14/6aa7a5433050e533844770.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/un-mort-et-25-disparus-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8191589.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/un-mort-et-25-disparus-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8191589.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

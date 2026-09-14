@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T09:35:02.091951+00:00",
+  "_id": "49eeea4bf803",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie affirme poursuivre ses attaques contre les trains ukrainiens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie affirme poursuivre ses attaques contre les trains ukrainiens"
+    },
+    "published": "Mon, 14 Sep 2026 11:04:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      9,
+      4,
+      13,
+      0,
+      257,
+      0
+    ],
+    "updated": "Mon, 14 Sep 2026 11:08:17 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      14,
+      9,
+      8,
+      17,
+      0,
+      257,
+      0
+    ],
+    "summary": "Des « convois militaires et des locomotives » ont été pris pour cible dans les oblasts de Dnipropetrovsk, de Zaporijia, de Poltava, de Mykolaïv et d’Odessa, annonce le ministère de la défense russe. Un drone a touché, dimanche, la locomotive d’un train de voyageurs à 2 kilomètres de la frontière polonaise, sans faire de victimes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des « convois militaires et des locomotives » ont été pris pour cible dans les oblasts de Dnipropetrovsk, de Zaporijia, de Poltava, de Mykolaïv et d’Odessa, annonce le ministère de la défense russe. Un drone a touché, dimanche, la locomotive d’un train de voyageurs à 2 kilomètres de la frontière polonaise, sans faire de victimes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-la-russie-affirme-poursuivre-ses-attaques-contre-les-trains-ukrainiens_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-la-russie-affirme-poursuivre-ses-attaques-contre-les-trains-ukrainiens_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-la-russie-affirme-poursuivre-ses-attaques-contre-les-trains-ukrainiens_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/12/325/0/2048/1024/644/322/60/0/97392ad_ftp-1-k1kq7wpmfm3k-2026-09-12t144938z-176613886-rc2qhnamibst-rtrmadp-3-ukraine-crisis-attack-lutsk.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après l’attaque d’un drone russe près de la frontière avec la Pologne, en Ukraine, le 13 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service d’urgence ukrainien via REUTERS"
+      }
+    ],
+    "credit": "Service d’urgence ukrainien via REUTERS"
+  }
+}

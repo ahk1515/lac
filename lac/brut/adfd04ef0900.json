@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T09:35:02.092256+00:00",
+  "_id": "adfd04ef0900",
+  "brut": {
+    "title": "En Grèce, le naufrage d’une embarcation de migrants fait un mort et 25 disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Grèce, le naufrage d’une embarcation de migrants fait un mort et 25 disparus"
+    },
+    "published": "Mon, 14 Sep 2026 10:42:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      8,
+      42,
+      10,
+      0,
+      257,
+      0
+    ],
+    "summary": "La Crète et l’île proche de Gavdos, en face des côtes libyennes, sont devenues la principale porte d’entrée des demandeurs d’asile en Grèce.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Crète et l’île proche de Gavdos, en face des côtes libyennes, sont devenues la principale porte d’entrée des demandeurs d’asile en Grèce."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/14/en-grece-le-naufrage-d-une-embarcation-de-migrants-fait-un-mort-et-25-disparus_6773640_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/14/en-grece-le-naufrage-d-une-embarcation-de-migrants-fait-un-mort-et-25-disparus_6773640_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/14/en-grece-le-naufrage-d-une-embarcation-de-migrants-fait-un-mort-et-25-disparus_6773640_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/498/0/4252/2126/644/322/60/0/260cf62_upload-1-86tizlcvny8s-000-38z97zp.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Opération de recherche et de sauvetage des gardes-côtes grecs, après le chavirement d’un canot pneumatique transportant des migrants au large de l’île de Lesbos, en mer Egée, le 3 avril 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MANOLIS LAGOUTARIS/AFP"
+      }
+    ],
+    "credit": "MANOLIS LAGOUTARIS/AFP"
+  }
+}

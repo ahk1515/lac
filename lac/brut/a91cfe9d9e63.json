@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T09:35:02.093128+00:00",
+  "_id": "a91cfe9d9e63",
+  "brut": {
+    "title": "En Méditerranée centrale, une chasse à l’homme en haute mer sponsorisée par l’UE",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Méditerranée centrale, une chasse à l’homme en haute mer sponsorisée par l’UE"
+    },
+    "published": "Mon, 14 Sep 2026 05:50:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      3,
+      50,
+      6,
+      0,
+      257,
+      0
+    ],
+    "updated": "Mon, 14 Sep 2026 10:36:04 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      14,
+      8,
+      36,
+      4,
+      0,
+      257,
+      0
+    ],
+    "summary": "« Le Monde » a embarqué au mois de juillet à bord de l’« Ocean-Viking », le navire de sauvetage affrété par SOS Méditerranée. L’ONG française dénonce l’intensification de la violence en Méditerranée centrale contre les migrants et les humanitaires de la part d’acteurs libyens soutenus et financés par l’Union européenne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le Monde » a embarqué au mois de juillet à bord de l’« Ocean-Viking », le navire de sauvetage affrété par SOS Méditerranée. L’ONG française dénonce l’intensification de la violence en Méditerranée centrale contre les migrants et les humanitaires de la part d’acteurs libyens soutenus et financés par l’Union européenne."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/14/en-mediterranee-centrale-une-chasse-a-l-homme-en-haute-mer-sponsorisee-par-l-ue_6773351_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/14/en-mediterranee-centrale-une-chasse-a-l-homme-en-haute-mer-sponsorisee-par-l-ue_6773351_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/14/en-mediterranee-centrale-une-chasse-a-l-homme-en-haute-mer-sponsorisee-par-l-ue_6773351_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/483/0/6240/3120/644/322/60/0/327864e_upload-1-fm2tazqwqzio-dscf0243.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le patrouilleur libyen de classe Bigliani qui a pris en chasse l’« Ocean-Viking », visible depuis les écrans de contrôle derrière le poste de pilotage."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Eliott Brachet"
+      }
+    ],
+    "credit": "Eliott Brachet"
+  }
+}

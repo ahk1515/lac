@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T09:35:02.324298+00:00",
+  "_id": "4a4474e546ec",
+  "brut": {
+    "title": "Législatives en Suède : la gauche en tête",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Législatives en Suède : la gauche en tête"
+    },
+    "summary": "La gauche fait la course en tête en Suède, et devrait revenir au pouvoir au terme d'élections législatives très disputées. Elle est créditée de 51,3 % des suffrages, contre 46,8 % pour l'alliance entre la droite et l'extrême droite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La gauche fait la course en tête en Suède, et devrait revenir au pouvoir au terme d'élections législatives très disputées. Elle est créditée de 51,3 % des suffrages, contre 46,8 % pour l'alliance entre la droite et l'extrême droite."
+    },
+    "published": "Mon, 14 Sep 2026 08:35:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      6,
+      35,
+      20,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/legislatives-en-suede-la-gauche-en-tete_8191544.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/HAIwSeu_FYmBemNOxHQvDJrDdYY/182x0:1484x732/432x243/filters:format(jpg)/2026/09/14/6aa792669c147053460669.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/legislatives-en-suede-la-gauche-en-tete_8191544.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/legislatives-en-suede-la-gauche-en-tete_8191544.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

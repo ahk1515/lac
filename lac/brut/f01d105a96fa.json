@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T09:35:02.092627+00:00",
+  "_id": "f01d105a96fa",
+  "brut": {
+    "title": "Dans un roman inventif, l’ukraino-canadienne Maria Reva restitue l’irruption de la guerre dans le quotidien de ses personnages",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans un roman inventif, l’ukraino-canadienne Maria Reva restitue l’irruption de la guerre dans le quotidien de ses personnages"
+    },
+    "published": "Mon, 14 Sep 2026 07:00:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      5,
+      0,
+      6,
+      0,
+      257,
+      0
+    ],
+    "updated": "Mon, 14 Sep 2026 10:53:31 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      14,
+      8,
+      53,
+      31,
+      0,
+      257,
+      0
+    ],
+    "summary": "L’écrivaine canadienne d’origine ukrainienne écrivait une comédie sociale sur l’Ukraine, travail interrompu par l’invasion à grande échelle de son pays d’origine, en 2022. Elle l’a repris, après réflexion, en intégrant l’événement à son roman. Une réussite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’écrivaine canadienne d’origine ukrainienne écrivait une comédie sociale sur l’Ukraine, travail interrompu par l’invasion à grande échelle de son pays d’origine, en 2022. Elle l’a repris, après réflexion, en intégrant l’événement à son roman. Une réussite."
+    },
+    "id": "https://www.lemonde.fr/livres/article/2026/09/14/dans-un-roman-inventif-l-ukraino-canadienne-maria-reva-restitue-l-irruption-de-la-guerre-dans-le-quotidien-de-ses-personnages_6773365_3260.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/livres/article/2026/09/14/dans-un-roman-inventif-l-ukraino-canadienne-maria-reva-restitue-l-irruption-de-la-guerre-dans-le-quotidien-de-ses-personnages_6773365_3260.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/livres/article/2026/09/14/dans-un-roman-inventif-l-ukraino-canadienne-maria-reva-restitue-l-irruption-de-la-guerre-dans-le-quotidien-de-ses-personnages_6773365_3260.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/09/248/0/3000/1500/644/322/60/0/d459149_upload-1-grkfchpqe9rp-000-324v636.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants évacuent la ville d’Irpin, au nord de Kiev (Ukraine), le 10 mars 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ARIS MESSINIS/AFP"
+      }
+    ],
+    "credit": "ARIS MESSINIS/AFP"
+  }
+}

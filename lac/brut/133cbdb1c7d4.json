@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T09:35:02.323652+00:00",
+  "_id": "133cbdb1c7d4",
+  "brut": {
+    "title": "Guerre en Ukraine : un train reliant Kiev à Varsovie attaqué près de la frontière polonaise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : un train reliant Kiev à Varsovie attaqué près de la frontière polonaise"
+    },
+    "summary": "Un train reliant Kiev à Varsovie a été pris pour cible par un drone russe, à moins de deux kilomètres de la frontière polonaise. Une attaque qui fait craindre une escalade du conflit jusque dans un pays membre de l'OTAN, alors que la Russie multiplie les frappes contre les infrastructures ukrainiennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un train reliant Kiev à Varsovie a été pris pour cible par un drone russe, à moins de deux kilomètres de la frontière polonaise. Une attaque qui fait craindre une escalade du conflit jusque dans un pays membre de l'OTAN, alors que la Russie multiplie les frappes contre les infrastructures ukrainiennes."
+    },
+    "published": "Mon, 14 Sep 2026 10:53:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      8,
+      53,
+      45,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-attaque-pres-de-la-frontiere-polonaise_8191655.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6yq4PqSCULa_PsE0eTPK7Usq8rk/0x25:825x489/432x243/filters:format(jpg)/2026/09/14/6aa7b61565d40252792998.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-attaque-pres-de-la-frontiere-polonaise_8191655.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-attaque-pres-de-la-frontiere-polonaise_8191655.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

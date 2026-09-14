@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T09:35:02.324380+00:00",
+  "_id": "fca66fa0e231",
+  "brut": {
+    "title": "Guerre en Ukraine : un train et une station service visés près de la frontière polonaise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : un train et une station service visés près de la frontière polonaise"
+    },
+    "summary": "L'Ukraine et la Pologne ont dénoncé, dimanche 13 septembre, les frappes russes qui ont endommagé un train à destination de Varsovie, à seulement 800m de la frontière polonaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Ukraine et la Pologne ont dénoncé, dimanche 13 septembre, les frappes russes qui ont endommagé un train à destination de Varsovie, à seulement 800m de la frontière polonaise."
+    },
+    "published": "Mon, 14 Sep 2026 08:16:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      6,
+      16,
+      41,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-train-et-une-station-service-vises-pres-de-la-frontiere-polonaise_8191553.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/TFrc0BI4GJsLGY5WOeXZ7m3WMrQ/0x4:603x1076/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa7912beea47424748924.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-train-et-une-station-service-vises-pres-de-la-frontiere-polonaise_8191553.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-train-et-une-station-service-vises-pres-de-la-frontiere-polonaise_8191553.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
