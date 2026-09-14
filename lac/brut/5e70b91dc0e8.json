@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T03:30:39.250805+00:00",
+  "_id": "5e70b91dc0e8",
+  "brut": {
+    "title": "A Dakar, l’art de la sape vise le « 100 % made in Sénégal »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Dakar, l’art de la sape vise le « 100 % made in Sénégal »"
+    },
+    "published": "Mon, 14 Sep 2026 05:15:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      3,
+      15,
+      9,
+      0,
+      257,
+      0
+    ],
+    "summary": "L’élégance est partout dans les rues de la capitale sénégalaise. Elle encourage la création, qui reste dépendante des importations de fibres textiles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’élégance est partout dans les rues de la capitale sénégalaise. Elle encourage la création, qui reste dépendante des importations de fibres textiles."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/14/a-dakar-l-art-de-la-sape-vise-le-100-made-in-senegal_6773283_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/14/a-dakar-l-art-de-la-sape-vise-le-100-made-in-senegal_6773283_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/14/a-dakar-l-art-de-la-sape-vise-le-100-made-in-senegal_6773283_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/384/0/6048/3024/644/322/60/0/994f9e6_upload-1-nfravxtkbcal-000-87c63cr.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors de la Dakar Fashion Week, à Ngor Bay, le 6 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NICOLAS REMENE/AFP"
+      }
+    ],
+    "credit": "NICOLAS REMENE/AFP"
+  }
+}

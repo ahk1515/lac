@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T03:30:39.251268+00:00",
+  "_id": "bc5e616fa07d",
+  "brut": {
+    "title": "En Colombie, un mois après le séisme, les plaies béantes du Choco : « Ici, les personnes dépendent de l’Etat »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Colombie, un mois après le séisme, les plaies béantes du Choco : « Ici, les personnes dépendent de l’Etat »"
+    },
+    "published": "Mon, 14 Sep 2026 04:55:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      2,
+      55,
+      5,
+      0,
+      257,
+      0
+    ],
+    "summary": "Dans le département le plus pauvre du pays, épicentre d’un tremblement de terre de magnitude 7,4 le 10 août, une grande partie des habitants sinistrés demeure sans solution de relogement et en attente de l’aide promise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le département le plus pauvre du pays, épicentre d’un tremblement de terre de magnitude 7,4 le 10 août, une grande partie des habitants sinistrés demeure sans solution de relogement et en attente de l’aide promise."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/14/en-colombie-un-mois-apres-le-seisme-les-plaies-beantes-du-choco-ici-les-personnes-dependent-de-l-etat_6773248_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/14/en-colombie-un-mois-apres-le-seisme-les-plaies-beantes-du-choco-ici-les-personnes-dependent-de-l-etat_6773248_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/14/en-colombie-un-mois-apres-le-seisme-les-plaies-beantes-du-choco-ici-les-personnes-dependent-de-l-etat_6773248_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/342/0/4134/2067/644/322/60/0/057c31d_upload-1-ja842hy3z78k-016-z6z5598-terremoto-col-mazars.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans le quartier Obrero de Quibdó, à Chocó, en Colombie, le 9 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nadège Mazars pour « Le Monde »"
+      }
+    ],
+    "credit": "Nadège Mazars pour « Le Monde »"
+  }
+}

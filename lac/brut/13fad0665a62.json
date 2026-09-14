@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T03:30:39.251448+00:00",
+  "_id": "13fad0665a62",
+  "brut": {
+    "title": "Le Kennedy Center de Washington menacé d’une fermeture imminente en raison de difficultés financières",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Kennedy Center de Washington menacé d’une fermeture imminente en raison de difficultés financières"
+    },
+    "published": "Mon, 14 Sep 2026 03:31:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      1,
+      31,
+      50,
+      0,
+      257,
+      0
+    ],
+    "summary": "Les dirigeants de cette célèbre institution dédiée aux arts du spectacle, et contrôlée par des proches de Donald Trump, estiment qu’elle est au bord de la faillite et pourrait devoir fermer son bâtiment principal dès mardi, selon un article du « Washington Post ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les dirigeants de cette célèbre institution dédiée aux arts du spectacle, et contrôlée par des proches de Donald Trump, estiment qu’elle est au bord de la faillite et pourrait devoir fermer son bâtiment principal dès mardi, selon un article du « Washington Post »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/14/le-kennedy-center-de-washington-menace-d-une-fermeture-imminente-en-raison-de-difficultes-financieres_6773182_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/14/le-kennedy-center-de-washington-menace-d-une-fermeture-imminente-en-raison-de-difficultes-financieres_6773182_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/14/le-kennedy-center-de-washington-menace-d-une-fermeture-imminente-en-raison-de-difficultes-financieres_6773182_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/26/0/0/6931/3465/644/322/60/0/20620e6_ftp-1-bsma2rpehqcz-2026-08-26t152625z-1263836025-rc2f6na4q71b-rtrmadp-3-usa-trump-kennedy-center.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Kennedy Center, à Washington, le 26 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kevin Lamarque/REUTERS"
+      }
+    ],
+    "credit": "Kevin Lamarque/REUTERS"
+  }
+}
