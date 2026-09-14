@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T22:57:08.884645+00:00",
+  "_id": "6541c513c741",
+  "brut": {
+    "title": "Les Etats-Unis mettent fin aux limites d’émissions polluantes imposées aux centrales électriques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis mettent fin aux limites d’émissions polluantes imposées aux centrales électriques"
+    },
+    "published": "Tue, 15 Sep 2026 00:16:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      22,
+      16,
+      7,
+      0,
+      257,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 00:50:28 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      14,
+      22,
+      50,
+      28,
+      0,
+      257,
+      0
+    ],
+    "summary": "La décision de l’administration Trump va à l’encontre des recommandations dans la lutte contre le changement climatique, et suscite l’inquiétude des experts et des associations environnementales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La décision de l’administration Trump va à l’encontre des recommandations dans la lutte contre le changement climatique, et suscite l’inquiétude des experts et des associations environnementales."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/15/les-etats-unis-mettent-fin-aux-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6773984_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/15/les-etats-unis-mettent-fin-aux-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6773984_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/15/les-etats-unis-mettent-fin-aux-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6773984_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/24/1440/0/8640/4320/644/322/60/0/897e825_ftp-1-tcbxqioz5iz5-3c0a8f69e0074ebb97ebe4af4330729b-2-734797f230b345a7b972301c636ec9b0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une centrale au charbon, à Racine (Ohio), le 13 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Carolyn Kaster/AP"
+      }
+    ],
+    "credit": "Carolyn Kaster/AP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T22:57:08.885070+00:00",
+  "_id": "4e3ec509e493",
+  "brut": {
+    "title": "Reprise du conflit au Yémen : près de 94 000 déplacés, selon l’OIM",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Reprise du conflit au Yémen : près de 94 000 déplacés, selon l’OIM"
+    },
+    "published": "Mon, 14 Sep 2026 21:18:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      19,
+      18,
+      3,
+      0,
+      257,
+      0
+    ],
+    "summary": "Les rebelles pro-iraniens multiplient les assauts contre l’Arabie saoudite. Dans la semaine, ils avaient déjà consolidé leur emprise sur le détroit stratégique de Bab Al-Mandab.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les rebelles pro-iraniens multiplient les assauts contre l’Arabie saoudite. Dans la semaine, ils avaient déjà consolidé leur emprise sur le détroit stratégique de Bab Al-Mandab."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/14/reprise-du-conflit-au-yemen-pres-de-94-000-deplaces-selon-l-oim_6773882_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/14/reprise-du-conflit-au-yemen-pres-de-94-000-deplaces-selon-l-oim_6773882_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/14/reprise-du-conflit-au-yemen-pres-de-94-000-deplaces-selon-l-oim_6773882_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/445/0/5335/2667/644/322/60/0/4abdb89_ftp-1-42diqcsjixfh-13aaaf4f905e4bccbd548a0aefbe3cb6-0-88016ca1daa1435397ea8284e3dd5e64.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des Yéménites déplacés au camp d’Al-Firdaws à Ras Imran, près d’Aden (Yémen), le lundi 14 septembre 2026. (Photo AP/Abdulnasser Alseddik)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdulnasser Alseddik / AP Photo/Abdulnasser Alseddik"
+      }
+    ],
+    "credit": "Abdulnasser Alseddik / AP Photo/Abdulnasser Alseddik"
+  }
+}

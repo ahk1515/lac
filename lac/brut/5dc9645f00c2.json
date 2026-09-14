@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-14T22:57:08.884862+00:00",
+  "_id": "5dc9645f00c2",
+  "brut": {
+    "title": "Le coup de main en milliard de dollars d’un géant bancaire chinois à Huawei",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le coup de main en milliard de dollars d’un géant bancaire chinois à Huawei"
+    },
+    "published": "Tue, 15 Sep 2026 00:01:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      22,
+      1,
+      13,
+      0,
+      257,
+      0
+    ],
+    "summary": "Un virement de 1,3 milliard de dollars, effectué dans l’urgence par une filiale londonienne après l’inculpation de Huawei aux Etats-Unis début 2019, révèle l’inféodation de l’ICBC, leader bancaire chinois, à la ligne politique de Pékin, selon une enquête du Consortium international des journalistes d’investigation (ICIJ).",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un virement de 1,3 milliard de dollars, effectué dans l’urgence par une filiale londonienne après l’inculpation de Huawei aux Etats-Unis début 2019, révèle l’inféodation de l’ICBC, leader bancaire chinois, à la ligne politique de Pékin, selon une enquête du Consortium international des journalistes d’investigation (ICIJ)."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/09/15/le-coup-de-main-en-milliard-de-dollars-d-un-geant-bancaire-chinois-a-huawei_6773951_4355770.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/15/le-coup-de-main-en-milliard-de-dollars-d-un-geant-bancaire-chinois-a-huawei_6773951_4355770.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/09/15/le-coup-de-main-en-milliard-de-dollars-d-un-geant-bancaire-chinois-a-huawei_6773951_4355770.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/250/0/3000/1500/644/322/60/0/8b8b695_upload-1-8mult6rjnmhn-icbc-01.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Solène Reveney"
+      }
+    ],
+    "credit": "Solène Reveney"
+  }
+}

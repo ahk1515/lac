@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-14T22:57:09.234464+00:00",
+  "_id": "cf85497d26c8",
+  "brut": {
+    "title": "Carburants : à qui profite l'envolée des prix ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Carburants : à qui profite l'envolée des prix ?"
+    },
+    "summary": "Les tarifs à la pompe continuent de grimper, lundi 14 septembre. Mais à qui profite une telle hausse ? Si les prix du pétrole n'expliquent pas tout, les regards se tournent vers les raffineurs, ces industriels qui transforment le brut en essence ou en gasoil. Leurs marges ont fortement augmenté depuis le début de la crise au Moyen-Orient.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les tarifs à la pompe continuent de grimper, lundi 14 septembre. Mais à qui profite une telle hausse ? Si les prix du pétrole n'expliquent pas tout, les regards se tournent vers les raffineurs, ces industriels qui transforment le brut en essence ou en gasoil. Leurs marges ont fortement augmenté depuis le début de la crise au Moyen-Orient."
+    },
+    "published": "Mon, 14 Sep 2026 21:13:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      19,
+      13,
+      6,
+      0,
+      257,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/automobile/essence/carburants-a-qui-profite-l-envolee-des-prix_8192477.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UTFyC5JEnuOsNVewdU-ontpBkeI/0x26:1076x631/432x243/filters:format(jpg)/2026/09/14/6aa84595eb2a2750300517.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/automobile/essence/carburants-a-qui-profite-l-envolee-des-prix_8192477.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/automobile/essence/carburants-a-qui-profite-l-envolee-des-prix_8192477.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
