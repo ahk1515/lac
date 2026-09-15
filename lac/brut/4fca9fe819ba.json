@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T03:31:41.699902+00:00",
+  "_id": "4fca9fe819ba",
+  "brut": {
+    "title": "Au Venezuela, l’agonie du plus grand lac d’Amérique du Sud, pollué par les hydrocarbures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Venezuela, l’agonie du plus grand lac d’Amérique du Sud, pollué par les hydrocarbures"
+    },
+    "published": "Tue, 15 Sep 2026 03:30:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      1,
+      30,
+      11,
+      1,
+      258,
+      0
+    ],
+    "summary": "Le lac de Maracaibo, berceau de l’industrie pétrolière du pays, subit une pollution « chronique » due aux marées noires et à l’inaction des autorités vénézuéliennes. L’activité des 20 000 pêcheurs de la région pâtit de la baisse de la qualité de l’eau.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le lac de Maracaibo, berceau de l’industrie pétrolière du pays, subit une pollution « chronique » due aux marées noires et à l’inaction des autorités vénézuéliennes. L’activité des 20 000 pêcheurs de la région pâtit de la baisse de la qualité de l’eau."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/15/au-venezuela-l-agonie-du-plus-grand-lac-d-amerique-du-sud-pollue-par-les-hydrocarbures_6774184_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/15/au-venezuela-l-agonie-du-plus-grand-lac-d-amerique-du-sud-pollue-par-les-hydrocarbures_6774184_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/15/au-venezuela-l-agonie-du-plus-grand-lac-d-amerique-du-sud-pollue-par-les-hydrocarbures_6774184_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/470/0/5500/2750/644/322/60/0/6534f27_upload-1-allxsaeicgzf-2026-02-06t133014z-2136491447-rc2a9ja9y1t2-rtrmadp-3-usa-venezuela-maracaibo-fishing.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pêcheurs sur le lac Maracaibo (Venezuela), 26 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Leonardo Fernandez Viloria/REUTERS"
+      }
+    ],
+    "credit": "Leonardo Fernandez Viloria/REUTERS"
+  }
+}

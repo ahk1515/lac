@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T03:31:41.699996+00:00",
+  "_id": "4e9dca0ef2b3",
+  "brut": {
+    "title": "Aux Etats-Unis, la Cour suprême rejette un recours de l’administration Trump contre le vote par correspondance",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, la Cour suprême rejette un recours de l’administration Trump contre le vote par correspondance"
+    },
+    "published": "Tue, 15 Sep 2026 03:06:24 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      1,
+      6,
+      24,
+      1,
+      258,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 03:44:31 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      1,
+      44,
+      31,
+      1,
+      258,
+      0
+    ],
+    "summary": "La bataille judiciaire s’intensifie alors que l’envoi des bulletins de vote par correspondance débute pour les élections de mi-mandat de novembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La bataille judiciaire s’intensifie alors que l’envoi des bulletins de vote par correspondance débute pour les élections de mi-mandat de novembre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/15/aux-etats-unis-la-cour-supreme-rejette-un-recours-de-l-administration-trump-contre-le-vote-par-correspondance_6774151_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/15/aux-etats-unis-la-cour-supreme-rejette-un-recours-de-l-administration-trump-contre-le-vote-par-correspondance_6774151_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/15/aux-etats-unis-la-cour-supreme-rejette-un-recours-de-l-administration-trump-contre-le-vote-par-correspondance_6774151_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/25/703/0/4222/2111/644/322/60/0/8d4f76f_ftp-1-rab3ng2pue2d-bb0cd2a929d84e4fb48100c34e0ec6c9-0-f069739700074ccc8070b674cd376b57.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La Cour suprême américaine, à Washington, le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "J. Scott Applewhite/AP"
+      }
+    ],
+    "credit": "J. Scott Applewhite/AP"
+  }
+}

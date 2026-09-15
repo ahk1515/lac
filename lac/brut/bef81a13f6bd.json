@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T03:31:41.699782+00:00",
+  "_id": "bef81a13f6bd",
+  "brut": {
+    "title": "Ciblée par les drones ukrainiens, l’économie russe montre de plus en plus de signes de faiblesse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ciblée par les drones ukrainiens, l’économie russe montre de plus en plus de signes de faiblesse"
+    },
+    "published": "Tue, 15 Sep 2026 05:00:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      3,
+      0,
+      28,
+      1,
+      258,
+      0
+    ],
+    "summary": "Les attaques de Kiev sur les raffineries et entrepôts commerciaux ont fait entrer la guerre dans le quotidien des Russes, à la veille des élections législatives qui doivent se tenir du 18 au 20 septembre. Si l’économie reste relativement résiliente, les problèmes se multiplient, inflation en tête.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les attaques de Kiev sur les raffineries et entrepôts commerciaux ont fait entrer la guerre dans le quotidien des Russes, à la veille des élections législatives qui doivent se tenir du 18 au 20 septembre. Si l’économie reste relativement résiliente, les problèmes se multiplient, inflation en tête."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/15/ciblee-par-les-drones-ukrainiens-l-economie-russe-montre-de-plus-en-plus-de-signes-de-faiblesse_6774285_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/15/ciblee-par-les-drones-ukrainiens-l-economie-russe-montre-de-plus-en-plus-de-signes-de-faiblesse_6774285_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/15/ciblee-par-les-drones-ukrainiens-l-economie-russe-montre-de-plus-en-plus-de-signes-de-faiblesse_6774285_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/504/0/5631/2815/644/322/60/0/5588224_upload-1-yrf3xi5ihftv-000-c6bb967.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "De la fumée s’élève au-dessus d’un centre logistique à Kolpino, près de Saint-Pétersbourg (Russie), après avoir été touché par des drones ukrainiens, le 23 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T03:31:41.700089+00:00",
+  "_id": "eba87595af48",
+  "brut": {
+    "title": "Les Etats-Unis confirment disposer d’armes déployées en orbite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis confirment disposer d’armes déployées en orbite"
+    },
+    "published": "Tue, 15 Sep 2026 01:54:59 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      14,
+      23,
+      54,
+      59,
+      0,
+      257,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 03:06:12 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      1,
+      6,
+      12,
+      1,
+      258,
+      0
+    ],
+    "summary": "Par cette déclaration, l’US Space Force officialise la militarisation de l’espace face à la Chine et la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Par cette déclaration, l’US Space Force officialise la militarisation de l’espace face à la Chine et la Russie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/15/les-etats-unis-confirment-disposer-d-armes-deployees-en-orbite_6774085_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/15/les-etats-unis-confirment-disposer-d-armes-deployees-en-orbite_6774085_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/15/les-etats-unis-confirment-disposer-d-armes-deployees-en-orbite_6774085_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/455/0/8256/4128/644/322/60/0/dad91c0_ftp-1-v1wzxfxz3xey-2026-09-02t135551z-1330308515-rc2ajia66itt-rtrmadp-3-space-military-usa-china.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres de l’US Space Force à la base de la Space Force de Vandenberg (Californie), le 18 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "David Dozoretz/U.S. Space Forces via REUTERS"
+      }
+    ],
+    "credit": "David Dozoretz/U.S. Space Forces via REUTERS"
+  }
+}
