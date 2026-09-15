@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T16:19:11.928299+00:00",
+  "_id": "5cef1d62bbd3",
+  "brut": {
+    "title": "Ce que l'on sait du drone abattu par l'Otan au-dessus de la Lituanie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce que l'on sait du drone abattu par l'Otan au-dessus de la Lituanie"
+    },
+    "summary": "Deux avions de chasse italiens, en mission pour l'Alliance atlantique, ont abattu dans la nuit de lundi à mardi un drone d'origine indéterminée au-dessus de la Lituanie. La Russie, soupçonnée de précédentes intrusions similaires en Europe, n'a pas commenté l'incident.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux avions de chasse italiens, en mission pour l'Alliance atlantique, ont abattu dans la nuit de lundi à mardi un drone d'origine indéterminée au-dessus de la Lituanie. La Russie, soupçonnée de précédentes intrusions similaires en Europe, n'a pas commenté l'incident."
+    },
+    "published": "Tue, 15 Sep 2026 16:14:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      14,
+      14,
+      21,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/otan/ce-que-l-on-sait-du-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8193305.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yR6nEB7aHbzB7303GqQClusyVDY/0x492:4733x3155/432x243/filters:format(jpg)/2026/09/15/6aa922e9cbdd6907722475.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/otan/ce-que-l-on-sait-du-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8193305.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/otan/ce-que-l-on-sait-du-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8193305.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

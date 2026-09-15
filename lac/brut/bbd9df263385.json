@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T16:19:11.544185+00:00",
+  "_id": "bbd9df263385",
+  "brut": {
+    "title": "En Australie, l’accord militaire avec le Royaume-Uni et les Etats-Unis prend forme, soulevant les craintes d’une partie de la population",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Australie, l’accord militaire avec le Royaume-Uni et les Etats-Unis prend forme, soulevant les craintes d’une partie de la population"
+    },
+    "published": "Tue, 15 Sep 2026 15:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      13,
+      0,
+      11,
+      1,
+      258,
+      0
+    ],
+    "summary": "Cinq ans après la signature de l’Aukus, le partenariat de sécurité entre Canberra, Washington et Londres, l’Australie se prépare à recevoir des sous-marins à propulsion nucléaire américains et britanniques en rotation. Première étape avant l’acquisition de ses propres submersibles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cinq ans après la signature de l’Aukus, le partenariat de sécurité entre Canberra, Washington et Londres, l’Australie se prépare à recevoir des sous-marins à propulsion nucléaire américains et britanniques en rotation. Première étape avant l’acquisition de ses propres submersibles."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/15/en-australie-l-accord-militaire-avec-le-royaume-uni-et-les-etats-unis-prend-forme-soulevant-les-craintes-d-une-partie-de-la-population_6774423_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/15/en-australie-l-accord-militaire-avec-le-royaume-uni-et-les-etats-unis-prend-forme-soulevant-les-craintes-d-une-partie-de-la-population_6774423_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/15/en-australie-l-accord-militaire-avec-le-royaume-uni-et-les-etats-unis-prend-forme-soulevant-les-craintes-d-une-partie-de-la-population_6774423_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/501/0/4000/2000/644/322/60/0/b2f62b9_upload-1-l1qttdkxqpnr-000-82cc79e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’USS Vermont (SSN-792), un sous-marin d’attaque à propulsion nucléaire américain de la classe Virginia, arrive à la base navale HMAS Stirling, à Perth, le 29 octobre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANTONY DICKSON/AFP"
+      }
+    ],
+    "credit": "ANTONY DICKSON/AFP"
+  }
+}

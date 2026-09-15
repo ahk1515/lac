@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T16:19:11.928020+00:00",
+  "_id": "0146cb3508fe",
+  "brut": {
+    "title": "Quel est ce nouveau drone russe qui va plus vite et plus loin ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quel est ce nouveau drone russe qui va plus vite et plus loin ?"
+    },
+    "summary": "La Russie multiplie les attaques sur l'Ukraine et utilise une nouvelle catégorie de drones plus perfectionnés : les Geran-4 Geran-5 plus rapides et dotés d’une plus grande autonomie. Plus difficiles à intercepter.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie multiplie les attaques sur l'Ukraine et utilise une nouvelle catégorie de drones plus perfectionnés : les Geran-4 Geran-5 plus rapides et dotés d’une plus grande autonomie. Plus difficiles à intercepter."
+    },
+    "published": "Tue, 15 Sep 2026 17:04:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      15,
+      4,
+      53,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quel-est-ce-nouveau-drone-russe-qui-va-plus-vite-et-plus-loin_8192357.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/pwPxm5-XoAqkI5Ij4KJoLd3EVgY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa826393a4f4186600938.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quel-est-ce-nouveau-drone-russe-qui-va-plus-vite-et-plus-loin_8192357.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quel-est-ce-nouveau-drone-russe-qui-va-plus-vite-et-plus-loin_8192357.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T16:19:11.544044+00:00",
+  "_id": "8d9c511a7a4c",
+  "brut": {
+    "title": "Au Yémen, au moins 100 000 personnes déplacées par les combats dans l’ouest du pays, alerte le Haut-Commissariat des Nations unies pour les réfugiés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, au moins 100 000 personnes déplacées par les combats dans l’ouest du pays, alerte le Haut-Commissariat des Nations unies pour les réfugiés"
+    },
+    "published": "Tue, 15 Sep 2026 15:31:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      13,
+      31,
+      4,
+      1,
+      258,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 17:43:24 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      15,
+      43,
+      24,
+      1,
+      258,
+      0
+    ],
+    "summary": "Ces mouvements de population concernent l’intérieur du pays, mais aussi une partie de la population yéménite cherchant à rejoindre Djibouti, situé de l’autre côté du détroit de Bab Al-Mandab. Les combats entre les rebelles houthistes et les forces progouvernementales ont fait plusieurs centaines de morts sur les quatre derniers jours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces mouvements de population concernent l’intérieur du pays, mais aussi une partie de la population yéménite cherchant à rejoindre Djibouti, situé de l’autre côté du détroit de Bab Al-Mandab. Les combats entre les rebelles houthistes et les forces progouvernementales ont fait plusieurs centaines de morts sur les quatre derniers jours."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/15/yemen-au-moins-100-000-personnes-deplacees-par-les-combats-dans-l-ouest-du-pays-alerte-le-haut-commissariat-des-nations-unies-pour-les-refugies_6774424_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/15/yemen-au-moins-100-000-personnes-deplacees-par-les-combats-dans-l-ouest-du-pays-alerte-le-haut-commissariat-des-nations-unies-pour-les-refugies_6774424_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/15/yemen-au-moins-100-000-personnes-deplacees-par-les-combats-dans-l-ouest-du-pays-alerte-le-haut-commissariat-des-nations-unies-pour-les-refugies_6774424_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/687/0/5500/2750/644/322/60/0/5c92fbe_ftp-1-pwebzvuduqxv-2026-09-14t091736z-1547588123-rc2ginadzwfh-rtrmadp-3-iran-crisis-yemen-idps.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant une tente dans un nouveau camp pour personnes déplacées, à la suite d’affrontements entre des combattants houthistes et les forces gouvernementales yéménites, près d’Aden (Yémen), le 13 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer/REUTERS"
+      }
+    ],
+    "credit": "Stringer/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T16:19:11.544686+00:00",
+  "_id": "ce8f0a773899",
+  "brut": {
+    "title": "En Belgique, une affaire d’espionnage au profit de la Chine dans une société de semi-conducteurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Belgique, une affaire d’espionnage au profit de la Chine dans une société de semi-conducteurs"
+    },
+    "published": "Tue, 15 Sep 2026 12:30:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      10,
+      30,
+      3,
+      1,
+      258,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 14:50:41 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      12,
+      50,
+      41,
+      1,
+      258,
+      0
+    ],
+    "summary": "Le parquet fédéral belge a révélé avoir arrêté, en mai, un ancien cadre Belgo-Chinois soupçonné de divulgation de secrets industriels à la Chine. Cette affaire pourrait être en lien avec le phénomène des « sociétés miroirs », bien connu des services de sécurité belges.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le parquet fédéral belge a révélé avoir arrêté, en mai, un ancien cadre Belgo-Chinois soupçonné de divulgation de secrets industriels à la Chine. Cette affaire pourrait être en lien avec le phénomène des « sociétés miroirs », bien connu des services de sécurité belges."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/488/0/5901/2950/644/322/60/0/8783307_upload-1-sjhejvq4ihuj-000-a4mb7zt.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des échantillons de composants de semi-conducteurs sont exposés lors du salon des semi-conducteurs SEMICON China, à Shanghai, le 25 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JADE GAO / AFP"
+      }
+    ],
+    "credit": "JADE GAO / AFP"
+  }
+}

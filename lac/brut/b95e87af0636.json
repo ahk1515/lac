@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T16:19:11.928163+00:00",
+  "_id": "b95e87af0636",
+  "brut": {
+    "title": "Drones russes : alerte aux frontières de l'OTAN",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Drones russes : alerte aux frontières de l'OTAN"
+    },
+    "summary": "La frappe russe sur un train reliant Kiev à Varsovie, à seulement deux kilomètres de la frontière polonaise, est dénoncée par les dirigeants européens. Et une question se pose : quelles seraient les conséquences d’une attaque sur le territoire d’un pays de l’OTAN ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La frappe russe sur un train reliant Kiev à Varsovie, à seulement deux kilomètres de la frontière polonaise, est dénoncée par les dirigeants européens. Et une question se pose : quelles seraient les conséquences d’une attaque sur le territoire d’un pays de l’OTAN ?"
+    },
+    "published": "Tue, 15 Sep 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      15,
+      0,
+      2,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/otan/drones-russes-alerte-aux-frontieres-de-l-otan_8193800.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/tSB_uZxDnilzsTybUQiuYCP7noM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/15/6aa95017ed6c1014378397.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/otan/drones-russes-alerte-aux-frontieres-de-l-otan_8193800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/otan/drones-russes-alerte-aux-frontieres-de-l-otan_8193800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

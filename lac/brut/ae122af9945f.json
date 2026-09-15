@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T16:19:11.543251+00:00",
+  "_id": "ae122af9945f",
+  "brut": {
+    "title": "A la tour Eiffel, le directeur dans la tourmente après la mise à l’écart du personnel féminin pour une délégation hindoue",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A la tour Eiffel, le directeur dans la tourmente après la mise à l’écart du personnel féminin pour une délégation hindoue"
+    },
+    "published": "Tue, 15 Sep 2026 17:30:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      15,
+      30,
+      3,
+      1,
+      258,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 17:37:25 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      15,
+      37,
+      25,
+      1,
+      258,
+      0
+    ],
+    "summary": "L’éviction des agentes durant la visite de membres du BAPS, un courant religieux hindou ultraconservateur, le 5 septembre, a déclenché une grève et deux enquêtes. L’affaire révèle le malaise régnant au sein de la société qui exploite la « dame de fer » : direction contestée, tensions sociales et contrôle politique défaillant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’éviction des agentes durant la visite de membres du BAPS, un courant religieux hindou ultraconservateur, le 5 septembre, a déclenché une grève et deux enquêtes. L’affaire révèle le malaise régnant au sein de la société qui exploite la « dame de fer » : direction contestée, tensions sociales et contrôle politique défaillant."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/15/a-la-tour-eiffel-le-directeur-dans-la-tourmente-apres-la-mise-a-l-ecart-du-personnel-feminin-pour-une-delegation-hindoue_6774442_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/15/a-la-tour-eiffel-le-directeur-dans-la-tourmente-apres-la-mise-a-l-ecart-du-personnel-feminin-pour-une-delegation-hindoue_6774442_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/15/a-la-tour-eiffel-le-directeur-dans-la-tourmente-apres-la-mise-a-l-ecart-du-personnel-feminin-pour-une-delegation-hindoue_6774442_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/464/0/5568/2784/644/322/60/0/73de54f_upload-1-sbriyabhbqh8-000-1th6oi.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Patrick Branco Ruivo, directeur général de la Société d’exploitation de la tour Eiffel, le 15 juin 2020, à Paris."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BERTRAND GUAY/AFP"
+      }
+    ],
+    "credit": "BERTRAND GUAY/AFP"
+  }
+}

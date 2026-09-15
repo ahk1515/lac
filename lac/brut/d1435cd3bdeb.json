@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T16:19:11.927568+00:00",
+  "_id": "d1435cd3bdeb",
+  "brut": {
+    "title": "Au Yémen, au moins 100 000 personnes ont été déplacées depuis début septembre, selon l'ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Yémen, au moins 100 000 personnes ont été déplacées depuis début septembre, selon l'ONU"
+    },
+    "summary": "Ces dernières semaines, avec la reprise des combats entre les rebelles houthis et les forces pro-gouvernementales, plusieurs centaines de personnes sont également mortes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ces dernières semaines, avec la reprise des combats entre les rebelles houthis et les forces pro-gouvernementales, plusieurs centaines de personnes sont également mortes."
+    },
+    "published": "Tue, 15 Sep 2026 18:05:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      16,
+      5,
+      53,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-au-moins-100-000-personnes-ont-ete-deplacees-depuis-debut-septembre-selon-l-onu_8194004.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UuKZXCgyWgfTHd7lJrKQD-f_lHU/0x106:1024x682/432x243/filters:format(jpg)/2026/09/15/6aa967dfbaf24986883751.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-au-moins-100-000-personnes-ont-ete-deplacees-depuis-debut-septembre-selon-l-onu_8194004.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-au-moins-100-000-personnes-ont-ete-deplacees-depuis-debut-septembre-selon-l-onu_8194004.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

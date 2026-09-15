@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T16:19:11.927774+00:00",
+  "_id": "b621478e966c",
+  "brut": {
+    "title": "Après la caverne du Pont-Neuf, JR fait déferler une vague sur le Vatican",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après la caverne du Pont-Neuf, JR fait déferler une vague sur le Vatican"
+    },
+    "summary": "Le Pape Léon XIV a inauguré la nouvelle œuvre monumentale de l'artiste, une vague de 70 mètres qui recouvre la façade de la bibliothèque du Vatican.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Pape Léon XIV a inauguré la nouvelle œuvre monumentale de l'artiste, une vague de 70 mètres qui recouvre la façade de la bibliothèque du Vatican."
+    },
+    "published": "Tue, 15 Sep 2026 17:55:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      15,
+      55,
+      17,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/apres-la-caverne-du-pont-neuf-jr-fait-deferler-une-vague-sur-le-vatican_8193194.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/aLCYqhrikVcgFWgoYaJMGHC453E/0x38:7087x4024/432x243/filters:format(jpg)/2026/09/15/6aa8f86bad734832825112.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/apres-la-caverne-du-pont-neuf-jr-fait-deferler-une-vague-sur-le-vatican_8193194.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/apres-la-caverne-du-pont-neuf-jr-fait-deferler-une-vague-sur-le-vatican_8193194.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

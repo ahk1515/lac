@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T16:19:11.544346+00:00",
+  "_id": "d1e25027bc53",
+  "brut": {
+    "title": "En Chine, la fronde de jeunes recrues fait plier un géant de l’industrie automobile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, la fronde de jeunes recrues fait plier un géant de l’industrie automobile"
+    },
+    "published": "Tue, 15 Sep 2026 14:00:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      12,
+      0,
+      7,
+      1,
+      258,
+      0
+    ],
+    "summary": "Pour avoir tenté de licencier 107 jeunes diplômés fraîchement recrutés, le fabricant de phares automobiles Xingyu multiplie les déboires. Son introduction à la Bourse de Hongkong est menacée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour avoir tenté de licencier 107 jeunes diplômés fraîchement recrutés, le fabricant de phares automobiles Xingyu multiplie les déboires. Son introduction à la Bourse de Hongkong est menacée."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/15/en-chine-la-fronde-de-jeunes-recrues-fait-plier-un-geant-de-l-industrie-automobile_6774415_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/15/en-chine-la-fronde-de-jeunes-recrues-fait-plier-un-geant-de-l-industrie-automobile_6774415_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/15/en-chine-la-fronde-de-jeunes-recrues-fait-plier-un-geant-de-l-industrie-automobile_6774415_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/467/0/5655/2827/644/322/60/0/e9ebbf4_upload-1-dijg1kq2wf6v-000-322y6k4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des employés travaillent sur une chaîne de montage dans une usine automobile Mercedes-Benz à Pékin (Chine), le 17 février 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JADE GAO/AFP"
+      }
+    ],
+    "credit": "JADE GAO/AFP"
+  }
+}
