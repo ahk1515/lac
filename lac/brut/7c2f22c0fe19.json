@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T09:12:39.592803+00:00",
+  "_id": "7c2f22c0fe19",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne annonce le succès d’une contre-offensive dans l’oblast de Donetsk",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne annonce le succès d’une contre-offensive dans l’oblast de Donetsk"
+    },
+    "published": "Tue, 15 Sep 2026 08:17:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      6,
+      17,
+      5,
+      1,
+      258,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 11:04:21 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      9,
+      4,
+      21,
+      1,
+      258,
+      0
+    ],
+    "summary": "Selon Andri Biletsky, commandant du 3e corps d’armée, l’opération, lancée en secret, a permis de « nettoyer » 75 kilomètres carrés et d’en reprendre 10 autres au nord de Lyman. Cette contre-offensive a aussi permis de couper les voies logistiques des forces russes présentes dans le secteur, précise-t-il.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon Andri Biletsky, commandant du 3e corps d’armée, l’opération, lancée en secret, a permis de « nettoyer » 75 kilomètres carrés et d’en reprendre 10 autres au nord de Lyman. Cette contre-offensive a aussi permis de couper les voies logistiques des forces russes présentes dans le secteur, précise-t-il."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/15/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/15/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/15/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/64/0/1822/911/644/322/60/0/d8a84aa_ftp-1-tm3zvkiy5utl-5088287-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette capture d’écran, tirée d’une vidéo diffusée par la chaîne TVN14 septembre 2026, montre un drone militaire présumé russe qui a été repêché en mer Baltique, au large des côtes polonaises."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TVN via AFP"
+      }
+    ],
+    "credit": "TVN via AFP"
+  }
+}

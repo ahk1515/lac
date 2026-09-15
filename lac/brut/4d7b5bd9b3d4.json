@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T09:12:40.004821+00:00",
+  "_id": "4d7b5bd9b3d4",
+  "brut": {
+    "title": "Visite du pape en France : armes, artifices, carburant et stationnement réglementés par la préfecture de police de Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Visite du pape en France : armes, artifices, carburant et stationnement réglementés par la préfecture de police de Paris"
+    },
+    "summary": "Le déplacement du pape Léon XVI fin septembre conduit les autorités à prendre des mesures de restriction à Paris et en Seine-Saint-Denis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le déplacement du pape Léon XVI fin septembre conduit les autorités à prendre des mesures de restriction à Paris et en Seine-Saint-Denis."
+    },
+    "published": "Tue, 15 Sep 2026 08:47:57 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      6,
+      47,
+      57,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-armes-artifices-carburant-et-stationnement-reglementes-par-la-prefecture-de-police-de-paris_8193113.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zRy737brMxaUsvYiScSeiru-vMQ/0x0:4184x2353/432x243/filters:format(jpg)/2026/09/15/6aa8e9d017fb0701424493.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-armes-artifices-carburant-et-stationnement-reglementes-par-la-prefecture-de-police-de-paris_8193113.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-armes-artifices-carburant-et-stationnement-reglementes-par-la-prefecture-de-police-de-paris_8193113.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

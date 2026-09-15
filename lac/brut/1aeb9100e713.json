@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T09:12:40.004976+00:00",
+  "_id": "1aeb9100e713",
+  "brut": {
+    "title": "Écoles fermées, absentéisme... La canicule a coûté 15 millions d'heures de cours au Royaume-Uni",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Écoles fermées, absentéisme... La canicule a coûté 15 millions d'heures de cours au Royaume-Uni"
+    },
+    "summary": "Plus de 1 700 écoles d'Angleterre et du pays de Galles ont fermé ou réduit leurs horaires pendant la canicule de juin. Une analyse du média d'investigation DeSmog estime à plus de 15 millions le nombre d'heures de cours perdues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 1 700 écoles d'Angleterre et du pays de Galles ont fermé ou réduit leurs horaires pendant la canicule de juin. Une analyse du média d'investigation DeSmog estime à plus de 15 millions le nombre d'heures de cours perdues."
+    },
+    "published": "Tue, 15 Sep 2026 08:19:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      6,
+      19,
+      28,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/ecoles-fermees-absenteisme-la-canicule-a-coute-15-millions-d-heures-de-cours-au-royaume-uni_8191499.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UnGGp6EYPrAK-7w4ca6pecXDO3I/0x301:5376x3323/432x243/filters:format(jpg)/2025/05/15/gettyimages-515286545-6826051bbe055347856487.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/ecoles-fermees-absenteisme-la-canicule-a-coute-15-millions-d-heures-de-cours-au-royaume-uni_8191499.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/ecoles-fermees-absenteisme-la-canicule-a-coute-15-millions-d-heures-de-cours-au-royaume-uni_8191499.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

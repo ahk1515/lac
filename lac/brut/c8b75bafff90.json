@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T09:12:40.005242+00:00",
+  "_id": "c8b75bafff90",
+  "brut": {
+    "title": "A suivre Loïc de la Mornais : le quart d'heure américain du lundi 14 septembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A suivre Loïc de la Mornais : le quart d'heure américain du lundi 14 septembre"
+    },
+    "summary": "Dans le quart d'heure américain, Loïc de la Mornais et ses invités reviennent sur l'actualité technologique et scientifique aux États-Unis, avec notamment la place de l'intelligence artificielle et la volonté de Donald Trump de poursuivre la course à l'IA. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le quart d'heure américain, Loïc de la Mornais et ses invités reviennent sur l'actualité technologique et scientifique aux États-Unis, avec notamment la place de l'intelligence artificielle et la volonté de Donald Trump de poursuivre la course à l'IA. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16."
+    },
+    "published": "Tue, 15 Sep 2026 07:53:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      5,
+      53,
+      15,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-le-quart-d-heure-americain-du-lundi-14-septembre_8193041.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wD8IsyVq1f1NZL-9BVw6Qbam9JA/92x0:965x491/432x243/filters:format(jpg)/2026/09/15/6aa8dd1a6dd21824375162.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-le-quart-d-heure-americain-du-lundi-14-septembre_8193041.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-le-quart-d-heure-americain-du-lundi-14-septembre_8193041.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

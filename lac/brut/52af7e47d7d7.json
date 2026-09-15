@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T09:12:39.593103+00:00",
+  "_id": "52af7e47d7d7",
+  "brut": {
+    "title": "Des migrants ont été enfermés dans des minicellules grillagées en Floride, une pratique « sans précédent » aux Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des migrants ont été enfermés dans des minicellules grillagées en Floride, une pratique « sans précédent » aux Etats-Unis"
+    },
+    "published": "Tue, 15 Sep 2026 07:18:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      5,
+      18,
+      38,
+      1,
+      258,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 07:50:20 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      5,
+      50,
+      20,
+      1,
+      258,
+      0
+    ],
+    "summary": "Le centre de rétention, situé en Floride, a fonctionné pendant un an, entre juillet 2025 et juin 2026, avant sa fermeture par la justice.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le centre de rétention, situé en Floride, a fonctionné pendant un an, entre juillet 2025 et juin 2026, avant sa fermeture par la justice."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/15/des-migrants-ont-ete-enfermes-dans-des-mini-cellules-grillagees-en-floride-une-pratique-sans-precedent-aux-etats-unis_6774018_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/15/des-migrants-ont-ete-enfermes-dans-des-mini-cellules-grillagees-en-floride-une-pratique-sans-precedent-aux-etats-unis_6774018_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/15/des-migrants-ont-ete-enfermes-dans-des-mini-cellules-grillagees-en-floride-une-pratique-sans-precedent-aux-etats-unis_6774018_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/521/0/1252/626/644/322/60/0/8863c05_ftp-1-rucw96e274hz-582c93616adf4d48ad72a9109420e702-0-52e618afedff4f7c8c867f94d6e26f5a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une minicellule grillagée utilisée à l’« Alcatraz des alligators » (Floride), sur une photo prise le 21 janvier 2026 et publiée par le bureau de l’inspecteur général du département de la sécurité intérieure."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DHS OIG/AP"
+      }
+    ],
+    "credit": "DHS OIG/AP"
+  }
+}

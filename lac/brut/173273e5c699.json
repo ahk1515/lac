@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T09:12:40.005075+00:00",
+  "_id": "173273e5c699",
+  "brut": {
+    "title": "Le Pentagone reconnaît une \"pénurie\" de munitions liée à la guerre en Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Pentagone reconnaît une \"pénurie\" de munitions liée à la guerre en Iran"
+    },
+    "summary": "\"Les dépenses en munitions lors de l'opération 'Fureur épique' ont provoqué une pénurie sur les inventaires stratégiques et révélé des goulots d'étranglement au sein des industries\", relève le document du ministère de la Défense américain, alors que l'administration Trump a longtemps démenti ces pénuries de munitions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Les dépenses en munitions lors de l'opération 'Fureur épique' ont provoqué une pénurie sur les inventaires stratégiques et révélé des goulots d'étranglement au sein des industries\", relève le document du ministère de la Défense américain, alors que l'administration Trump a longtemps démenti ces pénuries de munitions."
+    },
+    "published": "Tue, 15 Sep 2026 10:44:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      8,
+      44,
+      15,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-pentagone-reconnait-une-penurie-de-munitions-liee-avec-la-guerre-en-iran_8193014.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/lor3VaDWIrhk3ElEt7JtSaMhZSI/0x46:1024x622/432x243/filters:format(jpg)/2026/09/15/6aa8dfed2680d024583738.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-pentagone-reconnait-une-penurie-de-munitions-liee-avec-la-guerre-en-iran_8193014.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-pentagone-reconnait-une-penurie-de-munitions-liee-avec-la-guerre-en-iran_8193014.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

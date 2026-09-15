@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T09:12:40.004526+00:00",
+  "_id": "cfc7fc83dcf4",
+  "brut": {
+    "title": "Chine : 50 ans après, la population saisie par la \"Maomania\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chine : 50 ans après, la population saisie par la \"Maomania\""
+    },
+    "summary": "Cinquante ans après sa mort, Mao Zedong, le Grand Timonier, ne laisse personne indifférent en Chine. Entre nostalgie et adoration, les Chinois célèbrent cet anniversaire, notamment sa ville natale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cinquante ans après sa mort, Mao Zedong, le Grand Timonier, ne laisse personne indifférent en Chine. Entre nostalgie et adoration, les Chinois célèbrent cet anniversaire, notamment sa ville natale."
+    },
+    "published": "Tue, 15 Sep 2026 09:45:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      7,
+      45,
+      38,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/chine-50-ans-apres-la-population-saisie-par-la-maomania_8193077.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/fAeBFnT7ghLe3pZQzmPn7Zkrh6g/169x0:1506x752/432x243/filters:format(jpg)/2026/09/15/6aa8f373b8023445970916.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/chine-50-ans-apres-la-population-saisie-par-la-maomania_8193077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/chine-50-ans-apres-la-population-saisie-par-la-maomania_8193077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

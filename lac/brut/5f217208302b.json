@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T09:12:40.004371+00:00",
+  "_id": "5f217208302b",
+  "brut": {
+    "title": "À San Francisco, les salaires de la tech provoquent une crise du logement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À San Francisco, les salaires de la tech provoquent une crise du logement"
+    },
+    "summary": "Le maire de San Francisco a déclaré un état d'urgence pour les loyers. Portés par les salaires de la Silicon Valley, ils atteignent des sommets dans la ville californienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le maire de San Francisco a déclaré un état d'urgence pour les loyers. Portés par les salaires de la Silicon Valley, ils atteignent des sommets dans la ville californienne."
+    },
+    "published": "Tue, 15 Sep 2026 10:14:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      8,
+      14,
+      41,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-san-francisco-les-salaires-de-la-tech-provoquent-une-crise-du-logement_8171414.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/XxVGi7cc2O7STYuiRA3ictK1mlI/0x156:3000x1843/432x243/filters:format(jpg)/2026/09/15/6aa8eb2fe89e5522212472.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-san-francisco-les-salaires-de-la-tech-provoquent-une-crise-du-logement_8171414.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-san-francisco-les-salaires-de-la-tech-provoquent-une-crise-du-logement_8171414.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

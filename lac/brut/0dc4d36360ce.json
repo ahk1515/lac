@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T09:12:40.004077+00:00",
+  "_id": "0dc4d36360ce",
+  "brut": {
+    "title": "Le projet de Donald Trump d'encadrement plus strict du vote par correspondance rejeté par la Cour suprême",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le projet de Donald Trump d'encadrement plus strict du vote par correspondance rejeté par la Cour suprême"
+    },
+    "summary": "Cette décision intervient moins de deux mois avant les élections de mi-mandat, mal embarquées pour la majorité républicaine de Donald Trump.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette décision intervient moins de deux mois avant les élections de mi-mandat, mal embarquées pour la majorité républicaine de Donald Trump."
+    },
+    "published": "Tue, 15 Sep 2026 10:58:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      8,
+      58,
+      39,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/le-projet-de-donald-trump-d-encadrement-plus-strict-du-vote-par-correspondance-rejete-par-la-cour-supreme_8193182.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/frYSdWzEdGAahM2jYrdwdppLNX8/0x106:1024x682/432x243/filters:format(jpg)/2026/09/15/6aa9045d38b70230501758.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/le-projet-de-donald-trump-d-encadrement-plus-strict-du-vote-par-correspondance-rejete-par-la-cour-supreme_8193182.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/le-projet-de-donald-trump-d-encadrement-plus-strict-du-vote-par-correspondance-rejete-par-la-cour-supreme_8193182.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

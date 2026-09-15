@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T09:12:39.593893+00:00",
+  "_id": "d1c97821aa80",
+  "brut": {
+    "title": "Le Pentagone reconnaît pour la première fois une pénurie de munitions pour l’armée américaine, du fait de la guerre en Iran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Pentagone reconnaît pour la première fois une pénurie de munitions pour l’armée américaine, du fait de la guerre en Iran"
+    },
+    "published": "Tue, 15 Sep 2026 05:40:47 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      3,
+      40,
+      47,
+      1,
+      258,
+      0
+    ],
+    "updated": "Tue, 15 Sep 2026 08:01:20 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      15,
+      6,
+      1,
+      20,
+      1,
+      258,
+      0
+    ],
+    "summary": "Alors que Donald Trump assurait encore début septembre que les Etats-Unis disposaient de « quantités pratiquement illimitées de munitions », un rapport du ministère de la défense américain relève « une pénurie sur les inventaires stratégiques » après le lancement de l’opération « Fureur épique » en Iran.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que Donald Trump assurait encore début septembre que les Etats-Unis disposaient de « quantités pratiquement illimitées de munitions », un rapport du ministère de la défense américain relève « une pénurie sur les inventaires stratégiques » après le lancement de l’opération « Fureur épique » en Iran."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/15/etats-unis-le-pentagone-reconnait-une-penurie-de-munitions-consecutive-a-la-guerre-en-iran_6774321_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/15/etats-unis-le-pentagone-reconnait-une-penurie-de-munitions-consecutive-a-la-guerre-en-iran_6774321_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/15/etats-unis-le-pentagone-reconnait-une-penurie-de-munitions-consecutive-a-la-guerre-en-iran_6774321_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/11/0/0/3598/1799/644/322/60/0/dfa3996_ftp-1-si8xvp1tu6zc-2026-06-11t015617z-1533577230-rc2drlapiwo9-rtrmadp-3-iran-crisis-usa-centcom.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une capture d’écran d’une vidéo mise à disposition, le 10 juin 2026, par le commandement central des Etats-Unis montre un tir de missile Tomahawk du destroyer lance-missiles « Michael-Murphy » contre une cible en Iran."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Commandement central des Etats-Unis via REUTERS"
+      }
+    ],
+    "credit": "Commandement central des Etats-Unis via REUTERS"
+  }
+}
