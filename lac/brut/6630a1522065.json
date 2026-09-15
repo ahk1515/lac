@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T22:42:58.190293+00:00",
+  "_id": "6630a1522065",
+  "brut": {
+    "title": "La guerre contre l'Iran a coûté 38 milliards de dollars aux Etats-Unis depuis son lancement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La guerre contre l'Iran a coûté 38 milliards de dollars aux Etats-Unis depuis son lancement"
+    },
+    "summary": "L'analyse du Bureau du Congrès pour le budget fait suite à une requête de plusieurs parlementaires démocrates.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'analyse du Bureau du Congrès pour le budget fait suite à une requête de plusieurs parlementaires démocrates."
+    },
+    "published": "Tue, 15 Sep 2026 23:44:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      21,
+      44,
+      18,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/la-guerre-contre-l-iran-a-coute-38-milliards-de-dollars-aux-etats-unis-depuis-son-lancement_8194415.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/SlXunu6YKCJYN_TZNGDkxWRRw6E/1x0:1024x575/432x243/filters:format(jpg)/2026/09/15/6aa9bb783af5e176081875.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/la-guerre-contre-l-iran-a-coute-38-milliards-de-dollars-aux-etats-unis-depuis-son-lancement_8194415.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/la-guerre-contre-l-iran-a-coute-38-milliards-de-dollars-aux-etats-unis-depuis-son-lancement_8194415.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

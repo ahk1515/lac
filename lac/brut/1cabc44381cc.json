@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T22:42:57.404119+00:00",
+  "_id": "1cabc44381cc",
+  "brut": {
+    "title": "Emmanuel Macron lance le nouveau service militaire national avec une première cohorte de 3 000 jeunes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Macron lance le nouveau service militaire national avec une première cohorte de 3 000 jeunes"
+    },
+    "published": "Tue, 15 Sep 2026 19:00:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      17,
+      0,
+      20,
+      1,
+      258,
+      0
+    ],
+    "summary": "Le nouveau format, qui succède au service national universel, devra faire ses preuves. Notamment sur son financement et sur l’emploi des jeunes volontaires, qui pourront remplacer des militaires d’active sur des missions annexes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le nouveau format, qui succède au service national universel, devra faire ses preuves. Notamment sur son financement et sur l’emploi des jeunes volontaires, qui pourront remplacer des militaires d’active sur des missions annexes."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/09/15/emmanuel-macron-lance-le-nouveau-service-militaire-national-avec-une-premiere-cohorte-de-3-000-jeunes_6774464_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/09/15/emmanuel-macron-lance-le-nouveau-service-militaire-national-avec-une-premiere-cohorte-de-3-000-jeunes_6774464_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/09/15/emmanuel-macron-lance-le-nouveau-service-militaire-national-avec-une-premiere-cohorte-de-3-000-jeunes_6774464_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/417/0/3333/1666/644/322/60/0/707e1d9_upload-1-umy3c1cqblmw-lewisjoly-lemonde-pool-macron-orange-010.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron lors d’une cérémonie pour la première promotion des appelés du service national, sur la base aérienne 115 de l’armée de l’air et de l’espace, à Orange (Vaucluse), le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LEWIS JOLY POUR « LE MONDE »"
+      }
+    ],
+    "credit": "LEWIS JOLY POUR « LE MONDE »"
+  }
+}

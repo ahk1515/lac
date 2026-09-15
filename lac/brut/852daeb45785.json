@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-15T22:42:57.403998+00:00",
+  "_id": "852daeb45785",
+  "brut": {
+    "title": "En Ukraine, un revers russe dans la région de Donetsk contredit les déclarations triomphalistes de Vladimir Poutine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, un revers russe dans la région de Donetsk contredit les déclarations triomphalistes de Vladimir Poutine"
+    },
+    "published": "Tue, 15 Sep 2026 19:30:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      17,
+      30,
+      3,
+      1,
+      258,
+      0
+    ],
+    "summary": "Prise en étau par les forces ukrainiennes, l’armée russe a dû céder du terrain près de la ville de Sviatohirsk, dans l’est de l’Ukraine. Même ralentie, la progression russe sur le front reste cependant menaçante sur Kramatorsk et Sloviansk.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Prise en étau par les forces ukrainiennes, l’armée russe a dû céder du terrain près de la ville de Sviatohirsk, dans l’est de l’Ukraine. Même ralentie, la progression russe sur le front reste cependant menaçante sur Kramatorsk et Sloviansk."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/15/en-ukraine-un-revers-russe-dans-la-region-de-donetsk-contredit-les-declarations-triomphalistes-de-vladimir-poutine_6774470_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/15/en-ukraine-un-revers-russe-dans-la-region-de-donetsk-contredit-les-declarations-triomphalistes-de-vladimir-poutine_6774470_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/15/en-ukraine-un-revers-russe-dans-la-region-de-donetsk-contredit-les-declarations-triomphalistes-de-vladimir-poutine_6774470_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/794/0/5833/2916/644/322/60/0/4bb9e64_ftp-1-lr7tqyhpthxk-2026-09-13t132342z-1398997932-rc2cinak8pxw-rtrmadp-3-ukraine-crisis-attack-kramatorsk.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un immeuble endommagé par une frappe russe, à Kramatorsk (Ukraine), le 13 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anatolii Stepanov/REUTERS"
+      }
+    ],
+    "credit": "Anatolii Stepanov/REUTERS"
+  }
+}

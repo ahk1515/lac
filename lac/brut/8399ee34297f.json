@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-15T22:42:58.190486+00:00",
+  "_id": "8399ee34297f",
+  "brut": {
+    "title": "\"Ils découpent la couverture…\" : comment des livres sont détruits pour nourrir l'IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Ils découpent la couverture…\" : comment des livres sont détruits pour nourrir l'IA"
+    },
+    "summary": "Des livres achetés par millions, numérisés, puis détruits : c'est l’une des méthodes utilisées pour entraîner les intelligences artificielles. \"L’Œil du 20H\" a enquêté sur ces pratiques controversées et sur le risque de voir disparaître des exemplaires rares de certains ouvrages qui ne sont plus édités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des livres achetés par millions, numérisés, puis détruits : c'est l’une des méthodes utilisées pour entraîner les intelligences artificielles. \"L’Œil du 20H\" a enquêté sur ces pratiques controversées et sur le risque de voir disparaître des exemplaires rares de certains ouvrages qui ne sont plus édités."
+    },
+    "published": "Tue, 15 Sep 2026 23:26:33 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      21,
+      26,
+      33,
+      1,
+      258,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/intelligence-artificielle/ils-decoupent-la-couverture-comment-des-livres-sont-detruits-pour-nourrir-l-ia_8194280.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6VrrBKyaqKnShKyA_l6U7aHdjls/46x0:1268x687/432x243/filters:format(jpg)/2026/09/15/6aa9a151022e9884518623.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/ils-decoupent-la-couverture-comment-des-livres-sont-detruits-pour-nourrir-l-ia_8194280.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/intelligence-artificielle/ils-decoupent-la-couverture-comment-des-livres-sont-detruits-pour-nourrir-l-ia_8194280.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
