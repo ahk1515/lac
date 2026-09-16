@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T16:11:13.465392+00:00",
+  "_id": "d55e43b100f1",
+  "brut": {
+    "title": "Donald Trump menace de ne pas rouvrir le Kennedy Center si son nom n'y est pas apposé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump menace de ne pas rouvrir le Kennedy Center si son nom n'y est pas apposé"
+    },
+    "summary": "Boudé par les artistes depuis la tentative du président américain d'associer son nom à Kennedy sur le bâtiment, l'attractivité du lieu est en chute libre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Boudé par les artistes depuis la tentative du président américain d'associer son nom à Kennedy sur le bâtiment, l'attractivité du lieu est en chute libre."
+    },
+    "published": "Wed, 16 Sep 2026 14:42:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      12,
+      42,
+      49,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/donald-trump-menace-de-ne-pas-rouvrir-le-kennedy-center-si-son-nom-n-y-est-pas-appose_8195297.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/a2Gh2BxZvg38sfqnRu4Zvr1Y9gs/0x32:1024x608/432x243/filters:format(jpg)/2026/09/16/6aaa6a4bd0cdb753410854.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/donald-trump-menace-de-ne-pas-rouvrir-le-kennedy-center-si-son-nom-n-y-est-pas-appose_8195297.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/donald-trump-menace-de-ne-pas-rouvrir-le-kennedy-center-si-son-nom-n-y-est-pas-appose_8195297.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

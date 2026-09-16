@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T16:11:13.276880+00:00",
+  "_id": "b295c1a0b0d1",
+  "brut": {
+    "title": "Inondations au Népal : la liste des disparus s’allonge à 6 150 personnes, annoncent les autorités du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Inondations au Népal : la liste des disparus s’allonge à 6 150 personnes, annoncent les autorités du pays"
+    },
+    "published": "Wed, 16 Sep 2026 18:04:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      16,
+      4,
+      52,
+      2,
+      259,
+      0
+    ],
+    "summary": "Le nombre de corps retrouvés s’élève à 1 403, dont 105 ont été identifiés, selon l’agence népalaise chargée des catastrophes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le nombre de corps retrouvés s’élève à 1 403, dont 105 ont été identifiés, selon l’agence népalaise chargée des catastrophes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/inondations-au-nepal-la-liste-des-disparus-s-allonge-a-6-150-personnes-annoncent-les-autorites-du-pays_6775431_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/inondations-au-nepal-la-liste-des-disparus-s-allonge-a-6-150-personnes-annoncent-les-autorites-du-pays_6775431_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/inondations-au-nepal-la-liste-des-disparus-s-allonge-a-6-150-personnes-annoncent-les-autorites-du-pays_6775431_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/133/0/1600/800/644/322/60/0/b24dfd8_ftp-1-413gtk9okusb-2026-09-16t110138z-667685387-rc2aknaqbbs2-rtrmadp-3-nepal-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur cette photo fournie par Reuters le 16 septembre 2026, des membres d’une équipe de recherche et de sauvetage transportent le corps d’une victime qui se trouvait à l’intérieur du tunnel du projet hydroélectrique de Chilime, après les crues soudaines et les glissements de terrain meurtriers qui ont frappé certaines régions du Népal."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nepal Army/REUTERS"
+      }
+    ],
+    "credit": "Nepal Army/REUTERS"
+  }
+}

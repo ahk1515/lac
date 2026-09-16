@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T16:11:13.278734+00:00",
+  "_id": "fa6ca2d8c294",
+  "brut": {
+    "title": "Des champs aux usines à frites, la crise de la pomme de terre frappe les Hauts-de-France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des champs aux usines à frites, la crise de la pomme de terre frappe les Hauts-de-France"
+    },
+    "published": "Wed, 16 Sep 2026 16:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      14,
+      0,
+      4,
+      2,
+      259,
+      0
+    ],
+    "summary": "Alors que les agriculteurs doivent faire face aux conséquences du dérèglement climatique, l’usine Clarebout de Mouscron (Belgique), d’où sortent essentiellement des frites surgelées, va arrêter sa production, confrontée à des surcapacités de production, une concurrence accrue et une hausse continue des coûts.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les agriculteurs doivent faire face aux conséquences du dérèglement climatique, l’usine Clarebout de Mouscron (Belgique), d’où sortent essentiellement des frites surgelées, va arrêter sa production, confrontée à des surcapacités de production, une concurrence accrue et une hausse continue des coûts."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/16/des-champs-aux-usines-a-frites-la-crise-de-la-pomme-de-terre-frappe-les-hauts-de-france_6775316_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/16/des-champs-aux-usines-a-frites-la-crise-de-la-pomme-de-terre-frappe-les-hauts-de-france_6775316_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/16/des-champs-aux-usines-a-frites-la-crise-de-la-pomme-de-terre-frappe-les-hauts-de-france_6775316_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/488/0/5858/2929/644/322/60/0/7976321_upload-1-r9vuo1p2wwey-000-36yp9tw.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pommes de terre sur la ligne de production dans une usine du groupe Clarebout à Bourbourg, près de Dunkerque (Nord), le 25 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FRANCOIS LO PRESTI/AFP"
+      }
+    ],
+    "credit": "FRANCOIS LO PRESTI/AFP"
+  }
+}

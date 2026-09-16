@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T16:11:13.278912+00:00",
+  "_id": "7c9419128e60",
+  "brut": {
+    "title": "En Russie, un Etat prédateur au service de la guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Russie, un Etat prédateur au service de la guerre"
+    },
+    "published": "Wed, 16 Sep 2026 15:00:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      13,
+      0,
+      44,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 16:30:38 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      14,
+      30,
+      38,
+      2,
+      259,
+      0
+    ],
+    "summary": "« Le système Poutine » (3/3). Depuis l’invasion à grande échelle de l’Ukraine, en 2022, une vaste redistribution de la propriété est en cours en Russie. Le plus souvent, les actifs d’entrepreneurs jugés déloyaux sont saisis par l’Etat et revendus à des fidèles du maître du Kremlin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le système Poutine » (3/3). Depuis l’invasion à grande échelle de l’Ukraine, en 2022, une vaste redistribution de la propriété est en cours en Russie. Le plus souvent, les actifs d’entrepreneurs jugés déloyaux sont saisis par l’Etat et revendus à des fidèles du maître du Kremlin."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/en-russie-un-etat-predateur-au-service-de-la-guerre_6775246_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/en-russie-un-etat-predateur-au-service-de-la-guerre_6775246_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/en-russie-un-etat-predateur-au-service-de-la-guerre_6775246_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/177/0/2126/1063/644/322/60/0/047d7b1_upload-1-7k1svkbhh50a-lemonde-serie-poutine-300dpi-3.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anne-Gaëlle Amiot"
+      }
+    ],
+    "credit": "Anne-Gaëlle Amiot"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T16:11:13.467640+00:00",
+  "_id": "61e42a25a91d",
+  "brut": {
+    "title": "L'Arabie saoudite accuse les rebelles houthis du Yémen d'avoir lancé un drone sur La Mecque",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Arabie saoudite accuse les rebelles houthis du Yémen d'avoir lancé un drone sur La Mecque"
+    },
+    "summary": "\"Nos opérations visent les installations pétrolières et les bases militaires, qui sont éloignées des sites sacrés\", ont répondu les houthis, qui multiplient depuis début septembre les attaques contre l'Arabie saoudite, alliée des autorités yéménites.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Nos opérations visent les installations pétrolières et les bases militaires, qui sont éloignées des sites sacrés\", ont répondu les houthis, qui multiplient depuis début septembre les attaques contre l'Arabie saoudite, alliée des autorités yéménites."
+    },
+    "published": "Wed, 16 Sep 2026 12:34:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      10,
+      34,
+      39,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-arabie-saoudite-accuse-les-rebelles-houthis-du-yemen-d-avoir-lance-un-drone-sur-la-mecque_8195147.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/7VhfTNMTthkdMRbddYAAsbW5lmA/0x192:1024x768/432x243/filters:format(jpg)/2026/09/16/6aaa694b2266d091014261.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-arabie-saoudite-accuse-les-rebelles-houthis-du-yemen-d-avoir-lance-un-drone-sur-la-mecque_8195147.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-arabie-saoudite-accuse-les-rebelles-houthis-du-yemen-d-avoir-lance-un-drone-sur-la-mecque_8195147.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

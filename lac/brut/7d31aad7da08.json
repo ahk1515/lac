@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T16:11:13.277478+00:00",
+  "_id": "7d31aad7da08",
+  "brut": {
+    "title": "Soudan : au moins 82 morts dans l’effondrement d’une mine d’or",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soudan : au moins 82 morts dans l’effondrement d’une mine d’or"
+    },
+    "published": "Wed, 16 Sep 2026 17:41:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      15,
+      41,
+      19,
+      2,
+      259,
+      0
+    ],
+    "summary": "La mine d’Al-Zaraa s’est effondrée mardi, et « un nombre indéterminé » de personnes restent coincées sous les décombres, a déclaré, mercredi, une source des Forces de soutien rapide à l’Agence France-Presse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mine d’Al-Zaraa s’est effondrée mardi, et « un nombre indéterminé » de personnes restent coincées sous les décombres, a déclaré, mercredi, une source des Forces de soutien rapide à l’Agence France-Presse."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/16/soudan-au-moins-82-morts-dans-l-effondrement-d-une-mine-d-or_6775426_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/16/soudan-au-moins-82-morts-dans-l-effondrement-d-une-mine-d-or_6775426_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/16/soudan-au-moins-82-morts-dans-l-effondrement-d-une-mine-d-or_6775426_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/129/0/739/369/644/322/60/0/c101f2d_upload-1-fdphmp4nkgaz-capture-d-ecran-du-2026-09-16-17-10-41.png"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Le Monde"
+      }
+    ],
+    "credit": "Le Monde"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T16:11:13.464292+00:00",
+  "_id": "3a80f86cf83b",
+  "brut": {
+    "title": "Dans la banlieue de Los Angeles, le crash d'un hélicoptère d'une chaîne de télévision fait trois morts et plusieurs blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans la banlieue de Los Angeles, le crash d'un hélicoptère d'une chaîne de télévision fait trois morts et plusieurs blessés"
+    },
+    "summary": "À Los Angeles, l'hélicoptère d'une chaîne de télévision qui couvrait un accident de la route s'est soudainement écrasé, faisant au moins trois morts et des blessés. Les circonstances du drame sont pour l'instant inconnues, mais les habitants sont très choqués.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Los Angeles, l'hélicoptère d'une chaîne de télévision qui couvrait un accident de la route s'est soudainement écrasé, faisant au moins trois morts et des blessés. Les circonstances du drame sont pour l'instant inconnues, mais les habitants sont très choqués."
+    },
+    "published": "Wed, 16 Sep 2026 16:37:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      14,
+      37,
+      58,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/dans-la-banlieue-de-los-angeles-le-crash-d-un-helicoptere-d-une-chaine-de-television-fait-trois-morts-et-plusieurs-blesses_8195597.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/HyEWlEj7TwNRJU29iNFrNv3VowA/0x80:1634x999/432x243/filters:format(jpg)/2026/09/16/6aaa9669bd134332433441.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/dans-la-banlieue-de-los-angeles-le-crash-d-un-helicoptere-d-une-chaine-de-television-fait-trois-morts-et-plusieurs-blesses_8195597.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/dans-la-banlieue-de-los-angeles-le-crash-d-un-helicoptere-d-une-chaine-de-television-fait-trois-morts-et-plusieurs-blesses_8195597.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

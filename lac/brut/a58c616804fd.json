@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T16:11:13.464457+00:00",
+  "_id": "a58c616804fd",
+  "brut": {
+    "title": "La messe du pape à Paris cumule déjà plus de 600 000 inscriptions, le périmètre d'accès élargi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La messe du pape à Paris cumule déjà plus de 600 000 inscriptions, le périmètre d'accès élargi"
+    },
+    "summary": "L'archevêque de Paris ajoute qu'il a \"pris la décision de clôturer\" mercredi à 18 heures la plateforme d'inscription à cette messe, qui se déroulera place de la Concorde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'archevêque de Paris ajoute qu'il a \"pris la décision de clôturer\" mercredi à 18 heures la plateforme d'inscription à cette messe, qui se déroulera place de la Concorde."
+    },
+    "published": "Wed, 16 Sep 2026 16:20:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      14,
+      20,
+      3,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-messe-du-pape-a-paris-cumule-deja-plus-de-600-000-inscriptions-le-perimetre-d-acces-elargi_8195666.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Qjq-1BkSfVjk9ziVKxW620Q4XsA/0x105:1024x681/432x243/filters:format(jpg)/2026/09/16/6aaaa50c3791c746166139.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-messe-du-pape-a-paris-cumule-deja-plus-de-600-000-inscriptions-le-perimetre-d-acces-elargi_8195666.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-messe-du-pape-a-paris-cumule-deja-plus-de-600-000-inscriptions-le-perimetre-d-acces-elargi_8195666.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

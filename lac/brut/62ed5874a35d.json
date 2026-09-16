@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T16:11:13.277676+00:00",
+  "_id": "62ed5874a35d",
+  "brut": {
+    "title": "La Chine confie à son tour ses peurs sur l’intelligence artificielle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Chine confie à son tour ses peurs sur l’intelligence artificielle"
+    },
+    "published": "Wed, 16 Sep 2026 17:30:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      15,
+      30,
+      10,
+      2,
+      259,
+      0
+    ],
+    "summary": "Tandis que les Etats-Unis débattent de freiner l’IA, le chef du renseignement chinois liste les menaces que cette technologie fait peser, sur le régime notamment, à quelques jours d’une rencontre à Washington entre les présidents des deux premières puissances.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Tandis que les Etats-Unis débattent de freiner l’IA, le chef du renseignement chinois liste les menaces que cette technologie fait peser, sur le régime notamment, à quelques jours d’une rencontre à Washington entre les présidents des deux premières puissances."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/la-chine-confie-a-son-tour-ses-peurs-sur-l-intelligence-artificielle_6775423_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/la-chine-confie-a-son-tour-ses-peurs-sur-l-intelligence-artificielle_6775423_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/la-chine-confie-a-son-tour-ses-peurs-sur-l-intelligence-artificielle_6775423_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/336/0/6192/3096/644/322/60/0/533acf5_upload-1-e8voxzqd62bp-000-c2hx8t6.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Stand de Moonshot AI, qui présente le modèle Kimi K3, lors de la Conférence mondiale sur l’intelligence artificielle (WAIC) à Shanghai, le 18 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HECTOR RETAMAL/AFP"
+      }
+    ],
+    "credit": "HECTOR RETAMAL/AFP"
+  }
+}

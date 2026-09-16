@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T16:11:13.465848+00:00",
+  "_id": "c5bac46e4984",
+  "brut": {
+    "title": "L’Europe veut limiter tes réseaux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’Europe veut limiter tes réseaux"
+    },
+    "summary": "L'Europe veut te restreindre sur les réseaux selon ton âge. Avec avant 13 ans, une version enfant, entre 13 et 14 ans un accès sous contrôle parental... On t'explique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Europe veut te restreindre sur les réseaux selon ton âge. Avec avant 13 ans, une version enfant, entre 13 et 14 ans un accès sous contrôle parental... On t'explique."
+    },
+    "published": "Wed, 16 Sep 2026 13:13:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      11,
+      13,
+      41,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/l-europe-veut-limiter-tes-reseaux_8195456.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NXVG2VuuErDsRMNkAt-OV8i_Nu4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/16/6aaa79c53a225485384497.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/l-europe-veut-limiter-tes-reseaux_8195456.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/l-europe-veut-limiter-tes-reseaux_8195456.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
