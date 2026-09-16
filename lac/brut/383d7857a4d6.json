@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T22:39:22.816832+00:00",
+  "_id": "383d7857a4d6",
+  "brut": {
+    "title": "Kennedy Center : le bâtiment menacé par Donald Trump qui annonce sa fermeture",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Kennedy Center : le bâtiment menacé par Donald Trump qui annonce sa fermeture"
+    },
+    "published": "Wed, 16 Sep 2026 20:43:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      18,
+      43,
+      8,
+      2,
+      259,
+      0
+    ],
+    "summary": "Le président des Etats-Unis a pris le contrôle du centre culturel peu après son retour à la Maison Blanche, en 2025, en plaçant des fidèles dans son conseil d’administration. Il menace aujourd’hui de ne pas le rouvrir si son nom ne figure pas au fronton.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président des Etats-Unis a pris le contrôle du centre culturel peu après son retour à la Maison Blanche, en 2025, en plaçant des fidèles dans son conseil d’administration. Il menace aujourd’hui de ne pas le rouvrir si son nom ne figure pas au fronton."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/16/kennedy-center-le-batiment-menace-par-donald-trump-qui-annonce-sa-fermeture_6775460_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/16/kennedy-center-le-batiment-menace-par-donald-trump-qui-annonce-sa-fermeture_6775460_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/16/kennedy-center-le-batiment-menace-par-donald-trump-qui-annonce-sa-fermeture_6775460_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/500/0/6000/3000/644/322/60/0/9e5c051_ftp-1-njusq2bq43fd-eb88e2d04679473896dc7742c059e90a-0-b1e543ced85e4c2e97b95f9d8963974d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes marchent à l’extérieur du John F. Kennedy Center for the Performing Arts, mercredi 16 septembre 2026, à Washington."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "José Luis Magana/AP Photo"
+      }
+    ],
+    "credit": "José Luis Magana/AP Photo"
+  }
+}

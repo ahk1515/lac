@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T22:39:22.817195+00:00",
+  "_id": "56ed5c4c2c35",
+  "brut": {
+    "title": "La Fed va à l’encontre de Donald Trump et augmente ses taux directeurs pour lutter contre l’inflation aux Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Fed va à l’encontre de Donald Trump et augmente ses taux directeurs pour lutter contre l’inflation aux Etats-Unis"
+    },
+    "published": "Wed, 16 Sep 2026 20:15:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      18,
+      15,
+      14,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 21:20:31 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      19,
+      20,
+      31,
+      2,
+      259,
+      0
+    ],
+    "summary": "La Réserve fédérale américaine a choisi, mercredi 16 septembre, de relever ses taux directeurs d’un quart de point, entre 3,75 % et 4 %, afin d’enrayer la hausse des prix.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Réserve fédérale américaine a choisi, mercredi 16 septembre, de relever ses taux directeurs d’un quart de point, entre 3,75 % et 4 %, afin d’enrayer la hausse des prix."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/464/0/5570/2785/644/322/60/0/cdfb89a_ftp-1-zsuakvkrxaqy-2026-09-14t094711z-129536352-rc2vnmaozjxz-rtrmadp-3-usa-economy-poll.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un écran de la Bourse de New York diffuse une conférence de presse du gouverneur de la Fed, Kevin Warsh, le 29 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Brendan McDermid / REUTERS"
+      }
+    ],
+    "credit": "Brendan McDermid / REUTERS"
+  }
+}

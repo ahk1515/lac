@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T22:39:22.818235+00:00",
+  "_id": "5f1a5843ace2",
+  "brut": {
+    "title": "En Algérie, l’enseignement du français en primaire relégué au second plan au profit de l’anglais",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Algérie, l’enseignement du français en primaire relégué au second plan au profit de l’anglais"
+    },
+    "published": "Wed, 16 Sep 2026 18:30:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      16,
+      30,
+      0,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 19:39:55 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      17,
+      39,
+      55,
+      2,
+      259,
+      0
+    ],
+    "summary": "La réforme portée par le ministre de l’éducation a suscité une levée de boucliers dans les milieux francophones. Mais elle est soutenue par les partisans d’une mise à jour du système éducatif algérien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La réforme portée par le ministre de l’éducation a suscité une levée de boucliers dans les milieux francophones. Mais elle est soutenue par les partisans d’une mise à jour du système éducatif algérien."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/16/en-algerie-l-enseignement-du-francais-en-primaire-relegue-au-second-plan-au-profit-de-l-anglais_6775432_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/16/en-algerie-l-enseignement-du-francais-en-primaire-relegue-au-second-plan-au-profit-de-l-anglais_6775432_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/16/en-algerie-l-enseignement-du-francais-en-primaire-relegue-au-second-plan-au-profit-de-l-anglais_6775432_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/551/0/5148/2574/644/322/60/0/b6b672c_upload-1-3crusgjhyube-maxnewsfrsix286061.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mohamed Seghir Saâdaoui, ministre de l’éducation nationale, à Alger, le 12 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Karim Djaoui/APP/MAXPPP"
+      }
+    ],
+    "credit": "Karim Djaoui/APP/MAXPPP"
+  }
+}

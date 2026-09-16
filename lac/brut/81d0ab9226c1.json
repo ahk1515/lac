@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T22:39:23.647360+00:00",
+  "_id": "81d0ab9226c1",
+  "brut": {
+    "title": "Des migrants enfermés dans des cages aux États-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des migrants enfermés dans des cages aux États-Unis"
+    },
+    "summary": "En Floride, des migrants ont été enfermés dans des cages de la taille de cabines téléphoniques. Cette pratique est \"sans précédent\", selon un rapport interne du Département de la Sécurité intérieure.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Floride, des migrants ont été enfermés dans des cages de la taille de cabines téléphoniques. Cette pratique est \"sans précédent\", selon un rapport interne du Département de la Sécurité intérieure."
+    },
+    "published": "Wed, 16 Sep 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      20,
+      0,
+      1,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/des-migrants-enfermes-dans-des-cages-aux-etats-unis_8195855.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/UVtoSzf5R2Gi0V0fEt4t0IjjAag/47x0:468x748/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/16/6aaabb5403c18545129216.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/des-migrants-enfermes-dans-des-cages-aux-etats-unis_8195855.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/des-migrants-enfermes-dans-des-cages-aux-etats-unis_8195855.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

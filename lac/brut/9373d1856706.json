@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T22:39:22.816646+00:00",
+  "_id": "9373d1856706",
+  "brut": {
+    "title": "Malgré les sanctions, Israël continue d’avancer son projet de colonisation près de Jérusalem",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Malgré les sanctions, Israël continue d’avancer son projet de colonisation près de Jérusalem"
+    },
+    "published": "Wed, 16 Sep 2026 21:31:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      19,
+      31,
+      15,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 23:42:54 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      21,
+      42,
+      54,
+      2,
+      259,
+      0
+    ],
+    "summary": "En pleine campagne électorale et faisant fi des condamnations internationales, le gouvernement de Benyamin Nétanyahou relance le projet E1 qui, par sa localisation et sa taille, couperait en deux le territoire palestinien et contribuerait à rendre impossible toute solution à deux Etats.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En pleine campagne électorale et faisant fi des condamnations internationales, le gouvernement de Benyamin Nétanyahou relance le projet E1 qui, par sa localisation et sa taille, couperait en deux le territoire palestinien et contribuerait à rendre impossible toute solution à deux Etats."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/malgre-les-sanctions-israel-continue-d-avancer-son-projet-de-colonisation-pres-de-jerusalem_6775465_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/malgre-les-sanctions-israel-continue-d-avancer-son-projet-de-colonisation-pres-de-jerusalem_6775465_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/malgre-les-sanctions-israel-continue-d-avancer-son-projet-de-colonisation-pres-de-jerusalem_6775465_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/564/0/8640/4320/644/322/60/0/0377fb7_ftp-1-qgwbwc5krok2-9b6dbb5322c94147a5aa7e17d9acbf0b-0-b326d2b9509a45a9bcde16acf663cb26.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue d’une zone située dans le secteur du projet de colonisation E1, près de Ma’ale Adumim, une colonie israélienne en Cisjordanie occupée, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ohad Zwigenberg/AP"
+      }
+    ],
+    "credit": "Ohad Zwigenberg/AP"
+  }
+}

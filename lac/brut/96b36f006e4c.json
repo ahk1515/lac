@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T22:39:23.648317+00:00",
+  "_id": "96b36f006e4c",
+  "brut": {
+    "title": "Sabotages sur les rails aux Pays-Bas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sabotages sur les rails aux Pays-Bas"
+    },
+    "summary": "Aux Pays-Bas, des tuyaux fixés aux rails sur une vingtaine d’endroits ont fortement perturbé la circulation des trains. Le gestionnaire du réseau dénonce des sabotages. Ces actes surviennent le jour de la présentation du budget, sur fond de tensions sociales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux Pays-Bas, des tuyaux fixés aux rails sur une vingtaine d’endroits ont fortement perturbé la circulation des trains. Le gestionnaire du réseau dénonce des sabotages. Ces actes surviennent le jour de la présentation du budget, sur fond de tensions sociales."
+    },
+    "published": "Wed, 16 Sep 2026 19:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      17,
+      0,
+      1,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/transports/sabotages-sur-les-rails-aux-pays-bas_8195840.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/IGqt6uaROLNAaZTmTfRth-ihFCY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/16/6aaab95a1821a735422736.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/transports/sabotages-sur-les-rails-aux-pays-bas_8195840.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/transports/sabotages-sur-les-rails-aux-pays-bas_8195840.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
