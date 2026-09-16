@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T09:04:54.727861+00:00",
+  "_id": "862804735f94",
+  "brut": {
+    "title": "La Russie suspend ses livraisons de gaz naturel à l’Arménie dans un contexte tendu entre les deux pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Russie suspend ses livraisons de gaz naturel à l’Arménie dans un contexte tendu entre les deux pays"
+    },
+    "published": "Wed, 16 Sep 2026 07:30:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      5,
+      30,
+      5,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 07:54:39 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      5,
+      54,
+      39,
+      2,
+      259,
+      0
+    ],
+    "summary": "Cette interruption doit durer du 15 au 25 septembre. Moscou multiplie les mesures de rétorsion économiques depuis que le pays veut se porter candidat à l’Union européenne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette interruption doit durer du 15 au 25 septembre. Moscou multiplie les mesures de rétorsion économiques depuis que le pays veut se porter candidat à l’Union européenne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/la-russie-suspend-ses-livraisons-de-gaz-naturel-a-l-armenie_6774959_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/la-russie-suspend-ses-livraisons-de-gaz-naturel-a-l-armenie_6774959_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/la-russie-suspend-ses-livraisons-de-gaz-naturel-a-l-armenie_6774959_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/0/0/5417/2708/644/322/60/0/d8e82da_upload-1-urkbw8zw6jts-000-c72z2b9.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président russe, Vladimir Poutine (à droite), et son homologue arménien, Nikol Pachinian, à Bichkek (Kirghizstan), le 1ᵉʳ septembre 2026. Photo diffusée par l’agence d’Etat russe Sputnik."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VYACHESLAV PROKOFYEV/AFP"
+      }
+    ],
+    "credit": "VYACHESLAV PROKOFYEV/AFP"
+  }
+}

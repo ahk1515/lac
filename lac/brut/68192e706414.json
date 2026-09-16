@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T09:04:54.727185+00:00",
+  "_id": "68192e706414",
+  "brut": {
+    "title": "Guerre en Ukraine : l’armée russe mise sur les drones rapides à réaction",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre en Ukraine : l’armée russe mise sur les drones rapides à réaction"
+    },
+    "published": "Wed, 16 Sep 2026 09:58:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      7,
+      58,
+      14,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 10:03:18 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      8,
+      3,
+      18,
+      2,
+      259,
+      0
+    ],
+    "summary": "Moscou a déployé un nouveau type de drone qui perce la défense antiaérienne ukrainienne grâce à sa vitesse. Equipés de moteurs chinois, ces drones alourdissent le bilan des civils tués par les frappes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Moscou a déployé un nouveau type de drone qui perce la défense antiaérienne ukrainienne grâce à sa vitesse. Equipés de moteurs chinois, ces drones alourdissent le bilan des civils tués par les frappes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/guerre-en-ukraine-moscou-mise-sur-les-drones-rapides-a-reaction_6775139_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/guerre-en-ukraine-moscou-mise-sur-les-drones-rapides-a-reaction_6775139_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/guerre-en-ukraine-moscou-mise-sur-les-drones-rapides-a-reaction_6775139_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/670/0/4000/2000/644/322/60/0/5d5e81a_upload-1-grijzi5cfc4i-sujet-guerre-economique-21.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les débris d’un drone Shahed russe, tombé au milieu d’une route, et qui a tué une personne, à Vychneve (Ukraine), le 28 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Adrien Vautier / Le Pictorium po"
+      }
+    ],
+    "credit": "Adrien Vautier / Le Pictorium po"
+  }
+}

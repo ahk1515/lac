@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T09:04:54.727377+00:00",
+  "_id": "fef6124be08c",
+  "brut": {
+    "title": "Un hélicoptère se crashe dans l’ouest de Los Angeles, faisant au moins trois morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un hélicoptère se crashe dans l’ouest de Los Angeles, faisant au moins trois morts"
+    },
+    "published": "Wed, 16 Sep 2026 09:47:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      7,
+      47,
+      1,
+      2,
+      259,
+      0
+    ],
+    "summary": "L’appareil appartenant à une chaîne de télévision survolait le quartier de Chatsworth pour filmer le site d’une collision entre un SUV et un bus qui avait fait trois morts et de nombreux blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’appareil appartenant à une chaîne de télévision survolait le quartier de Chatsworth pour filmer le site d’une collision entre un SUV et un bus qui avait fait trois morts et de nombreux blessés."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/16/un-helicoptere-se-crashe-dans-l-ouest-de-los-angeles-faisant-au-moins-trois-morts_6775134_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/16/un-helicoptere-se-crashe-dans-l-ouest-de-los-angeles-faisant-au-moins-trois-morts_6775134_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/16/un-helicoptere-se-crashe-dans-l-ouest-de-los-angeles-faisant-au-moins-trois-morts_6775134_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/80/0/2560/1280/644/322/60/0/4c6ed60_ftp-1-xsn4frioxneb-2026-09-16t063752z-1882874077-rc26kna7yz19-rtrmadp-3-usa-crash-helicopter.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ABC AFFILIATE KABC / via REUTERS"
+      }
+    ],
+    "credit": "ABC AFFILIATE KABC / via REUTERS"
+  }
+}

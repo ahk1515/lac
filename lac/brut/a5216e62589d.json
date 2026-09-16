@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T09:04:54.726867+00:00",
+  "_id": "a5216e62589d",
+  "brut": {
+    "title": "L’Arabie saoudite accuse les houthistes d’avoir attaqué La Mecque depuis le Yémen",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite accuse les houthistes d’avoir attaqué La Mecque depuis le Yémen"
+    },
+    "published": "Wed, 16 Sep 2026 10:38:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      8,
+      38,
+      7,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 10:42:27 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      8,
+      42,
+      27,
+      2,
+      259,
+      0
+    ],
+    "summary": "Les houthistes, qui multiplient depuis le début du mois les attaques contre l’Arabie saoudite, alliée du gouvernement yéménite internationalement reconnu, ont démenti avoir pris la ville sainte pour cible.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les houthistes, qui multiplient depuis le début du mois les attaques contre l’Arabie saoudite, alliée du gouvernement yéménite internationalement reconnu, ont démenti avoir pris la ville sainte pour cible."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/l-arabie-saoudite-accuse-les-houthistes-d-avoir-vise-la-mecque_6775183_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/l-arabie-saoudite-accuse-les-houthistes-d-avoir-vise-la-mecque_6775183_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/l-arabie-saoudite-accuse-les-houthistes-d-avoir-vise-la-mecque_6775183_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/500/0/6000/3000/644/322/60/0/33705b2_ftp-1-wdiskelz8xkh-75fc835d1a1449c3b5169fc5885ef888-0-0e0263ff862343739b65521479a1364b.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un houthiste dans le gouvernorat yéménite d’Al-Jawf. Image tirée d’une vidéo diffusée mardi 15 septembre 2026 par le service de presse du mouvement."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ansar Allah Media Office via AP"
+      }
+    ],
+    "credit": "Ansar Allah Media Office via AP"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T09:04:54.728301+00:00",
+  "_id": "b1b85b856062",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Wed, 16 Sep 2026 07:06:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      5,
+      6,
+      49,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 09:53:04 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      7,
+      53,
+      4,
+      2,
+      259,
+      0
+    ],
+    "summary": "Le président ukrainien, Volodymyr Zelensky, s’est entretenu par téléphone, mardi, avant l’Assemblée générale de l’ONU, avec Emmanuel Macron, au sujet des démarches diplomatiques en cours pour mettre fin au conflit avec la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président ukrainien, Volodymyr Zelensky, s’est entretenu par téléphone, mardi, avant l’Assemblée générale de l’ONU, avec Emmanuel Macron, au sujet des démarches diplomatiques en cours pour mettre fin au conflit avec la Russie."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-les-dernieres-informations-au-16-septembre-2026_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-les-dernieres-informations-au-16-septembre-2026_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-les-dernieres-informations-au-16-septembre-2026_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/244/0/3349/1674/644/322/60/0/e156215_ftp-1-sop4gk3w9pqg-2026-09-08t192019z-114024547-rc27fna703yt-rtrmadp-3-norway-royals-king-harald-funeral.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’avion transportant le président ukrainien, Volodymyr Zelensky, atterrit en Norvège, le 8 septembre 2026, avant les funérailles du roi Harald V."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Frederik Ringnes/via REUTERS"
+      }
+    ],
+    "credit": "Frederik Ringnes/via REUTERS"
+  }
+}

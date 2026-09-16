@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T09:04:55.626594+00:00",
+  "_id": "d9b341567206",
+  "brut": {
+    "title": "Guerre en Ukraine : à bord du train de la peur",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : à bord du train de la peur"
+    },
+    "summary": "Dimanche 13 septembre, un train a été attaqué par les Russes, en Ukraine, à cinq kilomètres de la frontière polonaise. Si le trafic a repris, les voyageurs ont peur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dimanche 13 septembre, un train a été attaqué par les Russes, en Ukraine, à cinq kilomètres de la frontière polonaise. Si le trafic a repris, les voyageurs ont peur."
+    },
+    "published": "Wed, 16 Sep 2026 09:16:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      7,
+      16,
+      8,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-a-bord-du-train-de-la-peur_8194982.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/i8cy4AfZii27QuWGslLQFgBQs0g/194x0:1547x761/432x243/filters:format(jpg)/2026/09/16/6aaa420bc8f13386362320.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-a-bord-du-train-de-la-peur_8194982.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-a-bord-du-train-de-la-peur_8194982.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

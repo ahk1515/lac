@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T09:04:54.728793+00:00",
+  "_id": "27f6a39cc49e",
+  "brut": {
+    "title": "En Chine, la torture se poursuit dans les prisons, rapporte une ONG",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Chine, la torture se poursuit dans les prisons, rapporte une ONG"
+    },
+    "published": "Wed, 16 Sep 2026 05:32:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      3,
+      32,
+      29,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 08:45:20 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      6,
+      45,
+      20,
+      2,
+      259,
+      0
+    ],
+    "summary": "Selon le rapport de l’organisation Chinese Human Rights Defenders, les prisonniers de conscience sont particulièrement visés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le rapport de l’organisation Chinese Human Rights Defenders, les prisonniers de conscience sont particulièrement visés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/chine-la-torture-se-poursuit-dans-les-prisons-rapporte-une-ong_6774785_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/chine-la-torture-se-poursuit-dans-les-prisons-rapporte-une-ong_6774785_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/chine-la-torture-se-poursuit-dans-les-prisons-rapporte-une-ong_6774785_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/181/0/1282/641/644/322/60/0/fea829f_upload-1-zx6ewjjx8tez-screen-shot-2026-09-15-at-8-22-26-pm.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une illustration du rapport de l’organisation Chinese Human Rights Defenders sur la torture dans les prisons chinoises."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "chrdnet (Chinese Human Rights Defenders)/Instagram"
+      }
+    ],
+    "credit": "chrdnet (Chinese Human Rights Defenders)/Instagram"
+  }
+}

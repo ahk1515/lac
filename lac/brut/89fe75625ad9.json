@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T09:04:54.727707+00:00",
+  "_id": "89fe75625ad9",
+  "brut": {
+    "title": "Gaza : un immeuble endommagé par des attaques israéliennes s’effondre, au moins 8 morts et 60 disparus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : un immeuble endommagé par des attaques israéliennes s’effondre, au moins 8 morts et 60 disparus"
+    },
+    "published": "Wed, 16 Sep 2026 07:34:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      5,
+      34,
+      25,
+      2,
+      259,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 09:40:06 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      7,
+      40,
+      6,
+      2,
+      259,
+      0
+    ],
+    "summary": "Le bâtiment avait subi des dommages structurels en raison de multiples bombardements israéliens, selon le porte-parole de la défense civile de l’enclave.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le bâtiment avait subi des dommages structurels en raison de multiples bombardements israéliens, selon le porte-parole de la défense civile de l’enclave."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/a-gaza-8-morts-et-plus-de-60-disparus-dans-l-effondrement-d-un-immeuble_6774960_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/a-gaza-8-morts-et-plus-de-60-disparus-dans-l-effondrement-d-un-immeuble_6774960_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/a-gaza-8-morts-et-plus-de-60-disparus-dans-l-effondrement-d-un-immeuble_6774960_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/07/125/0/1500/750/644/322/60/0/8f03248_ftp-1-sialvk9ddnad-2026-09-07t164928z-51262176-rc24zma3k6l4-rtrmadp-3-israel-palestinians-un-expert.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans la ville de Gaza, le 15 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mahmoud Issa / REUTERS"
+      }
+    ],
+    "credit": "Mahmoud Issa / REUTERS"
+  }
+}

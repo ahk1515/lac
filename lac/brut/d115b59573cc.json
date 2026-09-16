@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-16T09:04:55.628720+00:00",
+  "_id": "d115b59573cc",
+  "brut": {
+    "title": "A Los Angeles, un hélicoptère d'une chaîne de télévision locale s'écrase, trois personnes tuées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Los Angeles, un hélicoptère d'une chaîne de télévision locale s'écrase, trois personnes tuées"
+    },
+    "summary": "L'appareil survolait mardi un quartier de la ville pour filmer le site d'une collision entre un SUV et un bus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'appareil survolait mardi un quartier de la ville pour filmer le site d'une collision entre un SUV et un bus."
+    },
+    "published": "Wed, 16 Sep 2026 09:53:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      7,
+      53,
+      58,
+      2,
+      259,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/un-helicoptere-de-la-television-s-ecrase-a-los-angeles-trois-personnes-tuees_8194826.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/n7gkmbsq3HE5C0vgim4ZYATRY5g/0x24:1024x600/432x243/filters:format(jpg)/2026/09/16/6aaa21bf71ca8115069225.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/un-helicoptere-de-la-television-s-ecrase-a-los-angeles-trois-personnes-tuees_8194826.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/un-helicoptere-de-la-television-s-ecrase-a-los-angeles-trois-personnes-tuees_8194826.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
