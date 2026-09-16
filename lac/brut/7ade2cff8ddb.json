@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T03:27:58.318124+00:00",
+  "_id": "7ade2cff8ddb",
+  "brut": {
+    "title": "Epidemie de rougeole aux Etats-Unis : quatre morts et plus de 3 000 cas recensés, du jamais vu depuis 1991",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Epidemie de rougeole aux Etats-Unis : quatre morts et plus de 3 000 cas recensés, du jamais vu depuis 1991"
+    },
+    "published": "Wed, 16 Sep 2026 01:11:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      23,
+      11,
+      12,
+      1,
+      258,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 02:28:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      0,
+      28,
+      3,
+      2,
+      259,
+      0
+    ],
+    "summary": "La maladie, très contagieuse, avait été déclarée éliminée du pays en 2000, mais connaît un retour en force ces dernières années, sur fond de baisse des taux de vaccination et de défiance croissante à l’égard des autorités sanitaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La maladie, très contagieuse, avait été déclarée éliminée du pays en 2000, mais connaît un retour en force ces dernières années, sur fond de baisse des taux de vaccination et de défiance croissante à l’égard des autorités sanitaires."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/epidemie-de-rougeole-aux-etats-unis-quatre-morts-et-plus-de-3-000-cas-recenses-du-jamais-depuis-1991_6774547_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/epidemie-de-rougeole-aux-etats-unis-quatre-morts-et-plus-de-3-000-cas-recenses-du-jamais-depuis-1991_6774547_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/epidemie-de-rougeole-aux-etats-unis-quatre-morts-et-plus-de-3-000-cas-recenses-du-jamais-depuis-1991_6774547_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/714/0/5712/2856/644/322/60/0/8e385a7_ftp-1-gdgsjk2vxzz5-2026-09-13t234316z-1749562427-rc2v1dahjczd-rtrmadp-3-health-usa-measles-pennsylvania.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un panneau signalant un lieu de dépistage de la rougeole à Seminole, au Texas, le 25 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sebastian Rocandio/REUTERS"
+      }
+    ],
+    "credit": "Sebastian Rocandio/REUTERS"
+  }
+}

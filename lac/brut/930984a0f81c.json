@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T03:27:58.317531+00:00",
+  "_id": "930984a0f81c",
+  "brut": {
+    "title": "Sur l’île de Stromboli, en Italie, une unique élève fait sa rentrée dans la plus petite école d’Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sur l’île de Stromboli, en Italie, une unique élève fait sa rentrée dans la plus petite école d’Europe"
+    },
+    "published": "Wed, 16 Sep 2026 03:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      1,
+      0,
+      2,
+      2,
+      259,
+      0
+    ],
+    "summary": "Vingt ans après sa fermeture, l’école primaire du hameau de Ginostra a rouvert, un événement dans un pays où les établissements scolaires disparaissent à tour de bras en raison du déclin démographique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vingt ans après sa fermeture, l’école primaire du hameau de Ginostra a rouvert, un événement dans un pays où les établissements scolaires disparaissent à tour de bras en raison du déclin démographique."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/16/sur-l-ile-de-stromboli-en-italie-une-unique-eleve-fait-sa-rentree-dans-la-plus-petite-ecole-d-europe_6774646_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/sur-l-ile-de-stromboli-en-italie-une-unique-eleve-fait-sa-rentree-dans-la-plus-petite-ecole-d-europe_6774646_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/16/sur-l-ile-de-stromboli-en-italie-une-unique-eleve-fait-sa-rentree-dans-la-plus-petite-ecole-d-europe_6774646_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/320/0/2560/1280/644/322/60/0/aa9ffd0_upload-1-be6vf1fpvygb-ginostra-scuola-una-sola-alunna-scaled.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Aysha, et ses parents, Monica Abbate et Raffa Bazine, à Lipari (Italie), le 20 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Photo fournie par la famille/Monica Abbate, Raffa Bazine"
+      }
+    ],
+    "credit": "Photo fournie par la famille/Monica Abbate, Raffa Bazine"
+  }
+}

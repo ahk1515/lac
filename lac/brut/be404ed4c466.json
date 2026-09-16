@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T03:27:58.317923+00:00",
+  "_id": "be404ed4c466",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Russie a tenté à deux reprises de viser son avion avec des drones",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Russie a tenté à deux reprises de viser son avion avec des drones"
+    },
+    "published": "Wed, 16 Sep 2026 01:38:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      15,
+      23,
+      38,
+      20,
+      1,
+      258,
+      0
+    ],
+    "updated": "Wed, 16 Sep 2026 03:56:40 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      16,
+      1,
+      56,
+      40,
+      2,
+      259,
+      0
+    ],
+    "summary": "Le premier ministre norvégien, Jonas Gahr Store, avait fait savoir que l’avion du président ukrainien avait été « presque touché » par un drone dans l’espace aérien moldave le 9 septembre, alors que Volodymyr Zelensky se rendait à Oslo pour les funérailles du roi Harald V de Norvège.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le premier ministre norvégien, Jonas Gahr Store, avait fait savoir que l’avion du président ukrainien avait été « presque touché » par un drone dans l’espace aérien moldave le 9 septembre, alors que Volodymyr Zelensky se rendait à Oslo pour les funérailles du roi Harald V de Norvège."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-tente-a-deux-reprises-de-viser-son-avion-avec-des-drones_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-tente-a-deux-reprises-de-viser-son-avion-avec-des-drones_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-tente-a-deux-reprises-de-viser-son-avion-avec-des-drones_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/244/0/3349/1674/644/322/60/0/e156215_ftp-1-sop4gk3w9pqg-2026-09-08t192019z-114024547-rc27fna703yt-rtrmadp-3-norway-royals-king-harald-funeral.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’avion transportant le président ukrainien Volodymyr Zelensky atterrissant en Norvège, le 8 septembre 2026, avant les funérailles du roi Harald V."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Frederik Ringnes/via REUTERS"
+      }
+    ],
+    "credit": "Frederik Ringnes/via REUTERS"
+  }
+}

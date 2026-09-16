@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-16T03:27:58.316885+00:00",
+  "_id": "54da06d73cb0",
+  "brut": {
+    "title": "Le grand virage à l’extrême droite de l’Amérique latine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le grand virage à l’extrême droite de l’Amérique latine"
+    },
+    "published": "Wed, 16 Sep 2026 05:00:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      3,
+      0,
+      25,
+      2,
+      259,
+      0
+    ],
+    "summary": "Du Honduras au Chili, l’Amérique latine traverse une recomposition politique à l’extrême droite. Explications en podcast avec Angeline Montoya, journaliste au service International du « Monde ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Du Honduras au Chili, l’Amérique latine traverse une recomposition politique à l’extrême droite. Explications en podcast avec Angeline Montoya, journaliste au service International du « Monde »."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/09/16/le-grand-virage-a-l-extreme-droite-de-l-amerique-latine_6774749_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/09/16/le-grand-virage-a-l-extreme-droite-de-l-amerique-latine_6774749_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/09/16/le-grand-virage-a-l-extreme-droite-de-l-amerique-latine_6774749_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/01/0/0/1800/900/644/322/60/0/8b4a7b7_upload-1-6s946p4ylgzh-americas.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La plupart des pays sud-américains, même non alignés, se plient aux injonctions de l’administration Trump. Washington n’hésite pas à recourir à des menaces de sanctions ou de retraits de visas pour faire primer ses intérêts."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ANDREW CABALLERO-REYNOLDS / AFP"
+      }
+    ],
+    "credit": "ANDREW CABALLERO-REYNOLDS / AFP"
+  }
+}
