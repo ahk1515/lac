@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-17T16:17:21.682922+00:00",
+  "_id": "0626fed2b632",
+  "brut": {
+    "title": "D'importantes inondations mortelles en Espagne, un homme décédé en Catalogne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "D'importantes inondations mortelles en Espagne, un homme décédé en Catalogne"
+    },
+    "summary": "En Espagne, des pluies diluviennes se sont abattues sur la Catalogne et la région de Valence, mercredi 16 septembre. Près de Barcelone, un homme a été retrouvé mort après que sa voiture a été emportée. Les autorités appellent les habitants à éviter tout déplacement inutile.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, des pluies diluviennes se sont abattues sur la Catalogne et la région de Valence, mercredi 16 septembre. Près de Barcelone, un homme a été retrouvé mort après que sa voiture a été emportée. Les autorités appellent les habitants à éviter tout déplacement inutile."
+    },
+    "published": "Thu, 17 Sep 2026 15:31:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      13,
+      31,
+      49,
+      3,
+      260,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/d-importantes-inondations-mortelles-en-espagne-un-homme-decede-en-catalogne_8197322.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/1g5f0Sfvc5IZa93OFeRozewdyl4/0x78:1696x1032/432x243/filters:format(jpg)/2026/09/17/6aabe12b0870e189712398.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/d-importantes-inondations-mortelles-en-espagne-un-homme-decede-en-catalogne_8197322.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/d-importantes-inondations-mortelles-en-espagne-un-homme-decede-en-catalogne_8197322.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

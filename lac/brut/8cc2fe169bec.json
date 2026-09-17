@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T16:17:21.240830+00:00",
+  "_id": "8cc2fe169bec",
+  "brut": {
+    "title": "Suède : la gauche remporte de justesse les élections législatives ; le premier ministre, Ulf Kristersson, annonce sa démission",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Suède : la gauche remporte de justesse les élections législatives ; le premier ministre, Ulf Kristersson, annonce sa démission"
+    },
+    "published": "Thu, 17 Sep 2026 14:19:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      12,
+      19,
+      18,
+      3,
+      260,
+      0
+    ],
+    "updated": "Thu, 17 Sep 2026 15:10:25 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      17,
+      13,
+      10,
+      25,
+      3,
+      260,
+      0
+    ],
+    "summary": "Les élections de dimanche étaient si serrées qu’il a fallu attendre un jour supplémentaire pour comptabiliser les quelque 300 000 voix manquantes, provenant de l’étranger et du vote anticipé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les élections de dimanche étaient si serrées qu’il a fallu attendre un jour supplémentaire pour comptabiliser les quelque 300 000 voix manquantes, provenant de l’étranger et du vote anticipé."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/17/suede-la-gauche-remporte-de-justesse-les-elections-legislatives-le-premier-ministre-ulf-kristersson-annonce-sa-demission_6776419_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/17/suede-la-gauche-remporte-de-justesse-les-elections-legislatives-le-premier-ministre-ulf-kristersson-annonce-sa-demission_6776419_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/17/suede-la-gauche-remporte-de-justesse-les-elections-legislatives-le-premier-ministre-ulf-kristersson-annonce-sa-demission_6776419_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/655/0/7863/3931/644/322/60/0/d60a8fd_ftp-1-x2qeqtbyuqyo-5085858-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La présidente des Sociaux-démocrates, Magdalena Andersson, à Stockholm, le 13 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JONAS EKSTROMER / AFP"
+      }
+    ],
+    "credit": "JONAS EKSTROMER / AFP"
+  }
+}

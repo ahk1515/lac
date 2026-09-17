@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T16:17:21.241187+00:00",
+  "_id": "50152f3198ab",
+  "brut": {
+    "title": "Au Japon, la relance du nucléaire compromise par un scandale de falsifications de données",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Japon, la relance du nucléaire compromise par un scandale de falsifications de données"
+    },
+    "published": "Thu, 17 Sep 2026 13:30:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      11,
+      30,
+      5,
+      3,
+      260,
+      0
+    ],
+    "updated": "Thu, 17 Sep 2026 15:37:42 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      17,
+      13,
+      37,
+      42,
+      3,
+      260,
+      0
+    ],
+    "summary": "Pressés de pouvoir redémarrer deux réacteurs de la centrale de Hamaoka, au centre du pays, les responsables de l’installation nucléaire ont minoré les risques sismiques afin de limiter la durée de travaux d’adaptation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pressés de pouvoir redémarrer deux réacteurs de la centrale de Hamaoka, au centre du pays, les responsables de l’installation nucléaire ont minoré les risques sismiques afin de limiter la durée de travaux d’adaptation."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/17/au-japon-la-relance-du-nucleaire-compromise-par-un-scandale-de-falsifications-de-donnees_6776415_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/17/au-japon-la-relance-du-nucleaire-compromise-par-un-scandale-de-falsifications-de-donnees_6776415_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/17/au-japon-la-relance-du-nucleaire-compromise-par-un-scandale-de-falsifications-de-donnees_6776415_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/250/0/3000/1500/644/322/60/0/c1c736b_upload-1-bps69miblhk6-000-c88j4wf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les réacteurs 1 à 4 de la centrale nucléaire de Hamaoka, exploitée par Chubu Electric Power, à Omaezaki, dans la préfecture de Shizuoka au Japon, le 4 septembre 2015."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

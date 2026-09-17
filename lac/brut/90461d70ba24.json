@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T16:17:21.240359+00:00",
+  "_id": "90461d70ba24",
+  "brut": {
+    "title": "Le cinéma italien plongé dans des crises à répétition",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le cinéma italien plongé dans des crises à répétition"
+    },
+    "published": "Thu, 17 Sep 2026 15:00:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      13,
+      0,
+      9,
+      3,
+      260,
+      0
+    ],
+    "summary": "L’absence de prix pour les cinéastes transalpins lors de la 83ᵉ édition de la Mostra de Venise illustre les difficultés du modèle industriel du cinéma italien, accentuées par l’arrivée au pouvoir de Giorgia Meloni, en 2022. Néanmoins, une réforme ambitieuse du secteur, votée le 10 septembre, laisse espérer une amélioration.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’absence de prix pour les cinéastes transalpins lors de la 83ᵉ édition de la Mostra de Venise illustre les difficultés du modèle industriel du cinéma italien, accentuées par l’arrivée au pouvoir de Giorgia Meloni, en 2022. Néanmoins, une réforme ambitieuse du secteur, votée le 10 septembre, laisse espérer une amélioration."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/17/le-cinema-italien-plonge-dans-des-crises-a-repetition_6776422_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/17/le-cinema-italien-plonge-dans-des-crises-a-repetition_6776422_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/17/le-cinema-italien-plonge-dans-des-crises-a-repetition_6776422_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/688/0/8256/4128/644/322/60/0/2ee8fda_upload-1-bkfcump2dmd3-000-c7u28gu.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors de la 83ᵉ Mostra de Venise, au Lido de Venise (Italie), le 9 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TIZIANA FABI/AFP"
+      }
+    ],
+    "credit": "TIZIANA FABI/AFP"
+  }
+}

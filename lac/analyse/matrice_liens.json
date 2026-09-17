@@ -2,7 +2,7 @@
   {
     "pays_a": "RUS",
     "pays_b": "UKR",
-    "co_citations": 503
+    "co_citations": 505
   },
   {
     "pays_a": "IRN",
@@ -47,12 +47,12 @@
   {
     "pays_a": "CHN",
     "pays_b": "USA",
-    "co_citations": 56
+    "co_citations": 57
   },
   {
     "pays_a": "FRA",
     "pays_b": "UKR",
-    "co_citations": 53
+    "co_citations": 54
   },
   {
     "pays_a": "DEU",
@@ -221,6 +221,11 @@
   },
   {
     "pays_a": "FRA",
+    "pays_b": "IND",
+    "co_citations": 6
+  },
+  {
+    "pays_a": "FRA",
     "pays_b": "JPN",
     "co_citations": 5
   },
@@ -230,18 +235,23 @@
     "co_citations": 5
   },
   {
-    "pays_a": "FRA",
-    "pays_b": "IND",
-    "co_citations": 5
-  },
-  {
     "pays_a": "GBR",
     "pays_b": "IRN",
     "co_citations": 5
   },
   {
+    "pays_a": "FRA",
+    "pays_b": "NER",
+    "co_citations": 5
+  },
+  {
     "pays_a": "NER",
     "pays_b": "RUS",
+    "co_citations": 5
+  },
+  {
+    "pays_a": "MLI",
+    "pays_b": "NER",
     "co_citations": 5
   },
   {
@@ -261,7 +271,7 @@
   },
   {
     "pays_a": "FRA",
-    "pays_b": "NER",
+    "pays_b": "MLI",
     "co_citations": 4
   },
   {
@@ -277,11 +287,6 @@
   {
     "pays_a": "DEU",
     "pays_b": "ISR",
-    "co_citations": 4
-  },
-  {
-    "pays_a": "MLI",
-    "pays_b": "NER",
     "co_citations": 4
   },
   {
@@ -310,11 +315,6 @@
     "co_citations": 3
   },
   {
-    "pays_a": "FRA",
-    "pays_b": "MLI",
-    "co_citations": 3
-  },
-  {
     "pays_a": "CHN",
     "pays_b": "JPN",
     "co_citations": 3
@@ -322,6 +322,16 @@
   {
     "pays_a": "IND",
     "pays_b": "UKR",
+    "co_citations": 3
+  },
+  {
+    "pays_a": "BFA",
+    "pays_b": "MLI",
+    "co_citations": 3
+  },
+  {
+    "pays_a": "BFA",
+    "pays_b": "NER",
     "co_citations": 3
   },
   {
@@ -337,16 +347,6 @@
   {
     "pays_a": "CHN",
     "pays_b": "DEU",
-    "co_citations": 2
-  },
-  {
-    "pays_a": "BFA",
-    "pays_b": "MLI",
-    "co_citations": 2
-  },
-  {
-    "pays_a": "BFA",
-    "pays_b": "NER",
     "co_citations": 2
   },
   {
@@ -401,6 +401,11 @@
   },
   {
     "pays_a": "BRA",
+    "pays_b": "FRA",
+    "co_citations": 1
+  },
+  {
+    "pays_a": "BFA",
     "pays_b": "FRA",
     "co_citations": 1
   },

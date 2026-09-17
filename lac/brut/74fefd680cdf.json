@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T16:17:21.238765+00:00",
+  "_id": "74fefd680cdf",
+  "brut": {
+    "title": "Excision : la poussée réactionnaire qui secoue l’Afrique de l’Ouest",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Excision : la poussée réactionnaire qui secoue l’Afrique de l’Ouest"
+    },
+    "published": "Thu, 17 Sep 2026 17:12:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      15,
+      12,
+      29,
+      3,
+      260,
+      0
+    ],
+    "summary": "En 2023, une étude publiée dans la revue Nature, estimait que l’ablation partielle ou totale du clitoris, des petites ou des grandes lèvres ou encore l’infibulation – les différentes formes de l’excision –, causaient environ 44 000 décès par an dans quinze pays africains, dont le Mali.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En 2023, une étude publiée dans la revue Nature, estimait que l’ablation partielle ou totale du clitoris, des petites ou des grandes lèvres ou encore l’infibulation – les différentes formes de l’excision –, causaient environ 44 000 décès par an dans quinze pays africains, dont le Mali."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/17/excision-la-poussee-reactionnaire-qui-secoue-l-afrique-de-l-ouest_6776444_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/17/excision-la-poussee-reactionnaire-qui-secoue-l-afrique-de-l-ouest_6776444_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/17/excision-la-poussee-reactionnaire-qui-secoue-l-afrique-de-l-ouest_6776444_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/296/0/4442/2221/644/322/60/0/93ce0cd_upload-1-b6c6dtmqnuvd-capture-d-e-cran-2026-09-14-a-12-41-46.png"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VOIX D’AFRIQUE VDA/CAPTURE ECRAN YOUTUBE"
+      }
+    ],
+    "credit": "VOIX D’AFRIQUE VDA/CAPTURE ECRAN YOUTUBE"
+  }
+}

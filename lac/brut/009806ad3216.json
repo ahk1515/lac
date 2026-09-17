@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T16:17:21.240508+00:00",
+  "_id": "009806ad3216",
+  "brut": {
+    "title": "En Suède, l’extrême droite impute sa défaite à l’immigration",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Suède, l’extrême droite impute sa défaite à l’immigration"
+    },
+    "published": "Thu, 17 Sep 2026 15:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      13,
+      0,
+      4,
+      3,
+      260,
+      0
+    ],
+    "updated": "Thu, 17 Sep 2026 16:43:15 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      17,
+      14,
+      43,
+      15,
+      3,
+      260,
+      0
+    ],
+    "summary": "Enregistrant leur premier revers depuis 1988, les Démocrates de Suède alimentent un discours conspirationniste, accusant l’opposition d’avoir organisé une forme de « grand remplacement » électoral afin d’empêcher la victoire de la droite aux élections législatives.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Enregistrant leur premier revers depuis 1988, les Démocrates de Suède alimentent un discours conspirationniste, accusant l’opposition d’avoir organisé une forme de « grand remplacement » électoral afin d’empêcher la victoire de la droite aux élections législatives."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/17/en-suede-l-extreme-droite-impute-sa-defaite-a-l-immigration_6776423_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/17/en-suede-l-extreme-droite-impute-sa-defaite-a-l-immigration_6776423_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/17/en-suede-l-extreme-droite-impute-sa-defaite-a-l-immigration_6776423_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/510/0/5888/2944/644/322/60/0/93d1f56_ftp-1-zwgvcr366wtq-5085738-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Jimmie Åkesson, chef des Démocrates de Suède, parti d’extrême droite, à Stockholm, le 13 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PONTUS LUNDAHL/AFP"
+      }
+    ],
+    "credit": "PONTUS LUNDAHL/AFP"
+  }
+}

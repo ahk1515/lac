@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-17T16:17:21.683057+00:00",
+  "_id": "4225506f7f72",
+  "brut": {
+    "title": "En Guinée, la chaîne d'information France 24 est désormais \"interdite de diffusion\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Guinée, la chaîne d'information France 24 est désormais \"interdite de diffusion\""
+    },
+    "summary": "France 24 a déjà été interdite au Mali, au Burkina Faso et au Niger, trois pays sahéliens dirigés par des régimes militaires souverainistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "France 24 a déjà été interdite au Mali, au Burkina Faso et au Niger, trois pays sahéliens dirigés par des régimes militaires souverainistes."
+    },
+    "published": "Thu, 17 Sep 2026 15:31:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      13,
+      31,
+      20,
+      3,
+      260,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/guinee/en-guinee-la-chaine-d-information-france-24-est-desormais-interdite-de-diffusion_8197301.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/J82YgCdoUdqMEURYFlgs_YC32q8/0x66:1024x642/432x243/filters:format(jpg)/2026/09/17/6aabdeb95c44a403227353.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/guinee/en-guinee-la-chaine-d-information-france-24-est-desormais-interdite-de-diffusion_8197301.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/guinee/en-guinee-la-chaine-d-information-france-24-est-desormais-interdite-de-diffusion_8197301.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

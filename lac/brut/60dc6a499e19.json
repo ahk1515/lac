@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T16:17:21.240684+00:00",
+  "_id": "60dc6a499e19",
+  "brut": {
+    "title": "Eurovision 2027 : l’Irlande boycotte à nouveau le concours en raison de la situation humanitaire à Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Eurovision 2027 : l’Irlande boycotte à nouveau le concours en raison de la situation humanitaire à Gaza"
+    },
+    "published": "Thu, 17 Sep 2026 14:42:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      12,
+      42,
+      54,
+      3,
+      260,
+      0
+    ],
+    "summary": "L’Irlande accentue ainsi son engagement en faveur de la cause palestinienne et sa dénonciation de la crise humanitaire à Gaza.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Irlande accentue ainsi son engagement en faveur de la cause palestinienne et sa dénonciation de la crise humanitaire à Gaza."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/09/17/eurovision-2027-l-irlande-boycotte-a-nouveau-le-concours-en-raison-de-la-situation-humanitaire-a-gaza_6776420_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/09/17/eurovision-2027-l-irlande-boycotte-a-nouveau-le-concours-en-raison-de-la-situation-humanitaire-a-gaza_6776420_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/09/17/eurovision-2027-l-irlande-boycotte-a-nouveau-le-concours-en-raison-de-la-situation-humanitaire-a-gaza_6776420_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/456/0/5472/2736/644/322/60/0/809d6db_ftp-1-cxsjjxunhnnv-02eff872f4654e8886d2be394a092407-0-156d987940f24f34affc3a89f0801aac.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’Eurovision 2027 doit se tenir à Bourgas, en Bulgarie, avec des demi-finales les 11 et 13 mai et une finale le 15 mai."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentina Petrova / AP Photo/Valentina Petrova"
+      }
+    ],
+    "credit": "Valentina Petrova / AP Photo/Valentina Petrova"
+  }
+}

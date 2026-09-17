@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-17T16:17:21.681967+00:00",
+  "_id": "e6e7a433eb18",
+  "brut": {
+    "title": "Piddington, le village anglais qui vote pour quitter le Royaume-Uni",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Piddington, le village anglais qui vote pour quitter le Royaume-Uni"
+    },
+    "summary": "Les habitants de ce village de l'Oxfordshire ont organisé un référendum pour protester contre le projet du gouvernement d'installer jusqu'à 1 256 demandeurs d'asile sur une ancienne base militaire voisine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les habitants de ce village de l'Oxfordshire ont organisé un référendum pour protester contre le projet du gouvernement d'installer jusqu'à 1 256 demandeurs d'asile sur une ancienne base militaire voisine."
+    },
+    "published": "Thu, 17 Sep 2026 17:57:30 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      15,
+      57,
+      30,
+      3,
+      260,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/piddington-le-village-anglais-qui-vote-pour-quitter-le-royaume-uni_8197655.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8wtrMwTEArpBCkNrMLDV65R03ss/0x279:5392x3312/432x243/filters:format(jpg)/2026/09/17/6aac0dcddd2b4670282007.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/piddington-le-village-anglais-qui-vote-pour-quitter-le-royaume-uni_8197655.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/piddington-le-village-anglais-qui-vote-pour-quitter-le-royaume-uni_8197655.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
