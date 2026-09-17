@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-17T22:40:51.255241+00:00",
+  "_id": "2195002f73d9",
+  "brut": {
+    "title": "L’homme suspecté d'être le \"jogger pousseur\" retrouvé mort",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’homme suspecté d'être le \"jogger pousseur\" retrouvé mort"
+    },
+    "summary": "L’homme suspecté d'être le \"jogger pousseur\" filmé en 2017 poussant une femme sous un bus, et identifié par la police il y a quelques semaines seulement, a été retrouvé mort chez lui. L’homme n’avait pas été inculpé et était libre sous caution.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’homme suspecté d'être le \"jogger pousseur\" filmé en 2017 poussant une femme sous un bus, et identifié par la police il y a quelques semaines seulement, a été retrouvé mort chez lui. L’homme n’avait pas été inculpé et était libre sous caution."
+    },
+    "published": "Thu, 17 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      20,
+      0,
+      2,
+      3,
+      260,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/l-homme-suspecte-d-etre-le-jogger-pousseur-retrouve-mort_8198009.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/bidXMbKx8ZmQZwrrblzQWqF8v90/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/17/6aac390a62e4e109626644.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/l-homme-suspecte-d-etre-le-jogger-pousseur-retrouve-mort_8198009.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/l-homme-suspecte-d-etre-le-jogger-pousseur-retrouve-mort_8198009.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

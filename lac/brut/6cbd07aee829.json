@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T22:40:50.546956+00:00",
+  "_id": "6cbd07aee829",
+  "brut": {
+    "title": "De Sidiki Diabaté à Sona Jobarteh, un nouveau souffle pour la kora",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De Sidiki Diabaté à Sona Jobarteh, un nouveau souffle pour la kora"
+    },
+    "published": "Thu, 17 Sep 2026 19:00:24 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      17,
+      0,
+      24,
+      3,
+      260,
+      0
+    ],
+    "summary": "L’instrument à cordes ouest-africain voit son public rajeunir et son répertoire évoluer, comme l’illustre le concert parisien du musicien malien, qui se produit ce vendredi 18 septembre à l’Accor Arena.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’instrument à cordes ouest-africain voit son public rajeunir et son répertoire évoluer, comme l’illustre le concert parisien du musicien malien, qui se produit ce vendredi 18 septembre à l’Accor Arena."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/09/17/de-sidiki-diabate-a-sona-jobarteh-un-nouveau-souffle-pour-la-kora_6776466_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/09/17/de-sidiki-diabate-a-sona-jobarteh-un-nouveau-souffle-pour-la-kora_6776466_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/09/17/de-sidiki-diabate-a-sona-jobarteh-un-nouveau-souffle-pour-la-kora_6776466_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/463/0/1366/683/644/322/60/0/8514ac5_upload-1-gdgdi2ipuvjm-kora-2.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sidiki Diabaté, à Paris, en 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DIOUF PHOTOGRAPHIE"
+      }
+    ],
+    "credit": "DIOUF PHOTOGRAPHIE"
+  }
+}

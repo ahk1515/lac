@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T22:40:50.546006+00:00",
+  "_id": "c6c486f9bd8d",
+  "brut": {
+    "title": "Au Royaume-Uni, Charles III, relais des inquiétudes mondiales sur l’emballement de l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Royaume-Uni, Charles III, relais des inquiétudes mondiales sur l’emballement de l’IA"
+    },
+    "published": "Thu, 17 Sep 2026 22:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      20,
+      0,
+      3,
+      3,
+      260,
+      0
+    ],
+    "summary": "Devant des acteurs du secteur réunis en Ecosse, le roi a mis en garde contre les « dangers existentiels » posés par cette nouvelle technologie. Des appels à davantage de régulation, au niveau national et international, se font entendre au Royaume Uni.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Devant des acteurs du secteur réunis en Ecosse, le roi a mis en garde contre les « dangers existentiels » posés par cette nouvelle technologie. Des appels à davantage de régulation, au niveau national et international, se font entendre au Royaume Uni."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/275/0/3300/1650/644/322/60/0/296cc0c_ftp-1-eukogwbc8tdt-5111460-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Charles III (à gauche) marche aux côtés de Demis Hassabis, PDG de Google DeepMind (au centre), et de Jensen Huang, PDG de Nvidia (à droite), à Cumnock (Ecosse), le 17 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JONATHAN BRADY/AFP"
+      }
+    ],
+    "credit": "JONATHAN BRADY/AFP"
+  }
+}

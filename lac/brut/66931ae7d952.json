@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T22:40:50.547214+00:00",
+  "_id": "66931ae7d952",
+  "brut": {
+    "title": "En Inde, des festivités XXL pour l’anniversaire de Narendra Modi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Inde, des festivités XXL pour l’anniversaire de Narendra Modi"
+    },
+    "published": "Thu, 17 Sep 2026 18:30:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      16,
+      30,
+      10,
+      3,
+      260,
+      0
+    ],
+    "summary": "Les célébrations prévues pour fêter les 76 ans du premier ministre indien sont loin de faire l’unanimité dans le pays et suscitent même l’indignation de la « gen Z ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les célébrations prévues pour fêter les 76 ans du premier ministre indien sont loin de faire l’unanimité dans le pays et suscitent même l’indignation de la « gen Z »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/17/en-inde-des-festivites-xxl-pour-l-anniversaire-de-narendra-modi_6776461_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/17/en-inde-des-festivites-xxl-pour-l-anniversaire-de-narendra-modi_6776461_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/17/en-inde-des-festivites-xxl-pour-l-anniversaire-de-narendra-modi_6776461_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/841/0/7687/3843/644/322/60/0/1a7188b_ftp-1-g0z5ruaachsn-5a9f7d7ff8cd4302bf2d6bb94ba9a1c4-0-d8f899c5a2794f4aa034bc33121523a5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des partisans du premier ministre indien, Narendra Modi, lors des célébrations marquant son 76ᵉ anniversaire, à Ahmedabad (Inde), le 17 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ajit Solanki/AP"
+      }
+    ],
+    "credit": "Ajit Solanki/AP"
+  }
+}

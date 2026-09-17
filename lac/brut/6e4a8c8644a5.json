@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T22:40:50.545468+00:00",
+  "_id": "6e4a8c8644a5",
+  "brut": {
+    "title": "Les Etats-Unis accordent des visas à l’Iran pour se rendre à l’Assemblée générale de l’ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis accordent des visas à l’Iran pour se rendre à l’Assemblée générale de l’ONU"
+    },
+    "published": "Thu, 17 Sep 2026 22:48:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      20,
+      48,
+      45,
+      3,
+      260,
+      0
+    ],
+    "summary": "Cette décision, attendue malgré les circonstances, contraste avec le refus des Etats-Unis d’accorder un visa au président de l’Autorité palestinienne, Mahmoud Abbas, qui a dénoncé, jeudi, une « mesure injustifiée ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette décision, attendue malgré les circonstances, contraste avec le refus des Etats-Unis d’accorder un visa au président de l’Autorité palestinienne, Mahmoud Abbas, qui a dénoncé, jeudi, une « mesure injustifiée »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/17/les-etats-unis-accordent-des-visas-a-l-iran-pour-se-rendre-a-l-assemblee-generale-de-l-onu_6776481_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/17/les-etats-unis-accordent-des-visas-a-l-iran-pour-se-rendre-a-l-assemblee-generale-de-l-onu_6776481_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/17/les-etats-unis-accordent-des-visas-a-l-iran-pour-se-rendre-a-l-assemblee-generale-de-l-onu_6776481_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/12/252/0/3048/1524/644/322/60/0/f2e0932_ftp-1-ewtn7mnyeu7q-2026-09-12t151738z-916515639-rc2hhnapnvmx-rtrmadp-3-brics-summit.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président iranien, Massoud Pezeshkian, invité au sommet des BRICS, à New Delhi, en Inde, le 12 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sahiba Chawdhary/Reuters"
+      }
+    ],
+    "credit": "Sahiba Chawdhary/Reuters"
+  }
+}

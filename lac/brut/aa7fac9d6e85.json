@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T22:40:50.545802+00:00",
+  "_id": "aa7fac9d6e85",
+  "brut": {
+    "title": "Crue soudaine dans le Grand Canyon : un troisième corps retrouvé, deux semaines plus tard",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Crue soudaine dans le Grand Canyon : un troisième corps retrouvé, deux semaines plus tard"
+    },
+    "published": "Thu, 17 Sep 2026 22:05:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      20,
+      5,
+      14,
+      3,
+      260,
+      0
+    ],
+    "summary": "Deux autres victimes, John Guisti et Brent Rosenkranz, avaient été retrouvés très rapidement après cette crue éclair, qui a surpris des dizaines de touristes et fait déferler un torrent d’eau boueuse dans le parc national du Grand Canyon, aux Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux autres victimes, John Guisti et Brent Rosenkranz, avaient été retrouvés très rapidement après cette crue éclair, qui a surpris des dizaines de touristes et fait déferler un torrent d’eau boueuse dans le parc national du Grand Canyon, aux Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/17/crue-soudaine-dans-le-grand-canyon-un-troisieme-corps-retrouve-deux-semaines-plus-tard_6776480_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/17/crue-soudaine-dans-le-grand-canyon-un-troisieme-corps-retrouve-deux-semaines-plus-tard_6776480_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/17/crue-soudaine-dans-le-grand-canyon-un-troisieme-corps-retrouve-deux-semaines-plus-tard_6776480_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/328/0/3936/1968/644/322/60/0/109fb13_ftp-1-dslohpcryvlu-cab0255182f64d2aaa6e01f09e54089c-0-8b7ca38b58924ac8b67b3f451b64b183.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans le parc national du Grand Canyon (Etats-Unis) après la crue soudaine. Le 30 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Katherine Hensel/National Park Service/AP"
+      }
+    ],
+    "credit": "Katherine Hensel/National Park Service/AP"
+  }
+}
