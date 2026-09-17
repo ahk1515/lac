@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-17T09:13:11.276488+00:00",
+  "_id": "7f3254f9f9dc",
+  "brut": {
+    "title": "PODCAST. La colère monte, Mbappé répond aux Espagnols scandalisés et le Canada membre de l'UE ? Ça dit quoi ce 17 septembre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PODCAST. La colère monte, Mbappé répond aux Espagnols scandalisés et le Canada membre de l'UE ? Ça dit quoi ce 17 septembre ?"
+    },
+    "summary": "Ce jeudi 17 septembre, la colère monte face aux prix des carburants, Kylian Mbappé s'exprime après avoir créé une polémique en Espagne et personne ne sait ce qu'est un \"membre associé\" de l'UE.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce jeudi 17 septembre, la colère monte face aux prix des carburants, Kylian Mbappé s'exprime après avoir créé une polémique en Espagne et personne ne sait ce qu'est un \"membre associé\" de l'UE."
+    },
+    "published": "Thu, 17 Sep 2026 08:55:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      6,
+      55,
+      10,
+      3,
+      260,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-colere-monte-mbappe-repond-aux-espagnols-scandalises-et-le-canada-membre-de-l-ue-ca-dit-quoi-ce-17-septembre_8187311.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/AZuWkxwKCKm4_LSW1xoF93nZDxc/0x11:1024x587/432x243/filters:format(jpg)/2026/09/15/6aa8e572de0f4577345236.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-colere-monte-mbappe-repond-aux-espagnols-scandalises-et-le-canada-membre-de-l-ue-ca-dit-quoi-ce-17-septembre_8187311.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-colere-monte-mbappe-repond-aux-espagnols-scandalises-et-le-canada-membre-de-l-ue-ca-dit-quoi-ce-17-septembre_8187311.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

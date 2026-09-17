@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T09:13:11.064901+00:00",
+  "_id": "37f8224b01b5",
+  "brut": {
+    "title": "En Russie, les antiguerre tentent de résister face à la machine électorale de Vladimir Poutine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Russie, les antiguerre tentent de résister face à la machine électorale de Vladimir Poutine"
+    },
+    "published": "Thu, 17 Sep 2026 07:00:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      5,
+      0,
+      10,
+      3,
+      260,
+      0
+    ],
+    "summary": "Orchestrées et contrôlées par le Kremlin, les élections législatives, qui doivent se tenir du 18 au 20 septembre, sont gagnées d’avance par Russie unie, le parti du président Vladimir Poutine. Malgré la répression, des Russes veulent utiliser ce scrutin pour s’exprimer contre le régime et la guerre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Orchestrées et contrôlées par le Kremlin, les élections législatives, qui doivent se tenir du 18 au 20 septembre, sont gagnées d’avance par Russie unie, le parti du président Vladimir Poutine. Malgré la répression, des Russes veulent utiliser ce scrutin pour s’exprimer contre le régime et la guerre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/17/en-russie-les-antiguerre-tentent-de-resister-face-a-la-machine-electorale-de-vladimir-poutine_6776011_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/17/en-russie-les-antiguerre-tentent-de-resister-face-a-la-machine-electorale-de-vladimir-poutine_6776011_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/17/en-russie-les-antiguerre-tentent-de-resister-face-a-la-machine-electorale-de-vladimir-poutine_6776011_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/03/521/0/5181/2590/644/322/60/0/7823c2a_ftp-1-xqm5jmlb5tic-2026-09-03t181446z-859214593-rc2tbnar7w42-rtrmadp-3-russia-rights-war.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lida Moniava, fondatrice d’une organisation humanitaire pour enfants malades, après une audience au tribunal, à Moscou, le 3 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anastasia Barashkova/REUTERS"
+      }
+    ],
+    "credit": "Anastasia Barashkova/REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-17T09:13:11.277009+00:00",
+  "_id": "01bd1e5c81fe",
+  "brut": {
+    "title": "Les États-Unis reconnaissent avoir des armes dans l’espace",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les États-Unis reconnaissent avoir des armes dans l’espace"
+    },
+    "summary": "Washington a admis disposer d’armes déployées en orbite autour de la Terre, notamment capables de détruire des satellites ennemis. Une reconnaissance qui inquiète la Russie et la Chine et pourrait relancer une course aux armements dans l’espace.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Washington a admis disposer d’armes déployées en orbite autour de la Terre, notamment capables de détruire des satellites ennemis. Une reconnaissance qui inquiète la Russie et la Chine et pourrait relancer une course aux armements dans l’espace."
+    },
+    "published": "Thu, 17 Sep 2026 07:50:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      5,
+      50,
+      20,
+      3,
+      260,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/les-etats-unis-reconnaissent-avoir-des-armes-dans-l-espace_8174582.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/mk4ie2NfYS1lUQ4xW9Bu_bPKJzY/0x173:3320x2040/432x243/filters:format(jpg)/2026/09/17/6aab6dfd9e9c3256382078.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/les-etats-unis-reconnaissent-avoir-des-armes-dans-l-espace_8174582.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/les-etats-unis-reconnaissent-avoir-des-armes-dans-l-espace_8174582.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T09:13:11.064158+00:00",
+  "_id": "8c5705c15f94",
+  "brut": {
+    "title": "« Super El Niño » : dans le sud de l’Angola, le spectre d’une nouvelle sécheresse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Super El Niño » : dans le sud de l’Angola, le spectre d’une nouvelle sécheresse"
+    },
+    "published": "Thu, 17 Sep 2026 10:11:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      8,
+      11,
+      42,
+      3,
+      260,
+      0
+    ],
+    "summary": "Depuis une dizaine d’années, l’Afrique australe est aux premières loges du dérèglement climatique. Un phénomène qui pourrait s’aggraver avec le phénomène océanographique, provoquant la baisse des précipitations et donc des récoltes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis une dizaine d’années, l’Afrique australe est aux premières loges du dérèglement climatique. Un phénomène qui pourrait s’aggraver avec le phénomène océanographique, provoquant la baisse des précipitations et donc des récoltes."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/17/super-el-nino-dans-le-sud-de-l-angola-le-spectre-d-une-nouvelle-secheresse_6776218_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/17/super-el-nino-dans-le-sud-de-l-angola-le-spectre-d-une-nouvelle-secheresse_6776218_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/17/super-el-nino-dans-le-sud-de-l-angola-le-spectre-d-une-nouvelle-secheresse_6776218_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/432/0/5184/2592/644/322/60/0/1fc751a_upload-1-jdhog5zddk25-000-1p64m2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un champ dans un village près de Lubango, en Angola, le 16 février 2020. La province de Huila avait déjà alors été frappée par une sécheresse qui a asséché la plupart des sources d’eau et dévasté les récoltes dans toute la région de l’Afrique australe."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OSVALDO SILVA/AFP"
+      }
+    ],
+    "credit": "OSVALDO SILVA/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-17T09:13:11.276841+00:00",
+  "_id": "3edad77c863d",
+  "brut": {
+    "title": "Froid, électricité, proximité de la Chine... La Sibérie, nouvel eldorado des data centers russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Froid, électricité, proximité de la Chine... La Sibérie, nouvel eldorado des data centers russes"
+    },
+    "summary": "Avec son climat glacial, ses importantes ressources énergétiques et sa situation géographique proche de la Chine, la Sibérie attire les projets russes de centres de données. Un déplacement vers l'Est qui répond à l'explosion des besoins liés à l'intelligence artificielle, mais aussi aux difficultés technologiques de la Russie sous sanctions occidentales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avec son climat glacial, ses importantes ressources énergétiques et sa situation géographique proche de la Chine, la Sibérie attire les projets russes de centres de données. Un déplacement vers l'Est qui répond à l'explosion des besoins liés à l'intelligence artificielle, mais aussi aux difficultés technologiques de la Russie sous sanctions occidentales."
+    },
+    "published": "Thu, 17 Sep 2026 08:20:27 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      17,
+      6,
+      20,
+      27,
+      3,
+      260,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/froid-electricite-proximite-de-la-chine-la-siberie-nouvel-eldorado-des-data-centers-russes_8191940.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HNfXKjkHk7jRpalkn74MT0iqK1I/833x0:6166x3000/432x243/filters:format(jpg)/2026/09/17/6aab861c3b190694729798.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/froid-electricite-proximite-de-la-chine-la-siberie-nouvel-eldorado-des-data-centers-russes_8191940.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/froid-electricite-proximite-de-la-chine-la-siberie-nouvel-eldorado-des-data-centers-russes_8191940.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
