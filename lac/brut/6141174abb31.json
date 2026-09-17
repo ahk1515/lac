@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-17T03:33:38.477435+00:00",
+  "_id": "6141174abb31",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : visée par des missiles, la ville de Kiev déclenche l’« alerte rouge »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : visée par des missiles, la ville de Kiev déclenche l’« alerte rouge »"
+    },
+    "published": "Thu, 17 Sep 2026 01:12:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      16,
+      23,
+      12,
+      0,
+      2,
+      259,
+      0
+    ],
+    "updated": "Thu, 17 Sep 2026 02:29:20 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      17,
+      0,
+      29,
+      20,
+      3,
+      260,
+      0
+    ],
+    "summary": "Selon le maire de la capitale ukrainienne, Vitali Klitschko, un immeuble d’habitation ainsi que différents autres bâtiments ont été touchés par des débris de projectiles. A Odessa, un immeuble d’habitation de 19 étages a par ailleurs été endommagé par une « attaque nocturne ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le maire de la capitale ukrainienne, Vitali Klitschko, un immeuble d’habitation ainsi que différents autres bâtiments ont été touchés par des débris de projectiles. A Odessa, un immeuble d’habitation de 19 étages a par ailleurs été endommagé par une « attaque nocturne »."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/17/en-direct-guerre-en-ukraine-le-congres-americain-adopte-un-ensemble-de-sanctions-contre-la-russie_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/17/en-direct-guerre-en-ukraine-le-congres-americain-adopte-un-ensemble-de-sanctions-contre-la-russie_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/17/en-direct-guerre-en-ukraine-le-congres-americain-adopte-un-ensemble-de-sanctions-contre-la-russie_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/696/0/8256/4128/644/322/60/0/ad7e893_ftp-1-czmirhpwkqs0-5096243-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes déposent des fleurs devant les portraits de leurs proches, des combattants de la brigade Azov morts au combat, qui ont été installés sur la place Sainte-Sophie, dans le centre de Kiev, le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGEI SUPINSKY/AFP"
+      }
+    ],
+    "credit": "SERGEI SUPINSKY/AFP"
+  }
+}
