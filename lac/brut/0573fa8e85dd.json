@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T08:46:14.320030+00:00",
+  "_id": "0573fa8e85dd",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les élections débutent en Russie, alors que des dizaines de drones ukrainiens ont été abattus cette nuit dans la région de Moscou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les élections débutent en Russie, alors que des dizaines de drones ukrainiens ont été abattus cette nuit dans la région de Moscou"
+    },
+    "published": "Fri, 18 Sep 2026 06:59:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      4,
+      59,
+      7,
+      4,
+      261,
+      0
+    ],
+    "updated": "Fri, 18 Sep 2026 10:06:09 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      18,
+      8,
+      6,
+      9,
+      4,
+      261,
+      0
+    ],
+    "summary": "A partir vendredi se tiennent trois jours de scrutin en Russie pour des élections législatives et locales, un scrutin acquis au parti Russie unie de Vladimir Poutine en l’absence de véritable opposition.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A partir vendredi se tiennent trois jours de scrutin en Russie pour des élections législatives et locales, un scrutin acquis au parti Russie unie de Vladimir Poutine en l’absence de véritable opposition."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-des-dizaines-de-drones-ukrainiens-visant-moscou-et-sa-region-ont-ete-abattus_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-des-dizaines-de-drones-ukrainiens-visant-moscou-et-sa-region-ont-ete-abattus_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-des-dizaines-de-drones-ukrainiens-visant-moscou-et-sa-region-ont-ete-abattus_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/682/0/8184/4092/644/322/60/0/4c59f4d_ftp-1-ns2f32pbagli-51624df53c9d42d584291f97beacb4df-0-4030621e257446cfa380d5b08a979247.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un bureau de vote à Moscou, le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alexander Zemlianichenko / AP Photo/Alexander Zemlianichenko"
+      }
+    ],
+    "credit": "Alexander Zemlianichenko / AP Photo/Alexander Zemlianichenko"
+  }
+}

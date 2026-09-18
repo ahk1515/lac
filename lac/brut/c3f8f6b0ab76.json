@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T08:46:14.319267+00:00",
+  "_id": "c3f8f6b0ab76",
+  "brut": {
+    "title": "Le Danemark inaugure l’un des premiers sites de stockage européen de CO₂",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Danemark inaugure l’un des premiers sites de stockage européen de CO₂"
+    },
+    "published": "Fri, 18 Sep 2026 10:40:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      8,
+      40,
+      46,
+      4,
+      261,
+      0
+    ],
+    "summary": "Dans sa première phase, le projet doit permettre de stocker 400 000 tonnes de CO₂ par an. Ensuite, Ineos prévoit d’injecter 4 à 8 millions de tonnes annuelles, d’ici 2030.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans sa première phase, le projet doit permettre de stocker 400 000 tonnes de CO₂ par an. Ensuite, Ineos prévoit d’injecter 4 à 8 millions de tonnes annuelles, d’ici 2030."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/18/le-danemark-inaugure-l-un-des-premiers-sites-de-stockage-europeen-de-co_6776757_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/18/le-danemark-inaugure-l-un-des-premiers-sites-de-stockage-europeen-de-co_6776757_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/18/le-danemark-inaugure-l-un-des-premiers-sites-de-stockage-europeen-de-co_6776757_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/664/0/7971/3985/644/322/60/0/d7d01de_upload-1-i2akygcls2jx-000-87fe8eh.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur le chantier de construction du terminal Greensand, à Esbjerg, au Danemark, en novembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JONATHAN NACKSTRAND/AFP"
+      }
+    ],
+    "credit": "JONATHAN NACKSTRAND/AFP"
+  }
+}

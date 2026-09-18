@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T08:46:14.320413+00:00",
+  "_id": "b6abdfb3aa18",
+  "brut": {
+    "title": "Qui sont les houthistes du Yémen ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Qui sont les houthistes du Yémen ?"
+    },
+    "published": "Fri, 18 Sep 2026 06:30:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      4,
+      30,
+      16,
+      4,
+      261,
+      0
+    ],
+    "summary": "En prenant le contrôle du détroit de Bab Al-Mandab, l’un des passages maritimes les plus stratégiques au monde, le groupe yéménite a accru son poids stratégique dans la région et fait désormais planer une nouvelle menace sur l’économie mondiale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En prenant le contrôle du détroit de Bab Al-Mandab, l’un des passages maritimes les plus stratégiques au monde, le groupe yéménite a accru son poids stratégique dans la région et fait désormais planer une nouvelle menace sur l’économie mondiale."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/09/18/qui-sont-les-houthistes-du-yemen_6776739_4355770.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/18/qui-sont-les-houthistes-du-yemen_6776739_4355770.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/09/18/qui-sont-les-houthistes-du-yemen_6776739_4355770.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/0/511/3046/1523/644/322/60/0/67aef1f_ftp-1-o4v1ni2ujpvc-2026-09-15t161837z-885051521-rc2sjnarfvnw-rtrmadp-3-iran-crisis-yemen-houthi.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des combattants houthistes attaquent les forces soutenues par l’Arabie saoudite dans le gouvernorat d’Al-Jawf (Yémen), capture d’écran tirée d’une vidéo diffusée le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MÉDIAS MILITAIRES DES HOUTHIS via REUTERS"
+      }
+    ],
+    "credit": "MÉDIAS MILITAIRES DES HOUTHIS via REUTERS"
+  }
+}

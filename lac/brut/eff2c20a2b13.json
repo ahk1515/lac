@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-18T08:46:14.678117+00:00",
+  "_id": "eff2c20a2b13",
+  "brut": {
+    "title": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude"
+    },
+    "summary": "En France, la couverture vaccinale a augmenté pour quatre vaccins et diminué pour trois autres.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En France, la couverture vaccinale a augmenté pour quatre vaccins et diminué pour trois autres."
+    },
+    "published": "Fri, 18 Sep 2026 10:37:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      8,
+      37,
+      34,
+      4,
+      261,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6CIBkFwpIEAkPuPZvFtaawB7TQ8/0x1:1024x577/432x243/filters:format(jpg)/2026/09/18/6aaceeb0e9940235682047.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
