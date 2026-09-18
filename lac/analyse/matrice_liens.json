@@ -7,7 +7,7 @@
   {
     "pays_a": "IRN",
     "pays_b": "USA",
-    "co_citations": 337
+    "co_citations": 338
   },
   {
     "pays_a": "ISR",
@@ -260,6 +260,11 @@
     "co_citations": 5
   },
   {
+    "pays_a": "MLI",
+    "pays_b": "RUS",
+    "co_citations": 5
+  },
+  {
     "pays_a": "DZA",
     "pays_b": "MLI",
     "co_citations": 5
@@ -292,11 +297,6 @@
   {
     "pays_a": "DEU",
     "pays_b": "ISR",
-    "co_citations": 4
-  },
-  {
-    "pays_a": "MLI",
-    "pays_b": "RUS",
     "co_citations": 4
   },
   {

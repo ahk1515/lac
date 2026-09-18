@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-18T22:18:58.371653+00:00",
+  "_id": "8d92883c04d2",
+  "brut": {
+    "title": "Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland"
+    },
+    "summary": "Les Etats-Unis vont \"immédiatement lancer le processus de développement d'une importante présence militaire\" au Groenland, a annoncé le président américain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Etats-Unis vont \"immédiatement lancer le processus de développement d'une importante présence militaire\" au Groenland, a annoncé le président américain."
+    },
+    "published": "Sat, 19 Sep 2026 00:12:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      22,
+      12,
+      49,
+      4,
+      261,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/1sELIu6FFUBg4z4KMoMNAkLslu4/0x80:1024x656/432x243/filters:format(jpg)/2026/09/19/6aadb64af2a2b534145118.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

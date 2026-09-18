@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-18T22:18:58.372202+00:00",
+  "_id": "605ab67265c4",
+  "brut": {
+    "title": "Les photos inédites des frappes iraniennes sur des bases américaines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les photos inédites des frappes iraniennes sur des bases américaines"
+    },
+    "summary": "🇺🇸 Quel est le coût réel de la guerre en Iran pour les États-Unis ? Des sources militaires anonymes ont envoyé à des médias des photos inédites de dégâts sur des bases américaines au Moyen-Orient, relançant le débat sur le coût réel de cette guerre lancée il y a 6 mois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇺🇸 Quel est le coût réel de la guerre en Iran pour les États-Unis ? Des sources militaires anonymes ont envoyé à des médias des photos inédites de dégâts sur des bases américaines au Moyen-Orient, relançant le débat sur le coût réel de cette guerre lancée il y a 6 mois."
+    },
+    "published": "Fri, 18 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      20,
+      0,
+      2,
+      4,
+      261,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/les-photos-inedites-des-frappes-iraniennes-sur-des-bases-americaines_8199671.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/LdFd4KYW_VJPuis9agZ4iflC_ac/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad6d277bfc5387080803.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/les-photos-inedites-des-frappes-iraniennes-sur-des-bases-americaines_8199671.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/les-photos-inedites-des-frappes-iraniennes-sur-des-bases-americaines_8199671.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

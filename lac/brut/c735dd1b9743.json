@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T22:18:58.204287+00:00",
+  "_id": "c735dd1b9743",
+  "brut": {
+    "title": "En Allemagne, le gouvernement annonce des mesures d’allègement sur le prix du carburant",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, le gouvernement annonce des mesures d’allègement sur le prix du carburant"
+    },
+    "published": "Fri, 18 Sep 2026 22:08:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      20,
+      8,
+      8,
+      4,
+      261,
+      0
+    ],
+    "summary": "Le chancelier Friedrich Merz avait promis d’apporter des solutions pour soulager les Allemands étranglés par les prix à la pompe, en raison des perturbations du marché mondial provoquées par la guerre au Moyen-Orient.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chancelier Friedrich Merz avait promis d’apporter des solutions pour soulager les Allemands étranglés par les prix à la pompe, en raison des perturbations du marché mondial provoquées par la guerre au Moyen-Orient."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/18/en-allemagne-le-gouvernement-annonce-des-mesures-d-allegement-sur-le-prix-du-carburant_6776844_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/18/en-allemagne-le-gouvernement-annonce-des-mesures-d-allegement-sur-le-prix-du-carburant_6776844_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/18/en-allemagne-le-gouvernement-annonce-des-mesures-d-allegement-sur-le-prix-du-carburant_6776844_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/532/0/6400/3200/644/322/60/0/51337a9_ftp-1-ou0kmnnfsa4u-5113063-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Friedrich Merz lors d’un événement de campagne pour la tête de liste du parti conservateur Union chrétienne-démocrate (CDU) aux élections régionales de Berlin, au siège de la CDU à Berlin (Allemagne), le 17 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHN MACDOUGALL/AFP"
+      }
+    ],
+    "credit": "JOHN MACDOUGALL/AFP"
+  }
+}
