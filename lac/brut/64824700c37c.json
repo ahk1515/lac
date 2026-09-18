@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T18:52:59.686012+00:00",
+  "_id": "64824700c37c",
+  "brut": {
+    "title": "Dans le centre du Mali, les djihadistes du GSIM relancent des offensives d’envergure",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le centre du Mali, les djihadistes du GSIM relancent des offensives d’envergure"
+    },
+    "published": "Fri, 18 Sep 2026 18:00:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      16,
+      0,
+      6,
+      4,
+      261,
+      0
+    ],
+    "updated": "Fri, 18 Sep 2026 19:04:40 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      18,
+      17,
+      4,
+      40,
+      4,
+      261,
+      0
+    ],
+    "summary": "Trois attaques importantes d’installations militaires, intervenues coup sur coup, confirment le danger que fait peser la franchise sahélienne d’Al-Qaida sur la junte de Bamako.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois attaques importantes d’installations militaires, intervenues coup sur coup, confirment le danger que fait peser la franchise sahélienne d’Al-Qaida sur la junte de Bamako."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/18/dans-le-centre-du-mali-les-djihadistes-du-gsim-relancent-des-offensives-d-envergure_6776819_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/18/dans-le-centre-du-mali-les-djihadistes-du-gsim-relancent-des-offensives-d-envergure_6776819_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/18/dans-le-centre-du-mali-les-djihadistes-du-gsim-relancent-des-offensives-d-envergure_6776819_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/95/0/5106/2553/644/322/60/0/485d9a3_upload-1-j65htzwhzuf0-capture-d-e-cran-2026-09-18-a-16-58-42.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’une vidéo de propagande diffusée dans la nuit du jeudi 17 au vendredi 18 septembre, par le Groupe de soutien de l’islam et des musulmans (GSIM), la franchise sahélienne d’Al-Qaida, montrant le butin saisi une semaine plus tôt dans le camp militaire de Dioura au Mali."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ORGANE DE PROPAGANDE DU GSIM/X"
+      }
+    ],
+    "credit": "ORGANE DE PROPAGANDE DU GSIM/X"
+  }
+}

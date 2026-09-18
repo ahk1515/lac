@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-18T18:53:00.082806+00:00",
+  "_id": "e915f85be220",
+  "brut": {
+    "title": "Ils dormiront à l'église pour voir le Pape",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ils dormiront à l'église pour voir le Pape"
+    },
+    "summary": "Ils sont près de 600.000 à s’être inscrits pour assister à sa messe à Paris. À huit jours de l’arrivée du pape Léon XIV en France, l’enthousiasme des fidèles oblige les organisateurs à voir plus grand. Un appel aux dons pour financer la visite a aussi été lancé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ils sont près de 600.000 à s’être inscrits pour assister à sa messe à Paris. À huit jours de l’arrivée du pape Léon XIV en France, l’enthousiasme des fidèles oblige les organisateurs à voir plus grand. Un appel aux dons pour financer la visite a aussi été lancé."
+    },
+    "published": "Fri, 18 Sep 2026 19:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      17,
+      0,
+      4,
+      4,
+      261,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/ils-dormiront-a-l-eglise-pour-voir-le-pape_8199302.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gcw79QjPOaUv32RMYDiuoNuajzM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad455bb01c6426860143.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/ils-dormiront-a-l-eglise-pour-voir-le-pape_8199302.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/ils-dormiront-a-l-eglise-pour-voir-le-pape_8199302.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

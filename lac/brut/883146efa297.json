@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-18T18:53:00.082603+00:00",
+  "_id": "883146efa297",
+  "brut": {
+    "title": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone"
+    },
+    "summary": "Le patron de l'Agence internationale de l'énergie atomique a réaffirmé que toute attaque contre une installation nucléaire était \"inacceptable\" et a appelé à une retenue maximale pour éviter le risque d'un accident nucléaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le patron de l'Agence internationale de l'énergie atomique a réaffirmé que toute attaque contre une installation nucléaire était \"inacceptable\" et a appelé à une retenue maximale pour éviter le risque d'un accident nucléaire."
+    },
+    "published": "Fri, 18 Sep 2026 20:03:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      18,
+      3,
+      41,
+      4,
+      261,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/c1xS4BBJkg7wD0hH1T1-LZ_0rMk/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad7135cbde4641660196.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
