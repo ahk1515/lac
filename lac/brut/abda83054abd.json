@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T03:19:17.984762+00:00",
+  "_id": "abda83054abd",
+  "brut": {
+    "title": "Cuisine, business et enfants sauvés : la Chine se donne le beau rôle dans un film à succès",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cuisine, business et enfants sauvés : la Chine se donne le beau rôle dans un film à succès"
+    },
+    "published": "Fri, 18 Sep 2026 03:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      1,
+      0,
+      11,
+      4,
+      261,
+      0
+    ],
+    "summary": "« Bienvenue au restaurant Le Dragon » raconte les péripéties d’un Chinois parti faire fortune au Moyen-Orient, avant d’y être confronté aux affres géopolitiques notamment causées par les Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Bienvenue au restaurant Le Dragon » raconte les péripéties d’un Chinois parti faire fortune au Moyen-Orient, avant d’y être confronté aux affres géopolitiques notamment causées par les Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/18/cuisine-business-et-enfants-sauves-la-chine-se-donne-le-beau-role-dans-un-film-a-succes_6776584_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/18/cuisine-business-et-enfants-sauves-la-chine-se-donne-le-beau-role-dans-un-film-a-succes_6776584_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/18/cuisine-business-et-enfants-sauves-la-chine-se-donne-le-beau-role-dans-un-film-a-succes_6776584_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/852/0/1942/971/644/322/60/0/4c5ec07_upload-1-d8ouyjmoajyc-capture-d-e-cran-2026-09-17-a-3-40-55-pm.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Affiche du film chinois « Bienvenue au restaurant Le Dragon », de Muye Wen."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "IMDB"
+      }
+    ],
+    "credit": "IMDB"
+  }
+}

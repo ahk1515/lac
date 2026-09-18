@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T03:19:17.985071+00:00",
+  "_id": "3a27cb5470d2",
+  "brut": {
+    "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude"
+    },
+    "published": "Fri, 18 Sep 2026 02:00:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      0,
+      0,
+      17,
+      4,
+      261,
+      0
+    ],
+    "updated": "Fri, 18 Sep 2026 02:07:53 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      18,
+      0,
+      7,
+      53,
+      4,
+      261,
+      0
+    ],
+    "summary": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/155/0/5043/2521/644/322/60/0/dc3f8dd_upload-1-dpfswxoyjwa5-000-9xx7hp.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une infirmière administre une dose du vaccin pédiatrique Pfizer-BioNTech contre le Covid-19 à une fillette, à Bastia, le 2 février 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PASCAL POCHARD-CASABIANCA/AFP"
+      }
+    ],
+    "credit": "PASCAL POCHARD-CASABIANCA/AFP"
+  }
+}
