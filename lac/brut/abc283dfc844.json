@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T15:52:42.806915+00:00",
+  "_id": "abc283dfc844",
+  "brut": {
+    "title": "Ceuta : les migrants qui vivaient sur les plages transférés vers des tentes installées dans le port",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ceuta : les migrants qui vivaient sur les plages transférés vers des tentes installées dans le port"
+    },
+    "published": "Fri, 18 Sep 2026 12:00:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      10,
+      0,
+      46,
+      4,
+      261,
+      0
+    ],
+    "updated": "Fri, 18 Sep 2026 15:12:55 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      18,
+      13,
+      12,
+      55,
+      4,
+      261,
+      0
+    ],
+    "summary": "On ignore à ce stade combien de personnes se trouvaient sur les plages de Ceuta mais leur nombre dépasserait la capacité d’accueil de la nouvelle structure du port.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "On ignore à ce stade combien de personnes se trouvaient sur les plages de Ceuta mais leur nombre dépasserait la capacité d’accueil de la nouvelle structure du port."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/18/a-ceuta-le-transfert-de-migrants-des-plages-vers-le-port-de-l-enclave-espagnole-a-debute_6776770_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/18/a-ceuta-le-transfert-de-migrants-des-plages-vers-le-port-de-l-enclave-espagnole-a-debute_6776770_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/18/a-ceuta-le-transfert-de-migrants-des-plages-vers-le-port-de-l-enclave-espagnole-a-debute_6776770_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/374/0/4554/2277/644/322/60/0/d8b8e13_ftp-1-wxqpfs1h0s8y-2026-09-18t111332z-2145463382-rc2klnankz3i-rtrmadp-3-migration-europe-spain-ceuta.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La police escorte des migrants depuis la plage de Benitez pour les transférer vers le camp installé au port de Ceuta (Espagne), le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer/REUTERS"
+      }
+    ],
+    "credit": "Stringer/REUTERS"
+  }
+}

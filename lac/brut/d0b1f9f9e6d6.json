@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T15:52:42.807115+00:00",
+  "_id": "d0b1f9f9e6d6",
+  "brut": {
+    "title": "Au Venezuela, plusieurs portails d’information débloqués après des années de censure",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Venezuela, plusieurs portails d’information débloqués après des années de censure"
+    },
+    "published": "Fri, 18 Sep 2026 11:57:26 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      9,
+      57,
+      26,
+      4,
+      261,
+      0
+    ],
+    "summary": "L’ONG de défense des droits numériques VE Sin Filtro a vérifié l’accès à 17 sites Web. Elle recense encore au moins 188 sites bloqués dans le pays, dont 79 médias.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ONG de défense des droits numériques VE Sin Filtro a vérifié l’accès à 17 sites Web. Elle recense encore au moins 188 sites bloqués dans le pays, dont 79 médias."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/18/au-venezuela-plusieurs-portails-d-information-debloques-apres-des-annees-de-censure_6776768_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/18/au-venezuela-plusieurs-portails-d-information-debloques-apres-des-annees-de-censure_6776768_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/18/au-venezuela-plusieurs-portails-d-information-debloques-apres-des-annees-de-censure_6776768_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/418/0/5015/2507/644/322/60/0/10fb51d_ftp-1-arnju7yhlhf1-5115654-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dinorah Figuera, cheffe de la délégation de l’opposition vénézuélienne, à ​​Caracas, le 17 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JUAN BARRETO / AFP"
+      }
+    ],
+    "credit": "JUAN BARRETO / AFP"
+  }
+}

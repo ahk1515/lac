@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-18T15:52:43.112046+00:00",
+  "_id": "26683dbbcc89",
+  "brut": {
+    "title": "Le Mexique expose le \"Codex Azcatitlan\", un précieux manuscrit conservé en France depuis deux siècles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Mexique expose le \"Codex Azcatitlan\", un précieux manuscrit conservé en France depuis deux siècles"
+    },
+    "summary": "La Bibliothèque nationale de France, qui le détient depuis plus d'un siècle, l'a prêté au Mexique à l'occasion du bicentenaire des relations diplomatiques entre les deux pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Bibliothèque nationale de France, qui le détient depuis plus d'un siècle, l'a prêté au Mexique à l'occasion du bicentenaire des relations diplomatiques entre les deux pays."
+    },
+    "published": "Fri, 18 Sep 2026 11:38:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      9,
+      38,
+      2,
+      4,
+      261,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MeX_-rZ0Ai_YKRY0_kDqrsTi1_I/0x495:7581x4760/432x243/filters:format(jpg)/2026/09/18/6aaceb551aa4a140612314.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

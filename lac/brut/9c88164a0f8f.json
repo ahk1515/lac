@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-18T15:52:42.807499+00:00",
+  "_id": "9c88164a0f8f",
+  "brut": {
+    "title": "Détroit d’Ormuz : le trafic maritime en nette baisse, l’Iran revendique une attaque contre un pétrolier",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Détroit d’Ormuz : le trafic maritime en nette baisse, l’Iran revendique une attaque contre un pétrolier"
+    },
+    "published": "Fri, 18 Sep 2026 11:35:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      9,
+      35,
+      20,
+      4,
+      261,
+      0
+    ],
+    "updated": "Fri, 18 Sep 2026 12:07:02 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      18,
+      10,
+      7,
+      2,
+      4,
+      261,
+      0
+    ],
+    "summary": "Téhéran revendique une frappe délibérée contre un navire battant pavillon togolais, sur fond de chute du trafic maritime régional et de nouveaux raids saoudiens au Yémen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Téhéran revendique une frappe délibérée contre un navire battant pavillon togolais, sur fond de chute du trafic maritime régional et de nouveaux raids saoudiens au Yémen."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/18/moyen-orient-un-petrolier-vise-dans-le-detroit-d-ormuz-le-trafic-maritime-en-net-recul_6776765_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/18/moyen-orient-un-petrolier-vise-dans-le-detroit-d-ormuz-le-trafic-maritime-en-net-recul_6776765_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/18/moyen-orient-un-petrolier-vise-dans-le-detroit-d-ormuz-le-trafic-maritime-en-net-recul_6776765_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/391/0/4696/2348/644/322/60/0/058d1e6_ftp-1-d6lu9x5q0eeb-2026-09-16t034034z-274723842-rc2i9naqip6t-rtrmadp-3-iran-crisis-shipping.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue sur le détroit d’Ormuz à partir des côtes d’Oman, le 31 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-18T15:52:43.110102+00:00",
+  "_id": "481b165b1634",
+  "brut": {
+    "title": "En Espagne, plus de 80 000 hectares sont irrigués avec de l'eau volée, selon une enquête du WWF",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, plus de 80 000 hectares sont irrigués avec de l'eau volée, selon une enquête du WWF"
+    },
+    "summary": "Ce phénomène, souvent impuni, menace des écosystèmes fragiles comme la lagune de Mar Menor ou le parc national de Doñana. Le média public espagnol RTVE revient sur les conclusions d'une étude publiée par le Fonds mondial pour la nature.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce phénomène, souvent impuni, menace des écosystèmes fragiles comme la lagune de Mar Menor ou le parc national de Doñana. Le média public espagnol RTVE revient sur les conclusions d'une étude publiée par le Fonds mondial pour la nature."
+    },
+    "published": "Fri, 18 Sep 2026 17:42:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      15,
+      42,
+      3,
+      4,
+      261,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/en-espagne-plus-de-80-000-hectares-sont-irrigues-avec-de-l-eau-volee-selon-une-enquete-du-wwf_8199143.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xU5EQeyRIIz9-seFzUY7HgN6bEQ/0x0:4000x2250/432x243/filters:format(jpg)/2026/09/18/6aad345c66b72250373144.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-plus-de-80-000-hectares-sont-irrigues-avec-de-l-eau-volee-selon-une-enquete-du-wwf_8199143.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/en-espagne-plus-de-80-000-hectares-sont-irrigues-avec-de-l-eau-volee-selon-une-enquete-du-wwf_8199143.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
