@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T15:24:19.612466+00:00",
+  "_id": "0423e24484c3",
+  "brut": {
+    "title": "La menace russe s'intensifie en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La menace russe s'intensifie en France"
+    },
+    "summary": "Emmanuel Macron a organisé une réunion confidentielle à l’Elysée, vendredi, où ont été reçus les candidats à la présidentielle et chefs de partis. Il a présenté l’état de la menace russe sur les alliés de l’Ukraine, dans un contexte où des attaques, cyberattaques et accidents suspects se multiplient en Europe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron a organisé une réunion confidentielle à l’Elysée, vendredi, où ont été reçus les candidats à la présidentielle et chefs de partis. Il a présenté l’état de la menace russe sur les alliés de l’Ukraine, dans un contexte où des attaques, cyberattaques et accidents suspects se multiplient en Europe."
+    },
+    "published": "Sat, 19 Sep 2026 15:11:57 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      13,
+      11,
+      57,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/la-menace-russe-s-intensifie-en-france_8200754.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4k5FyY8w2WKq4-IpHLp8FLR5o-s/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/19/6aae89a14f5fd984738543.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/la-menace-russe-s-intensifie-en-france_8200754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/la-menace-russe-s-intensifie-en-france_8200754.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

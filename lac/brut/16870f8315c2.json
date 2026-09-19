@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T15:24:19.287225+00:00",
+  "_id": "16870f8315c2",
+  "brut": {
+    "title": "Dans le sud du Liban, le photographe Edouard Elias en immersion avec la Finul",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le sud du Liban, le photographe Edouard Elias en immersion avec la Finul"
+    },
+    "published": "Sat, 19 Sep 2026 14:31:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      12,
+      31,
+      29,
+      5,
+      262,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 15:08:22 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      19,
+      13,
+      8,
+      22,
+      5,
+      262,
+      0
+    ],
+    "summary": "Le photographe Edouard Elias a passé une semaine avec le contingent français de la Force intérimaire des Nations unies au Liban, pour documenter le quotidien de cette mission de maintien de la paix.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le photographe Edouard Elias a passé une semaine avec le contingent français de la Force intérimaire des Nations unies au Liban, pour documenter le quotidien de cette mission de maintien de la paix."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/dans-le-sud-du-liban-le-photographe-edouard-elias-en-immersion-avec-la-finul_6777713_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/dans-le-sud-du-liban-le-photographe-edouard-elias-en-immersion-avec-la-finul_6777713_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/dans-le-sud-du-liban-le-photographe-edouard-elias-en-immersion-avec-la-finul_6777713_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/1099/0/8988/4494/644/322/60/0/b9956cb_upload-1-mjy5kisxzgye-10092026-finul-156.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un mécanicien français en train de réparer un véhicule blindé, sur la base de Deir Kifa (Liban), le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EDOUARD ELIAS POUR « LE MONDE »"
+      }
+    ],
+    "credit": "EDOUARD ELIAS POUR « LE MONDE »"
+  }
+}

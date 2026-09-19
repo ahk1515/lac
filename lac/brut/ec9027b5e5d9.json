@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T15:24:19.613887+00:00",
+  "_id": "ec9027b5e5d9",
+  "brut": {
+    "title": "Donald Trump promulgue une loi imposant de nouvelles sanctions contre la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump promulgue une loi imposant de nouvelles sanctions contre la Russie"
+    },
+    "summary": "Ce texte donne notamment le pouvoir au président américain d'augmenter les droits de douane sur les principaux pays importateurs de gaz et de pétrole russes, dont la Chine et l'Inde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce texte donne notamment le pouvoir au président américain d'augmenter les droits de douane sur les principaux pays importateurs de gaz et de pétrole russes, dont la Chine et l'Inde."
+    },
+    "published": "Sat, 19 Sep 2026 12:46:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      10,
+      46,
+      52,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanctions-contre-la-russie_8200640.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/L87ie8KIwAY42c6f-JLuyCG1d8I/0x53:1024x629/432x243/filters:format(jpg)/2026/09/19/6aae645921fa0665222435.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanctions-contre-la-russie_8200640.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanctions-contre-la-russie_8200640.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

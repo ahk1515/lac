@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T15:24:19.287935+00:00",
+  "_id": "150d716fa628",
+  "brut": {
+    "title": "En Ethiopie, le gouvernement restreint le minage de bitcoins pour préserver les eaux du Nil",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ethiopie, le gouvernement restreint le minage de bitcoins pour préserver les eaux du Nil"
+    },
+    "published": "Sat, 19 Sep 2026 12:00:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      10,
+      0,
+      6,
+      5,
+      262,
+      0
+    ],
+    "summary": "Les entreprises de création de la cryptomonnaie, chinoises pour l’essentiel, sont massivement installées dans le pays, profitant de son fort potentiel hydroélectrique. Mais la sécheresse provoquée par le phénomène océanographique El Niño diminue les capacités des barrages.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les entreprises de création de la cryptomonnaie, chinoises pour l’essentiel, sont massivement installées dans le pays, profitant de son fort potentiel hydroélectrique. Mais la sécheresse provoquée par le phénomène océanographique El Niño diminue les capacités des barrages."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/19/en-ethiopie-le-gouvernement-restreint-le-minage-de-bitcoins-pour-preserver-les-eaux-du-nil_6777639_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/19/en-ethiopie-le-gouvernement-restreint-le-minage-de-bitcoins-pour-preserver-les-eaux-du-nil_6777639_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/19/en-ethiopie-le-gouvernement-restreint-le-minage-de-bitcoins-pour-preserver-les-eaux-du-nil_6777639_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/09/09/459/0/5000/2500/644/322/60/0/731dde5_upload-1-fko9wbkauejv-000-73vw3re.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le grand barrage de la Renaissance lors de la cérémonie de son inauguration à Guba (Ethiopie), le 9 septembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUIS TATO/AFP"
+      }
+    ],
+    "credit": "LUIS TATO/AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T15:24:19.287414+00:00",
+  "_id": "84e4e5a0e79d",
+  "brut": {
+    "title": "En Haïti, les journalistes victimes d’attaques en série : « J’ai toujours pensé que je pourrais être victime des gangs ou des policiers, mais pas de la population »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Haïti, les journalistes victimes d’attaques en série : « J’ai toujours pensé que je pourrais être victime des gangs ou des policiers, mais pas de la population »"
+    },
+    "published": "Sat, 19 Sep 2026 14:00:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      12,
+      0,
+      16,
+      5,
+      262,
+      0
+    ],
+    "summary": "Vendredi 18 septembre, la seule radio locale de Petit-Boucan, dans la commune du Gressier, a cessé d’émettre, après l’assassinat sauvage de son directeur.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vendredi 18 septembre, la seule radio locale de Petit-Boucan, dans la commune du Gressier, a cessé d’émettre, après l’assassinat sauvage de son directeur."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/en-haiti-les-journalistes-victimes-d-attaques-en-serie-j-ai-toujours-pense-que-je-pourrais-etre-victime-des-gangs-ou-des-policiers-mais-pas-de-la-population_6777711_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/en-haiti-les-journalistes-victimes-d-attaques-en-serie-j-ai-toujours-pense-que-je-pourrais-etre-victime-des-gangs-ou-des-policiers-mais-pas-de-la-population_6777711_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/en-haiti-les-journalistes-victimes-d-attaques-en-serie-j-ai-toujours-pense-que-je-pourrais-etre-victime-des-gangs-ou-des-policiers-mais-pas-de-la-population_6777711_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/02/166/0/5000/2500/644/322/60/0/f670140_ftp-1-ee9r8ly4t8ki-2026-09-02t215808z-2063558055-rc25bna92tlm-rtrmadp-3-haiti-violence-funeral.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres de la force de défense locale, lors des funérailles de victimes d’une attaque menée par un gang armé, à Kenscoff (Haïti), le 2 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Patrice Noel/REUTERS"
+      }
+    ],
+    "credit": "Patrice Noel/REUTERS"
+  }
+}

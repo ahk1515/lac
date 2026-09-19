@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T15:24:19.613429+00:00",
+  "_id": "c2d7ac09856f",
+  "brut": {
+    "title": "Réunion à l'Élysée : la menace russe s'intensifie en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Réunion à l'Élysée : la menace russe s'intensifie en France"
+    },
+    "summary": "Emmanuel Macron a organisé une réunion confidentielle à l’Elysée, vendredi 18 septembre, où on était reçus les candidats à la présidentielle et chefs de partis. Il a présenté l’état de la menace russe sur les alliés de l’Ukraine, dans un contexte où des attaques, cyberattaques et accidents suspects se multiplient en Europe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron a organisé une réunion confidentielle à l’Elysée, vendredi 18 septembre, où on était reçus les candidats à la présidentielle et chefs de partis. Il a présenté l’état de la menace russe sur les alliés de l’Ukraine, dans un contexte où des attaques, cyberattaques et accidents suspects se multiplient en Europe."
+    },
+    "published": "Sat, 19 Sep 2026 13:31:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      11,
+      31,
+      9,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/reunion-a-l-elysee-la-menace-russe-s-intensifie-en-france_8200682.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/o0zpqG1BMGw2CuL2NtwpqRDLTrs/0x115:1776x1114/432x243/filters:format(jpg)/2026/09/19/6aae7253503e8159020087.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/reunion-a-l-elysee-la-menace-russe-s-intensifie-en-france_8200682.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/reunion-a-l-elysee-la-menace-russe-s-intensifie-en-france_8200682.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T15:24:19.612230+00:00",
+  "_id": "5dc1425775c3",
+  "brut": {
+    "title": "Au Laos, une Française au chevet des éléphants, en voie de disparition",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Laos, une Française au chevet des éléphants, en voie de disparition"
+    },
+    "summary": "Direction le Laos, où une Française a créé une réserve pour animaux menacés. Il n'en resterait que 800 dans le pays, surnommé le \"royaume du million d’éléphants\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Direction le Laos, où une Française a créé une réserve pour animaux menacés. Il n'en resterait que 800 dans le pays, surnommé le \"royaume du million d’éléphants\"."
+    },
+    "published": "Sat, 19 Sep 2026 15:45:23 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      13,
+      45,
+      23,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/au-laos-une-francaise-au-chevet-des-elephants-en-voie-de-disparition_8200718.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/H8vc1g8g6Qn--r7I5_SG2pbzgaY/0x80:1648x1007/432x243/filters:format(jpg)/2026/09/19/6aae8187eac11572946780.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/au-laos-une-francaise-au-chevet-des-elephants-en-voie-de-disparition_8200718.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/au-laos-une-francaise-au-chevet-des-elephants-en-voie-de-disparition_8200718.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
