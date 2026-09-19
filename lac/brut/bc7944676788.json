@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T08:32:38.216204+00:00",
+  "_id": "bc7944676788",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins quatre morts dans les attaques russes de la nuit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins quatre morts dans les attaques russes de la nuit"
+    },
+    "published": "Sat, 19 Sep 2026 08:58:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      6,
+      58,
+      32,
+      5,
+      262,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 09:59:52 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      19,
+      7,
+      59,
+      52,
+      5,
+      262,
+      0
+    ],
+    "summary": "A Soumy, deux personnes ont été tuées et huit blessées, dont deux enfants, dans le bombardement d’un immeuble résidentiel de neuf étages.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Soumy, deux personnes ont été tuées et huit blessées, dont deux enfants, dans le bombardement d’un immeuble résidentiel de neuf étages."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-les-attaques-russes-dans-la-nuit-de-vendredi-a-samedi_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-les-attaques-russes-dans-la-nuit-de-vendredi-a-samedi_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-les-attaques-russes-dans-la-nuit-de-vendredi-a-samedi_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/118/0/3024/1512/644/322/60/0/b2251a3_ftp-1-aln3gwztbsq1-2026-09-19t050821z-493016060-rc25mnaon5d8-rtrmadp-3-ukraine-crisis-attack-sumy.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un immeuble de Soumy détruit par un bombardement russe apparaît sur une vidéo diffusée par les services de secours ukrainiens, samedi 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Service d’urgence ukrainien via REUTERS"
+      }
+    ],
+    "credit": "Service d’urgence ukrainien via REUTERS"
+  }
+}

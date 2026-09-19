@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T08:32:38.216412+00:00",
+  "_id": "044c4775fd8c",
+  "brut": {
+    "title": "A Ceuta, les centres d’accueil pour migrants sont saturés dès leur ouverture par les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Ceuta, les centres d’accueil pour migrants sont saturés dès leur ouverture par les autorités"
+    },
+    "published": "Sat, 19 Sep 2026 08:30:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      6,
+      30,
+      6,
+      5,
+      262,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 08:31:49 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      19,
+      6,
+      31,
+      49,
+      5,
+      262,
+      0
+    ],
+    "summary": "Cinquante jours après l’afflux dans la ville espagnole de plus de 70 000 immigrés illégaux en provenance du Maroc, Madrid dit avoir créé plus de 6 000 places sous des tentes. Il resterait entre 3 000 et 8 000 personnes à la rue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cinquante jours après l’afflux dans la ville espagnole de plus de 70 000 immigrés illégaux en provenance du Maroc, Madrid dit avoir créé plus de 6 000 places sous des tentes. Il resterait entre 3 000 et 8 000 personnes à la rue."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/a-ceuta-les-centres-d-accueil-pour-migrants-sont-satures-des-leur-ouverture-par-les-autorites_6777362_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/a-ceuta-les-centres-d-accueil-pour-migrants-sont-satures-des-leur-ouverture-par-les-autorites_6777362_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/a-ceuta-les-centres-d-accueil-pour-migrants-sont-satures-des-leur-ouverture-par-les-autorites_6777362_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/391/0/4573/2286/644/322/60/0/b03339d_ftp-1-3olxyvtt3gko-2026-09-18t111331z-40158237-rc2jlnaz6g9e-rtrmadp-3-migration-europe-spain-ceuta.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La police escorte des migrants depuis la plage de Benitez, afin qu’ils soient transférés vers le camp installé dans le port de Ceuta, en Espagne, le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Anna Surinyach/REUTERS"
+      }
+    ],
+    "credit": "Anna Surinyach/REUTERS"
+  }
+}

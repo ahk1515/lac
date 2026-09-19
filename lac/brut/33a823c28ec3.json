@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T08:32:38.447642+00:00",
+  "_id": "33a823c28ec3",
+  "brut": {
+    "title": "Le gouvernement iranien exécute un homme accusé d'avoir transmis à Israël des informations sur des missiles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le gouvernement iranien exécute un homme accusé d'avoir transmis à Israël des informations sur des missiles"
+    },
+    "summary": "Le régime de Téhéran multiplie les arrestations depuis la guerre contre Israël et les Etats-Unis en février.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le régime de Téhéran multiplie les arrestations depuis la guerre contre Israël et les Etats-Unis en février."
+    },
+    "published": "Sat, 19 Sep 2026 09:01:55 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      7,
+      1,
+      55,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/conflit-israel-iran/le-gouvernement-iranien-execute-un-homme-accuse-d-avoir-transmis-a-israel-des-informations-sur-des-missiles_8200400.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/SicsSG4iVPk-YPt2BEya8Nsd-eg/0x325:6240x3835/432x243/filters:format(jpg)/2026/09/19/6aae32904da46553851077.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/conflit-israel-iran/le-gouvernement-iranien-execute-un-homme-accuse-d-avoir-transmis-a-israel-des-informations-sur-des-missiles_8200400.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/conflit-israel-iran/le-gouvernement-iranien-execute-un-homme-accuse-d-avoir-transmis-a-israel-des-informations-sur-des-missiles_8200400.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

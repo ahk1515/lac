@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T08:32:38.216597+00:00",
+  "_id": "776b44738fc3",
+  "brut": {
+    "title": "Pakistan : au moins 31 morts dans l’attaque d’un quartier général de la police à Kohat",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pakistan : au moins 31 morts dans l’attaque d’un quartier général de la police à Kohat"
+    },
+    "published": "Sat, 19 Sep 2026 07:58:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      5,
+      58,
+      2,
+      5,
+      262,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 09:27:24 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      19,
+      7,
+      27,
+      24,
+      5,
+      262,
+      0
+    ],
+    "summary": "L’opération a été revendiquée par les islamistes du Tehrik-e-Taliban Pakistan (TTP). Distinct des talibans afghans mais allié à ces derniers, le groupe est au cœur des tensions entre le Pakistan et l’Afghanistan.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’opération a été revendiquée par les islamistes du Tehrik-e-Taliban Pakistan (TTP). Distinct des talibans afghans mais allié à ces derniers, le groupe est au cœur des tensions entre le Pakistan et l’Afghanistan."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/pakistan-au-moins-31-morts-dans-l-attaque-d-un-quartier-general-de-la-police-a-kohat_6777327_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/pakistan-au-moins-31-morts-dans-l-attaque-d-un-quartier-general-de-la-police-a-kohat_6777327_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/pakistan-au-moins-31-morts-dans-l-attaque-d-un-quartier-general-de-la-police-a-kohat_6777327_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/574/0/6888/3444/644/322/60/0/09f6b59_ftp-1-kd5kpogzkriv-5119629-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des habitants et des militaires se rassemblent sur les lieux d’une explosion survenue au siège de la police de Kohat, dans la province de Khyber Pakhtunkhwa (Pakistan), le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FAROOQ NAEEM / AFP"
+      }
+    ],
+    "credit": "FAROOQ NAEEM / AFP"
+  }
+}
