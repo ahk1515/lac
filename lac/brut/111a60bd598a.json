@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T22:07:26.708817+00:00",
+  "_id": "111a60bd598a",
+  "brut": {
+    "title": "Visite du pape Léon XIV : les préparatifs se poursuivent à une semaine de l'événement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Visite du pape Léon XIV : les préparatifs se poursuivent à une semaine de l'événement"
+    },
+    "summary": "Samedi 26 septembre, ils seront plus de 600 000 sur la place de la Concorde et sur les Champs-Elysées à Paris pour participer à la messe du pape Léon XIV. La veille, il sera au Stade de France puis se rendra à Lourdes et Metz. À une semaine du rendez-vous, les préparatifs se poursuivent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Samedi 26 septembre, ils seront plus de 600 000 sur la place de la Concorde et sur les Champs-Elysées à Paris pour participer à la messe du pape Léon XIV. La veille, il sera au Stade de France puis se rendra à Lourdes et Metz. À une semaine du rendez-vous, les préparatifs se poursuivent."
+    },
+    "published": "Sat, 19 Sep 2026 20:43:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      18,
+      43,
+      44,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/visite-du-pape-leon-xiv-les-preparatifs-se-poursuivent-a-une-semaine-de-l-evenement_8201021.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/T3GZ1GWcDwXi0u3D6TNuiePlL_c/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/19/6aaed6e6e5fac682410047.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/visite-du-pape-leon-xiv-les-preparatifs-se-poursuivent-a-une-semaine-de-l-evenement_8201021.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/visite-du-pape-leon-xiv-les-preparatifs-se-poursuivent-a-une-semaine-de-l-evenement_8201021.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

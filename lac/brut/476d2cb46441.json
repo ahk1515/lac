@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T22:07:26.708455+00:00",
+  "_id": "476d2cb46441",
+  "brut": {
+    "title": "Pourquoi le Canada veut se rapprocher de l'UE ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pourquoi le Canada veut se rapprocher de l'UE ?"
+    },
+    "summary": "🇪🇺🇨🇦 Le Canada, en pleine guerre commerciale avec les Etats-Unis de Donald Trump, cherche de nouveaux partenaires. De son côté, l'Europe, dont les relations avec Washington sont tout aussi houleuses, voit dans le Canada un levier de rééquilibrage entre les deux super-puissances, Chine et Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "🇪🇺🇨🇦 Le Canada, en pleine guerre commerciale avec les Etats-Unis de Donald Trump, cherche de nouveaux partenaires. De son côté, l'Europe, dont les relations avec Washington sont tout aussi houleuses, voit dans le Canada un levier de rééquilibrage entre les deux super-puissances, Chine et Etats-Unis."
+    },
+    "published": "Sat, 19 Sep 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      20,
+      0,
+      1,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/canada/pourquoi-le-canada-veut-se-rapprocher-de-l-ue_8199599.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/IDlODP3MAPeGznT7XAtDoEGJ3Fg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad661e83b6d900281782.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/canada/pourquoi-le-canada-veut-se-rapprocher-de-l-ue_8199599.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/canada/pourquoi-le-canada-veut-se-rapprocher-de-l-ue_8199599.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

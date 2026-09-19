@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T22:07:26.480095+00:00",
+  "_id": "f98f8f5e8b7a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy"
+    },
+    "published": "Sat, 19 Sep 2026 23:22:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      21,
+      22,
+      1,
+      5,
+      262,
+      0
+    ],
+    "summary": "Une voiture a été prise pour cible, samedi, par un drone russe, a annoncé Oleh Hryhorov, chef de l’administration militaire régionale. Par ailleurs, on centre commercial de Dnipro a été en grande partie détruit par un incendie qui s’est déclaré à la suite des tirs de l’armée russe, faisant quatre blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une voiture a été prise pour cible, samedi, par un drone russe, a annoncé Oleh Hryhorov, chef de l’administration militaire régionale. Par ailleurs, on centre commercial de Dnipro a été en grande partie détruit par un incendie qui s’est déclaré à la suite des tirs de l’armée russe, faisant quatre blessés."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/174/0/4716/2358/644/322/60/0/16390b8_ftp-1-ok6yktmrrdxy-2026-09-19t170022z-1360989322-rc2hmnatnnse-rtrmadp-3-ukraine-crisis-attack-dnipro.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Incendie dans un centre commercial touché par une frappe russe, à Dnipro en Ukraine, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer/REUTERS"
+      }
+    ],
+    "credit": "Stringer/REUTERS"
+  }
+}

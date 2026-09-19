@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T22:07:26.708362+00:00",
+  "_id": "094eb53464b8",
+  "brut": {
+    "title": "Les chiffres fous de la visite du pape",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les chiffres fous de la visite du pape"
+    },
+    "summary": "L’État se concentrant sur la sécurité, c’est l'Église de France qui aura la charge des dépenses d’organisation, la conférence des évêques de France a lancé un appel aux donateurs. Alors quel sera le coût de cette visite ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’État se concentrant sur la sécurité, c’est l'Église de France qui aura la charge des dépenses d’organisation, la conférence des évêques de France a lancé un appel aux donateurs. Alors quel sera le coût de cette visite ?"
+    },
+    "published": "Sat, 19 Sep 2026 22:30:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      20,
+      30,
+      2,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-chiffres-fous-de-la-visite-du-pape_8201084.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zLpAfzyuLMXSpInEFDzhI5BW8k8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/19/6aaee9244a2c9859626111.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-chiffres-fous-de-la-visite-du-pape_8201084.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-chiffres-fous-de-la-visite-du-pape_8201084.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
