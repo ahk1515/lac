@@ -1,0 +1,44 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T18:25:19.698231+00:00",
+  "_id": "781d2d548136",
+  "brut": {
+    "title": "Claude Guibal dans Le monde d'Elodie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Claude Guibal dans Le monde d'Elodie"
+    },
+    "summary": "Claude Guibal, grand reporter à Radio France, raconte ces histoires improbables de la guerre. Dans l’horreur, on a sans doute jamais autant besoin de se sentir vivant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Claude Guibal, grand reporter à Radio France, raconte ces histoires improbables de la guerre. Dans l’horreur, on a sans doute jamais autant besoin de se sentir vivant."
+    },
+    "published": "Sat, 19 Sep 2026 20:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      18,
+      0,
+      2,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-de-marie/claude-guibal-dans-le-monde-d-elodie_8199008.html#xtor=RSS-3-%5Bgeneral%5D"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-de-marie/claude-guibal-dans-le-monde-d-elodie_8199008.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-de-marie/claude-guibal-dans-le-monde-d-elodie_8199008.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-19T18:25:19.698630+00:00",
+  "_id": "11caf1319a4d",
+  "brut": {
+    "title": "Des explosions entendues près de l'aéroport de Riyad en Arabie Saoudite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des explosions entendues près de l'aéroport de Riyad en Arabie Saoudite"
+    },
+    "summary": "Des \"perturbations majeures\" ont affecté l'aéroport de Riyad, après des explosions entendues dans la capitale de l'Arabie saoudite. Dans la nuit, les autorités avaient émis des alertes de risque d'attaques dans la capitale, pour la première fois depuis la reprise des hostilités avec les houthis du Yémen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des \"perturbations majeures\" ont affecté l'aéroport de Riyad, après des explosions entendues dans la capitale de l'Arabie saoudite. Dans la nuit, les autorités avaient émis des alertes de risque d'attaques dans la capitale, pour la première fois depuis la reprise des hostilités avec les houthis du Yémen."
+    },
+    "published": "Sat, 19 Sep 2026 18:02:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      16,
+      2,
+      54,
+      5,
+      262,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/moyen-orient/des-explosions-entendues-pres-de-l-aeroport-de-riyad-en-arabie-saoudite_8200913.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0IxDiAPqAB5pQsX5gTpHpM4YxSo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/19/6aaeb1d151ff6010267710.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/moyen-orient/des-explosions-entendues-pres-de-l-aeroport-de-riyad-en-arabie-saoudite_8200913.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/moyen-orient/des-explosions-entendues-pres-de-l-aeroport-de-riyad-en-arabie-saoudite_8200913.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

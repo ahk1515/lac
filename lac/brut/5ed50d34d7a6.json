@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T18:25:19.475011+00:00",
+  "_id": "5ed50d34d7a6",
+  "brut": {
+    "title": "A La Haye, des saluts hitlériens et des slogans antisémites lors d’une marche d’extrême droite interdite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A La Haye, des saluts hitlériens et des slogans antisémites lors d’une marche d’extrême droite interdite"
+    },
+    "published": "Sat, 19 Sep 2026 17:39:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      15,
+      39,
+      1,
+      5,
+      262,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 17:48:25 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      19,
+      15,
+      48,
+      25,
+      5,
+      262,
+      0
+    ],
+    "summary": "Les policiers néerlandais ont chargé les manifestants à coups de matraque pour les disperser, avant d’interpeller plusieurs personnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les policiers néerlandais ont chargé les manifestants à coups de matraque pour les disperser, avant d’interpeller plusieurs personnes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/pays-bas-le-ministre-de-la-justice-denonce-des-saluts-hitleriens-et-des-slogans-antisemites-lors-d-une-manifestation-d-extreme-droite_6777795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/pays-bas-le-ministre-de-la-justice-denonce-des-saluts-hitleriens-et-des-slogans-antisemites-lors-d-une-manifestation-d-extreme-droite_6777795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/pays-bas-le-ministre-de-la-justice-denonce-des-saluts-hitleriens-et-des-slogans-antisemites-lors-d-une-manifestation-d-extreme-droite_6777795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/732/0/5457/2728/644/322/60/0/67a5e23_ftp-1-c0rpxqyzglcz-52c38233950b4f118e837f24a4c4d3aa-0-3ebcf30589bc4ac6aa0a4a594bb6aac5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation organisée par des groupes d’extrême droite contre les politiques d’immigration et d’asile, à La Haye (Pays-Bas), le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mouneb Taim/AP"
+      }
+    ],
+    "credit": "Mouneb Taim/AP"
+  }
+}

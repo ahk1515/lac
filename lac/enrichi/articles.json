@@ -27827,6 +27827,55 @@
     ]
   },
   {
+    "date": "Sat, 19 Sep 2026 20:00:02 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Claude Guibal dans Le monde d'Elodie",
+    "texte": "Claude Guibal, grand reporter à Radio France, raconte ces histoires improbables de la guerre. Dans l’horreur, on a sans doute jamais autant besoin de se sentir vivant.",
+    "url": "https://www.franceinfo.fr/replay-radio/le-monde-de-marie/claude-guibal-dans-le-monde-d-elodie_8199008.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "781d2d548136",
+    "pays": [
+      "FRA"
+    ]
+  },
+  {
+    "date": "Sat, 19 Sep 2026 18:09:42 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Auchan, Nestlé… On vous explique la prise de contrôle par la Russie des actifs de filiales d'entreprises européennes",
+    "texte": "Vladimir Poutine a placé jeudi plusieurs entreprises occidentales sous \"administration temporaire\", une mesure présentée par le Kremlin comme une riposte au soutien occidental à l'Ukraine.",
+    "url": "https://www.franceinfo.fr/monde/russie/auchan-nestle-on-vous-explique-la-prise-de-controle-par-la-russie-des-actifs-de-filiales-d-entreprises-europeennes_8200646.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "0df50c3e3af7",
+    "pays": [
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "date": "Sat, 19 Sep 2026 18:02:54 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Des explosions entendues près de l'aéroport de Riyad en Arabie Saoudite",
+    "texte": "Des \"perturbations majeures\" ont affecté l'aéroport de Riyad, après des explosions entendues dans la capitale de l'Arabie saoudite. Dans la nuit, les autorités avaient émis des alertes de risque d'attaques dans la capitale, pour la première fois depuis la reprise des hostilités avec les houthis du Yémen.",
+    "url": "https://www.franceinfo.fr/monde/moyen-orient/des-explosions-entendues-pres-de-l-aeroport-de-riyad-en-arabie-saoudite_8200913.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "11caf1319a4d",
+    "pays": []
+  },
+  {
+    "date": "Sat, 19 Sep 2026 17:20:01 +0200",
+    "source": "franceinfo_monde",
+    "type": "news",
+    "titre": "Américains, Russes, Chinois... et Européens : les grandes puissances s'intéressent de plus en plus au grand Nord",
+    "texte": "Alors que Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland, l'Union européenne doit-elle accroître sa présence dans l'Arctique ?",
+    "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/americains-russes-chinois-et-europeens-les-grandes-puissances-s-interessent-de-plus-en-plus-au-grand-nord_8178077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "9c742a76551b",
+    "pays": [
+      "CHN",
+      "RUS",
+      "USA"
+    ]
+  },
+  {
     "date": "Thu, 09 Jul 2026 12:24:38 +0200",
     "source": "lemonde_intl",
     "type": "news",
@@ -62299,5 +62348,37 @@
     "pays": [
       "USA"
     ]
+  },
+  {
+    "date": "Sat, 19 Sep 2026 19:44:01 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "Arabie saoudite : les houthistes revendiquent des attaques sur Riyad au lendemain d’alertes aériennes",
+    "texte": "De fortes détonations ont retenti dans la matinée de samedi. Le royaume subit ces derniers jours la pression des combattants houthistes au Yémen, mais c’est la première fois que la capitale saoudienne est concernée par une alerte.",
+    "url": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-les-houthistes-revendiquent-des-attaques-sur-riyad-au-lendemain-d-alertes-aeriennes_6777045_3211.html",
+    "id": "9eaed43477a3",
+    "pays": []
+  },
+  {
+    "date": "Sat, 19 Sep 2026 18:10:02 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "CNN, MS NOW et « Politico » effectivement interdits d’entrer à la Maison Blanche après l’annonce de Donald Trump",
+    "texte": "Le président américain reproche à ces médias de diffuser en permanence de « fausses informations » à son sujet. La décision, largement condamnée comme une atteinte à la liberté de la presse, marque une intensification spectaculaire de son offensive contre les journalistes.",
+    "url": "https://www.lemonde.fr/international/article/2026/09/19/cnn-ms-now-et-politico-effectivement-interdits-d-entrer-a-la-maison-blanche-apres-l-annonce-de-donald-trump_6777832_3210.html",
+    "id": "423aadddf347",
+    "pays": [
+      "USA"
+    ]
+  },
+  {
+    "date": "Sat, 19 Sep 2026 17:39:01 +0200",
+    "source": "lemonde_intl",
+    "type": "news",
+    "titre": "A La Haye, des saluts hitlériens et des slogans antisémites lors d’une marche d’extrême droite interdite",
+    "texte": "Les policiers néerlandais ont chargé les manifestants à coups de matraque pour les disperser, avant d’interpeller plusieurs personnes.",
+    "url": "https://www.lemonde.fr/international/article/2026/09/19/pays-bas-le-ministre-de-la-justice-denonce-des-saluts-hitleriens-et-des-slogans-antisemites-lors-d-une-manifestation-d-extreme-droite_6777795_3210.html",
+    "id": "5ed50d34d7a6",
+    "pays": []
   }
 ]
