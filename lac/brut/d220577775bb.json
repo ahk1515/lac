@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T03:15:37.064179+00:00",
+  "_id": "d220577775bb",
+  "brut": {
+    "title": "Arabie saoudite : des explosions entendues à Riyad après une alerte aérienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Arabie saoudite : des explosions entendues à Riyad après une alerte aérienne"
+    },
+    "published": "Sat, 19 Sep 2026 03:30:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      1,
+      30,
+      20,
+      5,
+      262,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 04:54:57 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      19,
+      2,
+      54,
+      57,
+      5,
+      262,
+      0
+    ],
+    "summary": "Ces fortes détonations ont retenti tôt, samedi. Le royaume subit ces derniers jours la pression des combattants houthistes du Yémen, mais c’est la première fois que la capitale saoudienne est concernée par une alerte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces fortes détonations ont retenti tôt, samedi. Le royaume subit ces derniers jours la pression des combattants houthistes du Yémen, mais c’est la première fois que la capitale saoudienne est concernée par une alerte."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-des-explosions-entendues-a-riyad-apres-une-alerte-aerienne_6777045_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-des-explosions-entendues-a-riyad-apres-une-alerte-aerienne_6777045_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-des-explosions-entendues-a-riyad-apres-une-alerte-aerienne_6777045_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/368/0/2857/1428/644/322/60/0/9c9ca51_upload-1-enbcgqgs438l-000-a6jf9t3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’aéroport de Riyad, le 2 avril 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

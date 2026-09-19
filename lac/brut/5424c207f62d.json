@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T03:15:37.064383+00:00",
+  "_id": "5424c207f62d",
+  "brut": {
+    "title": "Sam Altman, le patron d’OpenAI, interviendra au Conseil de sécurité des Nations unies",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sam Altman, le patron d’OpenAI, interviendra au Conseil de sécurité des Nations unies"
+    },
+    "published": "Sat, 19 Sep 2026 02:39:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      0,
+      39,
+      53,
+      5,
+      262,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 02:55:47 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      19,
+      0,
+      55,
+      47,
+      5,
+      262,
+      0
+    ],
+    "summary": "Le PDG de l’entreprise qui a développé ChatGPT doit faire une présentation, mercredi 23 septembre, à New York, au cours d’une réunion organisée à l’initiative de la France, dans un contexte de fortes inquiétudes autour des risques liés à l’intelligence artificielle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le PDG de l’entreprise qui a développé ChatGPT doit faire une présentation, mercredi 23 septembre, à New York, au cours d’une réunion organisée à l’initiative de la France, dans un contexte de fortes inquiétudes autour des risques liés à l’intelligence artificielle."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/416/0/5000/2500/644/322/60/0/7aabce9_ftp-1-18wae1yuefk1-5100234-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le PDG d’OpenAI, Sam Altman, à San Francisco, le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BENJAMIN FANJOY/AFP"
+      }
+    ],
+    "credit": "BENJAMIN FANJOY/AFP"
+  }
+}

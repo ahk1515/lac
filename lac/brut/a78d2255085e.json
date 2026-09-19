@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T03:15:37.063805+00:00",
+  "_id": "a78d2255085e",
+  "brut": {
+    "title": "Guerre en Ukraine : Donald Trump signe la loi Graham, permettant de nouvelles sanctions contre la Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre en Ukraine : Donald Trump signe la loi Graham, permettant de nouvelles sanctions contre la Russie"
+    },
+    "published": "Sat, 19 Sep 2026 05:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      19,
+      3,
+      0,
+      3,
+      5,
+      262,
+      0
+    ],
+    "summary": "Le texte offre un éventail sans précédent de mesures contre Moscou et ses partenaires, parmi lesquels l’Inde et la Chine, mais de nombreux élus démocrates regrettent qu’il donne à la Maison Blanche le pouvoir d’imposer des droits de douane de 100 % à n’importe quel pays, sans contrôle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le texte offre un éventail sans précédent de mesures contre Moscou et ses partenaires, parmi lesquels l’Inde et la Chine, mais de nombreux élus démocrates regrettent qu’il donne à la Maison Blanche le pouvoir d’imposer des droits de douane de 100 % à n’importe quel pays, sans contrôle."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/guerre-en-ukraine-donald-trump-signe-la-loi-graham-permettant-de-nouvelles-sanctions-contre-la-russie_6777144_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/guerre-en-ukraine-donald-trump-signe-la-loi-graham-permettant-de-nouvelles-sanctions-contre-la-russie_6777144_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/guerre-en-ukraine-donald-trump-signe-la-loi-graham-permettant-de-nouvelles-sanctions-contre-la-russie_6777144_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/176/0/8640/4320/644/322/60/0/cadb19e_ftp-1-lvjey9cwgelp-c31951fc9476482fa2d5d8a899ecb438-0-f6389c136d0741f39cdd6ce6f910510d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, à la Maison Blanche, à Washington, le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jacquelyn Martin/AP"
+      }
+    ],
+    "credit": "Jacquelyn Martin/AP"
+  }
+}

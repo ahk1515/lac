@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-19T03:15:37.064981+00:00",
+  "_id": "e753ece4ec37",
+  "brut": {
+    "title": "Donald Trump bannit trois grands médias américains de la Maison Blanche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump bannit trois grands médias américains de la Maison Blanche"
+    },
+    "published": "Sat, 19 Sep 2026 00:42:36 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      18,
+      22,
+      42,
+      36,
+      4,
+      261,
+      0
+    ],
+    "updated": "Sat, 19 Sep 2026 00:42:59 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      18,
+      22,
+      42,
+      59,
+      4,
+      261,
+      0
+    ],
+    "summary": "Les chaînes CNN et MS NOW, ainsi que les journalistes du site Politico, sont accusés par le président américain de relayer des « fake news », dans un contexte de mauvais sondages pour les républicains avant les élections de mi-mandat, début novembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les chaînes CNN et MS NOW, ainsi que les journalistes du site Politico, sont accusés par le président américain de relayer des « fake news », dans un contexte de mauvais sondages pour les républicains avant les élections de mi-mandat, début novembre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/19/donald-trump-bannit-trois-grands-medias-americains-de-la-maison-blanche_6776912_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/donald-trump-bannit-trois-grands-medias-americains-de-la-maison-blanche_6776912_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/19/donald-trump-bannit-trois-grands-medias-americains-de-la-maison-blanche_6776912_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/917/0/5500/2750/644/322/60/0/11dddff_ftp-1-telnj4h6dh8l-2026-09-18t202928z-1831797533-rc2wlnabag9d-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres de la presse face à Donald Trump, à la Maison Blanche, à Washington, le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evan Vucci/REUTERS"
+      }
+    ],
+    "credit": "Evan Vucci/REUTERS"
+  }
+}
