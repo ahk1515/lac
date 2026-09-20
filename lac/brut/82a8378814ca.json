@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T15:29:33.177491+00:00",
+  "_id": "82a8378814ca",
+  "brut": {
+    "title": "Guerre en Ukraine : au moins deux morts dues aux attaques ukrainiennes à Moscou et dans sa région",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre en Ukraine : au moins deux morts dues aux attaques ukrainiennes à Moscou et dans sa région"
+    },
+    "published": "Sun, 20 Sep 2026 13:27:36 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      11,
+      27,
+      36,
+      6,
+      263,
+      0
+    ],
+    "updated": "Sun, 20 Sep 2026 13:42:57 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      20,
+      11,
+      42,
+      57,
+      6,
+      263,
+      0
+    ],
+    "summary": "Dans la nuit du samedi 19 septembre au dimanche 20 septembre, Moscou a été la cible d’une attaque massive de drones en provenance d’Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la nuit du samedi 19 septembre au dimanche 20 septembre, Moscou a été la cible d’une attaque massive de drones en provenance d’Ukraine."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/09/20/guerre-en-ukraine-au-moins-deux-morts-dus-aux-attaques-ukrainiennes-a-moscou-et-dans-sa-region_6778373_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/09/20/guerre-en-ukraine-au-moins-deux-morts-dus-aux-attaques-ukrainiennes-a-moscou-et-dans-sa-region_6778373_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/09/20/guerre-en-ukraine-au-moins-deux-morts-dus-aux-attaques-ukrainiennes-a-moscou-et-dans-sa-region_6778373_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/2679/0/5160/2580/644/322/60/0/c22ddea_ftp-1-vu7kx8qf2l26-2026-09-20t080745z-67457955-rc2vmnag4zn0-rtrmadp-3-ukraine-crisis-attack-moscow.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un immeuble endommagé par une frappe de drone ukranienne selon les autorités russes à Kotelniki dans la région de Moscou le 20 septembre 2026. ,REUTERS/Stringer"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}

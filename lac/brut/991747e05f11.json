@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T15:29:33.526032+00:00",
+  "_id": "991747e05f11",
+  "brut": {
+    "title": "Moscou visée par une centaine de drones en pleines législatives",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Moscou visée par une centaine de drones en pleines législatives"
+    },
+    "summary": "La Russie a été visée par une attaque massive de drones dans la nuit du samedi 19 au dimanche 20 septembre. Deux personnes ont été tuées dans la région de Moscou. L’attaque intervient au dernier jour des élections législatives russes. Les autorités russes accusent l’Ukraine, qui n’a pas revendiqué l’attaque.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie a été visée par une attaque massive de drones dans la nuit du samedi 19 au dimanche 20 septembre. Deux personnes ont été tuées dans la région de Moscou. L’attaque intervient au dernier jour des élections législatives russes. Les autorités russes accusent l’Ukraine, qui n’a pas revendiqué l’attaque."
+    },
+    "published": "Sun, 20 Sep 2026 11:04:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      9,
+      4,
+      11,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-une-centaine-de-drones-en-pleines-legislatives_8201618.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RkJeXVYH6WxdzN6YS2plvqvnKXo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/20/6aafa141c4bb4967316347.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-une-centaine-de-drones-en-pleines-legislatives_8201618.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-une-centaine-de-drones-en-pleines-legislatives_8201618.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

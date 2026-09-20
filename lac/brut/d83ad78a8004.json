@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T15:29:33.525276+00:00",
+  "_id": "d83ad78a8004",
+  "brut": {
+    "title": "L'Iran annonce la fermeture d'un centre culturel affilié à l'ambassade de France à Téhéran",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Iran annonce la fermeture d'un centre culturel affilié à l'ambassade de France à Téhéran"
+    },
+    "summary": "L'établissement est accusé d'avoir mené des \"activités illégales\", explique l'agence Mizan, organe du pouvoir judiciaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'établissement est accusé d'avoir mené des \"activités illégales\", explique l'agence Mizan, organe du pouvoir judiciaire."
+    },
+    "published": "Sun, 20 Sep 2026 16:03:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      14,
+      3,
+      17,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/l-iran-annonce-la-fermeture-d-un-centre-culturel-affilie-a-l-ambassade-de-france-a-teheran_8201816.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/t_fqPw1p5gTirF-T86s_6mW9914/0x0:6265x3524/432x243/filters:format(jpg)/2026/09/20/6aafd6c2bacae958464954.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/l-iran-annonce-la-fermeture-d-un-centre-culturel-affilie-a-l-ambassade-de-france-a-teheran_8201816.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/l-iran-annonce-la-fermeture-d-un-centre-culturel-affilie-a-l-ambassade-de-france-a-teheran_8201816.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T15:29:33.176963+00:00",
+  "_id": "5593eb3eaade",
+  "brut": {
+    "title": "Un colon israélien tué par balles en Cisjordanie ; l’auteur présumé des tirs arrêté",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un colon israélien tué par balles en Cisjordanie ; l’auteur présumé des tirs arrêté"
+    },
+    "published": "Sun, 20 Sep 2026 15:01:27 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      13,
+      1,
+      27,
+      6,
+      263,
+      0
+    ],
+    "summary": "L’armée israélienne a, par ailleurs, fait état d’une tentative d’attaque à la voiture bélier dont l’auteur a été tué, toujours en Cisjordanie. Ces actes ont eu lieu peu avant Yom Kippour, jour du Grand Pardon, qui commence dimanche soir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée israélienne a, par ailleurs, fait état d’une tentative d’attaque à la voiture bélier dont l’auteur a été tué, toujours en Cisjordanie. Ces actes ont eu lieu peu avant Yom Kippour, jour du Grand Pardon, qui commence dimanche soir."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/20/un-colon-israelien-tue-par-balles-en-cisjordanie-l-auteur-presume-des-tirs-arrete_6778381_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/20/un-colon-israelien-tue-par-balles-en-cisjordanie-l-auteur-presume-des-tirs-arrete_6778381_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/20/un-colon-israelien-tue-par-balles-en-cisjordanie-l-auteur-presume-des-tirs-arrete_6778381_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/108/0/6000/3000/644/322/60/0/8537b03_ftp-1-2pqbqlac6115-5135313-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats israéliens bloquent la circulation sur la route menant à la colonie de Halamish, en Cisjordanie occupée, le 20 septembre 2026, après des tirs qui ont coûté la vie à un colon."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ZAIN JAAFAR/AFP"
+      }
+    ],
+    "credit": "ZAIN JAAFAR/AFP"
+  }
+}

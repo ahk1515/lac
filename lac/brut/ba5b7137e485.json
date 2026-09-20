@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T15:29:33.525421+00:00",
+  "_id": "ba5b7137e485",
+  "brut": {
+    "title": "La Corée du Nord a tiré deux missiles dans la mer du Japon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Corée du Nord a tiré deux missiles dans la mer du Japon"
+    },
+    "summary": "Tokyo a adressé une \"vive protestation\" à Pyongyang et a dénoncé une menace pour la paix et la sécurité régionales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tokyo a adressé une \"vive protestation\" à Pyongyang et a dénoncé une menace pour la paix et la sécurité régionales."
+    },
+    "published": "Sun, 20 Sep 2026 14:58:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      12,
+      58,
+      19,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-a-tire-deux-missiles-dans-la-mer-du-japon_8201777.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZBd8tji5bR7RCFJdL-xliJfv9I8/0x0:2960x1665/432x243/filters:format(jpg)/2026/09/20/6aafd1cc3d9c1532483464.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-a-tire-deux-missiles-dans-la-mer-du-japon_8201777.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-a-tire-deux-missiles-dans-la-mer-du-japon_8201777.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T15:29:33.525572+00:00",
+  "_id": "ec14b5426c43",
+  "brut": {
+    "title": "Quatre morts dans une attaque russe dans la région de Kiev, Moscou visée par des drones",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatre morts dans une attaque russe dans la région de Kiev, Moscou visée par des drones"
+    },
+    "summary": "Une raffinerie a été frappée près de la capitale russe. Des attaques russes ont aussi visé dimanche des infrastructures ferroviaires dans le centre de l'Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une raffinerie a été frappée près de la capitale russe. Des attaques russes ont aussi visé dimanche des infrastructures ferroviaires dans le centre de l'Ukraine."
+    },
+    "published": "Sun, 20 Sep 2026 15:20:22 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      13,
+      20,
+      22,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-une-attaque-russe-dans-la-region-de-kiev-moscou-visee-par-des-drones_8201747.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/oWslkfveQZwWg4sAjUNC-1afh2E/0x251:4865x2987/432x243/filters:format(jpg)/2026/09/20/6aafc5cc06744449614521.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-une-attaque-russe-dans-la-region-de-kiev-moscou-visee-par-des-drones_8201747.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-une-attaque-russe-dans-la-region-de-kiev-moscou-visee-par-des-drones_8201747.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

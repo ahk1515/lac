@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T15:29:33.524811+00:00",
+  "_id": "5fa7c9218a11",
+  "brut": {
+    "title": "Un colon israélien tué en Cisjordanie, un suspect arrêté",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un colon israélien tué en Cisjordanie, un suspect arrêté"
+    },
+    "summary": "L'attaque, qualifiée d'\"attentat meurtrier\" par Benyamin Nétanyahou, a eu lieu dans le secteur de la colonie de Nevé Tzouf, près de Ramallah.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'attaque, qualifiée d'\"attentat meurtrier\" par Benyamin Nétanyahou, a eu lieu dans le secteur de la colonie de Nevé Tzouf, près de Ramallah."
+    },
+    "published": "Sun, 20 Sep 2026 16:49:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      14,
+      49,
+      42,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/un-colon-israelien-tue-en-cisjordanie-l-auteur-presume-arrete_8201771.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/6PruiCXqHk6uBbsJTYa8nmRo2yk/0x689:6616x4411/432x243/filters:format(jpg)/2026/09/20/6aafeb741e6d7458855877.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/un-colon-israelien-tue-en-cisjordanie-l-auteur-presume-arrete_8201771.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/un-colon-israelien-tue-en-cisjordanie-l-auteur-presume-arrete_8201771.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T15:29:33.176497+00:00",
+  "_id": "66476b00a91e",
+  "brut": {
+    "title": "En Iran, un centre culturel rattaché à l’ambassade de France fermé sur ordre des autorités judiciaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Iran, un centre culturel rattaché à l’ambassade de France fermé sur ordre des autorités judiciaires"
+    },
+    "published": "Sun, 20 Sep 2026 16:14:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      14,
+      14,
+      10,
+      6,
+      263,
+      0
+    ],
+    "summary": "Le parquet de Téhéran reproche à ce centre d’avoir abusé de son statut d’établissement d’enseignement de langues pour mener « des activités contraires à la culture iranienne et préjudiciables pour la sécurité nationale ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le parquet de Téhéran reproche à ce centre d’avoir abusé de son statut d’établissement d’enseignement de langues pour mener « des activités contraires à la culture iranienne et préjudiciables pour la sécurité nationale »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/20/en-iran-un-centre-culturel-rattache-a-l-ambassade-de-france-ferme-sur-ordre-des-autorites-judiciaires_6778388_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/20/en-iran-un-centre-culturel-rattache-a-l-ambassade-de-france-ferme-sur-ordre-des-autorites-judiciaires_6778388_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/20/en-iran-un-centre-culturel-rattache-a-l-ambassade-de-france-ferme-sur-ordre-des-autorites-judiciaires_6778388_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/1174/0/7832/3916/644/322/60/0/51df23c_upload-1-hbkioeemvnop-000-79j28rp.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant l’ambassade de France à Téhéran, le 21 octobre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ATTA KENARE/AFP"
+      }
+    ],
+    "credit": "ATTA KENARE/AFP"
+  }
+}

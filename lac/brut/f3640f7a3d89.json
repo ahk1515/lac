@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T15:29:33.177139+00:00",
+  "_id": "f3640f7a3d89",
+  "brut": {
+    "title": "En Birmanie, une mine d’étain géante reprend son activité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Birmanie, une mine d’étain géante reprend son activité"
+    },
+    "published": "Sun, 20 Sep 2026 14:00:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      12,
+      0,
+      7,
+      6,
+      263,
+      0
+    ],
+    "summary": "Après trois ans de jachère, la plus grande mine d’étain birmane, dirigée par un groupe armé, reprend ses opérations, selon un rapport rendu par l’International Crisis Group. Elle a pu, par le passé, représenter près de 20 % de la production mondiale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après trois ans de jachère, la plus grande mine d’étain birmane, dirigée par un groupe armé, reprend ses opérations, selon un rapport rendu par l’International Crisis Group. Elle a pu, par le passé, représenter près de 20 % de la production mondiale."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/20/en-birmanie-une-mine-d-etain-geante-reprend-son-activite_6778376_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/20/en-birmanie-une-mine-d-etain-geante-reprend-son-activite_6778376_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/20/en-birmanie-une-mine-d-etain-geante-reprend-son-activite_6778376_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/209/0/3000/1500/644/322/60/0/5767bb3_upload-1-u9eqcyhwzowh-2025-06-12t041328z-1481264089-rc2r0fajeyqy-rtrmadp-3-myanmar-rareearths.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats de l’Armée de l’Etat Wa unifié (UWSA) dans une usine d’exploitation d’étain à Man Maw, sur le territoire ethnique wa, dans le Myanmar, le 5 octobre 2016."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Soe Zeya Tun/REUTERS"
+      }
+    ],
+    "credit": "Soe Zeya Tun/REUTERS"
+  }
+}

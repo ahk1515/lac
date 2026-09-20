@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T15:29:33.177312+00:00",
+  "_id": "333bbf86d306",
+  "brut": {
+    "title": "En Belgique, la patience des bouddhistes mise à rude épreuve",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Belgique, la patience des bouddhistes mise à rude épreuve"
+    },
+    "published": "Sun, 20 Sep 2026 14:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      12,
+      0,
+      4,
+      6,
+      263,
+      0
+    ],
+    "summary": "L’Union bouddhiste de Belgique est reçue, lundi 21 septembre, par le cabinet de la ministre de la justice, Annelies Verlinden. L’organisation somme le gouvernement de reconnaître officiellement le bouddhisme, ce qui lui permettrait d’accéder à des financements publics.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Union bouddhiste de Belgique est reçue, lundi 21 septembre, par le cabinet de la ministre de la justice, Annelies Verlinden. L’organisation somme le gouvernement de reconnaître officiellement le bouddhisme, ce qui lui permettrait d’accéder à des financements publics."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/20/en-belgique-la-patience-des-bouddhistes-mise-a-rude-epreuve_6778375_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/20/en-belgique-la-patience-des-bouddhistes-mise-a-rude-epreuve_6778375_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/20/en-belgique-la-patience-des-bouddhistes-mise-a-rude-epreuve_6778375_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/0/0/6720/3360/644/322/60/0/72b761e_upload-1-duiwpkpyfrda-sipa-sipahub60163354-000110.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un maître bouddhiste zen, dans le jardin de l’abbaye trappiste d’Orval (Belgique), le 5 juillet 2020."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Philippe Lissac/Godong/SIPA"
+      }
+    ],
+    "credit": "Philippe Lissac/Godong/SIPA"
+  }
+}

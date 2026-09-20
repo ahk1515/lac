@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T15:29:33.525118+00:00",
+  "_id": "ea925bd3e79b",
+  "brut": {
+    "title": "La Russie affirme avoir observé \"plus d'un millier\" d'attaques informatiques pour perturber les législatives",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie affirme avoir observé \"plus d'un millier\" d'attaques informatiques pour perturber les législatives"
+    },
+    "summary": "Selon la Commission électorale, ces attaques présentent toutes \"des signes d'une ingérence ukrainienne\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon la Commission électorale, ces attaques présentent toutes \"des signes d'une ingérence ukrainienne\"."
+    },
+    "published": "Sun, 20 Sep 2026 16:31:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      14,
+      31,
+      46,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-russie-affirme-avoir-observe-plus-d-un-millier-d-attaques-informatiques-pour-perturber-les-legislatives_8201861.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/sWovGxXEYiCPj7nqdnHiMDqTapQ/0x0:6963x3916/432x243/filters:format(jpg)/2026/09/20/6aafe43e7346a895340372.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-russie-affirme-avoir-observe-plus-d-un-millier-d-attaques-informatiques-pour-perturber-les-legislatives_8201861.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-russie-affirme-avoir-observe-plus-d-un-millier-d-attaques-informatiques-pour-perturber-les-legislatives_8201861.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
