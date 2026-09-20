@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T09:04:55.451921+00:00",
+  "_id": "263c06f070b7",
+  "brut": {
+    "title": "L’Australie se demande comment sauver ses forêts d’eucalyptus ancestrales : « Nous devons absolument arrêter d’y toucher »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Australie se demande comment sauver ses forêts d’eucalyptus ancestrales : « Nous devons absolument arrêter d’y toucher »"
+    },
+    "published": "Sun, 20 Sep 2026 05:45:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      3,
+      45,
+      4,
+      6,
+      263,
+      0
+    ],
+    "summary": "Les forêts de jarrahs, une famille d’eucalyptus pouvant atteindre 40 mètres de haut, s’étendent sur une vaste région au sud-ouest de l'île-continent. Cet écosystème vieux de 20 millions d’années est fragilisé par le changement climatique, et les scientifiques sont divisés sur les moyens de renforcer sa résilience.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les forêts de jarrahs, une famille d’eucalyptus pouvant atteindre 40 mètres de haut, s’étendent sur une vaste région au sud-ouest de l'île-continent. Cet écosystème vieux de 20 millions d’années est fragilisé par le changement climatique, et les scientifiques sont divisés sur les moyens de renforcer sa résilience."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/09/20/l-australie-se-demande-comment-sauver-ses-forets-d-eucalyptus-ancestrales-nous-devons-absolument-arreter-d-y-toucher_6778050_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/09/20/l-australie-se-demande-comment-sauver-ses-forets-d-eucalyptus-ancestrales-nous-devons-absolument-arreter-d-y-toucher_6778050_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/09/20/l-australie-se-demande-comment-sauver-ses-forets-d-eucalyptus-ancestrales-nous-devons-absolument-arreter-d-y-toucher_6778050_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/925/0/8192/4096/644/322/60/0/e8bf084_upload-1-p6xuqm9k28d0-jarrah-die-off-t6a5128.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des scientifiques, dont Benjamin Sawyer, au premier plan, inspectent un site où les jarrahs dépérissent en raison de la sécheresse et de l’appauvrissement des sols, près de North Dandalup (Australie-Occidentale), le 17 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILIP GOSTELOW POUR « LE MONDE »"
+      }
+    ],
+    "credit": "PHILIP GOSTELOW POUR « LE MONDE »"
+  }
+}

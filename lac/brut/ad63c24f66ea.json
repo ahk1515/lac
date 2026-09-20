@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T09:04:55.451733+00:00",
+  "_id": "ad63c24f66ea",
+  "brut": {
+    "title": "De la tour Eiffel à Bussy-Saint-Georges, discordes autour du temple hindou et du rond-point Namasté",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "De la tour Eiffel à Bussy-Saint-Georges, discordes autour du temple hindou et du rond-point Namasté"
+    },
+    "published": "Sun, 20 Sep 2026 06:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      4,
+      0,
+      4,
+      6,
+      263,
+      0
+    ],
+    "updated": "Sun, 20 Sep 2026 10:52:49 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      20,
+      8,
+      52,
+      49,
+      6,
+      263,
+      0
+    ],
+    "summary": "Edifié sur l’Esplanade des religions et des cultures de la commune briarde, en Seine-et-Marne, le mandir qui vient d’être inauguré en grande pompe fait l’objet de plusieurs polémiques, inhabituelles dans ce lieu à vocation interconfessionnelle où concorde et harmonie sont les maîtres mots.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Edifié sur l’Esplanade des religions et des cultures de la commune briarde, en Seine-et-Marne, le mandir qui vient d’être inauguré en grande pompe fait l’objet de plusieurs polémiques, inhabituelles dans ce lieu à vocation interconfessionnelle où concorde et harmonie sont les maîtres mots."
+    },
+    "id": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/20/de-la-tour-eiffel-a-bussy-saint-georges-discordes-autour-du-temple-hindou-et-du-rond-point-namaste_6778052_6038514.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/20/de-la-tour-eiffel-a-bussy-saint-georges-discordes-autour-du-temple-hindou-et-du-rond-point-namaste_6778052_6038514.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/20/de-la-tour-eiffel-a-bussy-saint-georges-discordes-autour-du-temple-hindou-et-du-rond-point-namaste_6778052_6038514.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/1022/0/12270/6135/644/322/60/0/a60af18_upload-1-2nuoztfiootu-baps-swaminarayan-hindu-mandir-paris.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le temple hindou du Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS), récemment inauguré, à Bussy-Saint-Georges (Seine-et-Marne), le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BAPS EU UK"
+      }
+    ],
+    "credit": "BAPS EU UK"
+  }
+}

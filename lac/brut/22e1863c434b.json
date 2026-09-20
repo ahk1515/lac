@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T09:04:55.612902+00:00",
+  "_id": "22e1863c434b",
+  "brut": {
+    "title": "Les Houthis revendiquent des attaques à Riyad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Houthis revendiquent des attaques à Riyad"
+    },
+    "summary": "Les rebelles Houthis ont revendiqué deux attaques contre des sites en Arabie saoudite, dont des installations d’Aramco. Ces frappes interviennent alors que le mouvement yéménite intensifie ses opérations contre le royaume, sur fond de regain des combats au Yémen et de tensions autour des routes maritimes stratégiques de la mer Rouge.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les rebelles Houthis ont revendiqué deux attaques contre des sites en Arabie saoudite, dont des installations d’Aramco. Ces frappes interviennent alors que le mouvement yéménite intensifie ses opérations contre le royaume, sur fond de regain des combats au Yémen et de tensions autour des routes maritimes stratégiques de la mer Rouge."
+    },
+    "published": "Sun, 20 Sep 2026 10:26:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      8,
+      26,
+      49,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-revendiquent-des-attaques-a-riyad_8201486.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kdy2v8UUfGghW_Lvj7Q0S91S7DQ/0x23:1013x593/432x243/filters:format(jpg)/2026/09/20/6aaf8fff014d1987882924.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-revendiquent-des-attaques-a-riyad_8201486.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-revendiquent-des-attaques-a-riyad_8201486.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
