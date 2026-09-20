@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T18:29:41.094631+00:00",
+  "_id": "262a52bd8fd6",
+  "brut": {
+    "title": "Jeanne et la mémoire arménienne de la chanson française",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Jeanne et la mémoire arménienne de la chanson française"
+    },
+    "summary": "En ouverture de son premier album, la chanson \"Papiers d'Arménie\" fait entendre la voix des descendants des survivants du génocide arménien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En ouverture de son premier album, la chanson \"Papiers d'Arménie\" fait entendre la voix des descendants des survivants du génocide arménien."
+    },
+    "published": "Sun, 20 Sep 2026 18:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      16,
+      0,
+      1,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/jeanne-et-la-memoire-armenienne-de-la-chanson-francaise_8157872.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gjUOB8WQz8zAkodvK2DHOdfMjLs/0x360:6922x4254/432x243/filters:format(jpg)/2026/09/18/6aad4071e2da1855488792.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/jeanne-et-la-memoire-armenienne-de-la-chanson-francaise_8157872.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/jeanne-et-la-memoire-armenienne-de-la-chanson-francaise_8157872.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

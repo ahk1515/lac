@@ -1,0 +1,51 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T18:29:37.122152+00:00",
+  "_id": "44d1d8adf5c9",
+  "brut": {
+    "title": "ENQUETE VIDEO Guerre en Ukraine : les drones chinois au cœur du conflit",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "ENQUETE VIDEO Guerre en Ukraine : les drones chinois au cœur du conflit"
+    },
+    "published": "Sun, 20 Sep 2026 20:18:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      18,
+      18,
+      9,
+      6,
+      263,
+      0
+    ],
+    "summary": "Officiellement, la Chine ne fournit aucune arme à la Russie ni à l’Ukraine. Mais « Le Monde » révèle que Pékin est le principal producteur des composants de millions de drones utilisés dans le conflit, qu’il livre aux deux belligérants. Y compris à des entreprises russes sous sanctions, dont les armes sont utilisées dans de possibles crimes de guerre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Officiellement, la Chine ne fournit aucune arme à la Russie ni à l’Ukraine. Mais « Le Monde » révèle que Pékin est le principal producteur des composants de millions de drones utilisés dans le conflit, qu’il livre aux deux belligérants. Y compris à des entreprises russes sous sanctions, dont les armes sont utilisées dans de possibles crimes de guerre."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/09/20/guerre-des-drones-en-ukraine-revelations-sur-la-dependance-a-la-chine-des-deux-camps_6778411_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/09/20/guerre-des-drones-en-ukraine-revelations-sur-la-dependance-a-la-chine-des-deux-camps_6778411_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/09/20/guerre-des-drones-en-ukraine-revelations-sur-la-dependance-a-la-chine-des-deux-camps_6778411_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "url": "https://asset.lemde.fr/medias/img/social-network/default.png",
+        "width": "1880",
+        "height": "984"
+      }
+    ]
+  }
+}

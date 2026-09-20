@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T18:29:37.122474+00:00",
+  "_id": "f1b8f49c8da2",
+  "brut": {
+    "title": "Face au blocus d’Ormuz, l’Iran mise sur la mer Caspienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Face au blocus d’Ormuz, l’Iran mise sur la mer Caspienne"
+    },
+    "published": "Sun, 20 Sep 2026 18:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      16,
+      0,
+      1,
+      6,
+      263,
+      0
+    ],
+    "summary": "Cette mer fermée, devenue un carrefour commercial en plein essor, notamment grâce à la nouvelle route dite « du Middle Corridor » qui relie l’Asie à l’Europe sans passer par la Russie, est désormais un enjeu stratégique pour tous les pays qui l’entourent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette mer fermée, devenue un carrefour commercial en plein essor, notamment grâce à la nouvelle route dite « du Middle Corridor » qui relie l’Asie à l’Europe sans passer par la Russie, est désormais un enjeu stratégique pour tous les pays qui l’entourent."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/20/face-au-blocus-d-ormuz-l-iran-mise-sur-la-mer-caspienne_6778396_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/20/face-au-blocus-d-ormuz-l-iran-mise-sur-la-mer-caspienne_6778396_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/20/face-au-blocus-d-ormuz-l-iran-mise-sur-la-mer-caspienne_6778396_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/37/0/1500/750/644/322/60/0/97e83e1_upload-1-po8mjfoyj4nk-2025-07-23t103250z-1225701115-mt1zuma0000eqke5-rtrmadp-3-zuma.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le port de Bandar-e Anzali (Iran), le 23 juillet 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Iranian Army Office/ZUMA Press via Reuters"
+      }
+    ],
+    "credit": "Iranian Army Office/ZUMA Press via Reuters"
+  }
+}

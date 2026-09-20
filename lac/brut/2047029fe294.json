@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T18:29:37.121950+00:00",
+  "_id": "2047029fe294",
+  "brut": {
+    "title": "La France et le Canada vont « travailler à un rapprochement » sur plusieurs sujets, annonce Emmanuel Macron",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La France et le Canada vont « travailler à un rapprochement » sur plusieurs sujets, annonce Emmanuel Macron"
+    },
+    "published": "Sun, 20 Sep 2026 20:23:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      18,
+      23,
+      17,
+      6,
+      263,
+      0
+    ],
+    "summary": "Le président français a accueilli le premier ministre canadien à Saint-Pierre-et-Miquelon, unique territoire d’outre-mer situé dans l’Atlantique Nord.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président français a accueilli le premier ministre canadien à Saint-Pierre-et-Miquelon, unique territoire d’outre-mer situé dans l’Atlantique Nord."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/214/0/5500/2750/644/322/60/0/a543517_ftp-1-xyevodhit4k6-2026-09-20t150315z-1552513687-rc22nnabpe3k-rtrmadp-3-france-canada.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président Emmanuel Macron et le Premier ministre canadien, Mark Carney, dans l’archipel de Saint-Pierre-et-Miquelon, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Chris Tanouye/REUTERS"
+      }
+    ],
+    "credit": "Chris Tanouye/REUTERS"
+  }
+}

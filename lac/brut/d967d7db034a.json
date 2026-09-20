@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-20T18:29:41.094702+00:00",
+  "_id": "d967d7db034a",
+  "brut": {
+    "title": "Une attaque de drones massive sur Moscou, une raffinerie touchée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque de drones massive sur Moscou, une raffinerie touchée"
+    },
+    "summary": "La ville de Moscou s'est retrouvée sous les drones ukrainiens dans la matinée du samedi 20 septembre, en pleine journée électorale. La capitale russe et sa région ont été la cible d'une attaque massive qui a fait au moins deux morts et entraîné des centaines d’évacuations. Une raffinerie a également été endommagée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La ville de Moscou s'est retrouvée sous les drones ukrainiens dans la matinée du samedi 20 septembre, en pleine journée électorale. La capitale russe et sa région ont été la cible d'une attaque massive qui a fait au moins deux morts et entraîné des centaines d’évacuations. Une raffinerie a également été endommagée."
+    },
+    "published": "Sun, 20 Sep 2026 17:47:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      15,
+      47,
+      14,
+      6,
+      263,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/une-attaque-de-drones-massive-sur-moscou-une-raffinerie-touchee_8201798.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/SuAzUpdKrKEgsWuhcLkJ8rtRTJM/0x33:724x440/432x243/filters:format(jpg)/2026/09/20/6aafd294ac366140835969.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/une-attaque-de-drones-massive-sur-moscou-une-raffinerie-touchee_8201798.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/une-attaque-de-drones-massive-sur-moscou-une-raffinerie-touchee_8201798.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
