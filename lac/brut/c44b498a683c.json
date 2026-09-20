@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T22:11:53.031504+00:00",
+  "_id": "c44b498a683c",
+  "brut": {
+    "title": "Elif Eralp, le nouveau visage de la gauche radicale, aux portes de Berlin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Elif Eralp, le nouveau visage de la gauche radicale, aux portes de Berlin"
+    },
+    "published": "Sun, 20 Sep 2026 23:58:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      21,
+      58,
+      50,
+      6,
+      263,
+      0
+    ],
+    "summary": "Die Linke est arrivé en tête des élections régionales dans la capitale allemande dimanche 20 septembre. Le fruit d’un renouvellement de ses dirigeants et d’une campagne inspirée des méthodes du sénateur américain Bernie Sanders.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Die Linke est arrivé en tête des élections régionales dans la capitale allemande dimanche 20 septembre. Le fruit d’un renouvellement de ses dirigeants et d’une campagne inspirée des méthodes du sénateur américain Bernie Sanders."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/20/elif-eralp-le-nouveau-visage-de-la-gauche-radicale-aux-portes-de-berlin_6778515_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/20/elif-eralp-le-nouveau-visage-de-la-gauche-radicale-aux-portes-de-berlin_6778515_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/20/elif-eralp-le-nouveau-visage-de-la-gauche-radicale-aux-portes-de-berlin_6778515_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/688/0/8256/4128/644/322/60/0/98128f3_ftp-1-vuiopgkaftsa-5138372-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Elif Eralp, tête de liste du parti Die Linke (« la gauche »), participe à un débat télévisé, à la suite des élections régionales, à Berlin, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RALF HIRSCHBERGER/AFP"
+      }
+    ],
+    "credit": "RALF HIRSCHBERGER/AFP"
+  }
+}
