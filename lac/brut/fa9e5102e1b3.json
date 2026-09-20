@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-20T03:32:37.439095+00:00",
+  "_id": "fa9e5102e1b3",
+  "brut": {
+    "title": "Emmanuel Macron réaffirme la souveraineté de Saint-Pierre-et-Miquelon face aux convoitises de Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Emmanuel Macron réaffirme la souveraineté de Saint-Pierre-et-Miquelon face aux convoitises de Trump"
+    },
+    "published": "Sun, 20 Sep 2026 05:30:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      3,
+      30,
+      21,
+      6,
+      263,
+      0
+    ],
+    "summary": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement renforce la volonté du Canada de prendre ses distances avec les Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement renforce la volonté du Canada de prendre ses distances avec les Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/675/0/8096/4048/644/322/60/0/884a528_ftp-1-ofsid1ukz3d8-5131092-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président Emmanuel Macron, à son arrivée à Saint-Pierre (Saint-Pierre-et-Miquelon), le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUDOVIC MARIN/AFP"
+      }
+    ],
+    "credit": "LUDOVIC MARIN/AFP"
+  }
+}
