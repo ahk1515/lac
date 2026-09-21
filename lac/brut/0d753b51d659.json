@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T23:00:24.654810+00:00",
+  "_id": "0d753b51d659",
+  "brut": {
+    "title": "La Californie déclare l'état d'urgence face à l'arrivée du phénomène El Niño",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Californie déclare l'état d'urgence face à l'arrivée du phénomène El Niño"
+    },
+    "summary": "Selon les prévisions, la région pourrait être touchée par des tempêtes violentes, avec un risque de fortes marées susceptibles de provoquer des inondations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon les prévisions, la région pourrait être touchée par des tempêtes violentes, avec un risque de fortes marées susceptibles de provoquer des inondations."
+    },
+    "published": "Mon, 21 Sep 2026 22:35:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      20,
+      35,
+      28,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/la-californie-declare-l-etat-d-urgence-face-a-l-arrivee-du-phenomene-el-nino_8203595.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/IC_2cPLZcZw2h-c78XEYLHvq42g/0x392:7233x4460/432x243/filters:format(jpg)/2026/09/21/6ab1946fa553c215650588.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/la-californie-declare-l-etat-d-urgence-face-a-l-arrivee-du-phenomene-el-nino_8203595.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/la-californie-declare-l-etat-d-urgence-face-a-l-arrivee-du-phenomene-el-nino_8203595.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

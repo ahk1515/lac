@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T23:00:23.764249+00:00",
+  "_id": "3a3d9ec15dc7",
+  "brut": {
+    "title": "Le grand déclassement de l’automobile allemande",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le grand déclassement de l’automobile allemande"
+    },
+    "published": "Mon, 21 Sep 2026 20:03:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      18,
+      3,
+      49,
+      0,
+      264,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 20:10:12 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      21,
+      18,
+      10,
+      12,
+      0,
+      264,
+      0
+    ],
+    "summary": "Chute des ventes et des bénéfices, plongeon boursier et suppressions de postes se multiplient au sein des groupes allemands, notamment chez Volkswagen. Lundi, le syndicat IG Metall a organisé plus de 280 rassemblements outre-Rhin pour la défense de l’emploi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Chute des ventes et des bénéfices, plongeon boursier et suppressions de postes se multiplient au sein des groupes allemands, notamment chez Volkswagen. Lundi, le syndicat IG Metall a organisé plus de 280 rassemblements outre-Rhin pour la défense de l’emploi."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/21/le-grand-declassement-de-l-automobile-allemande_6779304_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/21/le-grand-declassement-de-l-automobile-allemande_6779304_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/21/le-grand-declassement-de-l-automobile-allemande_6779304_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/684/0/8192/4096/644/322/60/0/5d809b6_upload-1-ljlmnnctnkgu-000-b9r44tb.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A l’usine Volkswagen de Zwickau (Saxe), le 9 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JENS SCHLUTER / AFP"
+      }
+    ],
+    "credit": "JENS SCHLUTER / AFP"
+  }
+}

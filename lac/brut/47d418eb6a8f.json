@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T23:00:24.654978+00:00",
+  "_id": "47d418eb6a8f",
+  "brut": {
+    "title": "La Pologne souhaite accueillir 15 000 soldats américains sur son territoire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Pologne souhaite accueillir 15 000 soldats américains sur son territoire"
+    },
+    "summary": "La semaine dernière, le Premier ministre polonais Donald Tusk avait mis en garde contre des menaces \"hybrides\" de la part de la Russie visant les alliés de l'Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La semaine dernière, le Premier ministre polonais Donald Tusk avait mis en garde contre des menaces \"hybrides\" de la part de la Russie visant les alliés de l'Ukraine."
+    },
+    "published": "Mon, 21 Sep 2026 22:03:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      20,
+      3,
+      8,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-pologne-souhaite-accueillir-15-000-soldats-americains-sur-son-territoire_8203427.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HjEt81Cdr2jatpTxk1mwYCIgDao/0x40:7500x4259/432x243/filters:format(jpg)/2026/09/21/6ab18d1b7cbc2080674179.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-pologne-souhaite-accueillir-15-000-soldats-americains-sur-son-territoire_8203427.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-pologne-souhaite-accueillir-15-000-soldats-americains-sur-son-territoire_8203427.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

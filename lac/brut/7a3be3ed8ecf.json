@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T23:00:23.764042+00:00",
+  "_id": "7a3be3ed8ecf",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 45 drones ukrainiens en douze heures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 45 drones ukrainiens en douze heures"
+    },
+    "published": "Mon, 21 Sep 2026 20:04:48 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      18,
+      4,
+      48,
+      0,
+      264,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 20:11:48 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      21,
+      18,
+      11,
+      48,
+      0,
+      264,
+      0
+    ],
+    "summary": "Des attaques de drones ont fait deux blessés lundi dans l’oblast russe de Briansk, a annoncé le gouverneur par intérim de la région.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des attaques de drones ont fait deux blessés lundi dans l’oblast russe de Briansk, a annoncé le gouverneur par intérim de la région."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-45-drones-ukrainiens-en-douze-heures_6777944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-45-drones-ukrainiens-en-douze-heures_6777944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-45-drones-ukrainiens-en-douze-heures_6777944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/351/0/2970/1485/644/322/60/0/a6cd65c_ftp-1-cmuqm2c0wqg6-2026-09-21t152439z-834062788-rc2qmnaq063v-rtrmadp-3-ukraine-crisis-russia-refinery-moscow.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des incendies dans une raffinerie visée par des drones ukrainiens, près de Moscou, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer / REUTERS"
+      }
+    ],
+    "credit": "Stringer / REUTERS"
+  }
+}

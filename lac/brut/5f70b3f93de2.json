@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T23:00:24.655309+00:00",
+  "_id": "5f70b3f93de2",
+  "brut": {
+    "title": "\"J'ai peur d'aller me coucher, ça frappe sans cesse\" : dans la ville ukrainienne de Kramatorsk, les habitants tentent de survivre sous les drones russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"J'ai peur d'aller me coucher, ça frappe sans cesse\" : dans la ville ukrainienne de Kramatorsk, les habitants tentent de survivre sous les drones russes"
+    },
+    "summary": "Cette ville de l'est du pays comptait 150 000 habitants avant la guerre. Aujourd’hui, sous les bombardements russes, ceux qui sont restés se résignent à partir. France 2 les a rencontrés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette ville de l'est du pays comptait 150 000 habitants avant la guerre. Aujourd’hui, sous les bombardements russes, ceux qui sont restés se résignent à partir. France 2 les a rencontrés."
+    },
+    "published": "Mon, 21 Sep 2026 23:58:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      21,
+      58,
+      8,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-peur-d-aller-me-coucher-parce-que-ca-vole-ca-frappe-sans-cesse-survivre-sous-les-drones-russes_8203631.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/mcnoNjvK1l-zGM_H4BOrhFaWYzs/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/21/6ab18987406ca483808546.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-peur-d-aller-me-coucher-parce-que-ca-vole-ca-frappe-sans-cesse-survivre-sous-les-drones-russes_8203631.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-peur-d-aller-me-coucher-parce-que-ca-vole-ca-frappe-sans-cesse-survivre-sous-les-drones-russes_8203631.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
