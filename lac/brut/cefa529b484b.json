@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T17:53:48.726101+00:00",
+  "_id": "cefa529b484b",
+  "brut": {
+    "title": "Gaza : trois Palestiniens, dont un enfant, tués par des tirs israéliens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : trois Palestiniens, dont un enfant, tués par des tirs israéliens"
+    },
+    "published": "Mon, 21 Sep 2026 14:39:55 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      12,
+      39,
+      55,
+      0,
+      264,
+      0
+    ],
+    "summary": "Les services de secours du territoire palestinien font état de trois victimes lundi, dont un enfant de 11 ans mort après que des chars israéliens ont ouvert le feu sur des tentes dans le camp d’Al-Mawasi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les services de secours du territoire palestinien font état de trois victimes lundi, dont un enfant de 11 ans mort après que des chars israéliens ont ouvert le feu sur des tentes dans le camp d’Al-Mawasi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/21/gaza-trois-palestiniens-dont-un-enfant-tues-par-des-tirs-israeliens_6779126_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/21/gaza-trois-palestiniens-dont-un-enfant-tues-par-des-tirs-israeliens_6779126_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/21/gaza-trois-palestiniens-dont-un-enfant-tues-par-des-tirs-israeliens_6779126_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/684/0/8192/4096/644/322/60/0/bf6bff3_upload-1-ugq3ocy5suav-af4a3549.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant une école dans le camp de déplacés d’Al-Mawasi, à Gaza, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ABDELRAHMAN RASHAD POUR « LE MONDE »"
+      }
+    ],
+    "credit": "ABDELRAHMAN RASHAD POUR « LE MONDE »"
+  }
+}

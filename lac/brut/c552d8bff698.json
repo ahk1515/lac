@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T17:53:49.349655+00:00",
+  "_id": "c552d8bff698",
+  "brut": {
+    "title": "Les autorités japonaises appellent 1,6 million de personnes à évacuer à l'approche du typhon Dujuan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités japonaises appellent 1,6 million de personnes à évacuer à l'approche du typhon Dujuan"
+    },
+    "summary": "Le phénomène météo se trouvait lundi,à environ 130 kilomètres au sud de Katsuura, près de Tokyo, avec des vents atteignant 144 km/h.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le phénomène météo se trouvait lundi,à environ 130 kilomètres au sud de Katsuura, près de Tokyo, avec des vents atteignant 144 km/h."
+    },
+    "published": "Mon, 21 Sep 2026 15:36:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      13,
+      36,
+      20,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/les-autorites-japonaises-appellent-1-6-million-de-personnes-a-evacuer-a-l-approche-du-typhon-dujuan_8203019.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Jh06AusnyDW0JOlnZn5kJ028fl0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/21/6ab12912e5ad3601039312.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/les-autorites-japonaises-appellent-1-6-million-de-personnes-a-evacuer-a-l-approche-du-typhon-dujuan_8203019.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/les-autorites-japonaises-appellent-1-6-million-de-personnes-a-evacuer-a-l-approche-du-typhon-dujuan_8203019.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T17:53:49.349859+00:00",
+  "_id": "2d42336d588d",
+  "brut": {
+    "title": "Un homme grièvement blessé par balles par l'ICE au Texas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un homme grièvement blessé par balles par l'ICE au Texas"
+    },
+    "summary": "Un livreur vénézuélien a été blessé d'une balle au thorax par un agent de l'ICE, dimanche 20 septembre, à Austin, au Texas, selon les autorités. Une enquête a été ouverte alors que ce nouvel incident avec la police de l'immigration a déclenché la colère des habitants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un livreur vénézuélien a été blessé d'une balle au thorax par un agent de l'ICE, dimanche 20 septembre, à Austin, au Texas, selon les autorités. Une enquête a été ouverte alors que ce nouvel incident avec la police de l'immigration a déclenché la colère des habitants."
+    },
+    "published": "Mon, 21 Sep 2026 14:20:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      12,
+      20,
+      4,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/un-homme-grievement-blesse-par-balles-par-l-ice-au-texas_8203004.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/n4ZaQLjZXQpepLY8_ZegwL1wJsw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/21/6ab120e3c9632965742071.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/un-homme-grievement-blesse-par-balles-par-l-ice-au-texas_8203004.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/un-homme-grievement-blesse-par-balles-par-l-ice-au-texas_8203004.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

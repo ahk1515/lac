@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T17:53:48.725571+00:00",
+  "_id": "a6073f9306a8",
+  "brut": {
+    "title": "Le Consortium international des journalistes d’investigation s’inquiète de la disparition d’un de ses enquêteurs à Djibouti",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Consortium international des journalistes d’investigation s’inquiète de la disparition d’un de ses enquêteurs à Djibouti"
+    },
+    "published": "Mon, 21 Sep 2026 15:48:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      13,
+      48,
+      50,
+      0,
+      264,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 16:35:22 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      21,
+      14,
+      35,
+      22,
+      0,
+      264,
+      0
+    ],
+    "summary": "Le journaliste sud-africain Micah Reddy et son fixeur local, Kooki Mahmoud, n’ont pas donné de nouvelles depuis samedi. Leur employeur redoute qu’ils aient été arrêtés par les services de sécurité djiboutiens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le journaliste sud-africain Micah Reddy et son fixeur local, Kooki Mahmoud, n’ont pas donné de nouvelles depuis samedi. Leur employeur redoute qu’ils aient été arrêtés par les services de sécurité djiboutiens."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/21/le-consortium-international-des-journalistes-d-investigation-s-inquiete-de-la-disparition-d-un-de-ses-enqueteurs-a-djibouti_6779171_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/21/le-consortium-international-des-journalistes-d-investigation-s-inquiete-de-la-disparition-d-un-de-ses-enqueteurs-a-djibouti_6779171_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/21/le-consortium-international-des-journalistes-d-investigation-s-inquiete-de-la-disparition-d-un-de-ses-enqueteurs-a-djibouti_6779171_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/60/0/1920/960/644/322/60/0/4875be5_upload-1-kjjq1ic5ox5q-icij-micah-reddy.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le journaliste sud-africain Micah Reddy (date et lieu indéterminés)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Consortium international des journalistes d’investigation"
+      }
+    ],
+    "credit": "Consortium international des journalistes d’investigation"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T17:53:49.349101+00:00",
+  "_id": "0727e0ee706e",
+  "brut": {
+    "title": "Chien sauveteur : une statue de chien érigée après les séismes au Venezuela",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chien sauveteur : une statue de chien érigée après les séismes au Venezuela"
+    },
+    "summary": "Une statue de chien érigée en l’honneur d’un chien sauveur, après le désastreux séisme au Venezuela.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une statue de chien érigée en l’honneur d’un chien sauveur, après le désastreux séisme au Venezuela."
+    },
+    "published": "Mon, 21 Sep 2026 19:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      17,
+      0,
+      1,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/venezuela/chien-sauveteur-une-statue-de-chien-erigee-apres-les-seismes-au-venezuela_8203292.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/i_52L7ZRFIBKm-B6ATF3PeYqwcs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/21/6ab14b3496283827529684.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/venezuela/chien-sauveteur-une-statue-de-chien-erigee-apres-les-seismes-au-venezuela_8203292.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/venezuela/chien-sauveteur-une-statue-de-chien-erigee-apres-les-seismes-au-venezuela_8203292.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T17:53:49.349995+00:00",
+  "_id": "8ad414b9807d",
+  "brut": {
+    "title": "Un homme de 82 ans meurt après une bagarre pour un transat en Grèce",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un homme de 82 ans meurt après une bagarre pour un transat en Grèce"
+    },
+    "summary": "Une violente altercation autour d'un transat a coûté la vie à un octogénaire dimanche, sur une plage de la station balnéaire huppée près d'Athènes. Deux personnes ont été interpellées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une violente altercation autour d'un transat a coûté la vie à un octogénaire dimanche, sur une plage de la station balnéaire huppée près d'Athènes. Deux personnes ont été interpellées."
+    },
+    "published": "Mon, 21 Sep 2026 15:14:30 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      13,
+      14,
+      30,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/grece/un-homme-de-82-ans-meurt-apres-une-bagarre-pour-un-transat-pres-d-athenes_8202911.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/A83isWrT01dTH3j5mt8SYeXi7pI/0x52:1024x628/432x243/filters:format(jpg)/2026/09/21/6ab10eafc36db633099900.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/grece/un-homme-de-82-ans-meurt-apres-une-bagarre-pour-un-transat-pres-d-athenes_8202911.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/grece/un-homme-de-82-ans-meurt-apres-une-bagarre-pour-un-transat-pres-d-athenes_8202911.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

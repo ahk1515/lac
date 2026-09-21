@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T17:53:48.725916+00:00",
+  "_id": "3685b7632642",
+  "brut": {
+    "title": "« Le marché obligataire rappelle à Donald Trump que le prix de l’argent ne se décrète pas »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le marché obligataire rappelle à Donald Trump que le prix de l’argent ne se décrète pas »"
+    },
+    "published": "Mon, 21 Sep 2026 15:00:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      13,
+      0,
+      12,
+      0,
+      264,
+      0
+    ],
+    "summary": "Les droits de douane pèsent sur les prix, le conflit avec l’Iran fait grimper les cours de l’énergie et les besoins de financement du gouvernement américain restent considérables. Tout cela finit par se traduire dans une même tendance : la hausse du taux d’intérêt à dix ans, explique Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les droits de douane pèsent sur les prix, le conflit avec l’Iran fait grimper les cours de l’énergie et les besoins de financement du gouvernement américain restent considérables. Tout cela finit par se traduire dans une même tendance : la hausse du taux d’intérêt à dix ans, explique Stéphane Lauer, éditorialiste au « Monde », dans sa chronique."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/21/le-marche-obligataire-rappelle-a-donald-trump-que-le-prix-de-l-argent-ne-se-decrete-pas_6779128_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/21/le-marche-obligataire-rappelle-a-donald-trump-que-le-prix-de-l-argent-ne-se-decrete-pas_6779128_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/21/le-marche-obligataire-rappelle-a-donald-trump-que-le-prix-de-l-argent-ne-se-decrete-pas_6779128_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/1363/0/8177/4088/644/322/60/0/f452d12_ftp-1-5phoyvdlh5pp-5106127-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président de la Réserve fédérale américaine, Kevin Warsh, à Washington, le 16 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAUL LOEB/AFP"
+      }
+    ],
+    "credit": "SAUL LOEB/AFP"
+  }
+}

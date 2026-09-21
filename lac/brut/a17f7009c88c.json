@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T17:53:49.351080+00:00",
+  "_id": "a17f7009c88c",
+  "brut": {
+    "title": "Un cargo entre en collision avec un bâteau de pêche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un cargo entre en collision avec un bâteau de pêche"
+    },
+    "summary": "Un cargo vraquier battant pavillon panaméen a heurté un bâteau de pêche chinois dans le détroit de Singapour. La collision spectaculaire aurait eu lieu jeudi 17 septembre 2026. Aucune victimes n’a été signalée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un cargo vraquier battant pavillon panaméen a heurté un bâteau de pêche chinois dans le détroit de Singapour. La collision spectaculaire aurait eu lieu jeudi 17 septembre 2026. Aucune victimes n’a été signalée."
+    },
+    "published": "Mon, 21 Sep 2026 11:36:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      9,
+      36,
+      9,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/un-cargo-entre-en-collision-avec-un-bateau-de-peche_8202797.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/zwhHK2TMMPfpw6sQixJomW12hlM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/21/6ab0f9d5168fb144962524.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/un-cargo-entre-en-collision-avec-un-bateau-de-peche_8202797.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/un-cargo-entre-en-collision-avec-un-bateau-de-peche_8202797.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

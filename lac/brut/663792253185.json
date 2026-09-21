@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T17:53:49.349288+00:00",
+  "_id": "663792253185",
+  "brut": {
+    "title": "Grèce : Atokos, l'île aux cochons",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Grèce : Atokos, l'île aux cochons"
+    },
+    "summary": "L'île d'Atokos en Grèce attire une foule croissante de touristes venus nager avec des cochons noirs sauvages. Ce phénomène viral transforme cette île privée des Ioniennes en attraction majeure, où les visiteurs déboursent entre 30 et 90 euros pour approcher ces animaux au comportement imprévisible.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'île d'Atokos en Grèce attire une foule croissante de touristes venus nager avec des cochons noirs sauvages. Ce phénomène viral transforme cette île privée des Ioniennes en attraction majeure, où les visiteurs déboursent entre 30 et 90 euros pour approcher ces animaux au comportement imprévisible."
+    },
+    "published": "Mon, 21 Sep 2026 17:01:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      15,
+      1,
+      58,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/tourisme/grece-atokos-l-ile-aux-cochons_8203103.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/bLimHnYiSSr7S6Eap49YKAIas3s/61x0:1225x655/432x243/filters:format(jpg)/2026/09/21/6ab13d9d3409c827420825.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/tourisme/grece-atokos-l-ile-aux-cochons_8203103.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/tourisme/grece-atokos-l-ile-aux-cochons_8203103.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T17:53:49.349513+00:00",
+  "_id": "a546a24064e3",
+  "brut": {
+    "title": "Une attaque massive de drones sur Moscou fait 3 morts et 40 blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque massive de drones sur Moscou fait 3 morts et 40 blessés"
+    },
+    "summary": "Le Kremlin annonce dimanche 20 septembre une riposte après une attaque massive de drones sur la Russie. Des explosions ont été filmées dans la région de Moscou et notamment celle d’une raffinerie. En parallèle, Vladimir Poutine devrait revendiquer sa victoire lors des élections législatives.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Kremlin annonce dimanche 20 septembre une riposte après une attaque massive de drones sur la Russie. Des explosions ont été filmées dans la région de Moscou et notamment celle d’une raffinerie. En parallèle, Vladimir Poutine devrait revendiquer sa victoire lors des élections législatives."
+    },
+    "published": "Mon, 21 Sep 2026 15:30:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      13,
+      30,
+      18,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-attaque-massive-de-drones-sur-moscou-fait-3-morts-et-40-blesses_8202140.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/7LlCTGVKg_Ywm1u6Slq2mtpvcl0/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/20/6ab02b187b82f516938223.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-attaque-massive-de-drones-sur-moscou-fait-3-morts-et-40-blesses_8202140.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-attaque-massive-de-drones-sur-moscou-fait-3-morts-et-40-blesses_8202140.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
