@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T09:36:59.646874+00:00",
+  "_id": "02516b4c21fb",
+  "brut": {
+    "title": "Russie : les demandes d'aide à l'émigration en forte hausse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Russie : les demandes d'aide à l'émigration en forte hausse"
+    },
+    "summary": "Selon une association locale en Russie, les demandes d'aide à l'émigration sont en forte augmentation en 2026. Beaucoup de candidats au départ veulent notamment échapper à une nouvelle conscription.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon une association locale en Russie, les demandes d'aide à l'émigration sont en forte augmentation en 2026. Beaucoup de candidats au départ veulent notamment échapper à une nouvelle conscription."
+    },
+    "published": "Mon, 21 Sep 2026 10:41:24 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      8,
+      41,
+      24,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/russie-les-demandes-d-aide-a-l-emigration-en-forte-hausse_8202605.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QuLVoSGjp1vVpZ--4qav_AcQkSg/0x39:955x576/432x243/filters:format(jpg)/2026/09/21/6ab0d9efcd275297683613.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/russie-les-demandes-d-aide-a-l-emigration-en-forte-hausse_8202605.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/russie-les-demandes-d-aide-a-l-emigration-en-forte-hausse_8202605.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

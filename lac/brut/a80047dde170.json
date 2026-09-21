@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T09:36:59.526968+00:00",
+  "_id": "a80047dde170",
+  "brut": {
+    "title": "Donald Trump et Emmanuel Macron se rencontreront lundi à New York, en marge de l’Assemblée générale de l’ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump et Emmanuel Macron se rencontreront lundi à New York, en marge de l’Assemblée générale de l’ONU"
+    },
+    "published": "Mon, 21 Sep 2026 08:04:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      6,
+      4,
+      15,
+      0,
+      264,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 08:14:41 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      21,
+      6,
+      14,
+      41,
+      0,
+      264,
+      0
+    ],
+    "summary": "Le président américain recevra son homologue français lundi, à 23 h 35, heure de Paris, selon l’agenda publié dimanche soir par la Maison Blanche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain recevra son homologue français lundi, à 23 h 35, heure de Paris, selon l’agenda publié dimanche soir par la Maison Blanche."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/21/donald-trump-et-emmanuel-macron-se-rencontreront-lundi-a-new-york-en-marge-de-l-assemblee-generale-de-l-onu_6778772_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/21/donald-trump-et-emmanuel-macron-se-rencontreront-lundi-a-new-york-en-marge-de-l-assemblee-generale-de-l-onu_6778772_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/21/donald-trump-et-emmanuel-macron-se-rencontreront-lundi-a-new-york-en-marge-de-l-assemblee-generale-de-l-onu_6778772_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/647/0/7763/3881/644/322/60/0/843558b_ftp-1-rcjr6swsycg0-5130895-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron au premier jour de sa visite à Saint-Pierre-et-Miquelon, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUDOVIC MARIN/AFP"
+      }
+    ],
+    "credit": "LUDOVIC MARIN/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-21T09:36:59.649283+00:00",
+  "_id": "435ee732c653",
+  "brut": {
+    "title": "Donald Trump va rencontrer Emmanuel Macron à New York lundi soir en marge de l'Assemblée générale des Nations Unies",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump va rencontrer Emmanuel Macron à New York lundi soir en marge de l'Assemblée générale des Nations Unies"
+    },
+    "summary": "L'entretien est prévu à 23h35 heure de Paris, selon l'agenda du président américain publié dimanche soir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'entretien est prévu à 23h35 heure de Paris, selon l'agenda du président américain publié dimanche soir."
+    },
+    "published": "Mon, 21 Sep 2026 06:22:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      4,
+      22,
+      20,
+      0,
+      264,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/donald-trump-va-rencontrer-emmanuel-macron-a-new-york-lundi-soir-en-marge-de-l-assemblee-generale-des-nations-unies_8202458.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9gy0nINmUXHF7_GpY_wfNy5Urek/0x49:1024x625/432x243/filters:format(jpg)/2026/09/21/6ab0b07eb5218577879174.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/donald-trump-va-rencontrer-emmanuel-macron-a-new-york-lundi-soir-en-marge-de-l-assemblee-generale-des-nations-unies_8202458.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/donald-trump-va-rencontrer-emmanuel-macron-a-new-york-lundi-soir-en-marge-de-l-assemblee-generale-des-nations-unies_8202458.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T09:36:59.527143+00:00",
+  "_id": "dbd66dda372e",
+  "brut": {
+    "title": "Le « super El Niño » qui arrive pourrait effacer 20 milliards de dollars de croissance en Afrique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le « super El Niño » qui arrive pourrait effacer 20 milliards de dollars de croissance en Afrique"
+    },
+    "published": "Mon, 21 Sep 2026 07:00:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      5,
+      0,
+      7,
+      0,
+      264,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 09:47:44 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      21,
+      7,
+      47,
+      44,
+      0,
+      264,
+      0
+    ],
+    "summary": "Le phénomène météorologique devrait provoquer fortes pluies et inondations à l’Est, sécheresse au Sud et renforcer les vents secs à l’Ouest. Les récoltes mais aussi les voies de transport, donc le commerce, seront affectées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le phénomène météorologique devrait provoquer fortes pluies et inondations à l’Est, sécheresse au Sud et renforcer les vents secs à l’Ouest. Les récoltes mais aussi les voies de transport, donc le commerce, seront affectées."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/21/l-afrique-face-a-un-super-el-nino-qui-pourrait-effacer-20-milliards-de-dollars-de-croissance_6778734_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/21/l-afrique-face-a-un-super-el-nino-qui-pourrait-effacer-20-milliards-de-dollars-de-croissance_6778734_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/21/l-afrique-face-a-un-super-el-nino-qui-pourrait-effacer-20-milliards-de-dollars-de-croissance_6778734_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/11/0/4961/2480/644/322/60/0/4ec4598_upload-1-kaw79albrmfd-gettyimages-1835847666.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une inondation causée par El Niño dans la réserve nationale de Samburu (Kenya), le 24 novembre 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Eric Lafforgue/Art in All of Us/Corbis via Getty"
+      }
+    ],
+    "credit": "Eric Lafforgue/Art in All of Us/Corbis via Getty"
+  }
+}

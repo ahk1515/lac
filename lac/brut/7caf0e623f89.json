@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T09:36:59.526743+00:00",
+  "_id": "7caf0e623f89",
+  "brut": {
+    "title": "Où en est la guerre en Ukraine ? Suivez l’évolution des combats en cartes et graphiques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Où en est la guerre en Ukraine ? Suivez l’évolution des combats en cartes et graphiques"
+    },
+    "published": "Mon, 21 Sep 2026 08:20:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      6,
+      20,
+      46,
+      0,
+      264,
+      0
+    ],
+    "summary": "Visualisez l’évolution de la situation semaine après semaine depuis le début de la guerre en Ukraine, le 24 février 2022.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visualisez l’évolution de la situation semaine après semaine depuis le début de la guerre en Ukraine, le 24 février 2022."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/09/21/ou-en-est-la-guerre-en-ukraine-suivez-l-evolution-des-combats-en-cartes-et-graphiques_6696338_4355771.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/21/ou-en-est-la-guerre-en-ukraine-suivez-l-evolution-des-combats-en-cartes-et-graphiques_6696338_4355771.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/09/21/ou-en-est-la-guerre-en-ukraine-suivez-l-evolution-des-combats-en-cartes-et-graphiques_6696338_4355771.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/01/320/0/3840/1920/644/322/60/0/fc8f53f_upload-1-9w3i3hurmdw2-image-dappelukraine.png"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Le Monde"
+      }
+    ],
+    "credit": "Le Monde"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T09:36:59.527890+00:00",
+  "_id": "367256ecb936",
+  "brut": {
+    "title": "Les Etats-Unis multiplient les rapatriements forcés d’Haïtiens dans leur pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis multiplient les rapatriements forcés d’Haïtiens dans leur pays"
+    },
+    "published": "Mon, 21 Sep 2026 06:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      4,
+      0,
+      13,
+      0,
+      264,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 09:12:40 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      21,
+      7,
+      12,
+      40,
+      0,
+      264,
+      0
+    ],
+    "summary": "Dans un rapport publié lundi 21 septembre, l’ONG Human Rights Watch dénonce les conditions de ces expulsions et pointe les dangers auxquels les Haïtiens renvoyés sont soumis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans un rapport publié lundi 21 septembre, l’ONG Human Rights Watch dénonce les conditions de ces expulsions et pointe les dangers auxquels les Haïtiens renvoyés sont soumis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/21/les-etats-unis-multiplient-les-rapatriements-forces-d-haitiens-dans-leur-pays_6778694_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/21/les-etats-unis-multiplient-les-rapatriements-forces-d-haitiens-dans-leur-pays_6778694_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/21/les-etats-unis-multiplient-les-rapatriements-forces-d-haitiens-dans-leur-pays_6778694_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/27/0/0/5663/2831/644/322/60/0/45e39d7_ftp-1-fcxkaosoktmx-0d913b718da540468db921ab685b7e5d-0-8dfc746700414d869709a5b35d421a31.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des Haïtiens expulsés des Etats-Unis descendent d’avion à l’aéroport international du Cap-Haïtien (Haïti), le 27 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ketlain Difficile/AP"
+      }
+    ],
+    "credit": "Ketlain Difficile/AP"
+  }
+}
