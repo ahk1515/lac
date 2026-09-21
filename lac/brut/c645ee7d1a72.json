@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T03:27:28.466914+00:00",
+  "_id": "c645ee7d1a72",
+  "brut": {
+    "title": "En Allemagne, le parti de Friedrich Merz essuie une défaite historique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Allemagne, le parti de Friedrich Merz essuie une défaite historique"
+    },
+    "published": "Mon, 21 Sep 2026 00:22:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      20,
+      22,
+      22,
+      10,
+      6,
+      263,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 00:29:32 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      20,
+      22,
+      29,
+      32,
+      6,
+      263,
+      0
+    ],
+    "summary": "Pour la première fois depuis 1949, l’union démocrate-chrétienne (CDU), parti du chancelier, est passée sous les 5 % lors d’un scrutin régional, dans le Land de Mecklembourg-Poméranie-Occidentale, seuil requis pour être représentée au Parlement régional.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour la première fois depuis 1949, l’union démocrate-chrétienne (CDU), parti du chancelier, est passée sous les 5 % lors d’un scrutin régional, dans le Land de Mecklembourg-Poméranie-Occidentale, seuil requis pour être représentée au Parlement régional."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/21/en-allemagne-le-parti-de-friedrich-merz-essuie-une-defaite-historique_6778548_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/21/en-allemagne-le-parti-de-friedrich-merz-essuie-une-defaite-historique_6778548_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/21/en-allemagne-le-parti-de-friedrich-merz-essuie-une-defaite-historique_6778548_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/320/0/3808/1904/644/322/60/0/16d10b8_ftp-1-x4i0017anbib-2026-09-20t163345z-1842270819-rc24nnailtfm-rtrmadp-3-germany-election-berlin-merz.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chancelier, Friedrich Merz, au siège de la CDU à Berlin, en Allemagne, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Christian Mang/REUTERS"
+      }
+    ],
+    "credit": "Christian Mang/REUTERS"
+  }
+}

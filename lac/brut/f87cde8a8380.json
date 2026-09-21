@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T03:27:28.466299+00:00",
+  "_id": "f87cde8a8380",
+  "brut": {
+    "title": "Au Texas, un homme grièvement blessé par balle par un agent de l’ICE, la police de l’immigration américaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Texas, un homme grièvement blessé par balle par un agent de l’ICE, la police de l’immigration américaine"
+    },
+    "published": "Mon, 21 Sep 2026 05:23:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      3,
+      23,
+      45,
+      0,
+      264,
+      0
+    ],
+    "summary": "L’homme blessé, identifié par son avocate comme un ressortissant vénézuélien de 28 ans, a été hospitalisé dans un état grave mais stable.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’homme blessé, identifié par son avocate comme un ressortissant vénézuélien de 28 ans, a été hospitalisé dans un état grave mais stable."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/21/au-texas-un-homme-grievement-blesse-par-balle-par-un-agent-de-l-ice-la-police-de-l-immigration-americaine_6778652_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/21/au-texas-un-homme-grievement-blesse-par-balle-par-un-agent-de-l-ice-la-police-de-l-immigration-americaine_6778652_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/21/au-texas-un-homme-grievement-blesse-par-balle-par-un-agent-de-l-ice-la-police-de-l-immigration-americaine_6778652_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/300/0/3600/1800/644/322/60/0/cf77b66_ftp-1-e6akinsykvym-db0db6b34e1d42a2a5743ca08738b9d0-0-6615c490266341cfa3e2524b871e9245.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur les lieux où un homme a été blessé par balle par un agent de l’ICE, la police de l’immigration américaine, le 20 septembre 2026, à Austin (Texas)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Aaron E. Martinez / Aaron E. Martinez/Austin American-Statesman via AP"
+      }
+    ],
+    "credit": "Aaron E. Martinez / Aaron E. Martinez/Austin American-Statesman via AP"
+  }
+}

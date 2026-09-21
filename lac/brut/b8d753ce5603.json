@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-21T03:27:28.466729+00:00",
+  "_id": "b8d753ce5603",
+  "brut": {
+    "title": "Le crime organisé, premier fournisseur de cigarettes en Australie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le crime organisé, premier fournisseur de cigarettes en Australie"
+    },
+    "published": "Mon, 21 Sep 2026 05:00:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      21,
+      3,
+      0,
+      18,
+      0,
+      264,
+      0
+    ],
+    "updated": "Mon, 21 Sep 2026 05:11:10 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      21,
+      3,
+      11,
+      10,
+      0,
+      264,
+      0
+    ],
+    "summary": "Le prix exorbitant du tabac pousse la plupart des fumeurs à se tourner vers le marché noir, qui représente 80 % de la quantité de nicotine consommée sur l’île-continent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le prix exorbitant du tabac pousse la plupart des fumeurs à se tourner vers le marché noir, qui représente 80 % de la quantité de nicotine consommée sur l’île-continent."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/21/le-crime-organise-premier-fournisseur-de-cigarettes-en-australie_6778617_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/21/le-crime-organise-premier-fournisseur-de-cigarettes-en-australie_6778617_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/21/le-crime-organise-premier-fournisseur-de-cigarettes-en-australie_6778617_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/531/0/5531/2765/644/322/60/0/722cd2f_upload-1-qmg8xuonww3i-000-388338v.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans le centre de Sydney, en Australie, le 27 mars 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DAVID GRAY/AFP"
+      }
+    ],
+    "credit": "DAVID GRAY/AFP"
+  }
+}
