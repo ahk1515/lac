@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T22:44:39.095261+00:00",
+  "_id": "ea30557a17fb",
+  "brut": {
+    "title": "Infomaniak, l’acteur suisse qui milite pour l’autonomie numérique européenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Infomaniak, l’acteur suisse qui milite pour l’autonomie numérique européenne"
+    },
+    "published": "Tue, 22 Sep 2026 20:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      18,
+      0,
+      1,
+      1,
+      265,
+      0
+    ],
+    "summary": "Data centers moins énergivores, souveraineté numérique, protection des données et gouvernance originale : l’hébergeur helvétique indépendant, en plein développement, coche toutes les cases d’une alternative aux Big Tech. Les clients européens effrayés par les Gafam se bousculent au portillon.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Data centers moins énergivores, souveraineté numérique, protection des données et gouvernance originale : l’hébergeur helvétique indépendant, en plein développement, coche toutes les cases d’une alternative aux Big Tech. Les clients européens effrayés par les Gafam se bousculent au portillon."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/22/infomaniak-l-acteur-suisse-qui-milite-pour-l-autonomie-numerique-europeenne_6780283_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/22/infomaniak-l-acteur-suisse-qui-milite-pour-l-autonomie-numerique-europeenne_6780283_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/22/infomaniak-l-acteur-suisse-qui-milite-pour-l-autonomie-numerique-europeenne_6780283_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/450/0/5402/2701/644/322/60/0/7f2af66_upload-1-rjo8qi0g6jjg-infomaniak-staff.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Au siège d’Infomaniak, à Genève, en Suisse, le 13 juin 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Infomaniak"
+      }
+    ],
+    "credit": "Infomaniak"
+  }
+}

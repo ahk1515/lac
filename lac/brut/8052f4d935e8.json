@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T22:44:39.351075+00:00",
+  "_id": "8052f4d935e8",
+  "brut": {
+    "title": "Cinq morts et six disparus après le passage du typhon Dujuan au Japon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cinq morts et six disparus après le passage du typhon Dujuan au Japon"
+    },
+    "summary": "Au Japon, le typhon Dujuan s’éloigne désormais vers le Pacifique. Mais il laisse derrière lui des paysages dévastés par les inondations et les glissements de terrain. Au moins cinq personnes sont mortes et six sont toujours portées disparues.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Japon, le typhon Dujuan s’éloigne désormais vers le Pacifique. Mais il laisse derrière lui des paysages dévastés par les inondations et les glissements de terrain. Au moins cinq personnes sont mortes et six sont toujours portées disparues."
+    },
+    "published": "Tue, 22 Sep 2026 21:30:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      19,
+      30,
+      54,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cinq-morts-et-six-disparus-apres-le-passage-du-typhon-dujuan-au-japon_8205212.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vDs2V8L4xVltyZqaY_b9VY1UU7c/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/22/6ab2d69c040b2677211284.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cinq-morts-et-six-disparus-apres-le-passage-du-typhon-dujuan-au-japon_8205212.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cinq-morts-et-six-disparus-apres-le-passage-du-typhon-dujuan-au-japon_8205212.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

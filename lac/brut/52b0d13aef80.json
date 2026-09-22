@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T22:44:39.350529+00:00",
+  "_id": "52b0d13aef80",
+  "brut": {
+    "title": "Tamise : et au milieu coule l'Angleterre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tamise : et au milieu coule l'Angleterre"
+    },
+    "summary": "Au fil de la Tamise… Près de 350 kilomètres à travers l’Angleterre, et une grande partie de l’histoire britannique défile avec elle… Aujourd’hui encore, le fleuve attire promeneurs, pêcheurs, touristes, mais aussi des chercheurs de trésors qui fouillent la vase à marée basse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au fil de la Tamise… Près de 350 kilomètres à travers l’Angleterre, et une grande partie de l’histoire britannique défile avec elle… Aujourd’hui encore, le fleuve attire promeneurs, pêcheurs, touristes, mais aussi des chercheurs de trésors qui fouillent la vase à marée basse."
+    },
+    "published": "Tue, 22 Sep 2026 22:50:40 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      20,
+      50,
+      40,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tamise-et-au-milieu-coule-l-angleterre_8205287.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/g_J15L13HCLIZjRaWPHt_BSD4GA/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/22/6ab2e7eaa5a08849079873.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tamise-et-au-milieu-coule-l-angleterre_8205287.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tamise-et-au-milieu-coule-l-angleterre_8205287.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

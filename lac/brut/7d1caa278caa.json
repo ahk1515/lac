@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T22:44:39.350758+00:00",
+  "_id": "7d1caa278caa",
+  "brut": {
+    "title": "Médias exclus de la Maison Blanche, la presse américaine contre-attaque",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Médias exclus de la Maison Blanche, la presse américaine contre-attaque"
+    },
+    "summary": "Après l’interdiction de 3 médias, dont CNN, à la Maison Blanche la presse américaine joue la carte de la solidarité. La justice américaine doit se prononcer mercredi sur la légalité de ces exclusions",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après l’interdiction de 3 médias, dont CNN, à la Maison Blanche la presse américaine joue la carte de la solidarité. La justice américaine doit se prononcer mercredi sur la légalité de ces exclusions"
+    },
+    "published": "Tue, 22 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      20,
+      0,
+      2,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/medias-exclus-de-la-maison-blanche-la-presse-americaine-contre-attaque_8204804.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/VsiQYqhaS7P8tjGOuWUJ06US85k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/22/6ab2925d32f12875312153.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/medias-exclus-de-la-maison-blanche-la-presse-americaine-contre-attaque_8204804.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/medias-exclus-de-la-maison-blanche-la-presse-americaine-contre-attaque_8204804.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

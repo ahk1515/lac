@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T22:44:39.351172+00:00",
+  "_id": "4222f938c20c",
+  "brut": {
+    "title": "Quand les médias américains boycottent Donald Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quand les médias américains boycottent Donald Trump"
+    },
+    "summary": "L'administration Trump fait face à une fronde médiatique sans précédent suite à la révocation des accréditations de plusieurs rédactions. Invoquant le 1er amendement, les médias bannis dénoncent une entrave à la liberté d'informer, plongeant la communication présidentielle dans l'impasse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'administration Trump fait face à une fronde médiatique sans précédent suite à la révocation des accréditations de plusieurs rédactions. Invoquant le 1er amendement, les médias bannis dénoncent une entrave à la liberté d'informer, plongeant la communication présidentielle dans l'impasse."
+    },
+    "published": "Tue, 22 Sep 2026 22:59:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      20,
+      59,
+      39,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-les-medias-americains-boycottent-donald-trump_8205194.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8VrNYo0HKZSACPQgrpjPCan4GMg/29x0:1413x779/432x243/filters:format(jpg)/2026/09/22/6ab2d54eadec4626322644.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-les-medias-americains-boycottent-donald-trump_8205194.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-les-medias-americains-boycottent-donald-trump_8205194.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T22:44:39.352592+00:00",
+  "_id": "0f9312f4e02f",
+  "brut": {
+    "title": "Cuba au bord du gouffre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cuba au bord du gouffre"
+    },
+    "summary": "À Cuba, pour les habitants, les pénuries rythment le quotidien. Depuis la chute de Nicolas Maduro au Venezuela, l'île a perdu un soutien pétrolier essentiel. Donald Trump bloque les approvisionnements, tandis que le régime cubain refuse de négocier son système politique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Cuba, pour les habitants, les pénuries rythment le quotidien. Depuis la chute de Nicolas Maduro au Venezuela, l'île a perdu un soutien pétrolier essentiel. Donald Trump bloque les approvisionnements, tandis que le régime cubain refuse de négocier son système politique."
+    },
+    "published": "Tue, 22 Sep 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      17,
+      0,
+      2,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/cuba/cuba-au-bord-du-gouffre_8204987.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/WApvHSPD_8uhdSBjtAXhqpI11Sw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/22/6ab2a7bb8cab6784268875.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/cuba/cuba-au-bord-du-gouffre_8204987.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/cuba/cuba-au-bord-du-gouffre_8204987.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

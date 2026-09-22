@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T22:44:39.351363+00:00",
+  "_id": "90306aeba1c3",
+  "brut": {
+    "title": "Le frère de Diana règle ses comptes avec la famille royale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le frère de Diana règle ses comptes avec la famille royale"
+    },
+    "summary": "\"Swan Song, Diana My Sister\", le livre du frère cadet de Diana, agite le Royaume-Uni. Charles Spencer s’en prend frontalement au roi Charles III, il l’accuse notamment d’avoir été « euphorique » le jour de la mort de Diana. Chose rare, Buckingham Palace a commenté les accusations les attribuant au chagrin d’un frère.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Swan Song, Diana My Sister\", le livre du frère cadet de Diana, agite le Royaume-Uni. Charles Spencer s’en prend frontalement au roi Charles III, il l’accuse notamment d’avoir été « euphorique » le jour de la mort de Diana. Chose rare, Buckingham Palace a commenté les accusations les attribuant au chagrin d’un frère."
+    },
+    "published": "Tue, 22 Sep 2026 21:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      19,
+      0,
+      1,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii/le-frere-de-diana-regle-ses-comptes-avec-la-famille-royale_8204822.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/uMNHQRhacXyowpeO1TVRi3IKjXg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/22/6ab2942ddfafc844699217.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii/le-frere-de-diana-regle-ses-comptes-avec-la-famille-royale_8204822.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii/le-frere-de-diana-regle-ses-comptes-avec-la-famille-royale_8204822.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
