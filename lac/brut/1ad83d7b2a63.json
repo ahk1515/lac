@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T03:26:32.260565+00:00",
+  "_id": "1ad83d7b2a63",
+  "brut": {
+    "title": "En Afrique du Sud, les compagnies de sécurité privées font la police",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Afrique du Sud, les compagnies de sécurité privées font la police"
+    },
+    "published": "Tue, 22 Sep 2026 04:45:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      2,
+      45,
+      7,
+      1,
+      265,
+      0
+    ],
+    "summary": "Dans une « nation arc-en-ciel » où sévit une criminalité galopante, la moitié des victimes de cambriolage ne font pas appel aux forces de l’ordre, réputées impuissantes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans une « nation arc-en-ciel » où sévit une criminalité galopante, la moitié des victimes de cambriolage ne font pas appel aux forces de l’ordre, réputées impuissantes."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/22/en-afrique-du-sud-les-compagnies-de-securite-privees-font-la-police_6779610_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/22/en-afrique-du-sud-les-compagnies-de-securite-privees-font-la-police_6779610_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/22/en-afrique-du-sud-les-compagnies-de-securite-privees-font-la-police_6779610_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2021/07/12/300/0/3600/1800/644/322/60/0/bcabb1b_5204643-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des agents d’une compagnie de sécurité privée, pendant des émeutes à Johannesburg, le 12 juillet 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MARCO LONGARI/AFP"
+      }
+    ],
+    "credit": "MARCO LONGARI/AFP"
+  }
+}
