@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T16:19:36.160240+00:00",
+  "_id": "effd49c50319",
+  "brut": {
+    "title": "Visite du pape à Paris : qui était frère Laurent de la Résurrection, source d’inspiration pour Léon XIV ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape à Paris : qui était frère Laurent de la Résurrection, source d’inspiration pour Léon XIV ?"
+    },
+    "published": "Tue, 22 Sep 2026 14:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      12,
+      0,
+      4,
+      1,
+      265,
+      0
+    ],
+    "summary": "Le 26 septembre, le pape visitera l’Institut catholique de Paris, rue de Vaugirard, campus au cœur duquel se trouve l’ancien couvent des Carmes déchaux. C’est là qu’a vécu, au XVIIᵉ siècle, un humble frère convers, Laurent de la Résurrection, figure à laquelle le souverain pontife est très attaché.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 26 septembre, le pape visitera l’Institut catholique de Paris, rue de Vaugirard, campus au cœur duquel se trouve l’ancien couvent des Carmes déchaux. C’est là qu’a vécu, au XVIIᵉ siècle, un humble frère convers, Laurent de la Résurrection, figure à laquelle le souverain pontife est très attaché."
+    },
+    "id": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/22/visite-du-pape-a-paris-qui-etait-frere-laurent-de-la-resurrection-source-d-inspiration-pour-leon-xiv_6780094_6038514.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/22/visite-du-pape-a-paris-qui-etait-frere-laurent-de-la-resurrection-source-d-inspiration-pour-leon-xiv_6780094_6038514.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/22/visite-du-pape-a-paris-qui-etait-frere-laurent-de-la-resurrection-source-d-inspiration-pour-leon-xiv_6780094_6038514.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/133/0/381/190/644/322/60/0/f569493_upload-1-pwdsvhgojxgy-brother-lawrence-in-the-kitchen.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Gravure représentant frère Laurent de la Résurrection dans sa cuisine, tirée d’un livre publié en 1900 par l’éditeur américain Fleming Revell Co."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fleming Revell Co./Wikimedia Commons"
+      }
+    ],
+    "credit": "Fleming Revell Co./Wikimedia Commons"
+  }
+}

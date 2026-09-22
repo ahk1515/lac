@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T16:19:36.159315+00:00",
+  "_id": "6f0485a5c011",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Tue, 22 Sep 2026 14:48:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      12,
+      48,
+      34,
+      1,
+      265,
+      0
+    ],
+    "updated": "Tue, 22 Sep 2026 17:30:46 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      22,
+      15,
+      30,
+      46,
+      1,
+      265,
+      0
+    ],
+    "summary": "Dans son discours prononcé devant l’Assemblée générale des Nations unies, Donald Trump a déclaré qu’un accord entre la Russie et l’Ukraine arriverait « plus tôt qu’on ne le pense ». Il avait déjà tenu plusieurs fois des propos similaires, sans que de réels progrès en vue d’une résolution du conflit n’aient été faits.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans son discours prononcé devant l’Assemblée générale des Nations unies, Donald Trump a déclaré qu’un accord entre la Russie et l’Ukraine arriverait « plus tôt qu’on ne le pense ». Il avait déjà tenu plusieurs fois des propos similaires, sans que de réels progrès en vue d’une résolution du conflit n’aient été faits."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-apres-les-legislatives-en-russie-quelles-consequences-pour-la-guerre-en-ukraine-et-le-pouvoir-de-vladimir-poutine-posez-vos-questions-a-notre-journaliste_6777944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-apres-les-legislatives-en-russie-quelles-consequences-pour-la-guerre-en-ukraine-et-le-pouvoir-de-vladimir-poutine-posez-vos-questions-a-notre-journaliste_6777944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-apres-les-legislatives-en-russie-quelles-consequences-pour-la-guerre-en-ukraine-et-le-pouvoir-de-vladimir-poutine-posez-vos-questions-a-notre-journaliste_6777944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/550/0/4600/2300/644/322/60/0/69dea31_ftp-1-2hsco8cnphvr-2026-09-20t183938z-1633316510-rc25nnahwstv-rtrmadp-3-russia-election.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un bureau de vote dans la ville de Podolsk, près de Moscou, en Russie, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ramil Sitdikov/REUTERS"
+      }
+    ],
+    "credit": "Ramil Sitdikov/REUTERS"
+  }
+}

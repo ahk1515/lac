@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T16:19:36.380890+00:00",
+  "_id": "b8bff7b7a235",
+  "brut": {
+    "title": "Emmanuel Macron n'assistera à aucune des messes du pape pendant sa visite en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron n'assistera à aucune des messes du pape pendant sa visite en France"
+    },
+    "summary": "Pour la messe en plein air de samedi, qui se tiendra place de la Concorde, à Paris, il sera représenté par son épouse Brigitte Macron et le Premier ministre Sébastien Lecornu, a annoncé la présidence, mardi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour la messe en plein air de samedi, qui se tiendra place de la Concorde, à Paris, il sera représenté par son épouse Brigitte Macron et le Premier ministre Sébastien Lecornu, a annoncé la présidence, mardi."
+    },
+    "published": "Tue, 22 Sep 2026 14:59:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      12,
+      59,
+      37,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/emmanuel-macron-n-assistera-a-aucune-des-messes-du-pape-pendant-sa-visite-en-france_8204552.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CxZy29vjgp7c7Q9O_gwmTai3Zow/0x0:1024x576/432x243/filters:format(jpg)/2026/09/22/6ab25a74a6350015680386.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/emmanuel-macron-n-assistera-a-aucune-des-messes-du-pape-pendant-sa-visite-en-france_8204552.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/emmanuel-macron-n-assistera-a-aucune-des-messes-du-pape-pendant-sa-visite-en-france_8204552.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

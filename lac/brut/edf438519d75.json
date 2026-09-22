@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T16:19:36.160563+00:00",
+  "_id": "edf438519d75",
+  "brut": {
+    "title": "Visite de Léon XIV : Emmanuel Macron a invité tous les dirigeants de l’UE au discours du pape sur l’Europe à Metz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite de Léon XIV : Emmanuel Macron a invité tous les dirigeants de l’UE au discours du pape sur l’Europe à Metz"
+    },
+    "published": "Tue, 22 Sep 2026 13:54:23 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      11,
+      54,
+      23,
+      1,
+      265,
+      0
+    ],
+    "updated": "Tue, 22 Sep 2026 15:47:31 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      22,
+      13,
+      47,
+      31,
+      1,
+      265,
+      0
+    ],
+    "summary": "Pour cet événement prévu lundi, au quatrième jour de la visite apostolique du pape Léon XIV en France, un « format européen » a été privilégié, limité aux représentants des institutions de l’Union européenne et aux dirigeants des pays membres, selon l’Elysée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour cet événement prévu lundi, au quatrième jour de la visite apostolique du pape Léon XIV en France, un « format européen » a été privilégié, limité aux représentants des institutions de l’Union européenne et aux dirigeants des pays membres, selon l’Elysée."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/22/visite-de-leon-xiv-emmanuel-macron-a-invite-tous-les-dirigeants-de-l-ue-au-discours-du-pape-sur-l-europe-a-metz_6780092_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/22/visite-de-leon-xiv-emmanuel-macron-a-invite-tous-les-dirigeants-de-l-ue-au-discours-du-pape-sur-l-europe-a-metz_6780092_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/22/visite-de-leon-xiv-emmanuel-macron-a-invite-tous-les-dirigeants-de-l-ue-au-discours-du-pape-sur-l-europe-a-metz_6780092_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/504/0/6048/3024/644/322/60/0/18b5da8_ftp-1-6y7jpi4t7kue-44a315f5f4204dffa9598a012b0272f3-0-c33b2b95d7ab49729cfb5f0ba1aad415.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Banderole annonçant la venue du pape Léon XIV, sur le parvis de la cathédrale Saint-Etienne, à Metz le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Pascal Bastien/AP Photo"
+      }
+    ],
+    "credit": "Pascal Bastien/AP Photo"
+  }
+}

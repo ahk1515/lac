@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T16:19:36.380086+00:00",
+  "_id": "5e6b1eabd79b",
+  "brut": {
+    "title": "Japon : Tokyo sous le choc après le passage du typhon Dujuan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Japon : Tokyo sous le choc après le passage du typhon Dujuan"
+    },
+    "summary": "Le typhon Dujuan a frappé Tokyo avec des vents de 140 km/h, causant au moins quatre morts et six disparus. Ce 25e phénomène a déversé un mètre de pluie en 48 heures, provoquant des inondations massives et l'annulation de 270 vols dans une région paralysée par la boue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le typhon Dujuan a frappé Tokyo avec des vents de 140 km/h, causant au moins quatre morts et six disparus. Ce 25e phénomène a déversé un mètre de pluie en 48 heures, provoquant des inondations massives et l'annulation de 270 vols dans une région paralysée par la boue."
+    },
+    "published": "Tue, 22 Sep 2026 15:13:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      13,
+      13,
+      29,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/japon-tokyo-sous-le-choc-apres-le-passage-du-typhon-dujuan_8204690.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/cBKrAamUN4Xm7FojFUj5w66K9iU/57x0:1460x789/432x243/filters:format(jpg)/2026/09/22/6ab27ede496bb910862153.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/japon-tokyo-sous-le-choc-apres-le-passage-du-typhon-dujuan_8204690.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/japon-tokyo-sous-le-choc-apres-le-passage-du-typhon-dujuan_8204690.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

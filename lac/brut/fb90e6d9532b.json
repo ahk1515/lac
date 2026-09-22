@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T16:19:36.158737+00:00",
+  "_id": "fb90e6d9532b",
+  "brut": {
+    "title": "Au Liberia, la fin de l’aide américaine fait exploser la malnutrition infantile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Liberia, la fin de l’aide américaine fait exploser la malnutrition infantile"
+    },
+    "published": "Tue, 22 Sep 2026 15:00:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      13,
+      0,
+      8,
+      1,
+      265,
+      0
+    ],
+    "updated": "Tue, 22 Sep 2026 17:49:55 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      22,
+      15,
+      49,
+      55,
+      1,
+      265,
+      0
+    ],
+    "summary": "La fermeture de l’Agence des Etats-Unis pour le développement international, dissoute en 2025 par Donald Trump, a de graves conséquences en Afrique, notamment au Liberia, où seuls 2,4 % des enfants de moins de 2 ans bénéficient d’une alimentation minimale acceptable.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La fermeture de l’Agence des Etats-Unis pour le développement international, dissoute en 2025 par Donald Trump, a de graves conséquences en Afrique, notamment au Liberia, où seuls 2,4 % des enfants de moins de 2 ans bénéficient d’une alimentation minimale acceptable."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/22/au-liberia-la-fin-de-l-aide-americaine-fait-exploser-la-malnutrition-infantile_6780101_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/22/au-liberia-la-fin-de-l-aide-americaine-fait-exploser-la-malnutrition-infantile_6780101_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/22/au-liberia-la-fin-de-l-aide-americaine-fait-exploser-la-malnutrition-infantile_6780101_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/1014/0/3024/1512/644/322/60/0/f34c456_upload-1-eqegdbr16njx-image00001.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Naomie Gorpee, mère de deux enfants atteint de malnutrition, dans un village du comté de Grand Bassa (Liberia), début septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "THEODORE LAURENT"
+      }
+    ],
+    "credit": "THEODORE LAURENT"
+  }
+}

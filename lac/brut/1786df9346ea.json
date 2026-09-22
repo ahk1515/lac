@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T16:19:36.156549+00:00",
+  "_id": "1786df9346ea",
+  "brut": {
+    "title": "« A bord du “Titanic” de l’IA, les passagers paniquent, même si le paquebot n’a pas encore heurté l’iceberg »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« A bord du “Titanic” de l’IA, les passagers paniquent, même si le paquebot n’a pas encore heurté l’iceberg »"
+    },
+    "published": "Tue, 22 Sep 2026 17:15:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      15,
+      15,
+      4,
+      1,
+      265,
+      0
+    ],
+    "summary": "Personne ne semble pouvoir freiner le navire de l’intelligence artificielle, constate Arnaud Leparmentier, dans sa chronique. A la proue, l’industrie de la tech s’égosille ; sur la passerelle de navigation, c’est la cacophonie ; et, en troisième classe, les Européens pérorent, dépassés. Mais y a-t-il seulement un iceberg en vue ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Personne ne semble pouvoir freiner le navire de l’intelligence artificielle, constate Arnaud Leparmentier, dans sa chronique. A la proue, l’industrie de la tech s’égosille ; sur la passerelle de navigation, c’est la cacophonie ; et, en troisième classe, les Européens pérorent, dépassés. Mais y a-t-il seulement un iceberg en vue ?"
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/22/a-bord-du-titanic-de-l-ia-les-passagers-paniquent-meme-si-le-paquebot-n-a-pas-encore-heurte-l-iceberg_6780251_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/22/a-bord-du-titanic-de-l-ia-les-passagers-paniquent-meme-si-le-paquebot-n-a-pas-encore-heurte-l-iceberg_6780251_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/22/a-bord-du-titanic-de-l-ia-les-passagers-paniquent-meme-si-le-paquebot-n-a-pas-encore-heurte-l-iceberg_6780251_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/279/0/3000/1500/644/322/60/0/9e4e224_ftp-1-u7pi3knafcs3-5115165-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une manifestation contre le développement exponentiel de l’intelligence artificielle, à San Francisco, le 17 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KARL MONDON/AFP"
+      }
+    ],
+    "credit": "KARL MONDON/AFP"
+  }
+}

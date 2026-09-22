@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T16:19:36.160938+00:00",
+  "_id": "82cdb6125088",
+  "brut": {
+    "title": "Yémen : l’ONU prévoit 230 000 déplacés et 10 000 réfugiés à Djibouti dans les prochains mois",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Yémen : l’ONU prévoit 230 000 déplacés et 10 000 réfugiés à Djibouti dans les prochains mois"
+    },
+    "published": "Tue, 22 Sep 2026 12:31:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      10,
+      31,
+      15,
+      1,
+      265,
+      0
+    ],
+    "updated": "Tue, 22 Sep 2026 15:08:06 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      22,
+      13,
+      8,
+      6,
+      1,
+      265,
+      0
+    ],
+    "summary": "Les combats au Yémen ont fait 154 morts ces deux derniers jours, ont précisé à l’Agence France-Presse des sources militaires dans les deux camps.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les combats au Yémen ont fait 154 morts ces deux derniers jours, ont précisé à l’Agence France-Presse des sources militaires dans les deux camps."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/22/yemen-l-onu-prevoit-230-000-deplaces-et-10-000-refugies-a-djibouti-dans-les-prochains-mois_6780087_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/22/yemen-l-onu-prevoit-230-000-deplaces-et-10-000-refugies-a-djibouti-dans-les-prochains-mois_6780087_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/22/yemen-l-onu-prevoit-230-000-deplaces-et-10-000-refugies-a-djibouti-dans-les-prochains-mois_6780087_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/485/0/5824/2912/644/322/60/0/8b894d5_ftp-1-makgtce6vm66-88bd7a1fbcc346099431599881e80f77-0-41f3c22690df45bdabe091bb27fbaba0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des Yéménites déplacés transportent de l’eau dans le camp d’Al-Firdaws dans la banlieue ouest d’Aden (Yémen), le 21 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdulnasser Alseddik/AP Photo"
+      }
+    ],
+    "credit": "Abdulnasser Alseddik/AP Photo"
+  }
+}

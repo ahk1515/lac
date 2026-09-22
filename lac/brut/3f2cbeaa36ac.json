@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T16:19:36.381043+00:00",
+  "_id": "3f2cbeaa36ac",
+  "brut": {
+    "title": "À quoi joue le Rassemblement National sur l’Ukraine ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À quoi joue le Rassemblement National sur l’Ukraine ?"
+    },
+    "summary": "Alors que Laurent Jacobelli est actuellement à Kiev, est-il logique pour le parti RN d'envoyer un député sur place lorsqu'il veut couper le robinet des aides ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Alors que Laurent Jacobelli est actuellement à Kiev, est-il logique pour le parti RN d'envoyer un député sur place lorsqu'il veut couper le robinet des aides ?"
+    },
+    "published": "Tue, 22 Sep 2026 12:20:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      10,
+      20,
+      1,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/politique/front-national/a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8204498.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xbKX4H1CX3MewWkV56Jpf6b1FPk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/22/6ab251df0e99d376461095.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/politique/front-national/a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8204498.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/politique/front-national/a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8204498.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

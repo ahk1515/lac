@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T16:19:36.155905+00:00",
+  "_id": "cc9673a337fc",
+  "brut": {
+    "title": "VIDEO On vous explique la guerre entre Donald Trump et les médias américains",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO On vous explique la guerre entre Donald Trump et les médias américains"
+    },
+    "published": "Tue, 22 Sep 2026 17:23:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      15,
+      23,
+      34,
+      1,
+      265,
+      0
+    ],
+    "summary": "Si le président des Etats-Unis est connu pour critiquer régulièrement les médias dont la couverture lui déplaît, un nouveau cap a été franchi. Si bien que l’habituel parterre de journalistes autour de lui a désormais disparu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Si le président des Etats-Unis est connu pour critiquer régulièrement les médias dont la couverture lui déplaît, un nouveau cap a été franchi. Si bien que l’habituel parterre de journalistes autour de lui a désormais disparu."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/22/etats-unis-on-vous-explique-la-guerre-entre-donald-trump-et-les-medias-americains_6780254_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/22/etats-unis-on-vous-explique-la-guerre-entre-donald-trump-et-les-medias-americains_6780254_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/22/etats-unis-on-vous-explique-la-guerre-entre-donald-trump-et-les-medias-americains_6780254_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/444/0/5328/2664/644/322/60/0/4de5ae2_ftp-1-9d4vr5btdcno-8a27ce0d9b954aabab7c8f2a1d7baae4-0-99f9e40bf34647ed88a080f8a63b86a2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain a inauguré une plateforme pour hélicoptères à la Maison Blanche, le 21 septembre 2026, à Washington, aux Etats-Unis."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alex Brandon / AP Photo/Alex Brandon"
+      }
+    ],
+    "credit": "Alex Brandon / AP Photo/Alex Brandon"
+  }
+}
