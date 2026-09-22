@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T09:01:44.417904+00:00",
+  "_id": "1f462a7d8001",
+  "brut": {
+    "title": "Un typhon tue quatre personnes au Japon, des milliers de foyers sans électricité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un typhon tue quatre personnes au Japon, des milliers de foyers sans électricité"
+    },
+    "published": "Tue, 22 Sep 2026 06:25:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      4,
+      25,
+      58,
+      1,
+      265,
+      0
+    ],
+    "updated": "Tue, 22 Sep 2026 09:44:12 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      22,
+      7,
+      44,
+      12,
+      1,
+      265,
+      0
+    ],
+    "summary": "Plus de 1,6 million d’habitants de la capitale et des régions voisines avaient été appelés à évacuer avant le passage de Dujuan. Mardi matin, les autorités commençaient à lever leurs principales alertes, alors que le typhon s’éloignait des côtes japonaises.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plus de 1,6 million d’habitants de la capitale et des régions voisines avaient été appelés à évacuer avant le passage de Dujuan. Mardi matin, les autorités commençaient à lever leurs principales alertes, alors que le typhon s’éloignait des côtes japonaises."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/22/au-japon-le-typhon-dujuan-fait-au-moins-deux-morts-dans-la-region-de-tokyo_6779790_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/22/au-japon-le-typhon-dujuan-fait-au-moins-deux-morts-dans-la-region-de-tokyo_6779790_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/22/au-japon-le-typhon-dujuan-fait-au-moins-deux-morts-dans-la-region-de-tokyo_6779790_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/330/0/3968/1984/644/322/60/0/7428344_ftp-1-uqqt6yqxocms-2026-09-22t033526z-357048224-rc23onaxs1ux-rtrmadp-3-asia-weather-japan.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Opérations de recherche après un glissement de terrain provoqué par le passage du typhon Dujuan, à Miura, dans le département de Kanagawa, au Japon, le 22 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KYODO / via REUTERS"
+      }
+    ],
+    "credit": "KYODO / via REUTERS"
+  }
+}

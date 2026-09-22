@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T09:01:44.612779+00:00",
+  "_id": "1d049c78f785",
+  "brut": {
+    "title": "Crises géopolitiques, prix des carburants, budget 2027... Le \"8h30 franceinfo\" de Thomas Ménagé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Crises géopolitiques, prix des carburants, budget 2027... Le \"8h30 franceinfo\" de Thomas Ménagé"
+    },
+    "summary": "Le député RN du Loiret et porte-parole du parti, est l'invité du \"8h30 franceinfo\", mardi 22 septembre 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le député RN du Loiret et porte-parole du parti, est l'invité du \"8h30 franceinfo\", mardi 22 septembre 2026."
+    },
+    "published": "Tue, 22 Sep 2026 09:07:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      7,
+      7,
+      49,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crises-geopolitiques-prix-des-carburants-budget-2027-le-8h30-franceinfo-de-thomas-menage_8182028.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YJIrY1ZZLey-6uULYN-_w2jI8KE/0x0:1280x720/432x243/filters:format(jpg)/2026/09/22/6ab226ea7cd04016576592.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crises-geopolitiques-prix-des-carburants-budget-2027-le-8h30-franceinfo-de-thomas-menage_8182028.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crises-geopolitiques-prix-des-carburants-budget-2027-le-8h30-franceinfo-de-thomas-menage_8182028.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

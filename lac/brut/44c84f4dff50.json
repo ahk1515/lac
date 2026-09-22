@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T09:01:44.416275+00:00",
+  "_id": "44c84f4dff50",
+  "brut": {
+    "title": "Visite du pape Léon XIV : avec la tunique du Christ exposée au Stade de France, le retour en grâce du culte des reliques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape Léon XIV : avec la tunique du Christ exposée au Stade de France, le retour en grâce du culte des reliques"
+    },
+    "published": "Tue, 22 Sep 2026 10:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      8,
+      0,
+      4,
+      1,
+      265,
+      0
+    ],
+    "summary": "Soigneusement conservé à la basilique d’Argenteuil, en banlieue parisienne, le vêtement sacré à l’authenticité contestée sera présenté à Saint-Denis le 25 septembre, lors de la venue du pape à Paris.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soigneusement conservé à la basilique d’Argenteuil, en banlieue parisienne, le vêtement sacré à l’authenticité contestée sera présenté à Saint-Denis le 25 septembre, lors de la venue du pape à Paris."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/09/22/visite-du-pape-leon-xiv-avec-la-tunique-du-christ-exposee-au-stade-de-france-le-retour-en-grace-du-culte-des-reliques_6780036_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/09/22/visite-du-pape-leon-xiv-avec-la-tunique-du-christ-exposee-au-stade-de-france-le-retour-en-grace-du-culte-des-reliques_6780036_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/09/22/visite-du-pape-leon-xiv-avec-la-tunique-du-christ-exposee-au-stade-de-france-le-retour-en-grace-du-culte-des-reliques_6780036_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/3622/0/4912/2456/644/322/60/0/ef15185_upload-1-bosthx48ehoi-sipa-01206615-000019.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors de la présentation de la sainte tunique du Christ restaurée, à la basilique d’Argenteuil (Val-d’Oise), le 25 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NICOLAS MESSYASZ/SIPA"
+      }
+    ],
+    "credit": "NICOLAS MESSYASZ/SIPA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T09:01:44.612274+00:00",
+  "_id": "4aed405ce677",
+  "brut": {
+    "title": "Quatre morts en Ukraine après des frappes russes nocturnes sur Dnipro",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatre morts en Ukraine après des frappes russes nocturnes sur Dnipro"
+    },
+    "summary": "Quatre autres personnes ont par ailleurs été blessées, dont une grièvement, selon les autorités locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quatre autres personnes ont par ailleurs été blessées, dont une grièvement, selon les autorités locales."
+    },
+    "published": "Tue, 22 Sep 2026 10:34:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      8,
+      34,
+      17,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-morts-en-ukraine-apres-des-frappes-russes-nocturnes-sur-dnipro_8204276.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3J3rdxyyEC0CGZGyJVYxtgx9XDA/0x106:1024x682/432x243/filters:format(jpg)/2026/09/22/6ab23d100b6a0592311987.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-morts-en-ukraine-apres-des-frappes-russes-nocturnes-sur-dnipro_8204276.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-morts-en-ukraine-apres-des-frappes-russes-nocturnes-sur-dnipro_8204276.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

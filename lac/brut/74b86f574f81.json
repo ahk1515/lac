@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T09:01:44.418607+00:00",
+  "_id": "74b86f574f81",
+  "brut": {
+    "title": "Au Yémen, des frappes saoudiennes sur Moka font six morts, selon les houthistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, des frappes saoudiennes sur Moka font six morts, selon les houthistes"
+    },
+    "published": "Tue, 22 Sep 2026 05:48:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      3,
+      48,
+      20,
+      1,
+      265,
+      0
+    ],
+    "summary": "Sous pression depuis la prise du détroit stratégique de Bab Al-Mandab par les houthistes, l’Arabie saoudite bombarde quotidiennement les zones contrôlées par ces combattants antigouvernementaux au Yémen, sans parvenir pour l’heure à les faire reculer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sous pression depuis la prise du détroit stratégique de Bab Al-Mandab par les houthistes, l’Arabie saoudite bombarde quotidiennement les zones contrôlées par ces combattants antigouvernementaux au Yémen, sans parvenir pour l’heure à les faire reculer."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/22/au-yemen-des-frappes-saoudiennes-sur-moka-font-six-morts-selon-les-houthistes_6779748_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/22/au-yemen-des-frappes-saoudiennes-sur-moka-font-six-morts-selon-les-houthistes_6779748_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/22/au-yemen-des-frappes-saoudiennes-sur-moka-font-six-morts-selon-les-houthistes_6779748_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/110/0/1480/740/644/322/60/0/c4117f1_upload-1-7euo4kqkcyrg-capture-d-e-cran-2026-09-21-a-8-28-11-pm.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ville portuaire de Moka au Yémen"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Le Monde"
+      }
+    ],
+    "credit": "Le Monde"
+  }
+}

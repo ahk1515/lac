@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T09:01:44.416460+00:00",
+  "_id": "ab35fd38166c",
+  "brut": {
+    "title": "En Italie, Giorgia Meloni, concurrencée sur sa droite, durcit le ton contre l’islam",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Italie, Giorgia Meloni, concurrencée sur sa droite, durcit le ton contre l’islam"
+    },
+    "published": "Tue, 22 Sep 2026 09:33:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      7,
+      33,
+      13,
+      1,
+      265,
+      0
+    ],
+    "summary": "Fragilisée par la montée en puissance du nouveau parti de l’ex-général Roberto Vannacci, et alors que la parole islamophobe se libère dans le pays, la présidente du conseil italien souhaite interdire la burqa et le niqab à l’école, et plafonner le nombre d’élèves étrangers par classe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Fragilisée par la montée en puissance du nouveau parti de l’ex-général Roberto Vannacci, et alors que la parole islamophobe se libère dans le pays, la présidente du conseil italien souhaite interdire la burqa et le niqab à l’école, et plafonner le nombre d’élèves étrangers par classe."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/22/en-italie-giorgia-meloni-concurrencee-sur-sa-droite-durcit-le-ton-contre-l-islam_6779969_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/22/en-italie-giorgia-meloni-concurrencee-sur-sa-droite-durcit-le-ton-contre-l-islam_6779969_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/22/en-italie-giorgia-meloni-concurrencee-sur-sa-droite-durcit-le-ton-contre-l-islam_6779969_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/385/0/4617/2308/644/322/60/0/a51166f_ftp-1-trnlpuvrlcvn-900e1157fb7941b99e88e829145c1aab-0-8bc33270a24a49b7bd4a721295d21c80.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Giorgia Meloni, présidente du conseil italien, à Rome, le 16 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mauro Scrobogna/LaPresse via AP"
+      }
+    ],
+    "credit": "Mauro Scrobogna/LaPresse via AP"
+  }
+}

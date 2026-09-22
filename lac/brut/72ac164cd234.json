@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-22T09:01:44.416071+00:00",
+  "_id": "72ac164cd234",
+  "brut": {
+    "title": "Turquie : au moins huit blessés à la suite de tirs devant une école, un suspect interpellé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Turquie : au moins huit blessés à la suite de tirs devant une école, un suspect interpellé"
+    },
+    "published": "Tue, 22 Sep 2026 10:36:48 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      8,
+      36,
+      48,
+      1,
+      265,
+      0
+    ],
+    "updated": "Tue, 22 Sep 2026 10:54:11 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      22,
+      8,
+      54,
+      11,
+      1,
+      265,
+      0
+    ],
+    "summary": "L’attaque, qui fait suite à deux autres dans le pays cette année, s’est produite devant un lycée professionnel et technique du district de Turgutlu, dans la province de Manisa, près de la grande ville d’Izmir, et les blessés ont été transportés à l’hôpital.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’attaque, qui fait suite à deux autres dans le pays cette année, s’est produite devant un lycée professionnel et technique du district de Turgutlu, dans la province de Manisa, près de la grande ville d’Izmir, et les blessés ont été transportés à l’hôpital."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/22/turquie-au-moins-huit-blesses-a-la-suite-de-tirs-devant-une-ecole-un-suspect-interpelle_6780073_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/22/turquie-au-moins-huit-blesses-a-la-suite-de-tirs-devant-une-ecole-un-suspect-interpelle_6780073_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/22/turquie-au-moins-huit-blesses-a-la-suite-de-tirs-devant-une-ecole-un-suspect-interpelle_6780073_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/94/0/3000/1500/644/322/60/0/edaf147_ftp-1-j6wlhmn63rjq-5149729-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant un lycée de Turgutlu, dans la province de Manisa (Turquie), où un tireur a ouvert le feu, blessant huit personnes, le 22 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Demiroren News Agency/AFP"
+      }
+    ],
+    "credit": "Demiroren News Agency/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-22T09:01:44.613692+00:00",
+  "_id": "ae71b1c00a28",
+  "brut": {
+    "title": "EDITO. À quoi joue le Rassemblement national sur l’Ukraine ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "EDITO. À quoi joue le Rassemblement national sur l’Ukraine ?"
+    },
+    "summary": "Le parti a remis en cause ces derniers jours le soutien financier à l'Ukraine en raison des finances publiques dégradées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parti a remis en cause ces derniers jours le soutien financier à l'Ukraine en raison des finances publiques dégradées."
+    },
+    "published": "Tue, 22 Sep 2026 08:10:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      22,
+      6,
+      10,
+      2,
+      1,
+      265,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8182076.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/BHJf-C37cFEZuHngUV-RlzyBRqw/0x53:1024x629/432x243/filters:format(jpg)/2026/09/22/6ab21084c3b33059705871.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8182076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8182076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
