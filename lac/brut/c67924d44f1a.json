@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T09:05:42.308152+00:00",
+  "_id": "c67924d44f1a",
+  "brut": {
+    "title": "Un dispositif de sécurité hors norme pour la visite du pape Léon XIV en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un dispositif de sécurité hors norme pour la visite du pape Léon XIV en France"
+    },
+    "summary": "À partir du vendredi 25 septembre, un dispositif de sécurité très important sera déployé en France pour la visite du pape Léon XIV, notamment à Paris, où un million de personnes sont attendues ce week-end.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À partir du vendredi 25 septembre, un dispositif de sécurité très important sera déployé en France pour la visite du pape Léon XIV, notamment à Paris, où un million de personnes sont attendues ce week-end."
+    },
+    "published": "Wed, 23 Sep 2026 09:51:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      7,
+      51,
+      16,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/un-dispositif-de-securite-hors-norme-pour-la-visite-du-pape-leon-xiv-en-france_8205950.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/brppFofrA0BYcMTYbHzkmCzn6UI/0x22:1030x602/432x243/filters:format(jpg)/2026/09/23/6ab3849813615172263081.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/un-dispositif-de-securite-hors-norme-pour-la-visite-du-pape-leon-xiv-en-france_8205950.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/un-dispositif-de-securite-hors-norme-pour-la-visite-du-pape-leon-xiv-en-france_8205950.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

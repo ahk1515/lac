@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T09:05:41.983788+00:00",
+  "_id": "05ade0e079d3",
+  "brut": {
+    "title": "E. Jean Carroll, la coriace qui a réussi à mettre Donald Trump au tapis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "E. Jean Carroll, la coriace qui a réussi à mettre Donald Trump au tapis"
+    },
+    "published": "Wed, 23 Sep 2026 06:00:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      4,
+      0,
+      44,
+      2,
+      266,
+      0
+    ],
+    "summary": "L’écrivaine et journaliste a intenté deux procès au civil contre le président américain pour agression sexuelle et diffamation. Dans « Not my type », qui vient de paraître, elle raconte les coulisses de ce combat hors norme dont elle est sortie victorieuse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’écrivaine et journaliste a intenté deux procès au civil contre le président américain pour agression sexuelle et diffamation. Dans « Not my type », qui vient de paraître, elle raconte les coulisses de ce combat hors norme dont elle est sortie victorieuse."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/23/e-jean-carroll-la-coriace-qui-a-reussi-a-mettre-donald-trump-au-tapis_6780582_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/23/e-jean-carroll-la-coriace-qui-a-reussi-a-mettre-donald-trump-au-tapis_6780582_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/23/e-jean-carroll-la-coriace-qui-a-reussi-a-mettre-donald-trump-au-tapis_6780582_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/295/0/3546/1773/644/322/60/0/d76da2d_upload-1-nfdisr2jm4hm-sipa-shutterstock41382568-000001.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "E. Jean Carroll, à New York, le 21 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Derek French/Shutterstock/SIPA"
+      }
+    ],
+    "credit": "Derek French/Shutterstock/SIPA"
+  }
+}

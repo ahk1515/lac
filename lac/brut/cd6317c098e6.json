@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T09:05:42.308468+00:00",
+  "_id": "cd6317c098e6",
+  "brut": {
+    "title": "Une fusillade fait 11 morts dans l'est de l'Afrique du Sud",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une fusillade fait 11 morts dans l'est de l'Afrique du Sud"
+    },
+    "summary": "Le mobile de l'attaque n'était pas connu dans l'immédiat. Les armes à feu, détenues légalement ou illégalement, sont largement répandues dans le pays et les fusillades fréquentes, notamment sur fond de rivalités entre gangs et de concurrence entre acteurs de l'économie parallèle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le mobile de l'attaque n'était pas connu dans l'immédiat. Les armes à feu, détenues légalement ou illégalement, sont largement répandues dans le pays et les fusillades fréquentes, notamment sur fond de rivalités entre gangs et de concurrence entre acteurs de l'économie parallèle."
+    },
+    "published": "Wed, 23 Sep 2026 09:27:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      7,
+      27,
+      7,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/afrique-du-sud/une-fusillade-fait-11-morts-dans-l-est-de-l-afrique-du-sud_8205938.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/21Gtr166s570aYa-i0XgLEK2GoQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/23/6ab37f22d11b1046804187.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/afrique-du-sud/une-fusillade-fait-11-morts-dans-l-est-de-l-afrique-du-sud_8205938.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/afrique-du-sud/une-fusillade-fait-11-morts-dans-l-est-de-l-afrique-du-sud_8205938.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

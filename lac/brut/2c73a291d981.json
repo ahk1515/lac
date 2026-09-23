@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T09:05:41.983605+00:00",
+  "_id": "2c73a291d981",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : plusieurs quartiers de Kiev touchés par des bombardements nocturnes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : plusieurs quartiers de Kiev touchés par des bombardements nocturnes"
+    },
+    "published": "Wed, 23 Sep 2026 06:39:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      4,
+      39,
+      14,
+      2,
+      266,
+      0
+    ],
+    "updated": "Wed, 23 Sep 2026 09:28:34 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      23,
+      7,
+      28,
+      34,
+      2,
+      266,
+      0
+    ],
+    "summary": "Les défenses antiaériennes ukrainiennes ont neutralisé 119 drones dans la nuit.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les défenses antiaériennes ukrainiennes ont neutralisé 119 drones dans la nuit."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-guerre-en-ukraine-le-chef-de-la-diplomatie-americaine-marco-rubio-va-rencontrer-son-homologue-russe-serguei-lavrov-mercredi-a-new-york_6777944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-guerre-en-ukraine-le-chef-de-la-diplomatie-americaine-marco-rubio-va-rencontrer-son-homologue-russe-serguei-lavrov-mercredi-a-new-york_6777944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-guerre-en-ukraine-le-chef-de-la-diplomatie-americaine-marco-rubio-va-rencontrer-son-homologue-russe-serguei-lavrov-mercredi-a-new-york_6777944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/917/0/5500/2750/644/322/60/0/59123a5_ftp-1-hwx14t8x2mpp-2026-09-23t071738z-1591321541-rc2vonagd0in-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un centre d’affaires touché par une attaque de drone russe, à Kiev, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gleb Garanich/REUTERS"
+      }
+    ],
+    "credit": "Gleb Garanich/REUTERS"
+  }
+}

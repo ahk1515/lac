@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T09:05:41.983376+00:00",
+  "_id": "c69aa9780625",
+  "brut": {
+    "title": "En Afrique du Sud, 11 morts dans l’attaque d’une maison à Durban ; le pays « en état de choc et de deuil »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Afrique du Sud, 11 morts dans l’attaque d’une maison à Durban ; le pays « en état de choc et de deuil »"
+    },
+    "published": "Wed, 23 Sep 2026 08:42:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      6,
+      42,
+      44,
+      2,
+      266,
+      0
+    ],
+    "updated": "Wed, 23 Sep 2026 10:35:11 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      23,
+      8,
+      35,
+      11,
+      2,
+      266,
+      0
+    ],
+    "summary": "Trois personnes ont survécu à l’attaque, dont on ignore encore le mobile. L’Afrique du Sud affiche l’un des taux d’homicides les plus élevés au monde, avec environ 60 personnes tuées chaque jour dans un pays d’environ 63 millions d’habitants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois personnes ont survécu à l’attaque, dont on ignore encore le mobile. L’Afrique du Sud affiche l’un des taux d’homicides les plus élevés au monde, avec environ 60 personnes tuées chaque jour dans un pays d’environ 63 millions d’habitants."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/23/en-afrique-du-sud-11-morts-dans-l-attaque-d-une-maison-a-durban-le-pays-en-etat-de-choc-et-de-deuil_6780786_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/23/en-afrique-du-sud-11-morts-dans-l-attaque-d-une-maison-a-durban-le-pays-en-etat-de-choc-et-de-deuil_6780786_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/23/en-afrique-du-sud-11-morts-dans-l-attaque-d-une-maison-a-durban-le-pays-en-etat-de-choc-et-de-deuil_6780786_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/450/0/6665/3332/644/322/60/0/f0306f8_ftp-1-leoyumvr9jl6-5127016-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une marche de protestation à la suite d’une récente série de meurtres survenus dans le pays, à Kempton Park (Afrique du Sud), le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MZINGENKOSI SIBANDA/AFP"
+      }
+    ],
+    "credit": "MZINGENKOSI SIBANDA/AFP"
+  }
+}
