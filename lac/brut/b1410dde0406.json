@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T22:41:27.101177+00:00",
+  "_id": "b1410dde0406",
+  "brut": {
+    "title": "Qui est la Chinoise de 6 ans championne du monde de Rubik's Cube ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Qui est la Chinoise de 6 ans championne du monde de Rubik's Cube ?"
+    },
+    "summary": "À seulement 6 ans, la jeune chinoise Yunzhi Lian est devenue championne du monde de Rubik's Cube. Elle connaît plus de 1 300 algorithmes et s'entraîne 2 à 3 heures pas jour.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À seulement 6 ans, la jeune chinoise Yunzhi Lian est devenue championne du monde de Rubik's Cube. Elle connaît plus de 1 300 algorithmes et s'entraîne 2 à 3 heures pas jour."
+    },
+    "published": "Wed, 23 Sep 2026 21:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      19,
+      0,
+      2,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/qui-est-la-chinoise-de-6-ans-championne-du-monde-de-rubik-s-cube_8206880.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/hYoB8W8AJ38BXuFwfEOg58Wamvc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/23/6ab40d1e2c47c681937195.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/qui-est-la-chinoise-de-6-ans-championne-du-monde-de-rubik-s-cube_8206880.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/qui-est-la-chinoise-de-6-ans-championne-du-monde-de-rubik-s-cube_8206880.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

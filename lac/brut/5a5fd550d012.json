@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T22:41:26.892935+00:00",
+  "_id": "5a5fd550d012",
+  "brut": {
+    "title": "Harvey Weinstein est condamné à quinze ans de prison pour une agression sexuelle commise en 2006",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Harvey Weinstein est condamné à quinze ans de prison pour une agression sexuelle commise en 2006"
+    },
+    "published": "Wed, 23 Sep 2026 18:55:40 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      16,
+      55,
+      40,
+      2,
+      266,
+      0
+    ],
+    "updated": "Wed, 23 Sep 2026 19:18:36 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      23,
+      17,
+      18,
+      36,
+      2,
+      266,
+      0
+    ],
+    "summary": "Le fondateur des studios Miramax, dont les crimes sexuels ont suscité le mouvement #MeToo, a déjà été condamné à une peine de prison ferme de seize ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le fondateur des studios Miramax, dont les crimes sexuels ont suscité le mouvement #MeToo, a déjà été condamné à une peine de prison ferme de seize ans."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/23/le-magnat-du-cinema-harvey-weinstein-est-condamne-a-quinze-ans-de-prison_6780947_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/23/le-magnat-du-cinema-harvey-weinstein-est-condamne-a-quinze-ans-de-prison_6780947_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/23/le-magnat-du-cinema-harvey-weinstein-est-condamne-a-quinze-ans-de-prison_6780947_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/05/15/336/0/4603/2301/644/322/60/0/fa2029c_ftp-1-d4fhzin9d1zz-5041759-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Harvey Weinstein, ancien producteur de cinéma, comparaît devant la cour suprême de New York, lors de son nouveau procès, à New York, le 15 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TIMOTHY A. CLARY/AFP"
+      }
+    ],
+    "credit": "TIMOTHY A. CLARY/AFP"
+  }
+}

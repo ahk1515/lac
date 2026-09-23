@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T22:41:27.102427+00:00",
+  "_id": "3777b2f6b73b",
+  "brut": {
+    "title": "Un marin indien a été tué dans l'attaque d'un navire dans le détroit d'Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un marin indien a été tué dans l'attaque d'un navire dans le détroit d'Ormuz"
+    },
+    "summary": "Le navire a été pris pour cible\" au large de Musandam, a fait savoir la marine omanaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le navire a été pris pour cible\" au large de Musandam, a fait savoir la marine omanaise."
+    },
+    "published": "Wed, 23 Sep 2026 20:21:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      18,
+      21,
+      43,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/un-marin-indien-a-ete-tue-dans-l-attaque-d-un-navire-dans-le-detroit-d-ormuz_8206898.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NahGtUT4eH5zkJxyE116oW2xNuA/0x423:7200x4473/432x243/filters:format(jpg)/2026/09/23/6ab41629aa819041169507.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/un-marin-indien-a-ete-tue-dans-l-attaque-d-un-navire-dans-le-detroit-d-ormuz_8206898.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/un-marin-indien-a-ete-tue-dans-l-attaque-d-un-navire-dans-le-detroit-d-ormuz_8206898.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T22:41:26.892513+00:00",
+  "_id": "e3f5f843bcb9",
+  "brut": {
+    "title": "Les images du représentant des Etats-Unis quittant l’Assemblée de l’ONU pendant le discours du président iranien.",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les images du représentant des Etats-Unis quittant l’Assemblée de l’ONU pendant le discours du président iranien."
+    },
+    "published": "Wed, 23 Sep 2026 19:18:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      17,
+      18,
+      51,
+      2,
+      266,
+      0
+    ],
+    "summary": "Le représentant des Etats-Unis, seul de sa délégation au moment de la scène, est sorti de la salle et n’a pas assisté au discours de Massoud Pezeshkian, le président iranien. La veille, Donald Trump avait menacé l’Iran d’« annihilation ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le représentant des Etats-Unis, seul de sa délégation au moment de la scène, est sorti de la salle et n’a pas assisté au discours de Massoud Pezeshkian, le président iranien. La veille, Donald Trump avait menacé l’Iran d’« annihilation »."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/23/les-images-du-representant-des-etats-unis-quittant-l-assemblee-de-l-onu-pendant-le-discours-du-president-iranien_6780952_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/23/les-images-du-representant-des-etats-unis-quittant-l-assemblee-de-l-onu-pendant-le-discours-du-president-iranien_6780952_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/23/les-images-du-representant-des-etats-unis-quittant-l-assemblee-de-l-onu-pendant-le-discours-du-president-iranien_6780952_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/274/0/3294/1647/644/322/60/0/08d6fc5_ftp-1-52vqietzhhza-2026-09-23t143000z-12982908-rc22pnaa20dk-rtrmadp-3-un-assembly.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mike Segar / REUTERS"
+      }
+    ],
+    "credit": "Mike Segar / REUTERS"
+  }
+}

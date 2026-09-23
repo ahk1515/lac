@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T22:41:27.101283+00:00",
+  "_id": "d0170dc71683",
+  "brut": {
+    "title": "L'Ukraine et la Finlande ont signé un accord de coopération sur les drones",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Ukraine et la Finlande ont signé un accord de coopération sur les drones"
+    },
+    "summary": "Lors de son discours devant l'Assemblée générale de l'ONU, le président ukrainien s'est félicité de cette signature.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Lors de son discours devant l'Assemblée générale de l'ONU, le président ukrainien s'est félicité de cette signature."
+    },
+    "published": "Wed, 23 Sep 2026 20:42:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      18,
+      42,
+      53,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-finlande-ont-signe-un-accord-de-cooperation-sur-les-drones_8206838.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Zs4JxYldfJb232j3dNh0EyQaHaI/0x0:3000x1687/432x243/filters:format(jpg)/2026/09/23/6ab41bbb6d4f8659264065.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-finlande-ont-signe-un-accord-de-cooperation-sur-les-drones_8206838.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-finlande-ont-signe-un-accord-de-cooperation-sur-les-drones_8206838.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

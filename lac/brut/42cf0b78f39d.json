@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T22:41:26.892386+00:00",
+  "_id": "42cf0b78f39d",
+  "brut": {
+    "title": "EN DIRECT, ONU : les patrons d’OpenAI et d’Anthropic exposent les « risques » que pose l’IA et promettent de ralentir « autant que nécessaire »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, ONU : les patrons d’OpenAI et d’Anthropic exposent les « risques » que pose l’IA et promettent de ralentir « autant que nécessaire »"
+    },
+    "published": "Wed, 23 Sep 2026 19:36:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      17,
+      36,
+      19,
+      2,
+      266,
+      0
+    ],
+    "updated": "Wed, 23 Sep 2026 21:54:33 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      23,
+      19,
+      54,
+      33,
+      2,
+      266,
+      0
+    ],
+    "summary": "Sam Altman, Dario Amodei, ainsi que le Français Clément Delangue, cofondateur de Hugging Face, s’expriment devant le Conseil de sécurité, à New York, où la question de l’intelligence artificielle y est abordée pour la première fois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sam Altman, Dario Amodei, ainsi que le Français Clément Delangue, cofondateur de Hugging Face, s’expriment devant le Conseil de sécurité, à New York, où la question de l’intelligence artificielle y est abordée pour la première fois."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-assemblee-generale-de-l-onu-le-president-iranien-accuse-les-etats-unis-de-terrorisme-marco-rubio-met-en-garde-israel-sur-la-cisjordanie_6780906_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-assemblee-generale-de-l-onu-le-president-iranien-accuse-les-etats-unis-de-terrorisme-marco-rubio-met-en-garde-israel-sur-la-cisjordanie_6780906_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-assemblee-generale-de-l-onu-le-president-iranien-accuse-les-etats-unis-de-terrorisme-marco-rubio-met-en-garde-israel-sur-la-cisjordanie_6780906_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/555/0/7172/3586/644/322/60/0/7cedbaf_ftp-1-fezeuncfzn3i-4188c2f37b5f411ea30f768617c4958c-0-a02a75e7a9774913be71561a1a666efd.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le PDG d’OpenAI, Sam Altman, au siège des Nations unies, à New York, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Yuki Iwamura/AP"
+      }
+    ],
+    "credit": "Yuki Iwamura/AP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T22:41:27.100730+00:00",
+  "_id": "a60e51b3dbd0",
+  "brut": {
+    "title": "Visite du pape : qui paie quoi ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Visite du pape : qui paie quoi ?"
+    },
+    "summary": "Le coût de la visite du pape est estimée à 27 millions d’euros. Qui va payer la facture ? Que prend en charge l’État français ? Que paie l'Église de France ? Le partage doit être clair, séparation de l’Église et de l’État oblige.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le coût de la visite du pape est estimée à 27 millions d’euros. Qui va payer la facture ? Que prend en charge l’État français ? Que paie l'Église de France ? Le partage doit être clair, séparation de l’Église et de l’État oblige."
+    },
+    "published": "Wed, 23 Sep 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      20,
+      0,
+      1,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/visite-du-pape-qui-paie-quoi_8206889.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/skhmtT_QPD017NJooW8KsDFdW3U/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/23/6ab40de8e461e290299039.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/visite-du-pape-qui-paie-quoi_8206889.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/visite-du-pape-qui-paie-quoi_8206889.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

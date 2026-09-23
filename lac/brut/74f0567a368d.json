@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T22:41:26.893321+00:00",
+  "_id": "74f0567a368d",
+  "brut": {
+    "title": "Au Mali, l’amertume des militaires en première ligne contre les djihadistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mali, l’amertume des militaires en première ligne contre les djihadistes"
+    },
+    "published": "Wed, 23 Sep 2026 18:30:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      16,
+      30,
+      10,
+      2,
+      266,
+      0
+    ],
+    "summary": "Le 10 septembre, l’armée malienne a subi l’un de ses pires revers : au moins 100 soldats sont morts dans l’attaque du camp de Dioura par le GSIM. Une défaite qui met à nouveau sous pression le chef de la junte.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 10 septembre, l’armée malienne a subi l’un de ses pires revers : au moins 100 soldats sont morts dans l’attaque du camp de Dioura par le GSIM. Une défaite qui met à nouveau sous pression le chef de la junte."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/23/au-mali-l-amertume-des-militaires-en-premiere-ligne-contre-les-djihadistes_6780938_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/23/au-mali-l-amertume-des-militaires-en-premiere-ligne-contre-les-djihadistes_6780938_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/23/au-mali-l-amertume-des-militaires-en-premiere-ligne-contre-les-djihadistes_6780938_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/500/0/6000/3000/644/322/60/0/4227338_upload-1-qdxtkwpd1xu7-000-b2ty6y2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un cratère causé par un bombardement aérien des Forces armées maliennes le 14 mai 2026, à Kidal, qui est sous le contrôle des séparatistes touareg et de leurs alliés djihadistes depuis une offensive de grande envergure lancée en avril."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}
