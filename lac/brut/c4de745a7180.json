@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T03:27:27.958818+00:00",
+  "_id": "c4de745a7180",
+  "brut": {
+    "title": "Au Maroc, des élections législatives marquées par la fracture sociale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Maroc, des élections législatives marquées par la fracture sociale"
+    },
+    "published": "Wed, 23 Sep 2026 05:00:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      3,
+      0,
+      9,
+      2,
+      266,
+      0
+    ],
+    "summary": "Au pouvoir depuis 2021, les trois partis de la majorité s’entredéchirent, alors que les Marocains sont appelés aux urnes, mercredi 23 septembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au pouvoir depuis 2021, les trois partis de la majorité s’entredéchirent, alors que les Marocains sont appelés aux urnes, mercredi 23 septembre."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/23/au-maroc-des-elections-legislatives-marquees-par-la-fracture-sociale_6780534_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/23/au-maroc-des-elections-legislatives-marquees-par-la-fracture-sociale_6780534_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/23/au-maroc-des-elections-legislatives-marquees-par-la-fracture-sociale_6780534_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/805/0/7514/3757/644/322/60/0/e712cf4_ftp-1-mfn7lxorhpr2-c6843e9f95154807b891655827910822-0-8892291661944d45b97d2585f63fddc3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Fouzi Lekjaa, président de la Fédération marocaine de football et membre du bureau politique du Parti Authenticité et modernité, lors d’un meeting en vue des législatives, à Benslimane (Maroc), le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mosa'ab Elshamy/AP"
+      }
+    ],
+    "credit": "Mosa'ab Elshamy/AP"
+  }
+}

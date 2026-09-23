@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T03:27:27.959425+00:00",
+  "_id": "1e0526ebdb58",
+  "brut": {
+    "title": "Soudan du Sud : le président dissout le gouvernement à trois mois d’élections toujours incertaines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Soudan du Sud : le président dissout le gouvernement à trois mois d’élections toujours incertaines"
+    },
+    "published": "Wed, 23 Sep 2026 03:03:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      1,
+      3,
+      7,
+      2,
+      266,
+      0
+    ],
+    "summary": "Salva Kiir avait promulgué, lundi, une loi électorale lui permettant de rester à la tête du pays jusqu’au scrutin présidentiel du 22 décembre, pour lequel il est candidat probable. Mais le gouvernement n’a pratiquement pas mis en œuvre les conditions préalables à la tenue des élections, fixées dans l’accord de paix de 2018.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Salva Kiir avait promulgué, lundi, une loi électorale lui permettant de rester à la tête du pays jusqu’au scrutin présidentiel du 22 décembre, pour lequel il est candidat probable. Mais le gouvernement n’a pratiquement pas mis en œuvre les conditions préalables à la tenue des élections, fixées dans l’accord de paix de 2018."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/23/soudan-du-sud-le-president-dissout-le-gouvernement-a-trois-mois-d-elections-toujours-incertaines_6780433_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/23/soudan-du-sud-le-president-dissout-le-gouvernement-a-trois-mois-d-elections-toujours-incertaines_6780433_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/23/soudan-du-sud-le-president-dissout-le-gouvernement-a-trois-mois-d-elections-toujours-incertaines_6780433_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/67/0/3800/1900/644/322/60/0/fbc5465_ftp-1-aic0xa5epfoj-e54e5ac486f241e197737d040bf67976-0-7b668b3d96b74344849bc9871ac9e1ba.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président du Soudan du Sud, Salva Kiir, à Juba, le 3 février 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gregorio Borgia/AP Photo"
+      }
+    ],
+    "credit": "Gregorio Borgia/AP Photo"
+  }
+}
