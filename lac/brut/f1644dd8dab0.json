@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T16:09:45.306026+00:00",
+  "_id": "f1644dd8dab0",
+  "brut": {
+    "title": "Au Japon, le gouvernement multiplie les mesures pour encadrer le prix de l’essence",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Japon, le gouvernement multiplie les mesures pour encadrer le prix de l’essence"
+    },
+    "published": "Wed, 23 Sep 2026 12:15:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      10,
+      15,
+      5,
+      2,
+      266,
+      0
+    ],
+    "updated": "Wed, 23 Sep 2026 13:19:30 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      23,
+      11,
+      19,
+      30,
+      2,
+      266,
+      0
+    ],
+    "summary": "Tokyo a débloqué des aides massives pour contenir la hausse du coût du carburant engendrée par le confit au Moyen-Orient, tout en diversifiant ses approvisionnements. Au risque de creuser le déficit public et le déficit commercial.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Tokyo a débloqué des aides massives pour contenir la hausse du coût du carburant engendrée par le confit au Moyen-Orient, tout en diversifiant ses approvisionnements. Au risque de creuser le déficit public et le déficit commercial."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/23/au-japon-le-gouvernement-multiplie-les-mesures-pour-encadrer-le-prix-de-l-essence_6780888_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/23/au-japon-le-gouvernement-multiplie-les-mesures-pour-encadrer-le-prix-de-l-essence_6780888_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/23/au-japon-le-gouvernement-multiplie-les-mesures-pour-encadrer-le-prix-de-l-essence_6780888_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/479/0/4242/2121/644/322/60/0/c311ed6_upload-1-65qwqfhp7or3-000-a3em69z.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans le parc Higashi-Ogishima Higashi, près de réservoirs de stockage d’une raffinerie de pétrole de la zone industrielle de Keihin, à Kawasaki (Japon), le 15 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PHILIP FONG/AFP"
+      }
+    ],
+    "credit": "PHILIP FONG/AFP"
+  }
+}

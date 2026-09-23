@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T16:09:45.303562+00:00",
+  "_id": "80c5a986115f",
+  "brut": {
+    "title": "Visite du pape en France : dans les coulisses des trajets en avion de Léon XIV",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape en France : dans les coulisses des trajets en avion de Léon XIV"
+    },
+    "published": "Wed, 23 Sep 2026 17:00:30 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      15,
+      0,
+      30,
+      2,
+      266,
+      0
+    ],
+    "summary": "La venue de Léon XIV, du 25 au 28 septembre, sera la première visite d’Etat officielle d’un pape en France depuis dix-huit ans. Dans son avion spécialement affrété au départ de Rome, il sera accompagné de 80 journalistes. Un trajet très codifié lors duquel les reporters croyants sortent parfois de leur rôle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La venue de Léon XIV, du 25 au 28 septembre, sera la première visite d’Etat officielle d’un pape en France depuis dix-huit ans. Dans son avion spécialement affrété au départ de Rome, il sera accompagné de 80 journalistes. Un trajet très codifié lors duquel les reporters croyants sortent parfois de leur rôle."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/23/visite-du-pape-en-france-dans-les-coulisses-des-trajets-en-avion-de-leon-xiv_6780927_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/23/visite-du-pape-en-france-dans-les-coulisses-des-trajets-en-avion-de-leon-xiv_6780927_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/23/visite-du-pape-en-france-dans-les-coulisses-des-trajets-en-avion-de-leon-xiv_6780927_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/151/0/1500/750/644/322/60/0/42fbc09_ftp-1-bgfuhndrduw0-444575-3502112.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le pape Léon XIV rencontre les journalistes à bord du vol reliant Rome à Madrid, dans le cadre de son voyage apostolique en Espagne, le 6 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Simone Risoluti/Vatican Media/ABACAPRESS.COM"
+      }
+    ],
+    "credit": "Simone Risoluti/Vatican Media/ABACAPRESS.COM"
+  }
+}

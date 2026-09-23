@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-23T16:09:45.306383+00:00",
+  "_id": "b000edeb12b4",
+  "brut": {
+    "title": "Guerre en Ukraine : des deux côtés du front, l’essor des drones dopés à l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre en Ukraine : des deux côtés du front, l’essor des drones dopés à l’IA"
+    },
+    "published": "Wed, 23 Sep 2026 12:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      10,
+      0,
+      3,
+      2,
+      266,
+      0
+    ],
+    "updated": "Wed, 23 Sep 2026 17:11:00 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      23,
+      15,
+      11,
+      0,
+      2,
+      266,
+      0
+    ],
+    "summary": "L’armée ukrainienne effectue déjà quotidiennement des missions avec des aéronefs embarquant des modules d’intelligence artificielle pour reconnaître et atteindre leur cible. Côté russe, les développements sont massifs et rapides, permettant à des drones de moyenne portée d’effectuer des missions en totale autonomie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’armée ukrainienne effectue déjà quotidiennement des missions avec des aéronefs embarquant des modules d’intelligence artificielle pour reconnaître et atteindre leur cible. Côté russe, les développements sont massifs et rapides, permettant à des drones de moyenne portée d’effectuer des missions en totale autonomie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/23/guerre-en-ukraine-des-deux-cotes-du-front-l-essor-des-drones-dopes-a-l-ia_6780882_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/23/guerre-en-ukraine-des-deux-cotes-du-front-l-essor-des-drones-dopes-a-l-ia_6780882_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/23/guerre-en-ukraine-des-deux-cotes-du-front-l-essor-des-drones-dopes-a-l-ia_6780882_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/0/0/3600/1800/644/322/60/0/72c5211_upload-1-jtqgqfrsn9zh-2026-07-12t100639z-411835169-rc2acmax5m9v-rtrmadp-3-ukraine-crisis-attack-vessels.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capture d’écran d’une vidéo prise par un drone et publiée le 12 juillet 2026 par les forces ukrainiennes chargées des systèmes aériens sans pilote, montrant, selon elles, une attaque contre un navire russe en mer."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Commandant des forces chargées des systèmes aériens sans pilote via Reuters"
+      }
+    ],
+    "credit": "Commandant des forces chargées des systèmes aériens sans pilote via Reuters"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T16:09:46.098427+00:00",
+  "_id": "2fa4d683bd5c",
+  "brut": {
+    "title": "\"Ça frappe presque tous les jours\" : à Kiev, les enfants vivent au rythme des attaques russes en pleine journée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Ça frappe presque tous les jours\" : à Kiev, les enfants vivent au rythme des attaques russes en pleine journée"
+    },
+    "summary": "À Kiev, les élèves ukrainiens sont désormais régulièrement contraints de rejoindre les abris en raison des attaques de drones russes en pleine journée. Un quotidien difficile qui nourrit la peur et la fatigue des enfants, qui veulent juste retrouver une vie normale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Kiev, les élèves ukrainiens sont désormais régulièrement contraints de rejoindre les abris en raison des attaques de drones russes en pleine journée. Un quotidien difficile qui nourrit la peur et la fatigue des enfants, qui veulent juste retrouver une vie normale."
+    },
+    "published": "Wed, 23 Sep 2026 18:06:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      16,
+      6,
+      42,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ca-frappe-presque-tous-les-jours-a-kiev-les-enfants-vivent-au-rythme-des-attaques-russes-en-pleine-journee_8206517.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UloZcXbqQvzKvgLeIdxx-F9ueHk/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/23/6ab3e1a74ab42893010501.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ca-frappe-presque-tous-les-jours-a-kiev-les-enfants-vivent-au-rythme-des-attaques-russes-en-pleine-journee_8206517.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ca-frappe-presque-tous-les-jours-a-kiev-les-enfants-vivent-au-rythme-des-attaques-russes-en-pleine-journee_8206517.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

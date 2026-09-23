@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-23T16:09:46.099049+00:00",
+  "_id": "eb369c493c1e",
+  "brut": {
+    "title": "En Chine, les produits LVMH ne font plus recette",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Chine, les produits LVMH ne font plus recette"
+    },
+    "summary": "Une consommation intérieure en berne et c'est tout le secteur du luxe qui recule dans l'Empire du Milieu, entrainant avec lui de grandes marques telles que Louis Vuitton.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une consommation intérieure en berne et c'est tout le secteur du luxe qui recule dans l'Empire du Milieu, entrainant avec lui de grandes marques telles que Louis Vuitton."
+    },
+    "published": "Wed, 23 Sep 2026 14:19:44 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      12,
+      19,
+      44,
+      2,
+      266,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/chine/en-chine-les-produits-lvmh-ne-font-plus-recette_8205140.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vZmcl8g3ha4mG1EuxVCsEGGvvkQ/0x180:1920x1260/432x243/filters:format(jpg)/2026/09/22/6ab2da73569c5403372903.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/chine/en-chine-les-produits-lvmh-ne-font-plus-recette_8205140.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/chine/en-chine-les-produits-lvmh-ne-font-plus-recette_8205140.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
