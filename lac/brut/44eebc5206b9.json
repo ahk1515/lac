@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T03:17:04.432680+00:00",
+  "_id": "44eebc5206b9",
+  "brut": {
+    "title": "Des prisons iraniennes aux librairies françaises, le périlleux périple des Mémoires de la Prix Nobel Narges Mohammadi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des prisons iraniennes aux librairies françaises, le périlleux périple des Mémoires de la Prix Nobel Narges Mohammadi"
+    },
+    "published": "Thu, 24 Sep 2026 05:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      3,
+      0,
+      13,
+      3,
+      267,
+      0
+    ],
+    "summary": "Actuellement en résidence surveillée, l’opposante iranienne de 54 ans a rédigé son autobiographie alors qu’elle était encore en prison. Son texte, qu’elle a fait parvenir à sa famille au péril de sa vie, paraît le 24 septembre chez Robert Laffont.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Actuellement en résidence surveillée, l’opposante iranienne de 54 ans a rédigé son autobiographie alors qu’elle était encore en prison. Son texte, qu’elle a fait parvenir à sa famille au péril de sa vie, paraît le 24 septembre chez Robert Laffont."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/24/des-prisons-iraniennes-aux-librairies-francaises-le-perilleux-periple-des-memoires-de-la-prix-nobel-narges-mohammadi_6781324_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/24/des-prisons-iraniennes-aux-librairies-francaises-le-perilleux-periple-des-memoires-de-la-prix-nobel-narges-mohammadi_6781324_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/24/des-prisons-iraniennes-aux-librairies-francaises-le-perilleux-periple-des-memoires-de-la-prix-nobel-narges-mohammadi_6781324_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/11/0/1500/750/644/322/60/0/8e17bc0_ftp-1-0bio9mxkmubh-444640-3496070.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’une manifestation contre le régime iranien, à Portland (Oregon), le 1ᵉʳ mars."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "John Rudoff/Sipa USA/SIPA"
+      }
+    ],
+    "credit": "John Rudoff/Sipa USA/SIPA"
+  }
+}

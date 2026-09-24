@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T03:17:04.432295+00:00",
+  "_id": "7f353d0f2b4f",
+  "brut": {
+    "title": "Visite du pape : l’Eglise de France, une terre de reconquête et de polarisation croissante",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape : l’Eglise de France, une terre de reconquête et de polarisation croissante"
+    },
+    "published": "Thu, 24 Sep 2026 05:00:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      3,
+      0,
+      43,
+      3,
+      267,
+      0
+    ],
+    "summary": "Le voyage en France de Léon XIV entend célébrer le regain de dynamisme du catholicisme dans le pays, où le nombre de baptêmes d’adolescents et d’adultes est en nette augmentation. Ce phénomène s’accompagne d’une affirmation des forces conservatrices.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le voyage en France de Léon XIV entend célébrer le regain de dynamisme du catholicisme dans le pays, où le nombre de baptêmes d’adolescents et d’adultes est en nette augmentation. Ce phénomène s’accompagne d’une affirmation des forces conservatrices."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/24/visite-du-pape-l-eglise-de-france-une-terre-de-reconquete-et-de-polarisation-croissante_6781329_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/24/visite-du-pape-l-eglise-de-france-une-terre-de-reconquete-et-de-polarisation-croissante_6781329_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/24/visite-du-pape-l-eglise-de-france-une-terre-de-reconquete-et-de-polarisation-croissante_6781329_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/405/0/2953/1476/644/322/60/0/c998ab6_upload-1-rjnfeshfnuij-027-millerand-5h9a9925.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Pèlerinage annuel Notre-Dame-des-Anges, organisé au sein de l’église Saint-Jean-XXIII, à Clichy-sous-Bois (Seine-Saint-Denis), le 13 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CAMILLE MILLERAND/DIVERGENCE  POUR « LE MONDE »"
+      }
+    ],
+    "credit": "CAMILLE MILLERAND/DIVERGENCE  POUR « LE MONDE »"
+  }
+}

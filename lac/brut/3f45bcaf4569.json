@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T03:17:04.433001+00:00",
+  "_id": "3f45bcaf4569",
+  "brut": {
+    "title": "La justice new-yorkaise restitue à la Syrie 36 antiquités d’une valeur de 5 millions de dollars",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La justice new-yorkaise restitue à la Syrie 36 antiquités d’une valeur de 5 millions de dollars"
+    },
+    "published": "Thu, 24 Sep 2026 01:37:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      23,
+      37,
+      42,
+      2,
+      266,
+      0
+    ],
+    "updated": "Thu, 24 Sep 2026 03:44:17 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      24,
+      1,
+      44,
+      17,
+      3,
+      267,
+      0
+    ],
+    "summary": "Les pièces, dont 13 ont été saisies au prestigieux Metropolitan Museum of Art, ont fait l’objet d’un trafic international contre lequel lutte notamment le parquet de Manhattan.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les pièces, dont 13 ont été saisies au prestigieux Metropolitan Museum of Art, ont fait l’objet d’un trafic international contre lequel lutte notamment le parquet de Manhattan."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/24/la-justice-new-yorkaise-restitue-a-la-syrie-trente-six-antiquites-d-une-valeur-de-5-millions-de-dollars_6781190_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/24/la-justice-new-yorkaise-restitue-a-la-syrie-trente-six-antiquites-d-une-valeur-de-5-millions-de-dollars_6781190_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/24/la-justice-new-yorkaise-restitue-a-la-syrie-trente-six-antiquites-d-une-valeur-de-5-millions-de-dollars_6781190_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/9/0/1431/715/644/322/60/0/53cc27b_upload-1-22pgetqr82bv-relief.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un relief funéraire palmyrénien rendu à la Syrie par la justice new-yorkaise, sur une photo diffusée par le Bureau du procureur du district de Manhattan, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Manhattan District Attorney’s Office"
+      }
+    ],
+    "credit": "Manhattan District Attorney’s Office"
+  }
+}

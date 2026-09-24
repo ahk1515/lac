@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T03:17:04.432921+00:00",
+  "_id": "f1dd0c3b2cc1",
+  "brut": {
+    "title": "Un agent d’IA de la société OpenAI a infiltré un site gouvernemental australien, un incident « inacceptable », dénonce le premier ministre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un agent d’IA de la société OpenAI a infiltré un site gouvernemental australien, un incident « inacceptable », dénonce le premier ministre"
+    },
+    "published": "Thu, 24 Sep 2026 03:10:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      1,
+      10,
+      49,
+      3,
+      267,
+      0
+    ],
+    "updated": "Thu, 24 Sep 2026 05:07:23 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      24,
+      3,
+      7,
+      23,
+      3,
+      267,
+      0
+    ],
+    "summary": "L’agent d’IA a accédé, en juin, à des fichiers publics et non publics du service de statistiques de la santé australien, déplore Anthony Albanese. Ce dernier précise que son gouvernement n’a été alerté par OpenAI qu’en septembre, au moyen d’un courriel envoyé à une adresse électronique générique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’agent d’IA a accédé, en juin, à des fichiers publics et non publics du service de statistiques de la santé australien, déplore Anthony Albanese. Ce dernier précise que son gouvernement n’a été alerté par OpenAI qu’en septembre, au moyen d’un courriel envoyé à une adresse électronique générique."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/09/24/un-agent-d-openai-a-infiltre-un-site-gouvernemental-australien-un-incident-inacceptable-denonce-le-premier-ministre_6781223_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/09/24/un-agent-d-openai-a-infiltre-un-site-gouvernemental-australien-un-incident-inacceptable-denonce-le-premier-ministre_6781223_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/09/24/un-agent-d-openai-a-infiltre-un-site-gouvernemental-australien-un-incident-inacceptable-denonce-le-premier-ministre_6781223_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/426/0/7671/3835/644/322/60/0/f674dde_ftp-1-fpk0zxuda9rz-2026-09-23t221235z-2100165048-rc27pnac7sm6-rtrmadp-3-openai-cybersecurity-australia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Anthony Albanese, à New York, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MICK TSIKAS/AAP via REUTERS"
+      }
+    ],
+    "credit": "MICK TSIKAS/AAP via REUTERS"
+  }
+}

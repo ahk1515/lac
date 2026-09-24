@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T03:17:04.433222+00:00",
+  "_id": "4a9767bf26c2",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : au moins deux personnes tuées dans une série de frappes nocturnes sur Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : au moins deux personnes tuées dans une série de frappes nocturnes sur Kiev"
+    },
+    "published": "Thu, 24 Sep 2026 00:48:47 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      23,
+      22,
+      48,
+      47,
+      2,
+      266,
+      0
+    ],
+    "updated": "Thu, 24 Sep 2026 05:10:53 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      24,
+      3,
+      10,
+      53,
+      3,
+      267,
+      0
+    ],
+    "summary": "Quelques heures après les déclarations du chef de la diplomatie russe, Sergueï Lavrov, qui a dit que Moscou ne fera « pas de trêve » dans sa guerre en Ukraine, plusieurs explosions puissantes ont retenti, aux premières heures de jeudi, dans la capitale ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quelques heures après les déclarations du chef de la diplomatie russe, Sergueï Lavrov, qui a dit que Moscou ne fera « pas de trêve » dans sa guerre en Ukraine, plusieurs explosions puissantes ont retenti, aux premières heures de jeudi, dans la capitale ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-plusieurs-explosions-entendues-a-kiev-pendant-une-alerte-aux-missiles_6777944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-plusieurs-explosions-entendues-a-kiev-pendant-une-alerte-aux-missiles_6777944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-plusieurs-explosions-entendues-a-kiev-pendant-une-alerte-aux-missiles_6777944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/96/0/3207/1603/644/322/60/0/845779e_ftp-1-v8pchxcpozeb-2026-09-24t021240z-1258143064-rc2cpnavmxw2-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un missile balistique russe tombé à Kiev, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}
