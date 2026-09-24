@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T16:32:55.211062+00:00",
+  "_id": "25b6593586b5",
+  "brut": {
+    "title": "L'Union européenne sanctionne la chroniqueuse russe Xenia Fedorova, accusée d'être la voix du Kremlin en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Union européenne sanctionne la chroniqueuse russe Xenia Fedorova, accusée d'être la voix du Kremlin en France"
+    },
+    "summary": "L'UE lui reproche de \"jouer un rôle actif dans la diffusion de discours pro-russes en France et dans l'Union\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'UE lui reproche de \"jouer un rôle actif dans la diffusion de discours pro-russes en France et dans l'Union\"."
+    },
+    "published": "Thu, 24 Sep 2026 15:40:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      13,
+      40,
+      25,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/l-union-europeenne-sanctionne-la-chroniqueuse-russe-xenia-fedorova-accusee-d-etre-la-voix-du-kremlin-en-france_8206571.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0DVn8DJHE572H2x6LHff-SzNiss/0x53:1024x629/432x243/filters:format(jpg)/2026/09/24/6ab51e7c08421106387621.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/l-union-europeenne-sanctionne-la-chroniqueuse-russe-xenia-fedorova-accusee-d-etre-la-voix-du-kremlin-en-france_8206571.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/l-union-europeenne-sanctionne-la-chroniqueuse-russe-xenia-fedorova-accusee-d-etre-la-voix-du-kremlin-en-france_8206571.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

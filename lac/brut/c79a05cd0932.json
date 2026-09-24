@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T16:32:54.968513+00:00",
+  "_id": "c79a05cd0932",
+  "brut": {
+    "title": "En Afghanistan, des sites militaires bombardés par le Pakistan",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Afghanistan, des sites militaires bombardés par le Pakistan"
+    },
+    "published": "Thu, 24 Sep 2026 12:02:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      10,
+      2,
+      58,
+      3,
+      267,
+      0
+    ],
+    "summary": "Selon Kaboul, les raids aériens ont tué quatre civils. Un témoin a fait état d’une violente explosion suivie d’un incendie dans le centre de Kandahar, où vit le chef des talibans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon Kaboul, les raids aériens ont tué quatre civils. Un témoin a fait état d’une violente explosion suivie d’un incendie dans le centre de Kandahar, où vit le chef des talibans."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/24/en-afghanistan-des-sites-militaires-bombardes-par-le-pakistan_6781502_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/24/en-afghanistan-des-sites-militaires-bombardes-par-le-pakistan_6781502_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/24/en-afghanistan-des-sites-militaires-bombardes-par-le-pakistan_6781502_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/708/0/6000/3000/644/322/60/0/608d429_ftp-1-wedhgi8ddo0w-5168651-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres des forces de sécurité talibanes sur le site de la frappe aérienne pakistanaise ayant visé le district de Gurbuz, dans la province de Khost, en Afghanistan, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

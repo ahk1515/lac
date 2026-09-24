@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T16:32:54.965946+00:00",
+  "_id": "09211caece19",
+  "brut": {
+    "title": "Notre-Dame de Paris, une cathédrale devenue théâtre politique où le pape Léon XIV devrait présider les vêpres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Notre-Dame de Paris, une cathédrale devenue théâtre politique où le pape Léon XIV devrait présider les vêpres"
+    },
+    "published": "Thu, 24 Sep 2026 17:00:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      15,
+      0,
+      0,
+      3,
+      267,
+      0
+    ],
+    "updated": "Thu, 24 Sep 2026 18:17:22 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      24,
+      16,
+      17,
+      22,
+      3,
+      267,
+      0
+    ],
+    "summary": "Vendredi, Léon XIV devrait présider les vêpres dans la cathédrale. L’édifice religieux a forgé l’identité de l’Eglise française, devenant aussi un lieu de pouvoir au point d’être surnommé la « paroisse de la nation ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vendredi, Léon XIV devrait présider les vêpres dans la cathédrale. L’édifice religieux a forgé l’identité de l’Eglise française, devenant aussi un lieu de pouvoir au point d’être surnommé la « paroisse de la nation »."
+    },
+    "id": "https://www.lemonde.fr/histoire/article/2026/09/24/messe-du-pape-a-notre-dame-de-paris-retour-sur-l-histoire-d-une-cathedrale-devenue-theatre-politique_6781536_4655323.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/histoire/article/2026/09/24/messe-du-pape-a-notre-dame-de-paris-retour-sur-l-histoire-d-une-cathedrale-devenue-theatre-politique_6781536_4655323.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/histoire/article/2026/09/24/messe-du-pape-a-notre-dame-de-paris-retour-sur-l-histoire-d-une-cathedrale-devenue-theatre-politique_6781536_4655323.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/58/0/5712/2856/644/322/60/0/c55adbf_ftp-1-vxslw42u4lc5-2026-09-23t093927z-1049737692-rc2xona9e44m-rtrmadp-3-pope-france-paris.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La cathédrale Notre-Dame de Paris, ornée de drapeaux du Vatican, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sarah Meyssonnier/REUTERS"
+      }
+    ],
+    "credit": "Sarah Meyssonnier/REUTERS"
+  }
+}

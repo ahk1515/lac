@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T16:32:55.212724+00:00",
+  "_id": "a2554ad1d047",
+  "brut": {
+    "title": "Une attaque au couteau fait un mort et cinq blessés en Pologne, un ressortissant ukrainien interpellé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une attaque au couteau fait un mort et cinq blessés en Pologne, un ressortissant ukrainien interpellé"
+    },
+    "summary": "L'attaque s'est produite jeudi matin ans l'enceinte de l'abbaye de Jaroslaw, dans l'est de la Pologne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'attaque s'est produite jeudi matin ans l'enceinte de l'abbaye de Jaroslaw, dans l'est de la Pologne."
+    },
+    "published": "Thu, 24 Sep 2026 17:55:47 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      15,
+      55,
+      47,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/une-attaque-au-couteau-fait-cinq-blesses-en-pologne-un-ressortissant-ukrainien-interpelle_8207891.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/WvgFzIBqf8dyYmnREcRAjV5U8ZA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/24/6ab4ff6a02644706194507.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/une-attaque-au-couteau-fait-cinq-blesses-en-pologne-un-ressortissant-ukrainien-interpelle_8207891.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/une-attaque-au-couteau-fait-cinq-blesses-en-pologne-un-ressortissant-ukrainien-interpelle_8207891.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

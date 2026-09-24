@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T16:32:54.967645+00:00",
+  "_id": "627fa6609776",
+  "brut": {
+    "title": "L’Arabie saoudite dit avoir intercepté six missiles balistiques tirés depuis le Yémen",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite dit avoir intercepté six missiles balistiques tirés depuis le Yémen"
+    },
+    "published": "Thu, 24 Sep 2026 14:36:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      12,
+      36,
+      37,
+      3,
+      267,
+      0
+    ],
+    "updated": "Thu, 24 Sep 2026 15:35:30 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      24,
+      13,
+      35,
+      30,
+      3,
+      267,
+      0
+    ],
+    "summary": "La ‌coalition militaire saoudienne a menacé les houthistes, qui n’ont pas revendiqué l’attaque, « d’une réponse ferme ». La capitale saoudienne, Riyad, avait été visée pour la première fois ce week-end.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La ‌coalition militaire saoudienne a menacé les houthistes, qui n’ont pas revendiqué l’attaque, « d’une réponse ferme ». La capitale saoudienne, Riyad, avait été visée pour la première fois ce week-end."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/24/l-arabie-saoudite-dit-avoir-intercepte-six-missiles-balistiques-tires-depuis-le-yemen_6781514_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/24/l-arabie-saoudite-dit-avoir-intercepte-six-missiles-balistiques-tires-depuis-le-yemen_6781514_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/24/l-arabie-saoudite-dit-avoir-intercepte-six-missiles-balistiques-tires-depuis-le-yemen_6781514_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/0/0/6000/3000/644/322/60/0/2459d58_upload-1-1z0bhbcjy0bl-000-96f37qv.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des forces de sécurité loyales aux houthistes du Yémen, à Sanaa, la capitale aux mains des rebelles, le 6 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AHMED MOHAMMED/AFP"
+      }
+    ],
+    "credit": "AHMED MOHAMMED/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T16:32:55.210119+00:00",
+  "_id": "7b346adb2fbe",
+  "brut": {
+    "title": "A Cuba, survivre ou partir",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Cuba, survivre ou partir"
+    },
+    "summary": "A Cuba, une bouteille d'huile peut coûter 5 euros. C'est l'équivalent d'un mois de salaire sur place. Ce n'est qu'un des nombreux exemples de la précarité que vivent les habitants de cette île d'Amérique centrale. Stéphanie Perez et Christrophe Kenck, deux journalistes de France Télévisions, se sont rendus sur place pour un reportage.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Cuba, une bouteille d'huile peut coûter 5 euros. C'est l'équivalent d'un mois de salaire sur place. Ce n'est qu'un des nombreux exemples de la précarité que vivent les habitants de cette île d'Amérique centrale. Stéphanie Perez et Christrophe Kenck, deux journalistes de France Télévisions, se sont rendus sur place pour un reportage."
+    },
+    "published": "Thu, 24 Sep 2026 16:24:25 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      14,
+      24,
+      25,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/a-cuba-survivre-ou-partir_8208146.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qH6lZ3ssTGGGdk4a3CQZk-Eeu_o/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab5326f32c96187094788.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/a-cuba-survivre-ou-partir_8208146.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/a-cuba-survivre-ou-partir_8208146.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

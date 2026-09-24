@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T16:32:55.209764+00:00",
+  "_id": "8a8ffea31cc0",
+  "brut": {
+    "title": "À l'ONU, la phrase polémique d'Emmanuel Macron",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À l'ONU, la phrase polémique d'Emmanuel Macron"
+    },
+    "summary": "À la tribune de l'ONU, Emmanuel Macron a dénoncé les violences contre les Palestiniens. Mais il a aussi affirmé, à tort, que le Hamas n’avait “jamais sévi en Cisjordanie”. Le gouvernement de Benjamin Nétanyahou dénonce une “absurdité grotesque”.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À la tribune de l'ONU, Emmanuel Macron a dénoncé les violences contre les Palestiniens. Mais il a aussi affirmé, à tort, que le Hamas n’avait “jamais sévi en Cisjordanie”. Le gouvernement de Benjamin Nétanyahou dénonce une “absurdité grotesque”."
+    },
+    "published": "Thu, 24 Sep 2026 17:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      15,
+      0,
+      1,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/politique/emmanuel-macron/a-l-onu-la-phrase-polemique-d-emmanuel-macron_8207975.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CHgEJ9f5OCLMlqeTPZLcywHh4b4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab5113e9dd74865657831.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/politique/emmanuel-macron/a-l-onu-la-phrase-polemique-d-emmanuel-macron_8207975.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/politique/emmanuel-macron/a-l-onu-la-phrase-polemique-d-emmanuel-macron_8207975.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

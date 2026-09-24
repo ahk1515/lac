@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T16:32:54.966937+00:00",
+  "_id": "b61083b96884",
+  "brut": {
+    "title": "Au Brésil, le Parti des travailleurs cherche un nouveau souffle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, le Parti des travailleurs cherche un nouveau souffle"
+    },
+    "published": "Thu, 24 Sep 2026 15:05:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      13,
+      5,
+      18,
+      3,
+      267,
+      0
+    ],
+    "summary": "A dix jours du premier tour de la présidentielle du 4 octobre, la formation de gauche peine à mobiliser, malgré une histoire faite de nombreuses conquêtes sociales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A dix jours du premier tour de la présidentielle du 4 octobre, la formation de gauche peine à mobiliser, malgré une histoire faite de nombreuses conquêtes sociales."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/24/au-bresil-le-parti-des-travailleurs-cherche-un-nouveau-souffle_6781519_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/24/au-bresil-le-parti-des-travailleurs-cherche-un-nouveau-souffle_6781519_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/24/au-bresil-le-parti-des-travailleurs-cherche-un-nouveau-souffle_6781519_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/458/0/5500/2750/644/322/60/0/59fdd2a_ftp-1-zj4raxlomxhc-2026-09-20t164544z-896515811-rc22nnatm97g-rtrmadp-3-brazil-election.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des partisans du président brésilien, Luiz Inacio Lula da Silva, lors d’un meeting électoral à Brasilia, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Adriano Machado/REUTERS"
+      }
+    ],
+    "credit": "Adriano Machado/REUTERS"
+  }
+}

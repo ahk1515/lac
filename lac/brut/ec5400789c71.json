@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T16:32:55.212269+00:00",
+  "_id": "ec5400789c71",
+  "brut": {
+    "title": "Un pape américain aux racines normandes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un pape américain aux racines normandes"
+    },
+    "summary": "Élu il y a plus d’un an,  Léon XIV, premier pape américain, est originaire de Chicago, mais il a aussi des racines normandes: sa grand-mère Suzanne est née au Havre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Élu il y a plus d’un an,  Léon XIV, premier pape américain, est originaire de Chicago, mais il a aussi des racines normandes: sa grand-mère Suzanne est née au Havre."
+    },
+    "published": "Thu, 24 Sep 2026 14:51:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      12,
+      51,
+      9,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/un-pape-americain-aux-racines-normandes_8207963.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KTeBb6uRoavP6qfxm92J685mGMs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab50e229ba53032242478.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/un-pape-americain-aux-racines-normandes_8207963.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/un-pape-americain-aux-racines-normandes_8207963.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
