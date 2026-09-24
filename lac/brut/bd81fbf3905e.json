@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T09:00:41.148364+00:00",
+  "_id": "bd81fbf3905e",
+  "brut": {
+    "title": "REPORTAGE. \"Mon premier réflexe, c’est de demander à l’IA\" : en Chine, l’intelligence artificielle est déjà partout",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. \"Mon premier réflexe, c’est de demander à l’IA\" : en Chine, l’intelligence artificielle est déjà partout"
+    },
+    "summary": "Commander un café, écrire à un client ou organiser ses courses :En Chine, l’intelligence artificielle occupe déjà une place centrale. Pékin entend accélérer son développement pour en faire un moteur de son économie, tout en gardant la technologie sous contrôle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Commander un café, écrire à un client ou organiser ses courses :En Chine, l’intelligence artificielle occupe déjà une place centrale. Pékin entend accélérer son développement pour en faire un moteur de son économie, tout en gardant la technologie sous contrôle."
+    },
+    "published": "Thu, 24 Sep 2026 09:00:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      7,
+      0,
+      52,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mon-premier-reflexe-c-est-de-demander-a-l-ia-en-chine-l-intelligence-artificielle-est-deja-partout_8185526.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kB_j3UgXNJ_uyN0Nx8VSToppUSk/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/24/6ab4c06804826937237488.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mon-premier-reflexe-c-est-de-demander-a-l-ia-en-chine-l-intelligence-artificielle-est-deja-partout_8185526.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mon-premier-reflexe-c-est-de-demander-a-l-ia-en-chine-l-intelligence-artificielle-est-deja-partout_8185526.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

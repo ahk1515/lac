@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T09:00:41.148157+00:00",
+  "_id": "db9452acf422",
+  "brut": {
+    "title": "REPORTAGE. Lourdes attend (et redoute, pour certains) la visite du pape",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. Lourdes attend (et redoute, pour certains) la visite du pape"
+    },
+    "summary": "À deux jours de la venue de Léon XIV, les habitants et commerçants de la petite ville des Hautes-Pyrénées appréhendent l'afflux des 200 000 visiteurs attendus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À deux jours de la venue de Léon XIV, les habitants et commerçants de la petite ville des Hautes-Pyrénées appréhendent l'afflux des 200 000 visiteurs attendus."
+    },
+    "published": "Thu, 24 Sep 2026 09:09:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      7,
+      9,
+      34,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-lourdes-attend-et-redoute-pour-certains-la-visite-du-pape_8207435.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Dc5f-v_keOntBKRoF1JskHpgenI/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/24/6ab4c21a799a4420416049.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-lourdes-attend-et-redoute-pour-certains-la-visite-du-pape_8207435.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-lourdes-attend-et-redoute-pour-certains-la-visite-du-pape_8207435.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

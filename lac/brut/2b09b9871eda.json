@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T09:00:41.148822+00:00",
+  "_id": "2b09b9871eda",
+  "brut": {
+    "title": "Sept millions d'euros collectés sur les 20 millions nécessaires au diocèse de Paris pour la visite du pape",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sept millions d'euros collectés sur les 20 millions nécessaires au diocèse de Paris pour la visite du pape"
+    },
+    "summary": "L'étape parisienne est l'étape la plus coûteuse des quatre jours que le pape va passer en France : 20 millions sur 27 millions d'euros au total. Et l'Église ne bénéficie ni de subventions du Vatican, ni de l'État.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'étape parisienne est l'étape la plus coûteuse des quatre jours que le pape va passer en France : 20 millions sur 27 millions d'euros au total. Et l'Église ne bénéficie ni de subventions du Vatican, ni de l'État."
+    },
+    "published": "Thu, 24 Sep 2026 08:47:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      6,
+      47,
+      51,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/sept-millions-d-euros-collectes-sur-les-20-millions-necessaires-au-diocese-de-paris-pour-la-visite-du-pape_8207510.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/s0NMuAXABZ0hwctnhh22eLgObhQ/0x53:1024x629/432x243/filters:format(jpg)/2026/09/24/6ab4c6f3024fc479694607.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/sept-millions-d-euros-collectes-sur-les-20-millions-necessaires-au-diocese-de-paris-pour-la-visite-du-pape_8207510.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/sept-millions-d-euros-collectes-sur-les-20-millions-necessaires-au-diocese-de-paris-pour-la-visite-du-pape_8207510.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

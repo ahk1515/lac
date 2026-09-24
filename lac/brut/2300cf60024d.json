@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T09:00:41.147547+00:00",
+  "_id": "2300cf60024d",
+  "brut": {
+    "title": "Aux États-Unis, un magasin d'armes ouvre ses portes à côté d'une crèche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, un magasin d'armes ouvre ses portes à côté d'une crèche"
+    },
+    "summary": "En Californie, dans le comté de Santa Barbara, une armurerie s'est installée à côté d'un jardin d'enfants. Une implantation tout à fait légale, mais qui suscite l'inquiétude des parents.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Californie, dans le comté de Santa Barbara, une armurerie s'est installée à côté d'un jardin d'enfants. Une implantation tout à fait légale, mais qui suscite l'inquiétude des parents."
+    },
+    "published": "Thu, 24 Sep 2026 10:00:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      8,
+      0,
+      9,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-un-magasin-d-armes-ouvre-ses-portes-a-cote-d-une-creche_8185565.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/G59wrPsUrhEyptVq-avtDUgcNfk/0x301:5852x3592/432x243/filters:format(jpg)/2026/09/24/6ab4d4173af09899200792.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-un-magasin-d-armes-ouvre-ses-portes-a-cote-d-une-creche_8185565.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-un-magasin-d-armes-ouvre-ses-portes-a-cote-d-une-creche_8185565.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T09:00:41.150347+00:00",
+  "_id": "e1503500c524",
+  "brut": {
+    "title": "Une intelligence artificielle d'OpenAI a piraté un site du gouvernement australien pour accéder à des données qu'elle ne trouvait pas en libre accès",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une intelligence artificielle d'OpenAI a piraté un site du gouvernement australien pour accéder à des données qu'elle ne trouvait pas en libre accès"
+    },
+    "summary": "Cet agent autonome d'IA a accédé à des fichiers qui ne sont pas publics du service de statistiques de la santé australien, a expliqué le Premier ministre du pays, qui déplore aussi le peu d'empressement de l'entreprise américaine à prévenir l'Australie de cet incident.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cet agent autonome d'IA a accédé à des fichiers qui ne sont pas publics du service de statistiques de la santé australien, a expliqué le Premier ministre du pays, qui déplore aussi le peu d'empressement de l'entreprise américaine à prévenir l'Australie de cet incident."
+    },
+    "published": "Thu, 24 Sep 2026 08:24:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      6,
+      24,
+      38,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/intelligence-artificielle/elle-a-escalade-la-cloture-l-intelligence-artificielle-d-openai-a-infiltre-un-site-du-gouvernement-australien_8207450.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/o_zv9j43AQsGMp6YoUGaoBvAo8c/0x52:1024x628/432x243/filters:format(jpg)/2026/09/24/6ab4bb080cdee648324861.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/elle-a-escalade-la-cloture-l-intelligence-artificielle-d-openai-a-infiltre-un-site-du-gouvernement-australien_8207450.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/intelligence-artificielle/elle-a-escalade-la-cloture-l-intelligence-artificielle-d-openai-a-infiltre-un-site-du-gouvernement-australien_8207450.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

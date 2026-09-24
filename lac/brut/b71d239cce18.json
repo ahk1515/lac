@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T09:00:40.542928+00:00",
+  "_id": "b71d239cce18",
+  "brut": {
+    "title": "La BERD s’inquiète du blocage des exportations de blé à cause de la guerre en Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La BERD s’inquiète du blocage des exportations de blé à cause de la guerre en Ukraine"
+    },
+    "published": "Thu, 24 Sep 2026 10:00:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      8,
+      0,
+      18,
+      3,
+      267,
+      0
+    ],
+    "summary": "Les attaques sur des navires en mer Noire et le manque d’eau dans le Danube rendent très difficiles les exportations de blé, dont le prix a augmenté d’un tiers depuis février, s’inquiète la Banque européenne pour la reconstruction et le développement dans ses prévisions trimestrielles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les attaques sur des navires en mer Noire et le manque d’eau dans le Danube rendent très difficiles les exportations de blé, dont le prix a augmenté d’un tiers depuis février, s’inquiète la Banque européenne pour la reconstruction et le développement dans ses prévisions trimestrielles."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/24/la-berd-s-inquiete-du-blocage-des-exportations-de-ble-a-cause-de-la-guerre-en-ukraine_6781484_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/24/la-berd-s-inquiete-du-blocage-des-exportations-de-ble-a-cause-de-la-guerre-en-ukraine_6781484_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/24/la-berd-s-inquiete-du-blocage-des-exportations-de-ble-a-cause-de-la-guerre-en-ukraine_6781484_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/166/0/6533/3266/644/322/60/0/e298ff3_ftp-1-quz01im1shdg-6791af2a7c204d15bb02984fe11a3b07-0-b5bd430a9c28455e8905df6827f5434e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le Rhin, au niveau du château de Pfalzgrafenstein à Kaub, en Allemagne, le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Michael Probst/AP Photo"
+      }
+    ],
+    "credit": "Michael Probst/AP Photo"
+  }
+}

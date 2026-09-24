@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T09:00:40.543327+00:00",
+  "_id": "a8fa7cb576b2",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : neuf morts dans des frappes russes à Kiev et dans la région de Kharkiv",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : neuf morts dans des frappes russes à Kiev et dans la région de Kharkiv"
+    },
+    "published": "Thu, 24 Sep 2026 09:57:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      7,
+      57,
+      42,
+      3,
+      267,
+      0
+    ],
+    "updated": "Thu, 24 Sep 2026 10:13:07 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      24,
+      8,
+      13,
+      7,
+      3,
+      267,
+      0
+    ],
+    "summary": "Au total, une vingtaine de personnes ont également été blessées dans le pays alors que des bombardements russes ont de nouveau eu lieu cette nuit dans la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au total, une vingtaine de personnes ont également été blessées dans le pays alors que des bombardements russes ont de nouveau eu lieu cette nuit dans la capitale."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-neuf-morts-dans-des-frappes-russes-a-kiev-et-dans-la-region-de-kharkiv_6777944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-neuf-morts-dans-des-frappes-russes-a-kiev-et-dans-la-region-de-kharkiv_6777944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-neuf-morts-dans-des-frappes-russes-a-kiev-et-dans-la-region-de-kharkiv_6777944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/904/0/6000/3000/644/322/60/0/ff2a241_ftp-1-o9njtux3sypl-2026-09-24t061226z-1895400517-rc2gpnahnjll-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des maisons détruites par une frappe de missile balistique russe à Kiev, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}
