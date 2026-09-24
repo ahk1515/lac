@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T23:00:37.647638+00:00",
+  "_id": "83e6dabfea7f",
+  "brut": {
+    "title": "Au Nigeria, la mort de 37 orpailleurs en détention pèse sur la campagne présidentielle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Nigeria, la mort de 37 orpailleurs en détention pèse sur la campagne présidentielle"
+    },
+    "published": "Thu, 24 Sep 2026 19:00:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      17,
+      0,
+      17,
+      3,
+      267,
+      0
+    ],
+    "summary": "Dans le centre du pays, 37 jeunes mineurs sont morts dans une cellule surchauffée et surpeuplée alors qu’ils étaient détenus par une unité des forces de sécurité, le 17 septembre. A l’approche de l’élection présidentielle, les autorités réagissent avec une détermination inhabituelle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans le centre du pays, 37 jeunes mineurs sont morts dans une cellule surchauffée et surpeuplée alors qu’ils étaient détenus par une unité des forces de sécurité, le 17 septembre. A l’approche de l’élection présidentielle, les autorités réagissent avec une détermination inhabituelle."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/24/au-nigeria-la-mort-de-37-orpailleurs-en-detention-pese-sur-la-campagne-presidentielle_6781565_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/24/au-nigeria-la-mort-de-37-orpailleurs-en-detention-pese-sur-la-campagne-presidentielle_6781565_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/24/au-nigeria-la-mort-de-37-orpailleurs-en-detention-pese-sur-la-campagne-presidentielle_6781565_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/530/0/6359/3179/644/322/60/0/ac20439_ftp-1-ky58mg0wvmmf-7f7ffe16f35f43f7a37b847b1c193775-0-aef05d8b42674bd997bc5077ea3b058a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les familles des mineurs arrêtés pour exploitation minière illégale et morts en détention attendent devant un hôpital de Minna, au Nigeria, où leurs corps sont conservés, le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Afolabi Sotunde/AP"
+      }
+    ],
+    "credit": "Afolabi Sotunde/AP"
+  }
+}

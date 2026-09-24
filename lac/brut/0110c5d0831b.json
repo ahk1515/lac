@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T23:00:38.006661+00:00",
+  "_id": "0110c5d0831b",
+  "brut": {
+    "title": "Adolf Hitler a-t-il tué sa nièce ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Adolf Hitler a-t-il tué sa nièce ?"
+    },
+    "summary": "Adolf Hitler a-t-il tué sa nièce en 1931? Elle avait été retrouvée morte chez son oncle et l'enquête avait conclu à un suicide. Mais des archives inédites remettent en cause l’alibi d’Hitler.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Adolf Hitler a-t-il tué sa nièce en 1931? Elle avait été retrouvée morte chez son oncle et l'enquête avait conclu à un suicide. Mais des archives inédites remettent en cause l’alibi d’Hitler."
+    },
+    "published": "Thu, 24 Sep 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      17,
+      0,
+      2,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/adolf-hitler-a-t-il-tue-sa-niece_8208359.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/apqkIYLDsvBmWDaWkowvZ8YO6PM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab548c61ab8b402359619.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/adolf-hitler-a-t-il-tue-sa-niece_8208359.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/adolf-hitler-a-t-il-tue-sa-niece_8208359.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

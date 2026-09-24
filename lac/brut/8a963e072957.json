@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T23:00:37.646640+00:00",
+  "_id": "8a963e072957",
+  "brut": {
+    "title": "Après sa victoire à Berlin, le parti de gauche radicale Die Linke tente de contrer les accusations d’antisémitisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après sa victoire à Berlin, le parti de gauche radicale Die Linke tente de contrer les accusations d’antisémitisme"
+    },
+    "published": "Thu, 24 Sep 2026 21:00:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      19,
+      0,
+      3,
+      3,
+      267,
+      0
+    ],
+    "summary": "Le chancelier Friedrich Merz a accusé d’antisémitisme le parti Die Linke, qui s’apprête à former une coalition pour gouverner la ville de Berlin. Elif Eralp, la candidate à la mairie de cette formation, a pris position pendant la campagne, sans parvenir à faire taire ces accusations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chancelier Friedrich Merz a accusé d’antisémitisme le parti Die Linke, qui s’apprête à former une coalition pour gouverner la ville de Berlin. Elif Eralp, la candidate à la mairie de cette formation, a pris position pendant la campagne, sans parvenir à faire taire ces accusations."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/24/apres-sa-victoire-a-berlin-le-parti-de-gauche-radicale-die-linke-tente-de-contrer-les-accusations-d-antisemitisme_6781579_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/24/apres-sa-victoire-a-berlin-le-parti-de-gauche-radicale-die-linke-tente-de-contrer-les-accusations-d-antisemitisme_6781579_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/24/apres-sa-victoire-a-berlin-le-parti-de-gauche-radicale-die-linke-tente-de-contrer-les-accusations-d-antisemitisme_6781579_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/437/0/5256/2628/644/322/60/0/e0461c9_ftp-1-ymzquue12o0r-5138364-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Elif Eralp, tête de liste du parti de gauche Die Linke (La Gauche), à la Chambre des députés lors d’un débat télévisé, à Berlin, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ODD ANDERSEN/AFP"
+      }
+    ],
+    "credit": "ODD ANDERSEN/AFP"
+  }
+}

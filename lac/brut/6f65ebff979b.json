@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T23:00:38.004683+00:00",
+  "_id": "6f65ebff979b",
+  "brut": {
+    "title": "Emmanuel Macron dément l'existence d'une alerte de la CIA sur une possible attaque de drones russes visant le sud de la France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron dément l'existence d'une alerte de la CIA sur une possible attaque de drones russes visant le sud de la France"
+    },
+    "summary": "Il a ainsi contredit les informations parues dans la presse étrangère.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il a ainsi contredit les informations parues dans la presse étrangère."
+    },
+    "published": "Thu, 24 Sep 2026 22:37:57 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      20,
+      37,
+      57,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/emmanuel-macron-dement-l-existence-d-une-alerte-de-la-cia-sur-une-possible-attaque-de-drones-russes-visant-le-sud-de-la-france_8208686.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/BX9IU-FOUK-gZMitwGVxgW_Rpyk/0x41:6529x3713/432x243/filters:format(jpg)/2026/09/24/6ab58778b740d461308823.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/emmanuel-macron-dement-l-existence-d-une-alerte-de-la-cia-sur-une-possible-attaque-de-drones-russes-visant-le-sud-de-la-france_8208686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/emmanuel-macron-dement-l-existence-d-une-alerte-de-la-cia-sur-une-possible-attaque-de-drones-russes-visant-le-sud-de-la-france_8208686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T23:00:38.005293+00:00",
+  "_id": "04a122f6f2df",
+  "brut": {
+    "title": "Le programme du pape Léon XIV en visite en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le programme du pape Léon XIV en visite en France"
+    },
+    "summary": "Le pape Léon XIV effectue une visite de 4 jours en France, de vendredi 25/09 au lundi 28/09. Paris, Lourdes, Metz, son programme jour par jour.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape Léon XIV effectue une visite de 4 jours en France, de vendredi 25/09 au lundi 28/09. Paris, Lourdes, Metz, son programme jour par jour."
+    },
+    "published": "Thu, 24 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      20,
+      0,
+      2,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-programme-du-pape-leon-xiv-en-visite-en-france_8208635.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/fKfD1LJSlcNl9J8bNjXVKlmf84E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab577d9c58d7062188764.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-programme-du-pape-leon-xiv-en-visite-en-france_8208635.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-programme-du-pape-leon-xiv-en-visite-en-france_8208635.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

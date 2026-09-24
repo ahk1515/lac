@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-24T23:00:37.645489+00:00",
+  "_id": "b36e51d97e00",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la situation « monte en tension » en Europe, ciblée par des « actes hostiles » de la Russie, dit Emmanuel Macron",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la situation « monte en tension » en Europe, ciblée par des « actes hostiles » de la Russie, dit Emmanuel Macron"
+    },
+    "published": "Fri, 25 Sep 2026 00:21:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      22,
+      21,
+      31,
+      3,
+      267,
+      0
+    ],
+    "summary": "Le président français, en entretien aux « 20 heures » de TF1 et de France 2, a néanmoins démenti les informations publiées dans la presse étrangère selon lesquelles une attaque de drone russe par la mer pourrait viser l’Europe, et en particulier le sud de la France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président français, en entretien aux « 20 heures » de TF1 et de France 2, a néanmoins démenti les informations publiées dans la presse étrangère selon lesquelles une attaque de drone russe par la mer pourrait viser l’Europe, et en particulier le sud de la France."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-la-situation-monte-en-tension-en-europe-ciblee-par-des-actes-hostiles-de-la-russie-dit-emmanuel-macron_6777944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-la-situation-monte-en-tension-en-europe-ciblee-par-des-actes-hostiles-de-la-russie-dit-emmanuel-macron_6777944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-la-situation-monte-en-tension-en-europe-ciblee-par-des-actes-hostiles-de-la-russie-dit-emmanuel-macron_6777944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/271/0/2580/1290/644/322/60/0/9cfeaff_ftp-1-0if0bbf07wak-5173927-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "la défense aérienne ukrainienne en train d’abattre un drone lors d’une frappe aérienne russe sur Kiev, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGEI SUPINSKY/AFP"
+      }
+    ],
+    "credit": "SERGEI SUPINSKY/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-24T23:00:38.004932+00:00",
+  "_id": "7afb71f7b074",
+  "brut": {
+    "title": "Emmanuel Macron : “Ces dernières semaines, les actes hostiles en Europe se sont multipliés.“",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Emmanuel Macron : “Ces dernières semaines, les actes hostiles en Europe se sont multipliés.“"
+    },
+    "summary": "Le président de la République, Emmanuel Macron, a évoqué la menace russe qui s'amplifie en Europe : il a démenti l'existence d'une alerte de la CIA sur une possible attaque de drones russes visant le sud de la France, tout en estimant possible que la France soit ciblée par une tentative d'attaque russe, comme celle survenue en août à l'aéroport de Leipzig.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président de la République, Emmanuel Macron, a évoqué la menace russe qui s'amplifie en Europe : il a démenti l'existence d'une alerte de la CIA sur une possible attaque de drones russes visant le sud de la France, tout en estimant possible que la France soit ciblée par une tentative d'attaque russe, comme celle survenue en août à l'aéroport de Leipzig."
+    },
+    "published": "Thu, 24 Sep 2026 22:24:59 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      20,
+      24,
+      59,
+      3,
+      267,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-ces-dernieres-semaines-les-actes-hostiles-en-europe-se-sont-multiplies_8208695.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vNS-lVHFE4h4Neh907zBh-mZbQ4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab587010b687243656865.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-ces-dernieres-semaines-les-actes-hostiles-en-europe-se-sont-multiplies_8208695.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-ces-dernieres-semaines-les-actes-hostiles-en-europe-se-sont-multiplies_8208695.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
