@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.370958+00:00",
+  "_id": "e1a0380ebbff",
+  "brut": {
+    "title": "\"FC Jésus\" : ces jeunes ont créé un maillot de foot catholique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"FC Jésus\" : ces jeunes ont créé un maillot de foot catholique"
+    },
+    "summary": "Des jeunes fidèles du diocèse de Soissons, Laon et Saint-Quentin (Aisne) ont créé un maillot de foot catholique floqué “Léon XIV” pour financer leur voyage aux Journées mondiales de la jeunesse (JMJ) en Corée du sud.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des jeunes fidèles du diocèse de Soissons, Laon et Saint-Quentin (Aisne) ont créé un maillot de foot catholique floqué “Léon XIV” pour financer leur voyage aux Journées mondiales de la jeunesse (JMJ) en Corée du sud."
+    },
+    "published": "Fri, 25 Sep 2026 23:56:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      21,
+      56,
+      42,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/fc-jesus-ces-jeunes-ont-cree-un-maillot-de-foot-catholique_8210324.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/59fF0vDJ7LtT3PdS4DsNW71yjdk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/26/6ab6f16953ed2897360611.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/fc-jesus-ces-jeunes-ont-cree-un-maillot-de-foot-catholique_8210324.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/fc-jesus-ces-jeunes-ont-cree-un-maillot-de-foot-catholique_8210324.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

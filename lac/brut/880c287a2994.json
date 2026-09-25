@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.372539+00:00",
+  "_id": "880c287a2994",
+  "brut": {
+    "title": "VIDEO. Le pape accueilli dans une ambiance survoltée au Stade de France, pour une grande veillée avec des jeunes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "VIDEO. Le pape accueilli dans une ambiance survoltée au Stade de France, pour une grande veillée avec des jeunes"
+    },
+    "summary": "Quelques 80 000 jeunes l'attendaient depuis plusieurs heures au son de groupes de pop-louange et de gospel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quelques 80 000 jeunes l'attendaient depuis plusieurs heures au son de groupes de pop-louange et de gospel."
+    },
+    "published": "Fri, 25 Sep 2026 21:25:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      19,
+      25,
+      11,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-le-pape-accueilli-dans-une-ambiance-survoltee-au-stade-de-france-pour-une-grande-veillee-avec-des-jeunes_8210234.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LwEjjQXWbPzDd0zK7u3e-vfPDqs/0x270:5189x3188/432x243/filters:format(jpg)/2026/09/25/6ab6c999aabc8797951042.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-le-pape-accueilli-dans-une-ambiance-survoltee-au-stade-de-france-pour-une-grande-veillee-avec-des-jeunes_8210234.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-le-pape-accueilli-dans-une-ambiance-survoltee-au-stade-de-france-pour-une-grande-veillee-avec-des-jeunes_8210234.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T23:05:33.095853+00:00",
+  "_id": "80ecfa78475c",
+  "brut": {
+    "title": "Voyage du pape en France : « Léon XIV a rempli le Stade de France plus vite que Jul »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Voyage du pape en France : « Léon XIV a rempli le Stade de France plus vite que Jul »"
+    },
+    "published": "Fri, 25 Sep 2026 21:27:36 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      19,
+      27,
+      36,
+      4,
+      268,
+      0
+    ],
+    "updated": "Fri, 25 Sep 2026 21:39:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      25,
+      19,
+      39,
+      29,
+      4,
+      268,
+      0
+    ],
+    "summary": "A Saint-Denis (Seine-Saint-Denis), vendredi, se sont croisés jeunes croyants convaincus et passants curieux ou indifférents, alors que le pape devait participer à une grande veillée le soir dans l’enceinte sportive.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Saint-Denis (Seine-Saint-Denis), vendredi, se sont croisés jeunes croyants convaincus et passants curieux ou indifférents, alors que le pape devait participer à une grande veillée le soir dans l’enceinte sportive."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/25/voyage-du-pape-en-france-leon-xiv-a-rempli-le-stade-de-france-plus-vite-que-jul_6782634_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/25/voyage-du-pape-en-france-leon-xiv-a-rempli-le-stade-de-france-plus-vite-que-jul_6782634_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/25/voyage-du-pape-en-france-leon-xiv-a-rempli-le-stade-de-france-plus-vite-que-jul_6782634_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/83/0/2953/1476/644/322/60/0/bd291a7_upload-1-l6dxgv1qqoah-033-millerand-5h9a7687.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des fidèles arborant des maillots de football, devant le Stade de France, le 25 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Camille Millerand/Divergence pour « Le Monde »"
+      }
+    ],
+    "credit": "Camille Millerand/Divergence pour « Le Monde »"
+  }
+}

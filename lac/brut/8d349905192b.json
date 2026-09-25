@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.374316+00:00",
+  "_id": "8d349905192b",
+  "brut": {
+    "title": "À Paris, la visite du pape placée sous haute sécurité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Paris, la visite du pape placée sous haute sécurité"
+    },
+    "summary": "À Paris, la venue du pape mobilise un important dispositif de sécurité, avec 16 500 policiers, gendarmes et sapeurs-pompiers déployés. Alors que plusieurs secteurs de la capitale sont bouclés, les forces de l’ordre se préparent notamment à sécuriser les déplacements du souverain pontife au milieu de la foule et à prévenir toute menace venue du ciel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Paris, la venue du pape mobilise un important dispositif de sécurité, avec 16 500 policiers, gendarmes et sapeurs-pompiers déployés. Alors que plusieurs secteurs de la capitale sont bouclés, les forces de l’ordre se préparent notamment à sécuriser les déplacements du souverain pontife au milieu de la foule et à prévenir toute menace venue du ciel."
+    },
+    "published": "Fri, 25 Sep 2026 22:08:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      20,
+      8,
+      43,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-francois/a-paris-la-visite-du-pape-placee-sous-haute-securite_8210180.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/klOP4CMG2P3enC71wP6TA7WWAOE/146x0:1408x710/432x243/filters:format(jpg)/2026/09/25/6ab6c29438cac731151672.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-francois/a-paris-la-visite-du-pape-placee-sous-haute-securite_8210180.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-francois/a-paris-la-visite-du-pape-placee-sous-haute-securite_8210180.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

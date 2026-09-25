@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.371443+00:00",
+  "_id": "1a1278d2e1a8",
+  "brut": {
+    "title": "Les secrets de la visite du pape en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les secrets de la visite du pape en France"
+    },
+    "summary": "De son hébergement à son avion, chaque détail de la visite de Léon XIV en France est soigneusement préparé. Chambre du pape, sécurité, déplacements, repas et même place à bord de l’avion : voici les coulisses d’un voyage pontifical particulièrement organisé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De son hébergement à son avion, chaque détail de la visite de Léon XIV en France est soigneusement préparé. Chambre du pape, sécurité, déplacements, repas et même place à bord de l’avion : voici les coulisses d’un voyage pontifical particulièrement organisé."
+    },
+    "published": "Fri, 25 Sep 2026 22:30:45 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      20,
+      30,
+      45,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-secrets-de-la-visite-du-pape-en-france_8210273.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wv07UEIO8soz9sxCx7YCXVnMcHI/37x0:975x528/432x243/filters:format(jpg)/2026/09/25/6ab6d7b0ab05d823037181.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-secrets-de-la-visite-du-pape-en-france_8210273.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-secrets-de-la-visite-du-pape-en-france_8210273.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

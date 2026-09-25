@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.372862+00:00",
+  "_id": "cc5e5e4049d0",
+  "brut": {
+    "title": "Notre-Dame de Paris célèbre le pape Léon XIV",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Notre-Dame de Paris célèbre le pape Léon XIV"
+    },
+    "summary": "Pour sa première visite à Notre-Dame de-Paris, le pape Léon XIV a célébré les vêpres devant 6 000 religieux, sept ans après l’incendie qui avait ravagé la cathédrale. Un moment hautement symbolique pour le souverain pontife, qui a salué la renaissance du monument et appelé l’Église de France à l’unité, vendredi 25 septembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pour sa première visite à Notre-Dame de-Paris, le pape Léon XIV a célébré les vêpres devant 6 000 religieux, sept ans après l’incendie qui avait ravagé la cathédrale. Un moment hautement symbolique pour le souverain pontife, qui a salué la renaissance du monument et appelé l’Église de France à l’unité, vendredi 25 septembre."
+    },
+    "published": "Fri, 25 Sep 2026 22:01:59 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      20,
+      1,
+      59,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/notre-dame-de-paris-celebre-le-pape-leon-xiv_8210219.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/m6qvAmyu2Rl855o4cBI29Iy-SU4/4x0:1426x800/432x243/filters:format(jpg)/2026/09/25/6ab6c8a11aab3973874863.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/notre-dame-de-paris-celebre-le-pape-leon-xiv_8210219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/notre-dame-de-paris-celebre-le-pape-leon-xiv_8210219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

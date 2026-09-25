@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.374464+00:00",
+  "_id": "9173a64a9355",
+  "brut": {
+    "title": "Discours, déambulation en papamobile : le point sur la première journée du pape Léon XIV à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Discours, déambulation en papamobile : le point sur la première journée du pape Léon XIV à Paris"
+    },
+    "summary": "Arrivée à Orly, au palais de l'Élysée, une déambulation en papamobile jusqu'à Notre-Dame et un discours de paix… France Télévisions retrace le fil de la journée du pape Léon XIV à Paris, vendredi 25 septembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Arrivée à Orly, au palais de l'Élysée, une déambulation en papamobile jusqu'à Notre-Dame et un discours de paix… France Télévisions retrace le fil de la journée du pape Léon XIV à Paris, vendredi 25 septembre."
+    },
+    "published": "Fri, 25 Sep 2026 20:33:27 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      18,
+      33,
+      27,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/discours-deambulation-en-papamobile-le-point-sur-la-premiere-journee-du-pape-leon-xiv-a-paris_8210174.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/YW_gKJi0cJvXdM_InkQUbWhA5NE/30x0:988x539/432x243/filters:format(jpg)/2026/09/25/6ab6bc08d2b60177474117.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/discours-deambulation-en-papamobile-le-point-sur-la-premiere-journee-du-pape-leon-xiv-a-paris_8210174.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/discours-deambulation-en-papamobile-le-point-sur-la-premiere-journee-du-pape-leon-xiv-a-paris_8210174.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.370710+00:00",
+  "_id": "2a019be6d9ae",
+  "brut": {
+    "title": "\"Vous êtes les saints\" : le pape enflamme le Stade de France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Vous êtes les saints\" : le pape enflamme le Stade de France"
+    },
+    "summary": "Le pape a tenu une veillée symbolique au Stade de France devant 80 000 jeunes de 17 à 35 ans, vendredi 25 septembre à Saint-Denis. La soirée a été rythmée par des concerts et un spectacle théâtral sur les saints de France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape a tenu une veillée symbolique au Stade de France devant 80 000 jeunes de 17 à 35 ans, vendredi 25 septembre à Saint-Denis. La soirée a été rythmée par des concerts et un spectacle théâtral sur les saints de France."
+    },
+    "published": "Sat, 26 Sep 2026 00:02:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      22,
+      2,
+      9,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/vous-etes-les-saints-le-pape-enflamme-le-stade-de-france_8210333.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/W0NV-ys6F3DYZpzys1_lRUi3oZo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/26/6ab6ef37d51f7509219526.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/vous-etes-les-saints-le-pape-enflamme-le-stade-de-france_8210333.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/vous-etes-les-saints-le-pape-enflamme-le-stade-de-france_8210333.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

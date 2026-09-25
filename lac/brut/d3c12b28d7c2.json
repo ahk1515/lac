@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T23:05:33.095477+00:00",
+  "_id": "d3c12b28d7c2",
+  "brut": {
+    "title": "Visite du pape : revivez, en images, la journée de Léon XIV à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape : revivez, en images, la journée de Léon XIV à Paris"
+    },
+    "published": "Fri, 25 Sep 2026 22:37:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      20,
+      37,
+      41,
+      4,
+      268,
+      0
+    ],
+    "summary": "Le pape effectue un voyage de quatre jours en France. Son programme a été chargé pour sa première journée, à Paris, de sa rencontre avec Emmanuel Macron à l’Elysée jusqu’à sa veillée de prière, au Stade de France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pape effectue un voyage de quatre jours en France. Son programme a été chargé pour sa première journée, à Paris, de sa rencontre avec Emmanuel Macron à l’Elysée jusqu’à sa veillée de prière, au Stade de France."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/25/visite-du-pape-revivez-en-images-la-journee-de-leon-xiv-a-paris_6782638_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/25/visite-du-pape-revivez-en-images-la-journee-de-leon-xiv-a-paris_6782638_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/25/visite-du-pape-revivez-en-images-la-journee-de-leon-xiv-a-paris_6782638_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/500/0/6000/3000/644/322/60/0/6f62141_ftp-1-yfcw42b5wvbm-2026-09-25t090521z-1726546220-rc29qnaj717p-rtrmadp-3-pope-france.JPG"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YOAN VALAT / via REUTERS"
+      }
+    ],
+    "credit": "YOAN VALAT / via REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.374614+00:00",
+  "_id": "c945b7dcd174",
+  "brut": {
+    "title": "A 6 ans, elle bat le record mondial du Rubik's Cube",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A 6 ans, elle bat le record mondial du Rubik's Cube"
+    },
+    "summary": "À seulement 6 ans, une jeune Chinoise vient de pulvériser le record du monde féminin de Rubik’s Cube en un peu plus de 4 secondes. Un exploit fou quand on sait qu’il existe près de 43 milliards de configurations possibles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À seulement 6 ans, une jeune Chinoise vient de pulvériser le record du monde féminin de Rubik’s Cube en un peu plus de 4 secondes. Un exploit fou quand on sait qu’il existe près de 43 milliards de configurations possibles."
+    },
+    "published": "Fri, 25 Sep 2026 20:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      18,
+      0,
+      2,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sports/a-6-ans-elle-bat-le-record-mondial-du-rubik-s-cube_8209994.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_TAeAHABsDtLzbPdVsZDu7RW-Yw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab69bceb29f0188313993.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sports/a-6-ans-elle-bat-le-record-mondial-du-rubik-s-cube_8209994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sports/a-6-ans-elle-bat-le-record-mondial-du-rubik-s-cube_8209994.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T23:05:33.371602+00:00",
+  "_id": "1be6d23edbe2",
+  "brut": {
+    "title": "Avec le pape, la papamobile déambule dans les rues de Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avec le pape, la papamobile déambule dans les rues de Paris"
+    },
+    "summary": "En visite en France, Léon XIV se déplace avec l'inévitable papamobile, sous les regards de nombreux fidèles. Véhicule emblématique des déplacements pontificaux, le modèle électrique utilisé par le pape appartient à l’histoire récente du Vatican, qui a vu se succéder de nombreux véhicules au fil des décennies.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En visite en France, Léon XIV se déplace avec l'inévitable papamobile, sous les regards de nombreux fidèles. Véhicule emblématique des déplacements pontificaux, le modèle électrique utilisé par le pape appartient à l’histoire récente du Vatican, qui a vu se succéder de nombreux véhicules au fil des décennies."
+    },
+    "published": "Fri, 25 Sep 2026 23:58:48 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      21,
+      58,
+      48,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/avec-le-pape-la-papamobile-a-la-traversee-de-paris_8210243.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8qGRxMZq4MdxI4nGPHegVm9kQS0/0x74:1316x815/432x243/filters:format(jpg)/2026/09/25/6ab6ee94dfadf837577204.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/avec-le-pape-la-papamobile-a-la-traversee-de-paris_8210243.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/avec-le-pape-la-papamobile-a-la-traversee-de-paris_8210243.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
