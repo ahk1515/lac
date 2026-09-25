@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T03:34:33.956675+00:00",
+  "_id": "f367dbcfa498",
+  "brut": {
+    "title": "Amnesty International appelle à la « suppression immédiate » de l’ICE, la police de l’immigration américaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Amnesty International appelle à la « suppression immédiate » de l’ICE, la police de l’immigration américaine"
+    },
+    "published": "Fri, 25 Sep 2026 01:38:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      23,
+      38,
+      42,
+      3,
+      267,
+      0
+    ],
+    "updated": "Fri, 25 Sep 2026 02:54:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      25,
+      0,
+      54,
+      3,
+      4,
+      268,
+      0
+    ],
+    "summary": "L’ONG recense, dans un rapport, « les violations généralisées des droits humains » de cette police aux Etats-Unis, notamment des « discriminations raciales et détentions arbitraires » ou des « homicides illégaux imputables à des agents fédéraux ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ONG recense, dans un rapport, « les violations généralisées des droits humains » de cette police aux Etats-Unis, notamment des « discriminations raciales et détentions arbitraires » ou des « homicides illégaux imputables à des agents fédéraux »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/25/amnesty-international-appelle-a-la-suppression-immediate-de-l-ice-la-police-de-l-immigration-americaine_6781719_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/25/amnesty-international-appelle-a-la-suppression-immediate-de-l-ice-la-police-de-l-immigration-americaine_6781719_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/25/amnesty-international-appelle-a-la-suppression-immediate-de-l-ice-la-police-de-l-immigration-americaine_6781719_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/14/0/0/5500/2750/644/322/60/0/3fdc8f0_ftp-1-x9kmxi11eyi3-2026-09-14t100043z-1057371901-rc2y6na9mmt1-rtrmadp-3-usa-trump-immigration.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un agent de l’ICE, la police fédérale de l’immigration américaine, à Danbury (Connecticut), le 27 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vincent Alban/REUTERS"
+      }
+    ],
+    "credit": "Vincent Alban/REUTERS"
+  }
+}
