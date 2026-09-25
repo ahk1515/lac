@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T09:23:39.269532+00:00",
+  "_id": "8ff6bd7d2dbd",
+  "brut": {
+    "title": "A Gaza, l’ONU alerte sur la « pire crise économique jamais observée »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, l’ONU alerte sur la « pire crise économique jamais observée »"
+    },
+    "published": "Fri, 25 Sep 2026 08:52:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      6,
+      52,
+      50,
+      4,
+      268,
+      0
+    ],
+    "summary": "Face à une économie dévastée, la population de Gaza dépend désormais presque entièrement de l’aide humanitaire pour survivre, tandis que la Cisjordanie, occupée, subit un durcissement des restrictions.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Face à une économie dévastée, la population de Gaza dépend désormais presque entièrement de l’aide humanitaire pour survivre, tandis que la Cisjordanie, occupée, subit un durcissement des restrictions."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/25/a-gaza-l-onu-alerte-sur-la-pire-crise-economique-jamais-observee_6782075_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/25/a-gaza-l-onu-alerte-sur-la-pire-crise-economique-jamais-observee_6782075_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/25/a-gaza-l-onu-alerte-sur-la-pire-crise-economique-jamais-observee_6782075_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/456/0/5500/2750/644/322/60/0/7e367c4_ftp-1-1vy7rcbk2fr2-2026-09-23t160107z-1220704971-rc2amna1fhhc-rtrmadp-3-israel-palestinians-gaza-building-collapse.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Deux enfants et leur grand-mère dans un camp de réfugiés à Gaza, le 16 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DAWOUD ABU ALKAS / REUTERS"
+      }
+    ],
+    "credit": "DAWOUD ABU ALKAS / REUTERS"
+  }
+}

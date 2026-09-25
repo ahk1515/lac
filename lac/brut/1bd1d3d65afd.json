@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T09:23:39.500271+00:00",
+  "_id": "1bd1d3d65afd",
+  "brut": {
+    "title": "PODCAST. Léon débarque, les marches pour le climat reviennent et Taylor Swift dépasse Beyoncé : ça dit quoi ce 25 septembre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PODCAST. Léon débarque, les marches pour le climat reviennent et Taylor Swift dépasse Beyoncé : ça dit quoi ce 25 septembre ?"
+    },
+    "summary": "Ce vendredi 25 septembre le Pape Léon XIV démarre une visite de 4 jours en France, 260 marches pour le climat se préparent et Taylor Swift va devenir l'artiste la plus récompensée des MTV Video Music Awards.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce vendredi 25 septembre le Pape Léon XIV démarre une visite de 4 jours en France, 260 marches pour le climat se préparent et Taylor Swift va devenir l'artiste la plus récompensée des MTV Video Music Awards."
+    },
+    "published": "Fri, 25 Sep 2026 08:27:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      6,
+      27,
+      42,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/leon-debarque-les-marches-pour-le-climat-reviennent-et-taylor-swift-depasse-beyonce-ca-dit-quoi-ce-25-septembre_8199875.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZxkoG9J9eU2IqaaVCg1OzbTZlKI/0x277:5312x3265/432x243/filters:format(jpg)/2026/09/25/6ab60d0f2eb5c813383526.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/leon-debarque-les-marches-pour-le-climat-reviennent-et-taylor-swift-depasse-beyonce-ca-dit-quoi-ce-25-septembre_8199875.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/leon-debarque-les-marches-pour-le-climat-reviennent-et-taylor-swift-depasse-beyonce-ca-dit-quoi-ce-25-septembre_8199875.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

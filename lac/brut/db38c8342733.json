@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T09:23:39.270880+00:00",
+  "_id": "db38c8342733",
+  "brut": {
+    "title": "Le Pape est-il un chef d’Etat comme les autres ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Pape est-il un chef d’Etat comme les autres ?"
+    },
+    "published": "Fri, 25 Sep 2026 06:00:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      4,
+      0,
+      5,
+      4,
+      268,
+      0
+    ],
+    "summary": "Le chef de l’Eglise catholique est aussi un chef d’Etat. Avec le Vatican, il dispose d’une petite armée et surtout d’un vaste réseau diplomatique présent dans presque tous les pays du monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef de l’Eglise catholique est aussi un chef d’Etat. Avec le Vatican, il dispose d’une petite armée et surtout d’un vaste réseau diplomatique présent dans presque tous les pays du monde."
+    },
+    "id": "https://www.lemonde.fr/videos/video/2026/09/25/le-pape-est-il-un-chef-d-etat-comme-les-autres_6781928_1669088.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/videos/video/2026/09/25/le-pape-est-il-un-chef-d-etat-comme-les-autres_6781928_1669088.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/videos/video/2026/09/25/le-pape-est-il-un-chef-d-etat-comme-les-autres_6781928_1669088.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/04/21/372/0/4480/2240/644/322/60/0/e612181_ftp-1-wnm2tetvijmw-5829611-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALBERTO PIZZOLI / AFP"
+      }
+    ],
+    "credit": "ALBERTO PIZZOLI / AFP"
+  }
+}

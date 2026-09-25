@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T09:23:39.498888+00:00",
+  "_id": "7e3e950c4557",
+  "brut": {
+    "title": "VIDEO. Le programme millimétré du pape pour sa première journée en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "VIDEO. Le programme millimétré du pape pour sa première journée en France"
+    },
+    "summary": "Dès son arrivée en France vendredi 25 septembre, Léon XIV va enchaîner les rendez-vous. Après avoir rencontré Emmanuel Macron et prononcé un discours à l'Unesco, le pape se rendra à Notre-Dame de Paris avant de terminer la journée au Stade de France, où 80 000 jeunes sont attendus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dès son arrivée en France vendredi 25 septembre, Léon XIV va enchaîner les rendez-vous. Après avoir rencontré Emmanuel Macron et prononcé un discours à l'Unesco, le pape se rendra à Notre-Dame de Paris avant de terminer la journée au Stade de France, où 80 000 jeunes sont attendus."
+    },
+    "published": "Fri, 25 Sep 2026 09:33:57 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      7,
+      33,
+      57,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-paris-le-programme-millimetre-du-pape-pour-sa-premiere-journee-en-france_8209160.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DuLSiGyjIh7KTyn_3nWMP9UZbR0/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/25/6ab61b8fde31d925576200.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-paris-le-programme-millimetre-du-pape-pour-sa-premiere-journee-en-france_8209160.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-paris-le-programme-millimetre-du-pape-pour-sa-premiere-journee-en-france_8209160.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

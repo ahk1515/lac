@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T09:23:39.270712+00:00",
+  "_id": "cbe75ce6297f",
+  "brut": {
+    "title": "Visite du pape en France : tout ce qu’il faut savoir sur le séjour de Léon XIV",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape en France : tout ce qu’il faut savoir sur le séjour de Léon XIV"
+    },
+    "published": "Fri, 25 Sep 2026 06:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      4,
+      0,
+      13,
+      4,
+      268,
+      0
+    ],
+    "updated": "Fri, 25 Sep 2026 10:13:30 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      25,
+      8,
+      13,
+      30,
+      4,
+      268,
+      0
+    ],
+    "summary": "Rencontres de haut niveau, messes en plein air, déambulations : à la fois religieux et diplomatique, l’événement de quatre jours est très attendu par les fidèles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Rencontres de haut niveau, messes en plein air, déambulations : à la fois religieux et diplomatique, l’événement de quatre jours est très attendu par les fidèles."
+    },
+    "id": "https://www.lemonde.fr/les-decodeurs/article/2026/09/25/visite-du-pape-en-france-tout-ce-qu-il-faut-savoir-sur-le-sejour-de-leon-xiv_6781935_4355770.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/25/visite-du-pape-en-france-tout-ce-qu-il-faut-savoir-sur-le-sejour-de-leon-xiv_6781935_4355770.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2026/09/25/visite-du-pape-en-france-tout-ce-qu-il-faut-savoir-sur-le-sejour-de-leon-xiv_6781935_4355770.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/376/0/4208/2104/644/322/60/0/637a960_ftp-1-wuewlfrjia2v-2026-09-23t092615z-1992080005-rc2wonag5qmp-rtrmadp-3-migration-pope.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le pape Léon XIV lors de l’audience générale hebdomadaire sur la place Saint-Pierre, au Vatican, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Remo Casilli/REUTERS"
+      }
+    ],
+    "credit": "Remo Casilli/REUTERS"
+  }
+}

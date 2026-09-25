@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T09:23:39.269718+00:00",
+  "_id": "2b59560db9d8",
+  "brut": {
+    "title": "Les Etats-Unis veulent soutenir X dans son recours contre une amende de l’Union européenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis veulent soutenir X dans son recours contre une amende de l’Union européenne"
+    },
+    "published": "Fri, 25 Sep 2026 08:50:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      6,
+      50,
+      7,
+      4,
+      268,
+      0
+    ],
+    "summary": "Le gouvernement américain a demandé à intervenir dans la procédure engagée par X pour faire annuler une amende de 120 millions d’euros infligée par la Commission européenne au réseau social pour des infractions au règlement sur les services numériques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement américain a demandé à intervenir dans la procédure engagée par X pour faire annuler une amende de 120 millions d’euros infligée par la Commission européenne au réseau social pour des infractions au règlement sur les services numériques."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/25/les-etats-unis-veulent-soutenir-x-dans-son-recours-contre-une-amende-de-l-union-europeenne_6782074_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/25/les-etats-unis-veulent-soutenir-x-dans-son-recours-contre-une-amende-de-l-union-europeenne_6782074_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/25/les-etats-unis-veulent-soutenir-x-dans-son-recours-contre-une-amende-de-l-union-europeenne_6782074_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/301/0/3999/1999/644/322/60/0/b5f2bb4_upload-1-u91zznjugfej-000-33qa7j2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le siège social historique de Twitter, devenu X, à San Francisco (Californie), le 29 juillet 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOSH EDELSON / AFP"
+      }
+    ],
+    "credit": "JOSH EDELSON / AFP"
+  }
+}

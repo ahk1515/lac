@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T09:23:39.269094+00:00",
+  "_id": "7301315db855",
+  "brut": {
+    "title": "A Gaza, deux soldats israéliens tués par l’explosion accidentelle d’un drone de leur armée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, deux soldats israéliens tués par l’explosion accidentelle d’un drone de leur armée"
+    },
+    "published": "Fri, 25 Sep 2026 09:14:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      7,
+      14,
+      14,
+      4,
+      268,
+      0
+    ],
+    "updated": "Fri, 25 Sep 2026 10:04:27 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      25,
+      8,
+      4,
+      27,
+      4,
+      268,
+      0
+    ],
+    "summary": "Selon un responsable militaire, les deux soldats sont morts dans l’explosion d’un drone de leur armée qui s’est écrasé à proximité de leur position, dans le nord du territoire palestinien. Les circonstances de l’accident font l’objet d’une enquête.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon un responsable militaire, les deux soldats sont morts dans l’explosion d’un drone de leur armée qui s’est écrasé à proximité de leur position, dans le nord du territoire palestinien. Les circonstances de l’accident font l’objet d’une enquête."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/25/a-gaza-deux-soldats-israeliens-tues-par-l-explosion-accidentelle-d-un-drone-de-leur-armee_6782109_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/25/a-gaza-deux-soldats-israeliens-tues-par-l-explosion-accidentelle-d-un-drone-de-leur-armee_6782109_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/25/a-gaza-deux-soldats-israeliens-tues-par-l-explosion-accidentelle-d-un-drone-de-leur-armee_6782109_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/479/0/5783/2891/644/322/60/0/ba92599_ftp-1-yqe9n4wjqhmh-2026-09-23t163441z-1725135428-rc22pna6aof5-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des véhicules militaires israélien pénètre dans la bande de Gaza, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Amir Cohen / REUTERS"
+      }
+    ],
+    "credit": "Amir Cohen / REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T09:23:39.499032+00:00",
+  "_id": "d45dd461fd83",
+  "brut": {
+    "title": "Revente illégale de billets, rumeurs sur le programme de Léon XIV... Attention aux fausses informations autour de la visite du pape",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Revente illégale de billets, rumeurs sur le programme de Léon XIV... Attention aux fausses informations autour de la visite du pape"
+    },
+    "summary": "Sur les réseaux sociaux, des internautes proposent de revendre leurs billets pour la veillée au Stade de France alors que l'évènement est gratuit et les places nominatives.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sur les réseaux sociaux, des internautes proposent de revendre leurs billets pour la veillée au Stade de France alors que l'évènement est gratuit et les places nominatives."
+    },
+    "published": "Fri, 25 Sep 2026 08:51:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      6,
+      51,
+      17,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/revente-illegale-de-billets-rumeurs-sur-le-programme-de-leon-xiv-attention-aux-fausses-informations-autour-de-la-visite-du-pape_8187500.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/OEd49BMJCvlqfekn5IIvqKz_oTQ/0x221:4252x2613/432x243/filters:format(jpg)/2026/09/25/6ab61910adba7007084731.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/revente-illegale-de-billets-rumeurs-sur-le-programme-de-leon-xiv-attention-aux-fausses-informations-autour-de-la-visite-du-pape_8187500.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/revente-illegale-de-billets-rumeurs-sur-le-programme-de-leon-xiv-attention-aux-fausses-informations-autour-de-la-visite-du-pape_8187500.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
