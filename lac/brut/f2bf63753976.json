@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.355770+00:00",
+  "_id": "f2bf63753976",
+  "brut": {
+    "title": "La mise en garde du pape Léon XIV sur l'IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La mise en garde du pape Léon XIV sur l'IA"
+    },
+    "summary": "Lors de son discours au Palais de l'Elysée, vendredi 25 septembre, Léon XIV est revenu sur le dossier épineux de l'intelligence artificielle. Il met en garde contre un \"paradis de machines\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Lors de son discours au Palais de l'Elysée, vendredi 25 septembre, Léon XIV est revenu sur le dossier épineux de l'intelligence artificielle. Il met en garde contre un \"paradis de machines\"."
+    },
+    "published": "Fri, 25 Sep 2026 13:33:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      11,
+      33,
+      3,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/la-mise-en-garde-du-pape-leon-xiv-sur-l-ia_8209553.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/siifjnzB03AMOZbjlkp2Y473_KM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab65bdae061c477321031.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/la-mise-en-garde-du-pape-leon-xiv-sur-l-ia_8209553.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/la-mise-en-garde-du-pape-leon-xiv-sur-l-ia_8209553.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

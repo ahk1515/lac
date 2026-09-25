@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.354075+00:00",
+  "_id": "eea160f375cd",
+  "brut": {
+    "title": "Pape Léon XIV : liesse à Paris autour de la papamobile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pape Léon XIV : liesse à Paris autour de la papamobile"
+    },
+    "summary": "Le pape Léon XIV déambule dans les rues de la capitale en papamobile, vendredi 25 septembre. Le souverain pontife bénit plusieurs bébés sur son trajet.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape Léon XIV déambule dans les rues de la capitale en papamobile, vendredi 25 septembre. Le souverain pontife bénit plusieurs bébés sur son trajet."
+    },
+    "published": "Fri, 25 Sep 2026 16:52:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      14,
+      52,
+      39,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/pape-leon-xiv-liesse-a-paris-autour-de-la-papamobile_8209847.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MkC16_m7FfcGPpw9ggIvlOYFRUI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab68a803c986137762080.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/pape-leon-xiv-liesse-a-paris-autour-de-la-papamobile_8209847.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/pape-leon-xiv-liesse-a-paris-autour-de-la-papamobile_8209847.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

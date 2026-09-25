@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T16:36:28.966698+00:00",
+  "_id": "10f00006da4f",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les attaques russes sur Kiev ont tué au moins sept personnes vendredi, selon le maire de la ville",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les attaques russes sur Kiev ont tué au moins sept personnes vendredi, selon le maire de la ville"
+    },
+    "published": "Fri, 25 Sep 2026 18:27:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      16,
+      27,
+      51,
+      4,
+      268,
+      0
+    ],
+    "updated": "Fri, 25 Sep 2026 18:29:25 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      25,
+      16,
+      29,
+      25,
+      4,
+      268,
+      0
+    ],
+    "summary": "Quarante-six personnes ont aussi été blessées dans la capitale ukrainienne, d’après le nouveau bilan communiqué par Vitali Klitschko.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quarante-six personnes ont aussi été blessées dans la capitale ukrainienne, d’après le nouveau bilan communiqué par Vitali Klitschko."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-les-attaques-russes-sur-kiev-ont-tue-au-moins-sept-personnes-vendredi-selon-le-maire-de-la-ville_6777944_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-les-attaques-russes-sur-kiev-ont-tue-au-moins-sept-personnes-vendredi-selon-le-maire-de-la-ville_6777944_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-les-attaques-russes-sur-kiev-ont-tue-au-moins-sept-personnes-vendredi-selon-le-maire-de-la-ville_6777944_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/987/0/8640/4320/644/322/60/0/c1a7aee_ftp-1-q1d4aafn82ra-5e62cad735474768a2e6684de83f8edf-1-99c488a444f24f1f9b0fc7cdcc4073a0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La victime d’une attaque aérienne russe à Kiev, le 25 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Evgeniy Maloletka/AP Photo"
+      }
+    ],
+    "credit": "Evgeniy Maloletka/AP Photo"
+  }
+}

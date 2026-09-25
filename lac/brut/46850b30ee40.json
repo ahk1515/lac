@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.354318+00:00",
+  "_id": "46850b30ee40",
+  "brut": {
+    "title": "Un banger pour le pape en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un banger pour le pape en France"
+    },
+    "summary": "Le pape Léon XIV est en visite en France ce week-end. L'occasion pour des TikTokeurs de faire un clip musical en son honneur. Le pape rencontrera 80 000 jeunes au stade de France vendredi 25 septembre au soir. #actu",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape Léon XIV est en visite en France ce week-end. L'occasion pour des TikTokeurs de faire un clip musical en son honneur. Le pape rencontrera 80 000 jeunes au stade de France vendredi 25 septembre au soir. #actu"
+    },
+    "published": "Fri, 25 Sep 2026 16:23:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      14,
+      23,
+      21,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/un-banger-pour-le-pape-en-france_8209799.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UL6tnrRzpXrFh7JseD3e-jK21l4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab683be815ec679830966.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/un-banger-pour-le-pape-en-france_8209799.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/un-banger-pour-le-pape-en-france_8209799.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

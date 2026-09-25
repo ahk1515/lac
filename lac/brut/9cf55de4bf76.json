@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.355854+00:00",
+  "_id": "9cf55de4bf76",
+  "brut": {
+    "title": "Léon XIV à Paris : les premières images d'une visite historique en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Léon XIV à Paris : les premières images d'une visite historique en France"
+    },
+    "summary": "Après deux décennies sans visite d'un souverain pontife en France, l'événement était particulièrement attendu. Il a été accueilli vendredi 25 septembre à Paris par Emmanuel Macron et son épouse, avant de prendre la direction de l'Élysée sous les acclamations de nombreux fidèles venus l'apercevoir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après deux décennies sans visite d'un souverain pontife en France, l'événement était particulièrement attendu. Il a été accueilli vendredi 25 septembre à Paris par Emmanuel Macron et son épouse, avant de prendre la direction de l'Élysée sous les acclamations de nombreux fidèles venus l'apercevoir."
+    },
+    "published": "Fri, 25 Sep 2026 16:40:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      14,
+      40,
+      29,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-paris-les-premieres-images-d-une-visite-historique-en-france_8209532.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/reqpWxCL34G5q4IEASAC0vHYnMc/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/25/6ab65aec8f079210071405.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-paris-les-premieres-images-d-une-visite-historique-en-france_8209532.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-paris-les-premieres-images-d-une-visite-historique-en-france_8209532.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

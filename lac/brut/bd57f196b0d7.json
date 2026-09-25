@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.353893+00:00",
+  "_id": "bd57f196b0d7",
+  "brut": {
+    "title": "Les attaques d'ours se multiplient en Sibérie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les attaques d'ours se multiplient en Sibérie"
+    },
+    "summary": "En Sibérie, la psychose gagne du terrain face aux attaques d’ours bruns à proximité des zones habitées. Au moins 17 personnes ont été tuées ces derniers mois, alors que la population d’ours a doublé en 40 ans pour atteindre aujourd’hui plus de 300 000 individus.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Sibérie, la psychose gagne du terrain face aux attaques d’ours bruns à proximité des zones habitées. Au moins 17 personnes ont été tuées ces derniers mois, alors que la population d’ours a doublé en 40 ans pour atteindre aujourd’hui plus de 300 000 individus."
+    },
+    "published": "Fri, 25 Sep 2026 17:07:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      15,
+      7,
+      50,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/les-attaques-d-ours-se-multiplient-en-siberie_8209910.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/m7do6ZDN07yc52fMTAN-BDiZS30/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab68e2f7b44a266217594.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/les-attaques-d-ours-se-multiplient-en-siberie_8209910.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/les-attaques-d-ours-se-multiplient-en-siberie_8209910.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

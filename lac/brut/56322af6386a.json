@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T16:36:28.967907+00:00",
+  "_id": "56322af6386a",
+  "brut": {
+    "title": "EN DIRECT, visite du pape à Paris | Léon XIV célèbre les vêpres dans la cathédrale Notre-Dame, après son parcours en papamobile dans la capitale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, visite du pape à Paris | Léon XIV célèbre les vêpres dans la cathédrale Notre-Dame, après son parcours en papamobile dans la capitale"
+    },
+    "published": "Fri, 25 Sep 2026 15:55:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      13,
+      55,
+      18,
+      4,
+      268,
+      0
+    ],
+    "updated": "Fri, 25 Sep 2026 18:23:12 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      25,
+      16,
+      23,
+      12,
+      4,
+      268,
+      0
+    ],
+    "summary": "Le pape effectue un voyage de quatre jours en France, à Paris, à Lourdes et à Metz. Dans la capitale, un programme chargé l’attend ce vendredi : il a rencontré Emmanuel Macron à l’Elysée, s’est rendu à l’Unesco. Il terminera sa journée par une veillée de prière au Stade de France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pape effectue un voyage de quatre jours en France, à Paris, à Lourdes et à Metz. Dans la capitale, un programme chargé l’attend ce vendredi : il a rencontré Emmanuel Macron à l’Elysée, s’est rendu à l’Unesco. Il terminera sa journée par une veillée de prière au Stade de France."
+    },
+    "id": "https://www.lemonde.fr/societe/live/2026/09/25/en-direct-visite-du-pape-a-paris-leon-xiv-encense-l-unesco-un-interlocuteur-privilegie-de-l-eglise-catholique-au-service-du-bien-commun_6782008_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/live/2026/09/25/en-direct-visite-du-pape-a-paris-leon-xiv-encense-l-unesco-un-interlocuteur-privilegie-de-l-eglise-catholique-au-service-du-bien-commun_6782008_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/live/2026/09/25/en-direct-visite-du-pape-a-paris-leon-xiv-encense-l-unesco-un-interlocuteur-privilegie-de-l-eglise-catholique-au-service-du-bien-commun_6782008_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/1166/0/6661/3330/644/322/60/0/777a1e6_upload-1-mt6tteckq5qa-r5-8778.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A la cathédrale Notre-Dame de Paris, le 25 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kamil Zihnioglu pour « le monde »"
+      }
+    ],
+    "credit": "Kamil Zihnioglu pour « le monde »"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.355683+00:00",
+  "_id": "970830ce3595",
+  "brut": {
+    "title": "\"Je suis réveillée depuis 5h30\" : à Paris, 250 000 fidèles attendus pour acclamer le pape Léon XIV",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Je suis réveillée depuis 5h30\" : à Paris, 250 000 fidèles attendus pour acclamer le pape Léon XIV"
+    },
+    "summary": "Venus de toute la France, bénévoles, religieux et fidèles se préparent à accueillir Léon XIV à Paris. Certains n'hésitent pas à patienter plusieurs heures pour espérer apercevoir le pape lors de son passage dans les rues parisiennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Venus de toute la France, bénévoles, religieux et fidèles se préparent à accueillir Léon XIV à Paris. Certains n'hésitent pas à patienter plusieurs heures pour espérer apercevoir le pape lors de son passage dans les rues parisiennes."
+    },
+    "published": "Fri, 25 Sep 2026 16:50:40 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      14,
+      50,
+      40,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/je-suis-reveillee-depuis-5-h-30-a-paris-250-000-fideles-attendus-pour-acclamer-le-pape-leon-xiv_8209547.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2DQTOYcwUeyELBOg_HECmCZPrjo/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/25/6ab65ecef1a47948478908.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/je-suis-reveillee-depuis-5-h-30-a-paris-250-000-fideles-attendus-pour-acclamer-le-pape-leon-xiv_8209547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/je-suis-reveillee-depuis-5-h-30-a-paris-250-000-fideles-attendus-pour-acclamer-le-pape-leon-xiv_8209547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

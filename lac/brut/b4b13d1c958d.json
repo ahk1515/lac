@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T16:36:28.966963+00:00",
+  "_id": "b4b13d1c958d",
+  "brut": {
+    "title": "Visite du pape en France : Léon XIV, pop star en puissance, met en scène ses goûts pour les musiques populaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape en France : Léon XIV, pop star en puissance, met en scène ses goûts pour les musiques populaires"
+    },
+    "published": "Fri, 25 Sep 2026 18:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      16,
+      0,
+      11,
+      4,
+      268,
+      0
+    ],
+    "summary": "Le souverain pontife est un fin connaisseur de Bob Dylan et fan de la chanteuse italienne Laura Pausini. Vendredi, au Stade de France, en marge de la veillée de prière, une dizaine d’artistes francophones plutôt méconnus sont programmés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le souverain pontife est un fin connaisseur de Bob Dylan et fan de la chanteuse italienne Laura Pausini. Vendredi, au Stade de France, en marge de la veillée de prière, une dizaine d’artistes francophones plutôt méconnus sont programmés."
+    },
+    "id": "https://www.lemonde.fr/culture/article/2026/09/25/visite-du-pape-en-france-leon-xiv-pop-star-en-puissance-met-en-scene-ses-gouts-pour-les-musiques-populaires_6782608_3246.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/culture/article/2026/09/25/visite-du-pape-en-france-leon-xiv-pop-star-en-puissance-met-en-scene-ses-gouts-pour-les-musiques-populaires_6782608_3246.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/culture/article/2026/09/25/visite-du-pape-en-france-leon-xiv-pop-star-en-puissance-met-en-scene-ses-gouts-pour-les-musiques-populaires_6782608_3246.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/591/0/7087/3543/644/322/60/0/2467e00_upload-1-6u2fho0ydq5n-gettyimages-2250398006.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le pape Léon XIV, lors de la 6ᵉ édition du concert avec les pauvres, dans la salle Paul-VI, au Vatican, le 6 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VATICAN POOL/GETTY IMAGES"
+      }
+    ],
+    "credit": "VATICAN POOL/GETTY IMAGES"
+  }
+}

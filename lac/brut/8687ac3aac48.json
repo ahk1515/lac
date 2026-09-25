@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.354680+00:00",
+  "_id": "8687ac3aac48",
+  "brut": {
+    "title": "VIDEO. Léon XIV prône une \"juste laïcité\" et s'inquiète de \"l'offre de mort programmée\" lors de son discours à l'Elysée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "VIDEO. Léon XIV prône une \"juste laïcité\" et s'inquiète de \"l'offre de mort programmée\" lors de son discours à l'Elysée"
+    },
+    "summary": "Le pape a dénoncé, vendredi, les \"manipulations génétiques\", la \"gestation pour autrui\", l'\"achat d'organes\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pape a dénoncé, vendredi, les \"manipulations génétiques\", la \"gestation pour autrui\", l'\"achat d'organes\"."
+    },
+    "published": "Fri, 25 Sep 2026 13:53:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      11,
+      53,
+      20,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-lors-de-son-discours-a-l-elysee-leon-xiv-prone-une-juste-laicite-et-s-inquiete-de-l-offre-de-mort-programmee_8209550.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3WX-nVyVr2Y1haMEGGC2Ihk0zVw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/25/6ab65d6f59c73722529021.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-lors-de-son-discours-a-l-elysee-leon-xiv-prone-une-juste-laicite-et-s-inquiete-de-l-offre-de-mort-programmee_8209550.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-lors-de-son-discours-a-l-elysee-leon-xiv-prone-une-juste-laicite-et-s-inquiete-de-l-offre-de-mort-programmee_8209550.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

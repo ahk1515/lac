@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-25T16:36:28.966847+00:00",
+  "_id": "a5c5bae40086",
+  "brut": {
+    "title": "Cisjordanie : 214 entreprises liées aux colonies israéliennes placées sur la liste de l’ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cisjordanie : 214 entreprises liées aux colonies israéliennes placées sur la liste de l’ONU"
+    },
+    "published": "Fri, 25 Sep 2026 18:15:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      16,
+      15,
+      51,
+      4,
+      268,
+      0
+    ],
+    "summary": "Deux entreprises françaises y figurent, les mêmes qu’en 2025 : Egis et sa filiale Egis Rail.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux entreprises françaises y figurent, les mêmes qu’en 2025 : Egis et sa filiale Egis Rail."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/25/cisjordanie-214-entreprises-liees-aux-colonies-israeliennes-placees-sur-la-liste-de-l-onu_6782612_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/25/cisjordanie-214-entreprises-liees-aux-colonies-israeliennes-placees-sur-la-liste-de-l-onu_6782612_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/25/cisjordanie-214-entreprises-liees-aux-colonies-israeliennes-placees-sur-la-liste-de-l-onu_6782612_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/458/0/5500/2750/644/322/60/0/c3a47f3_ftp-1-kaytn5m28jba-2026-08-29t151518z-1205797783-rc2e8nawc7ka-rtrmadp-3-israel-palestinians-hebron-settlers.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des colons israéliens à Hébron, en Cisjordanie occupée par Israël, le 29 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mussa Qawasma/REUTERS"
+      }
+    ],
+    "credit": "Mussa Qawasma/REUTERS"
+  }
+}

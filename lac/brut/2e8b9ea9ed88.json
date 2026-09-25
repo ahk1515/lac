@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-25T16:36:29.354156+00:00",
+  "_id": "2e8b9ea9ed88",
+  "brut": {
+    "title": "PODCAST. Balade avec un forestier, le pape en France et une nouvelle espèce de chat sauvage",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PODCAST. Balade avec un forestier, le pape en France et une nouvelle espèce de chat sauvage"
+    },
+    "summary": "L'opération \"Tous en forêt\", la visite du pape en France et une nouvelle espèce de félin : c'est le programme du nouvel épisode de \"Salut l'info !\"",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'opération \"Tous en forêt\", la visite du pape en France et une nouvelle espèce de félin : c'est le programme du nouvel épisode de \"Salut l'info !\""
+    },
+    "published": "Fri, 25 Sep 2026 16:39:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      25,
+      14,
+      39,
+      52,
+      4,
+      268,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-balade-avec-un-forestier-le-pape-en-france-et-une-nouvelle-espece-de-chat-sauvage_8199851.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ijjnt7RYughEn6E1ynyuwziaKRM/0x1:1594x898/432x243/filters:format(jpg)/2026/09/25/6ab63100c39fc428239635.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-balade-avec-un-forestier-le-pape-en-france-et-une-nouvelle-espece-de-chat-sauvage_8199851.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-balade-avec-un-forestier-le-pape-en-france-et-une-nouvelle-espece-de-chat-sauvage_8199851.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
