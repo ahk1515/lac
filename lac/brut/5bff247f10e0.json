@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T09:08:22.303976+00:00",
+  "_id": "5bff247f10e0",
+  "brut": {
+    "title": "Thaïlande : Bangkok déclare l’état de catastrophe dans ses 50 districts, en proie à de graves inondations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Thaïlande : Bangkok déclare l’état de catastrophe dans ses 50 districts, en proie à de graves inondations"
+    },
+    "published": "Sat, 26 Sep 2026 08:28:49 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      6,
+      28,
+      49,
+      5,
+      269,
+      0
+    ],
+    "updated": "Sat, 26 Sep 2026 10:58:06 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      26,
+      8,
+      58,
+      6,
+      5,
+      269,
+      0
+    ],
+    "summary": "Près de 300 millimètres de pluie sont tombés depuis jeudi sur la capitale thaïlandaise. La situation est « stabilisée » depuis samedi, selon le gouverneur de la ville.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de 300 millimètres de pluie sont tombés depuis jeudi sur la capitale thaïlandaise. La situation est « stabilisée » depuis samedi, selon le gouverneur de la ville."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/thailande-bangkok-declare-l-etat-de-catastrophe-dans-ses-50-districts-en-proie-a-de-graves-inondations_6783097_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/thailande-bangkok-declare-l-etat-de-catastrophe-dans-ses-50-districts-en-proie-a-de-graves-inondations_6783097_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/thailande-bangkok-declare-l-etat-de-catastrophe-dans-ses-50-districts-en-proie-a-de-graves-inondations_6783097_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/26/583/0/6997/3498/644/322/60/0/d078fe5_ftp-1-h0iq0149fwtj-d60ee6e100ea4b6f9f36e5f498535ce5-0-67b081254be945c891835b62afe01e7b.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des passants dans une rue inondée de Bangkok (Thaïlande), le 26 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sakchai Lalit/AP Photo"
+      }
+    ],
+    "credit": "Sakchai Lalit/AP Photo"
+  }
+}

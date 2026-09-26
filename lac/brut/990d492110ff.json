@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T09:08:22.594421+00:00",
+  "_id": "990d492110ff",
+  "brut": {
+    "title": "Une île mystérieuse dans l'un des 879 000 lacs du Canada",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une île mystérieuse dans l'un des 879 000 lacs du Canada"
+    },
+    "summary": "Sur un lac canadien, cet été, une île est apparue, puis a disparu, mystérieusement. Un phénomène rare, mais qui ne devrait pas l’être, nous explique Bill François.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sur un lac canadien, cet été, une île est apparue, puis a disparu, mystérieusement. Un phénomène rare, mais qui ne devrait pas l’être, nous explique Bill François."
+    },
+    "published": "Sat, 26 Sep 2026 06:00:15 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      4,
+      0,
+      15,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sciences/une-ile-mysterieuse-dans-l-un-des-879-000-lacs-du-canada_8209631.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3Jb3gkzSUsM5Ad7VAeN0DDECeHA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab672e292d03188501076.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sciences/une-ile-mysterieuse-dans-l-un-des-879-000-lacs-du-canada_8209631.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sciences/une-ile-mysterieuse-dans-l-un-des-879-000-lacs-du-canada_8209631.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

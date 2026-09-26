@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T09:08:22.594280+00:00",
+  "_id": "bb36d1bb35a2",
+  "brut": {
+    "title": "DIRECT. Visite du pape à Paris : \"Je suis émerveillé par le nombre de personnes présentes aujourd'hui\", déclare Léon XIV devant de nouveaux baptisés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "DIRECT. Visite du pape à Paris : \"Je suis émerveillé par le nombre de personnes présentes aujourd'hui\", déclare Léon XIV devant de nouveaux baptisés"
+    },
+    "summary": "Cet après-midi, 600 000 personnes doivent se réunir le long des Champs-Elysées pour une messe XXL sur la place de la Concorde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cet après-midi, 600 000 personnes doivent se réunir le long des Champs-Elysées pour une messe XXL sur la place de la Concorde."
+    },
+    "published": "Sat, 26 Sep 2026 11:07:22 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      9,
+      7,
+      22,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/direct-visite-du-pape-a-paris-suivez-la-messe-geante-a-la-concorde-celebree-par-leon-xiv-devant-600-000-fideles_8202974.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QJvhHfWqVLAPXe6Rsj9n_2EMpLE/0x0:5392x3033/432x243/filters:format(jpg)/2026/09/26/6ab788e316499838163517.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/direct-visite-du-pape-a-paris-suivez-la-messe-geante-a-la-concorde-celebree-par-leon-xiv-devant-600-000-fideles_8202974.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/direct-visite-du-pape-a-paris-suivez-la-messe-geante-a-la-concorde-celebree-par-leon-xiv-devant-600-000-fideles_8202974.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T09:08:22.593902+00:00",
+  "_id": "e48567124a39",
+  "brut": {
+    "title": "Carburants : des soldats français en Arabie Saoudite ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Carburants : des soldats français en Arabie Saoudite ?"
+    },
+    "summary": "Jeudi soir, le président de la République a annoncé l’envoi de troupes françaises en Arabie saoudite, sur le site de Yanbu, pour protéger les filières d’approvisionnement bloquées et bombardées au Moyen-Orient et éviter une nouvelle flambée des prix.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Jeudi soir, le président de la République a annoncé l’envoi de troupes françaises en Arabie saoudite, sur le site de Yanbu, pour protéger les filières d’approvisionnement bloquées et bombardées au Moyen-Orient et éviter une nouvelle flambée des prix."
+    },
+    "published": "Sat, 26 Sep 2026 08:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      6,
+      0,
+      2,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/carburants-des-soldats-francais-en-arabie-saoudite_8210246.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/jw7Y3cmWLAg5PFeUWZreOaa1UuE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab6cef4804f2552992419.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/carburants-des-soldats-francais-en-arabie-saoudite_8210246.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/carburants-des-soldats-francais-en-arabie-saoudite_8210246.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
