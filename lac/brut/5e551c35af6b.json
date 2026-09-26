@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T22:22:44.203696+00:00",
+  "_id": "5e551c35af6b",
+  "brut": {
+    "title": "Léon XIV, en pape tranquille et rassembleur, fait le plein à Paris pour la messe de la Concorde",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Léon XIV, en pape tranquille et rassembleur, fait le plein à Paris pour la messe de la Concorde"
+    },
+    "published": "Sat, 26 Sep 2026 21:13:43 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      19,
+      13,
+      43,
+      5,
+      269,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 00:09:05 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      26,
+      22,
+      9,
+      5,
+      5,
+      269,
+      0
+    ],
+    "summary": "Selon le Vatican, 800 000 personnes ont assisté à l’événement. Devant plusieurs candidats à l’élection présidentielle, des catholiques fervents et des curieux, le pape a évoqué dans son homélie « la soif de transcendance ». Il est ensuite parti à Lourdes, pour la prochaine étape de son voyage.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le Vatican, 800 000 personnes ont assisté à l’événement. Devant plusieurs candidats à l’élection présidentielle, des catholiques fervents et des curieux, le pape a évoqué dans son homélie « la soif de transcendance ». Il est ensuite parti à Lourdes, pour la prochaine étape de son voyage."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/leon-xiv-en-pape-tranquille-et-rassembleur-fait-le-plein-a-paris-pour-la-messe-de-la-concorde_6783543_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/leon-xiv-en-pape-tranquille-et-rassembleur-fait-le-plein-a-paris-pour-la-messe-de-la-concorde_6783543_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/leon-xiv-en-pape-tranquille-et-rassembleur-fait-le-plein-a-paris-pour-la-messe-de-la-concorde_6783543_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/26/253/0/6041/3020/644/322/60/0/8a62731_upload-1-xzwbuqgui1hz-kzihnioglu-pol-concorde-pape-leon-xiv-26092026-60.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+      }
+    ],
+    "credit": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+  }
+}

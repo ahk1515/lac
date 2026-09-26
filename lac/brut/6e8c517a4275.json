@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T22:22:44.430660+00:00",
+  "_id": "6e8c517a4275",
+  "brut": {
+    "title": "\"On s'est levé à 4 heures\" : des fidèles venus de toute la France pour voir Léon XIV à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"On s'est levé à 4 heures\" : des fidèles venus de toute la France pour voir Léon XIV à Paris"
+    },
+    "summary": "Ils ont parfois parcouru plusieurs centaines de kilomètres pour vivre ce moment. De Lille à Marseille, en passant par Le Mans et Rennes, des fidèles de toute la France, parfois d'autres pays, ont convergé vers Paris pour apercevoir Léon XIV et assister à sa grande messe place de la Concorde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ils ont parfois parcouru plusieurs centaines de kilomètres pour vivre ce moment. De Lille à Marseille, en passant par Le Mans et Rennes, des fidèles de toute la France, parfois d'autres pays, ont convergé vers Paris pour apercevoir Léon XIV et assister à sa grande messe place de la Concorde."
+    },
+    "published": "Sat, 26 Sep 2026 21:09:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      19,
+      9,
+      14,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-s-est-leve-a-4-heures-des-fideles-venus-de-toute-la-france-pour-voir-leon-xiv-a-paris_8211470.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kf0rkoSXsEYKx-EQBld_h3MoKXs/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/26/6ab817fcb6a3a931403362.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-s-est-leve-a-4-heures-des-fideles-venus-de-toute-la-france-pour-voir-leon-xiv-a-paris_8211470.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-s-est-leve-a-4-heures-des-fideles-venus-de-toute-la-france-pour-voir-leon-xiv-a-paris_8211470.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

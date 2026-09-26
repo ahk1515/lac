@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T22:22:44.203328+00:00",
+  "_id": "54a7719240fc",
+  "brut": {
+    "title": "Au Venezuela, une trentaine de prisonniers politiques libérés après un nouveau cycle de pourparlers entre pouvoir et opposition",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Venezuela, une trentaine de prisonniers politiques libérés après un nouveau cycle de pourparlers entre pouvoir et opposition"
+    },
+    "published": "Sat, 26 Sep 2026 23:50:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      21,
+      50,
+      28,
+      5,
+      269,
+      0
+    ],
+    "updated": "Sat, 26 Sep 2026 23:53:59 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      26,
+      21,
+      53,
+      59,
+      5,
+      269,
+      0
+    ],
+    "summary": "Le processus de libération, engagé après la signature d’une loi d’amnistie en janvier, reste jugé insuffisant par les ONG, qui dénoncent la lenteur des mesures prises par les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le processus de libération, engagé après la signature d’une loi d’amnistie en janvier, reste jugé insuffisant par les ONG, qui dénoncent la lenteur des mesures prises par les autorités."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/au-venezuela-une-nouvelle-serie-de-liberations-de-prisonniers-politiques-apres-les-pourparlers-entre-le-pouvoir-et-l-opposition_6783578_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/au-venezuela-une-nouvelle-serie-de-liberations-de-prisonniers-politiques-apres-les-pourparlers-entre-le-pouvoir-et-l-opposition_6783578_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/au-venezuela-une-nouvelle-serie-de-liberations-de-prisonniers-politiques-apres-les-pourparlers-entre-le-pouvoir-et-l-opposition_6783578_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/11/417/0/5000/2500/644/322/60/0/261c6dc_ftp-1-zf63xhgef0gk-2026-09-11t210544z-600304858-rc23hnahsvnw-rtrmadp-3-venezuela-prisoners-relatives.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des proches de prisonniers politiques et des militants manifestent à Caracas, pour réclamer la libération de leurs proches, le 11 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gaby Oraa/REUTERS"
+      }
+    ],
+    "credit": "Gaby Oraa/REUTERS"
+  }
+}
