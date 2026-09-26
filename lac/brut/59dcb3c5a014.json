@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T19:01:17.576319+00:00",
+  "_id": "59dcb3c5a014",
+  "brut": {
+    "title": "Thaïlande :  les images des graves inondations survenues à Bangkok",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Thaïlande :  les images des graves inondations survenues à Bangkok"
+    },
+    "published": "Sat, 26 Sep 2026 17:50:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      15,
+      50,
+      54,
+      5,
+      269,
+      0
+    ],
+    "updated": "Sat, 26 Sep 2026 18:48:05 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      26,
+      16,
+      48,
+      5,
+      5,
+      269,
+      0
+    ],
+    "summary": "Près de 300 millimètres de pluie sont tombés sur la capitale thaïlandaise, alors que le gouverneur de Bangkok a déclaré l’état de catastrophe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de 300 millimètres de pluie sont tombés sur la capitale thaïlandaise, alors que le gouverneur de Bangkok a déclaré l’état de catastrophe."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/26/thailande-les-images-des-graves-inondations-survenues-a-bangkok_6783207_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/26/thailande-les-images-des-graves-inondations-survenues-a-bangkok_6783207_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/26/thailande-les-images-des-graves-inondations-survenues-a-bangkok_6783207_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/26/436/0/5229/2614/644/322/60/0/68ce7b4_ftp-1-v3j59l1vt6jp-2026-09-26t130605z-1100415522-rc2uqnahd3k3-rtrmadp-3-asia-weather-thailand-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes se déplacent en bateau dans une rue inondée lors de fortes pluies à Bangkok, en Thaïlande, le 26 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Patipat Janthong/REUTERS"
+      }
+    ],
+    "credit": "Patipat Janthong/REUTERS"
+  }
+}

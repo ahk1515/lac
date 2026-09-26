@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T19:01:17.575622+00:00",
+  "_id": "667e8e36f6fa",
+  "brut": {
+    "title": "Une puissante tempête s’abat sur le nord-est des Etats-Unis, des « inondations considérables » redoutées par les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une puissante tempête s’abat sur le nord-est des Etats-Unis, des « inondations considérables » redoutées par les autorités"
+    },
+    "published": "Sat, 26 Sep 2026 18:28:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      16,
+      28,
+      19,
+      5,
+      269,
+      0
+    ],
+    "updated": "Sat, 26 Sep 2026 18:29:23 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      26,
+      16,
+      29,
+      23,
+      5,
+      269,
+      0
+    ],
+    "summary": "Des centaines de vols annulés, des dizaines de foyers privés d’électricité et des vagues géantes attendues… La tempête pourrait entraîner de graves inondations côtières, selon les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des centaines de vols annulés, des dizaines de foyers privés d’électricité et des vagues géantes attendues… La tempête pourrait entraîner de graves inondations côtières, selon les autorités."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/une-puissante-tempete-s-abat-sur-le-nord-est-des-etats-unis-des-inondations-considerables-redoutees-par-les-autorites_6783308_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/une-puissante-tempete-s-abat-sur-le-nord-est-des-etats-unis-des-inondations-considerables-redoutees-par-les-autorites_6783308_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/une-puissante-tempete-s-abat-sur-le-nord-est-des-etats-unis-des-inondations-considerables-redoutees-par-les-autorites_6783308_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/26/458/0/5500/2750/644/322/60/0/1c1ff30_ftp-1-mft5hq80kfyi-2026-09-26t151955z-1052524633-rc22rnaexfst-rtrmadp-3-usa-weather.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une zone inondée à la  suite des fortes pluies apportées par une tempête côtière intense, à Surf City (New Jersey), le 26 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vincent Alban/REUTERS"
+      }
+    ],
+    "credit": "Vincent Alban/REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T19:01:17.796038+00:00",
+  "_id": "01ebd76e473a",
+  "brut": {
+    "title": "Marée humaine sur les Champs-Elysées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Marée humaine sur les Champs-Elysées"
+    },
+    "summary": "Une foule immense rassemblée au deuxième jour de la visite de Léon XIV et cette clameur à la fois sur les Champs-Élysées et sur la place de la Concorde. Cette messe était annoncée comme le point culminant de cette visite en France, le pape et le Vatican voulaient ce rendez-vous populaire. Les images et les témoignages répondent clairement à cette ambition.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une foule immense rassemblée au deuxième jour de la visite de Léon XIV et cette clameur à la fois sur les Champs-Élysées et sur la place de la Concorde. Cette messe était annoncée comme le point culminant de cette visite en France, le pape et le Vatican voulaient ce rendez-vous populaire. Les images et les témoignages répondent clairement à cette ambition."
+    },
+    "published": "Sat, 26 Sep 2026 20:50:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      18,
+      50,
+      37,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/maree-humaine-sur-les-champs-elysees_8211467.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/obGnzYMZQco5Q8nx1Xr7Wbu7Dl0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/26/6ab813ed5e17f547926019.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/maree-humaine-sur-les-champs-elysees_8211467.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/maree-humaine-sur-les-champs-elysees_8211467.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

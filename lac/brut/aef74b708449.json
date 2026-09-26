@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T19:01:17.797408+00:00",
+  "_id": "aef74b708449",
+  "brut": {
+    "title": "Un peintre croque la messe géante de Léon XIV à Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un peintre croque la messe géante de Léon XIV à Paris"
+    },
+    "summary": "La messe du pape en fresque panoramique. Le peintre Nicolas de Palmaert s'est rendu place de la Concorde pour immortaliser la messe de Léon XIV à Paris, ce samedi 26 septembre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La messe du pape en fresque panoramique. Le peintre Nicolas de Palmaert s'est rendu place de la Concorde pour immortaliser la messe de Léon XIV à Paris, ce samedi 26 septembre."
+    },
+    "published": "Sat, 26 Sep 2026 18:15:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      16,
+      15,
+      21,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/un-peintre-croque-la-messe-geante-de-leon-xiv-a-paris_8211302.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/FmKAV0Ih5d_G1sm3K-X46SvWLxA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/26/6ab7ef6663976799047776.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/un-peintre-croque-la-messe-geante-de-leon-xiv-a-paris_8211302.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/un-peintre-croque-la-messe-geante-de-leon-xiv-a-paris_8211302.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

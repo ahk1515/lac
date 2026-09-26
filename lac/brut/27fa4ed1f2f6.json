@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T19:01:17.575799+00:00",
+  "_id": "27fa4ed1f2f6",
+  "brut": {
+    "title": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz"
+    },
+    "published": "Sat, 26 Sep 2026 18:11:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      16,
+      11,
+      14,
+      5,
+      269,
+      0
+    ],
+    "updated": "Sat, 26 Sep 2026 20:50:14 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      26,
+      18,
+      50,
+      14,
+      5,
+      269,
+      0
+    ],
+    "summary": "Les dirigeants iraniens veulent cet accord car « ils sont en train de méchamment perdre », a affirmé le président américain pour justifier sa décision.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les dirigeants iraniens veulent cet accord car « ils sont en train de méchamment perdre », a affirmé le président américain pour justifier sa décision."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz_6783275_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz_6783275_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz_6783275_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/26/50/0/4056/2028/644/322/60/0/4a0cc13_ftp-1-njrimmg6unxe-5189429-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, à la Maison Blanche, à Washington, le 26 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALEX WROBLEWSKI/AFP"
+      }
+    ],
+    "credit": "ALEX WROBLEWSKI/AFP"
+  }
+}

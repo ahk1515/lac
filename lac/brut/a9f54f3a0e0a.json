@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T19:01:17.796934+00:00",
+  "_id": "a9f54f3a0e0a",
+  "brut": {
+    "title": "\"Il fait bouger les jeunes\" : les fidèles séduits par la messe du pape",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Il fait bouger les jeunes\" : les fidèles séduits par la messe du pape"
+    },
+    "summary": "Léon XIV a réuni près de 800 000 fidèles lors d’une messe XXL organisée sur la place de la Concorde et les Champs-Élysées. Parmi eux, de nombreux jeunes, venus écouter le souverain pontife et son message d’espoir à destination de la jeunesse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Léon XIV a réuni près de 800 000 fidèles lors d’une messe XXL organisée sur la place de la Concorde et les Champs-Élysées. Parmi eux, de nombreux jeunes, venus écouter le souverain pontife et son message d’espoir à destination de la jeunesse."
+    },
+    "published": "Sat, 26 Sep 2026 19:21:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      17,
+      21,
+      7,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/il-fait-bouger-les-jeunes-les-fideles-seduits-par-la-messe-du-pape_8211407.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/FEgLGIz5CPZpXg6T9hQatDW5sJ8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/26/6ab7fef3b1a72256030156.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/il-fait-bouger-les-jeunes-les-fideles-seduits-par-la-messe-du-pape_8211407.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/il-fait-bouger-les-jeunes-les-fideles-seduits-par-la-messe-du-pape_8211407.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

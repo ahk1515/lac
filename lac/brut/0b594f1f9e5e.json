@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T19:01:17.797098+00:00",
+  "_id": "0b594f1f9e5e",
+  "brut": {
+    "title": "REPORTAGE. \"Tout ce monde, ça renforce notre foi\" : sur les Champs-Elysées, la ferveur des 800 000 fidèles devant la messe du pape Léon XIV",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. \"Tout ce monde, ça renforce notre foi\" : sur les Champs-Elysées, la ferveur des 800 000 fidèles devant la messe du pape Léon XIV"
+    },
+    "summary": "De nombreux spectateurs se sont levés très tôt pour assister à la messe célébrée par Léon XIV sur la place de la Concorde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De nombreux spectateurs se sont levés très tôt pour assister à la messe célébrée par Léon XIV sur la place de la Concorde."
+    },
+    "published": "Sat, 26 Sep 2026 18:52:54 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      16,
+      52,
+      54,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-tout-ce-monde-ca-renforce-notre-foi-sur-les-champs-elysees-la-ferveur-des-800-000-fideles-devant-la-messe-du-pape-leon-xiv_8210960.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qWMuk1Ttsr0N3ZZQdxdlaTnCWoc/0x53:1024x629/432x243/filters:format(jpg)/2026/09/26/6ab7e7799ea6f048031925.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-tout-ce-monde-ca-renforce-notre-foi-sur-les-champs-elysees-la-ferveur-des-800-000-fideles-devant-la-messe-du-pape-leon-xiv_8210960.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-tout-ce-monde-ca-renforce-notre-foi-sur-les-champs-elysees-la-ferveur-des-800-000-fideles-devant-la-messe-du-pape-leon-xiv_8210960.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
