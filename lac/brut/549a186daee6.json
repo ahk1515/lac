@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T15:50:29.175351+00:00",
+  "_id": "549a186daee6",
+  "brut": {
+    "title": "L’Arabie saoudite, le pétrole et la parole de la France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite, le pétrole et la parole de la France"
+    },
+    "published": "Sat, 26 Sep 2026 11:45:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      9,
+      45,
+      4,
+      5,
+      269,
+      0
+    ],
+    "summary": "La critique de l’annonce, par Emmanuel Macron, de l’envoi de militaires français en Arabie saoudite exigerait davantage que le seul réflexe protestataire fondé sur des considérations idéologiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La critique de l’annonce, par Emmanuel Macron, de l’envoi de militaires français en Arabie saoudite exigerait davantage que le seul réflexe protestataire fondé sur des considérations idéologiques."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/26/l-arabie-saoudite-le-petrole-et-la-parole-de-la-france_6783118_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/26/l-arabie-saoudite-le-petrole-et-la-parole-de-la-france_6783118_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/26/l-arabie-saoudite-le-petrole-et-la-parole-de-la-france_6783118_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/278/0/8062/4031/644/322/60/0/476b057_ftp-1-frbod5wxl4eq-5174671-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Emmanuel Macron, au palais de l’Elysée, lors de son interview accordée à France 2 et à TF1, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUDOVIC MARIN / AFP"
+      }
+    ],
+    "credit": "LUDOVIC MARIN / AFP"
+  }
+}

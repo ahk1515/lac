@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T15:50:29.418404+00:00",
+  "_id": "c820c87d76bc",
+  "brut": {
+    "title": "Les secrets de la visite du pape",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les secrets de la visite du pape"
+    },
+    "summary": "Quels sont les secrets qui entourent le déplacement de Léon XIV ? Qui sont les personnes qui l'accompagnent, le conseillent lors de ce déplacement à Paris ? Et quels sont ces cadeaux échangés avec la présidence de la République ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Quels sont les secrets qui entourent le déplacement de Léon XIV ? Qui sont les personnes qui l'accompagnent, le conseillent lors de ce déplacement à Paris ? Et quels sont ces cadeaux échangés avec la présidence de la République ?"
+    },
+    "published": "Sat, 26 Sep 2026 17:00:07 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      15,
+      0,
+      7,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/les-secrets-de-la-visite-du-pape_8211002.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/c-0tDCSxb92CfbkXf4XjTduDbNc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/26/6ab7a304cc8de748647833.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/les-secrets-de-la-visite-du-pape_8211002.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/les-secrets-de-la-visite-du-pape_8211002.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

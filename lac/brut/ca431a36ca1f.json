@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T15:50:29.418556+00:00",
+  "_id": "ca431a36ca1f",
+  "brut": {
+    "title": "Les séjours pontificaux remontent à loin, en France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les séjours pontificaux remontent à loin, en France"
+    },
+    "summary": "La visite de Léon XIV sur le territoire français nous donne l'occasion de retracer les voyages pontificaux dans notre pays. Plusieurs papes y ont séjourné.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La visite de Léon XIV sur le territoire français nous donne l'occasion de retracer les voyages pontificaux dans notre pays. Plusieurs papes y ont séjourné."
+    },
+    "published": "Sat, 26 Sep 2026 17:00:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      15,
+      0,
+      5,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-sejours-pontificaux-remontent-a-loin-en-france_8189105.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9RWXC6z42185pke5O4Rn1HMO2EQ/0x51:1024x627/432x243/filters:format(jpg)/2026/09/26/6ab7815a3785a923920356.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-sejours-pontificaux-remontent-a-loin-en-france_8189105.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-sejours-pontificaux-remontent-a-loin-en-france_8189105.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

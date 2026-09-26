@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T15:50:29.174651+00:00",
+  "_id": "560f79902d56",
+  "brut": {
+    "title": "« Nous n’avons rien, ni endroit sûr ni nourriture » : au Yémen, la situation humanitaire s’aggrave",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Nous n’avons rien, ni endroit sûr ni nourriture » : au Yémen, la situation humanitaire s’aggrave"
+    },
+    "published": "Sat, 26 Sep 2026 12:30:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      10,
+      30,
+      20,
+      5,
+      269,
+      0
+    ],
+    "summary": "Alors que les combats entre houthistes et forces gouvernementales se poursuivent dans le pays, les ONG se mettent en ordre de bataille pour tenter de venir en aide aux civils, notamment aux plus de 130 000 déplacés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les combats entre houthistes et forces gouvernementales se poursuivent dans le pays, les ONG se mettent en ordre de bataille pour tenter de venir en aide aux civils, notamment aux plus de 130 000 déplacés."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/nous-n-avons-rien-ni-endroit-sur-ni-nourriture-au-yemen-la-situation-humanitaire-s-aggrave_6783126_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/nous-n-avons-rien-ni-endroit-sur-ni-nourriture-au-yemen-la-situation-humanitaire-s-aggrave_6783126_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/nous-n-avons-rien-ni-endroit-sur-ni-nourriture-au-yemen-la-situation-humanitaire-s-aggrave_6783126_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/735/0/5429/2714/644/322/60/0/3665eb6_ftp-1-ygycuyrxbisf-ea999d1ffd7040038cb67e8c092ad150-0-7a3d1e9ced81487b83c2390b00988e2c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres de la famille de Haj Ali Araj, déplacés de Moka, arrivent au camp d’Al-Firdaws à Ras Imran, dans la banlieue ouest d’Aden, au Yémen, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdulnasser Alseddik/AP"
+      }
+    ],
+    "credit": "Abdulnasser Alseddik/AP"
+  }
+}

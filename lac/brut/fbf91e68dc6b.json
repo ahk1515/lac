@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-26T15:50:29.419094+00:00",
+  "_id": "fbf91e68dc6b",
+  "brut": {
+    "title": "Papamobile : la traversée de Paris",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Papamobile : la traversée de Paris"
+    },
+    "summary": "En visite en France, Léon XIV se déplace avec l'inévitable papamobile. Véhicule emblématique des déplacements pontificaux, le modèle électrique appartient à l’histoire récente du Vatican, qui a vu se succéder de nombreux véhicules au fil des décennies.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En visite en France, Léon XIV se déplace avec l'inévitable papamobile. Véhicule emblématique des déplacements pontificaux, le modèle électrique appartient à l’histoire récente du Vatican, qui a vu se succéder de nombreux véhicules au fil des décennies."
+    },
+    "published": "Sat, 26 Sep 2026 15:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      13,
+      0,
+      2,
+      5,
+      269,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/papamobile-la-traversee-de-paris_8210999.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kVWOjpS317tq3fHQVgiFzFUCYQg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/26/6ab7a29b54d40064666382.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/papamobile-la-traversee-de-paris_8210999.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/papamobile-la-traversee-de-paris_8210999.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
