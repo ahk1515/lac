@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T03:39:59.341392+00:00",
+  "_id": "183a947f7d7e",
+  "brut": {
+    "title": "Après son interdiction d’accès à la Maison Blanche, CNN écartée d’un déplacement présidentiel à bord d’Air Force One",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après son interdiction d’accès à la Maison Blanche, CNN écartée d’un déplacement présidentiel à bord d’Air Force One"
+    },
+    "published": "Sat, 26 Sep 2026 05:22:33 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      3,
+      22,
+      33,
+      5,
+      269,
+      0
+    ],
+    "updated": "Sat, 26 Sep 2026 05:29:03 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      26,
+      3,
+      29,
+      3,
+      5,
+      269,
+      0
+    ],
+    "summary": "A bord de l’avion présidentiel américain, la place habituellement réservée à la chaîne a été attribuée à Real America’s Voice News, un média conservateur qui ne fait pas partie du « pool » vidéo chargé de la couverture de la présidence.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A bord de l’avion présidentiel américain, la place habituellement réservée à la chaîne a été attribuée à Real America’s Voice News, un média conservateur qui ne fait pas partie du « pool » vidéo chargé de la couverture de la présidence."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/479/0/5747/2873/644/322/60/0/f9fb1b9_ftp-1-sj5aezjlsvvw-fa5b8f42c30740c087d8a6c03a7b6d9b-0-7dc8d96677dd4fb489cf2fef301190e3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Betsy Klein, journaliste de CNN, à proximité de la Maison Blanche, à Washington, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mark Schiefelbein/AP"
+      }
+    ],
+    "credit": "Mark Schiefelbein/AP"
+  }
+}

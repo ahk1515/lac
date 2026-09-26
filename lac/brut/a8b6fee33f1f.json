@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-26T03:39:59.341178+00:00",
+  "_id": "a8b6fee33f1f",
+  "brut": {
+    "title": "L’Arabie saoudite subit de nouvelles attaques des houthistes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite subit de nouvelles attaques des houthistes"
+    },
+    "published": "Sat, 26 Sep 2026 05:30:03 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      26,
+      3,
+      30,
+      3,
+      5,
+      269,
+      0
+    ],
+    "summary": "Des drones lancés en direction de la capitale saoudienne, Riyad, et des missiles balistiques visant une grande ville du sud-ouest qui héberge une base aérienne ont été interceptés samedi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des drones lancés en direction de la capitale saoudienne, Riyad, et des missiles balistiques visant une grande ville du sud-ouest qui héberge une base aérienne ont été interceptés samedi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/531/0/6380/3190/644/322/60/0/2e34034_ftp-1-lwq6p9ws7dbd-5165364-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Riyad, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FAYEZ NURELDINE/AFP"
+      }
+    ],
+    "credit": "FAYEZ NURELDINE/AFP"
+  }
+}
