@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T03:49:14.119539+00:00",
+  "_id": "ee225a23e468",
+  "brut": {
+    "title": "La Chine envoie deux pandas géants aux Etats-Unis dans un nouveau geste diplomatique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Chine envoie deux pandas géants aux Etats-Unis dans un nouveau geste diplomatique"
+    },
+    "published": "Sun, 27 Sep 2026 04:25:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      2,
+      25,
+      6,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 04:50:34 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      2,
+      50,
+      34,
+      6,
+      270,
+      0
+    ],
+    "summary": "Ping Ping et Fu Shuang sont partis de l’aéroport international Chengdu-Shuangliu, dans le sud du pays, dans la nuit de samedi à dimanche. Les ursidés passeront les dix prochaines années dans un zoo américain, en Géorgie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ping Ping et Fu Shuang sont partis de l’aéroport international Chengdu-Shuangliu, dans le sud du pays, dans la nuit de samedi à dimanche. Les ursidés passeront les dix prochaines années dans un zoo américain, en Géorgie."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/27/la-chine-envoie-deux-pandas-geants-aux-etats-unis-dans-un-nouveau-geste-diplomatique_6783645_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/27/la-chine-envoie-deux-pandas-geants-aux-etats-unis-dans-un-nouveau-geste-diplomatique_6783645_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/27/la-chine-envoie-deux-pandas-geants-aux-etats-unis-dans-un-nouveau-geste-diplomatique_6783645_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/104/0/1216/608/644/322/60/0/7738cc9_upload-1-fxbox9ycidby-capture-d-e-cran-2026-09-26-a-21-37-16.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Fu Shuang, l’un des deux pandas géants en transfert pour le zoo d’Atlanta (Etats-Unis), depuis la Chine."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Chengdu Research Base of Giant Panda Breeding"
+      }
+    ],
+    "credit": "Chengdu Research Base of Giant Panda Breeding"
+  }
+}
