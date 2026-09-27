@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T22:49:09.433688+00:00",
+  "_id": "c65821f3501e",
+  "brut": {
+    "title": "Le nord-est des États-Unis balayé par une puissante tempête",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nord-est des États-Unis balayé par une puissante tempête"
+    },
+    "summary": "Une puissante tempête frappe actuellement le nord-est des États-Unis, provoquant d’importantes inondations sur le littoral. Dans le New Jersey, des rues entières sont sous l’eau tandis que des dizaines d’habitants ont dû être évacués ou secourus, alors que les vents dépassent les 100 km/h.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une puissante tempête frappe actuellement le nord-est des États-Unis, provoquant d’importantes inondations sur le littoral. Dans le New Jersey, des rues entières sont sous l’eau tandis que des dizaines d’habitants ont dû être évacués ou secourus, alors que les vents dépassent les 100 km/h."
+    },
+    "published": "Mon, 28 Sep 2026 00:08:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      22,
+      8,
+      28,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete_8212535.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/MeNOuYT9ssXo0F-xvAlwnonp2H4/128x0:1526x786/432x243/filters:format(jpg)/2026/09/27/6ab96e8b773c9230774280.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete_8212535.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete_8212535.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T22:49:09.133997+00:00",
+  "_id": "a8f316b51944",
+  "brut": {
+    "title": "En Ethiopie, la télévision publique du Tigré frappée par un drone",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ethiopie, la télévision publique du Tigré frappée par un drone"
+    },
+    "published": "Sun, 27 Sep 2026 23:00:53 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      21,
+      0,
+      53,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 23:13:41 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      21,
+      13,
+      41,
+      6,
+      270,
+      0
+    ],
+    "summary": "Les autorités fédérales éthiopiennes avaient annoncé, le 21 septembre, avoir suspendu « pour une durée indéterminée » Tigrai TV et interdit à tout média de relayer ses informations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités fédérales éthiopiennes avaient annoncé, le 21 septembre, avoir suspendu « pour une durée indéterminée » Tigrai TV et interdit à tout média de relayer ses informations."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/27/en-ethiopie-la-television-publique-du-tigre-frappee-par-un-drone_6784561_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/27/en-ethiopie-la-television-publique-du-tigre-frappee-par-un-drone_6784561_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/27/en-ethiopie-la-television-publique-du-tigre-frappee-par-un-drone_6784561_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/253/0/3034/1517/644/322/60/0/4062c40_ftp-1-mandjsibomxy-5198388-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue d’ensemble du bâtiment endommagé abritant Tigray TV, le diffuseur public de la région éthiopienne du Tigré, à la suite d’une attaque par drone, à Makalé, le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

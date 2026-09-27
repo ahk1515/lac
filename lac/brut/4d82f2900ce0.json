@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T22:49:09.434754+00:00",
+  "_id": "4d82f2900ce0",
+  "brut": {
+    "title": "Des frappes russes tuent huit personnes en Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des frappes russes tuent huit personnes en Ukraine"
+    },
+    "summary": "Deux personnes sont mortes à Soumy, deux dans Kiev et sa région, une à Odessa et trois à Zaporijjia.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Deux personnes sont mortes à Soumy, deux dans Kiev et sa région, une à Odessa et trois à Zaporijjia."
+    },
+    "published": "Sun, 27 Sep 2026 19:57:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      17,
+      57,
+      0,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-tuent-huit-personnes-en-ukraine_8212445.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/96QHA6YltguDbNKfb9DDd8Cledk/0x106:1024x682/432x243/filters:format(jpg)/2026/09/27/6ab9564d06048496958556.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-tuent-huit-personnes-en-ukraine_8212445.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-tuent-huit-personnes-en-ukraine_8212445.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

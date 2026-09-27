@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T22:49:09.433361+00:00",
+  "_id": "465278090c14",
+  "brut": {
+    "title": "À Kiev, les enfants vivent au rythme des attaques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Kiev, les enfants vivent au rythme des attaques"
+    },
+    "summary": "À Kiev, les élèves ukrainiens sont contraints quitter leur salle de classe pour rejoindre les abris en raison des attaques de drones russes. Un quotidien difficile qui nourrit la peur et la fatigue des enfants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Kiev, les élèves ukrainiens sont contraints quitter leur salle de classe pour rejoindre les abris en raison des attaques de drones russes. Un quotidien difficile qui nourrit la peur et la fatigue des enfants."
+    },
+    "published": "Sun, 27 Sep 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      20,
+      0,
+      1,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-kiev-les-enfants-vivent-au-rythme-des-attaques_8209997.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LeqWduKJyTaBDDIumn9jiqpdS2M/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab69b4b1be1b696914265.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-kiev-les-enfants-vivent-au-rythme-des-attaques_8209997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-kiev-les-enfants-vivent-au-rythme-des-attaques_8209997.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

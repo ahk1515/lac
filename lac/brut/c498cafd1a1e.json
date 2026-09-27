@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T22:49:09.433988+00:00",
+  "_id": "c498cafd1a1e",
+  "brut": {
+    "title": "Les partis arabes israéliens bientôt exclus des élections en Israël ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les partis arabes israéliens bientôt exclus des élections en Israël ?"
+    },
+    "summary": "En Israël, les 2 partis arabes israéliens pourraient être exclus des élections législatives le 27 octobre prochain, à la demande du camp de B. Netanyahu qui les accusent de soutenir le terrorisme. La décision est entre les mains de la Cour Suprême qui doit statuer la semaine prochaine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Israël, les 2 partis arabes israéliens pourraient être exclus des élections législatives le 27 octobre prochain, à la demande du camp de B. Netanyahu qui les accusent de soutenir le terrorisme. La décision est entre les mains de la Cour Suprême qui doit statuer la semaine prochaine."
+    },
+    "published": "Sun, 27 Sep 2026 21:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      19,
+      0,
+      2,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/les-partis-arabes-israeliens-bientot-exclus-des-elections-en-israel_8210045.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/YWdcB03Nznj2Ox7B-8uUp3Q2uuA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/25/6ab6a0fdcab84226396414.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/les-partis-arabes-israeliens-bientot-exclus-des-elections-en-israel_8210045.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/les-partis-arabes-israeliens-bientot-exclus-des-elections-en-israel_8210045.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

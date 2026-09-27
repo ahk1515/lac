@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T22:49:09.134555+00:00",
+  "_id": "e4146a502b81",
+  "brut": {
+    "title": "En Serbie, le président, Aleksandar Vucic, démissionne et brigue le poste de premier ministre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Serbie, le président, Aleksandar Vucic, démissionne et brigue le poste de premier ministre"
+    },
+    "published": "Sun, 27 Sep 2026 21:23:56 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      19,
+      23,
+      56,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 22:11:44 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      20,
+      11,
+      44,
+      6,
+      270,
+      0
+    ],
+    "summary": "La tenue d’élections législatives anticipées, qui auront lieu à la fin d’octobre, était une revendication cruciale du mouvement étudiant né en novembre 2024.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tenue d’élections législatives anticipées, qui auront lieu à la fin d’octobre, était une revendication cruciale du mouvement étudiant né en novembre 2024."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/27/en-serbie-le-president-aleksandar-vucic-demissionne-et-vise-le-poste-de-premier-ministre_6784554_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/27/en-serbie-le-president-aleksandar-vucic-demissionne-et-vise-le-poste-de-premier-ministre_6784554_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/27/en-serbie-le-president-aleksandar-vucic-demissionne-et-vise-le-poste-de-premier-ministre_6784554_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/466/0/5591/2795/644/322/60/0/2e74394_ftp-1-tac0dbbvciuj-2026-09-27t185445z-696549845-rc2srnacdb6u-rtrmadp-3-serbia-election-president.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président serbe, Aleksandar Vucic, salue la foule, quelques instants avant de remettre officiellement sa démission, à Belgrade (Serbie), le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Djordje Kojadinovic / REUTERS"
+      }
+    ],
+    "credit": "Djordje Kojadinovic / REUTERS"
+  }
+}

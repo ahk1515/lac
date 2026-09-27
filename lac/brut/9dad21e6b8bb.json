@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T22:49:09.133747+00:00",
+  "_id": "9dad21e6b8bb",
+  "brut": {
+    "title": "Visite du pape à Metz : Emmanuel Macron assisterait finalement à la messe célébrée à la cathédrale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape à Metz : Emmanuel Macron assisterait finalement à la messe célébrée à la cathédrale"
+    },
+    "published": "Mon, 28 Sep 2026 00:15:40 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      22,
+      15,
+      40,
+      6,
+      270,
+      0
+    ],
+    "updated": "Mon, 28 Sep 2026 00:35:16 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      22,
+      35,
+      16,
+      6,
+      270,
+      0
+    ],
+    "summary": "Le chef de l’Etat, qui doit assister lundi matin, avec ses invités, au discours que le pape consacre à l’Europe et à la paix, ne devait initialement pas prendre part à la cérémonie religieuse prévue ensuite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef de l’Etat, qui doit assister lundi matin, avec ses invités, au discours que le pape consacre à l’Europe et à la paix, ne devait initialement pas prendre part à la cérémonie religieuse prévue ensuite."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/170/0/2048/1024/644/322/60/0/85e2947_ftp-1-twi3op51c6tx-5198089-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La cathédrale Saint-Etienne, à Metz, le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ROMEO BOETZLE/AFP"
+      }
+    ],
+    "credit": "ROMEO BOETZLE/AFP"
+  }
+}
