@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T16:26:42.066302+00:00",
+  "_id": "faa6d734ca56",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : des morts dans le nord-est du pays à la suite de frappes russes ; Kiev également visée par des bombardements dimanche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : des morts dans le nord-est du pays à la suite de frappes russes ; Kiev également visée par des bombardements dimanche"
+    },
+    "published": "Sun, 27 Sep 2026 15:23:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      13,
+      23,
+      21,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 17:41:09 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      15,
+      41,
+      9,
+      6,
+      270,
+      0
+    ],
+    "summary": "Un bâtiment administratif a été touché, dimanche, dans le raïon Holossiïvsky, à Kiev, a annoncé le maire de la capitale ukrainienne, tandis que, dans le raïon Darnytsky, un drone a touché un immeuble d’habitation. Dans le nord-est de l’Ukraine, trois bombes aériennes russes ont frappé dimanche après-midi le centre de Soumy, faisant deux morts et au moins cinq blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un bâtiment administratif a été touché, dimanche, dans le raïon Holossiïvsky, à Kiev, a annoncé le maire de la capitale ukrainienne, tandis que, dans le raïon Darnytsky, un drone a touché un immeuble d’habitation. Dans le nord-est de l’Ukraine, trois bombes aériennes russes ont frappé dimanche après-midi le centre de Soumy, faisant deux morts et au moins cinq blessés."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-les-dernieres-informations-et-nos-reponses-a-vos-questions_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-les-dernieres-informations-et-nos-reponses-a-vos-questions_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-les-dernieres-informations-et-nos-reponses-a-vos-questions_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/388/0/4656/2328/644/322/60/0/0657d95_ftp-1-ohg7gpysqu9l-2026-09-27t150142z-925985342-rc2qrna5wzr7-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un immeuble résidentiel touché par une frappe de drone à réaction russe, à Kiev, le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}

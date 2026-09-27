@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T16:26:42.066107+00:00",
+  "_id": "141d1673f6e9",
+  "brut": {
+    "title": "A Bangkok, des milliers d’habitants évacués après d’importantes inondations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Bangkok, des milliers d’habitants évacués après d’importantes inondations"
+    },
+    "published": "Sun, 27 Sep 2026 15:25:00 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      13,
+      25,
+      0,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 15:39:54 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      13,
+      39,
+      54,
+      6,
+      270,
+      0
+    ],
+    "summary": "Près de 4 900 personnes ont été évacuées vers des centres d’accueil et environ 52 000 foyers ont été touchés par les inondations. Les autorités ont déclaré l’état de catastrophe dans l’ensemble de la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de 4 900 personnes ont été évacuées vers des centres d’accueil et environ 52 000 foyers ont été touchés par les inondations. Les autorités ont déclaré l’état de catastrophe dans l’ensemble de la capitale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/27/thailande-des-milliers-d-habitants-evacues-apres-d-importantes-inondations-a-bangkok_6784373_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/27/thailande-des-milliers-d-habitants-evacues-apres-d-importantes-inondations-a-bangkok_6784373_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/27/thailande-des-milliers-d-habitants-evacues-apres-d-importantes-inondations-a-bangkok_6784373_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/246/0/5768/2884/644/322/60/0/f9ee8b3_ftp-1-zjklhrjagnbw-2026-09-27t101538z-1705255941-rc2hrnamc63g-rtrmadp-3-asia-weather-thailand-floods.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une rue inondée sous une forte pluie, à Bangkok, le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Patipat Janthong/REUTERS"
+      }
+    ],
+    "credit": "Patipat Janthong/REUTERS"
+  }
+}

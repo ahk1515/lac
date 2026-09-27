@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T16:26:42.067142+00:00",
+  "_id": "f5a33cf57f7c",
+  "brut": {
+    "title": "Israël : la justice reporte un appel d’offres pour un projet de colonisation en Cisjordanie, pour ne pas perturber les élections législatives",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël : la justice reporte un appel d’offres pour un projet de colonisation en Cisjordanie, pour ne pas perturber les élections législatives"
+    },
+    "published": "Sun, 27 Sep 2026 12:34:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      10,
+      34,
+      35,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 17:27:24 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      15,
+      27,
+      24,
+      6,
+      270,
+      0
+    ],
+    "summary": "En juillet, le ministère du logement israélien avait lancé un appel d’offres pour la construction de plus de 1 200 logements dans le cadre du projet dit « E1 », jouxtant la colonie de Maalé Adoumim, proche de Jérusalem.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En juillet, le ministère du logement israélien avait lancé un appel d’offres pour la construction de plus de 1 200 logements dans le cadre du projet dit « E1 », jouxtant la colonie de Maalé Adoumim, proche de Jérusalem."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/27/israel-la-justice-reporte-un-appel-d-offres-pour-un-projet-de-colonisation-en-cisjordanie_6784133_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/27/israel-la-justice-reporte-un-appel-d-offres-pour-un-projet-de-colonisation-en-cisjordanie_6784133_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/27/israel-la-justice-reporte-un-appel-d-offres-pour-un-projet-de-colonisation-en-cisjordanie_6784133_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/08/1010/0/8640/4320/644/322/60/0/dd3d326_ftp-1-jou1kxobany3-4a5bafd63ca3476db319eee956e7c4af-0-af17e04f9d2a48efb5a2eb66d5dc7616.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue d’une partie de la zone E1, près de Maalé Adoumim, une colonie israélienne située en Cisjordanie, le 8 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ohad Zwigenberg/AP"
+      }
+    ],
+    "credit": "Ohad Zwigenberg/AP"
+  }
+}

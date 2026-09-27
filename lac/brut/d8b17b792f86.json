@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T16:26:42.067321+00:00",
+  "_id": "d8b17b792f86",
+  "brut": {
+    "title": "Sadio Mané, la star du football, se lance dans la transformation des mangues au Sénégal",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sadio Mané, la star du football, se lance dans la transformation des mangues au Sénégal"
+    },
+    "published": "Sun, 27 Sep 2026 12:00:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      10,
+      0,
+      8,
+      6,
+      270,
+      0
+    ],
+    "summary": "L’ancien attaquant de Liverpool a posé, le 19 septembre, la première pierre d’une usine qui produira de la pulpe de mangue, de la mangue séchée, mais aussi du beurre de mangue, dans son village natal, en Casamance.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ancien attaquant de Liverpool a posé, le 19 septembre, la première pierre d’une usine qui produira de la pulpe de mangue, de la mangue séchée, mais aussi du beurre de mangue, dans son village natal, en Casamance."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/27/sadio-mane-la-star-du-football-se-lance-dans-la-transformation-des-mangues-au-senegal_6784098_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/27/sadio-mane-la-star-du-football-se-lance-dans-la-transformation-des-mangues-au-senegal_6784098_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/27/sadio-mane-la-star-du-football-se-lance-dans-la-transformation-des-mangues-au-senegal_6784098_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/28/461/0/5860/2930/644/322/60/0/32ec47a_ftp-1-b3frv760qybi-2026-08-28t181221z-1129861575-up1em8s1ekkno-rtrmadp-3-soccer-saudi-nsr-taa.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sadio Mané, joueur du club saoudien Al-Nassr FC, avant un match à Riyad, le 28 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hamad I Mohammed/REUTERS"
+      }
+    ],
+    "credit": "Hamad I Mohammed/REUTERS"
+  }
+}

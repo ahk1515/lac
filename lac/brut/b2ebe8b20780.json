@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T16:26:42.338795+00:00",
+  "_id": "b2ebe8b20780",
+  "brut": {
+    "title": "Des milliers d'habitants évacués à Bangkok après d'importantes inondations, plus de 33 cm de pluie tombés en quelques jours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des milliers d'habitants évacués à Bangkok après d'importantes inondations, plus de 33 cm de pluie tombés en quelques jours"
+    },
+    "summary": "Près de 4 900 personnes se sont réfugiées vers des centres d’accueil. Les autorités ont déclaré l'état de catastrophe dans l'ensemble de la capitale thaïlandaise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Près de 4 900 personnes se sont réfugiées vers des centres d’accueil. Les autorités ont déclaré l'état de catastrophe dans l'ensemble de la capitale thaïlandaise."
+    },
+    "published": "Sun, 27 Sep 2026 17:01:32 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      15,
+      1,
+      32,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-milliers-d-habitants-evacues-a-bangkok-apres-d-importantes-inondations-plus-de-330-millimetres-de-pluie-sont-tombes_8212262.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/yHwSiBjPSdlKhXvqEjeoQGL0gB4/0x53:1024x629/432x243/filters:format(jpg)/2026/09/27/6ab928abcc103180155546.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-milliers-d-habitants-evacues-a-bangkok-apres-d-importantes-inondations-plus-de-330-millimetres-de-pluie-sont-tombes_8212262.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-milliers-d-habitants-evacues-a-bangkok-apres-d-importantes-inondations-plus-de-330-millimetres-de-pluie-sont-tombes_8212262.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

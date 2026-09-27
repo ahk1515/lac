@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T16:26:42.339410+00:00",
+  "_id": "3393bd44d066",
+  "brut": {
+    "title": "Le nord-est des États-Unis balayé par une puissante tempête",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nord-est des États-Unis balayé par une puissante tempête"
+    },
+    "summary": "Des pluies diluviennes et des vents puissants touchent le nord-est des États-Unis, depuis le 26 septembre. La tempête qui a fait un mort à New York menace aussi les villes de Boston et de Philadelphie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des pluies diluviennes et des vents puissants touchent le nord-est des États-Unis, depuis le 26 septembre. La tempête qui a fait un mort à New York menace aussi les villes de Boston et de Philadelphie."
+    },
+    "published": "Sun, 27 Sep 2026 14:21:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      12,
+      21,
+      2,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete_8212148.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RjtQv7BxixcRzAQRYqhVx_ruF0s/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/27/6ab90a000b5d0178132077.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete_8212148.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete_8212148.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

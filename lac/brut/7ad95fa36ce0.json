@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T16:26:42.338951+00:00",
+  "_id": "7ad95fa36ce0",
+  "brut": {
+    "title": "Vagues de 6 mètres, vents à 100 km/h : une violente tempête ravage la côte est des États-Unis, New York durement touché",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Vagues de 6 mètres, vents à 100 km/h : une violente tempête ravage la côte est des États-Unis, New York durement touché"
+    },
+    "summary": "Une violente tempête frappe la côte est des États-Unis depuis la nuit du samedi 26 septembre. Du Massachusetts au New Jersey, des vagues de plusieurs mètres et des rafales à 100 km/h provoquent inondations et chutes d'arbres. À New York, les autorités appellent la population à limiter ses déplacements.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une violente tempête frappe la côte est des États-Unis depuis la nuit du samedi 26 septembre. Du Massachusetts au New Jersey, des vagues de plusieurs mètres et des rafales à 100 km/h provoquent inondations et chutes d'arbres. À New York, les autorités appellent la population à limiter ses déplacements."
+    },
+    "published": "Sun, 27 Sep 2026 16:39:36 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      14,
+      39,
+      36,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/vagues-de-6-metres-vents-a-100-km-h-une-violente-tempete-ravage-la-cote-est-des-etats-unis-new-york-durement-touche_8212172.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/T8yLAjK0T8qMChqsuI-wLkKj7YQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/27/6ab9148085c83932469973.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/vagues-de-6-metres-vents-a-100-km-h-une-violente-tempete-ravage-la-cote-est-des-etats-unis-new-york-durement-touche_8212172.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/vagues-de-6-metres-vents-a-100-km-h-une-violente-tempete-ravage-la-cote-est-des-etats-unis-new-york-durement-touche_8212172.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

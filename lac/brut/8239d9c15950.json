@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T16:26:42.340191+00:00",
+  "_id": "8239d9c15950",
+  "brut": {
+    "title": "\"Mission info\" : pourquoi le pape vient-il en France ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Mission info\" : pourquoi le pape vient-il en France ?"
+    },
+    "summary": "Chaque semaine, \"Mission info\", présenté par Myriam Bounafaa, Raphäl Yem et Elise Lambert, explore un sujet d'actualité pour les enfants de 7 à 11 ans. Cette semaine, \"Mission info\" s'intéresse à la venue du pape Léon XIV en France.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Chaque semaine, \"Mission info\", présenté par Myriam Bounafaa, Raphäl Yem et Elise Lambert, explore un sujet d'actualité pour les enfants de 7 à 11 ans. Cette semaine, \"Mission info\" s'intéresse à la venue du pape Léon XIV en France."
+    },
+    "published": "Sun, 27 Sep 2026 12:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      10,
+      0,
+      2,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/mission-info-pourquoi-le-pape-vient-il-en-france_8209592.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5gAo1J3AQME584sblQ_11SL9g18/0x0:1280x720/432x243/filters:format(jpg)/2026/09/25/6ab6637da33fa048764799.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/mission-info-pourquoi-le-pape-vient-il-en-france_8209592.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/mission-info-pourquoi-le-pape-vient-il-en-france_8209592.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
