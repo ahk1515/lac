@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T09:49:57.536725+00:00",
+  "_id": "07eb061ef21e",
+  "brut": {
+    "title": "En Ukraine, la ville occupée d’Olechky confrontée au spectre de la famine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ukraine, la ville occupée d’Olechky confrontée au spectre de la famine"
+    },
+    "published": "Sun, 27 Sep 2026 07:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      5,
+      0,
+      11,
+      6,
+      270,
+      0
+    ],
+    "summary": "Touchés par de graves pénuries de nourriture et de médicaments, les habitants de cette ville du sud du pays, située sur la ligne de front, sont en proie à une crise humanitaire. Kiev a porté ce dossier devant l’ONU.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Touchés par de graves pénuries de nourriture et de médicaments, les habitants de cette ville du sud du pays, située sur la ligne de front, sont en proie à une crise humanitaire. Kiev a porté ce dossier devant l’ONU."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/27/en-ukraine-la-ville-occupee-d-olechky-confrontee-au-spectre-de-la-famine_6783829_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/27/en-ukraine-la-ville-occupee-d-olechky-confrontee-au-spectre-de-la-famine_6783829_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/27/en-ukraine-la-ville-occupee-d-olechky-confrontee-au-spectre-de-la-famine_6783829_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/1282/0/8256/4128/644/322/60/0/eab3e64_ftp-1-figdus8cibsu-5145890-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un homme brandit une pancarte sur laquelle on peut lire « Famine de masse à Olechky, ville occupée. Américains ! Obligez la Russie à accepter un couloir humanitaire », devant l’hôtel de ville de Kiev, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGEI SUPINSKY/AFP"
+      }
+    ],
+    "credit": "SERGEI SUPINSKY/AFP"
+  }
+}

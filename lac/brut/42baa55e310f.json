@@ -1,0 +1,51 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T09:49:57.537171+00:00",
+  "_id": "42baa55e310f",
+  "brut": {
+    "title": "Les cartes, un outil de pouvoir débattu aux Nations unies",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les cartes, un outil de pouvoir débattu aux Nations unies"
+    },
+    "published": "Sun, 27 Sep 2026 06:00:40 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      4,
+      0,
+      40,
+      6,
+      270,
+      0
+    ],
+    "summary": "L’ONU a adopté une résolution appelant à corriger les déformations de la projection de Mercator, qui réduit visuellement l’Afrique au profit des régions proches des pôles. Des cartes héritées des puissances coloniales européennes aux critiques portées par des pays du Sud global, ce récit revient, en images, sur les visions concurrentes de notre monde.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ONU a adopté une résolution appelant à corriger les déformations de la projection de Mercator, qui réduit visuellement l’Afrique au profit des régions proches des pôles. Des cartes héritées des puissances coloniales européennes aux critiques portées par des pays du Sud global, ce récit revient, en images, sur les visions concurrentes de notre monde."
+    },
+    "id": "https://www.lemonde.fr/international/visuel/2026/09/27/les-cartes-un-outil-de-pouvoir-debattu-aux-nations-unies_6783752_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/visuel/2026/09/27/les-cartes-un-outil-de-pouvoir-debattu-aux-nations-unies_6783752_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/visuel/2026/09/27/les-cartes-un-outil-de-pouvoir-debattu-aux-nations-unies_6783752_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/323/0/4072/2036/644/322/60/0/f9193a7_upload-1-ugsavlupklj4-2609-projections-media-appel-comparaison-mercator.png"
+      }
+    ]
+  }
+}

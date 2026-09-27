@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T09:49:57.535845+00:00",
+  "_id": "dde89db5a91d",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie revendique des bombardements contre un centre de données à Kiev et le port de Kilia",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie revendique des bombardements contre un centre de données à Kiev et le port de Kilia"
+    },
+    "published": "Sun, 27 Sep 2026 11:24:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      9,
+      24,
+      11,
+      6,
+      270,
+      0
+    ],
+    "summary": "Le centre de données contre lequel l’armée russe revendique des frappes est celui de l’opérateur Vodafone, présenté comme l’un des principaux fournisseurs de téléphonie mobile et d’Internet haut débit des forces ukrainiennes, notamment pour la transmission de renseignements, selon Moscou.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le centre de données contre lequel l’armée russe revendique des frappes est celui de l’opérateur Vodafone, présenté comme l’un des principaux fournisseurs de téléphonie mobile et d’Internet haut débit des forces ukrainiennes, notamment pour la transmission de renseignements, selon Moscou."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-la-russie-revendique-des-bombardements-contre-un-centre-de-donnees-a-kiev-et-le-port-de-kilia_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-la-russie-revendique-des-bombardements-contre-un-centre-de-donnees-a-kiev-et-le-port-de-kilia_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-la-russie-revendique-des-bombardements-contre-un-centre-de-donnees-a-kiev-et-le-port-de-kilia_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/897/0/5646/2823/644/322/60/0/1005c61_ftp-1-jigsk50i5soy-2026-09-27t081357z-866934273-rc2irna31eb6-rtrmadp-3-ukraine-crisis-attack-kyiv-region.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un entrepôt touché par une frappe de drone russe, dans l’oblast de Kiev, le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentyn Ogirenko/REUTERS"
+      }
+    ],
+    "credit": "Valentyn Ogirenko/REUTERS"
+  }
+}

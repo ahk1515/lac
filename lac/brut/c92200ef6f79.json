@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T09:49:57.537583+00:00",
+  "_id": "c92200ef6f79",
+  "brut": {
+    "title": "Dans la Drôme, l’opération de sauvetage d’une poétesse gazaouie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la Drôme, l’opération de sauvetage d’une poétesse gazaouie"
+    },
+    "published": "Sun, 27 Sep 2026 06:00:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      4,
+      0,
+      9,
+      6,
+      270,
+      0
+    ],
+    "summary": "La mobilisation de deux couples de Drômois a permis à Alaa Al-Qatrawi d’être évacuée de Gaza. D’abord à Dieulefit, puis à Montélimar, la ville où elle réside désormais, la poétesse continue d’écrire, sa seule échappatoire pour survivre à la mort de ses quatre enfants, tués lors d’une frappe israélienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mobilisation de deux couples de Drômois a permis à Alaa Al-Qatrawi d’être évacuée de Gaza. D’abord à Dieulefit, puis à Montélimar, la ville où elle réside désormais, la poétesse continue d’écrire, sa seule échappatoire pour survivre à la mort de ses quatre enfants, tués lors d’une frappe israélienne."
+    },
+    "id": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/dans-la-drome-l-operation-de-sauvetage-d-une-poetesse-gazaouie_6783747_4500055.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/dans-la-drome-l-operation-de-sauvetage-d-une-poetesse-gazaouie_6783747_4500055.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/dans-la-drome-l-operation-de-sauvetage-d-une-poetesse-gazaouie_6783747_4500055.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/454/0/1124/562/644/322/60/0/98d381a_ftp-1-j6uno9o0kqkl-444258-3500050.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La poétesse gazaouie Alaa Al-Qatrawi avec Mathieu et Julie Yon, qui l’ont hébergée, à Dieulefit (Drôme), le 31 août."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alexa Brunet pour M Le magazine du Monde"
+      }
+    ],
+    "credit": "Alexa Brunet pour M Le magazine du Monde"
+  }
+}

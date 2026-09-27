@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T09:49:57.679473+00:00",
+  "_id": "c9aa7745e333",
+  "brut": {
+    "title": "Un \"incident majeur\" a eu lieu près d'une base militaire utilisée par l'armée américaine au Royaume-Uni, annonce la police",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un \"incident majeur\" a eu lieu près d'une base militaire utilisée par l'armée américaine au Royaume-Uni, annonce la police"
+    },
+    "summary": "Des experts militaires en déminage \"examinent actuellement plusieurs véhicules\", a précisé la police du Gloucestershire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des experts militaires en déminage \"examinent actuellement plusieurs véhicules\", a précisé la police du Gloucestershire."
+    },
+    "published": "Sun, 27 Sep 2026 11:13:27 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      9,
+      13,
+      27,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/un-incident-majeur-a-eu-lieu-pres-d-une-base-militaire-utilisee-de-l-armee-americaine-au-royaume-uni-annonce-la-police_8211926.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/a96eZ621kdmxxUlG-aiP-TM0Z-0/0x286:5500x3380/432x243/filters:format(jpg)/2026/09/27/6ab8db1801866518515029.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/un-incident-majeur-a-eu-lieu-pres-d-une-base-militaire-utilisee-de-l-armee-americaine-au-royaume-uni-annonce-la-police_8211926.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/un-incident-majeur-a-eu-lieu-pres-d-une-base-militaire-utilisee-de-l-armee-americaine-au-royaume-uni-annonce-la-police_8211926.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

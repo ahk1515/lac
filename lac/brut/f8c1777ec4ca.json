@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-27T09:49:57.679955+00:00",
+  "_id": "f8c1777ec4ca",
+  "brut": {
+    "title": "Première soirée du pape à Lourdes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Première soirée du pape à Lourdes"
+    },
+    "summary": "Dans le cadre de sa visite en France, le pape Léon XIV est arrivé à Lourdes dans la soirée du 26 septembre 2026. Il s'est rendu notamment dans la grotte de Massabielle où Bernadette Soubirous dit avoir vu 18 apparitions de la Vierge Marie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans le cadre de sa visite en France, le pape Léon XIV est arrivé à Lourdes dans la soirée du 26 septembre 2026. Il s'est rendu notamment dans la grotte de Massabielle où Bernadette Soubirous dit avoir vu 18 apparitions de la Vierge Marie."
+    },
+    "published": "Sun, 27 Sep 2026 07:50:56 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      5,
+      50,
+      56,
+      6,
+      270,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/premiere-soiree-du-pape-a-lourdes_8211824.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/HgXyFO2whYZjSYwzOjJtXXCbclA/150x0:1298x646/432x243/filters:format(jpg)/2026/09/27/6ab8aa8338eff496076269.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/premiere-soiree-du-pape-a-lourdes_8211824.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/premiere-soiree-du-pape-a-lourdes_8211824.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

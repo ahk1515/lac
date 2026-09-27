@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T09:49:57.537055+00:00",
+  "_id": "dc0074c68012",
+  "brut": {
+    "title": "Le nord-est des Etats-Unis balayé par une puissante tempête, des « inondations côtières majeures » redoutées par les autorités",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le nord-est des Etats-Unis balayé par une puissante tempête, des « inondations côtières majeures » redoutées par les autorités"
+    },
+    "published": "Sun, 27 Sep 2026 06:08:52 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      4,
+      8,
+      52,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 11:00:06 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      9,
+      0,
+      6,
+      6,
+      270,
+      0
+    ],
+    "summary": "La tempête doit se déplacer vers le New Jersey et Long Island et devrait toucher la région avec « toute sa force » dimanche matin, d’après les prévisionnistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tempête doit se déplacer vers le New Jersey et Long Island et devrait toucher la région avec « toute sa force » dimanche matin, d’après les prévisionnistes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/26/458/0/5500/2750/644/322/60/0/1c1ff30_ftp-1-mft5hq80kfyi-2026-09-26t151955z-1052524633-rc22rnaexfst-rtrmadp-3-usa-weather.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une zone inondée à la  suite des fortes pluies apportées par une tempête côtière intense, à Surf City (New Jersey), le 26 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vincent Alban/REUTERS"
+      }
+    ],
+    "credit": "Vincent Alban/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-27T09:49:57.536378+00:00",
+  "_id": "ce2e14695fc9",
+  "brut": {
+    "title": "Fusillades en Afrique du Sud : au moins 27 morts dans deux bars au Cap et à Johannesburg",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Fusillades en Afrique du Sud : au moins 27 morts dans deux bars au Cap et à Johannesburg"
+    },
+    "published": "Sun, 27 Sep 2026 09:25:16 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      27,
+      7,
+      25,
+      16,
+      6,
+      270,
+      0
+    ],
+    "updated": "Sun, 27 Sep 2026 10:53:51 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      27,
+      8,
+      53,
+      51,
+      6,
+      270,
+      0
+    ],
+    "summary": "A Johannesburg, huit assaillants armés de fusils d’assaut ont abattu 17 clients, tandis que 10 personnes ont été tuées dans un township proche du Cap. Les motifs de ces attaques restent inconnus selon la police.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Johannesburg, huit assaillants armés de fusils d’assaut ont abattu 17 clients, tandis que 10 personnes ont été tuées dans un township proche du Cap. Les motifs de ces attaques restent inconnus selon la police."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/27/fusillades-en-afrique-du-sud-au-moins-27-morts-dans-deux-bars-au-cap-et-a-johannesburg_6783964_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/27/fusillades-en-afrique-du-sud-au-moins-27-morts-dans-deux-bars-au-cap-et-a-johannesburg_6783964_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/27/fusillades-en-afrique-du-sud-au-moins-27-morts-dans-deux-bars-au-cap-et-a-johannesburg_6783964_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/416/0/5000/2500/644/322/60/0/f5cc8c2_ftp-1-vlhamhrjctfz-2026-09-27t082342z-2070806524-rc2krnapw0t5-rtrmadp-3-safrica-shooting.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des équipes de secours interviennent sur les lieux d’une fusillade meurtrière, dans le du township de Wedela, à Johannesburg (Afrique du Sud), le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Oupa Nkosi/REUTERS"
+      }
+    ],
+    "credit": "Oupa Nkosi/REUTERS"
+  }
+}
