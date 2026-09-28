@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T10:36:01.306536+00:00",
+  "_id": "51bf62713806",
+  "brut": {
+    "title": "Les informés du matin du lundi 28 septembre 2026",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les informés du matin du lundi 28 septembre 2026"
+    },
+    "summary": "Tous les jours, les informés débattent de l'actualité autour d\"Agathe Lambret et de Renaud Dély.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tous les jours, les informés débattent de l'actualité autour d\"Agathe Lambret et de Renaud Dély."
+    },
+    "published": "Mon, 28 Sep 2026 11:50:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      9,
+      50,
+      13,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-28-septembre-2026_8191280.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-28-septembre-2026_8191280.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-28-septembre-2026_8191280.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

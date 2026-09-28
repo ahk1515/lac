@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T10:36:01.105145+00:00",
+  "_id": "03c519b270b7",
+  "brut": {
+    "title": "Dans la Manche, trois personnes sont mortes en tentant de rejoindre l’Angleterre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la Manche, trois personnes sont mortes en tentant de rejoindre l’Angleterre"
+    },
+    "published": "Mon, 28 Sep 2026 11:44:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      9,
+      44,
+      39,
+      0,
+      271,
+      0
+    ],
+    "updated": "Mon, 28 Sep 2026 11:45:46 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      28,
+      9,
+      45,
+      46,
+      0,
+      271,
+      0
+    ],
+    "summary": "« Un naufrage impliquant un taxi-boat est survenu ce jour au large de Wissant », a déclaré la préfecture, qui prévoit un point presse à Calais en fin de matinée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Un naufrage impliquant un taxi-boat est survenu ce jour au large de Wissant », a déclaré la préfecture, qui prévoit un point presse à Calais en fin de matinée."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/28/trois-personnes-sont-mortes-en-tentant-de-traverser-clandestinement-la-manche_6785035_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/28/trois-personnes-sont-mortes-en-tentant-de-traverser-clandestinement-la-manche_6785035_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/28/trois-personnes-sont-mortes-en-tentant-de-traverser-clandestinement-la-manche_6785035_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/1000/0/6000/3000/644/322/60/0/6aa839b_ftp-1-pevyckntgxbg-2026-09-28t082537z-1426068285-rc27sna4yv2x-rtrmadp-3-migration-europe-france-britain.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une embarcation pneumatique abandonnée par des migrants sur la plage de Petit-Fort-Philippe, à Gravelines (Nord), le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hannah McKay/REUTERS"
+      }
+    ],
+    "credit": "Hannah McKay/REUTERS"
+  }
+}

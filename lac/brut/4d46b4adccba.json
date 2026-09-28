@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T10:36:01.106102+00:00",
+  "_id": "4d46b4adccba",
+  "brut": {
+    "title": "La démission, en images, du président serbe Aleksandar Vucic qui brigue le poste de premier ministre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La démission, en images, du président serbe Aleksandar Vucic qui brigue le poste de premier ministre"
+    },
+    "published": "Mon, 28 Sep 2026 09:35:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      7,
+      35,
+      10,
+      0,
+      271,
+      0
+    ],
+    "summary": "La tenue d’élections législatives anticipées, qui auront lieu à la fin d’octobre, était une revendication cruciale du mouvement étudiant né en novembre 2024.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tenue d’élections législatives anticipées, qui auront lieu à la fin d’octobre, était une revendication cruciale du mouvement étudiant né en novembre 2024."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/28/la-demission-en-images-du-president-serbe-aleksandar-vucic-qui-brigue-le-poste-de-premier-ministre_6785018_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/28/la-demission-en-images-du-president-serbe-aleksandar-vucic-qui-brigue-le-poste-de-premier-ministre_6785018_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/28/la-demission-en-images-du-president-serbe-aleksandar-vucic-qui-brigue-le-poste-de-premier-ministre_6785018_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/153/0/1840/920/644/322/60/0/3873aa9_ftp-1-9btie5drwdlr-a724606c5f4540bd9c988eb641f5985c-0-4b9baf73f23f42de8c91c4758311b894.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette photo diffusée par le service de presse de la présidence serbe montre le président serbe, Aleksandar Vucic, en train de signer sa démission de la présidence de la république, afin de se présenter au poste de premier ministre, à Belgrade, le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Serbian presidential press office via AP"
+      }
+    ],
+    "credit": "Serbian presidential press office via AP"
+  }
+}

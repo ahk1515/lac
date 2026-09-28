@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T10:36:01.105576+00:00",
+  "_id": "1bbf75f6a133",
+  "brut": {
+    "title": "« En théorie, l’espace est parfait pour accueillir les data centers : peu de voisins, pas de permis de construire, de l’énergie solaire »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« En théorie, l’espace est parfait pour accueillir les data centers : peu de voisins, pas de permis de construire, de l’énergie solaire »"
+    },
+    "published": "Mon, 28 Sep 2026 11:00:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      9,
+      0,
+      5,
+      0,
+      271,
+      0
+    ],
+    "summary": "Les géants de la tech rêvent d’héberger hors de Terre les infrastructures nécessaires à déployer l’intelligence artificielle. Mais les obstacles ne sont pas que techniques, ils sont aussi économiques, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les géants de la tech rêvent d’héberger hors de Terre les infrastructures nécessaires à déployer l’intelligence artificielle. Mais les obstacles ne sont pas que techniques, ils sont aussi économiques, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/28/en-theorie-l-espace-est-parfait-pour-accueillir-les-data-centers-peu-de-voisins-pas-de-permis-de-construire-de-l-energie-solaire_6785029_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/28/en-theorie-l-espace-est-parfait-pour-accueillir-les-data-centers-peu-de-voisins-pas-de-permis-de-construire-de-l-energie-solaire_6785029_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/28/en-theorie-l-espace-est-parfait-pour-accueillir-les-data-centers-peu-de-voisins-pas-de-permis-de-construire-de-l-energie-solaire_6785029_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/301/0/7388/3694/644/322/60/0/28b71c9_upload-1-is41ot09k773-000-a22n9bm.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans un centre d’Intelligence artificielle de Google, lors de son inauguration, à Berlin, le 5 mars 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TOBIAS SCHWARZ/AFP"
+      }
+    ],
+    "credit": "TOBIAS SCHWARZ/AFP"
+  }
+}

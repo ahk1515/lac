@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T10:36:01.309783+00:00",
+  "_id": "75f60ba84f02",
+  "brut": {
+    "title": "Léon XIV face aux victimes de violences sexuelles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Léon XIV face aux victimes de violences sexuelles"
+    },
+    "summary": "Léon XIV a rencontré à huis clos, sept victimes d'abus sexuels au sein de l'Église. Il aurait notamment reconnu le caractère systémique de ces violences.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Léon XIV a rencontré à huis clos, sept victimes d'abus sexuels au sein de l'Église. Il aurait notamment reconnu le caractère systémique de ces violences."
+    },
+    "published": "Mon, 28 Sep 2026 08:23:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      6,
+      23,
+      51,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/leon-xiv-face-aux-victimes-de-violences-sexuelles_8212913.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/yFmmTQCU5uRLWhvYico6eEhMPlU/193x0:1548x762/432x243/filters:format(jpg)/2026/09/28/6aba067fb15ab071738909.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/leon-xiv-face-aux-victimes-de-violences-sexuelles_8212913.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/leon-xiv-face-aux-victimes-de-violences-sexuelles_8212913.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

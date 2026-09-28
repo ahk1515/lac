@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T10:36:01.107429+00:00",
+  "_id": "385674d5c7fa",
+  "brut": {
+    "title": "Elections générales au Brésil : à Rio de Janeiro, l’ombre du crime organisé plane sur la campagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Elections générales au Brésil : à Rio de Janeiro, l’ombre du crime organisé plane sur la campagne"
+    },
+    "published": "Mon, 28 Sep 2026 06:00:46 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      4,
+      0,
+      46,
+      0,
+      271,
+      0
+    ],
+    "summary": "Les violences se multiplient contre les sympathisants et les candidats des différentes formations politiques en lice aux élections du 4 octobre, qui désigneront le président, les gouverneurs et les parlementaires fédéraux et des Etats.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les violences se multiplient contre les sympathisants et les candidats des différentes formations politiques en lice aux élections du 4 octobre, qui désigneront le président, les gouverneurs et les parlementaires fédéraux et des Etats."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/28/elections-generales-au-bresil-a-rio-de-janeiro-l-ombre-du-crime-organise-plane-sur-la-campagne_6784875_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/28/elections-generales-au-bresil-a-rio-de-janeiro-l-ombre-du-crime-organise-plane-sur-la-campagne_6784875_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/28/elections-generales-au-bresil-a-rio-de-janeiro-l-ombre-du-crime-organise-plane-sur-la-campagne_6784875_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/1091/0/8256/4128/644/322/60/0/da16bc0_upload-1-h613bso6zys6-000-c6nv3ly.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Monica Benicio, conseillère municipale de Rio de Janeiro et candidate au Sénat, et William Siri, conseiller municipal de Rio de Janeiro et candidat au poste de gouverneur, membres du Parti Socialisme et liberté, au quartier général de campagne du parti, à Rio de Janeiro, au Brésil, le 25 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MAURO PIMENTEL/AFP"
+      }
+    ],
+    "credit": "MAURO PIMENTEL/AFP"
+  }
+}

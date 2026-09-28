@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T10:36:01.308475+00:00",
+  "_id": "a10e9626d3c4",
+  "brut": {
+    "title": "Espagne : un mouvement contre la crise du logement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Espagne : un mouvement contre la crise du logement"
+    },
+    "summary": "Des milliers de manifestants sont descendus dans les rues à Madrid, après qu'une octogénaire de 87 ans a dû quitter de force son logement, à la suite de l'explosion de son loyer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des milliers de manifestants sont descendus dans les rues à Madrid, après qu'une octogénaire de 87 ans a dû quitter de force son logement, à la suite de l'explosion de son loyer."
+    },
+    "published": "Mon, 28 Sep 2026 08:55:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      6,
+      55,
+      9,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/espagne-un-mouvement-contre-la-crise-du-logement_8212919.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/kTULgs8fZ1OP-DM5iNh7FIHxpjQ/179x0:1552x772/432x243/filters:format(jpg)/2026/09/28/6aba0bb028343971015376.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/espagne-un-mouvement-contre-la-crise-du-logement_8212919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/espagne-un-mouvement-contre-la-crise-du-logement_8212919.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

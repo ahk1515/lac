@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T10:36:01.309620+00:00",
+  "_id": "bf84c5e75ee9",
+  "brut": {
+    "title": "Guerre en Ukraine : Kiev sous le feu des drones russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : Kiev sous le feu des drones russes"
+    },
+    "summary": "Huit personnes ont encore perdu la vie en Ukraine, dans la nuit du samedi 26 au dimanche 27 septembre. Une école a notamment été visée à Kiev, sans faire de victime.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Huit personnes ont encore perdu la vie en Ukraine, dans la nuit du samedi 26 au dimanche 27 septembre. Une école a notamment été visée à Kiev, sans faire de victime."
+    },
+    "published": "Mon, 28 Sep 2026 08:39:22 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      6,
+      39,
+      22,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-kiev-sous-le-feu-des-drones-russes_8212916.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/Snnm9TcJ-THWEl_oE-so8TegKQw/207x0:1527x742/432x243/filters:format(jpg)/2026/09/28/6aba080e9376c819083411.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-kiev-sous-le-feu-des-drones-russes_8212916.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-kiev-sous-le-feu-des-drones-russes_8212916.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

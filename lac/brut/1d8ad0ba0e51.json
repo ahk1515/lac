@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T10:36:01.307231+00:00",
+  "_id": "1d8ad0ba0e51",
+  "brut": {
+    "title": "Au moins trois personnes sont mortes lors du naufrage d'une embarcation qui tentait une traversée clandestine de la Manche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins trois personnes sont mortes lors du naufrage d'une embarcation qui tentait une traversée clandestine de la Manche"
+    },
+    "summary": "Cela porte à 22 le nombre de personnes qui ont péri depuis le début de l'année en tentant de traverser clandestinement vers le Royaume-Uni, selon un décompte de l'AFP établi à partir de données officielles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cela porte à 22 le nombre de personnes qui ont péri depuis le début de l'année en tentant de traverser clandestinement vers le Royaume-Uni, selon un décompte de l'AFP établi à partir de données officielles."
+    },
+    "published": "Mon, 28 Sep 2026 11:38:39 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      9,
+      38,
+      39,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/migrants/au-moins-trois-personnes-sont-mortes-lors-du-naufrage-d-une-embarcation-qui-tentait-une-traversee-clandestine-de-la-manche_8213108.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9wRoNhz8GBgD7gtqoDAliDCIuRk/0x0:4704x2646/432x243/filters:format(jpg)/2026/09/28/6aba2dc0a188a838030779.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/migrants/au-moins-trois-personnes-sont-mortes-lors-du-naufrage-d-une-embarcation-qui-tentait-une-traversee-clandestine-de-la-manche_8213108.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/migrants/au-moins-trois-personnes-sont-mortes-lors-du-naufrage-d-une-embarcation-qui-tentait-une-traversee-clandestine-de-la-manche_8213108.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

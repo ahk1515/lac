@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T10:36:01.309930+00:00",
+  "_id": "66dccc15b0d7",
+  "brut": {
+    "title": "REPORTAGE. \"C'est un peu l'effervescence\" : à Metz, la venue du pape est très attendue",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. \"C'est un peu l'effervescence\" : à Metz, la venue du pape est très attendue"
+    },
+    "summary": "Après trois jours passés en France, le pape est attendu à Metz lundi. Il doit tenir une messe devant 12 000 personnes dans l'après-midi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Après trois jours passés en France, le pape est attendu à Metz lundi. Il doit tenir une messe devant 12 000 personnes dans l'après-midi."
+    },
+    "published": "Mon, 28 Sep 2026 08:22:57 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      6,
+      22,
+      57,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-c-est-un-peu-l-effervescence-a-metz-la-venue-du-pape-est-tres-attendue_8212880.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/k3Hutjogsm5rujD3u6gvWU5zm-k/0x566:4080x2861/432x243/filters:format(jpg)/2026/09/28/6aba0f84d764d496495199.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-c-est-un-peu-l-effervescence-a-metz-la-venue-du-pape-est-tres-attendue_8212880.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-c-est-un-peu-l-effervescence-a-metz-la-venue-du-pape-est-tres-attendue_8212880.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

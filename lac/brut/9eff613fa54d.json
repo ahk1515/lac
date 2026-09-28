@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T10:36:01.307866+00:00",
+  "_id": "9eff613fa54d",
+  "brut": {
+    "title": "Des Rafale ont escorté l'avion du pape avant son arrivée à Metz",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des Rafale ont escorté l'avion du pape avant son arrivée à Metz"
+    },
+    "summary": "Des Rafale ont escorté l'avion du pape entre Lourdes et Metz. Le correspondant permanent de France Télévisions en Italie et pour le Vatican, Paul-Luc Monnier, a filmé ce spectacle depuis son siège.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des Rafale ont escorté l'avion du pape entre Lourdes et Metz. Le correspondant permanent de France Télévisions en Italie et pour le Vatican, Paul-Luc Monnier, a filmé ce spectacle depuis son siège."
+    },
+    "published": "Mon, 28 Sep 2026 09:49:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      7,
+      49,
+      42,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/des-rafale-ont-escorte-l-avion-du-pape-avant-son-arrivee-a-metz_8213018.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/4_c54KfKC4r_TmyLPYQEKeZtwz4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/28/6aba1c02b0d54428593593.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/des-rafale-ont-escorte-l-avion-du-pape-avant-son-arrivee-a-metz_8213018.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/des-rafale-ont-escorte-l-avion-du-pape-avant-son-arrivee-a-metz_8213018.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
