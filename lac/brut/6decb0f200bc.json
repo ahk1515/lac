@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T19:16:26.827268+00:00",
+  "_id": "6decb0f200bc",
+  "brut": {
+    "title": "Un drone russe endommage un poste-frontière ukrainien près de la Pologne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un drone russe endommage un poste-frontière ukrainien près de la Pologne"
+    },
+    "summary": "La frappe de drone n'a fait aucun blessé, selon les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La frappe de drone n'a fait aucun blessé, selon les autorités."
+    },
+    "published": "Mon, 28 Sep 2026 20:17:27 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      18,
+      17,
+      27,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/XAMVyN6EqNtquzdjN90M4x7W_AE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/28/6abaac344a206644645969.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

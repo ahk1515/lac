@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T19:16:26.319352+00:00",
+  "_id": "6abf0b41859a",
+  "brut": {
+    "title": "En Inde, un scandale secoue la commission électorale et jette le doute sur les derniers scrutins",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Inde, un scandale secoue la commission électorale et jette le doute sur les derniers scrutins"
+    },
+    "published": "Mon, 28 Sep 2026 18:45:48 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      16,
+      45,
+      48,
+      0,
+      271,
+      0
+    ],
+    "updated": "Mon, 28 Sep 2026 19:24:51 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      28,
+      17,
+      24,
+      51,
+      0,
+      271,
+      0
+    ],
+    "summary": "Quelque 130 millions de personnes auraient été radiées des listes électorales lors d’un processus de révision. L’opposition ainsi que le Parti du peuple cafard, qui avait arraché en juillet la démission du ministre de l’éducation, réclament la démission du président de la commission électorale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quelque 130 millions de personnes auraient été radiées des listes électorales lors d’un processus de révision. L’opposition ainsi que le Parti du peuple cafard, qui avait arraché en juillet la démission du ministre de l’éducation, réclament la démission du président de la commission électorale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/28/en-inde-un-scandale-secoue-la-commission-electorale-et-jette-le-doute-sur-les-derniers-scrutins_6785095_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/28/en-inde-un-scandale-secoue-la-commission-electorale-et-jette-le-doute-sur-les-derniers-scrutins_6785095_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/28/en-inde-un-scandale-secoue-la-commission-electorale-et-jette-le-doute-sur-les-derniers-scrutins_6785095_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/263/0/4770/2385/644/322/60/0/7dc5e3d_ftp-1-mig4deuecdot-5205996-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un militant du Congrès de la jeunesse indienne (IYC) brandit une pancarte lors d’une manifestation contre le président de la commission électorale indienne, Gyanesh Kumar, pour dénoncer des irrégularités électorales présumées dans le cadre de la « révision intensive spéciale » des listes électorales, à New Delhi, le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAJJAD HUSSAIN/AFP"
+      }
+    ],
+    "credit": "SAJJAD HUSSAIN/AFP"
+  }
+}

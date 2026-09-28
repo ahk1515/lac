@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T19:16:26.320401+00:00",
+  "_id": "8439ca930c6c",
+  "brut": {
+    "title": "Kiev : les images des dégâts à la suite de la frappe contre une clinique dans le centre de la capitale ukrainienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Kiev : les images des dégâts à la suite de la frappe contre une clinique dans le centre de la capitale ukrainienne"
+    },
+    "published": "Mon, 28 Sep 2026 16:46:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      14,
+      46,
+      14,
+      0,
+      271,
+      0
+    ],
+    "summary": "La vidéo filmée par le correspondant du « Monde » à Kiev montrent le bâtiment en feu. Le même jour, une autre frappe russe a touché l’Académie des sciences dans la capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La vidéo filmée par le correspondant du « Monde » à Kiev montrent le bâtiment en feu. Le même jour, une autre frappe russe a touché l’Académie des sciences dans la capitale."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/09/28/kiev-les-images-des-degats-a-la-suite-de-la-frappe-contre-une-clinique-dans-le-centre-de-la-capitale-ukrainienne_6785070_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/09/28/kiev-les-images-des-degats-a-la-suite-de-la-frappe-contre-une-clinique-dans-le-centre-de-la-capitale-ukrainienne_6785070_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/09/28/kiev-les-images-des-degats-a-la-suite-de-la-frappe-contre-une-clinique-dans-le-centre-de-la-capitale-ukrainienne_6785070_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/173/0/576/288/644/322/60/0/bee94a2_upload-1-9r19pl7tsbmn-vid-20260928-wa0000-mp4-00-00-39-03-still001.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une frappe russe a atteint le 28 septembre 2026 un bâtiment du réseau médical privé Dobrobut, dans le centre de Kiev."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Thomas d’Istria"
+      }
+    ],
+    "credit": "Thomas d’Istria"
+  }
+}

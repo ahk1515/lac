@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T19:16:26.320685+00:00",
+  "_id": "5dc226573d34",
+  "brut": {
+    "title": "Ethiopie : les forces fédérales annoncent la prise d’Alamata, ville importante à l’intérieur du territoire du Tigré",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ethiopie : les forces fédérales annoncent la prise d’Alamata, ville importante à l’intérieur du territoire du Tigré"
+    },
+    "published": "Mon, 28 Sep 2026 16:07:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      14,
+      7,
+      20,
+      0,
+      271,
+      0
+    ],
+    "updated": "Mon, 28 Sep 2026 16:35:02 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      28,
+      14,
+      35,
+      2,
+      0,
+      271,
+      0
+    ],
+    "summary": "Après plusieurs mois de tensions, les combats ont repris le 23 septembre entre les autorités fédérales et le Front de libération du peuple du Tigré, formation politique qui dirige illégalement l’Etat régional du Tigré.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après plusieurs mois de tensions, les combats ont repris le 23 septembre entre les autorités fédérales et le Front de libération du peuple du Tigré, formation politique qui dirige illégalement l’Etat régional du Tigré."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/28/en-ethiopie-les-forces-federales-ont-pris-une-premiere-localite-importante-au-tigre_6785065_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/28/en-ethiopie-les-forces-federales-ont-pris-une-premiere-localite-importante-au-tigre_6785065_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/28/en-ethiopie-les-forces-federales-ont-pris-une-premiere-localite-importante-au-tigre_6785065_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/576/0/3500/1750/644/322/60/0/3731cb0_upload-1-mkcvcazz6xkb-000-c93x29e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des combattants du Front populaire de libération du Tigré, à Makalé, la capitale de la région du Tigré, en Ethiopie, le 30 juin 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YASUYOSHI CHIBA/AFP"
+      }
+    ],
+    "credit": "YASUYOSHI CHIBA/AFP"
+  }
+}

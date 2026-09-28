@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T19:16:26.319192+00:00",
+  "_id": "da4080a0bd16",
+  "brut": {
+    "title": "EN DIRECT, voyage du pape à Metz : Léon XIV a quitté la France, mettant fin à son voyage apostolique de quatre jours",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, voyage du pape à Metz : Léon XIV a quitté la France, mettant fin à son voyage apostolique de quatre jours"
+    },
+    "published": "Mon, 28 Sep 2026 19:25:36 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      17,
+      25,
+      36,
+      0,
+      271,
+      0
+    ],
+    "updated": "Mon, 28 Sep 2026 19:54:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      28,
+      17,
+      54,
+      29,
+      0,
+      271,
+      0
+    ],
+    "summary": "Désormais dans un avion pour Rome, le pape tiendra une conférence de presse avant son arrivée. Notre journaliste rapportera ici ses principaux « propos ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Désormais dans un avion pour Rome, le pape tiendra une conférence de presse avant son arrivée. Notre journaliste rapportera ici ses principaux « propos »."
+    },
+    "id": "https://www.lemonde.fr/societe/live/2026/09/28/en-direct-voyage-du-pape-a-metz-leon-xiv-a-fait-les-derniers-pas-de-sa-visite-en-france-et-s-envole-vers-rome_6784945_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/live/2026/09/28/en-direct-voyage-du-pape-a-metz-leon-xiv-a-fait-les-derniers-pas-de-sa-visite-en-france-et-s-envole-vers-rome_6784945_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/live/2026/09/28/en-direct-voyage-du-pape-a-metz-leon-xiv-a-fait-les-derniers-pas-de-sa-visite-en-france-et-s-envole-vers-rome_6784945_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/685/0/1280/640/644/322/60/0/d4c32f6_upload-1-wvmetl2xqiaz-whatsapp-image-2026-09-28-at-19-38-43-2.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A l’aéroport de Metz-Nancy-Lorraine, à Goin (Moselle), le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+      }
+    ],
+    "credit": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+  }
+}

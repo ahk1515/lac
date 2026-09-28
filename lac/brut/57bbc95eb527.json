@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T19:16:26.829537+00:00",
+  "_id": "57bbc95eb527",
+  "brut": {
+    "title": "Pape Léon XIV à Metz : le pape appelle à préserver la paix en Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pape Léon XIV à Metz : le pape appelle à préserver la paix en Europe"
+    },
+    "summary": "À Metz (Moselle), le pape Léon XIV a entamé la dernière étape de son voyage en France. Après une arrivée escortée par des Rafale de l'armée française, il a rendu hommage à Robert Schuman et appelé à se méfier des \"illusions du réarmement\". Emmanuel Macron, présent à ses côtés, a également évoqué la guerre en Ukraine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Metz (Moselle), le pape Léon XIV a entamé la dernière étape de son voyage en France. Après une arrivée escortée par des Rafale de l'armée française, il a rendu hommage à Robert Schuman et appelé à se méfier des \"illusions du réarmement\". Emmanuel Macron, présent à ses côtés, a également évoqué la guerre en Ukraine."
+    },
+    "published": "Mon, 28 Sep 2026 13:31:21 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      11,
+      31,
+      21,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/pape-leon-xiv-a-metz-le-pape-appelle-a-preserver-la-paix-en-europe_8213348.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/pJQeHyVdPqY2zvbr3LFGNXn0Y_M/0x14:827x479/432x243/filters:format(jpg)/2026/09/28/6aba4fe805d69081643268.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/pape-leon-xiv-a-metz-le-pape-appelle-a-preserver-la-paix-en-europe_8213348.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/pape-leon-xiv-a-metz-le-pape-appelle-a-preserver-la-paix-en-europe_8213348.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

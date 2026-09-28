@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-28T19:16:26.827135+00:00",
+  "_id": "ee3b5ee9c5b5",
+  "brut": {
+    "title": "Léon XIV reparti, qu'en restera-t-il ?... Les informés de franceinfo du lundi 28 septembre 2026",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Léon XIV reparti, qu'en restera-t-il ?... Les informés de franceinfo du lundi 28 septembre 2026"
+    },
+    "summary": "Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect."
+    },
+    "published": "Mon, 28 Sep 2026 20:46:59 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      18,
+      46,
+      59,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/leon-xiv-reparti-qu-en-restera-t-il-les-informes-de-franceinfo-du-lundi-28-septembre-2026_8191310.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Dgzd5zMyWVWRLV-B1mwYxqSR-gw/0x0:640x360/432x243/filters:format(jpg)/2026/09/28/6abaa81473682588536716.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/leon-xiv-reparti-qu-en-restera-t-il-les-informes-de-franceinfo-du-lundi-28-septembre-2026_8191310.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/leon-xiv-reparti-qu-en-restera-t-il-les-informes-de-franceinfo-du-lundi-28-septembre-2026_8191310.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
