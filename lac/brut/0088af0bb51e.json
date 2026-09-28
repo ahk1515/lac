@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T03:48:45.350235+00:00",
+  "_id": "0088af0bb51e",
+  "brut": {
+    "title": "Visite du pape à Metz : l’espoir que Léon XIV, venu célébrer la paix et l’Europe, aide à redorer l’image de la ville",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Visite du pape à Metz : l’espoir que Léon XIV, venu célébrer la paix et l’Europe, aide à redorer l’image de la ville"
+    },
+    "published": "Mon, 28 Sep 2026 05:00:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      3,
+      0,
+      17,
+      0,
+      271,
+      0
+    ],
+    "updated": "Mon, 28 Sep 2026 05:12:52 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      28,
+      3,
+      12,
+      52,
+      0,
+      271,
+      0
+    ],
+    "summary": "La cité de 120 000 habitants attend entre 50 000 et 100 000 personnes à l’occasion de la visite papale, lundi, dans la ville de Robert Schuman, figure de la réconciliation franco-allemande et de la construction européenne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La cité de 120 000 habitants attend entre 50 000 et 100 000 personnes à l’occasion de la visite papale, lundi, dans la ville de Robert Schuman, figure de la réconciliation franco-allemande et de la construction européenne."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/28/visite-du-pape-a-metz-l-espoir-que-leon-xiv-venu-celebrer-la-paix-et-l-europe-aide-a-redorer-l-image-de-la-ville_6784765_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/28/visite-du-pape-a-metz-l-espoir-que-leon-xiv-venu-celebrer-la-paix-et-l-europe-aide-a-redorer-l-image-de-la-ville_6784765_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/28/visite-du-pape-a-metz-l-espoir-que-leon-xiv-venu-celebrer-la-paix-et-l-europe-aide-a-redorer-l-image-de-la-ville_6784765_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/16/968/0/6048/3024/644/322/60/0/50ef6d5_ftp-1-yge447iqj5an-cd5d1e00281b48a6904e400eac506057-0-ea8c03e7142f4e7d92726388612f1ea8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une banderole annonce la prochaine visite du pape Léon XIV à Metz (Moselle), le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Pascal Bastien/AP"
+      }
+    ],
+    "credit": "Pascal Bastien/AP"
+  }
+}

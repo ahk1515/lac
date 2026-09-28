@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T03:48:45.350338+00:00",
+  "_id": "4f3ae2592e88",
+  "brut": {
+    "title": "El Niño, anatomie d’un monstre climatique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "El Niño, anatomie d’un monstre climatique"
+    },
+    "published": "Mon, 28 Sep 2026 05:00:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      3,
+      0,
+      17,
+      0,
+      271,
+      0
+    ],
+    "summary": "Capable de provoquer des pluies diluviennes et des sécheresses intenses en divers endroits du globe, le phénomène El Niño inquiète. Et celui que nous traversons actuellement pourrait être le plus puissant jamais enregistré. Dans ce podcast, Perrine Mouterde, journaliste au « Monde », aide à comprendre cette anomalie climatique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Capable de provoquer des pluies diluviennes et des sécheresses intenses en divers endroits du globe, le phénomène El Niño inquiète. Et celui que nous traversons actuellement pourrait être le plus puissant jamais enregistré. Dans ce podcast, Perrine Mouterde, journaliste au « Monde », aide à comprendre cette anomalie climatique."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/0/0/1800/900/644/322/60/0/247bc10_upload-1-az5jlu0haup7-illu-el-nino-sans.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Carte du monde représentant El Niño dans l’océan Pacifique. Infographie : Le Monde"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Infographie : Le Monde"
+      }
+    ],
+    "credit": "Infographie : Le Monde"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-28T03:48:45.350505+00:00",
+  "_id": "3973652f2cbb",
+  "brut": {
+    "title": "Au Kenya, la poésie comme arme de persuasion politique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Kenya, la poésie comme arme de persuasion politique"
+    },
+    "published": "Mon, 28 Sep 2026 05:00:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      3,
+      0,
+      10,
+      0,
+      271,
+      0
+    ],
+    "summary": "Une génération d’artistes adopte le « spoken word », poésie parlée, pour évoquer leurs difficultés. Cet art oratoire insuffle la contestation tout autant qu’il s’en inspire, à moins d’un an d’un scrutin présidentiel déjà très contesté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une génération d’artistes adopte le « spoken word », poésie parlée, pour évoquer leurs difficultés. Cet art oratoire insuffle la contestation tout autant qu’il s’en inspire, à moins d’un an d’un scrutin présidentiel déjà très contesté."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/28/au-kenya-la-poesie-comme-arme-de-persuasion-politique_6784730_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/28/au-kenya-la-poesie-comme-arme-de-persuasion-politique_6784730_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/28/au-kenya-la-poesie-comme-arme-de-persuasion-politique_6784730_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/27/466/0/4200/2100/644/322/60/0/661f8b0_upload-1-wzmagxobm4dx-000-36gu8rt.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Willie Oeba, poète et militant des droits humains, récite des textes dans un bus de Nairobi, le 10 septembre 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TONY KARUMBA/AFP"
+      }
+    ],
+    "credit": "TONY KARUMBA/AFP"
+  }
+}
