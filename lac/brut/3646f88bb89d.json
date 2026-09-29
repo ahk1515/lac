@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T23:26:44.318797+00:00",
+  "_id": "3646f88bb89d",
+  "brut": {
+    "title": "En Espagne, Emmanuel Macron livre ses recettes contre la montée des \"extrêmes\" en Europe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, Emmanuel Macron livre ses recettes contre la montée des \"extrêmes\" en Europe"
+    },
+    "summary": "Le Président de la République fait le constat d'une fatigue démocratique sur le vieux continent et appelle à \"reprendre le contrôle\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Président de la République fait le constat d'une fatigue démocratique sur le vieux continent et appelle à \"reprendre le contrôle\"."
+    },
+    "published": "Tue, 29 Sep 2026 23:07:56 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      21,
+      7,
+      56,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/en-espagne-emmanuel-macron-livre-ses-recettes-contre-la-montee-des-extremes-en-europe_8215454.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/h0gmfTojSsUC8ts8Qz7HSon3_D0/0x53:1024x629/432x243/filters:format(jpg)/2026/09/29/6abc274807db1494312402.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/en-espagne-emmanuel-macron-livre-ses-recettes-contre-la-montee-des-extremes-en-europe_8215454.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/en-espagne-emmanuel-macron-livre-ses-recettes-contre-la-montee-des-extremes-en-europe_8215454.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

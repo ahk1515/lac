@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T23:26:43.813081+00:00",
+  "_id": "f61bda1f361f",
+  "brut": {
+    "title": "L’Algérie, principal pays de départ de migrants vers l’Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Algérie, principal pays de départ de migrants vers l’Espagne"
+    },
+    "published": "Tue, 29 Sep 2026 20:00:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      18,
+      0,
+      9,
+      1,
+      272,
+      0
+    ],
+    "summary": "Depuis le début de l’année 2026, les Algériens sont la troisième nationalité la plus représentée parmi les entrées clandestines en Europe, après les Bangladais et les Soudanais.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis le début de l’année 2026, les Algériens sont la troisième nationalité la plus représentée parmi les entrées clandestines en Europe, après les Bangladais et les Soudanais."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/29/l-algerie-principal-pays-de-depart-de-migrants-vers-l-espagne_6785682_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/29/l-algerie-principal-pays-de-depart-de-migrants-vers-l-espagne_6785682_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/29/l-algerie-principal-pays-de-depart-de-migrants-vers-l-espagne_6785682_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/1105/0/5385/2692/644/322/60/0/d934f7c_upload-1-j2ddm8hxlauc-000-83982cl.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des « pateras », principalement utilisées par les migrants sur la route maritime reliant l’Algérie aux îles Baléares, entassées dans un dépôt gouvernemental à Palma de Majorque (Espagne), le 6 novembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JAIME REINA/AFP"
+      }
+    ],
+    "credit": "JAIME REINA/AFP"
+  }
+}

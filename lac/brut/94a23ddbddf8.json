@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T23:26:43.812695+00:00",
+  "_id": "94a23ddbddf8",
+  "brut": {
+    "title": "A Gaza, sept personnes tuées par des tirs israéliens, dont un responsable du Hamas, annonce la défense civile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, sept personnes tuées par des tirs israéliens, dont un responsable du Hamas, annonce la défense civile"
+    },
+    "published": "Tue, 29 Sep 2026 20:57:58 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      18,
+      57,
+      58,
+      1,
+      272,
+      0
+    ],
+    "updated": "Tue, 29 Sep 2026 21:33:29 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      29,
+      19,
+      33,
+      29,
+      1,
+      272,
+      0
+    ],
+    "summary": "Les Brigades Ezzedine Al-Qassam, la branche armée du Hamas, ont fait savoir que cet homme était l’un des commandants présents dans la salle des opérations lors de l’attaque menée par le Hamas contre Israël le 7 octobre 2023.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Brigades Ezzedine Al-Qassam, la branche armée du Hamas, ont fait savoir que cet homme était l’un des commandants présents dans la salle des opérations lors de l’attaque menée par le Hamas contre Israël le 7 octobre 2023."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/a-gaza-six-personnes-tuees-par-des-tirs-israeliens-dont-un-responsable-du-hamas-annonce-la-defense-civile_6785687_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/a-gaza-six-personnes-tuees-par-des-tirs-israeliens-dont-un-responsable-du-hamas-annonce-la-defense-civile_6785687_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/a-gaza-six-personnes-tuees-par-des-tirs-israeliens-dont-un-responsable-du-hamas-annonce-la-defense-civile_6785687_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/285/0/3420/1710/644/322/60/0/50d9d4f_ftp-1-4fy9nexfgnoq-2026-09-29t125352z-949493834-rc2wsnadklxf-rtrmadp-3-israel-palestinians-gaza.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Pendant les funérailles d’Izz Al-Din Al-Beik, un des commandants des Brigades Ezzedine Al-Qassam, tué à Gaza, le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dawoud Abu Alkas / REUTERS"
+      }
+    ],
+    "credit": "Dawoud Abu Alkas / REUTERS"
+  }
+}

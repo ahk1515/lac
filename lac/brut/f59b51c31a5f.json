@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T23:26:44.319641+00:00",
+  "_id": "f59b51c31a5f",
+  "brut": {
+    "title": "Plus d'un milliard de personnes utilisent ChatGPT chaque semaine dans le monde, selon OpenAI",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus d'un milliard de personnes utilisent ChatGPT chaque semaine dans le monde, selon OpenAI"
+    },
+    "summary": "L'entreprise américaine a annoncé mardi le lancement d'un nouveau modèle d'intelligence artificielle cinq fois moins cher.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'entreprise américaine a annoncé mardi le lancement d'un nouveau modèle d'intelligence artificielle cinq fois moins cher."
+    },
+    "published": "Tue, 29 Sep 2026 19:59:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      17,
+      59,
+      6,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/internet/intelligence-artificielle/plus-d-un-milliard-de-personnes-utilisent-chatgpt-chaque-semaine-dans-le-monde-selon-openai_8215331.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9D7JfEsphmKVMeqcru30PaU6SvM/0x508:5000x3320/432x243/filters:format(jpg)/2026/09/29/6abbf806e9cf9224090376.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/plus-d-un-milliard-de-personnes-utilisent-chatgpt-chaque-semaine-dans-le-monde-selon-openai_8215331.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/internet/intelligence-artificielle/plus-d-un-milliard-de-personnes-utilisent-chatgpt-chaque-semaine-dans-le-monde-selon-openai_8215331.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T23:26:44.319181+00:00",
+  "_id": "5387d01d6165",
+  "brut": {
+    "title": "Au Maroc, Fatima Ezzahra El Mansouri devient la première femme nommée cheffe du gouvernement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Maroc, Fatima Ezzahra El Mansouri devient la première femme nommée cheffe du gouvernement"
+    },
+    "summary": "Avocate, elle était devenue maire de Marrakech à l'âge de 33 ans et doit maintenant former une coalition gouvernementale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Avocate, elle était devenue maire de Marrakech à l'âge de 33 ans et doit maintenant former une coalition gouvernementale."
+    },
+    "published": "Tue, 29 Sep 2026 22:18:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      20,
+      18,
+      35,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/maroc/au-maroc-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement_8215427.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/NwXjI3PQnB7DkVCHD18s1ptcfLI/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/29/6abc1c662bba4242850288.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/maroc/au-maroc-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement_8215427.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/maroc/au-maroc-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement_8215427.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

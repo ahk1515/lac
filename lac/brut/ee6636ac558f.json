@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T23:26:44.319332+00:00",
+  "_id": "ee6636ac558f",
+  "brut": {
+    "title": "De nouvelles images satellite montrent l’ampleur des destructions à Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De nouvelles images satellite montrent l’ampleur des destructions à Gaza"
+    },
+    "summary": "Des images satellite mises à jour par Google Earth montrent l'ampleur des destructions dans la bande de Gaza. Selon l’ONU, en octobre 2025, environ 81% des infrastructures du territoire palestinien étaient endommagées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des images satellite mises à jour par Google Earth montrent l'ampleur des destructions dans la bande de Gaza. Selon l’ONU, en octobre 2025, environ 81% des infrastructures du territoire palestinien étaient endommagées."
+    },
+    "published": "Tue, 29 Sep 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      20,
+      0,
+      2,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/de-nouvelles-images-satellite-montrent-l-ampleur-des-destructions-a-gaza_8215274.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/rkQF3IM-ChWyobKo5EDVxXhGGEQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/29/6abbe50e78825738667103.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/de-nouvelles-images-satellite-montrent-l-ampleur-des-destructions-a-gaza_8215274.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/de-nouvelles-images-satellite-montrent-l-ampleur-des-destructions-a-gaza_8215274.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
