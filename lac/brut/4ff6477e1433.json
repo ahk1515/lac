@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T10:24:51.326240+00:00",
+  "_id": "4ff6477e1433",
+  "brut": {
+    "title": "Léon XIV l’Européen s’oppose au repli identitaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Léon XIV l’Européen s’oppose au repli identitaire"
+    },
+    "published": "Tue, 29 Sep 2026 11:30:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      9,
+      30,
+      10,
+      1,
+      272,
+      0
+    ],
+    "summary": "A Metz, dernière étape de son voyage en France, le pape a défendu les valeurs de liberté, d’égalité, de démocratie, de multilatéralisme qui ont présidé à la création de l’Union, et rappelé le « devoir légal de secours et d’assistance » aux étrangers cherchant refuge sur le continent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Metz, dernière étape de son voyage en France, le pape a défendu les valeurs de liberté, d’égalité, de démocratie, de multilatéralisme qui ont présidé à la création de l’Union, et rappelé le « devoir légal de secours et d’assistance » aux étrangers cherchant refuge sur le continent."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/09/29/leon-xiv-l-europeen-s-oppose-au-repli-identitaire_6785583_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/09/29/leon-xiv-l-europeen-s-oppose-au-repli-identitaire_6785583_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/09/29/leon-xiv-l-europeen-s-oppose-au-repli-identitaire_6785583_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/1396/0/6590/3295/644/322/60/0/a11fa66_upload-1-y4tqurh0wdu0-kzihnioglu-pol-metz-pape-leon-xiv-28092026-130.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le pape Léon XIV à l’aéroport de Metz (Moselle), le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+      }
+    ],
+    "credit": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+  }
+}

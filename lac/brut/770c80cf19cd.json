@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T10:24:51.326829+00:00",
+  "_id": "770c80cf19cd",
+  "brut": {
+    "title": "Mali : Amnesty International accuse l’armée et le Groupe Wagner de « crimes de guerre »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Mali : Amnesty International accuse l’armée et le Groupe Wagner de « crimes de guerre »"
+    },
+    "published": "Tue, 29 Sep 2026 10:40:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      8,
+      40,
+      42,
+      1,
+      272,
+      0
+    ],
+    "summary": "Les forces armées maliennes et les paramilitaires russes ont été plusieurs fois accusés d’avoir tué des civils lors d’opérations ces dernières années.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les forces armées maliennes et les paramilitaires russes ont été plusieurs fois accusés d’avoir tué des civils lors d’opérations ces dernières années."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/29/mali-amnesty-international-accuse-l-armee-et-le-groupe-wagner-de-crimes-de-guerre_6785575_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/29/mali-amnesty-international-accuse-l-armee-et-le-groupe-wagner-de-crimes-de-guerre_6785575_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/29/mali-amnesty-international-accuse-l-armee-et-le-groupe-wagner-de-crimes-de-guerre_6785575_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/104/0/6000/3000/644/322/60/0/4227338_upload-1-qdxtkwpd1xu7-000-b2ty6y2.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un cratère provoqué par un bombardement aérien des forces armées maliennes (FAMA), à Kidal (Mali), le 14 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

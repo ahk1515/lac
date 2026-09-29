@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T10:24:51.326706+00:00",
+  "_id": "355ca0cff2cf",
+  "brut": {
+    "title": "Washington interdit l’importation de certains produits canadiens, dont des alcools",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Washington interdit l’importation de certains produits canadiens, dont des alcools"
+    },
+    "published": "Tue, 29 Sep 2026 10:44:37 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      8,
+      44,
+      37,
+      1,
+      272,
+      0
+    ],
+    "summary": "La Maison Blanche avait annoncé cette mesure le 8 septembre, après que le Canada a imposé de nouveaux droits de douane sur des produits américains, en réponse aux surtaxes mises en place par Washington à l’encontre de ses propres exportations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Maison Blanche avait annoncé cette mesure le 8 septembre, après que le Canada a imposé de nouveaux droits de douane sur des produits américains, en réponse aux surtaxes mises en place par Washington à l’encontre de ses propres exportations."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/washington-interdit-l-importation-de-certains-produits-canadiens-dont-des-alcools_6785576_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/washington-interdit-l-importation-de-certains-produits-canadiens-dont-des-alcools_6785576_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/washington-interdit-l-importation-de-certains-produits-canadiens-dont-des-alcools_6785576_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/18/1270/0/8064/4032/644/322/60/0/c4989a5_ftp-1-vrnxdjvmiz2o-5869332-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des camions traversent le pont de la Paix, entre le Canada et les Etats-Unis, à Fort Erié (Ontario, Canada), le 18 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "COLE BURSTON/AFP"
+      }
+    ],
+    "credit": "COLE BURSTON/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T10:24:51.763411+00:00",
+  "_id": "dcc07f6706ab",
+  "brut": {
+    "title": "Une start-up américaine crée un robot-garagiste qui change les pneus des voitures",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une start-up américaine crée un robot-garagiste qui change les pneus des voitures"
+    },
+    "summary": "À San Francisco, la start-up PitPro a mis au point un robot capable de remplacer les pneumatiques des véhicules. Un gain de temps et d’énergie pour les mécaniciens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À San Francisco, la start-up PitPro a mis au point un robot capable de remplacer les pneumatiques des véhicules. Un gain de temps et d’énergie pour les mécaniciens."
+    },
+    "published": "Tue, 29 Sep 2026 12:00:11 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      10,
+      0,
+      11,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/une-start-up-americaine-cree-un-robot-garagiste-qui-change-les-pneus-des-voitures_8192750.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/lP1qQWNJ7WT0aoGbiHfOYCiCUWE/0x110:2120x1303/432x243/filters:format(jpg)/2026/09/29/6abb64b52c886790111362.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/une-start-up-americaine-cree-un-robot-garagiste-qui-change-les-pneus-des-voitures_8192750.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/une-start-up-americaine-cree-un-robot-garagiste-qui-change-les-pneus-des-voitures_8192750.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

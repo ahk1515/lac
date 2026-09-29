@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T10:24:51.326562+00:00",
+  "_id": "0f2736fb5716",
+  "brut": {
+    "title": "La Corée du Sud accuse la Corée du Nord après l’explosion de mines en zone démilitarisée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Corée du Sud accuse la Corée du Nord après l’explosion de mines en zone démilitarisée"
+    },
+    "published": "Tue, 29 Sep 2026 11:06:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      9,
+      6,
+      38,
+      1,
+      272,
+      0
+    ],
+    "updated": "Tue, 29 Sep 2026 11:09:01 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      29,
+      9,
+      9,
+      1,
+      1,
+      272,
+      0
+    ],
+    "summary": "Trois officiers sud-coréens ont été blessés lors de l’explosion de mines dans la zone démilitarisée (DMZ) le 21 septembre. L’un d’eux a perdu un pied.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois officiers sud-coréens ont été blessés lors de l’explosion de mines dans la zone démilitarisée (DMZ) le 21 septembre. L’un d’eux a perdu un pied."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/la-coree-du-sud-accuse-pyongyang-apres-l-explosion-de-mines-en-zone-demilitarisee_6785581_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/la-coree-du-sud-accuse-pyongyang-apres-l-explosion-de-mines-en-zone-demilitarisee_6785581_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/la-coree-du-sud-accuse-pyongyang-apres-l-explosion-de-mines-en-zone-demilitarisee_6785581_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/461/0/4147/2073/644/322/60/0/4f7f602_ftp-1-ihmkwnm3c71n-47252099f16b4c8fa146ae7c2b929b38-1-b6856f65307a4530b8f8fd66ee63a502.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats de l’armée sud-coréenne patrouillent à Paju, en Corée du Sud, près de la frontière avec la Corée du Nord, le 18 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ahn Young-joon/AP"
+      }
+    ],
+    "credit": "Ahn Young-joon/AP"
+  }
+}

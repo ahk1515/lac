@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T10:24:51.325827+00:00",
+  "_id": "5db131492af0",
+  "brut": {
+    "title": "La Malaisie commence à renvoyer des ressortissants birmans, l’ONU se dit « inquiète »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Malaisie commence à renvoyer des ressortissants birmans, l’ONU se dit « inquiète »"
+    },
+    "published": "Tue, 29 Sep 2026 12:16:59 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      10,
+      16,
+      59,
+      1,
+      272,
+      0
+    ],
+    "summary": "Le Haut-Commissariat des Nations unies pour les réfugiés (HCR) s’est dit « inquiet » du renvoi entamé mardi par la Malaisie de 1 500 Birmans vers leur pays, où « les conditions actuelles ne permettent pas des retours sûrs, dignes et durables ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Haut-Commissariat des Nations unies pour les réfugiés (HCR) s’est dit « inquiet » du renvoi entamé mardi par la Malaisie de 1 500 Birmans vers leur pays, où « les conditions actuelles ne permettent pas des retours sûrs, dignes et durables »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/la-malaisie-commence-a-renvoyer-des-ressortissants-birmans-l-onu-se-dit-inquiete_6785596_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/la-malaisie-commence-a-renvoyer-des-ressortissants-birmans-l-onu-se-dit-inquiete_6785596_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/la-malaisie-commence-a-renvoyer-des-ressortissants-birmans-l-onu-se-dit-inquiete_6785596_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/268/0/3830/1915/644/322/60/0/ce38237_ftp-1-qqrmhgixyguq-2026-09-29t040620z-179008639-rc2psnazordy-rtrmadp-3-malaysia-myanmar-refugees.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des ressortissants birmans avant leur rapatriement, à Lumut (Malaisie), le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hasnoor Hussain/REUTERS"
+      }
+    ],
+    "credit": "Hasnoor Hussain/REUTERS"
+  }
+}

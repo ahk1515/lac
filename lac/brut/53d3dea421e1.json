@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T10:24:51.327579+00:00",
+  "_id": "53d3dea421e1",
+  "brut": {
+    "title": "« En Afrique, il est encore temps d’éviter le modèle du tout-voiture »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« En Afrique, il est encore temps d’éviter le modèle du tout-voiture »"
+    },
+    "published": "Tue, 29 Sep 2026 07:00:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      5,
+      0,
+      6,
+      1,
+      272,
+      0
+    ],
+    "summary": "En misant sur des projets technologiques calqués sur le modèle de mobilité des pays du Nord, les métropoles africaines aggravent leur étalement urbain au lieu d’y remédier, déplorent, dans une tribune au « Monde », les géographes Pape Sakho et Momar Diongue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En misant sur des projets technologiques calqués sur le modèle de mobilité des pays du Nord, les métropoles africaines aggravent leur étalement urbain au lieu d’y remédier, déplorent, dans une tribune au « Monde », les géographes Pape Sakho et Momar Diongue."
+    },
+    "id": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/29/en-afrique-il-est-encore-temps-d-eviter-le-modele-du-tout-voiture_6785559_6065879.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/29/en-afrique-il-est-encore-temps-d-eviter-le-modele-du-tout-voiture_6785559_6065879.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/29/en-afrique-il-est-encore-temps-d-eviter-le-modele-du-tout-voiture_6785559_6065879.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/886/0/7728/3864/644/322/60/0/9c964d2_upload-1-s2qpem3ebupu-000-36x93xx.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un bus du réseau Bus Rapid Transit (BRT), à Dakar, le 5 février 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "RICCI SHRYOCK/AFP"
+      }
+    ],
+    "credit": "RICCI SHRYOCK/AFP"
+  }
+}

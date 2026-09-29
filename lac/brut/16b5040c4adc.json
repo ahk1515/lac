@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T10:24:51.764838+00:00",
+  "_id": "16b5040c4adc",
+  "brut": {
+    "title": "Les Suisses rejettent la proposition de durcir leur neutralité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Suisses rejettent la proposition de durcir leur neutralité"
+    },
+    "summary": "Les Suisses ont massivement refusé de durcir la neutralité inscrite dans la Constitution du pays. Récemment, la Suisse a adopté des sanctions contre la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Suisses ont massivement refusé de durcir la neutralité inscrite dans la Constitution du pays. Récemment, la Suisse a adopté des sanctions contre la Russie."
+    },
+    "published": "Tue, 29 Sep 2026 07:55:19 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      5,
+      55,
+      19,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/les-suisses-rejettent-la-proposition-de-durcir-leur-neutralite_8214371.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/4L1cnsTIbx9FFwSm-aUo7U5np8k/181x0:1474x727/432x243/filters:format(jpg)/2026/09/29/6abb4ff93a8d8338224256.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/les-suisses-rejettent-la-proposition-de-durcir-leur-neutralite_8214371.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/les-suisses-rejettent-la-proposition-de-durcir-leur-neutralite_8214371.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

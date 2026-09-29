@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T10:24:51.763652+00:00",
+  "_id": "eb2d4ca7f85d",
+  "brut": {
+    "title": "Visite de Léon XIV en France : le pape revient sur quatre jours de rencontres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Visite de Léon XIV en France : le pape revient sur quatre jours de rencontres"
+    },
+    "summary": "Dans l'avion du retour, Léon XIV revient sur son séjour de quatre jours en France. Le pape évoque notamment les jeunes, les violences sexuelles au sein de l'Église et la guerre en Ukraine. Il livre également ses impressions sur ce voyage, marqué par plusieurs rencontres avec les fidèles, de Lourdes à Paris.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dans l'avion du retour, Léon XIV revient sur son séjour de quatre jours en France. Le pape évoque notamment les jeunes, les violences sexuelles au sein de l'Église et la guerre en Ukraine. Il livre également ses impressions sur ce voyage, marqué par plusieurs rencontres avec les fidèles, de Lourdes à Paris."
+    },
+    "published": "Tue, 29 Sep 2026 11:59:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      9,
+      59,
+      20,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-de-leon-xiv-en-france-le-pape-revient-sur-quatre-jours-de-rencontres_8214695.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/iECJ9-sPgmvk0D4ZKqXrgOdsPLc/0x16:838x487/432x243/filters:format(jpg)/2026/09/29/6abb8b91ec070655782428.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-de-leon-xiv-en-france-le-pape-revient-sur-quatre-jours-de-rencontres_8214695.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-de-leon-xiv-en-france-le-pape-revient-sur-quatre-jours-de-rencontres_8214695.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

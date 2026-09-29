@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T10:24:51.328196+00:00",
+  "_id": "60844bc0c488",
+  "brut": {
+    "title": "Les Hongkongais confrontés à des attaques de chiens errants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Hongkongais confrontés à des attaques de chiens errants"
+    },
+    "published": "Tue, 29 Sep 2026 05:00:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      3,
+      0,
+      4,
+      1,
+      272,
+      0
+    ],
+    "summary": "Les défenseurs des chiens sauvages, la plupart du temps inoffensifs, dénoncent la présence croissante de canidés abandonnés plus agressifs car entraînés pour surveiller entrepôts et bâtiments industriels.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les défenseurs des chiens sauvages, la plupart du temps inoffensifs, dénoncent la présence croissante de canidés abandonnés plus agressifs car entraînés pour surveiller entrepôts et bâtiments industriels."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/les-hongkongais-confrontes-a-des-attaques-de-chiens-errants_6785443_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/les-hongkongais-confrontes-a-des-attaques-de-chiens-errants_6785443_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/les-hongkongais-confrontes-a-des-attaques-de-chiens-errants_6785443_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/23/1060/0/7277/3638/644/322/60/0/511b595_ftp-1-enbjfmj1lcfp-2026-09-23t044353z-608799423-rc2bonazkxel-rtrmadp-3-hongkong-dogs.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers et des agents du département de l’agriculture, de la pêche et de la conservation patrouillent pour capturer des chiens errants, à la suite d’une attaque mortelle, à Hongkong, le 22 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tyrone Siu/REUTERS"
+      }
+    ],
+    "credit": "Tyrone Siu/REUTERS"
+  }
+}
