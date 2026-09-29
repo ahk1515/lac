@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T00:11:53.125487+00:00",
+  "_id": "c2a10427c40e",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : fortes explosions entendues à Kiev visée par des missiles balistiques, selon l’armée de l’air ukrainienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : fortes explosions entendues à Kiev visée par des missiles balistiques, selon l’armée de l’air ukrainienne"
+    },
+    "published": "Tue, 29 Sep 2026 00:38:24 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      22,
+      38,
+      24,
+      0,
+      271,
+      0
+    ],
+    "summary": "D’après Volodymyr Zelensky, l’Académie nationale des sciences, une entreprise pharmaceutique et des stations-service ont déjà été touchées dans la journée, dans la capitale ukrainienne, ainsi qu’un centre d’affaires à Dnipro, faisant des victimes. L’Ukraine a aussi confirmé qu’un poste-frontière avait été endommagé par une frappe russe près de la Pologne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "D’après Volodymyr Zelensky, l’Académie nationale des sciences, une entreprise pharmaceutique et des stations-service ont déjà été touchées dans la journée, dans la capitale ukrainienne, ainsi qu’un centre d’affaires à Dnipro, faisant des victimes. L’Ukraine a aussi confirmé qu’un poste-frontière avait été endommagé par une frappe russe près de la Pologne."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-fortes-explosions-entendues-a-kiev-visee-par-des-missiles-balistiques-selon-l-armee-de-l-air-ukrainienne_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-fortes-explosions-entendues-a-kiev-visee-par-des-missiles-balistiques-selon-l-armee-de-l-air-ukrainienne_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-fortes-explosions-entendues-a-kiev-visee-par-des-missiles-balistiques-selon-l-armee-de-l-air-ukrainienne_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/263/0/8144/4072/644/322/60/0/ee51c8f_ftp-1-skyqmbnaq2y2-ef35a137c2ee4e309d5db435f3d9cb4c-2-625eac11d6524ab59335e6b6081516dc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant le bâtiment de l’Académie des sciences d’Ukraine, touché par un drone russe, dans le centre de Kiev, le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP"
+      }
+    ],
+    "credit": "Dan Bashakov/AP"
+  }
+}

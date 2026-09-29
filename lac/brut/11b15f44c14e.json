@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T00:11:53.497231+00:00",
+  "_id": "11b15f44c14e",
+  "brut": {
+    "title": "L'incendie d'une usine de feux d'artifice fait 14 morts en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incendie d'une usine de feux d'artifice fait 14 morts en Russie"
+    },
+    "summary": "L'incendie s'est déclaré dans le village de Kubrinsk, à environ 100 kilomètres au nord de Moscou, selon l'agence de presse TASS.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incendie s'est déclaré dans le village de Kubrinsk, à environ 100 kilomètres au nord de Moscou, selon l'agence de presse TASS."
+    },
+    "published": "Mon, 28 Sep 2026 22:49:29 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      20,
+      49,
+      29,
+      0,
+      271,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/l-incendie-d-une-usine-de-feux-d-artifice-fait-14-morts-en-russie_8214023.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/KW1SPGGUlRbXtdVJT5JUma5IGM8/0x46:1024x622/432x243/filters:format(jpg)/2026/09/28/6abad2bc9986e030015262.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/l-incendie-d-une-usine-de-feux-d-artifice-fait-14-morts-en-russie_8214023.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/l-incendie-d-une-usine-de-feux-d-artifice-fait-14-morts-en-russie_8214023.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

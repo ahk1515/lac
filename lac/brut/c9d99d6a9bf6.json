@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T00:11:53.125844+00:00",
+  "_id": "c9d99d6a9bf6",
+  "brut": {
+    "title": "Au Royaume-Uni, le flou persiste sur la nature du projet d’attentat présumé contre une base militaire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Royaume-Uni, le flou persiste sur la nature du projet d’attentat présumé contre une base militaire"
+    },
+    "published": "Mon, 28 Sep 2026 22:08:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      28,
+      20,
+      8,
+      8,
+      0,
+      271,
+      0
+    ],
+    "updated": "Tue, 29 Sep 2026 02:08:42 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      29,
+      0,
+      8,
+      42,
+      1,
+      272,
+      0
+    ],
+    "summary": "Le premier ministre, Andy Burnham, a convoqué une réunion d’urgence lundi, au moment où la police libérait les cinq hommes arrêtés la veille aux abords de la base de Fairford. L’enquête explore de possibles liens avec « un Etat étranger » ; le ministre de la défense a rappelé que « l’Iran ou ses relais veulent nous nuire ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le premier ministre, Andy Burnham, a convoqué une réunion d’urgence lundi, au moment où la police libérait les cinq hommes arrêtés la veille aux abords de la base de Fairford. L’enquête explore de possibles liens avec « un Etat étranger » ; le ministre de la défense a rappelé que « l’Iran ou ses relais veulent nous nuire »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/28/au-royaume-uni-le-flou-persiste-sur-la-nature-du-projet-d-attentat-presume-contre-une-base-militaire_6785110_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/28/au-royaume-uni-le-flou-persiste-sur-la-nature-du-projet-d-attentat-presume-contre-une-base-militaire_6785110_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/28/au-royaume-uni-le-flou-persiste-sur-la-nature-du-projet-d-attentat-presume-contre-une-base-militaire_6785110_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/430/0/8256/4128/644/322/60/0/1874d3f_ftp-1-qs6wtjxk0ffz-5205669-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un véhicule blindé patrouille à l’intérieur de la base de Fairford (Royaume-Uni), le 28 septembre 2026, au lendemain d’une enquête menée par la police antiterroriste britannique sur un incident « majeur » survenu près de la base."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BEN STANSALL/AFP"
+      }
+    ],
+    "credit": "BEN STANSALL/AFP"
+  }
+}
