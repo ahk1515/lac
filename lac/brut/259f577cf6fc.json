@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.412282+00:00",
+  "_id": "259f577cf6fc",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine | Les dernières informations : incendie en Estonie, budget militaire russe en hausse, soldats nord-coréens formés pour la Russie…",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine | Les dernières informations : incendie en Estonie, budget militaire russe en hausse, soldats nord-coréens formés pour la Russie…"
+    },
+    "published": "Tue, 29 Sep 2026 19:27:18 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      17,
+      27,
+      18,
+      1,
+      272,
+      0
+    ],
+    "summary": "Le ministre des affaires étrangères estonien, Margus Tsahkna, attribue l’incendie des locaux d’une entreprise spécialisée dans le drone terrestre, Milrem Robotics, à la Russie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ministre des affaires étrangères estonien, Margus Tsahkna, attribue l’incendie des locaux d’une entreprise spécialisée dans le drone terrestre, Milrem Robotics, à la Russie."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-les-dernieres-informations-incendie-en-estonie-budget-militaire-russe-en-hausse-soldats-nord-coreens-formes-pour-la-russie_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-les-dernieres-informations-incendie-en-estonie-budget-militaire-russe-en-hausse-soldats-nord-coreens-formes-pour-la-russie_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-les-dernieres-informations-incendie-en-estonie-budget-militaire-russe-en-hausse-soldats-nord-coreens-formes-pour-la-russie_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/880/0/5616/2808/644/322/60/0/3cc5edb_ftp-1-2bzcvoabkgdo-2026-09-17t100414z-1594700211-rc2nvlalyfwq-rtrmadp-3-usa-trump-nato-future.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le long de la frontière entre l’Estonie et la Russie, près de Saatse (Estonie), le 17 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ints Kalnins/REUTERS"
+      }
+    ],
+    "credit": "Ints Kalnins/REUTERS"
+  }
+}

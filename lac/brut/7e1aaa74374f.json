@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.414197+00:00",
+  "_id": "7e1aaa74374f",
+  "brut": {
+    "title": "Le FBI empêtré dans une importante fuite de données qui pourrait concerner « tous » ses agents",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le FBI empêtré dans une importante fuite de données qui pourrait concerner « tous » ses agents"
+    },
+    "published": "Tue, 29 Sep 2026 16:45:09 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      14,
+      45,
+      9,
+      1,
+      272,
+      0
+    ],
+    "summary": "Les ShinyHunters, qui revendiquent le piratage, affirment avoir voulu défendre leur réputation, accusant la police fédérale d’avoir publié des « allégations infondées » à leur encontre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les ShinyHunters, qui revendiquent le piratage, affirment avoir voulu défendre leur réputation, accusant la police fédérale d’avoir publié des « allégations infondées » à leur encontre."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/09/29/le-fbi-empetre-dans-une-importante-fuite-de-donnees-qui-pourrait-concerner-tous-ses-agents_6785637_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/09/29/le-fbi-empetre-dans-une-importante-fuite-de-donnees-qui-pourrait-concerner-tous-ses-agents_6785637_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/09/29/le-fbi-empetre-dans-une-importante-fuite-de-donnees-qui-pourrait-concerner-tous-ses-agents_6785637_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/1282/0/7689/3844/644/322/60/0/2a17028_upload-1-jk6487pwnx07-000-898v3kx.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant le siège du FBI, à Washington, le 25 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BRENDAN SMIALOWSKI/AFP"
+      }
+    ],
+    "credit": "BRENDAN SMIALOWSKI/AFP"
+  }
+}

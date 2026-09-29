@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.412094+00:00",
+  "_id": "1e8b13040fd1",
+  "brut": {
+    "title": "Après les élections législatives, Vladimir Poutine intensifie l’effort de guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après les élections législatives, Vladimir Poutine intensifie l’effort de guerre"
+    },
+    "published": "Tue, 29 Sep 2026 19:30:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      17,
+      30,
+      5,
+      1,
+      272,
+      0
+    ],
+    "summary": "Pour la quatrième fois cette année, le chef du Kremlin a augmenté les effectifs de son armée. Et Moscou accroît de plus d’un quart son objectif de dépenses militaires pour 2027.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Pour la quatrième fois cette année, le chef du Kremlin a augmenté les effectifs de son armée. Et Moscou accroît de plus d’un quart son objectif de dépenses militaires pour 2027."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/apres-les-elections-legislatives-vladimir-poutine-intensifie-l-effort-de-guerre_6785677_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/apres-les-elections-legislatives-vladimir-poutine-intensifie-l-effort-de-guerre_6785677_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/apres-les-elections-legislatives-vladimir-poutine-intensifie-l-effort-de-guerre_6785677_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/0/0/6894/3447/644/322/60/0/e5d6c7d_ftp-1-3iao0hk0lmdu-cbd08bccc4754ad4a7cb78e32958edc2-0-13f2e54419f44a94a074c62fe12638cc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président russe, Vladimir Poutine, à Moscou, le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Agence d’État Sputnik via AP"
+      }
+    ],
+    "credit": "Agence d’État Sputnik via AP"
+  }
+}

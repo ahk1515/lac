@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.413877+00:00",
+  "_id": "9e74b058111c",
+  "brut": {
+    "title": "Guerre au Liban : une plainte déposée en France contre l’armée israélienne liée à des destructions environnementales dans la zone qu’elle occupe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre au Liban : une plainte déposée en France contre l’armée israélienne liée à des destructions environnementales dans la zone qu’elle occupe"
+    },
+    "published": "Tue, 29 Sep 2026 17:00:28 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      15,
+      0,
+      28,
+      1,
+      272,
+      0
+    ],
+    "summary": "La plainte vise notamment l’arrachage de plusieurs centaines d’oliviers. Les avocats du plaignant y voient le signe d’un crime environnemental et d’un nettoyage ethnique dans le sud du Liban, une région en partie occupée par Israël.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La plainte vise notamment l’arrachage de plusieurs centaines d’oliviers. Les avocats du plaignant y voient le signe d’un crime environnemental et d’un nettoyage ethnique dans le sud du Liban, une région en partie occupée par Israël."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/guerre-au-liban-une-plainte-deposee-en-france-contre-l-armee-israelienne-liee-a-des-destructions-environnementales-dans-la-zone-qu-elle-occupe_6785641_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/guerre-au-liban-une-plainte-deposee-en-france-contre-l-armee-israelienne-liee-a-des-destructions-environnementales-dans-la-zone-qu-elle-occupe_6785641_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/guerre-au-liban-une-plainte-deposee-en-france-contre-l-armee-israelienne-liee-a-des-destructions-environnementales-dans-la-zone-qu-elle-occupe_6785641_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/24/188/0/2251/1125/644/322/60/0/16a4b3b_ftp-1-1qw92fcj79av-5170324-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des véhicules blindés israéliens en train de manœuvrer dans le village voisin de Zaoutar El-Charkiyé, vu depuis le village de Zaoutar El-Gharbiyé, dans le sud du Liban, le 24 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AMMAR AMMAR/AFP"
+      }
+    ],
+    "credit": "AMMAR AMMAR/AFP"
+  }
+}

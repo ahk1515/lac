@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.414663+00:00",
+  "_id": "7bf78c793ef5",
+  "brut": {
+    "title": "Birmanie : une frappe aérienne de l’armée contre un marché fait au moins 50 morts, affirment des sources humanitaires",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Birmanie : une frappe aérienne de l’armée contre un marché fait au moins 50 morts, affirment des sources humanitaires"
+    },
+    "published": "Tue, 29 Sep 2026 15:04:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      13,
+      4,
+      1,
+      1,
+      272,
+      0
+    ],
+    "summary": "L’aviation militaire a bombardé lundi vers midi un important carrefour commercial situé au bord d’un fleuve, dans la ville de Kyauktaw, dans l’Etat Rakhine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’aviation militaire a bombardé lundi vers midi un important carrefour commercial situé au bord d’un fleuve, dans la ville de Kyauktaw, dans l’Etat Rakhine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/birmanie-une-frappe-aerienne-de-l-armee-contre-un-marche-fait-au-moins-50-morts-affirment-des-sources-humanitaires_6785617_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/birmanie-une-frappe-aerienne-de-l-armee-contre-un-marche-fait-au-moins-50-morts-affirment-des-sources-humanitaires_6785617_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/birmanie-une-frappe-aerienne-de-l-armee-contre-un-marche-fait-au-moins-50-morts-affirment-des-sources-humanitaires_6785617_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/433/0/2000/1000/644/322/60/0/c019b79_ftp-1-yh2otfrqlfln-41e64820eac54512a1716f08443aafe5-0-d0ebeea395214e3eb91122fce0609903.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un marché du canton de Kyauktaw, dans l’Etat Rakhine (Birmanie), à la suite d’une frappe aérienne, le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Wai Hun Aung via AP"
+      }
+    ],
+    "credit": "Wai Hun Aung via AP"
+  }
+}

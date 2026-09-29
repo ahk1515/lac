@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.412928+00:00",
+  "_id": "99e9239a6e78",
+  "brut": {
+    "title": "Art contemporain d’Afrique : à Paris, Hervé Yamguen explore nos « géographies intimes »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Art contemporain d’Afrique : à Paris, Hervé Yamguen explore nos « géographies intimes »"
+    },
+    "published": "Tue, 29 Sep 2026 18:00:34 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      16,
+      0,
+      34,
+      1,
+      272,
+      0
+    ],
+    "summary": "L’artiste camerounais présente ses dernières œuvres dans la galerie Afikaris, située dans le 3ᵉ arrondissement de la capitale. Au menu de l’exposition, des peintures, dessins, sculptures et masques, reflets de ses vibrations intérieures. Jusqu’au 31 octobre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’artiste camerounais présente ses dernières œuvres dans la galerie Afikaris, située dans le 3ᵉ arrondissement de la capitale. Au menu de l’exposition, des peintures, dessins, sculptures et masques, reflets de ses vibrations intérieures. Jusqu’au 31 octobre."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/29/art-contemporain-d-afrique-a-paris-herve-yamguen-explore-nos-geographies-intimes_6785658_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/29/art-contemporain-d-afrique-a-paris-herve-yamguen-explore-nos-geographies-intimes_6785658_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/29/art-contemporain-d-afrique-a-paris-herve-yamguen-explore-nos-geographies-intimes_6785658_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/19/251/0/3000/1500/644/322/60/0/6b11651_upload-1-jylo8vrkkzxg-1-portrait-herve-yamguen-2026.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’artiste Hervé Yamguen dans son atelier, à Douala (Cameroun), en 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Zacharie Ngnogue"
+      }
+    ],
+    "credit": "Zacharie Ngnogue"
+  }
+}

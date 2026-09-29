@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.415110+00:00",
+  "_id": "39158e60e454",
+  "brut": {
+    "title": "Carburants : l’Union européenne approuve l’aide de 25 millions d’euros de l’Etat français aux pêcheurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Carburants : l’Union européenne approuve l’aide de 25 millions d’euros de l’Etat français aux pêcheurs"
+    },
+    "published": "Tue, 29 Sep 2026 14:31:41 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      12,
+      31,
+      41,
+      1,
+      272,
+      0
+    ],
+    "summary": "Cette aide, qui représente une réponse à la flambée des prix du carburant liée à la guerre au Moyen-Orient, représente 0,25 euro par litre de gazole, et doit couvrir 70 % des surcoûts liés à l’inflation des carburants pour la période courant de juin à octobre 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette aide, qui représente une réponse à la flambée des prix du carburant liée à la guerre au Moyen-Orient, représente 0,25 euro par litre de gazole, et doit couvrir 70 % des surcoûts liés à l’inflation des carburants pour la période courant de juin à octobre 2026."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/carburants-l-union-europeenne-approuve-l-aide-de-25-millions-d-euros-de-l-etat-francais-aux-pecheurs_6785610_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/carburants-l-union-europeenne-approuve-l-aide-de-25-millions-d-euros-de-l-etat-francais-aux-pecheurs_6785610_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/carburants-l-union-europeenne-approuve-l-aide-de-25-millions-d-euros-de-l-etat-francais-aux-pecheurs_6785610_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/17/427/0/2666/1333/644/322/60/0/bd2c3f6_ftp-1-8ub5ezlqi16n-2026-09-17t105431z-14608621-rc2ykna567my-rtrmadp-3-france-budget-fuel.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un bateau de pêche dans le port de Sète (Hérault), alors que des pêcheurs français bloquent l’accès aux dépôts pétroliers et aux ports pour protester contre le prix du carburant et la dégradation des conditions de travail, le 17 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALEXANDRE DIMOU/REUTERS"
+      }
+    ],
+    "credit": "ALEXANDRE DIMOU/REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-29T17:41:02.596454+00:00",
+  "_id": "1d0dc8b9704d",
+  "brut": {
+    "title": "Au Royaume-Uni, l'entrée des musées nationaux restera gratuite pour les touristes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Royaume-Uni, l'entrée des musées nationaux restera gratuite pour les touristes"
+    },
+    "summary": "Le gouvernement a finalement renoncé à faire payer les visiteurs étrangers, une mesure un temps envisagée pour soutenir le financement de ces institutions culturelles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le gouvernement a finalement renoncé à faire payer les visiteurs étrangers, une mesure un temps envisagée pour soutenir le financement de ces institutions culturelles."
+    },
+    "published": "Tue, 29 Sep 2026 15:58:10 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      13,
+      58,
+      10,
+      1,
+      272,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/patrimoine/au-royaume-uni-l-entree-des-musees-nationaux-restera-gratuite-pour-les-touristes_8214932.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/pfyXNeOXwyWzybNnJ1qfeZiKWVo/0x381:7339x4509/432x243/filters:format(jpg)/2026/09/29/6abbc3328ab8d842354428.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/patrimoine/au-royaume-uni-l-entree-des-musees-nationaux-restera-gratuite-pour-les-touristes_8214932.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/patrimoine/au-royaume-uni-l-entree-des-musees-nationaux-restera-gratuite-pour-les-touristes_8214932.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.412777+00:00",
+  "_id": "70b22c0a99a2",
+  "brut": {
+    "title": "L’Ethiopie accuse l’Erythrée, le Soudan et l’Egypte de soutenir les rebelles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Ethiopie accuse l’Erythrée, le Soudan et l’Egypte de soutenir les rebelles"
+    },
+    "published": "Tue, 29 Sep 2026 18:00:38 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      16,
+      0,
+      38,
+      1,
+      272,
+      0
+    ],
+    "summary": "Le chef d’état-major général de l’armée éthiopienne a directement accusé, jeudi 24 septembre, les trois pays et « d’autres puissances extérieures » de soutenir la nouvelle alliance de groupes d’opposition qui mène depuis une semaine une offensive d’ampleur dans le nord du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chef d’état-major général de l’armée éthiopienne a directement accusé, jeudi 24 septembre, les trois pays et « d’autres puissances extérieures » de soutenir la nouvelle alliance de groupes d’opposition qui mène depuis une semaine une offensive d’ampleur dans le nord du pays."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/29/l-ethiopie-accuse-l-erythree-le-soudan-et-l-egypte-de-soutenir-les-rebelles_6785659_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/29/l-ethiopie-accuse-l-erythree-le-soudan-et-l-egypte-de-soutenir-les-rebelles_6785659_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/29/l-ethiopie-accuse-l-erythree-le-soudan-et-l-egypte-de-soutenir-les-rebelles_6785659_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/242/0/4517/2258/644/322/60/0/58b1b08_upload-1-x6ar015rdqvp-2025-09-14t120316z-2108197546-rc2krgapgg8l-rtrmadp-3-ethiopia-dam-celebrations.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chef d’état-major général des Forces de défense nationale éthiopiennes, le maréchal Birhanu Jula, sur la place Meskel, à Addis-Abeba, le 14 septembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Kumera Gemechu/REUTERS"
+      }
+    ],
+    "credit": "Kumera Gemechu/REUTERS"
+  }
+}

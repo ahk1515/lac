@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.413496+00:00",
+  "_id": "00034c5de6a6",
+  "brut": {
+    "title": "L’Estonie accuse la Russie d’avoir commandité un « acte de sabotage » sur l’une de ses entreprises de drones",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Estonie accuse la Russie d’avoir commandité un « acte de sabotage » sur l’une de ses entreprises de drones"
+    },
+    "published": "Tue, 29 Sep 2026 17:54:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      15,
+      54,
+      35,
+      1,
+      272,
+      0
+    ],
+    "updated": "Tue, 29 Sep 2026 18:33:12 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      29,
+      16,
+      33,
+      12,
+      1,
+      272,
+      0
+    ],
+    "summary": "Une attaque incendiaire avait été commise, dans la nuit du 15 août, dans un bâtiment utilisé par la société spécialisée dans les drones terrestres Milrem Robotics, à Tallinn, sans provoquer de victimes ni de dégâts majeurs. Le Kremlin a rejeté les accusations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une attaque incendiaire avait été commise, dans la nuit du 15 août, dans un bâtiment utilisé par la société spécialisée dans les drones terrestres Milrem Robotics, à Tallinn, sans provoquer de victimes ni de dégâts majeurs. Le Kremlin a rejeté les accusations."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/29/l-estonie-accuse-la-russie-d-avoir-commandite-un-acte-de-sabotage-sur-l-une-de-ses-entreprises-de-drones_6785650_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/29/l-estonie-accuse-la-russie-d-avoir-commandite-un-acte-de-sabotage-sur-l-une-de-ses-entreprises-de-drones_6785650_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/29/l-estonie-accuse-la-russie-d-avoir-commandite-un-acte-de-sabotage-sur-l-une-de-ses-entreprises-de-drones_6785650_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/148/0/637/318/644/322/60/0/63b8f3b_upload-1-ng65nfcabaee-capture-d-ecran-du-2026-09-29-17-43-40.png"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LE MONDE"
+      }
+    ],
+    "credit": "LE MONDE"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-29T17:41:02.413098+00:00",
+  "_id": "16e9ac63e526",
+  "brut": {
+    "title": "Quelques œuvres d’Hervé Yamguen",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Quelques œuvres d’Hervé Yamguen"
+    },
+    "published": "Tue, 29 Sep 2026 18:00:20 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      29,
+      16,
+      0,
+      20,
+      1,
+      272,
+      0
+    ],
+    "summary": "L’artiste camerounais présente ses dernières réalisations à la galerie Afikaris, à Paris. Au menu de l’exposition « Nos géographies intimes » : peintures, dessins, sculptures et masques. Jusqu’au 31 octobre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’artiste camerounais présente ses dernières réalisations à la galerie Afikaris, à Paris. Au menu de l’exposition « Nos géographies intimes » : peintures, dessins, sculptures et masques. Jusqu’au 31 octobre."
+    },
+    "id": "https://www.lemonde.fr/afrique/portfolio/2026/09/29/quelques-uvres-d-herve-yamguen_6785656_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/portfolio/2026/09/29/quelques-uvres-d-herve-yamguen_6785656_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/portfolio/2026/09/29/quelques-uvres-d-herve-yamguen_6785656_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/13/401/0/1110/555/644/322/60/0/8bcf319_upload-1-3wyb4qft70ez-yamguen-1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "« Des mondes et des récits en nous », d’Hervé Yamguen (2026). Acrylique sur toile (100 cm x 80 cm)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Courtesy de la galerie Afikaris et de l’artiste"
+      }
+    ],
+    "credit": "Courtesy de la galerie Afikaris et de l’artiste"
+  }
+}
