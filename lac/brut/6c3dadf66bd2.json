@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-30T14:37:53.738237+00:00",
+  "_id": "6c3dadf66bd2",
+  "brut": {
+    "title": "Un ministre israélien évoque la piste \"terroriste\" après l'atterrissage en urgence d'un vol Dubaï - Tel Aviv en Arabie saoudite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un ministre israélien évoque la piste \"terroriste\" après l'atterrissage en urgence d'un vol Dubaï - Tel Aviv en Arabie saoudite"
+    },
+    "summary": "Le vol de la compagnie Flydubai en direction de Tel-Aviv a été dérouté mercredi. Selon la presse israélienne, le copilote a cherché à précipiter l’avion au sol.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le vol de la compagnie Flydubai en direction de Tel-Aviv a été dérouté mercredi. Selon la presse israélienne, le copilote a cherché à précipiter l’avion au sol."
+    },
+    "published": "Wed, 30 Sep 2026 13:44:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      11,
+      44,
+      12,
+      2,
+      273,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/aeronautique/un-bagarre-entre-pilotes-en-plein-vol-a-l-origine-d-un-atterrissage-d-urgence-en-arabie-saoudite_8216290.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Ya-odEw9sWoBdt2e1fcI88sr9cY/0x53:1024x629/432x243/filters:format(jpg)/2026/03/06/000-99k8376-69aa8bc5d7218111923423.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/aeronautique/un-bagarre-entre-pilotes-en-plein-vol-a-l-origine-d-un-atterrissage-d-urgence-en-arabie-saoudite_8216290.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/aeronautique/un-bagarre-entre-pilotes-en-plein-vol-a-l-origine-d-un-atterrissage-d-urgence-en-arabie-saoudite_8216290.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

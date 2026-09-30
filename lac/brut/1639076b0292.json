@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T14:37:53.023972+00:00",
+  "_id": "1639076b0292",
+  "brut": {
+    "title": "L’Egypte hausse le ton face à l’Ethiopie sur le partage des eaux du Nil",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Egypte hausse le ton face à l’Ethiopie sur le partage des eaux du Nil"
+    },
+    "published": "Wed, 30 Sep 2026 14:00:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      12,
+      0,
+      8,
+      2,
+      273,
+      0
+    ],
+    "updated": "Wed, 30 Sep 2026 14:43:38 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      30,
+      12,
+      43,
+      38,
+      2,
+      273,
+      0
+    ],
+    "summary": "Alors qu’Addis-Abeba s’enfonce à nouveau dans la guerre civile, Le Caire s’emploie à isoler diplomatiquement son voisin pour l’empêcher de contrôler unilatéralement le fleuve, dont l’Egypte dépend presque uniquement pour son approvisionnement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors qu’Addis-Abeba s’enfonce à nouveau dans la guerre civile, Le Caire s’emploie à isoler diplomatiquement son voisin pour l’empêcher de contrôler unilatéralement le fleuve, dont l’Egypte dépend presque uniquement pour son approvisionnement."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/09/30/l-egypte-hausse-le-ton-face-a-l-ethiopie-sur-le-partage-des-eaux-du-nil_6786058_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/30/l-egypte-hausse-le-ton-face-a-l-ethiopie-sur-le-partage-des-eaux-du-nil_6786058_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/09/30/l-egypte-hausse-le-ton-face-a-l-ethiopie-sur-le-partage-des-eaux-du-nil_6786058_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/223/0/5000/2500/644/322/60/0/69e96e6_upload-1-uqf3cyhjj6ny-000-73vw3rz.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le grand barrage de la Renaissance le jour de son inauguration, à Gouba (Ethiopie), le 9 septembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "LUIS TATO/AFP"
+      }
+    ],
+    "credit": "LUIS TATO/AFP"
+  }
+}

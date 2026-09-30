@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T14:37:53.024221+00:00",
+  "_id": "edc78235890b",
+  "brut": {
+    "title": "Giorgia Meloni à la veille d’une réforme électorale déterminante pour son futur parcours politique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Giorgia Meloni à la veille d’une réforme électorale déterminante pour son futur parcours politique"
+    },
+    "published": "Wed, 30 Sep 2026 14:00:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      12,
+      0,
+      8,
+      2,
+      273,
+      0
+    ],
+    "updated": "Wed, 30 Sep 2026 16:20:52 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      30,
+      14,
+      20,
+      52,
+      2,
+      273,
+      0
+    ],
+    "summary": "L’examen du texte de loi voulu par la dirigeante italienne d’extrême droite doit commencer à la Chambre des députés mercredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’examen du texte de loi voulu par la dirigeante italienne d’extrême droite doit commencer à la Chambre des députés mercredi."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/30/italie-giorgia-meloni-face-au-dernier-defi-de-son-mandat_6786057_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/30/italie-giorgia-meloni-face-au-dernier-defi-de-son-mandat_6786057_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/30/italie-giorgia-meloni-face-au-dernier-defi-de-son-mandat_6786057_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/20/24/0/2048/1024/644/322/60/0/8ec4bae_ftp-1-kz0wyns2elvn-c005fde284d643c686abffdd854d3639-0-9d4a007b2dcf489e82d1c7f4e8c87329.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Giorgia Meloni, présidente du conseil italien, à Rome, le 20 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Valentina Stefanelli/LaPresse via AP"
+      }
+    ],
+    "credit": "Valentina Stefanelli/LaPresse via AP"
+  }
+}

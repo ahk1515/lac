@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-30T14:37:53.738109+00:00",
+  "_id": "2043efc1da9b",
+  "brut": {
+    "title": "À Singapour, lire un livre peut rapporter de l'argent",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À Singapour, lire un livre peut rapporter de l'argent"
+    },
+    "summary": "Les autorités de Singapour testent une solution originale pour encourager les habitants à se remettre à lire des livres. Elles vont rémunérer ceux qui lisent au moins 15 minutes par jour.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités de Singapour testent une solution originale pour encourager les habitants à se remettre à lire des livres. Elles vont rémunérer ceux qui lisent au moins 15 minutes par jour."
+    },
+    "published": "Wed, 30 Sep 2026 13:36:50 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      11,
+      36,
+      50,
+      2,
+      273,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-singapour-lire-un-livre-peut-rapporter-de-l-argent_8194592.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ZPCU5X9hZZG9-bAvPduoyC8b11c/0x107:2100x1288/432x243/filters:format(jpg)/2026/09/30/6abcdb0763fed072135281.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-singapour-lire-un-livre-peut-rapporter-de-l-argent_8194592.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-singapour-lire-un-livre-peut-rapporter-de-l-argent_8194592.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

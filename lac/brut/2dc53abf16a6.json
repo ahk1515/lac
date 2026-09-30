@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-30T14:37:53.739067+00:00",
+  "_id": "2dc53abf16a6",
+  "brut": {
+    "title": "PODCAST. Violences sur Discord, IA \"éthique\" et une femme à la tête du gouvernement marocain : ça dit quoi ce 30 septembre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PODCAST. Violences sur Discord, IA \"éthique\" et une femme à la tête du gouvernement marocain : ça dit quoi ce 30 septembre ?"
+    },
+    "summary": "Ce mercredi 30 septembre, l'association E-Enfance alerte sur l'augmentation des violences faites aux enfants sur Discord, en Suisse une entreprise a développé une IA éthique et le roi du Maroc a appelé Fatima Ezzahra El Mansouri à former un gouvernement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce mercredi 30 septembre, l'association E-Enfance alerte sur l'augmentation des violences faites aux enfants sur Discord, en Suisse une entreprise a développé une IA éthique et le roi du Maroc a appelé Fatima Ezzahra El Mansouri à former un gouvernement."
+    },
+    "published": "Wed, 30 Sep 2026 08:59:55 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      6,
+      59,
+      55,
+      2,
+      273,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/violences-sur-discord-ia-ethique-et-une-femme-a-la-tete-du-gouvernement-marocain-ca-dit-quoi-ce-30-septembre_8207045.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/MGy5U5ucHcA1WtmPX_wRqHErqTA/0x26:1436x834/432x243/filters:format(jpg)/2026/09/30/6abcb312b501b048252936.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/violences-sur-discord-ia-ethique-et-une-femme-a-la-tete-du-gouvernement-marocain-ca-dit-quoi-ce-30-septembre_8207045.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/violences-sur-discord-ia-ethique-et-une-femme-a-la-tete-du-gouvernement-marocain-ca-dit-quoi-ce-30-septembre_8207045.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

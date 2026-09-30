@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T14:37:53.024559+00:00",
+  "_id": "d0aba6f2d50a",
+  "brut": {
+    "title": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques"
+    },
+    "published": "Wed, 30 Sep 2026 10:43:17 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      8,
+      43,
+      17,
+      2,
+      273,
+      0
+    ],
+    "summary": "Il s’agit de la première procédure connue contre une entreprise du secteur, en rapport avec les récents dérapages spontanés de l’intelligence artificielle dont ont fait état cet été OpenAI mais aussi Anthropic, Google et Meta.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Il s’agit de la première procédure connue contre une entreprise du secteur, en rapport avec les récents dérapages spontanés de l’intelligence artificielle dont ont fait état cet été OpenAI mais aussi Anthropic, Google et Meta."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/09/30/piratage-de-hugging-face-une-ong-assigne-openai-devant-la-justice-pour-infraction-a-la-loi-sur-les-cyberattaques_6786030_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/09/30/piratage-de-hugging-face-une-ong-assigne-openai-devant-la-justice-pour-infraction-a-la-loi-sur-les-cyberattaques_6786030_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/09/30/piratage-de-hugging-face-une-ong-assigne-openai-devant-la-justice-pour-infraction-a-la-loi-sur-les-cyberattaques_6786030_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/335/0/6000/3000/644/322/60/0/f960dae_ftp-1-awokji7vocsn-9ccd89c5e37246a4a81dc5632c64aea2-0-90d64347e11b49b3a7febebfdc8d08e5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors de la conférence OpenAI DevDay 2026, à San Francisco (Californie, Etats-Unis), le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jeff Chiu/AP"
+      }
+    ],
+    "credit": "Jeff Chiu/AP"
+  }
+}

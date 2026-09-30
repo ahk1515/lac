@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T14:37:53.022853+00:00",
+  "_id": "0738f3f1f81d",
+  "brut": {
+    "title": "En Espagne, le gouvernement de Pedro Sanchez tente d’apaiser la fronde sur le logement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, le gouvernement de Pedro Sanchez tente d’apaiser la fronde sur le logement"
+    },
+    "published": "Wed, 30 Sep 2026 16:30:05 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      14,
+      30,
+      5,
+      2,
+      273,
+      0
+    ],
+    "summary": "Le gouvernement espagnol veut renforcer la protection contre les expulsions et interdire jusqu’en 2028 les achats immobiliers par les fonds dits « vautours ». Mobilisés depuis qu’une Madrilène de 87 ans a dû quitter l’appartement dont elle ne pouvait plus payer le loyer, des manifestants jugent ces mesures insuffisantes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le gouvernement espagnol veut renforcer la protection contre les expulsions et interdire jusqu’en 2028 les achats immobiliers par les fonds dits « vautours ». Mobilisés depuis qu’une Madrilène de 87 ans a dû quitter l’appartement dont elle ne pouvait plus payer le loyer, des manifestants jugent ces mesures insuffisantes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/30/en-espagne-le-gouvernement-de-pedro-sanchez-tente-d-apaiser-la-fronde-sur-le-logement_6786082_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/30/en-espagne-le-gouvernement-de-pedro-sanchez-tente-d-apaiser-la-fronde-sur-le-logement_6786082_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/30/en-espagne-le-gouvernement-de-pedro-sanchez-tente-d-apaiser-la-fronde-sur-le-logement_6786082_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/488/0/5857/2928/644/322/60/0/f90eae6_ftp-1-na9lee5gpb0s-5220738-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des manifestants contre les expulsions et la crise du logement, sur la Puerta del Sol, à Madrid, le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OSCAR DEL POZO/AFP"
+      }
+    ],
+    "credit": "OSCAR DEL POZO/AFP"
+  }
+}
