@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T04:06:48.737020+00:00",
+  "_id": "5f68ba98a8a8",
+  "brut": {
+    "title": "Refusant de brider l’intelligence artificielle, Donald Trump met en scène l’autorégulation de ses acteurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Refusant de brider l’intelligence artificielle, Donald Trump met en scène l’autorégulation de ses acteurs"
+    },
+    "published": "Wed, 30 Sep 2026 02:45:06 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      0,
+      45,
+      6,
+      2,
+      273,
+      0
+    ],
+    "summary": "A un mois des élections de mi-mandat, le président américain a réuni autour de lui, mardi à la Maison Blanche, les principaux patrons du secteur, procédant à un recadrage de sa communication sur ce sujet explosif.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A un mois des élections de mi-mandat, le président américain a réuni autour de lui, mardi à la Maison Blanche, les principaux patrons du secteur, procédant à un recadrage de sa communication sur ce sujet explosif."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/30/refusant-de-brider-l-intelligence-artificielle-donald-trump-met-en-scene-l-autoregulation-de-ses-acteurs_6785824_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/30/refusant-de-brider-l-intelligence-artificielle-donald-trump-met-en-scene-l-autoregulation-de-ses-acteurs_6785824_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/30/refusant-de-brider-l-intelligence-artificielle-donald-trump-met-en-scene-l-autoregulation-de-ses-acteurs_6785824_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/643/0/6000/3000/644/322/60/0/a18c8bd_ftp-1-zmmocc702nbq-2026-09-29t193020z-933004631-rc27tnagbtu2-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, entouré notamment d’Howard Lutnick, secrétaire au commerce américain, Mark Zuckerberg (Meta), Jensen Huang (Nvidia), Greg Brockman (OpenAI), Mike Johnson, président de la Chambre des représentants, Elon Musk (X), et Sundar Pichai (Google), à la Maison Blanche, à Washington, le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jonathan Ernst/REUTERS"
+      }
+    ],
+    "credit": "Jonathan Ernst/REUTERS"
+  }
+}

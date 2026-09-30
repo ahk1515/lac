@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T04:06:48.736457+00:00",
+  "_id": "3fb595f92426",
+  "brut": {
+    "title": "Cuba sous le coup de nouvelles sanctions américaines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cuba sous le coup de nouvelles sanctions américaines"
+    },
+    "published": "Wed, 30 Sep 2026 03:33:51 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      1,
+      33,
+      51,
+      2,
+      273,
+      0
+    ],
+    "updated": "Wed, 30 Sep 2026 03:42:07 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      30,
+      1,
+      42,
+      7,
+      2,
+      273,
+      0
+    ],
+    "summary": "Les Etats-Unis, qui imposent déjà un blocus énergétique à l’île communiste, ont annoncé, mardi, des restrictions concernant les transactions financières. Des mesures qui viennent entraver un secteur privé cubain en plein développement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les Etats-Unis, qui imposent déjà un blocus énergétique à l’île communiste, ont annoncé, mardi, des restrictions concernant les transactions financières. Des mesures qui viennent entraver un secteur privé cubain en plein développement."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/1109/0/8192/4096/644/322/60/0/b0d3e90_ftp-1-0oqdy9zyq3z3-2026-09-28t223342z-501990681-rc2lsnacxe3q-rtrmadp-3-cuba-dailylife.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A La Havane, le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ricardo Arduengo/REUTERS"
+      }
+    ],
+    "credit": "Ricardo Arduengo/REUTERS"
+  }
+}

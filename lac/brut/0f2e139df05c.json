@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T04:06:48.735886+00:00",
+  "_id": "0f2e139df05c",
+  "brut": {
+    "title": "Montée de l’AfD en Allemagne : les ressorts d’un séisme politique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Montée de l’AfD en Allemagne : les ressorts d’un séisme politique"
+    },
+    "published": "Wed, 30 Sep 2026 05:00:13 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      3,
+      0,
+      13,
+      2,
+      273,
+      0
+    ],
+    "summary": "La poussée historique du parti d’extrême droite AfD aux élections régionales allemandes fragilise le chancelier Friedrich Merz et provoque un séisme politique. Explications en podcast avec Elsa Conesa, correspondante du « Monde » à Berlin.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La poussée historique du parti d’extrême droite AfD aux élections régionales allemandes fragilise le chancelier Friedrich Merz et provoque un séisme politique. Explications en podcast avec Elsa Conesa, correspondante du « Monde » à Berlin."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/09/30/montee-de-l-afd-en-allemagne-les-ressorts-d-un-seisme-politique_6785925_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/09/30/montee-de-l-afd-en-allemagne-les-ressorts-d-un-seisme-politique_6785925_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/09/30/montee-de-l-afd-en-allemagne-les-ressorts-d-un-seisme-politique_6785925_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/72/0/1800/900/644/322/60/0/4433643_upload-1-tpe25r0ancnc-afd.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ulrich Siegmund, la tête de liste du parti d’extrême droite AfD, a remporté les élections régionales en Saxe-Anhalt, dimanche 6 septembre. Une première pour l’extrême droite depuis la seconde guerre mondiale."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS/Fabrizio Bensch/File Photo"
+      }
+    ],
+    "credit": "REUTERS/Fabrizio Bensch/File Photo"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T04:06:48.735618+00:00",
+  "_id": "e32a1ef7a8f2",
+  "brut": {
+    "title": "Immigration : la France va mettre fin à l’accord « un qui entre, un qui sort » avec le Royaume-Uni",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Immigration : la France va mettre fin à l’accord « un qui entre, un qui sort » avec le Royaume-Uni"
+    },
+    "published": "Wed, 30 Sep 2026 05:00:31 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      3,
+      0,
+      31,
+      2,
+      273,
+      0
+    ],
+    "summary": "Conclue en juillet 2025, l’expérimentation, qui arrivait à échéance au 1ᵉʳ octobre, n’a pas permis d’obtenir les résultats escomptés aux yeux de Paris. En 2025, près de 50 000 personnes ont tenté de traverser la Manche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Conclue en juillet 2025, l’expérimentation, qui arrivait à échéance au 1ᵉʳ octobre, n’a pas permis d’obtenir les résultats escomptés aux yeux de Paris. En 2025, près de 50 000 personnes ont tenté de traverser la Manche."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/30/immigration-la-france-va-mettre-fin-a-l-accord-un-qui-entre-un-qui-sort-avec-le-royaume-uni_6785930_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/30/immigration-la-france-va-mettre-fin-a-l-accord-un-qui-entre-un-qui-sort-avec-le-royaume-uni_6785930_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/30/immigration-la-france-va-mettre-fin-a-l-accord-un-qui-entre-un-qui-sort-avec-le-royaume-uni_6785930_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/0/0/5300/2650/644/322/60/0/b9efeed_upload-1-t3lczkfqblhe-075-oikonomou-notitle260906-np3oz.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une famille de migrants tente de monter à bord d’une embarcation pneumatique sur la plage de Petit-Fort-Philippe, pour essayer de traverser la Manche et rejoindre le Royaume-Uni, à Gravelines (Pas-de-Calais), le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NICOLAS ECONOMOU/NurPhoto via AFP"
+      }
+    ],
+    "credit": "NICOLAS ECONOMOU/NurPhoto via AFP"
+  }
+}

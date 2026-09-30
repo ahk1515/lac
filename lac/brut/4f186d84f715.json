@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T04:06:48.736835+00:00",
+  "_id": "4f186d84f715",
+  "brut": {
+    "title": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine"
+    },
+    "published": "Wed, 30 Sep 2026 02:56:35 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      0,
+      56,
+      35,
+      2,
+      273,
+      0
+    ],
+    "updated": "Wed, 30 Sep 2026 03:44:13 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      30,
+      1,
+      44,
+      13,
+      2,
+      273,
+      0
+    ],
+    "summary": "Le constructeur aéronautique remporte un contrat évalué à 20 milliards de dollars. L’entreprise avait déjà été sélectionnée en mars 2025 pour l’avion de nouvelle génération de l’US Air Force, le F-47.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le constructeur aéronautique remporte un contrat évalué à 20 milliards de dollars. L’entreprise avait déjà été sélectionnée en mars 2025 pour l’avion de nouvelle génération de l’US Air Force, le F-47."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/30/200/0/4096/2048/644/322/60/0/72f821f_upload-1-scgmnq57zv0q-htaqcirxaaa7j3s.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue d’artiste du F/A-XX, projet d’avion de combat destiné à l’US Air Force, sur une image publiée et diffusée par Boeing le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NAVAIR/BOEING via X.com"
+      }
+    ],
+    "credit": "NAVAIR/BOEING via X.com"
+  }
+}
