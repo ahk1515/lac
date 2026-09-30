@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T20:33:07.374533+00:00",
+  "_id": "2b1c3bf99237",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : la Russie a lancé 285 drones dans la journée de mercredi, selon l’armée ukrainienne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : la Russie a lancé 285 drones dans la journée de mercredi, selon l’armée ukrainienne"
+    },
+    "published": "Wed, 30 Sep 2026 22:12:08 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      20,
+      12,
+      8,
+      2,
+      273,
+      0
+    ],
+    "summary": "Dans un bilan provisoire, la défense antiaérienne ukrainienne affirmait avoir abattu ou neutralisé 254 drones, dont 146 à réaction, entre 6 h 30 et 18 h 30, mercredi. Moscou a également tiré plusieurs missiles dans l’est du pays. Ces attaques ont succédé à une importante offensive nocturne contre les infrastructures énergétiques, qui a fait au moins sept personnes, dont un enfant.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans un bilan provisoire, la défense antiaérienne ukrainienne affirmait avoir abattu ou neutralisé 254 drones, dont 146 à réaction, entre 6 h 30 et 18 h 30, mercredi. Moscou a également tiré plusieurs missiles dans l’est du pays. Ces attaques ont succédé à une importante offensive nocturne contre les infrastructures énergétiques, qui a fait au moins sept personnes, dont un enfant."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-la-russie-a-lance-285-drones-dans-la-journee-de-mercredi-selon-l-armee-ukrainienne_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-la-russie-a-lance-285-drones-dans-la-journee-de-mercredi-selon-l-armee-ukrainienne_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-la-russie-a-lance-285-drones-dans-la-journee-de-mercredi-selon-l-armee-ukrainienne_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/30/2651/1105/5092/2546/644/322/60/0/40b950e_ftp-1-6fji69pr1kkd-5227043-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ciel de Kiev suite à une attaque aérienne russe de missiles et drones le 30 septembre 2026,"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGEI SUPINSKY / AFP"
+      }
+    ],
+    "credit": "SERGEI SUPINSKY / AFP"
+  }
+}

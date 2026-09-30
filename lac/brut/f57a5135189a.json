@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-30T20:33:07.635262+00:00",
+  "_id": "f57a5135189a",
+  "brut": {
+    "title": "La France à la rescousse d'un oligarque russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La France à la rescousse d'un oligarque russe"
+    },
+    "summary": "La France a obtenu la levée des sanctions européennes visant un milliardaire russo-ouzbek. Selon des sources diplomatiques, la contrepartie serait la libération de Français détenus en Azerbaïjan. À quel prix cette libération a-t-elle été négociée?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La France a obtenu la levée des sanctions européennes visant un milliardaire russo-ouzbek. Selon des sources diplomatiques, la contrepartie serait la libération de Français détenus en Azerbaïjan. À quel prix cette libération a-t-elle été négociée?"
+    },
+    "published": "Wed, 30 Sep 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      17,
+      0,
+      2,
+      2,
+      273,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-france-a-la-rescousse-d-un-oligarque-russe_8216800.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/wfBQ6pcoxFSGjP8kuigHu1BVAqA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/30/6abd3b370c346032743519.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-france-a-la-rescousse-d-un-oligarque-russe_8216800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-france-a-la-rescousse-d-un-oligarque-russe_8216800.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

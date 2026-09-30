@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T20:33:07.376323+00:00",
+  "_id": "af27da9f93a3",
+  "brut": {
+    "title": "Les passeurs du pire naufrage de migrants dans la Manche condamnés à des peines allant jusqu’à dix ans de prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les passeurs du pire naufrage de migrants dans la Manche condamnés à des peines allant jusqu’à dix ans de prison"
+    },
+    "published": "Wed, 30 Sep 2026 18:59:04 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      16,
+      59,
+      4,
+      2,
+      273,
+      0
+    ],
+    "summary": "Au moins 31 personnes sont mortes en novembre 2021, lors d’une tragédie causée par des « individus mus par l’appât du gain, au mépris de la vie humaine », a estimé le tribunal correctionnel de Paris.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins 31 personnes sont mortes en novembre 2021, lors d’une tragédie causée par des « individus mus par l’appât du gain, au mépris de la vie humaine », a estimé le tribunal correctionnel de Paris."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/09/30/les-passeurs-du-pire-naufrage-de-migrants-dans-la-manche-condamnes-a-des-peines-allant-jusqu-a-dix-ans-de-prison_6786103_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/09/30/les-passeurs-du-pire-naufrage-de-migrants-dans-la-manche-condamnes-a-des-peines-allant-jusqu-a-dix-ans-de-prison_6786103_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/09/30/les-passeurs-du-pire-naufrage-de-migrants-dans-la-manche-condamnes-a-des-peines-allant-jusqu-a-dix-ans-de-prison_6786103_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/30/928/0/5568/2784/644/322/60/0/bdbcf51_upload-1-bwznfc1xxyjd-000-9uz4al.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un bateau pneumatique, des gilets de sauvetage et d’autres débris abandonnés sur une dune de la plage de Wimereux (Pas-de-Calais), le 20 novembre 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FRANCOIS LO PRESTI/AFP"
+      }
+    ],
+    "credit": "FRANCOIS LO PRESTI/AFP"
+  }
+}

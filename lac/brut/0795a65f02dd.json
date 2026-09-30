@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-09-30T20:33:07.377384+00:00",
+  "_id": "0795a65f02dd",
+  "brut": {
+    "title": "Ce que l’on sait de l’avion reliant Dubaï à Tel-Aviv qui a été dérouté en Arabie saoudite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce que l’on sait de l’avion reliant Dubaï à Tel-Aviv qui a été dérouté en Arabie saoudite"
+    },
+    "published": "Wed, 30 Sep 2026 16:44:14 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      14,
+      44,
+      14,
+      2,
+      273,
+      0
+    ],
+    "updated": "Wed, 30 Sep 2026 22:04:28 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      30,
+      20,
+      4,
+      28,
+      2,
+      273,
+      0
+    ],
+    "summary": "« Alors qu’ils approchaient de notre pays, l’un des pilotes a poignardé l’autre pilote et a apparemment tenté de faire crasher l’avion avec tout le monde à bord », a déclaré le premier ministre israélien. Le pilote en cause a été arrêté et est désormais interrogé en Arabie saoudite.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Alors qu’ils approchaient de notre pays, l’un des pilotes a poignardé l’autre pilote et a apparemment tenté de faire crasher l’avion avec tout le monde à bord », a déclaré le premier ministre israélien. Le pilote en cause a été arrêté et est désormais interrogé en Arabie saoudite."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/09/30/l-un-des-pilotes-de-l-avion-flydubai-deroute-en-arabie-saoudite-a-tente-de-faire-s-ecraser-l-appareil-affirme-benyamin-netanyahou_6786055_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/09/30/l-un-des-pilotes-de-l-avion-flydubai-deroute-en-arabie-saoudite-a-tente-de-faire-s-ecraser-l-appareil-affirme-benyamin-netanyahou_6786055_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/09/30/l-un-des-pilotes-de-l-avion-flydubai-deroute-en-arabie-saoudite-a-tente-de-faire-s-ecraser-l-appareil-affirme-benyamin-netanyahou_6786055_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/30/1000/0/6000/3000/644/322/60/0/e3457f4_ftp-1-qe6slm0poqtp-fed7005f0e1c4b16b41ec280fd450aa5-1-2d595d6e217c40fc9d929321a6d8ce05.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un avion de Flydubai stationné sur le tarmac de l’aéroport international de Dubaï, le 30 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AP Photo"
+      }
+    ],
+    "credit": "AP Photo"
+  }
+}

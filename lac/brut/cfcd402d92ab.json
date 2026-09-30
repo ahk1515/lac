@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-09-30T20:33:07.634374+00:00",
+  "_id": "cfcd402d92ab",
+  "brut": {
+    "title": "Pilote poignardé, passagers héroïques : un crash évité de justesse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Pilote poignardé, passagers héroïques : un crash évité de justesse"
+    },
+    "summary": "Une catastrophe évitée de justesse. Le copilote aurait tenté de faire s’écraser le vol Dubaï- Tel-Aviv. Des passagers sont intervenus. Le vol de FlyDubaï a finalement pu atterrir en urgence. Israël privilégie la piste d’un attentat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une catastrophe évitée de justesse. Le copilote aurait tenté de faire s’écraser le vol Dubaï- Tel-Aviv. Des passagers sont intervenus. Le vol de FlyDubaï a finalement pu atterrir en urgence. Israël privilégie la piste d’un attentat."
+    },
+    "published": "Wed, 30 Sep 2026 21:05:01 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      19,
+      5,
+      1,
+      2,
+      273,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/pilote-poignarde-passagers-heroiques-un-crash-evite-de-justesse_8216935.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/g4zqJxZvGzyHcq9T89JOi4tWCuk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/30/6abd5d303eba5583825633.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/pilote-poignarde-passagers-heroiques-un-crash-evite-de-justesse_8216935.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/pilote-poignarde-passagers-heroiques-un-crash-evite-de-justesse_8216935.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
