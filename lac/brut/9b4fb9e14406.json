@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T15:06:44.110284+00:00",
+  "_id": "9b4fb9e14406",
+  "brut": {
+    "title": "Brexit : et si le Royaume-Uni revenait dans l'Union européenne ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Brexit : et si le Royaume-Uni revenait dans l'Union européenne ?"
+    },
+    "summary": "Le Premier ministre britannique a évoqué l'option d'un retour dans l'Union européenne. Il a affirmé que la sortie de l'UE fait plus de mal que de bien à son pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Premier ministre britannique a évoqué l'option d'un retour dans l'Union européenne. Il a affirmé que la sortie de l'UE fait plus de mal que de bien à son pays."
+    },
+    "published": "Thu, 01 Oct 2026 07:56:32 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      5,
+      56,
+      32,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/brexit-et-si-le-royaume-uni-revenait-dans-l-union-europeenne_8217730.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/EbuWZ1lE6RTQu8JTrchkwqPpZvQ/170x0:1471x732/432x243/filters:format(jpg)/2026/10/01/6abdf1a0475ea071734607.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/brexit-et-si-le-royaume-uni-revenait-dans-l-union-europeenne_8217730.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/brexit-et-si-le-royaume-uni-revenait-dans-l-union-europeenne_8217730.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

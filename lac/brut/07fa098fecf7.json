@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T15:06:43.300617+00:00",
+  "_id": "07fa098fecf7",
+  "brut": {
+    "title": "Ursula von der Leyen place un de ses conseillers historiques dans l’administration européenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ursula von der Leyen place un de ses conseillers historiques dans l’administration européenne"
+    },
+    "published": "Thu, 01 Oct 2026 10:30:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      8,
+      30,
+      3,
+      3,
+      274,
+      0
+    ],
+    "summary": "Jens-Alexander Flosdorff a été nommé directeur chargé de la communication avec les citoyens de l’Union européenne, un haut poste qui a exceptionnellement été ouvert à un non-fonctionnaire européen.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Jens-Alexander Flosdorff a été nommé directeur chargé de la communication avec les citoyens de l’Union européenne, un haut poste qui a exceptionnellement été ouvert à un non-fonctionnaire européen."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/01/ursula-von-der-leyen-place-un-de-ses-conseillers-historiques-dans-l-administration-europeenne_6786478_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/01/ursula-von-der-leyen-place-un-de-ses-conseillers-historiques-dans-l-administration-europeenne_6786478_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/01/ursula-von-der-leyen-place-un-de-ses-conseillers-historiques-dans-l-administration-europeenne_6786478_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/0/0/6864/3432/644/322/60/0/8d3e4e4_ftp-1-95vfjkaayuxg-0920e973a83844a08e24dd98a4fcceaa-0-8b95bea98bb24036a36ff2442e4db4a5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Ursula von der Leyen, présidente de la Commission européenne, à New York, le 22 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stefan Jeremiah/AP"
+      }
+    ],
+    "credit": "Stefan Jeremiah/AP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T15:06:44.109994+00:00",
+  "_id": "0c5303c23a20",
+  "brut": {
+    "title": "PODCAST. Tir de LBD devant les lycées, protections remboursées et vol qui tourne mal : ça dit quoi ce 1er octobre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PODCAST. Tir de LBD devant les lycées, protections remboursées et vol qui tourne mal : ça dit quoi ce 1er octobre ?"
+    },
+    "summary": "Ce jeudi 1er octobre, les blessures d'un lycéen sont compatibles avec un tir de LBD, certaines protections périodiques réutilisables sont désormais remboursées et Israël dénonce une tentative d'attaque terroriste sur un vol entre Dubaï et Tel-Aviv.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce jeudi 1er octobre, les blessures d'un lycéen sont compatibles avec un tir de LBD, certaines protections périodiques réutilisables sont désormais remboursées et Israël dénonce une tentative d'attaque terroriste sur un vol entre Dubaï et Tel-Aviv."
+    },
+    "published": "Thu, 01 Oct 2026 08:33:54 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      6,
+      33,
+      54,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/tir-de-lbd-devant-les-lycees-protections-remboursees-et-vol-qui-tourne-mal-ca-dit-quoi-ce-1er-octobre_8208704.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5YYtY9FajHRAuQOPojJJIqch0u8/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abd12f81faa2810440487.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/tir-de-lbd-devant-les-lycees-protections-remboursees-et-vol-qui-tourne-mal-ca-dit-quoi-ce-1er-octobre_8208704.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/tir-de-lbd-devant-les-lycees-protections-remboursees-et-vol-qui-tourne-mal-ca-dit-quoi-ce-1er-octobre_8208704.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

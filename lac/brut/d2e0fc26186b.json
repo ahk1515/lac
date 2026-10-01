@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T15:06:44.106880+00:00",
+  "_id": "d2e0fc26186b",
+  "brut": {
+    "title": "L'opposant russe Garry Kasparov affirme que sa vie est \"en danger\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'opposant russe Garry Kasparov affirme que sa vie est \"en danger\""
+    },
+    "summary": "L'ancien champion d'échecs, qui vit en exil en Lituanie, a été mis en garde pendant l'été par des services secrets occidentaux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ancien champion d'échecs, qui vit en exil en Lituanie, a été mis en garde pendant l'été par des services secrets occidentaux."
+    },
+    "published": "Thu, 01 Oct 2026 16:38:35 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      14,
+      38,
+      35,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-garry-kasparov-affirme-que-sa-vie-est-en-danger_8218372.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/3ywKuOojejkwTx4cRJKZXf6nvE4/0x297:5712x3510/432x243/filters:format(jpg)/2026/10/01/6abe6df19b6c7152061505.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-garry-kasparov-affirme-que-sa-vie-est-en-danger_8218372.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-garry-kasparov-affirme-que-sa-vie-est-en-danger_8218372.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

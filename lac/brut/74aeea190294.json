@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T15:06:44.107038+00:00",
+  "_id": "74aeea190294",
+  "brut": {
+    "title": "Christa Pike, condamnée à mort au Tennessee, est hospitalisée après avoir survécu à deux injections létales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Christa Pike, condamnée à mort au Tennessee, est hospitalisée après avoir survécu à deux injections létales"
+    },
+    "summary": "Aux États-Unis, l'exécution de Christa Pike, dans le couloir de la mort depuis trente ans, a échoué, mercredi 30 septembre. La condamnée a été transportée à l'hôpital, tandis que les exécutions sont suspendues dans le Tennessee.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, l'exécution de Christa Pike, dans le couloir de la mort depuis trente ans, a échoué, mercredi 30 septembre. La condamnée a été transportée à l'hôpital, tandis que les exécutions sont suspendues dans le Tennessee."
+    },
+    "published": "Thu, 01 Oct 2026 16:30:49 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      14,
+      30,
+      49,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/christa-pike-condamnee-a-mort-au-tennessee-est-hospitalisee-apres-avoir-survecu-a-deux-injections-letales_8218375.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/bSZvDJM6Xr8A5CLC1Ta266jY4F0/0x0:1541x866/432x243/filters:format(jpg)/2026/10/01/6abe6dc8b34cc452132893.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/christa-pike-condamnee-a-mort-au-tennessee-est-hospitalisee-apres-avoir-survecu-a-deux-injections-letales_8218375.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/christa-pike-condamnee-a-mort-au-tennessee-est-hospitalisee-apres-avoir-survecu-a-deux-injections-letales_8218375.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

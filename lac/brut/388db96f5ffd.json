@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T15:06:43.300960+00:00",
+  "_id": "388db96f5ffd",
+  "brut": {
+    "title": "Garry Kasparov, opposant russe en exil et ancien champion d’échecs, affirme que sa vie est « en danger »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Garry Kasparov, opposant russe en exil et ancien champion d’échecs, affirme que sa vie est « en danger »"
+    },
+    "published": "Thu, 01 Oct 2026 09:50:45 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      7,
+      50,
+      45,
+      3,
+      274,
+      0
+    ],
+    "updated": "Thu, 01 Oct 2026 10:16:52 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      1,
+      8,
+      16,
+      52,
+      3,
+      274,
+      0
+    ],
+    "summary": "« La nouvelle selon laquelle, avec mon associé de longue date et cofondateur du Forum de la Russie Libre, Ivan Tioutrine, nous sommes sur une liste de cibles à assassiner, n’est pas une surprise pour moi, mais c’est malgré tout un choc », a écrit Garry Kasparov, dans un message publié jeudi sur les réseaux sociaux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« La nouvelle selon laquelle, avec mon associé de longue date et cofondateur du Forum de la Russie Libre, Ivan Tioutrine, nous sommes sur une liste de cibles à assassiner, n’est pas une surprise pour moi, mais c’est malgré tout un choc », a écrit Garry Kasparov, dans un message publié jeudi sur les réseaux sociaux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/01/garry-kasparov-opposant-russe-en-exil-et-ancien-champion-d-echecs-affirme-que-sa-vie-est-en-danger_6786465_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/01/garry-kasparov-opposant-russe-en-exil-et-ancien-champion-d-echecs-affirme-que-sa-vie-est-en-danger_6786465_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/01/garry-kasparov-opposant-russe-en-exil-et-ancien-champion-d-echecs-affirme-que-sa-vie-est-en-danger_6786465_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/0/0/7990/3995/644/322/60/0/da8c877_ftp-1-4hpnogwtai3i-5234988-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’ancien grand maître d’échecs et opposant politique russe Garry Kasparov à Washington, le 12 mars 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAUL LOEB/AFP"
+      }
+    ],
+    "credit": "SAUL LOEB/AFP"
+  }
+}

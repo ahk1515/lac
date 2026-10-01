@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T15:06:44.107980+00:00",
+  "_id": "9237c059b37a",
+  "brut": {
+    "title": "\"Vous êtes un héros\" : un passager du vol FlyDubai accueilli par Benyamin Nétanyahou",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Vous êtes un héros\" : un passager du vol FlyDubai accueilli par Benyamin Nétanyahou"
+    },
+    "summary": "Le Premier ministre israélien Benyamin Nétanyahou a accueilli les passagers du vol FlyDubai détourné à l'aéroport Ben Gourion, mercredi 30 septembre. Il a notamment échangé avec Yaniv, une des personnes qui a aidé à maîtriser l'assaillant. #franceinfo",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Premier ministre israélien Benyamin Nétanyahou a accueilli les passagers du vol FlyDubai détourné à l'aéroport Ben Gourion, mercredi 30 septembre. Il a notamment échangé avec Yaniv, une des personnes qui a aidé à maîtriser l'assaillant. #franceinfo"
+    },
+    "published": "Thu, 01 Oct 2026 14:17:39 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      12,
+      17,
+      39,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/vous-etes-un-heros-un-passager-du-vol-flydubai-accueilli-par-benyamin-netanyahou_8218282.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/s56c-vBxeHk-30U6h5zjQxV7jHQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/01/6abe4f5d5e9b9080424552.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/vous-etes-un-heros-un-passager-du-vol-flydubai-accueilli-par-benyamin-netanyahou_8218282.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/vous-etes-un-heros-un-passager-du-vol-flydubai-accueilli-par-benyamin-netanyahou_8218282.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T15:06:43.298540+00:00",
+  "_id": "ed0d638f7825",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : l’UE annonce des solutions pour financer Kiev en 2026",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : l’UE annonce des solutions pour financer Kiev en 2026"
+    },
+    "published": "Thu, 01 Oct 2026 15:05:22 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      13,
+      5,
+      22,
+      3,
+      274,
+      0
+    ],
+    "updated": "Thu, 01 Oct 2026 15:44:26 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      1,
+      13,
+      44,
+      26,
+      3,
+      274,
+      0
+    ],
+    "summary": "La Russie veut consacrer plus de 17 100 milliards de roubles (environ 180 milliards d’euros) à la défense en 2027, puis 16 600 milliards en 2028 et 16 300 milliards en 2029, selon la note explicative du projet de budget soumise au Parlement et citée jeudi par l’agence de presse russe Interfax.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La Russie veut consacrer plus de 17 100 milliards de roubles (environ 180 milliards d’euros) à la défense en 2027, puis 16 600 milliards en 2028 et 16 300 milliards en 2029, selon la note explicative du projet de budget soumise au Parlement et citée jeudi par l’agence de presse russe Interfax."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/01/en-direct-guerre-en-ukraine-la-russie-prevoit-des-depenses-militaires-maintenues-a-des-niveaux-records-jusqu-en-2029_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/01/en-direct-guerre-en-ukraine-la-russie-prevoit-des-depenses-militaires-maintenues-a-des-niveaux-records-jusqu-en-2029_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/01/en-direct-guerre-en-ukraine-la-russie-prevoit-des-depenses-militaires-maintenues-a-des-niveaux-records-jusqu-en-2029_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/1051/0/8640/4320/644/322/60/0/ffce6bc_ftp-1-zhq2bublydde-df92c5ca118a44a4851687ba3aee9920-2-040ade91db8f4d18b678b0140890d519.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un soldat de la défense aérienne ukrainienne se prépare à repousser une attaque de drones russes, à Kiev, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "EFREM LUKATSKY/AP"
+      }
+    ],
+    "credit": "EFREM LUKATSKY/AP"
+  }
+}
