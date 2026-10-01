@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T04:18:50.030477+00:00",
+  "_id": "2145e1635d17",
+  "brut": {
+    "title": "Galderma, le discret empire suisse du botox",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Galderma, le discret empire suisse du botox"
+    },
+    "published": "Thu, 01 Oct 2026 05:30:23 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      3,
+      30,
+      23,
+      3,
+      274,
+      0
+    ],
+    "summary": "La capitalisation de la société dermatologique a doublé depuis son entrée en bourse en 2024. Elle profite de la banalisation des injections de toxine botulique, un pactole mondial qui devrait atteindre 13 milliards de dollars cette année, malgré des scandales récurrents.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La capitalisation de la société dermatologique a doublé depuis son entrée en bourse en 2024. Elle profite de la banalisation des injections de toxine botulique, un pactole mondial qui devrait atteindre 13 milliards de dollars cette année, malgré des scandales récurrents."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/01/galderma-le-discret-empire-suisse-du-botox_6786432_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/01/galderma-le-discret-empire-suisse-du-botox_6786432_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/01/galderma-le-discret-empire-suisse-du-botox_6786432_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/03/05/293/0/5634/2817/644/322/60/0/cbb79c6_ftp-1-nppx6smxeu8z-2026-03-05t105549z-494807848-rc2xk6aeizaz-rtrmadp-3-galderma-results-ceo.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Lausanne, en Suisse, le 13 mars 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Denis Balibouse/REUTERS"
+      }
+    ],
+    "credit": "Denis Balibouse/REUTERS"
+  }
+}

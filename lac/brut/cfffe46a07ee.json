@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T04:18:50.031020+00:00",
+  "_id": "cfffe46a07ee",
+  "brut": {
+    "title": "Esther Rantzen, journaliste et militante pour l’aide à mourir au Royaume-Uni, est morte à l’âge de 86 ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Esther Rantzen, journaliste et militante pour l’aide à mourir au Royaume-Uni, est morte à l’âge de 86 ans"
+    },
+    "published": "Thu, 01 Oct 2026 01:37:12 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      23,
+      37,
+      12,
+      2,
+      273,
+      0
+    ],
+    "updated": "Thu, 01 Oct 2026 01:39:38 +0200",
+    "updated_parsed": [
+      2026,
+      9,
+      30,
+      23,
+      39,
+      38,
+      2,
+      273,
+      0
+    ],
+    "summary": "Atteinte d’un cancer du poumon en phase terminale, l’ancienne présentatrice avait relancé le débat sur l’aide à mourir dans son pays, ces dernières années, plaidant jusqu’au bout pour une évolution de la législation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Atteinte d’un cancer du poumon en phase terminale, l’ancienne présentatrice avait relancé le débat sur l’aide à mourir dans son pays, ces dernières années, plaidant jusqu’au bout pour une évolution de la législation."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/01/esther-rantzen-journaliste-et-militante-pour-l-aide-a-mourir-au-royaume-uni-est-morte-a-l-age-de-86-ans_6786261_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/01/esther-rantzen-journaliste-et-militante-pour-l-aide-a-mourir-au-royaume-uni-est-morte-a-l-age-de-86-ans_6786261_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/01/esther-rantzen-journaliste-et-militante-pour-l-aide-a-mourir-au-royaume-uni-est-morte-a-l-age-de-86-ans_6786261_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/30/405/0/4867/2433/644/322/60/0/5bd4cb6_ftp-1-w2r3b636tm2t-5231102-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La journaliste et animatrice britannique Esther Rantzen, à Londres, le 21 mars 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HOLLIE ADAMS/AFP"
+      }
+    ],
+    "credit": "HOLLIE ADAMS/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T04:18:50.247001+00:00",
+  "_id": "5e699ee9749c",
+  "brut": {
+    "title": "Les passagers de l'avion FlyDubai ovationnés à leur arrivée en Israël",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les passagers de l'avion FlyDubai ovationnés à leur arrivée en Israël"
+    },
+    "summary": "Les passagers du vol dérouté de la compagnie FlyDubai à destination de Tel-Aviv sont arrivés mercredi 30 septembre en fin d'après-midi à l'aéroport Ben Gourion (Israël). Leur avion avait dû atterrir en urgence en Arabie saoudite, après une altercation survenue dans le cockpit et l'intervention des passagers.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les passagers du vol dérouté de la compagnie FlyDubai à destination de Tel-Aviv sont arrivés mercredi 30 septembre en fin d'après-midi à l'aéroport Ben Gourion (Israël). Leur avion avait dû atterrir en urgence en Arabie saoudite, après une altercation survenue dans le cockpit et l'intervention des passagers."
+    },
+    "published": "Wed, 30 Sep 2026 22:43:42 +0200",
+    "published_parsed": [
+      2026,
+      9,
+      30,
+      20,
+      43,
+      42,
+      2,
+      273,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/les-passagers-de-l-avion-flydubai-ovationnes-a-leur-arrivee-en-israel_8217004.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/dLCm11NNE0HwXhVjik5Foht8MsE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/30/6abd744fc2e49261540918.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/les-passagers-de-l-avion-flydubai-ovationnes-a-leur-arrivee-en-israel_8217004.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/les-passagers-de-l-avion-flydubai-ovationnes-a-leur-arrivee-en-israel_8217004.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
