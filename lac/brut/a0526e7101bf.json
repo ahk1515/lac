@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T20:48:26.954044+00:00",
+  "_id": "a0526e7101bf",
+  "brut": {
+    "title": "La famille de Renee Good, tuée à Minneapolis par la police de l’immigration, poursuit l’administration Trump",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La famille de Renee Good, tuée à Minneapolis par la police de l’immigration, poursuit l’administration Trump"
+    },
+    "published": "Thu, 01 Oct 2026 18:30:49 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      16,
+      30,
+      49,
+      3,
+      274,
+      0
+    ],
+    "summary": "La mort de Renee Good avait eu lieu au cours du mouvement de protestation contre les coups de filet que menaient les policiers de l’immigration depuis plusieurs semaines à Minneapolis, plus grande ville du Minnesota, dans le nord des Etats-Unis.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La mort de Renee Good avait eu lieu au cours du mouvement de protestation contre les coups de filet que menaient les policiers de l’immigration depuis plusieurs semaines à Minneapolis, plus grande ville du Minnesota, dans le nord des Etats-Unis."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/01/la-famille-de-renee-good-tuee-a-minneapolis-par-la-police-de-l-immigration-poursuit-l-administration-trump_6786564_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/01/la-famille-de-renee-good-tuee-a-minneapolis-par-la-police-de-l-immigration-poursuit-l-administration-trump_6786564_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/01/la-famille-de-renee-good-tuee-a-minneapolis-par-la-police-de-l-immigration-poursuit-l-administration-trump_6786564_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/698/0/8376/4188/644/322/60/0/81df84f_ftp-1-jx1p8wotp2pi-a7aba5a81679447c9ca57fc6e383919b-0-90e9120b2dba444dbeb9e7d6222abc3f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le mémorial en hommage à Renee Good, le 1ᵉʳ octobre 2026, à Minneapolis (Minnesota)."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ellen Schmidt / AP Photo/Ellen Schmidt"
+      }
+    ],
+    "credit": "Ellen Schmidt / AP Photo/Ellen Schmidt"
+  }
+}

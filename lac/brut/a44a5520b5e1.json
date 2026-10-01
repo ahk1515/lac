@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T20:48:26.953715+00:00",
+  "_id": "a44a5520b5e1",
+  "brut": {
+    "title": "En Finlande, une enquête est ouverte suite à des intrusions dans des domiciles de députés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Finlande, une enquête est ouverte suite à des intrusions dans des domiciles de députés"
+    },
+    "published": "Thu, 01 Oct 2026 20:30:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      18,
+      30,
+      10,
+      3,
+      274,
+      0
+    ],
+    "summary": "Si aucun n’a constaté de dommage, ni de vol, les parlementaires concernés sont convaincus que leur logement a été visité pendant leur absence. Le pays s’interroge sur la possibilité d’une tentative de déstabilisation avant les élections législatives, prévues en avril.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Si aucun n’a constaté de dommage, ni de vol, les parlementaires concernés sont convaincus que leur logement a été visité pendant leur absence. Le pays s’interroge sur la possibilité d’une tentative de déstabilisation avant les élections législatives, prévues en avril."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/01/en-finlande-une-enquete-est-ouverte-suite-a-des-intrusions-dans-des-domiciles-de-deputes_6786584_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/01/en-finlande-une-enquete-est-ouverte-suite-a-des-intrusions-dans-des-domiciles-de-deputes_6786584_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/01/en-finlande-une-enquete-est-ouverte-suite-a-des-intrusions-dans-des-domiciles-de-deputes_6786584_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/290/0/4858/2429/644/322/60/0/99860c5_ftp-1-ualckr2zfyim-2026-09-10t082005z-1262212404-rc28gna3tz6y-rtrmadp-3-europe-space.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Alexander Stubb, président finlandais, à Paris, le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Abdul Saboor/REUTERS"
+      }
+    ],
+    "credit": "Abdul Saboor/REUTERS"
+  }
+}

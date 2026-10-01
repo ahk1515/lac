@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T20:48:27.946526+00:00",
+  "_id": "426814ef9a9a",
+  "brut": {
+    "title": "Incident près d'une base militaire en Angleterre : la police arrête un homme britanno-iranien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Incident près d'une base militaire en Angleterre : la police arrête un homme britanno-iranien"
+    },
+    "summary": "Il s'agit de la sixième personne interpellée dans le cadre de l'enquête alors que le Premier ministre britannique soupçonne une implication du régime de Téhéran.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il s'agit de la sixième personne interpellée dans le cadre de l'enquête alors que le Premier ministre britannique soupçonne une implication du régime de Téhéran."
+    },
+    "published": "Thu, 01 Oct 2026 21:22:25 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      19,
+      22,
+      25,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/royaume-uni/incident-pres-d-une-base-militaire-en-angleterre-la-police-arrete-un-homme-britanno-iranien_8218783.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/UCj1SdBP97JiCMdbvC9NTDq-s70/0x396:7619x4682/432x243/filters:format(jpg)/2026/10/01/6abeae948fc33921797669.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/royaume-uni/incident-pres-d-une-base-militaire-en-angleterre-la-police-arrete-un-homme-britanno-iranien_8218783.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/royaume-uni/incident-pres-d-une-base-militaire-en-angleterre-la-police-arrete-un-homme-britanno-iranien_8218783.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

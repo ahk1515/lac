@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-01T20:48:26.954194+00:00",
+  "_id": "d1031809170e",
+  "brut": {
+    "title": "Au Brésil, les policiers candidats au Congrès surfent sur le sentiment d’insécurité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, les policiers candidats au Congrès surfent sur le sentiment d’insécurité"
+    },
+    "published": "Thu, 01 Oct 2026 18:00:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      16,
+      0,
+      5,
+      3,
+      274,
+      0
+    ],
+    "summary": "Plus de 1 200 membres des forces de l’ordre sont candidats aux élections générales du 4 octobre. Portés par l’obsession sécuritaire des électeurs, ils pourraient accroître leur poids au Parlement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plus de 1 200 membres des forces de l’ordre sont candidats aux élections générales du 4 octobre. Portés par l’obsession sécuritaire des électeurs, ils pourraient accroître leur poids au Parlement."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/01/au-bresil-les-policiers-candidats-au-congres-surfent-sur-le-sentiment-d-insecurite_6786558_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/01/au-bresil-les-policiers-candidats-au-congres-surfent-sur-le-sentiment-d-insecurite_6786558_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/01/au-bresil-les-policiers-candidats-au-congres-surfent-sur-le-sentiment-d-insecurite_6786558_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/430/0/1440/720/644/322/60/0/b368762_upload-1-5s6jvnj7bw81-825279997-1367454161831526-5534916821096677324-n.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Capitaine Alden, policier et candidat aux élections pour le Parti libéral (PL, extrême droite), dans une manifestation à Inhambupe (Bahia), sur une photo postée sur sa page Facebook, le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CAPITAO ALDEN/FACEBOOK"
+      }
+    ],
+    "credit": "CAPITAO ALDEN/FACEBOOK"
+  }
+}

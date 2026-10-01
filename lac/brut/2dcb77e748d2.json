@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T20:48:27.946955+00:00",
+  "_id": "2dcb77e748d2",
+  "brut": {
+    "title": "Une ville ukrainienne au bord de la famine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une ville ukrainienne au bord de la famine"
+    },
+    "summary": "Manger de l’herbe pour survivre. C’est le récit des habitants d’Oleshky, en Ukraine. Près de 2 000 personnes sont prises en étau entre l’occupation russe et les bombardements ukrainiens, sans ravitaillement régulier depuis quatre mois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Manger de l’herbe pour survivre. C’est le récit des habitants d’Oleshky, en Ukraine. Près de 2 000 personnes sont prises en étau entre l’occupation russe et les bombardements ukrainiens, sans ravitaillement régulier depuis quatre mois."
+    },
+    "published": "Thu, 01 Oct 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      17,
+      0,
+      2,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-ville-ukrainienne-au-bord-de-la-famine_8218201.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_OiQN34PXHweq5bViyxLHmvxsXs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/01/6abe3667c70ca242840553.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-ville-ukrainienne-au-bord-de-la-famine_8218201.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-ville-ukrainienne-au-bord-de-la-famine_8218201.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

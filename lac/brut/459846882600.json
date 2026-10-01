@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-01T20:48:27.947095+00:00",
+  "_id": "459846882600",
+  "brut": {
+    "title": "Argentine, la nouvelle bataille des Malouines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Argentine, la nouvelle bataille des Malouines"
+    },
+    "summary": "Javier Milei, le président argentin veut reprendre les iles Malouines aux Britanniques. Plus de 40 ans après la guerre entre les deux pays, la souveraineté sur cet archipel reste une cause nationale en Argentine. En jeu les ressources de la pêche et les gisements de pétrole.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Javier Milei, le président argentin veut reprendre les iles Malouines aux Britanniques. Plus de 40 ans après la guerre entre les deux pays, la souveraineté sur cet archipel reste une cause nationale en Argentine. En jeu les ressources de la pêche et les gisements de pétrole."
+    },
+    "published": "Thu, 01 Oct 2026 17:24:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      1,
+      15,
+      24,
+      5,
+      3,
+      274,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/argentine/argentine-la-nouvelle-bataille-des-malouines_8218495.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/mZdw3VlyHjEMNP-aP06q-5tkJTA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/01/6abe7b06bfeac939673690.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/argentine/argentine-la-nouvelle-bataille-des-malouines_8218495.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/argentine/argentine-la-nouvelle-bataille-des-malouines_8218495.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
