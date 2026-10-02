@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T14:27:45.286388+00:00",
+  "_id": "b72fa466a23a",
+  "brut": {
+    "title": "Guerre en Ukraine : l’intensité des frappes russes pourrait saper l’économie du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Guerre en Ukraine : l’intensité des frappes russes pourrait saper l’économie du pays"
+    },
+    "published": "Fri, 02 Oct 2026 10:30:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      8,
+      30,
+      2,
+      4,
+      275,
+      0
+    ],
+    "updated": "Fri, 02 Oct 2026 13:00:27 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      2,
+      11,
+      0,
+      27,
+      4,
+      275,
+      0
+    ],
+    "summary": "Ports, infrastructures énergétiques, aciéries, Internet… les bombardements mettent à mal des pans entiers de l’activité ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ports, infrastructures énergétiques, aciéries, Internet… les bombardements mettent à mal des pans entiers de l’activité ukrainienne."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/guerre-en-ukraine-l-intensite-des-frappes-russes-pourrait-faire-plonger-l-economie-du-pays_6787117_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/guerre-en-ukraine-l-intensite-des-frappes-russes-pourrait-faire-plonger-l-economie-du-pays_6787117_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/guerre-en-ukraine-l-intensite-des-frappes-russes-pourrait-faire-plonger-l-economie-du-pays_6787117_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/358/0/4300/2150/644/322/60/0/cc84405_upload-1-vwqxkeqvcw1b-loukanivska-009.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le centre commercial Kvadrat, détruit, le 24 mai lors d’une frappe russe, à Kiev, le 15 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Virginie Nguyen Hoang/HL/HUMA POUR « LE MONDE »"
+      }
+    ],
+    "credit": "Virginie Nguyen Hoang/HL/HUMA POUR « LE MONDE »"
+  }
+}

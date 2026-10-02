@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-02T14:27:45.498928+00:00",
+  "_id": "a73682518073",
+  "brut": {
+    "title": "Le Médiateur vous répond : Mouvement lycéen : Quelle place pour les images de violences ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Médiateur vous répond : Mouvement lycéen : Quelle place pour les images de violences ?"
+    },
+    "summary": "Le médiateur réagit à l'actualité immédiate : France Télévisions a-t-elle accordé trop de place aux violences liées au mouvement lycéen ? Egalement au programme : Trop de pape sur nos écrans ? La médiation a reçu des critiques, mais aussi des félicitations. L'émission se penche aussi sur les règles des temps de parole politique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le médiateur réagit à l'actualité immédiate : France Télévisions a-t-elle accordé trop de place aux violences liées au mouvement lycéen ? Egalement au programme : Trop de pape sur nos écrans ? La médiation a reçu des critiques, mais aussi des félicitations. L'émission se penche aussi sur les règles des temps de parole politique."
+    },
+    "published": "Fri, 02 Oct 2026 15:24:59 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      13,
+      24,
+      59,
+      4,
+      275,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-mediateur-vous-repond-trop-de-pape-sur-france-televisions_8219680.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Oqq47d4aPkNMirG1EADj0VG408o/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/02/6abf93564af71321294540.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-mediateur-vous-repond-trop-de-pape-sur-france-televisions_8219680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-mediateur-vous-repond-trop-de-pape-sur-france-televisions_8219680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

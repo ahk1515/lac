@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T14:27:45.285426+00:00",
+  "_id": "d8ba24c8a27f",
+  "brut": {
+    "title": "En Suède, la présidente du parti social-démocrate de nouveau chargée de former un gouvernement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Suède, la présidente du parti social-démocrate de nouveau chargée de former un gouvernement"
+    },
+    "published": "Fri, 02 Oct 2026 12:46:28 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      10,
+      46,
+      28,
+      4,
+      275,
+      0
+    ],
+    "updated": "Fri, 02 Oct 2026 13:35:20 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      2,
+      11,
+      35,
+      20,
+      4,
+      275,
+      0
+    ],
+    "summary": "Magdalena Andersson, qui, avec ses alliés, compte désormais au Parlement 176 sièges, contre 173 pour la droite et l’extrême droite, avait pourtant renoncé, lundi, à l’idée de former un gouvernement, faute d’accord entre les partis de gauche et centriste.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Magdalena Andersson, qui, avec ses alliés, compte désormais au Parlement 176 sièges, contre 173 pour la droite et l’extrême droite, avait pourtant renoncé, lundi, à l’idée de former un gouvernement, faute d’accord entre les partis de gauche et centriste."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/en-suede-la-presidente-du-parti-social-democrate-de-nouveau-chargee-de-former-un-gouvernement_6787129_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/en-suede-la-presidente-du-parti-social-democrate-de-nouveau-chargee-de-former-un-gouvernement_6787129_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/en-suede-la-presidente-du-parti-social-democrate-de-nouveau-chargee-de-former-un-gouvernement_6787129_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/327/0/3917/1958/644/322/60/0/be20f64_ftp-1-mgz2jwutlnrb-5205805-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Magdalena Andersson, présidente du Parti social-démocrate suédois des travailleurs, à Stockholm, le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JONAS EKSTROMER / AFP"
+      }
+    ],
+    "credit": "JONAS EKSTROMER / AFP"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T14:27:45.284523+00:00",
+  "_id": "84c886d01d1b",
+  "brut": {
+    "title": "Le débat sur la peine de mort ravivé aux Etats-Unis, après l’exécution ratée de Christa Pike",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le débat sur la peine de mort ravivé aux Etats-Unis, après l’exécution ratée de Christa Pike"
+    },
+    "published": "Fri, 02 Oct 2026 14:44:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      12,
+      44,
+      10,
+      4,
+      275,
+      0
+    ],
+    "summary": "Après avoir survécu à deux injections de barbituriques, elle a été transférée en soins intensifs mercredi soir dans un hôpital du Tennessee. Un échec retentissant pour le système américain d’administration de la peine capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après avoir survécu à deux injections de barbituriques, elle a été transférée en soins intensifs mercredi soir dans un hôpital du Tennessee. Un échec retentissant pour le système américain d’administration de la peine capitale."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/02/le-debat-sur-la-peine-de-mort-ravive-aux-etats-unis-apres-l-execution-ratee-de-christa-pike_6787142_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/02/le-debat-sur-la-peine-de-mort-ravive-aux-etats-unis-apres-l-execution-ratee-de-christa-pike_6787142_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/02/le-debat-sur-la-peine-de-mort-ravive-aux-etats-unis-apres-l-execution-ratee-de-christa-pike_6787142_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/372/0/4457/2228/644/322/60/0/bd43ac1_ftp-1-64faocb5w6vs-7098d7a5ce434c8997328014bfe63340-1-cc3e394cb508463da0302ffb68fc9bd7.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "George Walker IV / AP Photo/George Walker IV"
+      }
+    ],
+    "credit": "George Walker IV / AP Photo/George Walker IV"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T14:27:45.286544+00:00",
+  "_id": "f309963f03d7",
+  "brut": {
+    "title": "Vol Flydubai pour Tel Aviv détourné : la compagnie israélienne El Al annule les vols prévus vendredi pour rapatrier les passagers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Vol Flydubai pour Tel Aviv détourné : la compagnie israélienne El Al annule les vols prévus vendredi pour rapatrier les passagers"
+    },
+    "published": "Fri, 02 Oct 2026 10:05:17 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      8,
+      5,
+      17,
+      4,
+      275,
+      0
+    ],
+    "updated": "Fri, 02 Oct 2026 10:09:28 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      2,
+      8,
+      9,
+      28,
+      4,
+      275,
+      0
+    ],
+    "summary": "La compagnie avait annoncé, jeudi, que deux vols spéciaux seraient affrétés vendredi pour ramener des Israéliens dans leur pays à la suite de la suspension des liaisons de Flydubai.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La compagnie avait annoncé, jeudi, que deux vols spéciaux seraient affrétés vendredi pour ramener des Israéliens dans leur pays à la suite de la suspension des liaisons de Flydubai."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/la-compagnie-el-al-annule-les-vols-prevus-vendredi-pour-rapatrier-des-israeliens_6787113_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/la-compagnie-el-al-annule-les-vols-prevus-vendredi-pour-rapatrier-des-israeliens_6787113_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/la-compagnie-el-al-annule-les-vols-prevus-vendredi-pour-rapatrier-des-israeliens_6787113_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/11/11/461/0/6306/3153/644/322/60/0/e41c485_ftp-import-images-1-jec5srnz8sbx-2025-11-11t114800z-1961786091-rc2auhakebp3-rtrmadp-3-el-al-arlns-results.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un avion de la compagnie aérienne El Al, le 4 avril 2019, à Nice."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Eric Gaillard / REUTERS"
+      }
+    ],
+    "credit": "Eric Gaillard / REUTERS"
+  }
+}

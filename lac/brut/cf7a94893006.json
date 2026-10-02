@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T14:27:45.285022+00:00",
+  "_id": "cf7a94893006",
+  "brut": {
+    "title": "En Haïti, les violences des gangs ont tué ou blessé au moins 5 700 personnes depuis janvier, selon l’ONU",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Haïti, les violences des gangs ont tué ou blessé au moins 5 700 personnes depuis janvier, selon l’ONU"
+    },
+    "published": "Fri, 02 Oct 2026 13:04:00 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      11,
+      4,
+      0,
+      4,
+      275,
+      0
+    ],
+    "summary": "Haïti traverse depuis longtemps une crise politique, économique et sécuritaire, mais la situation s’est largement détériorée depuis ces dernières années.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Haïti traverse depuis longtemps une crise politique, économique et sécuritaire, mais la situation s’est largement détériorée depuis ces dernières années."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/en-haiti-les-violences-des-gangs-ont-tue-ou-blesse-au-moins-5-700-personnes-depuis-janvier-selon-l-onu_6787132_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/en-haiti-les-violences-des-gangs-ont-tue-ou-blesse-au-moins-5-700-personnes-depuis-janvier-selon-l-onu_6787132_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/en-haiti-les-violences-des-gangs-ont-tue-ou-blesse-au-moins-5-700-personnes-depuis-janvier-selon-l-onu_6787132_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/633/0/7595/3797/644/322/60/0/68266c7_ftp-1-re10857c6okv-1c32642c6c4742cfba2ffb3f1f556e4c-0-fd87899dffb54530b436a9309eeb3b75.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Port-au-Prince, le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Odelyn Joseph/AP"
+      }
+    ],
+    "credit": "Odelyn Joseph/AP"
+  }
+}

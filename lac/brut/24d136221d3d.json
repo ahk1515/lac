@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T14:27:45.284356+00:00",
+  "_id": "24d136221d3d",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les frappes russes contre le pont Pivdenny paralysent la capitale, Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les frappes russes contre le pont Pivdenny paralysent la capitale, Kiev"
+    },
+    "published": "Fri, 02 Oct 2026 14:47:55 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      12,
+      47,
+      55,
+      4,
+      275,
+      0
+    ],
+    "updated": "Fri, 02 Oct 2026 16:07:52 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      2,
+      14,
+      7,
+      52,
+      4,
+      275,
+      0
+    ],
+    "summary": "La capitale ukrainienne, qui compte quelque 3 millions d’habitants, est divisée en deux par le fleuve Dniepr et dépend donc fortement de ses huit ponts. L’Ukraine redoutait depuis longtemps de telles frappes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La capitale ukrainienne, qui compte quelque 3 millions d’habitants, est divisée en deux par le fleuve Dniepr et dépend donc fortement de ses huit ponts. L’Ukraine redoutait depuis longtemps de telles frappes."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-kiev-est-paralysee-par-les-embouteillages-apres-les-frappes-russes-sur-le-pont-pivdenny_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-kiev-est-paralysee-par-les-embouteillages-apres-les-frappes-russes-sur-le-pont-pivdenny_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-kiev-est-paralysee-par-les-embouteillages-apres-les-frappes-russes-sur-le-pont-pivdenny_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/869/0/5683/2841/644/322/60/0/be9475d_ftp-1-dypkd79bdwad-5246135-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un bus bloqué dans les embouteillages, à Kiev, le 2 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "TETIANA DZHAFAROVA/AFP"
+      }
+    ],
+    "credit": "TETIANA DZHAFAROVA/AFP"
+  }
+}

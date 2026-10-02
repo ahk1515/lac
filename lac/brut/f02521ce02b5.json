@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-02T14:27:45.498508+00:00",
+  "_id": "f02521ce02b5",
+  "brut": {
+    "title": "L'été 2026 est le plus chaud jamais enregistré en Europe de l'Ouest, selon l'institut Copernicus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'été 2026 est le plus chaud jamais enregistré en Europe de l'Ouest, selon l'institut Copernicus"
+    },
+    "summary": "L'ensemble de l'Europe occidentale a connu cet été des températures exceptionnelles, selon le bilan publié vendredi par l'institut européen sur le climat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'ensemble de l'Europe occidentale a connu cet été des températures exceptionnelles, selon le bilan publié vendredi par l'institut européen sur le climat."
+    },
+    "published": "Fri, 02 Oct 2026 15:25:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      13,
+      25,
+      5,
+      4,
+      275,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/crise-climatique/l-ete-2026-est-le-plus-chaud-jamais-enregistre-en-europe-de-l-ouest-selon-l-institut-copernicus_8219773.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xSskD25qdMsRSVWQPgAohJzD0sc/0x0:1024x576/432x243/filters:format(jpg)/2026/10/02/6abfb0aec429f374590030.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/crise-climatique/l-ete-2026-est-le-plus-chaud-jamais-enregistre-en-europe-de-l-ouest-selon-l-institut-copernicus_8219773.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/crise-climatique/l-ete-2026-est-le-plus-chaud-jamais-enregistre-en-europe-de-l-ouest-selon-l-institut-copernicus_8219773.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

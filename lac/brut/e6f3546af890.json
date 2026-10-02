@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T14:27:45.285589+00:00",
+  "_id": "e6f3546af890",
+  "brut": {
+    "title": "L’inflation en zone euro au plus haut depuis trois ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’inflation en zone euro au plus haut depuis trois ans"
+    },
+    "published": "Fri, 02 Oct 2026 12:42:54 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      10,
+      42,
+      54,
+      4,
+      275,
+      0
+    ],
+    "updated": "Fri, 02 Oct 2026 13:24:29 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      2,
+      11,
+      24,
+      29,
+      4,
+      275,
+      0
+    ],
+    "summary": "L’augmentation des prix dans les 21 pays de la zone a atteint 3,8 % sur un an en septembre, selon la première estimation d’Eurostat, principalement en raison du bond des tarifs de l’énergie. Cette accélération pourrait conduire à une nouvelle hausse des taux d’intérêt.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’augmentation des prix dans les 21 pays de la zone a atteint 3,8 % sur un an en septembre, selon la première estimation d’Eurostat, principalement en raison du bond des tarifs de l’énergie. Cette accélération pourrait conduire à une nouvelle hausse des taux d’intérêt."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/02/l-inflation-en-zone-euro-au-plus-haut-depuis-trois-ans_6787127_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/02/l-inflation-en-zone-euro-au-plus-haut-depuis-trois-ans_6787127_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/02/l-inflation-en-zone-euro-au-plus-haut-depuis-trois-ans_6787127_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/22/874/0/8640/4320/644/322/60/0/c458c34_ftp-1-kxmrku76uosx-b855e92693074a218c2e725faf9cb933-0-f7ba8268987c46e2b6d6fb8bd415889d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Puteaux (Hauts-de-Seine), le 22 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Teresa Suarez/AP Photo"
+      }
+    ],
+    "credit": "Teresa Suarez/AP Photo"
+  }
+}
