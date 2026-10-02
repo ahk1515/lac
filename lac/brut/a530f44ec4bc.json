@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-02T20:21:45.748431+00:00",
+  "_id": "a530f44ec4bc",
+  "brut": {
+    "title": "\"Nous, les Européens\". Protection de l’enfance : l’Espagne se mobilise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Nous, les Européens\". Protection de l’enfance : l’Espagne se mobilise"
+    },
+    "summary": "Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2."
+    },
+    "published": "Fri, 02 Oct 2026 19:02:56 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      17,
+      2,
+      56,
+      4,
+      275,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/P-oA0qdL0Kk8yhscp8TU69_pFjQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/02/6abfe3b8f2784679059550.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

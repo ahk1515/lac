@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-02T20:21:45.748587+00:00",
+  "_id": "57ad58a897f8",
+  "brut": {
+    "title": "En Espagne, les députés rejettent des textes sur le logement proposés par le gouvernement en réponse à un mouvement de contestation",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Espagne, les députés rejettent des textes sur le logement proposés par le gouvernement en réponse à un mouvement de contestation"
+    },
+    "summary": "Ce rejet est un camouflet pour le Premier ministre socialiste, Pedro Sánchez, et ouvre la voie à un durcissement de la contestation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ce rejet est un camouflet pour le Premier ministre socialiste, Pedro Sánchez, et ouvre la voie à un durcissement de la contestation."
+    },
+    "published": "Fri, 02 Oct 2026 19:01:11 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      17,
+      1,
+      11,
+      4,
+      275,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CSezDI6loK_IM-Q9tcqqmMCDFCs/0x79:1024x655/432x243/filters:format(jpg)/2026/10/02/6abfd5a9bb5a9746183543.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

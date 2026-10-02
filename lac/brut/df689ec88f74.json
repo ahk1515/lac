@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T20:21:45.611503+00:00",
+  "_id": "df689ec88f74",
+  "brut": {
+    "title": "Christa Pike : la condamnée à mort se trouve sous respirateur après son exécution ratée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Christa Pike : la condamnée à mort se trouve sous respirateur après son exécution ratée"
+    },
+    "published": "Fri, 02 Oct 2026 22:15:40 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      20,
+      15,
+      40,
+      4,
+      275,
+      0
+    ],
+    "summary": "Les médecins s’efforcent d’éliminer de l’organisme de la quinquagénaire les deux doses de pentobarbital, le produit létal qui lui a été injecté, selon ses avocats.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les médecins s’efforcent d’éliminer de l’organisme de la quinquagénaire les deux doses de pentobarbital, le produit létal qui lui a été injecté, selon ses avocats."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/christa-pike-la-condamnee-a-mort-se-trouve-sous-respirateur-apres-son-execution-ratee_6787220_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/christa-pike-la-condamnee-a-mort-se-trouve-sous-respirateur-apres-son-execution-ratee_6787220_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/christa-pike-la-condamnee-a-mort-se-trouve-sous-respirateur-apres-son-execution-ratee_6787220_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/623/0/5103/2551/644/322/60/0/aaf2a25_ftp-1-6fmpp0vsliot-005f421295d94b179d9edc3719063c4c-0-0a41a70c81934543b4d0ea0c7d9ee197.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des véhicules d’urgence arrivent au pénitencier de haute sécurité de Riverbend, après l’arrêt de l’exécution de Christa Pike, à Nashville (Tennessee), le 30 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "George Walker IV/AP"
+      }
+    ],
+    "credit": "George Walker IV/AP"
+  }
+}

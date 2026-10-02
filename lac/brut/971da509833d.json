@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T20:21:45.614926+00:00",
+  "_id": "971da509833d",
+  "brut": {
+    "title": "En Birmanie, des usines sous contrat avec H&M ferment en raison d’une chute des commandes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Birmanie, des usines sous contrat avec H&M ferment en raison d’une chute des commandes"
+    },
+    "published": "Fri, 02 Oct 2026 17:21:50 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      15,
+      21,
+      50,
+      4,
+      275,
+      0
+    ],
+    "updated": "Fri, 02 Oct 2026 18:09:14 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      2,
+      16,
+      9,
+      14,
+      4,
+      275,
+      0
+    ],
+    "summary": "Les droits des travailleurs se sont dégradés depuis la prise de pouvoir de la junte en 2021, alors que les exportations vers l’Union européenne continuaient d’augmenter.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les droits des travailleurs se sont dégradés depuis la prise de pouvoir de la junte en 2021, alors que les exportations vers l’Union européenne continuaient d’augmenter."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/02/chute-des-commandes-droits-humains-non-respectes-en-birmanie-des-usines-sous-contrat-avec-h-m-ferment_6787179_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/02/chute-des-commandes-droits-humains-non-respectes-en-birmanie-des-usines-sous-contrat-avec-h-m-ferment_6787179_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/02/chute-des-commandes-droits-humains-non-respectes-en-birmanie-des-usines-sous-contrat-avec-h-m-ferment_6787179_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/610/0/4067/2033/644/322/60/0/073a233_upload-1-tkbyxtqvm1i6-000-1ah6yi.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une usine de confection à Rangoun (Birmanie), le 1ᵉʳ novembre 2018."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "YE AUNG THU/AFP"
+      }
+    ],
+    "credit": "YE AUNG THU/AFP"
+  }
+}

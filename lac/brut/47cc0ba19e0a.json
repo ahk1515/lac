@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-02T20:21:45.748275+00:00",
+  "_id": "47cc0ba19e0a",
+  "brut": {
+    "title": "En République du Congo, l'épidémie d'Ebola franchit le cap des 4 000 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En République du Congo, l'épidémie d'Ebola franchit le cap des 4 000 morts"
+    },
+    "summary": "Jean-Noël Barrot se rend dans le pays pour marquer le soutien de la France aux autorités locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Jean-Noël Barrot se rend dans le pays pour marquer le soutien de la France aux autorités locales."
+    },
+    "published": "Fri, 02 Oct 2026 22:19:38 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      20,
+      19,
+      38,
+      4,
+      275,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0Dv0wTBSkUyIm80mSTlYDRIW_Yk/0x300:5760x3540/432x243/filters:format(jpg)/2026/10/02/6abfe670170b7614597532.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T20:21:45.611856+00:00",
+  "_id": "3cfdda7b4db5",
+  "brut": {
+    "title": "Sous pression de Donald Trump, le G7 annonce un déblocage de 100 millions de barils de pétrole",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sous pression de Donald Trump, le G7 annonce un déblocage de 100 millions de barils de pétrole"
+    },
+    "published": "Fri, 02 Oct 2026 21:11:23 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      19,
+      11,
+      23,
+      4,
+      275,
+      0
+    ],
+    "summary": "La menace d’un embargo américain sur les exportations de gazole a précipité les discussions autour des pistes susceptibles de freiner l’envolée des prix.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La menace d’un embargo américain sur les exportations de gazole a précipité les discussions autour des pistes susceptibles de freiner l’envolée des prix."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/02/sous-pression-de-donald-trump-le-g7-annonce-un-deblocage-de-100-millions-de-barils-de-petrole_6787218_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/02/sous-pression-de-donald-trump-le-g7-annonce-un-deblocage-de-100-millions-de-barils-de-petrole_6787218_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/02/sous-pression-de-donald-trump-le-g7-annonce-un-deblocage-de-100-millions-de-barils-de-petrole_6787218_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/0/0/3612/1806/644/322/60/0/92a4b4a_ftp-1-csyxanq80phs-2026-09-28t234841z-731370403-rc2dsnasarcf-rtrmadp-3-usa-trump-diesel.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les prix de l’essence et du gazole d’une station-service, le long de l’Interstate 5 à Williams (Californie), le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Fred Greaves/REUTERS"
+      }
+    ],
+    "credit": "Fred Greaves/REUTERS"
+  }
+}

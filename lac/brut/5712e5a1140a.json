@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T20:21:45.612172+00:00",
+  "_id": "5712e5a1140a",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    "published": "Fri, 02 Oct 2026 19:39:30 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      17,
+      39,
+      30,
+      4,
+      275,
+      0
+    ],
+    "updated": "Fri, 02 Oct 2026 19:51:36 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      2,
+      17,
+      51,
+      36,
+      4,
+      275,
+      0
+    ],
+    "summary": "A Kiev, le pont Pivdenny « a de nouveau été touché », rapporte Vitali Klitschko, maire de la ville, sans plus de précision. La circulation y avait été suspendue, en début de journée, après des bombardements russes, la veille et dans la nuit de jeudi à vendredi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Kiev, le pont Pivdenny « a de nouveau été touché », rapporte Vitali Klitschko, maire de la ville, sans plus de précision. La circulation y avait été suspendue, en début de journée, après des bombardements russes, la veille et dans la nuit de jeudi à vendredi."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-les-dernieres-informations_6783795_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-les-dernieres-informations_6783795_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-les-dernieres-informations_6783795_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/89/0/4500/2250/644/322/60/0/86f5499_ftp-1-kqn1jsv7xwf5-2026-10-02t170950z-1577810477-rc24vna1izuw-rtrmadp-3-ukraine-crisis-attack-kyiv-bridges.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un bus pris dans les embouteillages, à la suite de frappes de drones russes sur le pont Pivdenny, à Kiev, le 2 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Thomas Peter/REUTERS"
+      }
+    ],
+    "credit": "Thomas Peter/REUTERS"
+  }
+}
