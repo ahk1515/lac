@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T04:11:40.731295+00:00",
+  "_id": "324b8d895da1",
+  "brut": {
+    "title": "L’Irak fête le départ de la coalition internationale et des dernières troupes américaines",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Irak fête le départ de la coalition internationale et des dernières troupes américaines"
+    },
+    "published": "Fri, 02 Oct 2026 06:00:09 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      4,
+      0,
+      9,
+      4,
+      275,
+      0
+    ],
+    "summary": "Bagdad a décrété le 1ᵉʳ octobre « Journée de la célébration », après vingt-trois années de présence militaire des Etats-Unis depuis l’invasion de mars 2003, tandis que Donald Trump se félicitait d’une « victoire » pour les deux pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bagdad a décrété le 1ᵉʳ octobre « Journée de la célébration », après vingt-trois années de présence militaire des Etats-Unis depuis l’invasion de mars 2003, tandis que Donald Trump se félicitait d’une « victoire » pour les deux pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/l-irak-fete-le-depart-de-la-coalition-internationale-et-des-dernieres-troupes-americaines_6786895_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/l-irak-fete-le-depart-de-la-coalition-internationale-et-des-dernieres-troupes-americaines_6786895_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/l-irak-fete-le-depart-de-la-coalition-internationale-et-des-dernieres-troupes-americaines_6786895_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/30/75/0/4287/2143/644/322/60/0/0838df8_ftp-1-vfhdpx7vk1ul-d03b415f779143f195f9fbf299a36a7e-1-e370fc6b63464b278b9e08c3506efad5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des agents de sécurité irakiens lors d’un convoi célébrant le retrait complet des troupes américaines d’Irak, à Bagdad, le 30 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hadi Mizban/AP"
+      }
+    ],
+    "credit": "Hadi Mizban/AP"
+  }
+}

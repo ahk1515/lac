@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T04:11:40.732029+00:00",
+  "_id": "a75fb3e2b2a9",
+  "brut": {
+    "title": "L’été 2026 devient le plus chaud jamais enregistré en Europe occidentale, sans provoquer de sursaut politique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’été 2026 devient le plus chaud jamais enregistré en Europe occidentale, sans provoquer de sursaut politique"
+    },
+    "published": "Fri, 02 Oct 2026 04:00:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      2,
+      0,
+      8,
+      4,
+      275,
+      0
+    ],
+    "summary": "Selon le service européen Copernicus, la température moyenne estivale s’est établie à 21,7 °C, bien au-dessus de la moyenne, et le débit des cours d’eau a atteint son niveau le plus faible depuis plus de trente ans. Mais les Etats membres de l’Union européenne continuent d’investir dans les énergies fossiles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le service européen Copernicus, la température moyenne estivale s’est établie à 21,7 °C, bien au-dessus de la moyenne, et le débit des cours d’eau a atteint son niveau le plus faible depuis plus de trente ans. Mais les Etats membres de l’Union européenne continuent d’investir dans les énergies fossiles."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/416/0/5000/2500/644/322/60/0/954560c_upload-1-dsu2h59sxfba-000-c4fv29g.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un touriste devant le lit asséché du lac des Brenets, un bras du Doubs qui forme une frontière naturelle entre l’est de la France et l’ouest de la Suisse, aux Brenets (Suisse), le 11 août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "FABRICE COFFRINI/AFP"
+      }
+    ],
+    "credit": "FABRICE COFFRINI/AFP"
+  }
+}

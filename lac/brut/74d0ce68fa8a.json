@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T04:11:40.731854+00:00",
+  "_id": "74d0ce68fa8a",
+  "brut": {
+    "title": "Etats-Unis : après l’exécution ratée de Christa Pike, des suites judiciaires incertaines et un impossible débat sur la peine de mort",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Etats-Unis : après l’exécution ratée de Christa Pike, des suites judiciaires incertaines et un impossible débat sur la peine de mort"
+    },
+    "published": "Fri, 02 Oct 2026 05:00:11 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      3,
+      0,
+      11,
+      4,
+      275,
+      0
+    ],
+    "summary": "Cette condamnée à mort de 50 ans, dont l’affaire a été fortement médiatisée, a été hospitalisée mercredi soir dans le Tennessee au terme de deux heures de calvaire, après avoir survécu à deux injections de barbituriques, un échec retentissant pour le système américain d’administration de la peine capitale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette condamnée à mort de 50 ans, dont l’affaire a été fortement médiatisée, a été hospitalisée mercredi soir dans le Tennessee au terme de deux heures de calvaire, après avoir survécu à deux injections de barbituriques, un échec retentissant pour le système américain d’administration de la peine capitale."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/etats-unis-apres-l-execution-ratee-de-christa-pike-des-suites-judiciaires-incertaines-et-un-impossible-debat-sur-la-peine-de-mort_6786790_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/etats-unis-apres-l-execution-ratee-de-christa-pike-des-suites-judiciaires-incertaines-et-un-impossible-debat-sur-la-peine-de-mort_6786790_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/etats-unis-apres-l-execution-ratee-de-christa-pike-des-suites-judiciaires-incertaines-et-un-impossible-debat-sur-la-peine-de-mort_6786790_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/352/0/842/421/644/322/60/0/b41c9f0_ftp-1-kbgkbfbuvtat-ba0c159a245e4ee3aa1f8f61b6d0ef4f-0-e27e9e20d9844224b27cd68381c52c2d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Christa Pike, le 12 janvier 2023."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tennessee Department of Correction via AP"
+      }
+    ],
+    "credit": "Tennessee Department of Correction via AP"
+  }
+}

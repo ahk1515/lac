@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-02T04:11:40.732225+00:00",
+  "_id": "40ac8d256681",
+  "brut": {
+    "title": "L’Estonie, menacée par la Russie, forme ses enfants au maniement des drones",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Estonie, menacée par la Russie, forme ses enfants au maniement des drones"
+    },
+    "published": "Fri, 02 Oct 2026 03:30:07 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      1,
+      30,
+      7,
+      4,
+      275,
+      0
+    ],
+    "summary": "A Tallinn, joystick en main, des élèves font face aux écrans de simulateurs de vol au Centre de découverte de l’énergie. L’exercice vient compléter la formation à la défense déjà obligatoire pour les lycéens. Leurs compétences pourront, une fois qu’ils seront adultes, s’appliquer au domaine militaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Tallinn, joystick en main, des élèves font face aux écrans de simulateurs de vol au Centre de découverte de l’énergie. L’exercice vient compléter la formation à la défense déjà obligatoire pour les lycéens. Leurs compétences pourront, une fois qu’ils seront adultes, s’appliquer au domaine militaire."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/02/l-estonie-menacee-par-la-russie-forme-ses-enfants-au-maniement-des-drones_6786724_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/l-estonie-menacee-par-la-russie-forme-ses-enfants-au-maniement-des-drones_6786724_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/02/l-estonie-menacee-par-la-russie-forme-ses-enfants-au-maniement-des-drones_6786724_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/361/0/4333/2166/644/322/60/0/d3df57f_upload-1-vgpfa5uv90hg-000-72kv7y4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un drone est photographié lors de l’exercice militaire international de lutte anti-drones « Baltic Trust 25 » à Selonia (Lettonie), le 27 août 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GINTS IVUSKANS/AFP"
+      }
+    ],
+    "credit": "GINTS IVUSKANS/AFP"
+  }
+}
