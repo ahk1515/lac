@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T03:54:27.734535+00:00",
+  "_id": "b9a4a7433766",
+  "brut": {
+    "title": "En Californie, le niveau de la mer va temporairement augmenter d’une trentaine de centimètres",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Californie, le niveau de la mer va temporairement augmenter d’une trentaine de centimètres"
+    },
+    "published": "Sat, 03 Oct 2026 03:46:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      1,
+      46,
+      3,
+      5,
+      276,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 04:21:30 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      2,
+      21,
+      30,
+      5,
+      276,
+      0
+    ],
+    "summary": "Le phénomène est provoqué par une onde océanique géante dopée par l’événement climatique El Niño. Ni surfable ni visible à l’œil nu, cette vague devrait atteindre San Diego la semaine du 5 octobre et accroître le risque d’inondations et d’érosion des plages.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le phénomène est provoqué par une onde océanique géante dopée par l’événement climatique El Niño. Ni surfable ni visible à l’œil nu, cette vague devrait atteindre San Diego la semaine du 5 octobre et accroître le risque d’inondations et d’érosion des plages."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/652/0/5096/2548/644/322/60/0/ac9d927_ftp-1-k6s5rmy3izp9-5182936-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Installation de digues pour prévenir des inondations côtières, à Long Beach (Californie), le 25 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PATRICK T. FALLON/AFP"
+      }
+    ],
+    "credit": "PATRICK T. FALLON/AFP"
+  }
+}

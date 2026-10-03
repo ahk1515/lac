@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T03:54:27.734727+00:00",
+  "_id": "e163917b2ed2",
+  "brut": {
+    "title": "Ebola en RDC : la pire épidémie de l’histoire du pays franchit la barre des 4 000 morts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola en RDC : la pire épidémie de l’histoire du pays franchit la barre des 4 000 morts"
+    },
+    "published": "Sat, 03 Oct 2026 02:14:41 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      0,
+      14,
+      41,
+      5,
+      276,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 02:31:53 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      0,
+      31,
+      53,
+      5,
+      276,
+      0
+    ],
+    "summary": "Le pays fait face à une flambée inédite du virus mais la présence de groupes armés et la défiance d’une partie des populations locales entravent la riposte. Le chef de la diplomatie française, Jean-Noël Barrot, est sur place pour marquer le soutien de Paris aux autorités locales et aux humanitaires.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pays fait face à une flambée inédite du virus mais la présence de groupes armés et la défiance d’une partie des populations locales entravent la riposte. Le chef de la diplomatie française, Jean-Noël Barrot, est sur place pour marquer le soutien de Paris aux autorités locales et aux humanitaires."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/1095/0/7728/3864/644/322/60/0/374e429_ftp-1-ctfzwcpjwncg-2026-10-02t095043z-892010841-rc2oonaomkm7-rtrmadp-3-health-ebola-congo.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des praticiens de Médecins sans frontières soignent un patient au sein du centre de traitement Ebola de Kitatumba, à Butembo, dans la province du Nord-Kivu, en République démocratique du Congo, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gradel Muyisa Mumbere/REUTERS"
+      }
+    ],
+    "credit": "Gradel Muyisa Mumbere/REUTERS"
+  }
+}

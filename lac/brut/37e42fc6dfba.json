@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T03:54:27.734437+00:00",
+  "_id": "37e42fc6dfba",
+  "brut": {
+    "title": "En Guinée, la grâce présidentielle accordée à l’opposant Aliou Bah, condamné pour « offense et diffamation »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Guinée, la grâce présidentielle accordée à l’opposant Aliou Bah, condamné pour « offense et diffamation »"
+    },
+    "published": "Sat, 03 Oct 2026 05:17:38 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      3,
+      17,
+      38,
+      5,
+      276,
+      0
+    ],
+    "summary": "Le président du Mouvement démocratique libéral est incarcéré depuis décembre 2024. Sa grâce, ainsi que celle de 216 autres détenus, a été décidée par le chef de l’État, Mamadi Doumbouya, à l’occasion de la fête de l’indépendance du pays, selon un décret présidentiel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président du Mouvement démocratique libéral est incarcéré depuis décembre 2024. Sa grâce, ainsi que celle de 216 autres détenus, a été décidée par le chef de l’État, Mamadi Doumbouya, à l’occasion de la fête de l’indépendance du pays, selon un décret présidentiel."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/03/en-guinee-la-grace-presidentielle-accordee-a-l-opposant-aliou-bah-condamne-pour-offense-et-diffamation_6787489_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/03/en-guinee-la-grace-presidentielle-accordee-a-l-opposant-aliou-bah-condamne-pour-offense-et-diffamation_6787489_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/03/en-guinee-la-grace-presidentielle-accordee-a-l-opposant-aliou-bah-condamne-pour-offense-et-diffamation_6787489_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/03/245/0/2790/1395/644/322/60/0/ed264c5_upload-1-hkhc7etxjzkt-2026-01-17t184751z-896423021-rc223jauj0as-rtrmadp-3-guinea-election-inauguration.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président élu de Guinée, Mamady Doumbouya, entouré d’avocats lors de sa cérémonie d’investiture à Conakry, en Guinée, le 17 janvier 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stringer/REUTERS"
+      }
+    ],
+    "credit": "Stringer/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T03:54:27.735176+00:00",
+  "_id": "cb88ad7e2466",
+  "brut": {
+    "title": "Aux Etats-Unis, la croissance reste vive mais elle crée moins d’emplois",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, la croissance reste vive mais elle crée moins d’emplois"
+    },
+    "published": "Fri, 02 Oct 2026 22:45:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      20,
+      45,
+      5,
+      4,
+      275,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 05:08:58 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      3,
+      8,
+      58,
+      5,
+      276,
+      0
+    ],
+    "summary": "Le pays n’a généré que 29 000 postes au mois de septembre, bien en dessous des 80 000 anticipés par les analystes. Le secteur du soin a porté l’essentiel de ces créations quand celui des services financiers continue de plonger en la matière.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le pays n’a généré que 29 000 postes au mois de septembre, bien en dessous des 80 000 anticipés par les analystes. Le secteur du soin a porté l’essentiel de ces créations quand celui des services financiers continue de plonger en la matière."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/02/aux-etats-unis-la-croissance-reste-vive-mais-elle-cree-moins-d-emplois_6787222_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/02/aux-etats-unis-la-croissance-reste-vive-mais-elle-cree-moins-d-emplois_6787222_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/02/aux-etats-unis-la-croissance-reste-vive-mais-elle-cree-moins-d-emplois_6787222_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/335/0/7803/3901/644/322/60/0/5ca1280_upload-1-v7zxc7nk05wz-000-c3j43an.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des chômeurs attendent de rencontrer des représentants d’entreprises lors du salon de l’emploi et des ressources « Inspire Together », à Los Angeles, en Californie, le 29 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "PATRICK T. FALLON/AFP"
+      }
+    ],
+    "credit": "PATRICK T. FALLON/AFP"
+  }
+}

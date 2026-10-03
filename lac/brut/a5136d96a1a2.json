@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T03:54:27.735265+00:00",
+  "_id": "a5136d96a1a2",
+  "brut": {
+    "title": "Etats-Unis : Donald Trump s’apprête à confier le dossier de l’IA au chef du renseignement américain, Jay Clayton",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Etats-Unis : Donald Trump s’apprête à confier le dossier de l’IA au chef du renseignement américain, Jay Clayton"
+    },
+    "published": "Fri, 02 Oct 2026 22:33:01 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      20,
+      33,
+      1,
+      4,
+      275,
+      0
+    ],
+    "summary": "Alors que les inquiétudes grandissent quant à la maîtrise de cette technologie, le président américain penche pour l’ancien patron du gendarme boursier américain malgré son absence d’expérience dans le domaine de la tech.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que les inquiétudes grandissent quant à la maîtrise de cette technologie, le président américain penche pour l’ancien patron du gendarme boursier américain malgré son absence d’expérience dans le domaine de la tech."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/10/02/etats-unis-donald-trump-s-apprete-a-confier-le-dossier-de-l-ia-au-chef-du-renseignement-americain-jay-clayton_6787221_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/10/02/etats-unis-donald-trump-s-apprete-a-confier-le-dossier-de-l-ia-au-chef-du-renseignement-americain-jay-clayton_6787221_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/10/02/etats-unis-donald-trump-s-apprete-a-confier-le-dossier-de-l-ia-au-chef-du-renseignement-americain-jay-clayton_6787221_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/36/0/5237/2618/644/322/60/0/567b722_upload-1-jjlp5qwxvwh2-000-c2a48nt.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Jay Clayton, lors d’une audition de la commission du renseignement du Sénat concernant sa nomination au poste de directeur du renseignement national, au Capitole, à Washington, le 15 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KEN CEDENO/AFP"
+      }
+    ],
+    "credit": "KEN CEDENO/AFP"
+  }
+}
