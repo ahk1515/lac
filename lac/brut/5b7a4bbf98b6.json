@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-03T15:45:26.707975+00:00",
+  "_id": "5b7a4bbf98b6",
+  "brut": {
+    "title": "\"Je suis sans voix\" : le jardin des rêves en Toscane fascine les visiteurs",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Je suis sans voix\" : le jardin des rêves en Toscane fascine les visiteurs"
+    },
+    "summary": "À une heure et demie de Rome, en Italie, se trouve un lieu hors du temps : le jardin des Tarots. Cet espace rempli de sculptures aux couleurs et formes atypiques a été imaginé par l'artiste plasticienne franco-américaine, Niki de Saint Phalle.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "À une heure et demie de Rome, en Italie, se trouve un lieu hors du temps : le jardin des Tarots. Cet espace rempli de sculptures aux couleurs et formes atypiques a été imaginé par l'artiste plasticienne franco-américaine, Niki de Saint Phalle."
+    },
+    "published": "Sat, 03 Oct 2026 16:29:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      14,
+      29,
+      10,
+      5,
+      276,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/je-suis-sans-voix-le-jardin-des-reves-en-toscane-fascine-les-visiteurs_8221207.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/r1c4CFI1w9Nuv2wNYHnuSnDsxhk/0x0:1486x836/432x243/filters:format(jpg)/2026/10/03/6ac0fda1339c2562236205.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/je-suis-sans-voix-le-jardin-des-reves-en-toscane-fascine-les-visiteurs_8221207.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/je-suis-sans-voix-le-jardin-des-reves-en-toscane-fascine-les-visiteurs_8221207.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

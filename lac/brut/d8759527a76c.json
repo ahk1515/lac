@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T15:45:26.527541+00:00",
+  "_id": "d8759527a76c",
+  "brut": {
+    "title": "Aux Etats-Unis, des midterms à valeur de test pour la démocratie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, des midterms à valeur de test pour la démocratie"
+    },
+    "published": "Sat, 03 Oct 2026 14:30:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      12,
+      30,
+      8,
+      5,
+      276,
+      0
+    ],
+    "summary": "Lors des élections de mi-mandat, le 3 novembre, les Américains auront l’occasion de se prononcer sur la dérive autoritaire de la présidence Trump. Mais le rebond civique pourrait se faire attendre, en raison d’un paysage politique marqué par l’affaiblissement des deux principaux partis, ainsi que par le charcutage de la carte électorale.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Lors des élections de mi-mandat, le 3 novembre, les Américains auront l’occasion de se prononcer sur la dérive autoritaire de la présidence Trump. Mais le rebond civique pourrait se faire attendre, en raison d’un paysage politique marqué par l’affaiblissement des deux principaux partis, ainsi que par le charcutage de la carte électorale."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/10/03/aux-etats-unis-des-midterms-a-valeur-de-test-pour-la-democratie_6787796_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/10/03/aux-etats-unis-des-midterms-a-valeur-de-test-pour-la-democratie_6787796_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/10/03/aux-etats-unis-des-midterms-a-valeur-de-test-pour-la-democratie_6787796_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/03/204/0/1904/952/644/322/60/0/8aec65d_ftp-1-hbn3zbumaswi-2026-10-03t005916z-470139483-rc2cvnac61qv-rtrmadp-3-usa-trump-alabama.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, après un meeting de campagne à Mobile, dans l’Alabama (Etats-Unis), le 2 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jessica Koscielniak/REUTERS"
+      }
+    ],
+    "credit": "Jessica Koscielniak/REUTERS"
+  }
+}

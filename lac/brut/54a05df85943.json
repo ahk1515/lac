@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-03T15:45:26.707738+00:00",
+  "_id": "54a05df85943",
+  "brut": {
+    "title": "A Gaza, cinq morts dans une frappe aérienne israélienne nocturne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Gaza, cinq morts dans une frappe aérienne israélienne nocturne"
+    },
+    "summary": "Les cinq victimes étaient deux femmes et leurs filles respectives, ainsi qu'un jeune homme, un selon un responsable du complexe médical al-Chifa.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les cinq victimes étaient deux femmes et leurs filles respectives, ainsi qu'un jeune homme, un selon un responsable du complexe médical al-Chifa."
+    },
+    "published": "Sat, 03 Oct 2026 16:57:46 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      14,
+      57,
+      46,
+      5,
+      276,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-cinq-morts-dans-une-frappe-aerienne-israelienne-nocturne_8221312.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/PCdCMQRo3nDN7nr9AA4y8WA2zxM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/03/6ac117301f191223172615.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-cinq-morts-dans-une-frappe-aerienne-israelienne-nocturne_8221312.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-cinq-morts-dans-une-frappe-aerienne-israelienne-nocturne_8221312.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

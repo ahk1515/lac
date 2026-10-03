@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-03T15:45:26.707902+00:00",
+  "_id": "dc3c808b5e30",
+  "brut": {
+    "title": "\"Un jeune conducteur conduisait de manière imprudente\" : une voiture fonce dans une foule de supporters en Australie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Un jeune conducteur conduisait de manière imprudente\" : une voiture fonce dans une foule de supporters en Australie"
+    },
+    "summary": "Une voiture conduite par un jeune de 18 ans a percuté une foule de fans de rugby, samedi 3 octobre, à Newcastle (Australie). Dix personnes ont été blessées. La piste terroriste a, pour le moment, été écartée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une voiture conduite par un jeune de 18 ans a percuté une foule de fans de rugby, samedi 3 octobre, à Newcastle (Australie). Dix personnes ont été blessées. La piste terroriste a, pour le moment, été écartée."
+    },
+    "published": "Sat, 03 Oct 2026 16:19:26 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      14,
+      19,
+      26,
+      5,
+      276,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/asie/un-jeune-conducteur-de-18-ans-conduisait-de-maniere-imprudente-une-voiture-fonce-dans-une-foule-de-supporters-du-rugby-en-australie_8221225.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zb0JpdyLz0LkvsKUKeXpjNrxnAc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/03/6ac0fe76deb19087331617.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/asie/un-jeune-conducteur-de-18-ans-conduisait-de-maniere-imprudente-une-voiture-fonce-dans-une-foule-de-supporters-du-rugby-en-australie_8221225.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/asie/un-jeune-conducteur-de-18-ans-conduisait-de-maniere-imprudente-une-voiture-fonce-dans-une-foule-de-supporters-du-rugby-en-australie_8221225.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

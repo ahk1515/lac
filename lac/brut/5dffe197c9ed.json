@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T15:45:26.527971+00:00",
+  "_id": "5dffe197c9ed",
+  "brut": {
+    "title": "Les prisons de France continuent d’être surpeuplées, avec un nombre inégalé de plus de 90 000 détenus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les prisons de France continuent d’être surpeuplées, avec un nombre inégalé de plus de 90 000 détenus"
+    },
+    "published": "Sat, 03 Oct 2026 12:09:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      10,
+      9,
+      8,
+      5,
+      276,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 12:16:05 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      10,
+      16,
+      5,
+      5,
+      276,
+      0
+    ],
+    "summary": "Le Conseil de l’Europe avait dénoncé au début de l’année l’état des prisons françaises, en sonnant l’alarme, dans un rapport, sur le risque de transformation de ces établissements en « entrepôt humain ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Conseil de l’Europe avait dénoncé au début de l’année l’état des prisons françaises, en sonnant l’alarme, dans un rapport, sur le risque de transformation de ces établissements en « entrepôt humain »."
+    },
+    "id": "https://www.lemonde.fr/societe/article/2026/10/03/les-prisons-francaises-continuent-d-etre-surpeuplees-avec-un-nombre-inegale-de-plus-de-90-000-detenus_6787785_3224.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/societe/article/2026/10/03/les-prisons-francaises-continuent-d-etre-surpeuplees-avec-un-nombre-inegale-de-plus-de-90-000-detenus_6787785_3224.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/societe/article/2026/10/03/les-prisons-francaises-continuent-d-etre-surpeuplees-avec-un-nombre-inegale-de-plus-de-90-000-detenus_6787785_3224.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/25/437/0/5107/2553/644/322/60/0/35eaf59_upload-1-cw6jgz8jjjsd-000-c2e36kf.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dans le quartier des hommes en détention provisoire de la prison de Fleury-Mérogis (Essonne), le 16 juillet 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SIMON WOHLFAHRT/AFP"
+      }
+    ],
+    "credit": "SIMON WOHLFAHRT/AFP"
+  }
+}

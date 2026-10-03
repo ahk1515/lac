@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T15:45:26.527889+00:00",
+  "_id": "00d53163be41",
+  "brut": {
+    "title": "La République dominicaine interdit à Haïti de jouer sur son sol à la suite d’incidents en marge du « derby d’Hispaniola »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La République dominicaine interdit à Haïti de jouer sur son sol à la suite d’incidents en marge du « derby d’Hispaniola »"
+    },
+    "published": "Sat, 03 Oct 2026 12:56:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      10,
+      56,
+      10,
+      5,
+      276,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 15:30:56 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      13,
+      30,
+      56,
+      5,
+      276,
+      0
+    ],
+    "summary": "Le ministère des sports dominicain a interdit vendredi 2 octobre à la sélection haïtienne de football d’évoluer sur son territoire, après des incidents survenus la veille en marge du match remporté par les Grenadiers, marqué par des célébrations polémiques de certains joueurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ministère des sports dominicain a interdit vendredi 2 octobre à la sélection haïtienne de football d’évoluer sur son territoire, après des incidents survenus la veille en marge du match remporté par les Grenadiers, marqué par des célébrations polémiques de certains joueurs."
+    },
+    "id": "https://www.lemonde.fr/sport/article/2026/10/03/la-republique-dominicaine-interdit-a-haiti-de-jouer-sur-son-sol-a-la-suite-d-incidents-en-marge-du-derby-d-hispaniola_6787787_3242.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sport/article/2026/10/03/la-republique-dominicaine-interdit-a-haiti-de-jouer-sur-son-sol-a-la-suite-d-incidents-en-marge-du-derby-d-hispaniola_6787787_3242.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sport/article/2026/10/03/la-republique-dominicaine-interdit-a-haiti-de-jouer-sur-son-sol-a-la-suite-d-incidents-en-marge-du-derby-d-hispaniola_6787787_3242.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/219/0/2856/1428/644/322/60/0/8b21174_ftp-1-dvoavz5suv3o-5244334-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des supporteurs haïtiens lors du match de la Ligue des nations de la Concacaf opposant la République dominicaine à Haïti au stade olympique Félix-Sanchez de Saint-Domingue, le 1ᵉʳ octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "NELSON PULIDO/AFP"
+      }
+    ],
+    "credit": "NELSON PULIDO/AFP"
+  }
+}

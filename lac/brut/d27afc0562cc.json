@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-03T15:45:26.707827+00:00",
+  "_id": "d27afc0562cc",
+  "brut": {
+    "title": "A Madrid, une manifestation pour le droit au logement rassemble entre 70 000 et 500 000 personnes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "A Madrid, une manifestation pour le droit au logement rassemble entre 70 000 et 500 000 personnes"
+    },
+    "summary": "La contestation en Espagne a été déclenchée par l'expulsion d'une Madrilène de 87 ans après qu'une société immobilière qui avait acheté son logement a voulu augmenter son loyer de 275 %.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La contestation en Espagne a été déclenchée par l'expulsion d'une Madrilène de 87 ans après qu'une société immobilière qui avait acheté son logement a voulu augmenter son loyer de 275 %."
+    },
+    "published": "Sat, 03 Oct 2026 16:03:24 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      14,
+      3,
+      24,
+      5,
+      276,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/a-madrid-une-manifestation-pour-le-droit-au-logement-rassemble-entre-70-000-et-500-000-personnes_8221219.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/cf4Ve-y_N1JyYuT55rxLHa124bY/0x106:1024x682/432x243/filters:format(jpg)/2026/10/03/6ac1055e5602b932351108.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/a-madrid-une-manifestation-pour-le-droit-au-logement-rassemble-entre-70-000-et-500-000-personnes_8221219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/a-madrid-une-manifestation-pour-le-droit-au-logement-rassemble-entre-70-000-et-500-000-personnes_8221219.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

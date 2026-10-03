@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-03T15:45:26.708117+00:00",
+  "_id": "99c81b87fd61",
+  "brut": {
+    "title": "Espagne : les inondations dans le sud-est du pays font un mort",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Espagne : les inondations dans le sud-est du pays font un mort"
+    },
+    "summary": "Depuis vendredi 2 octobre, l'Espagne est une nouvelle fois touchée par de sérieuses inondations. À Madrigueras, dans la localité de Castille, une femme de 102 ans a perdu la vie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis vendredi 2 octobre, l'Espagne est une nouvelle fois touchée par de sérieuses inondations. À Madrigueras, dans la localité de Castille, une femme de 102 ans a perdu la vie."
+    },
+    "published": "Sat, 03 Oct 2026 16:06:55 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      14,
+      6,
+      55,
+      5,
+      276,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/les-inondations-en-espagne-font-un-mort_8221150.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rcvzbIgnj0vWCxdNIKAAXnUJNjo/0x5:1504x851/432x243/filters:format(jpg)/2026/10/03/6ac0e534c3329433554692.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/les-inondations-en-espagne-font-un-mort_8221150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/les-inondations-en-espagne-font-un-mort_8221150.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
