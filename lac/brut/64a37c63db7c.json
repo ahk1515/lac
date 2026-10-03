@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T22:41:38.571046+00:00",
+  "_id": "64a37c63db7c",
+  "brut": {
+    "title": "Les houthistes du Yémen revendiquent une frappe sur un site du géant pétrolier saoudien Aramco à Ryad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les houthistes du Yémen revendiquent une frappe sur un site du géant pétrolier saoudien Aramco à Ryad"
+    },
+    "published": "Sat, 03 Oct 2026 22:06:44 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      20,
+      6,
+      44,
+      5,
+      276,
+      0
+    ],
+    "summary": "Les hostilités entre les houthistes et l’Arabie saoudite, frontalière du Yémen, ne connaissent pas de répit depuis leur reprise en juillet, alors que les tractations diplomatiques pour un règlement marquent le pas.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les hostilités entre les houthistes et l’Arabie saoudite, frontalière du Yémen, ne connaissent pas de répit depuis leur reprise en juillet, alors que les tractations diplomatiques pour un règlement marquent le pas."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/03/les-houthistes-du-yemen-revendiquent-une-frappe-sur-un-site-du-geant-petrolier-saoudien-aramco-a-ryad_6787808_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/03/les-houthistes-du-yemen-revendiquent-une-frappe-sur-un-site-du-geant-petrolier-saoudien-aramco-a-ryad_6787808_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/03/les-houthistes-du-yemen-revendiquent-une-frappe-sur-un-site-du-geant-petrolier-saoudien-aramco-a-ryad_6787808_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/784/0/4703/2351/644/322/60/0/98f7f00_ftp-1-b4qpvy0bbtc1-5247017-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue aérienne de Sanaa, la capitale yéménite, le 2 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MOHAMMED HUWAIS/AFP"
+      }
+    ],
+    "credit": "MOHAMMED HUWAIS/AFP"
+  }
+}
