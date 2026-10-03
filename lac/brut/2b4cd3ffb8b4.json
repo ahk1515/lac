@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-03T09:40:59.209593+00:00",
+  "_id": "2b4cd3ffb8b4",
+  "brut": {
+    "title": "La Corée du Nord lance un nouveau missile balistique, selon Séoul",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Corée du Nord lance un nouveau missile balistique, selon Séoul"
+    },
+    "summary": "Le projectile s'est écrasé en mer sans faire de dégât, selon l'armée sud-coréenne. Ce nouveau tir intervient en plein regain de tension entre Pyongyang et Séoul.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le projectile s'est écrasé en mer sans faire de dégât, selon l'armée sud-coréenne. Ce nouveau tir intervient en plein regain de tension entre Pyongyang et Séoul."
+    },
+    "published": "Sat, 03 Oct 2026 07:35:23 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      5,
+      35,
+      23,
+      5,
+      276,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-lance-un-nouveau-missile-balistique-selon-seoul_8220829.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gRI1I4YNw54zDkhBadsgREsHkfk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/03/6ac093d19c7d5523907174.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-lance-un-nouveau-missile-balistique-selon-seoul_8220829.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-lance-un-nouveau-missile-balistique-selon-seoul_8220829.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

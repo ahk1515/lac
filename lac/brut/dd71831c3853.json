@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T09:40:58.973007+00:00",
+  "_id": "dd71831c3853",
+  "brut": {
+    "title": "Ethiopie : les rebelles du Tigré quittent Makalé, la capitale régionale, selon un journaliste local",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ethiopie : les rebelles du Tigré quittent Makalé, la capitale régionale, selon un journaliste local"
+    },
+    "published": "Sat, 03 Oct 2026 10:53:51 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      8,
+      53,
+      51,
+      5,
+      276,
+      0
+    ],
+    "summary": "Les forces fédérales éthiopiennes ont avancé rapidement ces derniers jours en direction de Makalé. A ce stade, elles ne sont pas encore entrées dans la ville, a précisé le journaliste, cité par l’Agence France-Presse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les forces fédérales éthiopiennes ont avancé rapidement ces derniers jours en direction de Makalé. A ce stade, elles ne sont pas encore entrées dans la ville, a précisé le journaliste, cité par l’Agence France-Presse."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/03/ethiopie-les-rebelles-du-tigre-quittent-makale-la-capitale-regionale-selon-un-journaliste-local_6787778_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/03/ethiopie-les-rebelles-du-tigre-quittent-makale-la-capitale-regionale-selon-un-journaliste-local_6787778_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/03/ethiopie-les-rebelles-du-tigre-quittent-makale-la-capitale-regionale-selon-un-journaliste-local_6787778_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/917/0/5500/2750/644/322/60/0/c0226ff_ftp-1-6vrfvigf6ipn-2026-10-02t130610z-1987378255-rc2prnagfufy-rtrmadp-3-ethiopia-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les locaux de la chaîne Tigray Television, le diffuseur du gouvernement régional du Tigré, après une frappe de drone, à Makalé (Ethiopie), le 27 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

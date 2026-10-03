@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T09:40:58.973947+00:00",
+  "_id": "6b4c49beaada",
+  "brut": {
+    "title": "En Espagne, Pedro Sanchez fragilisé par le rejet de ses mesures sur le logement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, Pedro Sanchez fragilisé par le rejet de ses mesures sur le logement"
+    },
+    "published": "Sat, 03 Oct 2026 09:10:01 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      7,
+      10,
+      1,
+      5,
+      276,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 10:48:10 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      8,
+      48,
+      10,
+      5,
+      276,
+      0
+    ],
+    "summary": "Le Parlement espagnol n’a pas validé les mesures d’urgence proposées, exposant la faiblesse de la majorité du président du gouvernement. Les spéculations sur des élections anticipées sont relancées, alors que la contestation se poursuit dans la rue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Parlement espagnol n’a pas validé les mesures d’urgence proposées, exposant la faiblesse de la majorité du président du gouvernement. Les spéculations sur des élections anticipées sont relancées, alors que la contestation se poursuit dans la rue."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/03/en-espagne-pedro-sanchez-fragilise-par-le-rejet-de-ses-mesures-sur-le-logement_6787670_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/03/en-espagne-pedro-sanchez-fragilise-par-le-rejet-de-ses-mesures-sur-le-logement_6787670_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/03/en-espagne-pedro-sanchez-fragilise-par-le-rejet-de-ses-mesures-sur-le-logement_6787670_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/1000/0/6000/3000/644/322/60/0/a189e82_ftp-1-0w66o6c5outj-5249479-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les manifestants contre la crise du logement, place Puerta del Sol, à Madrid, le 2 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "OSCAR DEL POZO/AFP"
+      }
+    ],
+    "credit": "OSCAR DEL POZO/AFP"
+  }
+}
