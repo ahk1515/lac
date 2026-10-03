@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T19:00:33.058400+00:00",
+  "_id": "78146cb64eec",
+  "brut": {
+    "title": "Des millions de contraceptifs destinés à l’Afrique sont bloqués depuis plus d’un an en Belgique sur décision des Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des millions de contraceptifs destinés à l’Afrique sont bloqués depuis plus d’un an en Belgique sur décision des Etats-Unis"
+    },
+    "published": "Sat, 03 Oct 2026 18:00:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      16,
+      0,
+      10,
+      5,
+      276,
+      0
+    ],
+    "summary": "Financés par l’Usaid, l’agence de développement de Washington, des millions de contraceptifs destinés en grande partie à des pays d’Afrique subsaharienne sont toujours bloqués dans des entrepôts en Belgique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Financés par l’Usaid, l’agence de développement de Washington, des millions de contraceptifs destinés en grande partie à des pays d’Afrique subsaharienne sont toujours bloqués dans des entrepôts en Belgique."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/03/des-millions-de-contraceptifs-destines-a-l-afrique-sont-bloques-depuis-plus-d-un-an-en-belgique-sur-decision-des-etats-unis_6787811_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/03/des-millions-de-contraceptifs-destines-a-l-afrique-sont-bloques-depuis-plus-d-un-an-en-belgique-sur-decision-des-etats-unis_6787811_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/03/des-millions-de-contraceptifs-destines-a-l-afrique-sont-bloques-depuis-plus-d-un-an-en-belgique-sur-decision-des-etats-unis_6787811_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/749/0/6000/3000/644/322/60/0/8ee5361_upload-1-82qf4embbobz-000-84ct6ke.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une maquette géante d’un stérilet gonflable, « Freeda Womb », exposée dans le cadre de la tournée européenne « Freeda Europe Tour » sur la place de la République, à Paris, le 18 novembre 2025, pour protester contre le blocage en Belgique des stocks de contraceptifs de l’Usaid."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEBASTIEN DUPUY/AFP"
+      }
+    ],
+    "credit": "SEBASTIEN DUPUY/AFP"
+  }
+}

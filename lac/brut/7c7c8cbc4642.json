@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-03T19:00:33.245091+00:00",
+  "_id": "7c7c8cbc4642",
+  "brut": {
+    "title": "\"Je n'ai jamais vu autant d'eau\" : les inondations en Espagne font de sérieux dégâts",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Je n'ai jamais vu autant d'eau\" : les inondations en Espagne font de sérieux dégâts"
+    },
+    "summary": "La ville de Madrigueras, dans le sud de l'Espagne, est touchée de plein fouet par les inondations depuis vendredi 2 octobre. Une personne de 102 ans est décédée. D'autres régions du pays sont touchées et la pluie ne devrait pas cesser avant la fin du week-end.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La ville de Madrigueras, dans le sud de l'Espagne, est touchée de plein fouet par les inondations depuis vendredi 2 octobre. Une personne de 102 ans est décédée. D'autres régions du pays sont touchées et la pluie ne devrait pas cesser avant la fin du week-end."
+    },
+    "published": "Sat, 03 Oct 2026 20:56:21 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      18,
+      56,
+      21,
+      5,
+      276,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/je-n-ai-jamais-vu-autant-d-eau-les-inondations-en-espagne-font-de-serieux-degats_8221513.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/vMQcPi8C-U98HwI4502Oa35i3FE/107x0:1428x743/432x243/filters:format(jpg)/2026/10/03/6ac14c4259955738220763.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/je-n-ai-jamais-vu-autant-d-eau-les-inondations-en-espagne-font-de-serieux-degats_8221513.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/je-n-ai-jamais-vu-autant-d-eau-les-inondations-en-espagne-font-de-serieux-degats_8221513.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T19:00:33.056989+00:00",
+  "_id": "039ed3222141",
+  "brut": {
+    "title": "En Egypte, des journalistes mobilisés pour réclamer la libération de six confrères",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Egypte, des journalistes mobilisés pour réclamer la libération de six confrères"
+    },
+    "published": "Sat, 03 Oct 2026 19:45:21 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      17,
+      45,
+      21,
+      5,
+      276,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 19:49:26 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      17,
+      49,
+      26,
+      5,
+      276,
+      0
+    ],
+    "summary": "« Le danger ne se limite pas à ces journalistes. Il concerne tous les journalistes indépendants », a déclaré à l’Agence France-Presse le journaliste Mostafa Bassiouny, présent au rassemblement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Le danger ne se limite pas à ces journalistes. Il concerne tous les journalistes indépendants », a déclaré à l’Agence France-Presse le journaliste Mostafa Bassiouny, présent au rassemblement."
+    },
+    "id": "https://www.lemonde.fr/actualite-medias/article/2026/10/03/en-egypte-des-journalistes-mobilises-pour-reclamer-la-liberation-de-six-confreres_6787826_3236.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/actualite-medias/article/2026/10/03/en-egypte-des-journalistes-mobilises-pour-reclamer-la-liberation-de-six-confreres_6787826_3236.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/actualite-medias/article/2026/10/03/en-egypte-des-journalistes-mobilises-pour-reclamer-la-liberation-de-six-confreres_6787826_3236.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/02/250/0/3000/1500/644/322/60/0/1fe834c_ftp-1-cek4wi9tn1dq-9c2aedc95d0947eabf19a1a3f61ba8ca-1-dcae17ff4388443c8b5baaa731948b37.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette série de photos non datées, fournies par Matsadaash, l’un des rares médias indépendants d’Egypte, montre des journalistes égyptiens : dans le sens des aiguilles d’une montre à partir du haut à gauche, Mohamed Ashraf, Omar Helal, Islam Barakat, Mohamed Adel, Mohamed Mahmoud et Abdallah Qadry."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Matsadaash via AP"
+      }
+    ],
+    "credit": "Matsadaash via AP"
+  }
+}

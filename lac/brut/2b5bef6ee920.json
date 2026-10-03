@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T19:00:33.057416+00:00",
+  "_id": "2b5bef6ee920",
+  "brut": {
+    "title": "Après l’exécution ratée de Christa Pike, le chef de l’administration pénitentiaire du Tennessee démissionne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après l’exécution ratée de Christa Pike, le chef de l’administration pénitentiaire du Tennessee démissionne"
+    },
+    "published": "Sat, 03 Oct 2026 18:51:38 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      16,
+      51,
+      38,
+      5,
+      276,
+      0
+    ],
+    "updated": "Sat, 03 Oct 2026 19:10:18 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      3,
+      17,
+      10,
+      18,
+      5,
+      276,
+      0
+    ],
+    "summary": "Christa Pike, 50 ans, devait être la première femme mise à mort depuis plus de deux cents ans dans cet Etat du Sud des Etats-Unis. Une enquête indépendante cherche à déterminer ce qui s’est passé mercredi, lorsque l’Etat n’a pas réussi à exécuter Mme Pike malgré l’administration de deux doses d’un produit létal.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Christa Pike, 50 ans, devait être la première femme mise à mort depuis plus de deux cents ans dans cet Etat du Sud des Etats-Unis. Une enquête indépendante cherche à déterminer ce qui s’est passé mercredi, lorsque l’Etat n’a pas réussi à exécuter Mme Pike malgré l’administration de deux doses d’un produit létal."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/03/christa-pike-le-chef-de-l-administration-penitentiaire-du-tennessee-demissionne-apres-l-execution-ratee-d-une-femme_6787820_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/03/christa-pike-le-chef-de-l-administration-penitentiaire-du-tennessee-demissionne-apres-l-execution-ratee-d-une-femme_6787820_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/03/christa-pike-le-chef-de-l-administration-penitentiaire-du-tennessee-demissionne-apres-l-execution-ratee-d-une-femme_6787820_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/03/16/0/3000/1500/644/322/60/0/0c200f2_ftp-1-8uoufs3jouqp-b89c3c21a0e54c47b036b245e4159093-0-ad27b3186b3641a294f543e1332f6987.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chef de l’administration pénitentiaire du Tennessee, Frank Strada, à Nashville (Tennessee), le 11 décembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "George Walker IV/AP Photo"
+      }
+    ],
+    "credit": "George Walker IV/AP Photo"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-03T19:00:33.057232+00:00",
+  "_id": "339cb14e130a",
+  "brut": {
+    "title": "A Madrid, les images impressionnantes des manifestations contre la crise du logement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Madrid, les images impressionnantes des manifestations contre la crise du logement"
+    },
+    "published": "Sat, 03 Oct 2026 19:15:23 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      3,
+      17,
+      15,
+      23,
+      5,
+      276,
+      0
+    ],
+    "summary": "En Espagne, les manifestations contre la crise du logement continuent au lendemain du rejet par les députés d’une série de mesures présentées par le gouvernement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, les manifestations contre la crise du logement continuent au lendemain du rejet par les députés d’une série de mesures présentées par le gouvernement."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/03/a-madrid-les-images-impressionnantes-des-manifestations-contre-la-crise-du-logement_6787825_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/03/a-madrid-les-images-impressionnantes-des-manifestations-contre-la-crise-du-logement_6787825_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/03/a-madrid-les-images-impressionnantes-des-manifestations-contre-la-crise-du-logement_6787825_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/03/1683/0/3367/1683/644/322/60/0/c2790bb_ftp-1-5z1nui515ot1-3b06ab05034e4096b01ea839252a818d-0-13e6f95c1ff24026ab5e1d60d47d2bcc.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Madrid, des centaines de mililers personnes se sont réunis pour manifestater contre la crise du logement ce samedi 3 octobre. Au devant du cortège, une bannière indique « jusqu’à la grève général » (AP Photo/Andrea Comas)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Andrea Comas / AP Photo/Andrea Comas"
+      }
+    ],
+    "credit": "Andrea Comas / AP Photo/Andrea Comas"
+  }
+}
