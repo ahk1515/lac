@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T13:42:00.784182+00:00",
+  "_id": "6edf6a1599a8",
+  "brut": {
+    "title": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest"
+    },
+    "published": "Sun, 04 Oct 2026 14:32:11 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      12,
+      32,
+      11,
+      6,
+      277,
+      0
+    ],
+    "updated": "Sun, 04 Oct 2026 15:31:17 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      4,
+      13,
+      31,
+      17,
+      6,
+      277,
+      0
+    ],
+    "summary": "Les affrontements font rage sur plusieurs fronts depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les affrontements font rage sur plusieurs fronts depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des soldats de l’armée gouvernementale yéménite, soutenue par l’Arabie saoudite, sur le front de Jabal Han, à l’ouest de la ville de Taëz (Yémen), le 3 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AHMAD AL-BASHA/AFP"
+      }
+    ],
+    "credit": "AHMAD AL-BASHA/AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T13:42:01.014630+00:00",
+  "_id": "ff1da03a3a58",
+  "brut": {
+    "title": "L'armée du Yémen bombarde la capitale, Sanaa, tenue par les houthis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée du Yémen bombarde la capitale, Sanaa, tenue par les houthis"
+    },
+    "summary": "De leur côté, les houthis affirment avoir \"mené une opération militaire d'envergure, utilisant plusieurs missiles balistiques et drones pour viser Aramco dans la capitale de l'ennemi saoudien\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De leur côté, les houthis affirment avoir \"mené une opération militaire d'envergure, utilisant plusieurs missiles balistiques et drones pour viser Aramco dans la capitale de l'ennemi saoudien\"."
+    },
+    "published": "Sun, 04 Oct 2026 09:28:06 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      7,
+      28,
+      6,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/l-armee-du-yemen-bombarde-la-capitale-sanaa-tenue-par-les-houthis-qui-revendiquent-une-attaque-contre-un-site-de-saudi-aramco-a-riyad_8221960.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dNgZjfQWyxig7JiMZDQ3KupNCYQ/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac1fd4ab05da032609292.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/l-armee-du-yemen-bombarde-la-capitale-sanaa-tenue-par-les-houthis-qui-revendiquent-une-attaque-contre-un-site-de-saudi-aramco-a-riyad_8221960.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/l-armee-du-yemen-bombarde-la-capitale-sanaa-tenue-par-les-houthis-qui-revendiquent-une-attaque-contre-un-site-de-saudi-aramco-a-riyad_8221960.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

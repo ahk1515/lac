@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T13:42:01.015419+00:00",
+  "_id": "7a88e233d8e8",
+  "brut": {
+    "title": "Une frappe russe touche un nouveau pont majeur de Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une frappe russe touche un nouveau pont majeur de Kiev"
+    },
+    "summary": "La Russie a de nouveau appeler les diplomates et étrangers à quitter la capitale ukrainienne Kiev. Moscou menace de continuer ses frappes, alors que la ville est régulièrement ciblée ces dernières semaines. Samedi 3 octobre, c'est un nouveau pont qui a été visé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La Russie a de nouveau appeler les diplomates et étrangers à quitter la capitale ukrainienne Kiev. Moscou menace de continuer ses frappes, alors que la ville est régulièrement ciblée ces dernières semaines. Samedi 3 octobre, c'est un nouveau pont qui a été visé."
+    },
+    "published": "Sun, 04 Oct 2026 07:25:34 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      5,
+      25,
+      34,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/O09yaaJ-x_w-iBFOjl33EMSuq-o/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1e313a647d269251217.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

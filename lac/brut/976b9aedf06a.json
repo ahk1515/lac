@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T13:42:01.014926+00:00",
+  "_id": "976b9aedf06a",
+  "brut": {
+    "title": "Une femme de 102 meurt lors de fortes inondations dans le sud-est de l'Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une femme de 102 meurt lors de fortes inondations dans le sud-est de l'Espagne"
+    },
+    "summary": "L'Espagne est touchée par des pluies diluviennes. Elles ont déjà causé la mort d'une femme de 102 ans dans le sud-est du pays, où des inondations impressionnantes sont apparues ces dernières heures.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Espagne est touchée par des pluies diluviennes. Elles ont déjà causé la mort d'une femme de 102 ans dans le sud-est du pays, où des inondations impressionnantes sont apparues ces dernières heures."
+    },
+    "published": "Sun, 04 Oct 2026 08:39:56 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      6,
+      39,
+      56,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-femme-de-102-meurt-lors-de-fortes-inondations-dans-le-sud-est-de-l-espagne_8221948.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Szw82kayS-bqVO8eTm6CggviPjU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1f42510279129840034.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-femme-de-102-meurt-lors-de-fortes-inondations-dans-le-sud-est-de-l-espagne_8221948.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-femme-de-102-meurt-lors-de-fortes-inondations-dans-le-sud-est-de-l-espagne_8221948.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

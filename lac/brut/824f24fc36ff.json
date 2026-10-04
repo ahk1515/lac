@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T13:42:00.783744+00:00",
+  "_id": "824f24fc36ff",
+  "brut": {
+    "title": "Au Québec, Paul St-Pierre Plamondon, indépendantiste et identitaire, pressenti pour devenir le prochain premier ministre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Québec, Paul St-Pierre Plamondon, indépendantiste et identitaire, pressenti pour devenir le prochain premier ministre"
+    },
+    "published": "Sun, 04 Oct 2026 15:30:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      13,
+      30,
+      3,
+      6,
+      277,
+      0
+    ],
+    "summary": "Favori des sondages, le chef du Parti québécois pourrait être le grand gagnant des élections provinciales prévues lundi 5 octobre. Fervent indépendantiste, il promet de tenir un référendum sur la sortie du Canada avant la fin de son mandat.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Favori des sondages, le chef du Parti québécois pourrait être le grand gagnant des élections provinciales prévues lundi 5 octobre. Fervent indépendantiste, il promet de tenir un référendum sur la sortie du Canada avant la fin de son mandat."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/04/au-quebec-paul-st-pierre-plamondon-independantiste-et-identitaire-pressenti-pour-devenir-le-prochain-premier-ministre_6788269_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/04/au-quebec-paul-st-pierre-plamondon-independantiste-et-identitaire-pressenti-pour-devenir-le-prochain-premier-ministre_6788269_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/04/au-quebec-paul-st-pierre-plamondon-independantiste-et-identitaire-pressenti-pour-devenir-le-prochain-premier-ministre_6788269_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/207/0/6720/3360/644/322/60/0/03acda2_upload-1-ojxemwk0kvzr-000-c97z7gw.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Devant la Maison de Radio-Canada à Montréal, en amont du troisième et dernier débat télévisé des élections québécoises, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALEXIS AUBIN/AFP"
+      }
+    ],
+    "credit": "ALEXIS AUBIN/AFP"
+  }
+}

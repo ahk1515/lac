@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T13:42:01.013521+00:00",
+  "_id": "7f5128a77948",
+  "brut": {
+    "title": "L'écrivain et ancien ministre sénégalais Cheikh Hamidou Kane est mort à 98 ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'écrivain et ancien ministre sénégalais Cheikh Hamidou Kane est mort à 98 ans"
+    },
+    "summary": "Cette figure de la littérature africaine francophone était surtout connue pour \"L’Aventure ambiguë\", publié en 1961, devenu un classique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette figure de la littérature africaine francophone était surtout connue pour \"L’Aventure ambiguë\", publié en 1961, devenu un classique."
+    },
+    "published": "Sun, 04 Oct 2026 14:28:39 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      12,
+      28,
+      39,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/livres/l-ecrivain-et-ancien-ministre-senegalais-cheikh-hamidou-kane-est-mort-a-98-ans_8222221.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Nmh1EiquX_Cd7WhyF09Q0Xh8mfo/120x0:2021x1069/432x243/filters:format(jpg)/2026/10/04/6ac245813f421965506623.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/livres/l-ecrivain-et-ancien-ministre-senegalais-cheikh-hamidou-kane-est-mort-a-98-ans_8222221.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/livres/l-ecrivain-et-ancien-ministre-senegalais-cheikh-hamidou-kane-est-mort-a-98-ans_8222221.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T13:42:00.785716+00:00",
+  "_id": "ba4399e2b44b",
+  "brut": {
+    "title": "« Les Palestiniens représentent le véritable espoir d’Israël »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Les Palestiniens représentent le véritable espoir d’Israël »"
+    },
+    "published": "Sun, 04 Oct 2026 07:00:07 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      5,
+      0,
+      7,
+      6,
+      277,
+      0
+    ],
+    "summary": "Les responsables israéliens se sont enfermés dans une impasse intérieure et extérieure que seule une authentique coopération avec les Palestiniens permettrait de surmonter, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les responsables israéliens se sont enfermés dans une impasse intérieure et extérieure que seule une authentique coopération avec les Palestiniens permettrait de surmonter, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde »."
+    },
+    "id": "https://www.lemonde.fr/un-si-proche-orient/article/2026/10/04/les-palestiniens-representent-le-veritable-espoir-d-israel_6788011_6116995.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/10/04/les-palestiniens-representent-le-veritable-espoir-d-israel_6788011_6116995.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/un-si-proche-orient/article/2026/10/04/les-palestiniens-representent-le-veritable-espoir-d-israel_6788011_6116995.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/768/0/6000/3000/644/322/60/0/3e0e358_ftp-1-ie0xminysenh-5219627-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une affiche électorale du Likoud, le parti du premier ministre israélien, Benyamin Nétanyahou, portant le slogan « Pas de capitulation », sur la façade d’un immeuble à Tel-Aviv (Israël), le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JACK GUEZ/AFP"
+      }
+    ],
+    "credit": "JACK GUEZ/AFP"
+  }
+}

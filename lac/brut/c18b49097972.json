@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T13:42:00.784920+00:00",
+  "_id": "c18b49097972",
+  "brut": {
+    "title": "La région de Barcelone en état d’alerte après « des orages très violents et persistants » et des inondations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La région de Barcelone en état d’alerte après « des orages très violents et persistants » et des inondations"
+    },
+    "published": "Sun, 04 Oct 2026 12:06:47 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      10,
+      6,
+      47,
+      6,
+      277,
+      0
+    ],
+    "updated": "Sun, 04 Oct 2026 12:42:32 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      4,
+      10,
+      42,
+      32,
+      6,
+      277,
+      0
+    ],
+    "summary": "La tempête, qui a contraint samedi à annuler la manifestation pour le droit au logement à Barcelone, a débuté jeudi et devrait prendre fin ce dimanche. Au moins une autre personne est portée disparue.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tempête, qui a contraint samedi à annuler la manifestation pour le droit au logement à Barcelone, a débuté jeudi et devrait prendre fin ce dimanche. Au moins une autre personne est portée disparue."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/04/en-espagne-des-inondations-et-des-pluies-torrentielles-provoquent-la-mort-de-deux-personnes-dans-la-province-de-barcelone_6788219_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/04/en-espagne-des-inondations-et-des-pluies-torrentielles-provoquent-la-mort-de-deux-personnes-dans-la-province-de-barcelone_6788219_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/04/en-espagne-des-inondations-et-des-pluies-torrentielles-provoquent-la-mort-de-deux-personnes-dans-la-province-de-barcelone_6788219_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/853/0/2829/1414/644/322/60/0/dd79cc7_ftp-1-wpad9ku4xc7l-2026-10-04t103342z-888252436-rc28wnak5oc0-rtrmadp-3-europe-weather-spain.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Près de Barcelone (Espagne), le 4 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Horaci Garcia/Reuters"
+      }
+    ],
+    "credit": "Horaci Garcia/Reuters"
+  }
+}
