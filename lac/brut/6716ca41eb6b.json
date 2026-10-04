@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T22:45:28.607125+00:00",
+  "_id": "6716ca41eb6b",
+  "brut": {
+    "title": "Gaza : Israël affirme avoir tué un membre du Hamas, dirigeant d’une ONG turque",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Gaza : Israël affirme avoir tué un membre du Hamas, dirigeant d’une ONG turque"
+    },
+    "published": "Sun, 04 Oct 2026 23:52:17 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      21,
+      52,
+      17,
+      6,
+      277,
+      0
+    ],
+    "summary": "Selon l’armée israélienne, Saqr Nabil Musa Qaisi, un Palestinien qui gérait l’organisation Deniz Feneri, était membre de l’unité d’élite Nukhba du Hamas, et entretenait des liens avec des responsables « des instances dirigeantes turques ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon l’armée israélienne, Saqr Nabil Musa Qaisi, un Palestinien qui gérait l’organisation Deniz Feneri, était membre de l’unité d’élite Nukhba du Hamas, et entretenait des liens avec des responsables « des instances dirigeantes turques »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/21/505/0/5008/2504/644/322/60/0/06bc15a_ftp-1-ajv2abkygurg-5143323-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Khan Younès, dans la bande de Gaza, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "BASHAR TALEB/AFP"
+      }
+    ],
+    "credit": "BASHAR TALEB/AFP"
+  }
+}
