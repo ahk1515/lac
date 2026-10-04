@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T04:27:01.599232+00:00",
+  "_id": "2eeeb1e2b58f",
+  "brut": {
+    "title": "En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA"
+    },
+    "summary": "La start-up indienne Dognosis associe le flair des canidés et l’IA pour diagnostiquer les cancers. À Bangalore, Chloé et 14 autres chiens participent à cette expérience qui pourrait aider à détecter la maladie plus tôt. Les premiers résultats sont prometteurs, mais la méthode doit encore être confirmée par des études plus larges.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La start-up indienne Dognosis associe le flair des canidés et l’IA pour diagnostiquer les cancers. À Bangalore, Chloé et 14 autres chiens participent à cette expérience qui pourrait aider à détecter la maladie plus tôt. Les premiers résultats sont prometteurs, mais la méthode doit encore être confirmée par des études plus larges."
+    },
+    "published": "Sun, 04 Oct 2026 06:00:19 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      4,
+      0,
+      19,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/GMD9AvHOKfaoap2RGVprhmmNv-Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abf8d3796ce6427001379.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

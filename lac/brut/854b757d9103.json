@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T04:27:01.345665+00:00",
+  "_id": "854b757d9103",
+  "brut": {
+    "title": "Au Groenland, une journée avec les équipes d’un gisement de graphite, minerai stratégique très convoité",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Groenland, une journée avec les équipes d’un gisement de graphite, minerai stratégique très convoité"
+    },
+    "published": "Sun, 04 Oct 2026 06:10:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      4,
+      10,
+      8,
+      6,
+      277,
+      0
+    ],
+    "summary": "Etroitement dépendante de la Chine pour le graphite, essentiel à l’industrie de défense et à la transition écologique, l’Union européenne cherche à sécuriser ses approvisionnements. Ceux-ci se jouent en partie à Amitsoq, une petite île du Groenland, où une ancienne mine, abandonnée depuis plus d’un siècle, renaît progressivement avec le soutien de Bruxelles.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Etroitement dépendante de la Chine pour le graphite, essentiel à l’industrie de défense et à la transition écologique, l’Union européenne cherche à sécuriser ses approvisionnements. Ceux-ci se jouent en partie à Amitsoq, une petite île du Groenland, où une ancienne mine, abandonnée depuis plus d’un siècle, renaît progressivement avec le soutien de Bruxelles."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/04/au-groenland-une-journee-avec-les-equipes-d-un-gisement-de-graphite-minerai-strategique-tres-convoite_6788006_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/04/au-groenland-une-journee-avec-les-equipes-d-un-gisement-de-graphite-minerai-strategique-tres-convoite_6788006_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/04/au-groenland-une-journee-avec-les-equipes-d-un-gisement-de-graphite-minerai-strategique-tres-convoite_6788006_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/479/0/4133/2066/644/322/60/0/2a59fdf_upload-1-io3sl8ftl83n-jup12622-82.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Plateforme de forage d’Amitsoq (Groenland), le 1ᵉʳ août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Juliette Pavy/Hors Format pour « Le Monde »"
+      }
+    ],
+    "credit": "Juliette Pavy/Hors Format pour « Le Monde »"
+  }
+}
