@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T19:11:59.184322+00:00",
+  "_id": "29b4da573bce",
+  "brut": {
+    "title": "Benyamin Nétanyahou ordonne un examen des mesures de sécurité sur les vols internationaux vers Israël",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Benyamin Nétanyahou ordonne un examen des mesures de sécurité sur les vols internationaux vers Israël"
+    },
+    "summary": "Un avion de flydubai à destination de Tel-Aviv a dû effectuer mercredi un atterrissage d'urgence en Arabie saoudite, après une apparente tentative de crash du copilote de l'avion qui transportait 174 personnes, dont 166 Israéliens.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un avion de flydubai à destination de Tel-Aviv a dû effectuer mercredi un atterrissage d'urgence en Arabie saoudite, après une apparente tentative de crash du copilote de l'avion qui transportait 174 personnes, dont 166 Israéliens."
+    },
+    "published": "Sun, 04 Oct 2026 20:41:42 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      18,
+      41,
+      42,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_8222542.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/adUttDbQYHGNefZR5VJ24knbcQc/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac29d8f496c8044382323.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_8222542.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_8222542.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

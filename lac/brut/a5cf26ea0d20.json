@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T19:11:59.184833+00:00",
+  "_id": "a5cf26ea0d20",
+  "brut": {
+    "title": "En Italie, un incendie dans un camping sur le lac de Garde fait au moins un blessé",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Italie, un incendie dans un camping sur le lac de Garde fait au moins un blessé"
+    },
+    "summary": "\"Une personne a été brûlée et immédiatement prise en charge par le personnel médical\", mais \"le feu est sous contrôle\", ont précisé les pompiers dimanche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Une personne a été brûlée et immédiatement prise en charge par le personnel médical\", mais \"le feu est sous contrôle\", ont précisé les pompiers dimanche."
+    },
+    "published": "Sun, 04 Oct 2026 17:11:00 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      15,
+      11,
+      0,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/italie/en-italie-un-incendie-dans-un-camping-sur-le-lac-de-garde-fait-au-moins-un-blesse_8222350.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/9Y-btc060KrQR44oEI1H-0M4aOA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac26b734e9fe372186168.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/italie/en-italie-un-incendie-dans-un-camping-sur-le-lac-de-garde-fait-au-moins-un-blesse_8222350.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/italie/en-italie-un-incendie-dans-un-camping-sur-le-lac-de-garde-fait-au-moins-un-blesse_8222350.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

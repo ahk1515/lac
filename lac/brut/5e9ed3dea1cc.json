@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T19:11:59.024946+00:00",
+  "_id": "5e9ed3dea1cc",
+  "brut": {
+    "title": "En Ethiopie, la prise de Makalé par l’armée fédérale ravive les craintes d’un conflit régional dans la Corne de l’Afrique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ethiopie, la prise de Makalé par l’armée fédérale ravive les craintes d’un conflit régional dans la Corne de l’Afrique"
+    },
+    "published": "Sun, 04 Oct 2026 20:36:48 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      18,
+      36,
+      48,
+      6,
+      277,
+      0
+    ],
+    "summary": "Après des mois de tensions, les combats ont repris fin septembre dans le nord de l’Ethiopie, entre d’une part l’armée fédérale et, d’autre part, le Front populaire de libération du Tigré.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après des mois de tensions, les combats ont repris fin septembre dans le nord de l’Ethiopie, entre d’une part l’armée fédérale et, d’autre part, le Front populaire de libération du Tigré."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/04/en-ethiopie-la-prise-de-makale-par-l-armee-federale-ravive-les-craintes-d-un-conflit-regional-dans-la-corne-de-l-afrique_6788328_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/04/en-ethiopie-la-prise-de-makale-par-l-armee-federale-ravive-les-craintes-d-un-conflit-regional-dans-la-corne-de-l-afrique_6788328_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/04/en-ethiopie-la-prise-de-makale-par-l-armee-federale-ravive-les-craintes-d-un-conflit-regional-dans-la-corne-de-l-afrique_6788328_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/263/0/3160/1580/644/322/60/0/19ffcad_ftp-1-c9mf3i8mh7zd-5261050-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des membres du Front populaire de libération du Tigré dans les rues de Makalé, la capitale du Tigré, le 4 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

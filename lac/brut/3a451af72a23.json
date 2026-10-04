@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-04T19:11:59.184088+00:00",
+  "_id": "3a451af72a23",
+  "brut": {
+    "title": "Espagne : les inondations font plusieurs morts près de Barcelone",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Espagne : les inondations font plusieurs morts près de Barcelone"
+    },
+    "summary": "Les pluies torrentielles tombent encore sur l'Espagne et causent de sérieuses inondations. Dans la région de Barcelone, deux personnes sont décédées, alors que les précipitations doivent continuer.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les pluies torrentielles tombent encore sur l'Espagne et causent de sérieuses inondations. Dans la région de Barcelone, deux personnes sont décédées, alors que les précipitations doivent continuer."
+    },
+    "published": "Sun, 04 Oct 2026 20:41:57 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      18,
+      41,
+      57,
+      6,
+      277,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/5lovzE9aC-VJqiW1iA2kD1Nyeu0/0x5:1461x827/432x243/filters:format(jpg)/2026/10/04/6ac29db0235b9125447326.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

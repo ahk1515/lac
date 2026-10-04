@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T19:11:59.025316+00:00",
+  "_id": "13e9a030e7ba",
+  "brut": {
+    "title": "Bravant les menaces de la Russie, Friedrich Merz fait une visite surprise à Kiev",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bravant les menaces de la Russie, Friedrich Merz fait une visite surprise à Kiev"
+    },
+    "published": "Sun, 04 Oct 2026 18:35:39 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      16,
+      35,
+      39,
+      6,
+      277,
+      0
+    ],
+    "summary": "Alors que Moscou avait déconseillé, samedi 3 octobre, aux Européens d’aller à Kiev, le chancelier allemand s’est rendu en Ukraine dimanche, où il a annoncé de nouveaux contrats d’armement et un programme d’aide militaire.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Alors que Moscou avait déconseillé, samedi 3 octobre, aux Européens d’aller à Kiev, le chancelier allemand s’est rendu en Ukraine dimanche, où il a annoncé de nouveaux contrats d’armement et un programme d’aide militaire."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/383/0/6503/3251/644/322/60/0/9859346_ftp-1-52jb8c6op5yb-5523f1dbb6c74affa8d4454c0135bbbf-0-85f7dbf9a71a4964a22dafff5c8ca9f8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chancelier allemand, Friedrich Merz, à gauche, et le président ukrainien, Volodymyr Zelensky, arrivent au mémorial dédié aux soldats ukrainiens tombés au combat, sur la place de l’Indépendance, à Kiev, le 4 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Dan Bashakov/AP"
+      }
+    ],
+    "credit": "Dan Bashakov/AP"
+  }
+}

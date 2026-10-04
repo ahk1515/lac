@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-04T19:11:59.025138+00:00",
+  "_id": "21f6c578b12a",
+  "brut": {
+    "title": "Midterms 2026 : Donald Trump prend en main la campagne républicaine pour mieux assurer sa propre promotion",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Midterms 2026 : Donald Trump prend en main la campagne républicaine pour mieux assurer sa propre promotion"
+    },
+    "published": "Sun, 04 Oct 2026 19:00:13 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      4,
+      17,
+      0,
+      13,
+      6,
+      277,
+      0
+    ],
+    "summary": "Le président américain, très impopulaire, s’est lancé dans une série de meetings avant les élections de mi-mandat le 3 novembre, mais il semble avoir perdu l’instinct politique qui lui a réussi jusqu’à présent.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le président américain, très impopulaire, s’est lancé dans une série de meetings avant les élections de mi-mandat le 3 novembre, mais il semble avoir perdu l’instinct politique qui lui a réussi jusqu’à présent."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/04/midterms-2026-donald-trump-prend-en-main-la-campagne-republicaine-pour-mieux-assurer-sa-propre-promotion_6788322_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/04/midterms-2026-donald-trump-prend-en-main-la-campagne-republicaine-pour-mieux-assurer-sa-propre-promotion_6788322_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/04/midterms-2026-donald-trump-prend-en-main-la-campagne-republicaine-pour-mieux-assurer-sa-propre-promotion_6788322_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/0/0/5000/2500/644/322/60/0/4d2251a_ftp-1-qikquudxw9jc-2026-10-04t034824z-418656587-rc22wnas5hhu-rtrmadp-3-usa-trump.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, lors d’un rassemblement au lycée Butler de Vandalia (Ohio), le 3 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Nathan Howard/REUTERS"
+      }
+    ],
+    "credit": "Nathan Howard/REUTERS"
+  }
+}
