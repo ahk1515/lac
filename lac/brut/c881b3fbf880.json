@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T04:12:24.116530+00:00",
+  "_id": "c881b3fbf880",
+  "brut": {
+    "title": "A Kiev, une atmosphère de guerre permanente : « L’ennemi est en train de détruire la ville »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Kiev, une atmosphère de guerre permanente : « L’ennemi est en train de détruire la ville »"
+    },
+    "published": "Mon, 05 Oct 2026 05:15:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      3,
+      15,
+      5,
+      0,
+      278,
+      0
+    ],
+    "summary": "Depuis l’intensification des frappes russes, fin août, la capitale ukrainienne vit au rythme des alertes et des bombardements quotidiens. Bouleversant la vie de ses habitants qui pour l’instant ne se résignent pas à un nouvel exode.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis l’intensification des frappes russes, fin août, la capitale ukrainienne vit au rythme des alertes et des bombardements quotidiens. Bouleversant la vie de ses habitants qui pour l’instant ne se résignent pas à un nouvel exode."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/05/a-kiev-une-atmosphere-de-guerre-permanente-l-ennemi-est-en-train-de-detruire-la-ville_6788472_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/05/a-kiev-une-atmosphere-de-guerre-permanente-l-ennemi-est-en-train-de-detruire-la-ville_6788472_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/05/a-kiev-une-atmosphere-de-guerre-permanente-l-ennemi-est-en-train-de-detruire-la-ville_6788472_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/413/0/4300/2150/644/322/60/0/df6b36c_upload-1-pnkpg1zovs3y-kiev-ambiance-vnguyenhoang-15.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des passants regardent un centre d’affaires près de la station de métro Shuliavska, dans le district de Solomianskyi, touché par une frappe de drone russe le 25 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Virginie Nguyen Hoang/HL/HUMA POUR « LE MONDE »"
+      }
+    ],
+    "credit": "Virginie Nguyen Hoang/HL/HUMA POUR « LE MONDE »"
+  }
+}
