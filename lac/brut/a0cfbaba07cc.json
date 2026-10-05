@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-05T16:48:48.538800+00:00",
+  "_id": "a0cfbaba07cc",
+  "brut": {
+    "title": "Les autorités russes assurent que la \"situation est sous contrôle\" après l'apparition d'un cas supposé de peste dans la région sibérienne d'Irkoutsk",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités russes assurent que la \"situation est sous contrôle\" après l'apparition d'un cas supposé de peste dans la région sibérienne d'Irkoutsk"
+    },
+    "summary": "La mort de Daria Chipilova, une technicienne de laboratoire de 28 ans qui travaillait pour l'Institut de lutte contre la peste d'Irkoutsk, a inquiété les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La mort de Daria Chipilova, une technicienne de laboratoire de 28 ans qui travaillait pour l'Institut de lutte contre la peste d'Irkoutsk, a inquiété les autorités."
+    },
+    "published": "Mon, 05 Oct 2026 15:13:55 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      13,
+      13,
+      55,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/IS3EZEOwc81D3bJRaUJJsl9SMRo/0x52:1000x614/432x243/filters:format(jpg)/2026/10/05/6ac39a2037ad5126675174.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

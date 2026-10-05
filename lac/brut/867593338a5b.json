@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-05T16:48:48.538643+00:00",
+  "_id": "867593338a5b",
+  "brut": {
+    "title": "Un incendie fait deux morts sur un navire en mer Noire, au large de la Roumanie, Volodymyr Zelensky accuse la Russie d'être à l'origine d'une \"frappe horrible\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un incendie fait deux morts sur un navire en mer Noire, au large de la Roumanie, Volodymyr Zelensky accuse la Russie d'être à l'origine d'une \"frappe horrible\""
+    },
+    "summary": "Le président ukrainien a fait état de frappes de deux drones russes sur le navire turc. Les autorités roumaines n'ont pas confirmé.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président ukrainien a fait état de frappes de deux drones russes sur le navire turc. Les autorités roumaines n'ont pas confirmé."
+    },
+    "published": "Mon, 05 Oct 2026 16:18:24 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      14,
+      18,
+      24,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/un-incendie-fait-deux-morts-sur-un-navire-en-mer-noire-au-large-de-la-roumanie-volodymyr-zelensky-accuse-la-russie-d-une-frappe-horrible_8223445.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/VYdwsqjUwT_yBNnEL3Ql8ZDPKP4/0x578:5378x3604/432x243/filters:format(jpg)/2026/10/05/6ac3a5dfd13ac903879314.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/un-incendie-fait-deux-morts-sur-un-navire-en-mer-noire-au-large-de-la-roumanie-volodymyr-zelensky-accuse-la-russie-d-une-frappe-horrible_8223445.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/un-incendie-fait-deux-morts-sur-un-navire-en-mer-noire-au-large-de-la-roumanie-volodymyr-zelensky-accuse-la-russie-d-une-frappe-horrible_8223445.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

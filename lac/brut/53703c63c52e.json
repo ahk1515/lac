@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.118349+00:00",
+  "_id": "53703c63c52e",
+  "brut": {
+    "title": "En Ethiopie, l’armée fédérale met en échec l’offensive rebelle, la région craint l’embrasement",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Ethiopie, l’armée fédérale met en échec l’offensive rebelle, la région craint l’embrasement"
+    },
+    "published": "Mon, 05 Oct 2026 18:00:04 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      16,
+      0,
+      4,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 18:04:33 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      16,
+      4,
+      33,
+      0,
+      278,
+      0
+    ],
+    "summary": "Après la reprise, samedi 3 octobre, de Makalé, la capitale régionale du Tigré, par l’armée fédérale, une éventuelle intervention de l’Erythrée, alliée des rebelles, concentre désormais toutes les inquiétudes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après la reprise, samedi 3 octobre, de Makalé, la capitale régionale du Tigré, par l’armée fédérale, une éventuelle intervention de l’Erythrée, alliée des rebelles, concentre désormais toutes les inquiétudes."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/05/en-ethiopie-l-armee-federale-met-en-echec-l-offensive-rebelle-la-region-craint-l-embrasement_6788554_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/05/en-ethiopie-l-armee-federale-met-en-echec-l-offensive-rebelle-la-region-craint-l-embrasement_6788554_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/05/en-ethiopie-l-armee-federale-met-en-echec-l-offensive-rebelle-la-region-craint-l-embrasement_6788554_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/529/0/3173/1586/644/322/60/0/8044dbd_ftp-1-xvlry4r8ttzk-5261012-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une patrouille des Forces de paix du Tigré, une milice éthiopienne pro-gouvernementale, à Makalé, en Ethiopie, le 4 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

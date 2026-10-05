@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.119888+00:00",
+  "_id": "acc58f6390f0",
+  "brut": {
+    "title": "VIDEO Présidentielle au Brésil : des résultats « inattendus » pour Lula",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO Présidentielle au Brésil : des résultats « inattendus » pour Lula"
+    },
+    "published": "Mon, 05 Oct 2026 08:51:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      6,
+      51,
+      3,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 09:35:55 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      7,
+      35,
+      55,
+      0,
+      278,
+      0
+    ],
+    "summary": "Flavio Bolsonaro, sénateur d’extrême droite, recueille plus de 47 % des suffrages, contre près de 45 % pour le président sortant de gauche, après dépouillement quasi complet des urnes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Flavio Bolsonaro, sénateur d’extrême droite, recueille plus de 47 % des suffrages, contre près de 45 % pour le président sortant de gauche, après dépouillement quasi complet des urnes."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/05/presidentielle-au-bresil-des-resultats-inattendus-pour-le-president-sortant-lula_6788489_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/05/presidentielle-au-bresil-des-resultats-inattendus-pour-le-president-sortant-lula_6788489_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/05/presidentielle-au-bresil-des-resultats-inattendus-pour-le-president-sortant-lula_6788489_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/285/0/3427/1713/644/322/60/0/a720658_ftp-1-kwheg47u9gan-5269766-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGIO LIMA / AFP"
+      }
+    ],
+    "credit": "SERGIO LIMA / AFP"
+  }
+}

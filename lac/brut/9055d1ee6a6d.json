@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.119523+00:00",
+  "_id": "9055d1ee6a6d",
+  "brut": {
+    "title": "Au Danemark, 8,8 millions de personnes concernées par une importante fuite de données du registre national",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Danemark, 8,8 millions de personnes concernées par une importante fuite de données du registre national"
+    },
+    "published": "Mon, 05 Oct 2026 10:12:36 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      8,
+      12,
+      36,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 10:23:30 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      8,
+      23,
+      30,
+      0,
+      278,
+      0
+    ],
+    "summary": "Les auteurs de cette intrusion, non identifiés, ont pu accéder aux noms, adresses et numéros de sécurité sociale d’environ 80 % des personnes enregistrées, selon le gouvernement danois.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les auteurs de cette intrusion, non identifiés, ont pu accéder aux noms, adresses et numéros de sécurité sociale d’environ 80 % des personnes enregistrées, selon le gouvernement danois."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/10/05/au-danemark-environ-8-8-millions-de-personnes-concernees-par-une-importante-fuite-de-donnees-du-registre-national_6788499_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/10/05/au-danemark-environ-8-8-millions-de-personnes-concernees-par-une-importante-fuite-de-donnees-du-registre-national_6788499_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/10/05/au-danemark-environ-8-8-millions-de-personnes-concernees-par-une-importante-fuite-de-donnees-du-registre-national_6788499_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2023/12/22/7/0/2048/1024/644/322/60/0/73813fb_1703237863659-40623300100-d887b616f2-k.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "freestocks CC0 1.0"
+      }
+    ],
+    "credit": "freestocks CC0 1.0"
+  }
+}

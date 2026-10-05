@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-05T16:48:48.537944+00:00",
+  "_id": "8647bddca3c9",
+  "brut": {
+    "title": "Le Premier ministre espagnol Pedro Sánchez convoque des élections anticipées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Premier ministre espagnol Pedro Sánchez convoque des élections anticipées"
+    },
+    "summary": "Fragilisé par le rejet de ses mesures sur le logement, le Premier ministre espagnol Pedro Sánchez convoque des élections anticipées le 29 novembre. Cette décision intervient trois jours après le rejet de textes élaborés par son gouvernement en réponse à la mobilisation sociale déclenchée par l’expulsion, à Madrid, de Maricarmen Abascal, âgée de 87 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Fragilisé par le rejet de ses mesures sur le logement, le Premier ministre espagnol Pedro Sánchez convoque des élections anticipées le 29 novembre. Cette décision intervient trois jours après le rejet de textes élaborés par son gouvernement en réponse à la mobilisation sociale déclenchée par l’expulsion, à Madrid, de Maricarmen Abascal, âgée de 87 ans."
+    },
+    "published": "Mon, 05 Oct 2026 18:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      16,
+      0,
+      2,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-convoque-des-elections-anticipees_8223547.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hFGj_ifX_n5kL36aaPje27dp2ac/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/05/6ac3b43b1894c667270626.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-convoque-des-elections-anticipees_8223547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-convoque-des-elections-anticipees_8223547.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

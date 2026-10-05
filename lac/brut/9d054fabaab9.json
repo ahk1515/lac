@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.119966+00:00",
+  "_id": "9d054fabaab9",
+  "brut": {
+    "title": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA"
+    },
+    "published": "Mon, 05 Oct 2026 07:00:00 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      5,
+      0,
+      0,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 08:26:41 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      6,
+      26,
+      41,
+      0,
+      278,
+      0
+    ],
+    "summary": "L’actuel directeur du renseignement américain vient d’être nommé par Donald Trump au poste de référent du gouvernement sur l’intelligence artificielle. Une désignation qui intervient alors que l’inquiétude monte sur le contrôle de cette technologie.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’actuel directeur du renseignement américain vient d’être nommé par Donald Trump au poste de référent du gouvernement sur l’intelligence artificielle. Une désignation qui intervient alors que l’inquiétude monte sur le contrôle de cette technologie."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/05/aux-etats-unis-jay-clayton-le-nouvel-homme-fort-de-l-ia_6788485_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/05/aux-etats-unis-jay-clayton-le-nouvel-homme-fort-de-l-ia_6788485_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/05/aux-etats-unis-jay-clayton-le-nouvel-homme-fort-de-l-ia_6788485_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/408/0/4896/2448/644/322/60/0/44c535c_ftp-1-he6rlum2uev0-25ebd41ffe594f77ae2194d90ec128bf-0-931b317308044dd9beefbf34eeaf8af1.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président américain, Donald Trump, aux côtés du directeur du renseignement national, Jay Clayton (au centre), et du secrétaire au travail, Keith E. Sonderling, à Washington, le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alex Brandon/AP Photo"
+      }
+    ],
+    "credit": "Alex Brandon/AP Photo"
+  }
+}

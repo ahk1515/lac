@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.119428+00:00",
+  "_id": "051d3ca10f80",
+  "brut": {
+    "title": "Deux migrants sont morts en tentant de traverser la Manche",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Deux migrants sont morts en tentant de traverser la Manche"
+    },
+    "published": "Mon, 05 Oct 2026 10:14:47 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      8,
+      14,
+      47,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 15:55:01 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      13,
+      55,
+      1,
+      0,
+      278,
+      0
+    ],
+    "summary": "Ce nouveau drame porte à au moins 24 le nombre de migrants morts en mer à la frontière franco-britannique depuis le début de l’année. Une enquête a été ouverte par le parquet de Boulogne-sur-Mer pour déterminer les circonstances des deux décès.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ce nouveau drame porte à au moins 24 le nombre de migrants morts en mer à la frontière franco-britannique depuis le début de l’année. Une enquête a été ouverte par le parquet de Boulogne-sur-Mer pour déterminer les circonstances des deux décès."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/05/deux-personnes-sont-mortes-en-tentant-de-traverser-clandestinement-la-manche_6788500_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/05/deux-personnes-sont-mortes-en-tentant-de-traverser-clandestinement-la-manche_6788500_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/05/deux-personnes-sont-mortes-en-tentant-de-traverser-clandestinement-la-manche_6788500_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/577/0/6919/3459/644/322/60/0/9599f05_ftp-1-l44ayvjqvvze-dbc22998fcb64d1f91d298ce5e97a8f9-0-dcc7d5a30e25408280364fdff601ea0d.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des migrants à bord d’un canot pneumatique tentent de traverser la Manche à partir de la France vers l’Angleterre, le 23 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JEAN-FRANÇOIS BADIAS/AP Photo"
+      }
+    ],
+    "credit": "JEAN-FRANÇOIS BADIAS/AP Photo"
+  }
+}

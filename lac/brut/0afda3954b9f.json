@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.118836+00:00",
+  "_id": "0afda3954b9f",
+  "brut": {
+    "title": "Au Yémen, les forces gouvernementales lancent une offensive pour reprendre la capitale, Sanaa, aux houthistes, qui menacent l’espace aérien saoudien",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Yémen, les forces gouvernementales lancent une offensive pour reprendre la capitale, Sanaa, aux houthistes, qui menacent l’espace aérien saoudien"
+    },
+    "published": "Mon, 05 Oct 2026 13:11:50 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      11,
+      11,
+      50,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 16:20:18 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      14,
+      20,
+      18,
+      0,
+      278,
+      0
+    ],
+    "summary": "Appuyé par l’aviation de la coalition menée par l’Arabie saoudite, le Yémen revendique des centaines de frappes contre les rebelles pro-iraniens, qui ont mis en garde les compagnies aériennes et paralysé l’oléoduc Est-Ouest du royaume.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Appuyé par l’aviation de la coalition menée par l’Arabie saoudite, le Yémen revendique des centaines de frappes contre les rebelles pro-iraniens, qui ont mis en garde les compagnies aériennes et paralysé l’oléoduc Est-Ouest du royaume."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/05/au-yemen-les-forces-gouvernementales-soutenues-par-l-arabie-saoudite-annoncent-une-offensive-sur-la-capitale-sanaa-aux-mains-des-houthistes-pro-iraniens_6788502_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/05/au-yemen-les-forces-gouvernementales-soutenues-par-l-arabie-saoudite-annoncent-une-offensive-sur-la-capitale-sanaa-aux-mains-des-houthistes-pro-iraniens_6788502_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/05/au-yemen-les-forces-gouvernementales-soutenues-par-l-arabie-saoudite-annoncent-une-offensive-sur-la-capitale-sanaa-aux-mains-des-houthistes-pro-iraniens_6788502_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/250/0/3000/1500/644/322/60/0/901d835_upload-1-c56lkc39ic6k-000-c8h86mj.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "De la fumée s’élève à la suite de frappes lors des combats qui opposent les houthistes aux forces gouvernementales yéménites le long de la ligne de front à Al-Kadha, à l’ouest de Taëz, dans l’ouest du Yémen, le 16 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AHMAD AL-BASHA/AFP"
+      }
+    ],
+    "credit": "AHMAD AL-BASHA/AFP"
+  }
+}

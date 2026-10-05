@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-05T16:48:48.540028+00:00",
+  "_id": "854e0434261d",
+  "brut": {
+    "title": "Un pont de Kiev attaqué pendant la visite surprise du chancelier allemand en Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un pont de Kiev attaqué pendant la visite surprise du chancelier allemand en Ukraine"
+    },
+    "summary": "Le jour de la venue du chancelier allemand Friedrich Merz à Kiev, dimanche 4 octobre, une frappe russe a touché un des huit ponts de la capitale ukrainienne pour le quatrième jour d'affilée. Moscou promet toujours d'intensifier ses attaques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le jour de la venue du chancelier allemand Friedrich Merz à Kiev, dimanche 4 octobre, une frappe russe a touché un des huit ponts de la capitale ukrainienne pour le quatrième jour d'affilée. Moscou promet toujours d'intensifier ses attaques."
+    },
+    "published": "Mon, 05 Oct 2026 08:32:29 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      6,
+      32,
+      29,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-pont-de-kiev-attaque-pendant-la-visite-surprise-du-chancelier-allemand-en-ukraine_8222938.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/92LKsIGlmj6dXxHhLJLzawMM5h0/0x7:1176x669/432x243/filters:format(jpg)/2026/10/05/6ac342f66f4f4674813442.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-pont-de-kiev-attaque-pendant-la-visite-surprise-du-chancelier-allemand-en-ukraine_8222938.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-pont-de-kiev-attaque-pendant-la-visite-surprise-du-chancelier-allemand-en-ukraine_8222938.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

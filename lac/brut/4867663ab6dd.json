@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-05T16:48:48.538415+00:00",
+  "_id": "4867663ab6dd",
+  "brut": {
+    "title": "Au Nigeria, un avion de l'armée de l'air s'écrase avec 32 personnes à bord",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Nigeria, un avion de l'armée de l'air s'écrase avec 32 personnes à bord"
+    },
+    "summary": "\"L'appareil effectuait un vol de routine entre Benin City et Lagos lorsque l'accident s'est produit\", a précisé l'armée de l'air nigériane.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"L'appareil effectuait un vol de routine entre Benin City et Lagos lorsque l'accident s'est produit\", a précisé l'armée de l'air nigériane."
+    },
+    "published": "Mon, 05 Oct 2026 17:00:00 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      15,
+      0,
+      0,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TsutghjbaxJRZYTp6VXtDxdBvrA/0x39:1024x615/432x243/filters:format(jpg)/2026/10/05/6ac3b12474b46896058035.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

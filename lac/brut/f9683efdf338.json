@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.118004+00:00",
+  "_id": "f9683efdf338",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : Kiev dit utiliser des mitrailleuses robotisées pilotées par l’IA contre des drones russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : Kiev dit utiliser des mitrailleuses robotisées pilotées par l’IA contre des drones russes"
+    },
+    "published": "Mon, 05 Oct 2026 18:36:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      16,
+      36,
+      5,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 18:38:30 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      16,
+      38,
+      30,
+      0,
+      278,
+      0
+    ],
+    "summary": "« Des tourelles robotisées sont en train d’être installées sur les ponts », a déclaré Iouri Ihnat, porte-parole de l’armée de l’air ukrainienne. Ces dispositifs ont déjà permis d’abattre près de Kiev des drones à réaction, plus difficiles à détruire que les modèles classiques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Des tourelles robotisées sont en train d’être installées sur les ponts », a déclaré Iouri Ihnat, porte-parole de l’armée de l’air ukrainienne. Ces dispositifs ont déjà permis d’abattre près de Kiev des drones à réaction, plus difficiles à détruire que les modèles classiques."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-kiev-dit-utiliser-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_6787996_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-kiev-dit-utiliser-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_6787996_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-kiev-dit-utiliser-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_6787996_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/346/0/4152/2076/644/322/60/0/bde6fee_ftp-1-rergmsd0h20v-5262823-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGEI SUPINSKY / AFP"
+      }
+    ],
+    "credit": "SERGEI SUPINSKY / AFP"
+  }
+}

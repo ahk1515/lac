@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.119796+00:00",
+  "_id": "ad0e4545f7f5",
+  "brut": {
+    "title": "En Espagne, Pedro Sanchez, fragilisé par le rejet de ses mesures sur le logement, convoque des élections anticipées le 29 novembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Espagne, Pedro Sanchez, fragilisé par le rejet de ses mesures sur le logement, convoque des élections anticipées le 29 novembre"
+    },
+    "published": "Mon, 05 Oct 2026 09:16:24 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      7,
+      16,
+      24,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 11:23:48 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      9,
+      23,
+      48,
+      0,
+      278,
+      0
+    ],
+    "summary": "Les députés ont rejeté, vendredi, les mesures d’urgence présentées par le président du gouvernement pour tenter d’endiguer la colère sur la question du logement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les députés ont rejeté, vendredi, les mesures d’urgence présentées par le président du gouvernement pour tenter d’endiguer la colère sur la question du logement."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/05/en-espagne-pedro-sanchez-fragilise-par-le-rejet-de-ses-mesures-sur-le-logement-convoque-des-elections-anticipees-le-29-novembre_6788491_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/05/en-espagne-pedro-sanchez-fragilise-par-le-rejet-de-ses-mesures-sur-le-logement-convoque-des-elections-anticipees-le-29-novembre_6788491_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/05/en-espagne-pedro-sanchez-fragilise-par-le-rejet-de-ses-mesures-sur-le-logement-convoque-des-elections-anticipees-le-29-novembre_6788491_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/112/0/8192/4096/644/322/60/0/a4cca26_ftp-1-ywat19vqkyht-2026-10-05t074819z-503685441-rc2vwna7qmos-rtrmadp-3-spain-election-sanchez.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le premier ministre espagnol, Pedro Sanchez, apparaît sur un écran lors d’un journal télévisé en direct, dans un café de Ronda (Espagne), le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jon Nazca/REUTERS"
+      }
+    ],
+    "credit": "Jon Nazca/REUTERS"
+  }
+}

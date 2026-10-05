@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-05T16:48:48.538168+00:00",
+  "_id": "b21231baf968",
+  "brut": {
+    "title": "L'Ukraine a utilisé des mitrailleuses robotisées pilotées par l'IA contre des drones russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Ukraine a utilisé des mitrailleuses robotisées pilotées par l'IA contre des drones russes"
+    },
+    "summary": "Des journalistes ont vu à Kiev ces nouveaux matériels, qui combinent une mitrailleuse et une tourelle automatique bardée de capteurs.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des journalistes ont vu à Kiev ces nouveaux matériels, qui combinent une mitrailleuse et une tourelle automatique bardée de capteurs."
+    },
+    "published": "Mon, 05 Oct 2026 18:32:52 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      16,
+      32,
+      52,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-annonce-l-utilisation-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_8223652.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0b911txiQOR4sqVTD4NWcEYUYzo/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/05/6ac3c8e64274c896383759.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-annonce-l-utilisation-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_8223652.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-annonce-l-utilisation-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_8223652.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

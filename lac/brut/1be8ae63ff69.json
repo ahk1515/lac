@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-05T16:48:48.119097+00:00",
+  "_id": "1be8ae63ff69",
+  "brut": {
+    "title": "« A cause des perturbations autour du détroit d’Ormuz, les pétroliers géants sont devenus des mines d’or flottantes »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« A cause des perturbations autour du détroit d’Ormuz, les pétroliers géants sont devenus des mines d’or flottantes »"
+    },
+    "published": "Mon, 05 Oct 2026 11:00:42 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      9,
+      0,
+      42,
+      0,
+      278,
+      0
+    ],
+    "summary": "Ces dernières semaines, des supertankers d’occasion, capables de transporter 2 millions de barils, ont été achetés plus cher que leur équivalent flambant neuf, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ces dernières semaines, des supertankers d’occasion, capables de transporter 2 millions de barils, ont été achetés plus cher que leur équivalent flambant neuf, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/05/a-cause-des-perturbations-autour-du-detroit-d-ormuz-les-petroliers-geants-sont-devenus-des-mines-d-or-flottantes_6788512_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/05/a-cause-des-perturbations-autour-du-detroit-d-ormuz-les-petroliers-geants-sont-devenus-des-mines-d-or-flottantes_6788512_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/05/a-cause-des-perturbations-autour-du-detroit-d-ormuz-les-petroliers-geants-sont-devenus-des-mines-d-or-flottantes_6788512_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/831/0/6000/3000/644/322/60/0/ec5a3fd_ftp-1-vt69nu1lvm8w-1a16c411acfd4a20b08f0b7dfc351df3-0-376ba829f00f4b289091f73396d68f49.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des pétroliers, au large de Baniyas, en Syrie, le mardi 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Omar Albam/AP Photo"
+      }
+    ],
+    "credit": "Omar Albam/AP Photo"
+  }
+}
