@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T23:34:23.176689+00:00",
+  "_id": "c33c7ef759a6",
+  "brut": {
+    "title": "Christa Pike, dont la mise à mort avait échoué aux Etats-Unis, a repris connaissance et parle",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Christa Pike, dont la mise à mort avait échoué aux Etats-Unis, a repris connaissance et parle"
+    },
+    "published": "Wed, 07 Oct 2026 01:22:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      23,
+      22,
+      3,
+      1,
+      279,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 01:23:42 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      23,
+      23,
+      42,
+      1,
+      279,
+      0
+    ],
+    "summary": "« Son rétablissement est sans précédent sur le plan médical. Son pronostic reste incertain », ont fait savoir les avocats de la condamnée à la peine capitale, dont l’exécution a échoué le 30 septembre, dans le Tennessee.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "« Son rétablissement est sans précédent sur le plan médical. Son pronostic reste incertain », ont fait savoir les avocats de la condamnée à la peine capitale, dont l’exécution a échoué le 30 septembre, dans le Tennessee."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle_6789231_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle_6789231_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle_6789231_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/720/0/8640/4320/644/322/60/0/90ab303_ftp-1-dtjkfrypi8pm-ed9b7642e80e4dae9c585fa5679fdbff-0-73ed8037f7fb4b058e533c4d0b48e69f.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une ambulance quitte le pénitencier de haute sécurité de Riverbend après l’échec de l’exécution de Christa Pike, à Nashville (Tennessee), le 30 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "George Walker IV/AP Photo/George Walker IV"
+      }
+    ],
+    "credit": "George Walker IV/AP Photo/George Walker IV"
+  }
+}

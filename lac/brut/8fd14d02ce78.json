@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T23:34:23.177336+00:00",
+  "_id": "8fd14d02ce78",
+  "brut": {
+    "title": "Au Mali, la junte regagne du terrain en reprenant Kidal, fief des rebelles touareg",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Mali, la junte regagne du terrain en reprenant Kidal, fief des rebelles touareg"
+    },
+    "published": "Tue, 06 Oct 2026 21:03:55 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      19,
+      3,
+      55,
+      1,
+      279,
+      0
+    ],
+    "summary": "Les militaires maliens et leurs alliés russes avaient été chassés de la ville du Nord le 25 avril, durant l’offensive conjointe des indépendantistes du Front de libération de l’Azawad et des djihadistes du Groupe de soutien de l’islam et des musulmans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les militaires maliens et leurs alliés russes avaient été chassés de la ville du Nord le 25 avril, durant l’offensive conjointe des indépendantistes du Front de libération de l’Azawad et des djihadistes du Groupe de soutien de l’islam et des musulmans."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/06/au-mali-la-junte-regagne-du-terrain-en-reprenant-kidal-fief-des-rebelles-touareg_6789125_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/06/au-mali-la-junte-regagne-du-terrain-en-reprenant-kidal-fief-des-rebelles-touareg_6789125_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/06/au-mali-la-junte-regagne-du-terrain-en-reprenant-kidal-fief-des-rebelles-touareg_6789125_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/10/142/0/5664/2832/644/322/60/0/8ecb790_upload-1-d3gdnuqy46z3-080-hl-smaouche-3234958.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un monument peint aux couleurs du drapeau de l’Azawad se dresse sur un rond-point de la ville de Kidal, au nord du Mali, le 16 mai 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SAMIR MAOUCHE/Hans Lucas via AFP"
+      }
+    ],
+    "credit": "SAMIR MAOUCHE/Hans Lucas via AFP"
+  }
+}

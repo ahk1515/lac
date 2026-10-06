@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T23:34:23.177462+00:00",
+  "_id": "d6198b3d71f0",
+  "brut": {
+    "title": "Finlande : Google, accusé d’avoir fait raser 300 hectares de forêt, sommé de suspendre la construction de data centers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Finlande : Google, accusé d’avoir fait raser 300 hectares de forêt, sommé de suspendre la construction de data centers"
+    },
+    "published": "Tue, 06 Oct 2026 20:07:49 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      18,
+      7,
+      49,
+      1,
+      279,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 20:09:14 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      18,
+      9,
+      14,
+      1,
+      279,
+      0
+    ],
+    "summary": "Les autorités exigent l’arrêt des travaux dans deux localités du pays d’ici au 23 octobre, dans l’attente d’une évaluation environnementale. Le géant américain a reconnu ne pas avoir été « à la hauteur ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les autorités exigent l’arrêt des travaux dans deux localités du pays d’ici au 23 octobre, dans l’attente d’une évaluation environnementale. Le géant américain a reconnu ne pas avoir été « à la hauteur »."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/10/06/finlande-google-accuse-d-avoir-fait-raser-300-hectares-de-foret-somme-de-suspendre-la-construction-de-data-centers_6789090_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/10/06/finlande-google-accuse-d-avoir-fait-raser-300-hectares-de-foret-somme-de-suspendre-la-construction-de-data-centers_6789090_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/10/06/finlande-google-accuse-d-avoir-fait-raser-300-hectares-de-foret-somme-de-suspendre-la-construction-de-data-centers_6789090_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/375/0/4500/2250/644/322/60/0/4619f88_ftp-1-o4wmogtva5yd-5259208-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le site pressenti pour l’installation du nouveau centre de données de Google à Vaala (Finlande), le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALESSANDRO RAMPAZZO/AFP"
+      }
+    ],
+    "credit": "ALESSANDRO RAMPAZZO/AFP"
+  }
+}

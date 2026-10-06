@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T23:34:23.860712+00:00",
+  "_id": "51a517c19ee9",
+  "brut": {
+    "title": "Christa Pike, condamnée à mort aux Etats-Unis, a repris connaissance et parle, annoncent ses avocats",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Christa Pike, condamnée à mort aux Etats-Unis, a repris connaissance et parle, annoncent ses avocats"
+    },
+    "summary": "Cette quinquagénaire, qui devait être la première femme mise à mort depuis plus de 200 ans au Tennessee, a survécu mercredi dernier à l'administration de deux injections létales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette quinquagénaire, qui devait être la première femme mise à mort depuis plus de 200 ans au Tennessee, a survécu mercredi dernier à l'administration de deux injections létales."
+    },
+    "published": "Wed, 07 Oct 2026 00:00:32 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      22,
+      0,
+      32,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle-annoncent-ses-avocats_8225854.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/E5kxLnkjdwgCqxDm2Fi-eZYiKws/0x13:1200x688/432x243/filters:format(jpg)/2026/10/01/6abde854cdccc668703444.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle-annoncent-ses-avocats_8225854.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle-annoncent-ses-avocats_8225854.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

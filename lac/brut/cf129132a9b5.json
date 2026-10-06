@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T23:34:23.177095+00:00",
+  "_id": "cf129132a9b5",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens déclenche un vaste incendie sur un pétrolier au large de Sotchi, en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens déclenche un vaste incendie sur un pétrolier au large de Sotchi, en Russie"
+    },
+    "published": "Tue, 06 Oct 2026 23:36:22 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      21,
+      36,
+      22,
+      1,
+      279,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 00:29:22 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      22,
+      29,
+      22,
+      1,
+      279,
+      0
+    ],
+    "summary": "Des images largement diffusées sur les réseaux sociaux montrent d’importantes flammes en mer et une épaisse colonne de fumée s’élevant dans le ciel. En raison de l’intensité du sinistre, les pompiers n’ont pas pu intervenir, mais un équipage de 23 personnes a été secouru, selon le ministère des transports russe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des images largement diffusées sur les réseaux sociaux montrent d’importantes flammes en mer et une épaisse colonne de fumée s’élevant dans le ciel. En raison de l’intensité du sinistre, les pompiers n’ont pas pu intervenir, mais un équipage de 23 personnes a été secouru, selon le ministère des transports russe."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-des-relations-fortes-entre-kiev-et-israel-pourraient-certainement-contribuer-a-une-securite-commune-estime-volodymyr-zelensky_6787996_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-des-relations-fortes-entre-kiev-et-israel-pourraient-certainement-contribuer-a-une-securite-commune-estime-volodymyr-zelensky_6787996_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-des-relations-fortes-entre-kiev-et-israel-pourraient-certainement-contribuer-a-une-securite-commune-estime-volodymyr-zelensky_6787996_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/907/0/1800/900/644/322/60/0/3d33c60_ftp-1-oemmtv74ttxs-5284033-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette capture d’écran d’une vidéo amateur obtenue par l’Agence France-Presse, le 6 octobre 2026, montre un incendie à bord d’un navire au large de Sotchi, en Russie."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP PHOTO/UGC"
+      }
+    ],
+    "credit": "AFP PHOTO/UGC"
+  }
+}
