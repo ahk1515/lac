@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T17:57:58.291662+00:00",
+  "_id": "2f990459b9e1",
+  "brut": {
+    "title": "Dans la Somalie en guerre, une aide humanitaire empêchée, des populations menacées de famine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la Somalie en guerre, une aide humanitaire empêchée, des populations menacées de famine"
+    },
+    "published": "Tue, 06 Oct 2026 19:01:52 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      17,
+      1,
+      52,
+      1,
+      279,
+      0
+    ],
+    "summary": "Les violents combats entre factions gouvernementales rivales aggravent encore la crise alimentaire qui touche près de 7 millions de Somaliens. Fuyant la sécheresse et la faim, les réfugiés ne cessent d’affluer dans les camps où se trouvent les organisations humanitaires, bannies de certaines zones par le mouvement islamiste chabab.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les violents combats entre factions gouvernementales rivales aggravent encore la crise alimentaire qui touche près de 7 millions de Somaliens. Fuyant la sécheresse et la faim, les réfugiés ne cessent d’affluer dans les camps où se trouvent les organisations humanitaires, bannies de certaines zones par le mouvement islamiste chabab."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/06/dans-la-somalie-en-guerre-une-aide-humanitaire-empechee-des-populations-menacees-de-famine_6789054_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/06/dans-la-somalie-en-guerre-une-aide-humanitaire-empechee-des-populations-menacees-de-famine_6789054_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/06/dans-la-somalie-en-guerre-une-aide-humanitaire-empechee-des-populations-menacees-de-famine_6789054_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/23/0/3520/1760/644/322/60/0/a2d614d_upload-1-rni29f0elpzf-068-aa-09062025-2279751.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un camp de réfugiés à Baidoa, en Somalie, le 7 juin 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ALI EBUBEKIR TOKCAN/Anadolu via AFP"
+      }
+    ],
+    "credit": "ALI EBUBEKIR TOKCAN/Anadolu via AFP"
+  }
+}

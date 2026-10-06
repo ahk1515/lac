@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T17:57:58.292369+00:00",
+  "_id": "adb623d6833a",
+  "brut": {
+    "title": "Détroit d’Ormuz : 12 membres de l’équipage d’un pétrolier blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Détroit d’Ormuz : 12 membres de l’équipage d’un pétrolier blessés"
+    },
+    "published": "Tue, 06 Oct 2026 17:05:25 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      15,
+      5,
+      25,
+      1,
+      279,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 17:05:55 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      15,
+      5,
+      55,
+      1,
+      279,
+      0
+    ],
+    "summary": "Touché par un projectile, le pétrolier « On-Peace », battant pavillon panaméen, a vu ses blessés évacués vers Oman. L’équipage du pétrolier comptait 19 membres, dont 17 de nationalité indienne, selon le ministère des affaires étrangères indien.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Touché par un projectile, le pétrolier « On-Peace », battant pavillon panaméen, a vu ses blessés évacués vers Oman. L’équipage du pétrolier comptait 19 membres, dont 17 de nationalité indienne, selon le ministère des affaires étrangères indien."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/06/detroit-d-ormuz-12-membres-de-l-equipage-d-un-petrolier-blesses_6789034_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/06/detroit-d-ormuz-12-membres-de-l-equipage-d-un-petrolier-blesses_6789034_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/06/detroit-d-ormuz-12-membres-de-l-equipage-d-un-petrolier-blesses_6789034_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/06/26/309/0/3008/1504/644/322/60/0/e030658_ftp-1-byiazawxqw33-2026-06-26t134318z-693026131-rc2n1maqswkp-rtrmadp-3-iran-crisis-oman-hormuz.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un pétrolier au large de la côte omanaise, vu depuis le Musandam (Oman), le 26 juin 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

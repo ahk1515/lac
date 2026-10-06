@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T17:57:58.291852+00:00",
+  "_id": "a66da4842d52",
+  "brut": {
+    "title": "Les exportations de pétrole du Golfe rebondissent au-delà de leurs niveaux d’avant-guerre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les exportations de pétrole du Golfe rebondissent au-delà de leurs niveaux d’avant-guerre"
+    },
+    "published": "Tue, 06 Oct 2026 18:30:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      16,
+      30,
+      10,
+      1,
+      279,
+      0
+    ],
+    "summary": "Malgré l’augmentation des flux de brut en provenance du Moyen-Orient, la pénurie croissante de navires pétroliers est en train de créer un nouveau goulet d’étranglement.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Malgré l’augmentation des flux de brut en provenance du Moyen-Orient, la pénurie croissante de navires pétroliers est en train de créer un nouveau goulet d’étranglement."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/06/les-exportations-de-petrole-du-golfe-rebondissent-au-dela-de-leurs-niveaux-d-avant-guerre_6789050_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/06/les-exportations-de-petrole-du-golfe-rebondissent-au-dela-de-leurs-niveaux-d-avant-guerre_6789050_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/06/les-exportations-de-petrole-du-golfe-rebondissent-au-dela-de-leurs-niveaux-d-avant-guerre_6789050_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/406/0/3000/1500/644/322/60/0/00d7a8e_upload-1-xam41n5iud3q-gettyimages-2298236559.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue satellite de l’incendie de la station de pompage d’al-Mesabaah, située sur l’oléoduc est-ouest d’Arabie saoudite près de Médine, le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Gallo Images/Orbital Horizon/Copernicus Sentinel Data 2026"
+      }
+    ],
+    "credit": "Gallo Images/Orbital Horizon/Copernicus Sentinel Data 2026"
+  }
+}

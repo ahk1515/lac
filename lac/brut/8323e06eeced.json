@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T17:57:58.292454+00:00",
+  "_id": "8323e06eeced",
+  "brut": {
+    "title": "Brésil : chez les Bolsonaro, la politique est une affaire de famille",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Brésil : chez les Bolsonaro, la politique est une affaire de famille"
+    },
+    "published": "Tue, 06 Oct 2026 17:00:34 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      15,
+      0,
+      34,
+      1,
+      279,
+      0
+    ],
+    "summary": "Flavio Bolsonaro, fils aîné de l’ex-président Jair Bolsonaro arrivé en tête au premier tour de l’élection présidentielle, le 4 octobre, a notamment vu son frère, son demi-frère, sa belle-mère et son oncle également candidats au Sénat, à la Chambre des députés ou à des Assemblées législatives locales.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Flavio Bolsonaro, fils aîné de l’ex-président Jair Bolsonaro arrivé en tête au premier tour de l’élection présidentielle, le 4 octobre, a notamment vu son frère, son demi-frère, sa belle-mère et son oncle également candidats au Sénat, à la Chambre des députés ou à des Assemblées législatives locales."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/06/bresil-chez-les-bolsonaro-la-politique-est-une-affaire-de-famille_6789032_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/06/bresil-chez-les-bolsonaro-la-politique-est-une-affaire-de-famille_6789032_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/06/bresil-chez-les-bolsonaro-la-politique-est-une-affaire-de-famille_6789032_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/04/122/0/5500/2750/644/322/60/0/9ec54d5_ftp-1-qgqyneaais9w-2026-10-04t161530z-830103476-rc2ewnat7os5-rtrmadp-3-brazil-election.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Michelle Bolsonaro, épouse de l’ancien président brésilien Jair Bolsonaro, lors du vote pour les élections générales au Brésil, à Brasilia, le 4 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "DIEGO HERCULANO/REUTERS"
+      }
+    ],
+    "credit": "DIEGO HERCULANO/REUTERS"
+  }
+}

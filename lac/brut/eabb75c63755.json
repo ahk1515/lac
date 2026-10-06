@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T17:57:58.489157+00:00",
+  "_id": "eabb75c63755",
+  "brut": {
+    "title": "Au Québec, les indépendantistes remportent les élections provinciales",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Québec, les indépendantistes remportent les élections provinciales"
+    },
+    "summary": "Au Québec, les indépendantistes remportent les élections provinciales, avec la promesse d'un nouveau référendum sur la sortie du Canada.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au Québec, les indépendantistes remportent les élections provinciales, avec la promesse d'un nouveau référendum sur la sortie du Canada."
+    },
+    "published": "Tue, 06 Oct 2026 14:47:29 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      12,
+      47,
+      29,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/canada/quebec/au-quebec-les-independantistes-remportent-les-elections-provinciales_8225152.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/rFinFRWgdOh0k_Ap1hk95NcVx7M/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/06/6ac4ecba97ea5141427142.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/canada/quebec/au-quebec-les-independantistes-remportent-les-elections-provinciales_8225152.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/canada/quebec/au-quebec-les-independantistes-remportent-les-elections-provinciales_8225152.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

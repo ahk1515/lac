@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T17:57:58.488929+00:00",
+  "_id": "a587ad902ba8",
+  "brut": {
+    "title": "Le Kenya annonce un mort d'Ebola, le premier jamais recensé sur son sol",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Kenya annonce un mort d'Ebola, le premier jamais recensé sur son sol"
+    },
+    "summary": "Une épidémie touche en ce moment la République démocratique du Congo. Elle a déjà fait plus de 4 000 morts selon les autorités.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une épidémie touche en ce moment la République démocratique du Congo. Elle a déjà fait plus de 4 000 morts selon les autorités."
+    },
+    "published": "Tue, 06 Oct 2026 15:58:58 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      13,
+      58,
+      58,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/maladie/ebola/le-kenya-annonce-un-mort-d-ebola-le-premier-jamais-recense-sur-son-sol_8225251.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/D4JCsM8OTqCiuthEAesTxToUBW4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/06/6ac4fdfe63d7a398339374.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/maladie/ebola/le-kenya-annonce-un-mort-d-ebola-le-premier-jamais-recense-sur-son-sol_8225251.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/maladie/ebola/le-kenya-annonce-un-mort-d-ebola-le-premier-jamais-recense-sur-son-sol_8225251.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

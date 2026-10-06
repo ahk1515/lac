@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T17:57:58.488550+00:00",
+  "_id": "d8a537dfc2ea",
+  "brut": {
+    "title": "En Cisjordanie occupée, un photographe de l'AFP roué de coups par des colons israéliens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Cisjordanie occupée, un photographe de l'AFP roué de coups par des colons israéliens"
+    },
+    "summary": "Le journaliste est désormais hospitalisé à Naplouse. L'AFP dénonce \"une attaque grave\" qui n'est pas une première.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le journaliste est désormais hospitalisé à Naplouse. L'AFP dénonce \"une attaque grave\" qui n'est pas une première."
+    },
+    "published": "Tue, 06 Oct 2026 17:53:21 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      15,
+      53,
+      21,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-un-photographe-de-l-afp-roue-de-coups-par-des-colons_8225509.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2g7EDMfyjtu23DbTV7PqFSMqQaE/0x211:4061x2495/432x243/filters:format(jpg)/2026/10/06/6ac518f705bae186624234.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-un-photographe-de-l-afp-roue-de-coups-par-des-colons_8225509.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-un-photographe-de-l-afp-roue-de-coups-par-des-colons_8225509.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
