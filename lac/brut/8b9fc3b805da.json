@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T11:01:11.623285+00:00",
+  "_id": "8b9fc3b805da",
+  "brut": {
+    "title": "Face à la crise du logement en Espagne, Pedro Sanchez convoque des élections anticipées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Face à la crise du logement en Espagne, Pedro Sanchez convoque des élections anticipées"
+    },
+    "summary": "Le Premier ministre espagnol, Pedro Sanchez, a décidé de dissoudre le Parlement et a convoqué des élections législatives anticipées le 29 novembre. Il espère obtenir une majorité plus large pour faire passer son plan logement, qui vient d'être rejeté.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le Premier ministre espagnol, Pedro Sanchez, a décidé de dissoudre le Parlement et a convoqué des élections législatives anticipées le 29 novembre. Il espère obtenir une majorité plus large pour faire passer son plan logement, qui vient d'être rejeté."
+    },
+    "published": "Tue, 06 Oct 2026 08:34:33 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      6,
+      34,
+      33,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/espagne/face-a-la-crise-du-logement-en-espagne-pedro-sanchez-convoque-des-elections-anticipees_8224576.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/-2lkwaHXAUctc2dOJKv1kw07Rrw/0x42:982x594/432x243/filters:format(jpg)/2026/10/06/6ac4951594467382080803.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/espagne/face-a-la-crise-du-logement-en-espagne-pedro-sanchez-convoque-des-elections-anticipees_8224576.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/espagne/face-a-la-crise-du-logement-en-espagne-pedro-sanchez-convoque-des-elections-anticipees_8224576.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

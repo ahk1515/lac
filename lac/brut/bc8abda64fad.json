@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T11:01:11.425806+00:00",
+  "_id": "bc8abda64fad",
+  "brut": {
+    "title": "OpenAI présente ses excuses devant le Parlement d’Australie après l’infiltration de sites gouvernementaux par l’un de ses agents",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "OpenAI présente ses excuses devant le Parlement d’Australie après l’infiltration de sites gouvernementaux par l’un de ses agents"
+    },
+    "published": "Tue, 06 Oct 2026 09:42:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      7,
+      42,
+      8,
+      1,
+      279,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 10:35:37 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      8,
+      35,
+      37,
+      1,
+      279,
+      0
+    ],
+    "summary": "Un agent autonome d’OpenAI s’est introduit en juin sur le site du service de statistiques de la santé australien. Il avait pu accéder à différents fichiers, publics ou non. « Cela n’aurait pas dû se produire. Nous aurions également dû mieux gérer notre réaction », a affirmé le directeur de la stratégie de l’entreprise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un agent autonome d’OpenAI s’est introduit en juin sur le site du service de statistiques de la santé australien. Il avait pu accéder à différents fichiers, publics ou non. « Cela n’aurait pas dû se produire. Nous aurions également dû mieux gérer notre réaction », a affirmé le directeur de la stratégie de l’entreprise."
+    },
+    "id": "https://www.lemonde.fr/pixels/article/2026/10/06/openai-s-excuse-devant-le-parlement-australien-pour-l-infiltration-de-sites-gouvernementaux-par-l-un-de-ses-agents_6788952_4408996.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/pixels/article/2026/10/06/openai-s-excuse-devant-le-parlement-australien-pour-l-infiltration-de-sites-gouvernementaux-par-l-un-de-ses-agents_6788952_4408996.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/pixels/article/2026/10/06/openai-s-excuse-devant-le-parlement-australien-pour-l-infiltration-de-sites-gouvernementaux-par-l-un-de-ses-agents_6788952_4408996.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/665/0/7961/3980/644/322/60/0/5068128_ftp-1-f98nc7wnutud-2026-10-06t044750z-274621172-rc2gxna7tqat-rtrmadp-3-ai-australia.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Jason Kwon, directeur de la stratégie chez OpenAI, aux côtés d’Adam Cohen (gauche), responsable de la politique économique chez OpenAI, et de Peter Anstee (droite), responsable de la politique de sécurité pour la région Asie-Pacifique chez OpenAI, lors de la réunion d’une commission mixte spéciale sur l’intelligence artificielle au Parlement de Nouvelle-Galles du Sud, à Sydney (Australie), le 6 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Hollie Adams / REUTERS"
+      }
+    ],
+    "credit": "Hollie Adams / REUTERS"
+  }
+}

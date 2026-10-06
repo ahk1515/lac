@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T11:01:11.623175+00:00",
+  "_id": "b9bf98278cb4",
+  "brut": {
+    "title": "Jeffrey Archer, écrivain à succès et ancien homme politique britannique, est mort à 86 ans",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Jeffrey Archer, écrivain à succès et ancien homme politique britannique, est mort à 86 ans"
+    },
+    "summary": "Ses déboires en politique lui avaient inspiré son premier livre, \"Not a Penny More, Not a Penny Less\", paru en 1975.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ses déboires en politique lui avaient inspiré son premier livre, \"Not a Penny More, Not a Penny Less\", paru en 1975."
+    },
+    "published": "Tue, 06 Oct 2026 10:32:21 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      8,
+      32,
+      21,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/culture/livres/jeffrey-archer-ecrivain-a-succes-et-ancien-homme-politique-britannique-est-mort-a-86-ans_8224669.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/RcdoOhCe4cd_ATQWwsXmU3HksUA/0x0:3980x2238/432x243/filters:format(jpg)/2026/10/06/6ac4a93202fec174768726.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/culture/livres/jeffrey-archer-ecrivain-a-succes-et-ancien-homme-politique-britannique-est-mort-a-86-ans_8224669.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/culture/livres/jeffrey-archer-ecrivain-a-succes-et-ancien-homme-politique-britannique-est-mort-a-86-ans_8224669.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T11:01:11.425209+00:00",
+  "_id": "1a06cc116e8f",
+  "brut": {
+    "title": "Dakar : les images des inondations qui frappent la capitale sénégalaise",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dakar : les images des inondations qui frappent la capitale sénégalaise"
+    },
+    "published": "Tue, 06 Oct 2026 11:36:53 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      9,
+      36,
+      53,
+      1,
+      279,
+      0
+    ],
+    "summary": "Une femme et son fils sont morts dans l’inondation de leur maison, selon un témoin. Le président, Bassirou Diomaye Faye, fait état de « pertes en vies humaines ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Une femme et son fils sont morts dans l’inondation de leur maison, selon un témoin. Le président, Bassirou Diomaye Faye, fait état de « pertes en vies humaines »."
+    },
+    "id": "https://www.lemonde.fr/afrique/video/2026/10/06/dakar-les-images-des-inondations-qui-frappent-la-capitale-senegalaise_6788971_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/video/2026/10/06/dakar-les-images-des-inondations-qui-frappent-la-capitale-senegalaise_6788971_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/video/2026/10/06/dakar-les-images-des-inondations-qui-frappent-la-capitale-senegalaise_6788971_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/322/0/3862/1931/644/322/60/0/ba49bf6_ftp-1-vhi09bga61mw-5276857-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Dakar, la capitale sénégalaise, a été touchée par de fortes pluies provoquant d’importantes inondations, le 4 octobre 2026. (SEYLLOU/AFP)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEYLLOU / AFP"
+      }
+    ],
+    "credit": "SEYLLOU / AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T11:01:11.623229+00:00",
+  "_id": "1be900779538",
+  "brut": {
+    "title": "Israël en alerte face à \"tout scénario\" d'attaque du Hamas, à la veille des commémorations du 7-Octobre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Israël en alerte face à \"tout scénario\" d'attaque du Hamas, à la veille des commémorations du 7-Octobre"
+    },
+    "summary": "Les autorités israéliennes redoutent notamment des tentatives d'embuscade contre les postes militaires israéliens situés dans la zone de Gaza.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les autorités israéliennes redoutent notamment des tentatives d'embuscade contre les postes militaires israéliens situés dans la zone de Gaza."
+    },
+    "published": "Tue, 06 Oct 2026 10:03:43 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      8,
+      3,
+      43,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/israel-en-alerte-face-a-tout-scenario-d-attaque-du-hamas-a-la-veille-des-commemorations-du-7-octobre_8224684.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/FnxqLG-V87QUIX8FOwwnNqElRyE/0x0:1024x576/432x243/filters:format(jpg)/2026/10/06/6ac4a6f7d78e4208754616.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/israel-en-alerte-face-a-tout-scenario-d-attaque-du-hamas-a-la-veille-des-commemorations-du-7-octobre_8224684.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/israel-en-alerte-face-a-tout-scenario-d-attaque-du-hamas-a-la-veille-des-commemorations-du-7-octobre_8224684.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T11:01:11.424570+00:00",
+  "_id": "bbf04abdaffe",
+  "brut": {
+    "title": "En Grèce, avec le boom du tourisme, les cinq-étoiles fleurissent au détriment des petits hôtels familiaux",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Grèce, avec le boom du tourisme, les cinq-étoiles fleurissent au détriment des petits hôtels familiaux"
+    },
+    "published": "Tue, 06 Oct 2026 13:00:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      11,
+      0,
+      3,
+      1,
+      279,
+      0
+    ],
+    "summary": "Conséquence d’un marché attractif pour les investisseurs étrangers, en dix ans, le nombre d’hôtels cinq étoiles a plus que doublé en Grèce, lorsque les établissements une et deux étoiles ont diminué de 22 %.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Conséquence d’un marché attractif pour les investisseurs étrangers, en dix ans, le nombre d’hôtels cinq étoiles a plus que doublé en Grèce, lorsque les établissements une et deux étoiles ont diminué de 22 %."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/06/en-grece-avec-le-boom-du-tourisme-les-cinq-etoiles-fleurissent-au-detriment-des-petits-hotels-familiaux_6788986_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/06/en-grece-avec-le-boom-du-tourisme-les-cinq-etoiles-fleurissent-au-detriment-des-petits-hotels-familiaux_6788986_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/06/en-grece-avec-le-boom-du-tourisme-les-cinq-etoiles-fleurissent-au-detriment-des-petits-hotels-familiaux_6788986_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/469/0/5000/2500/644/322/60/0/2b5f7dc_upload-1-vyjordyx8opu-000-974k763.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Vue du chantier d’un hôtel de luxe sur l’île grecque de Milos, dans la mer Égée, le 3 février 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ARIS MESSINIS/AFP"
+      }
+    ],
+    "credit": "ARIS MESSINIS/AFP"
+  }
+}

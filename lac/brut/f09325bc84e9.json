@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T11:01:11.425130+00:00",
+  "_id": "f09325bc84e9",
+  "brut": {
+    "title": "Ebola : le Kenya annonce son premier mort lié au virus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ebola : le Kenya annonce son premier mort lié au virus"
+    },
+    "published": "Tue, 06 Oct 2026 11:37:38 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      9,
+      37,
+      38,
+      1,
+      279,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 12:07:51 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      10,
+      7,
+      51,
+      1,
+      279,
+      0
+    ],
+    "summary": "Le ministre de la santé a déclaré que ce citoyen kenyan, arrivé samedi dans le pays en provenance de RDC via l’Ouganda, avait été placé en isolement à l’hôpital de Nairobi, avant d’y mourir lundi soir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le ministre de la santé a déclaré que ce citoyen kenyan, arrivé samedi dans le pays en provenance de RDC via l’Ouganda, avait été placé en isolement à l’hôpital de Nairobi, avant d’y mourir lundi soir."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/06/ebola-le-kenya-annonce-son-premier-mort-lie-au-virus_6788972_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/06/ebola-le-kenya-annonce-son-premier-mort-lie-au-virus_6788972_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/06/ebola-le-kenya-annonce-son-premier-mort-lie-au-virus_6788972_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/606/0/5500/2750/644/322/60/0/3ca0e1d_ftp-1-hdonadniomaj-2026-10-06t085139z-339030955-rc2kxnawitcg-rtrmadp-3-kenya-ebola.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le ministre kényan de la santé, Aden Duale (au centre), avant une conférence de presse annonçant le premier cas de maladie à virus Ebola dans le pays, à Nairobi, le 6 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Monicah Mwangi/REUTERS"
+      }
+    ],
+    "credit": "Monicah Mwangi/REUTERS"
+  }
+}

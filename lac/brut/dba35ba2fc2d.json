@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T11:01:11.623454+00:00",
+  "_id": "dba35ba2fc2d",
+  "brut": {
+    "title": "Moscou visée par \"650 drones\" ukrainiens dans la nuit de lundi à mardi, selon le maire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Moscou visée par \"650 drones\" ukrainiens dans la nuit de lundi à mardi, selon le maire"
+    },
+    "summary": "L'attaque a tué deux personnes, un homme de 20 ans et un autre de 71 ans, a précisé le gouverneur régional, Andreï Vorobiev.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'attaque a tué deux personnes, un homme de 20 ans et un autre de 71 ans, a précisé le gouverneur régional, Andreï Vorobiev."
+    },
+    "published": "Tue, 06 Oct 2026 09:05:53 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      7,
+      5,
+      53,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-650-drones-dans-la-nuit-de-lundi-a-mardi-selon-le-maire-de-la-capitale-russe_8224516.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kwvwbMO5hP9EysLjZNK4ZEz7PU4/0x53:1024x629/432x243/filters:format(jpg)/2026/10/06/6ac48d6be63d1319485462.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-650-drones-dans-la-nuit-de-lundi-a-mardi-selon-le-maire-de-la-capitale-russe_8224516.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-650-drones-dans-la-nuit-de-lundi-a-mardi-selon-le-maire-de-la-capitale-russe_8224516.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

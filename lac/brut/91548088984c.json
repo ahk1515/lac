@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T11:01:11.425047+00:00",
+  "_id": "91548088984c",
+  "brut": {
+    "title": "Un ancien chef du renseignement extérieur allemand arrêté pour « espionnage constitutif de trahison »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un ancien chef du renseignement extérieur allemand arrêté pour « espionnage constitutif de trahison »"
+    },
+    "published": "Tue, 06 Oct 2026 11:55:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      9,
+      55,
+      2,
+      1,
+      279,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 12:09:40 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      10,
+      9,
+      40,
+      1,
+      279,
+      0
+    ],
+    "summary": "Selon le parquet fédéral allemand, August Hanning aurait notamment utilisé des contenus classifiés, transmis par l’un de ses anciens collaborateurs, afin de rédiger, dans le cadre de ses activités de consultant privé, une analyse pour un « officier d’un service renseignement étranger ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon le parquet fédéral allemand, August Hanning aurait notamment utilisé des contenus classifiés, transmis par l’un de ses anciens collaborateurs, afin de rédiger, dans le cadre de ses activités de consultant privé, une analyse pour un « officier d’un service renseignement étranger »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/06/un-ancien-chef-du-renseignement-exterieur-allemand-august-hanning-arrete-pour-espionnage_6788973_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/06/un-ancien-chef-du-renseignement-exterieur-allemand-august-hanning-arrete-pour-espionnage_6788973_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/06/un-ancien-chef-du-renseignement-exterieur-allemand-august-hanning-arrete-pour-espionnage_6788973_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/316/0/4226/2113/644/322/60/0/9e5268c_ftp-1-mahqtpva4t5g-510f031d58794d7588cc6d4587922f58-0-1dc9bc552a234da2a6d98e4e253d6ef5.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "August Hanning, ancien président du service de renseignement ouest-allemand (BND), témoigne devant une commission d’enquête au Bundestag, à Berlin, le 1er octobre 2015."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Michael Kappeler / Michael Kappeler/DPA via AP"
+      }
+    ],
+    "credit": "Michael Kappeler / Michael Kappeler/DPA via AP"
+  }
+}

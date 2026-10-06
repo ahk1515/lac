@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T11:01:11.425636+00:00",
+  "_id": "f462bf632a82",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : les attaques russes dans la région de Kharkiv ont fait 7 morts et 80 blessés depuis lundi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : les attaques russes dans la région de Kharkiv ont fait 7 morts et 80 blessés depuis lundi"
+    },
+    "published": "Tue, 06 Oct 2026 10:28:55 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      8,
+      28,
+      55,
+      1,
+      279,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 12:12:47 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      10,
+      12,
+      47,
+      1,
+      279,
+      0
+    ],
+    "summary": "Sept personnes ont été tuées et 80 autres blessées, dont trois enfants, dans des attaques russes contre Kharkiv et dix autres localités de sa région, selon le gouverneur régional, Oleh Synehoubov.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sept personnes ont été tuées et 80 autres blessées, dont trois enfants, dans des attaques russes contre Kharkiv et dix autres localités de sa région, selon le gouverneur régional, Oleh Synehoubov."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-les-attaques-russes-dans-la-region-de-kharkiv-ont-fait-7-morts-et-80-blesses-depuis-lundi_6787996_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-les-attaques-russes-dans-la-region-de-kharkiv-ont-fait-7-morts-et-80-blesses-depuis-lundi_6787996_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-les-attaques-russes-dans-la-region-de-kharkiv-ont-fait-7-morts-et-80-blesses-depuis-lundi_6787996_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/403/0/4564/2282/644/322/60/0/ae9be9e_ftp-1-ime95vyteuuy-2026-10-05t135148z-1523440370-rc21xna9xm6i-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes sur le site d’une frappe aérienne russe à Kharkiv (Ukraine), le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sofiia Gatilova/REUTERS"
+      }
+    ],
+    "credit": "Sofiia Gatilova/REUTERS"
+  }
+}

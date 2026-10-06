@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T11:01:11.424860+00:00",
+  "_id": "b61a527526af",
+  "brut": {
+    "title": "Au Québec, la victoire du Parti québécois ramène la question de l’indépendance dans les débats",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Québec, la victoire du Parti québécois ramène la question de l’indépendance dans les débats"
+    },
+    "published": "Tue, 06 Oct 2026 12:00:09 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      10,
+      0,
+      9,
+      1,
+      279,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 12:30:11 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      6,
+      10,
+      30,
+      11,
+      1,
+      279,
+      0
+    ],
+    "summary": "Comme anticipé, Paul St-Pierre Plamondon, le chef du parti vainqueur des élections provinciales lundi 5 octobre, deviendra le 34ᵉ premier ministre du Québec. Avec, en ligne de mire, la promesse d’un nouveau référendum sur la sortie du Canada.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comme anticipé, Paul St-Pierre Plamondon, le chef du parti vainqueur des élections provinciales lundi 5 octobre, deviendra le 34ᵉ premier ministre du Québec. Avec, en ligne de mire, la promesse d’un nouveau référendum sur la sortie du Canada."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-le-parti-quebecois-independantiste-l-emporte-aux-elections-provinciales_6788977_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-le-parti-quebecois-independantiste-l-emporte-aux-elections-provinciales_6788977_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-le-parti-quebecois-independantiste-l-emporte-aux-elections-provinciales_6788977_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/34/0/3500/1750/644/322/60/0/b2f2f2c_ftp-1-1qeiosesaxu4-297a452131c6456bade5cb76d26c3d04-0-3dc2cb6d98f14fcaafdd367556ff9e04.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Paul St-Pierre Plamondon, chef du Parti québecois, s’adresse à ses partisans après sa victoire aux élections provinciales, à Montréal, au Québec (Canada), le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Graham Hughes/The Canadian Press via AP"
+      }
+    ],
+    "credit": "Graham Hughes/The Canadian Press via AP"
+  }
+}

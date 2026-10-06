@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T11:01:11.624079+00:00",
+  "_id": "0c8c1756ed13",
+  "brut": {
+    "title": "Schneider Electric rachète un groupe américain pour vingt milliards d’euros",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Schneider Electric rachète un groupe américain pour vingt milliards d’euros"
+    },
+    "summary": "Il s'agit de la plus grosse acquisition de l'histoire du géant français, afin de renforcer ses activités liées à l’intelligence artificielle. Une opération d’envergure qui inquiète toutefois les marchés : l’action du groupe français a perdu près de 10% après l’annonce.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Il s'agit de la plus grosse acquisition de l'histoire du géant français, afin de renforcer ses activités liées à l’intelligence artificielle. Une opération d’envergure qui inquiète toutefois les marchés : l’action du groupe français a perdu près de 10% après l’annonce."
+    },
+    "published": "Tue, 06 Oct 2026 07:26:15 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      5,
+      26,
+      15,
+      1,
+      279,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-brief-eco/schneider-electric-rachete-un-groupe-americain-pour-vingt-milliards-d-euros_8203913.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/XVBnOP7myUTzyukeoVfGqLp2t-w/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/06/6ac4853be71e1893399516.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/schneider-electric-rachete-un-groupe-americain-pour-vingt-milliards-d-euros_8203913.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-brief-eco/schneider-electric-rachete-un-groupe-americain-pour-vingt-milliards-d-euros_8203913.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
