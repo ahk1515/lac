@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T01:07:32.420483+00:00",
+  "_id": "0a4d44face8f",
+  "brut": {
+    "title": "Prix Nobel de médecine 2026 : un Américain et deux Allemands récompensés pour leur technique d’activation des neurones par la lumière",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Prix Nobel de médecine 2026 : un Américain et deux Allemands récompensés pour leur technique d’activation des neurones par la lumière"
+    },
+    "published": "Mon, 05 Oct 2026 18:57:55 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      16,
+      57,
+      55,
+      0,
+      278,
+      0
+    ],
+    "updated": "Tue, 06 Oct 2026 00:00:46 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      22,
+      0,
+      46,
+      0,
+      278,
+      0
+    ],
+    "summary": "En insérant certaines protéines dans la membrane de cellules nerveuses, les trois lauréats, Karl Deisseroth, Peter Hegemann et Georg Nagel, sont parvenus à les « allumer » ou les « éteindre » à volonté. Avec un double enjeu : percer les secrets du cerveau et développer des traitements innovants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En insérant certaines protéines dans la membrane de cellules nerveuses, les trois lauréats, Karl Deisseroth, Peter Hegemann et Georg Nagel, sont parvenus à les « allumer » ou les « éteindre » à volonté. Avec un double enjeu : percer les secrets du cerveau et développer des traitements innovants."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/10/05/prix-nobel-de-medecine-2026-un-americain-et-deux-allemands-recompenses-pour-leur-technique-d-activation-des-neurones-par-la-lumiere_6788564_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/10/05/prix-nobel-de-medecine-2026-un-americain-et-deux-allemands-recompenses-pour-leur-technique-d-activation-des-neurones-par-la-lumiere_6788564_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/10/05/prix-nobel-de-medecine-2026-un-americain-et-deux-allemands-recompenses-pour-leur-technique-d-activation-des-neurones-par-la-lumiere_6788564_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/675/0/8108/4054/644/322/60/0/f4c4bbb_ftp-1-bl26xkejpien-5270820-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les portraits de Karl Deisseroth, Peter Hegemann et Georg Nagel, lors de l’annonce des lauréats du prix Nobel de physiologie ou médecine 2026, à l’Institut Karolinska, à Stockholm, le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JONATHAN NACKSTRAND / AFP"
+      }
+    ],
+    "credit": "JONATHAN NACKSTRAND / AFP"
+  }
+}

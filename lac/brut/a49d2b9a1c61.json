@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T01:07:33.022970+00:00",
+  "_id": "a49d2b9a1c61",
+  "brut": {
+    "title": "Les Houthis du Yémen affirment qu'ils ont touché l'aéroport de Riyad et une raffinerie d'Aramco",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les Houthis du Yémen affirment qu'ils ont touché l'aéroport de Riyad et une raffinerie d'Aramco"
+    },
+    "summary": "Selon le porte-parole militaire des Houthis, des sites militaires et des aéroports du sud de l'Arabie saoudite ont aussi été touchés par des attaques lundi.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon le porte-parole militaire des Houthis, des sites militaires et des aéroports du sud de l'Arabie saoudite ont aussi été touchés par des attaques lundi."
+    },
+    "published": "Mon, 05 Oct 2026 23:48:20 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      21,
+      48,
+      20,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-du-yemen-affirment-qu-ils-ont-touche-l-aeroport-de-riyad-et-une-raffinerie-d-aramco_8224057.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/not6NEcmsUjQkhRzvm08jDl4OZc/0x53:1024x629/432x243/filters:format(jpg)/2026/10/05/6ac41a72bfdc1507038221.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-du-yemen-affirment-qu-ils-ont-touche-l-aeroport-de-riyad-et-une-raffinerie-d-aramco_8224057.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-du-yemen-affirment-qu-ils-ont-touche-l-aeroport-de-riyad-et-une-raffinerie-d-aramco_8224057.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

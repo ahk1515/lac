@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T01:07:33.023619+00:00",
+  "_id": "c34901f8e704",
+  "brut": {
+    "title": "L’euro dévisse, et c’est (en partie) à cause de la France",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’euro dévisse, et c’est (en partie) à cause de la France"
+    },
+    "summary": "L’euro décroche face au dollar et cette fois, les regards se tournent vers Paris. Dette record, budget incertain, tensions politiques : la France est-elle devenue le maillon faible de la zone euro ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’euro décroche face au dollar et cette fois, les regards se tournent vers Paris. Dette record, budget incertain, tensions politiques : la France est-elle devenue le maillon faible de la zone euro ?"
+    },
+    "published": "Mon, 05 Oct 2026 20:00:01 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      18,
+      0,
+      1,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/economie/l-euro-devisse-et-c-est-en-partie-a-cause-de-la-france_8223544.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/rECOjTickxe6tSe2Kl88_9GmTeQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/05/6ac3b51d3d4e0866721484.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/economie/l-euro-devisse-et-c-est-en-partie-a-cause-de-la-france_8223544.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/economie/l-euro-devisse-et-c-est-en-partie-a-cause-de-la-france_8223544.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

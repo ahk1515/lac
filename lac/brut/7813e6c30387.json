@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T01:07:32.419115+00:00",
+  "_id": "7813e6c30387",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : six morts dans une attaque russe à Kharkiv",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : six morts dans une attaque russe à Kharkiv"
+    },
+    "published": "Mon, 05 Oct 2026 23:07:27 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      21,
+      7,
+      27,
+      0,
+      278,
+      0
+    ],
+    "summary": "Au moins trois bombes planantes russes se sont abattues dans le quartier de Slobidsky, selon le maire de Kharkiv, Ihor Terekhov. D’après le chef de l’administration militaire de l’oblast, Oleh Synehoubov, 59 personnes ont également été blessées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au moins trois bombes planantes russes se sont abattues dans le quartier de Slobidsky, selon le maire de Kharkiv, Ihor Terekhov. D’après le chef de l’administration militaire de l’oblast, Oleh Synehoubov, 59 personnes ont également été blessées."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/414/0/4972/2486/644/322/60/0/fb6a0ae_ftp-1-ial8qnk0q4q7-5273808-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des secouristes sur le site d’une frappe aérienne russe à Kharkiv (Ukraine), le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SERGEY BOBOK / AFP"
+      }
+    ],
+    "credit": "SERGEY BOBOK / AFP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T01:07:32.419675+00:00",
+  "_id": "53d6eba023ad",
+  "brut": {
+    "title": "Le Danemark, victime d’une fuite historique de données",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Danemark, victime d’une fuite historique de données"
+    },
+    "published": "Mon, 05 Oct 2026 20:00:07 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      18,
+      0,
+      7,
+      0,
+      278,
+      0
+    ],
+    "summary": "Copenhague a révélé, lundi 5 octobre, que le Registre central des personnes avait été ciblé par une opération de piratage visant les informations personnelles de 8,8 millions de personnes – en vie et décédées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Copenhague a révélé, lundi 5 octobre, que le Registre central des personnes avait été ciblé par une opération de piratage visant les informations personnelles de 8,8 millions de personnes – en vie et décédées."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/05/le-danemark-victime-d-une-fuite-historique-de-donnees_6788574_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/05/le-danemark-victime-d-une-fuite-historique-de-donnees_6788574_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/05/le-danemark-victime-d-une-fuite-historique-de-donnees_6788574_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/333/0/4000/2000/644/322/60/0/804f14e_upload-1-uglrslycjqzs-ap22180445401856.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Copenhague, au Danemark, le 29 juin 2022."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Daniel Cole/AP"
+      }
+    ],
+    "credit": "Daniel Cole/AP"
+  }
+}

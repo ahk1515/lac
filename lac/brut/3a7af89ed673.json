@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T01:07:33.023179+00:00",
+  "_id": "3a7af89ed673",
+  "brut": {
+    "title": "Détroit d'Ormuz : le pétrole passe, les prix ne baissent pas",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Détroit d'Ormuz : le pétrole passe, les prix ne baissent pas"
+    },
+    "summary": "Les exportations de pétrole des pays du Golfe, hors Iran, ont retrouvé leur niveau d’avant-guerre. Mais les prix à la pompe ne baissent pas. Pourquoi ce décalage ?",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les exportations de pétrole des pays du Golfe, hors Iran, ont retrouvé leur niveau d’avant-guerre. Mais les prix à la pompe ne baissent pas. Pourquoi ce décalage ?"
+    },
+    "published": "Mon, 05 Oct 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      20,
+      0,
+      2,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/detroit-d-ormuz-le-petrole-passe-les-prix-ne-baissent-pas_8223970.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/2yFhJ2YNzquAzXEZSVTMtpxhE3k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/05/6ac3faddbcd34914193857.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/detroit-d-ormuz-le-petrole-passe-les-prix-ne-baissent-pas_8223970.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/detroit-d-ormuz-le-petrole-passe-les-prix-ne-baissent-pas_8223970.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

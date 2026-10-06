@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-06T01:07:33.023820+00:00",
+  "_id": "958824634ae6",
+  "brut": {
+    "title": "Drones à réaction, la nouvelle menace russe",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Drones à réaction, la nouvelle menace russe"
+    },
+    "summary": "Les drones à réaction, nouvelle menace russe sur l'Ukraine. Trois fois plus rapides que des drones classiques, ils sont plus difficiles à intercepter.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les drones à réaction, nouvelle menace russe sur l'Ukraine. Trois fois plus rapides que des drones classiques, ils sont plus difficiles à intercepter."
+    },
+    "published": "Mon, 05 Oct 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      17,
+      0,
+      2,
+      0,
+      278,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/drones-a-reaction-la-nouvelle-menace-russe_8223790.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/lxOAeeOUdLHzSnx4PDClmBWZiRE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/05/6ac3d29619f10641426185.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/drones-a-reaction-la-nouvelle-menace-russe_8223790.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/drones-a-reaction-la-nouvelle-menace-russe_8223790.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

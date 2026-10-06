@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-06T01:07:32.419550+00:00",
+  "_id": "341a1b86871f",
+  "brut": {
+    "title": "Dépendante de SpaceX, l’Europe est confrontée à sa pénurie de fusées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dépendante de SpaceX, l’Europe est confrontée à sa pénurie de fusées"
+    },
+    "published": "Mon, 05 Oct 2026 20:47:36 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      18,
+      47,
+      36,
+      0,
+      278,
+      0
+    ],
+    "updated": "Mon, 05 Oct 2026 21:45:37 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      5,
+      19,
+      45,
+      37,
+      0,
+      278,
+      0
+    ],
+    "summary": "La société spatiale d’Elon Musk a limité la commercialisation des vols de sa fusée Falcon-9. Un coup dur pour le secteur, car les lanceurs européens actuels ne sont pas en capacité de répondre aux besoins croissants de mise en orbite des opérateurs de satellites.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La société spatiale d’Elon Musk a limité la commercialisation des vols de sa fusée Falcon-9. Un coup dur pour le secteur, car les lanceurs européens actuels ne sont pas en capacité de répondre aux besoins croissants de mise en orbite des opérateurs de satellites."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/05/dependante-de-spacex-l-europe-est-confrontee-a-sa-penurie-de-fusees_6788581_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/05/dependante-de-spacex-l-europe-est-confrontee-a-sa-penurie-de-fusees_6788581_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/05/dependante-de-spacex-l-europe-est-confrontee-a-sa-penurie-de-fusees_6788581_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/29/477/0/6095/3047/644/322/60/0/e7ed6e2_ftp-1-bsfv70gfoaa4-5222737-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le PDG de SpaceX, Elon Musk, après une réunion avec des dirigeants du secteur technologique consacrée à l’intelligence artificielle, à la Maison Blanche, à Washington, le 29 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "KENT NISHIMURA/AFP"
+      }
+    ],
+    "credit": "KENT NISHIMURA/AFP"
+  }
+}
