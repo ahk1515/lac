@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T04:27:42.950147+00:00",
+  "_id": "c58f51abb735",
+  "brut": {
+    "title": "L’Arabie saoudite annonce l’interception de missiles des houthistes du Yémen",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite annonce l’interception de missiles des houthistes du Yémen"
+    },
+    "published": "Wed, 07 Oct 2026 06:22:45 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      4,
+      22,
+      45,
+      2,
+      280,
+      0
+    ],
+    "summary": "Les opposants au gouvernement yéménite poursuivent leurs frappes contre Ryad et disent procéder à des tirs de drones, de missiles balistiques et de croisière.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les opposants au gouvernement yéménite poursuivent leurs frappes contre Ryad et disent procéder à des tirs de drones, de missiles balistiques et de croisière."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-annonce-l-interception-de-missiles-des-houthistes-du-yemen_6789541_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-annonce-l-interception-de-missiles-des-houthistes-du-yemen_6789541_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-annonce-l-interception-de-missiles-des-houthistes-du-yemen_6789541_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/121/0/3802/1901/644/322/60/0/e6a151d_ftp-1-mhl8w6k3car2-2026-10-05t161930z-1586261934-rc24xna55gzx-rtrmadp-3-saudi-yemen-strikes.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des images filmées par drone et difusées par l’armée houthiste montrent des frappes contre des véhicules et des troupes sur la route côtière sud, près d’Al Bahiya, au Yémen. Cette capture d’écran provient d’une vidéo fournie et publiée le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HOUTHI MILITARY MEDIA/via REUTERS"
+      }
+    ],
+    "credit": "HOUTHI MILITARY MEDIA/via REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T04:27:42.951071+00:00",
+  "_id": "c2a834acc582",
+  "brut": {
+    "title": "En Australie, la justice s’oppose à l’extension d’une mine de charbon",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Australie, la justice s’oppose à l’extension d’une mine de charbon"
+    },
+    "published": "Wed, 07 Oct 2026 04:36:26 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      2,
+      36,
+      26,
+      2,
+      280,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 04:42:18 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      7,
+      2,
+      42,
+      18,
+      2,
+      280,
+      0
+    ],
+    "summary": "Dans un arrêt prononcé mercredi, la Haute Cour australienne s’oppose à un vaste plan d’extension d’une mine de charbon à ciel ouvert, au nord de Sydney, en raison des conséquences climatiques du projet. Une victoire pour les militants écologistes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans un arrêt prononcé mercredi, la Haute Cour australienne s’oppose à un vaste plan d’extension d’une mine de charbon à ciel ouvert, au nord de Sydney, en raison des conséquences climatiques du projet. Une victoire pour les militants écologistes."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/10/07/en-australie-la-justice-s-oppose-a-l-extension-d-une-mine-de-charbon_6789397_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/10/07/en-australie-la-justice-s-oppose-a-l-extension-d-une-mine-de-charbon_6789397_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/10/07/en-australie-la-justice-s-oppose-a-l-extension-d-une-mine-de-charbon_6789397_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/417/0/5000/2500/644/322/60/0/92e3b83_upload-1-ydtj7e8f2xyh-ap23040173407183.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mine à ciel ouvert de Mount Pleasant, près de Sydney, en Australie, le 2 novembre 2021."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mark Baker/AP"
+      }
+    ],
+    "credit": "Mark Baker/AP"
+  }
+}

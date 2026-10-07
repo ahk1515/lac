@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T04:27:42.951195+00:00",
+  "_id": "b98e9bcf650a",
+  "brut": {
+    "title": "En Cisjordanie occupée, un photojournaliste de l’Agence France-Presse roué de coups par des colons israéliens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Cisjordanie occupée, un photojournaliste de l’Agence France-Presse roué de coups par des colons israéliens"
+    },
+    "published": "Wed, 07 Oct 2026 02:43:01 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      0,
+      43,
+      1,
+      2,
+      280,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 03:13:50 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      7,
+      1,
+      13,
+      50,
+      2,
+      280,
+      0
+    ],
+    "summary": "Jaafar Ashtiyeh, photographe palestinien de 58 ans, a été blessé à la tête et au torse et a été emmené à l’hôpital en ambulance, selon l’agence de presse internationale. Son directeur de l’information, Phil Chetwynd, dénonce « une attaque grave » et « inacceptable ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Jaafar Ashtiyeh, photographe palestinien de 58 ans, a été blessé à la tête et au torse et a été emmené à l’hôpital en ambulance, selon l’agence de presse internationale. Son directeur de l’information, Phil Chetwynd, dénonce « une attaque grave » et « inacceptable »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/675/0/8100/4050/644/322/60/0/9f56950_ftp-1-gjwwb2xdq1by-5279851-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Jaafar Ashtiyeh, photographe de l’Agence France-Presse (AFP), est transporté par des secouristes palestiniens pour recevoir des soins après avoir été agressé par plusieurs colons israéliens à Aqraba, en Cisjordanie occupée, le 6 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOHN WESSELS/AFP"
+      }
+    ],
+    "credit": "JOHN WESSELS/AFP"
+  }
+}

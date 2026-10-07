@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T04:27:42.950809+00:00",
+  "_id": "3056fb7372c5",
+  "brut": {
+    "title": "En Israël, trois ans après le 7-Octobre, les traumatismes et les aveuglements d’un pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Israël, trois ans après le 7-Octobre, les traumatismes et les aveuglements d’un pays"
+    },
+    "published": "Wed, 07 Oct 2026 05:00:25 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      3,
+      0,
+      25,
+      2,
+      280,
+      0
+    ],
+    "summary": "En pleine campagne électorale, l’Etat hébreu commémore mardi les victimes de l’attaque terroriste du Hamas. Depuis le drame, le pays poursuit une guerre sans fin motivée par un désir de vengeance, sans s’interroger sur les failles qui ont conduit au désastre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En pleine campagne électorale, l’Etat hébreu commémore mardi les victimes de l’attaque terroriste du Hamas. Depuis le drame, le pays poursuit une guerre sans fin motivée par un désir de vengeance, sans s’interroger sur les failles qui ont conduit au désastre."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/720/0/8640/4320/644/322/60/0/a892d08_ftp-1-153yuuhzllov-8ba30acd179b437ab5dc4370bc427e58-0-6c661c3816b0444aa71f81f81386323b.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur le site du festival de musique Nova, près du kibboutz Reim, dans le sud d’Israël, le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ohad Zwigenberg/AP"
+      }
+    ],
+    "credit": "Ohad Zwigenberg/AP"
+  }
+}
