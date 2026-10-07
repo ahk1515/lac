@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T15:05:33.091990+00:00",
+  "_id": "6317dcb4045e",
+  "brut": {
+    "title": "Au moins 14 morts, dont quatre enfants, dans une frappe russe sur un immeuble à Prylouky, dans le nord de l'Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 14 morts, dont quatre enfants, dans une frappe russe sur un immeuble à Prylouky, dans le nord de l'Ukraine"
+    },
+    "summary": "Le président ukrainien, Volodymyr Zelensky, a prévenu que le bilan pourrait encore s'alourdir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le président ukrainien, Volodymyr Zelensky, a prévenu que le bilan pourrait encore s'alourdir."
+    },
+    "published": "Wed, 07 Oct 2026 14:46:20 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      12,
+      46,
+      20,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-cinq-morts-dans-une-frappe-russe-sur-un-immeuble-a-prylouky-dans-le-nord-de-l-ukraine_8226463.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ETyk_Mfp8_BvEXM8KgzFQqFbI20/0x83:1600x983/432x243/filters:format(jpg)/2026/10/07/6ac5fd0a948cf852814502.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-cinq-morts-dans-une-frappe-russe-sur-un-immeuble-a-prylouky-dans-le-nord-de-l-ukraine_8226463.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-cinq-morts-dans-une-frappe-russe-sur-un-immeuble-a-prylouky-dans-le-nord-de-l-ukraine_8226463.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

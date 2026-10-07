@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T15:05:33.091921+00:00",
+  "_id": "a56079530e79",
+  "brut": {
+    "title": "Comment Polymarket fait sa pub avec nos lycéens en colère",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Comment Polymarket fait sa pub avec nos lycéens en colère"
+    },
+    "summary": "Bloqué en France, le site américain de paris en ligne Polymarket utilise des images de violences en marge des mobilisations lycéennes pour faire sa promotion sur Instagram.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Bloqué en France, le site américain de paris en ligne Polymarket utilise des images de violences en marge des mobilisations lycéennes pour faire sa promotion sur Instagram."
+    },
+    "published": "Wed, 07 Oct 2026 10:25:41 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      8,
+      25,
+      41,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/comment-polymarket-fait-sa-pub-avec-nos-lyceens-en-colere_8205416.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qhYwB8nendssl254iIJ2yGChRD4/0x39:1024x615/432x243/filters:format(jpg)/2026/10/07/6ac60118368b9880998320.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/comment-polymarket-fait-sa-pub-avec-nos-lyceens-en-colere_8205416.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/comment-polymarket-fait-sa-pub-avec-nos-lyceens-en-colere_8205416.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T15:05:32.803755+00:00",
+  "_id": "6f9e3d93e4ef",
+  "brut": {
+    "title": "En Belgique francophone, un quatrième jour de mouvement lycéen, émaillé de violences",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Belgique francophone, un quatrième jour de mouvement lycéen, émaillé de violences"
+    },
+    "published": "Wed, 07 Oct 2026 09:00:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      7,
+      0,
+      8,
+      2,
+      280,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 16:10:29 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      7,
+      14,
+      10,
+      29,
+      2,
+      280,
+      0
+    ],
+    "summary": "Les jeunes, qui protestent depuis le 1ᵉʳ octobre contre un plan d’économies, se défendent de suivre le mouvement lycéen français et insistent sur la spécificité de leurs revendications.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les jeunes, qui protestent depuis le 1ᵉʳ octobre contre un plan d’économies, se défendent de suivre le mouvement lycéen français et insistent sur la spécificité de leurs revendications."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/en-belgique-francophone-un-quatrieme-jour-de-mouvement-lyceen-emaille-de-violences_6789554_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/en-belgique-francophone-un-quatrieme-jour-de-mouvement-lyceen-emaille-de-violences_6789554_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/en-belgique-francophone-un-quatrieme-jour-de-mouvement-lyceen-emaille-de-violences_6789554_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/0/0/5302/2651/644/322/60/0/44b34ff_ftp-1-yfj8slphiplr-2026-10-06t093733z-1525841523-rc2lxna3n82x-rtrmadp-3-belgium-protest.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des élèves protestent contre les réformes de l’enseignement introduites par Valérie Glatigny, vice-ministre présidente et ministre de l’éducation de la Fédération Wallonie-Bruxelles, à Bruxelles, le 6 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stephanie Lecocq/REUTERS"
+      }
+    ],
+    "credit": "Stephanie Lecocq/REUTERS"
+  }
+}

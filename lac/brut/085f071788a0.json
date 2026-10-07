@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T15:05:33.093176+00:00",
+  "_id": "085f071788a0",
+  "brut": {
+    "title": "Un épisode de \"Doctor Who\" généré par IA impressionne le patron de la BBC",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un épisode de \"Doctor Who\" généré par IA impressionne le patron de la BBC"
+    },
+    "summary": "Un épisode non officiel de 50 minutes de la célèbre série britannique a été fabriqué à l'aide de l'intelligence artificielle. Le directeur général de la BBC reconnaît l'avoir trouvé \"plutôt bon\". Une expérience qui relance les inquiétudes sur l'avenir des métiers de l'audiovisuel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un épisode non officiel de 50 minutes de la célèbre série britannique a été fabriqué à l'aide de l'intelligence artificielle. Le directeur général de la BBC reconnaît l'avoir trouvé \"plutôt bon\". Une expérience qui relance les inquiétudes sur l'avenir des métiers de l'audiovisuel."
+    },
+    "published": "Wed, 07 Oct 2026 09:17:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      7,
+      17,
+      5,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/un-episode-de-doctor-who-genere-par-ia-impressionne-le-patron-de-la-bbc_8214887.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/7iGJfXTKEXl7fHyA6pCwH3TcGgc/0x53:1024x629/432x243/filters:format(jpg)/2026/02/03/000-94rj6zt-6981bdbe01f40768296495.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/un-episode-de-doctor-who-genere-par-ia-impressionne-le-patron-de-la-bbc_8214887.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/un-episode-de-doctor-who-genere-par-ia-impressionne-le-patron-de-la-bbc_8214887.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

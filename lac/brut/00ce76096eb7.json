@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T15:05:32.802980+00:00",
+  "_id": "00ce76096eb7",
+  "brut": {
+    "title": "Le journaliste nigérien Moussa Kaka est « en vie » et « détenu » par les autorités, selon Reporters sans frontières",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le journaliste nigérien Moussa Kaka est « en vie » et « détenu » par les autorités, selon Reporters sans frontières"
+    },
+    "published": "Wed, 07 Oct 2026 11:15:49 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      9,
+      15,
+      49,
+      2,
+      280,
+      0
+    ],
+    "summary": "Le sort du journaliste, directeur d’une télévision privée, suscitait de nombreuses inquiétudes depuis sa disparition, le 31 août.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le sort du journaliste, directeur d’une télévision privée, suscitait de nombreuses inquiétudes depuis sa disparition, le 31 août."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/le-journaliste-nigerien-moussa-kaka-est-en-vie-et-detenu-par-les-autorites-selon-reporters-sans-frontieres_6789578_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/le-journaliste-nigerien-moussa-kaka-est-en-vie-et-detenu-par-les-autorites-selon-reporters-sans-frontieres_6789578_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/le-journaliste-nigerien-moussa-kaka-est-en-vie-et-detenu-par-les-autorites-selon-reporters-sans-frontieres_6789578_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/634/0/2048/1024/644/322/60/0/ed2016b_upload-1-bfjiyrdhpmnh-000-arp1269634.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le journaliste nigérien Moussa Kaka, à Niamey, le 12 février 2005."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "SEYDOU DIALLO/AFP"
+      }
+    ],
+    "credit": "SEYDOU DIALLO/AFP"
+  }
+}

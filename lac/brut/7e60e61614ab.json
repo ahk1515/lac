@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T15:05:32.803078+00:00",
+  "_id": "7e60e61614ab",
+  "brut": {
+    "title": "Dans les modèles d’IA, la langue française veut aussi avoir son mot à dire",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans les modèles d’IA, la langue française veut aussi avoir son mot à dire"
+    },
+    "published": "Wed, 07 Oct 2026 11:00:23 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      9,
+      0,
+      23,
+      2,
+      280,
+      0
+    ],
+    "summary": "Le français est ultraminoritaire dans les mégabases de données d’entraînement utilisées par les grands modèles de langage des intelligences artificielles génératives. Mais l’hégémonie de l’anglais n’est pas une fatalité : des initiatives émergent pour bâtir une souveraineté numérique francophone.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le français est ultraminoritaire dans les mégabases de données d’entraînement utilisées par les grands modèles de langage des intelligences artificielles génératives. Mais l’hégémonie de l’anglais n’est pas une fatalité : des initiatives émergent pour bâtir une souveraineté numérique francophone."
+    },
+    "id": "https://www.lemonde.fr/le-monde-et-vous/article/2026/10/07/dans-les-modeles-d-ia-la-langue-francaise-veut-aussi-avoir-son-mot-a-dire_6789576_6065879.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/10/07/dans-les-modeles-d-ia-la-langue-francaise-veut-aussi-avoir-son-mot-a-dire_6789576_6065879.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/le-monde-et-vous/article/2026/10/07/dans-les-modeles-d-ia-la-langue-francaise-veut-aussi-avoir-son-mot-a-dire_6789576_6065879.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/187/0/4252/2126/644/322/60/0/b5bc0e2_upload-1-nyogqbkrjybp-ia-2.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MUZO"
+      }
+    ],
+    "credit": "MUZO"
+  }
+}

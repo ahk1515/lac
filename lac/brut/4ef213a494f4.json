@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T15:05:32.802126+00:00",
+  "_id": "4ef213a494f4",
+  "brut": {
+    "title": "Israël : des cérémonies d’hommages trois ans après le 7-Octobre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Israël : des cérémonies d’hommages trois ans après le 7-Octobre"
+    },
+    "published": "Wed, 07 Oct 2026 15:30:04 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      13,
+      30,
+      4,
+      2,
+      280,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 15:43:26 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      7,
+      13,
+      43,
+      26,
+      2,
+      280,
+      0
+    ],
+    "summary": "Au total, 1 200 personnes sont mortes dans l’attaque du 7-Octobre, 3 000 ont été blessées et 251 ont été prises en otages. En réponse, l’offensive israélienne dans la bande de Gaza a fait plus de 74 200 morts, selon des chiffres du Hamas jugés fiables par l’ONU.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au total, 1 200 personnes sont mortes dans l’attaque du 7-Octobre, 3 000 ont été blessées et 251 ont été prises en otages. En réponse, l’offensive israélienne dans la bande de Gaza a fait plus de 74 200 morts, selon des chiffres du Hamas jugés fiables par l’ONU."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/07/israel-des-ceremonies-d-hommages-trois-ans-apres-le-7-octobre_6789606_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/07/israel-des-ceremonies-d-hommages-trois-ans-apres-le-7-octobre_6789606_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/07/israel-des-ceremonies-d-hommages-trois-ans-apres-le-7-octobre_6789606_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/648/0/7781/3890/644/322/60/0/73eab5c_ftp-1-thykzzedyhzk-cc757f2827f041b2b4ca86ffbbdccf7c-1-5a2f8310c7bc4e03bd1d7d87ee5771f4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes marquent le troisième anniversaire de l’attaque du Hamas contre Israël du 7 octobre 2023 sur le site du festival de musique Nova, où des centaines de festivaliers ont été tués et enlevés, près du kibboutz Reim, dans le sud d’Israël, le mercredi 7 octobre 2026. (Photo AP/Ohad Zwigenberg)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ohad Zwigenberg / AP Photo/Ohad Zwigenberg"
+      }
+    ],
+    "credit": "Ohad Zwigenberg / AP Photo/Ohad Zwigenberg"
+  }
+}

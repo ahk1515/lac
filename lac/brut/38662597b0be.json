@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T15:05:32.802801+00:00",
+  "_id": "38662597b0be",
+  "brut": {
+    "title": "Le 7-Octobre a marqué un avant et un après pour les juifs de France, estime le président du CRIF",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le 7-Octobre a marqué un avant et un après pour les juifs de France, estime le président du CRIF"
+    },
+    "published": "Wed, 07 Oct 2026 12:10:09 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      10,
+      10,
+      9,
+      2,
+      280,
+      0
+    ],
+    "summary": "En 2025, le ministère de l’intérieur avait recensé 1 320 actes antisémites en France, soit 53 % de l’ensemble des faits antireligieux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En 2025, le ministère de l’intérieur avait recensé 1 320 actes antisémites en France, soit 53 % de l’ensemble des faits antireligieux."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/le-7-octobre-a-marque-un-avant-et-un-apres-pour-les-juifs-de-france-estime-le-president-du-crif_6789583_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/le-7-octobre-a-marque-un-avant-et-un-apres-pour-les-juifs-de-france-estime-le-president-du-crif_6789583_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/le-7-octobre-a-marque-un-avant-et-un-apres-pour-les-juifs-de-france-estime-le-president-du-crif_6789583_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2025/09/23/258/0/3104/1552/644/322/60/0/e740cd1_ftp-import-images-1-ysaklherfo02-5970144-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le président du Conseil représentatif des institutions juives de France, Yonathan Arfi, à Paris, le 23 septembre 2025."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JULIEN DE ROSA / AFP"
+      }
+    ],
+    "credit": "JULIEN DE ROSA / AFP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T15:05:33.091357+00:00",
+  "_id": "e893487db70a",
+  "brut": {
+    "title": "Guerre en Ukraine : au moins 15 morts durant la nuit dans tout le pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : au moins 15 morts durant la nuit dans tout le pays"
+    },
+    "summary": "En Ukraine, de nouvelles frappes russes ont fait au moins 15 morts, dans la nuit du 6 au 7 octobre. La ville de Kiev a notamment été ciblée, comme elle l'est désormais tous les jours par des dizaines de drones et de missiles. Les autorités ukrainiennes font également état de 40 blessés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Ukraine, de nouvelles frappes russes ont fait au moins 15 morts, dans la nuit du 6 au 7 octobre. La ville de Kiev a notamment été ciblée, comme elle l'est désormais tous les jours par des dizaines de drones et de missiles. Les autorités ukrainiennes font également état de 40 blessés."
+    },
+    "published": "Wed, 07 Oct 2026 15:38:00 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      13,
+      38,
+      0,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-durant-la-nuit-dans-tout-le-pays_8226877.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/CbO9Lj3kSqkSf3Asw36gEGi8MH0/0x137:1454x954/432x243/filters:format(jpg)/2026/10/07/6ac642044371f929478213.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-durant-la-nuit-dans-tout-le-pays_8226877.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-durant-la-nuit-dans-tout-le-pays_8226877.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

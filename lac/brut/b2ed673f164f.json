@@ -1,0 +1,70 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T15:05:32.803343+00:00",
+  "_id": "b2ed673f164f",
+  "brut": {
+    "title": "Fabriquer les données, le carburant de l’IA, devient très vite politique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Fabriquer les données, le carburant de l’IA, devient très vite politique"
+    },
+    "published": "Wed, 07 Oct 2026 09:39:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      7,
+      39,
+      3,
+      2,
+      280,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 11:34:40 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      7,
+      9,
+      34,
+      40,
+      2,
+      280,
+      0
+    ],
+    "summary": "Le livre d’une ethnographe américaine nous éclaire sur les risques encourus par la démocratie lorsqu’un pouvoir s’attaque à l’un de ses fondements : le recensement de la population, raconte dans sa Carte blanche au « Monde » la sociologue Gaëlle Krikorian.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le livre d’une ethnographe américaine nous éclaire sur les risques encourus par la démocratie lorsqu’un pouvoir s’attaque à l’un de ses fondements : le recensement de la population, raconte dans sa Carte blanche au « Monde » la sociologue Gaëlle Krikorian."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/10/07/fabriquer-les-donnees-le-carburant-de-l-ia-devient-tres-vite-politique_6789563_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/10/07/fabriquer-les-donnees-le-carburant-de-l-ia-devient-tres-vite-politique_6789563_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/10/07/fabriquer-les-donnees-le-carburant-de-l-ia-devient-tres-vite-politique_6789563_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CHEZ GERTRUD"
+      }
+    ],
+    "credit": "CHEZ GERTRUD"
+  }
+}

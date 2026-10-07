@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T15:05:33.091443+00:00",
+  "_id": "add03d500ca8",
+  "brut": {
+    "title": "Au moins 15 morts, dont des enfants, après de nouvelles frappes russes en Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Au moins 15 morts, dont des enfants, après de nouvelles frappes russes en Ukraine"
+    },
+    "summary": "De nouvelles frappes russes sur l'Ukraine ont fait au moins vingt morts dans la nuit, dont 14 victimes dans une frappe de missile sur un immeuble résidentiel dans le nord du pays, selon le dernier bilan fourni, mercredi 7 octobre, par les services de secours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De nouvelles frappes russes sur l'Ukraine ont fait au moins vingt morts dans la nuit, dont 14 victimes dans une frappe de missile sur un immeuble résidentiel dans le nord du pays, selon le dernier bilan fourni, mercredi 7 octobre, par les services de secours."
+    },
+    "published": "Wed, 07 Oct 2026 15:32:36 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      13,
+      32,
+      36,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-15-morts-dont-des-enfants-apres-de-nouvelles-frappes-russes-en-ukraine_8226952.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/ItkQuMVS3hd6CXankBK9-vFzEBg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac64a0141201317949571.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-15-morts-dont-des-enfants-apres-de-nouvelles-frappes-russes-en-ukraine_8226952.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-15-morts-dont-des-enfants-apres-de-nouvelles-frappes-russes-en-ukraine_8226952.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
