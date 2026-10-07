@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T21:00:32.516881+00:00",
+  "_id": "92ce868ef34d",
+  "brut": {
+    "title": "La peste de retour en Sibérie ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La peste de retour en Sibérie ?"
+    },
+    "summary": "Une jeune laborantine d’un institut spécialisé dans la peste, en Sibérie, est morte d’une pneumonie inexpliquée. La peste n’est pas confirmée, mais les informations partielles des autorités russes laissent des questions sans réponse.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une jeune laborantine d’un institut spécialisé dans la peste, en Sibérie, est morte d’une pneumonie inexpliquée. La peste n’est pas confirmée, mais les informations partielles des autorités russes laissent des questions sans réponse."
+    },
+    "published": "Wed, 07 Oct 2026 20:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      18,
+      0,
+      2,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-peste-de-retour-en-siberie_8226865.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/qyRJsm4NlgPK1Cw-IVhL99RRj0A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac63f3644b47560823666.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-peste-de-retour-en-siberie_8226865.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-peste-de-retour-en-siberie_8226865.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

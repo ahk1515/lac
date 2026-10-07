@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T21:00:32.327610+00:00",
+  "_id": "2c171079ff1c",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : un lourd bilan après de nouvelles frappes russes",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : un lourd bilan après de nouvelles frappes russes"
+    },
+    "published": "Wed, 07 Oct 2026 21:02:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      19,
+      2,
+      2,
+      2,
+      280,
+      0
+    ],
+    "summary": "Volodymyr Zelensky a dénoncé « l’une des attaques les plus ignobles : 70 missiles au total, dont beaucoup de balistiques », plus difficiles à intercepter, et des drones envoyés sur 12 régions. Moscou a affirmé que l’armée russe avait frappé, à Kiev, Prylouky et Krementchouk, des usines assemblant des missiles de croisière et des drones de longue portée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Volodymyr Zelensky a dénoncé « l’une des attaques les plus ignobles : 70 missiles au total, dont beaucoup de balistiques », plus difficiles à intercepter, et des drones envoyés sur 12 régions. Moscou a affirmé que l’armée russe avait frappé, à Kiev, Prylouky et Krementchouk, des usines assemblant des missiles de croisière et des drones de longue portée."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/07/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes_6787996_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/07/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes_6787996_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/07/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes_6787996_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/834/0/5000/2500/644/322/60/0/f4ff3d9_ftp-1-f6526hjm3u3l-5291594-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un immeuble résidentiel endommagé par une attaque de drone russe à Kiev, le 7 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "VLADYSLAV MUSIIENKO/AFP"
+      }
+    ],
+    "credit": "VLADYSLAV MUSIIENKO/AFP"
+  }
+}

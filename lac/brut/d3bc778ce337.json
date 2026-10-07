@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T21:00:32.517092+00:00",
+  "_id": "d3bc778ce337",
+  "brut": {
+    "title": "Le nombre de déplacés au Yémen franchit la barre des 200 000 personnes, selon l'Organisation internationale des migrations",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le nombre de déplacés au Yémen franchit la barre des 200 000 personnes, selon l'Organisation internationale des migrations"
+    },
+    "summary": "Rien qu'au mois de septembre, plus de 197 000 personnes ont été déplacées, a écrit l'agence onusienne dans un communiqué. L'ONU s'alarme également du manque de financements nécessaires pour faire face à la crise.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Rien qu'au mois de septembre, plus de 197 000 personnes ont été déplacées, a écrit l'agence onusienne dans un communiqué. L'ONU s'alarme également du manque de financements nécessaires pour faire face à la crise."
+    },
+    "published": "Wed, 07 Oct 2026 17:37:39 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      15,
+      37,
+      39,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/PXyze6Vhtq6EpfOdMwhvTIG_OVA/0x66:1024x642/432x243/filters:format(jpg)/2026/10/07/6ac66699bdb6a001093320.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

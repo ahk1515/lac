@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T21:00:32.327501+00:00",
+  "_id": "0534efd3ec99",
+  "brut": {
+    "title": "Christa Pike, qui a survécu à son exécution aux Etats-Unis, a repris connaissance et se dit « en colère et désorientée »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Christa Pike, qui a survécu à son exécution aux Etats-Unis, a repris connaissance et se dit « en colère et désorientée »"
+    },
+    "published": "Wed, 07 Oct 2026 21:06:28 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      19,
+      6,
+      28,
+      2,
+      280,
+      0
+    ],
+    "summary": "Seule condamnée à avoir survécu à une injection létale aux Etats-Unis, la quinquagénaire reste menottée à son lit d’hôpital, selon ses avocats.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Seule condamnée à avoir survécu à une injection létale aux Etats-Unis, la quinquagénaire reste menottée à son lit d’hôpital, selon ses avocats."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-repris-connaissance-et-se-dit-en-colere-et-desorientee_6789651_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-repris-connaissance-et-se-dit-en-colere-et-desorientee_6789651_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-repris-connaissance-et-se-dit-en-colere-et-desorientee_6789651_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/458/0/5843/2921/644/322/60/0/f9fae21_ftp-1-jecm2jc0vpjq-2026-10-07t181036z-1197181408-rc2iynalnfxx-rtrmadp-3-tennessee-execution.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Luke Ihnen, l’un des avocats de Christa Pike, lors d’une conférence de presse à la sortie d’une salle d’audience à Nashville (Tennessee), le 7 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Seth Herald/REUTERS"
+      }
+    ],
+    "credit": "Seth Herald/REUTERS"
+  }
+}

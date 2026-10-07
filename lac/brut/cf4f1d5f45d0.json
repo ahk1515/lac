@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-07T21:00:32.516505+00:00",
+  "_id": "cf4f1d5f45d0",
+  "brut": {
+    "title": "Dormir 90 minutes et gagner 11 000 €",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dormir 90 minutes et gagner 11 000 €"
+    },
+    "summary": "Dormir 90 minutes et gagner 11 000 €. Un concours de dodo a été organisé à Tokyo, au Japon, dans le pays ou le déficit de sommeil est le plus flagrant. En cause, des journées à rallonge et un travail qui prend beaucoup trop de place.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Dormir 90 minutes et gagner 11 000 €. Un concours de dodo a été organisé à Tokyo, au Japon, dans le pays ou le déficit de sommeil est le plus flagrant. En cause, des journées à rallonge et un travail qui prend beaucoup trop de place."
+    },
+    "published": "Wed, 07 Oct 2026 22:00:01 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      20,
+      0,
+      1,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/japon/dormir-90-minutes-et-gagner-11-000_8227315.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/uwZzqA_W6Chdq7ktb3hywIfeHWU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac67fa64d4c7462957327.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/japon/dormir-90-minutes-et-gagner-11-000_8227315.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/japon/dormir-90-minutes-et-gagner-11-000_8227315.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T21:00:32.328193+00:00",
+  "_id": "52ec84de62d5",
+  "brut": {
+    "title": "Le Français Henri Kagan, un Nobel de chimie très attendu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Français Henri Kagan, un Nobel de chimie très attendu"
+    },
+    "published": "Wed, 07 Oct 2026 17:56:42 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      15,
+      56,
+      42,
+      2,
+      280,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 18:54:07 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      7,
+      16,
+      54,
+      7,
+      2,
+      280,
+      0
+    ],
+    "summary": "Le chercheur a été récompensé, mercredi, avec le Japonais Kenso Soai. Ils ont été mis à l’honneur pour leurs travaux sur la catalyse asymétrique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le chercheur a été récompensé, mercredi, avec le Japonais Kenso Soai. Ils ont été mis à l’honneur pour leurs travaux sur la catalyse asymétrique."
+    },
+    "id": "https://www.lemonde.fr/sciences/article/2026/10/07/le-francais-henri-kagan-un-nobel-de-chimie-tres-attendu_6789626_1650684.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/sciences/article/2026/10/07/le-francais-henri-kagan-un-nobel-de-chimie-tres-attendu_6789626_1650684.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/sciences/article/2026/10/07/le-francais-henri-kagan-un-nobel-de-chimie-tres-attendu_6789626_1650684.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/418/0/4403/2201/644/322/60/0/9311c57_ftp-1-5xyicak4mack-2026-10-07t114659z-806605940-rc2aynatz6go-rtrmadp-3-nobel-prize-chemistry.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Henri Kagan et Kenso Soai se voient décerner le prix Nobel de chimie 2026 lors d’une conférence de presse à l’Académie royale des sciences de Suède, à Stockholm, le 7 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tom Little/REUTERS"
+      }
+    ],
+    "credit": "Tom Little/REUTERS"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T21:00:32.328364+00:00",
+  "_id": "f642dde4a11b",
+  "brut": {
+    "title": "L’ouverture d’une base chinoise au Laos, après l’installation d’une autre au Cambodge, inquiète les pays de la région",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’ouverture d’une base chinoise au Laos, après l’installation d’une autre au Cambodge, inquiète les pays de la région"
+    },
+    "published": "Wed, 07 Oct 2026 17:30:07 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      15,
+      30,
+      7,
+      2,
+      280,
+      0
+    ],
+    "updated": "Wed, 07 Oct 2026 18:19:56 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      7,
+      16,
+      19,
+      56,
+      2,
+      280,
+      0
+    ],
+    "summary": "Avec la création d’un centre de formation de pilotes sur la base rénovée de Ban Keun, le Laos devient le second pays d’Asie du Sud-Est, après le Cambodge, à accueillir une infrastructure d’entraînement militaire conjointe avec la Chine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Avec la création d’un centre de formation de pilotes sur la base rénovée de Ban Keun, le Laos devient le second pays d’Asie du Sud-Est, après le Cambodge, à accueillir une infrastructure d’entraînement militaire conjointe avec la Chine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/07/l-ouverture-d-une-base-chinoise-au-laos-apres-l-installation-d-une-autre-au-cambodge-inquiete-les-pays-de-la-region_6789624_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/07/l-ouverture-d-une-base-chinoise-au-laos-apres-l-installation-d-une-autre-au-cambodge-inquiete-les-pays-de-la-region_6789624_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/07/l-ouverture-d-une-base-chinoise-au-laos-apres-l-installation-d-une-autre-au-cambodge-inquiete-les-pays-de-la-region_6789624_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/282/0/9046/4523/644/322/60/0/509cd09_ftp-1-ctxcnh1xfbnh-2026-10-06t092129z-257156183-rc23vna3uwcg-rtrmadp-3-laos-china-defence.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Image satellite montrant une nouvelle installation d’entraînement conjointe sino-laotienne, dotée d’une piste en cours d’agrandissement, à Ban Keun, dans la province de Vientiane (Laos), le 30 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Vantor via REUTERS"
+      }
+    ],
+    "credit": "Vantor via REUTERS"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-07T21:00:32.328282+00:00",
+  "_id": "f7a798e4a422",
+  "brut": {
+    "title": "Dans « La Vengeance d’Anna P. », la journaliste Anna Politkovskaïa, assassinée il y a vingt ans, se glisse dans la tête d’un propagandiste du Kremlin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans « La Vengeance d’Anna P. », la journaliste Anna Politkovskaïa, assassinée il y a vingt ans, se glisse dans la tête d’un propagandiste du Kremlin"
+    },
+    "published": "Wed, 07 Oct 2026 17:30:09 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      15,
+      30,
+      9,
+      2,
+      280,
+      0
+    ],
+    "summary": "Jean-François Bouthors, qui connaissait la célèbre journaliste russe, tuée le 7 octobre 2006, fait entendre une nouvelle fois sa voix dans son roman. La fiction se mêle à la réalité dans cet hommage qui paraît le 8 octobre.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Jean-François Bouthors, qui connaissait la célèbre journaliste russe, tuée le 7 octobre 2006, fait entendre une nouvelle fois sa voix dans son roman. La fiction se mêle à la réalité dans cet hommage qui paraît le 8 octobre."
+    },
+    "id": "https://www.lemonde.fr/livres/article/2026/10/07/dans-la-vengeance-d-anna-p-la-journaliste-anna-politkovskaia-assassinee-il-y-a-vingt-ans-se-glisse-dans-la-tete-d-un-propagandiste-du-kremlin_6789622_3260.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/livres/article/2026/10/07/dans-la-vengeance-d-anna-p-la-journaliste-anna-politkovskaia-assassinee-il-y-a-vingt-ans-se-glisse-dans-la-tete-d-un-propagandiste-du-kremlin_6789622_3260.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/livres/article/2026/10/07/dans-la-vengeance-d-anna-p-la-journaliste-anna-politkovskaia-assassinee-il-y-a-vingt-ans-se-glisse-dans-la-tete-d-un-propagandiste-du-kremlin_6789622_3260.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/01/515/0/9520/4760/644/322/60/0/9706549_upload-1-lqc2vkdjvgwo-anna-politkovskaya-30-copie.jpeg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des lettres de lecteurs de « Novaïa Gazeta » adressées à Anna Politkovskaïa, sur son bureau, à Moscou, le 10 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Elena Chernyshova pour « LE MONDE »"
+      }
+    ],
+    "credit": "Elena Chernyshova pour « LE MONDE »"
+  }
+}
