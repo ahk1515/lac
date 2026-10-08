@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T15:13:38.746084+00:00",
+  "_id": "f3e68f161a1c",
+  "brut": {
+    "title": "Au Japon, le meurtre d’une habitante d’Okinawa par un marine ravive la défiance envers la présence militaire américaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Japon, le meurtre d’une habitante d’Okinawa par un marine ravive la défiance envers la présence militaire américaine"
+    },
+    "published": "Thu, 08 Oct 2026 16:15:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      14,
+      15,
+      8,
+      3,
+      281,
+      0
+    ],
+    "summary": "Un soldat de la base américaine de Futenma est soupçonné d’avoir étranglé une Japonaise de 39 ans dans un hôtel, la nuit du 2 au 3 octobre. Ce crime embarrasse le gouvernement nippon, qui compte sur le soutien du nouveau gouverneur d’Okinawa pour renforcer la militarisation de l’archipel du sud-ouest du pays face à la Chine.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Un soldat de la base américaine de Futenma est soupçonné d’avoir étranglé une Japonaise de 39 ans dans un hôtel, la nuit du 2 au 3 octobre. Ce crime embarrasse le gouvernement nippon, qui compte sur le soutien du nouveau gouverneur d’Okinawa pour renforcer la militarisation de l’archipel du sud-ouest du pays face à la Chine."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/08/au-japon-le-meurtre-d-une-habitante-d-okinawa-par-un-marine-ravive-la-defiance-envers-la-presence-militaire-americaine_6790231_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/08/au-japon-le-meurtre-d-une-habitante-d-okinawa-par-un-marine-ravive-la-defiance-envers-la-presence-militaire-americaine_6790231_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/08/au-japon-le-meurtre-d-une-habitante-d-okinawa-par-un-marine-ravive-la-defiance-envers-la-presence-militaire-americaine_6790231_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/124/0/5310/2655/644/322/60/0/514601a_ftp-1-jqsdjtfyrwjz-5279673-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation devant l’ambassade des Etats-Unis, à Tokyo, le 6 octobre 2026, pour protester contre le meurtre d’une femme à Okinawa, présumément commis par un marine américain."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "CHRISTOPHER JUE/AFP"
+      }
+    ],
+    "credit": "CHRISTOPHER JUE/AFP"
+  }
+}

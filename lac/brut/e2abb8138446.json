@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T15:13:39.007400+00:00",
+  "_id": "e2abb8138446",
+  "brut": {
+    "title": "Le parti kurde PKK dit avoir retiré ses combattants de Turquie et reproche à Ankara son inaction dans le processus de paix",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le parti kurde PKK dit avoir retiré ses combattants de Turquie et reproche à Ankara son inaction dans le processus de paix"
+    },
+    "summary": "Le PKK juge que le gouvernement truc laisse traîner le dossier, deux mois après l'adoption par le Parlement turc d'une loi historique ouvrant la voie à la réintégration de ses militants armés.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le PKK juge que le gouvernement truc laisse traîner le dossier, deux mois après l'adoption par le Parlement turc d'une loi historique ouvrant la voie à la réintégration de ses militants armés."
+    },
+    "published": "Thu, 08 Oct 2026 15:52:59 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      13,
+      52,
+      59,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/turquie/le-parti-des-travailleurs-du-kurdistan-dit-avoir-retire-ses-combattants-de-turquie-et-lui-reproche-son-inaction_8228467.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/sfk9KzsIpQzXlnM1dIv0svdvZuM/0x60:4992x2868/432x243/filters:format(jpg)/2026/10/08/6ac7a00d79a60934953952.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/turquie/le-parti-des-travailleurs-du-kurdistan-dit-avoir-retire-ses-combattants-de-turquie-et-lui-reproche-son-inaction_8228467.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/turquie/le-parti-des-travailleurs-du-kurdistan-dit-avoir-retire-ses-combattants-de-turquie-et-lui-reproche-son-inaction_8228467.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T15:13:39.008791+00:00",
+  "_id": "876d66bb9f21",
+  "brut": {
+    "title": "Les rebelles houthis du Yémen affirment avoir frappé l'aéroport international de Riyad, en Arabie saoudite",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les rebelles houthis du Yémen affirment avoir frappé l'aéroport international de Riyad, en Arabie saoudite"
+    },
+    "summary": "Depuis lundi, c'est la troisième fois que les houthis, soutenus par l'Iran, revendiquent une attaque contre cet aéroport.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis lundi, c'est la troisième fois que les houthis, soutenus par l'Iran, revendiquent une attaque contre cet aéroport."
+    },
+    "published": "Thu, 08 Oct 2026 08:53:00 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      6,
+      53,
+      0,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-rebelles-houthis-du-yemen-affirment-avoir-frappe-l-aeroport-international-de-riyad-en-arabie-saoudite_8227933.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/zcAiRu9aOHynJPN_JCaeO-g-Wok/0x53:1024x629/432x243/filters:format(jpg)/2026/10/08/6ac73dc7a8fc3583963675.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-rebelles-houthis-du-yemen-affirment-avoir-frappe-l-aeroport-international-de-riyad-en-arabie-saoudite_8227933.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-rebelles-houthis-du-yemen-affirment-avoir-frappe-l-aeroport-international-de-riyad-en-arabie-saoudite_8227933.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

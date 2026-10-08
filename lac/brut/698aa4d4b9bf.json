@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T15:13:39.008900+00:00",
+  "_id": "698aa4d4b9bf",
+  "brut": {
+    "title": "Une frappe russe fait au moins 19 morts, dont cinq enfants, dans le nord de l'Ukraine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une frappe russe fait au moins 19 morts, dont cinq enfants, dans le nord de l'Ukraine"
+    },
+    "summary": "Mercredi 7 octobre, un missile russe a détruit un immeuble à Prylouky, dans le nord de l'Ukraine, et tué 19 personnes, dont cinq enfants. Au total, les frappes de la nuit de mardi à mercredi ont fait au moins 26 morts, selon les autorités ukrainiennes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Mercredi 7 octobre, un missile russe a détruit un immeuble à Prylouky, dans le nord de l'Ukraine, et tué 19 personnes, dont cinq enfants. Au total, les frappes de la nuit de mardi à mercredi ont fait au moins 26 morts, selon les autorités ukrainiennes."
+    },
+    "published": "Thu, 08 Oct 2026 08:07:06 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      6,
+      7,
+      6,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-russe-fait-au-moins-19-morts-dont-cinq-enfants-dans-le-nord-de-l-ukraine_8227882.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gFOQKN0MCrCvy3n0zwa2SDl1cDQ/0x0:1192x671/432x243/filters:format(jpg)/2026/10/08/6ac72fa116407130767714.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-russe-fait-au-moins-19-morts-dont-cinq-enfants-dans-le-nord-de-l-ukraine_8227882.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-russe-fait-au-moins-19-morts-dont-cinq-enfants-dans-le-nord-de-l-ukraine_8227882.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

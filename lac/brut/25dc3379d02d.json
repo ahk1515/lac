@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T15:13:39.007768+00:00",
+  "_id": "25dc3379d02d",
+  "brut": {
+    "title": "Aux États-Unis, une matinale radio co-présentée par une IA cartonne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Aux États-Unis, une matinale radio co-présentée par une IA cartonne"
+    },
+    "summary": "Depuis l'arrivée de l'animateur virtuel Coyotec, les audiences radio ont augmenté chez les hommes de 25 à 54 ans.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis l'arrivée de l'animateur virtuel Coyotec, les audiences radio ont augmenté chez les hommes de 25 à 54 ans."
+    },
+    "published": "Thu, 08 Oct 2026 12:47:13 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      10,
+      47,
+      13,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-matinale-radio-co-presentee-par-une-ia-cartonne_8207162.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/j_wo0F-Tp3jWW5J1SUENtgc56FY/0x231:4500x2762/432x243/filters:format(jpg)/2026/10/08/6ac75b3e34ee1393420958.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-matinale-radio-co-presentee-par-une-ia-cartonne_8207162.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-matinale-radio-co-presentee-par-une-ia-cartonne_8207162.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

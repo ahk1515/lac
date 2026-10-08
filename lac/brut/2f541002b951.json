@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T15:13:38.746959+00:00",
+  "_id": "2f541002b951",
+  "brut": {
+    "title": "Anne Carson, écrivaine canadienne, reçoit le prix Nobel de littérature 2026",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Anne Carson, écrivaine canadienne, reçoit le prix Nobel de littérature 2026"
+    },
+    "published": "Thu, 08 Oct 2026 13:05:33 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      11,
+      5,
+      33,
+      3,
+      281,
+      0
+    ],
+    "updated": "Thu, 08 Oct 2026 15:07:51 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      8,
+      13,
+      7,
+      51,
+      3,
+      281,
+      0
+    ],
+    "summary": "L’écrivaine canadienne, encore trop méconnue en France, s’est vu attribuer la récompense de l’Académie suédoise, jeudi 8 octobre. Artiste de la déviance textuelle, l’autrice, d’abord philologue classique, mêle poésie et culture populaire, prose et vers, avec autant d’humour que d’érudition.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’écrivaine canadienne, encore trop méconnue en France, s’est vu attribuer la récompense de l’Académie suédoise, jeudi 8 octobre. Artiste de la déviance textuelle, l’autrice, d’abord philologue classique, mêle poésie et culture populaire, prose et vers, avec autant d’humour que d’érudition."
+    },
+    "id": "https://www.lemonde.fr/livres/article/2026/10/08/la-canadienne-anne-carson-recoit-le-prix-nobel-de-litterature-2026_6790199_3260.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/livres/article/2026/10/08/la-canadienne-anne-carson-recoit-le-prix-nobel-de-litterature-2026_6790199_3260.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/livres/article/2026/10/08/la-canadienne-anne-carson-recoit-le-prix-nobel-de-litterature-2026_6790199_3260.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/724/0/2362/1181/644/322/60/0/e69b603_upload-1-7wicuavp5zan-opaleplus-opale41067-01.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Anne Carson, à New York, en octobre 2010."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Beowulf Sheehan/Opale.photo"
+      }
+    ],
+    "credit": "Beowulf Sheehan/Opale.photo"
+  }
+}

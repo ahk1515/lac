@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T15:13:39.007710+00:00",
+  "_id": "19cb738e1323",
+  "brut": {
+    "title": "Le prix Nobel de littérature 2026 est attribué à l'autrice canadienne Anne Carson",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le prix Nobel de littérature 2026 est attribué à l'autrice canadienne Anne Carson"
+    },
+    "summary": "L'écrivaine succède à l'auteur hongrois Laszlo Krasznahorkai et devient la 19e femme à décrocher la prestigieuse récompense.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'écrivaine succède à l'auteur hongrois Laszlo Krasznahorkai et devient la 19e femme à décrocher la prestigieuse récompense."
+    },
+    "published": "Thu, 08 Oct 2026 15:19:25 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      13,
+      19,
+      25,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-litterature-2026-est-attribue-a-l-autrice-canadienne-anne-carson_8228320.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/QK7POCSAIaCgKuSY51lGE1gfmG4/0x370:4904x3129/432x243/filters:format(jpg)/2026/10/08/6ac78343380bc052056464.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-litterature-2026-est-attribue-a-l-autrice-canadienne-anne-carson_8228320.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-litterature-2026-est-attribue-a-l-autrice-canadienne-anne-carson_8228320.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

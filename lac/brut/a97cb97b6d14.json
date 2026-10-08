@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T15:13:38.746597+00:00",
+  "_id": "a97cb97b6d14",
+  "brut": {
+    "title": "Les houthistes du Yémen affirment avoir de nouveau frappé l’aéroport de Ryad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les houthistes du Yémen affirment avoir de nouveau frappé l’aéroport de Ryad"
+    },
+    "published": "Thu, 08 Oct 2026 15:11:28 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      13,
+      11,
+      28,
+      3,
+      281,
+      0
+    ],
+    "summary": "Les combattants houthistes, opposés au gouvernement yéménite soutenu par l’Arabie saoudite, ont revendiqué, mercredi, des frappes visant l’aéroport international de Riyad et celui d’Abha. Des ressortissants égyptien, algérien et soudanais ont péri et 36 autres personnes ont été blessées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les combattants houthistes, opposés au gouvernement yéménite soutenu par l’Arabie saoudite, ont revendiqué, mercredi, des frappes visant l’aéroport international de Riyad et celui d’Abha. Des ressortissants égyptien, algérien et soudanais ont péri et 36 autres personnes ont été blessées."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/08/les-houthistes-du-yemen-affirment-avoir-de-nouveau-frappe-l-aeroport-de-ryad_6789723_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/08/les-houthistes-du-yemen-affirment-avoir-de-nouveau-frappe-l-aeroport-de-ryad_6789723_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/08/les-houthistes-du-yemen-affirment-avoir-de-nouveau-frappe-l-aeroport-de-ryad_6789723_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/333/0/4000/2000/644/322/60/0/680b55e_upload-1-qxmavyjbyble-000-c8rq663.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’aéroport international de Riyad, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

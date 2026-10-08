@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T15:13:39.007222+00:00",
+  "_id": "e401f5231766",
+  "brut": {
+    "title": "En Arabie saoudite, l'aéroport de Riyad de nouveau ciblé par les houthis, de possibles perturbations pour les passagers",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Arabie saoudite, l'aéroport de Riyad de nouveau ciblé par les houthis, de possibles perturbations pour les passagers"
+    },
+    "summary": "Les explosions se sont multipliées cette semaine jusqu'au cœur de la capitale saoudienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les explosions se sont multipliées cette semaine jusqu'au cœur de la capitale saoudienne."
+    },
+    "published": "Thu, 08 Oct 2026 16:08:48 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      14,
+      8,
+      48,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/yemen/de-nouveau-cible-par-les-houthis-du-yemen-l-aeroport-de-ryad-avertit-les-passagers-de-possibles-perturbations_8228533.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/X3UjBv-L5minx1_EaifDMPrrMjQ/0x0:4000x2250/432x243/filters:format(jpg)/2026/10/08/6ac7a338b755a092931693.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/de-nouveau-cible-par-les-houthis-du-yemen-l-aeroport-de-ryad-avertit-les-passagers-de-possibles-perturbations_8228533.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/yemen/de-nouveau-cible-par-les-houthis-du-yemen-l-aeroport-de-ryad-avertit-les-passagers-de-possibles-perturbations_8228533.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T15:13:39.008733+00:00",
+  "_id": "4c12d92ca232",
+  "brut": {
+    "title": "PODCAST. Un discours vide, l'Espagne pleure Maricarmen et qui a gagné la CAN ? Ça dit quoi ce 8 octobre ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "PODCAST. Un discours vide, l'Espagne pleure Maricarmen et qui a gagné la CAN ? Ça dit quoi ce 8 octobre ?"
+    },
+    "summary": "Sébastien Lecornu n'a fait aucune annonce sur la mobilisation lycéenne, celle qui est devenue le visage de la crise du logement en Espagne est morte et le Tribunal administratif du sport se penche sur la finale de la CAN 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sébastien Lecornu n'a fait aucune annonce sur la mobilisation lycéenne, celle qui est devenue le visage de la crise du logement en Espagne est morte et le Tribunal administratif du sport se penche sur la finale de la CAN 2026."
+    },
+    "published": "Thu, 08 Oct 2026 08:42:11 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      6,
+      42,
+      11,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-un-discours-vide-l-espagne-pleure-maricarmen-et-qui-a-gagne-la-can-ca-dit-quoi-ce-8-octobre_8218882.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/CeU8e-m7S0Ojq0DMM_KakSFIhH0/51x0:1437x780/432x243/filters:format(jpg)/2026/09/28/6aba74ab2df79180716192.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-un-discours-vide-l-espagne-pleure-maricarmen-et-qui-a-gagne-la-can-ca-dit-quoi-ce-8-octobre_8218882.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-un-discours-vide-l-espagne-pleure-maricarmen-et-qui-a-gagne-la-can-ca-dit-quoi-ce-8-octobre_8218882.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

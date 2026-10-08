@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T15:13:38.745886+00:00",
+  "_id": "c7047a1954e2",
+  "brut": {
+    "title": "Au Brésil, « le bolsonarisme est une nébuleuse sans frontières définies »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Brésil, « le bolsonarisme est une nébuleuse sans frontières définies »"
+    },
+    "published": "Thu, 08 Oct 2026 17:00:09 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      15,
+      0,
+      9,
+      3,
+      281,
+      0
+    ],
+    "summary": "Dans un entretien au « Monde », Marie-Hélène Sa Vilas Boas, maîtresse de conférences en science politique, estime que la force du mouvement créé par l’ex-président Jair Bolsonaro, dont le fils Flavio est arrivé en tête de la présidentielle dimanche 4 octobre, a été de réussir à fédérer des droites très diverses.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans un entretien au « Monde », Marie-Hélène Sa Vilas Boas, maîtresse de conférences en science politique, estime que la force du mouvement créé par l’ex-président Jair Bolsonaro, dont le fils Flavio est arrivé en tête de la présidentielle dimanche 4 octobre, a été de réussir à fédérer des droites très diverses."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/08/au-bresil-le-bolsonarisme-est-une-nebuleuse-sans-frontieres-definies_6790238_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/08/au-bresil-le-bolsonarisme-est-une-nebuleuse-sans-frontieres-definies_6790238_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/08/au-bresil-le-bolsonarisme-est-une-nebuleuse-sans-frontieres-definies_6790238_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/427/0/5124/2562/644/322/60/0/29dff42_ftp-1-pagf1vvseytj-a658ca552cb34ed198e9d35f12208b94-0-3e774d15d3eb49d2811b5d3294ea1d6e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors d’un rassemblement pour le lancement de la campagne pour le second tour, un t-shirt à l’effigie de Flavio Bolsonaro, candidat de l’opposition à la présidence, à Goiânia (Brésil), le 6 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Eraldo Peres/AP"
+      }
+    ],
+    "credit": "Eraldo Peres/AP"
+  }
+}
