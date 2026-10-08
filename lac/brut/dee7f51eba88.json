@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T04:38:49.417849+00:00",
+  "_id": "dee7f51eba88",
+  "brut": {
+    "title": "Crise migratoire à Ceuta : l’Espagne dans l’impasse",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Crise migratoire à Ceuta : l’Espagne dans l’impasse"
+    },
+    "published": "Thu, 08 Oct 2026 05:00:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      3,
+      0,
+      8,
+      3,
+      281,
+      0
+    ],
+    "summary": "Comment l’afflux de milliers de migrants dans la péninsule espagnole de Ceuta, les 30 et 31 juillet, s’est-il transformé en une crise politique et géopolitique ? Dans ce podcast, Guillaume Delacroix, un des correspondants du « Monde » en Espagne, revient sur cette crise migratoire aux multiples rouages.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comment l’afflux de milliers de migrants dans la péninsule espagnole de Ceuta, les 30 et 31 juillet, s’est-il transformé en une crise politique et géopolitique ? Dans ce podcast, Guillaume Delacroix, un des correspondants du « Monde » en Espagne, revient sur cette crise migratoire aux multiples rouages."
+    },
+    "id": "https://www.lemonde.fr/podcasts/article/2026/10/08/crise-migratoire-a-ceuta-l-espagne-dans-l-impasse_6789857_5463015.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/podcasts/article/2026/10/08/crise-migratoire-a-ceuta-l-espagne-dans-l-impasse_6789857_5463015.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/podcasts/article/2026/10/08/crise-migratoire-a-ceuta-l-espagne-dans-l-impasse_6789857_5463015.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/55/0/1800/900/644/322/60/0/329824c_upload-1-sr7rodswilaz-illu-ceuta.png"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des policiers et un soldat espagnol montent la garde tandis qu’un important groupe de migrants est escorté vers la frontière, à la suite de passages massifs de migrants à pied et par la mer depuis le Maroc vers le territoire espagnol, à Ceuta, en Espagne, le 1er août 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS/Jon Nazca"
+      }
+    ],
+    "credit": "REUTERS/Jon Nazca"
+  }
+}

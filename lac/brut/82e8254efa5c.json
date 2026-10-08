@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T04:38:49.418409+00:00",
+  "_id": "82e8254efa5c",
+  "brut": {
+    "title": "Fabien Roussel accuse le gouvernement israélien de « terrorisme d’Etat »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Fabien Roussel accuse le gouvernement israélien de « terrorisme d’Etat »"
+    },
+    "published": "Thu, 08 Oct 2026 02:35:30 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      0,
+      35,
+      30,
+      3,
+      281,
+      0
+    ],
+    "updated": "Thu, 08 Oct 2026 02:55:35 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      8,
+      0,
+      55,
+      35,
+      3,
+      281,
+      0
+    ],
+    "summary": "Le candidat communiste à la présidentielle a également condamné, sur LCI, les attaques du Hamas du 7 octobre 2023. Il renvoie dos à dos le gouvernement de Benyamin Nétanyahou et le mouvement islamiste palestinien en dénonçant « des forces extrémistes qui s’affrontent et qui sèment la haine ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le candidat communiste à la présidentielle a également condamné, sur LCI, les attaques du Hamas du 7 octobre 2023. Il renvoie dos à dos le gouvernement de Benyamin Nétanyahou et le mouvement islamiste palestinien en dénonçant « des forces extrémistes qui s’affrontent et qui sèment la haine »."
+    },
+    "id": "https://www.lemonde.fr/politique/article/2026/10/08/fabien-roussel-accuse-le-gouvernement-israelien-de-terrorisme-d-etat_6789756_823448.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/politique/article/2026/10/08/fabien-roussel-accuse-le-gouvernement-israelien-de-terrorisme-d-etat_6789756_823448.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/politique/article/2026/10/08/fabien-roussel-accuse-le-gouvernement-israelien-de-terrorisme-d-etat_6789756_823448.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/18/474/0/5379/2689/644/322/60/0/5669121_ftp-1-tgydq2zlfxxm-2026-09-18t092852z-1049325028-rc2llnacyte9-rtrmadp-3-france-budget-fuel.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Fabien Roussel, au palais de l’Elysée, à Paris, le 18 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Sarah Meyssonnier/REUTERS"
+      }
+    ],
+    "credit": "Sarah Meyssonnier/REUTERS"
+  }
+}

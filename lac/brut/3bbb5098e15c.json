@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T04:38:49.732863+00:00",
+  "_id": "3bbb5098e15c",
+  "brut": {
+    "title": "De multiples projectiles touchent un pétrolier au large du Qatar, un nombre indéterminé de victimes à déplorer",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "De multiples projectiles touchent un pétrolier au large du Qatar, un nombre indéterminé de victimes à déplorer"
+    },
+    "summary": "L'incident s'est produit à 94 kilomètres au large des côtes de ce petit Etat du Golfe, a précisé l'agence, et à quelque 500 km du détroit d'Ormuz où les navires sont régulièrement attaqués.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'incident s'est produit à 94 kilomètres au large des côtes de ce petit Etat du Golfe, a précisé l'agence, et à quelque 500 km du détroit d'Ormuz où les navires sont régulièrement attaqués."
+    },
+    "published": "Wed, 07 Oct 2026 23:15:21 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      21,
+      15,
+      21,
+      2,
+      280,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/moyen-orient/de-multiples-projectiles-touchent-un-petrolier-au-large-du-qatar-un-nombre-indetermine-de-victimes-a-deplorer_8227483.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/utBqzWeWKf7p1rfr99RhJnW9VJE/0x53:1024x629/432x243/filters:format(jpg)/2026/10/07/6ac6b60ed1841959677638.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/moyen-orient/de-multiples-projectiles-touchent-un-petrolier-au-large-du-qatar-un-nombre-indetermine-de-victimes-a-deplorer_8227483.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/moyen-orient/de-multiples-projectiles-touchent-un-petrolier-au-large-du-qatar-un-nombre-indetermine-de-victimes-a-deplorer_8227483.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

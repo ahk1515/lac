@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T04:38:49.418780+00:00",
+  "_id": "6ea77bb5b5d6",
+  "brut": {
+    "title": "EN DIRECT, guerre en Ukraine : un lourd bilan après de nouvelles frappes russes, dont au moins 28 morts à Prylouky, dans le nord du pays",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "EN DIRECT, guerre en Ukraine : un lourd bilan après de nouvelles frappes russes, dont au moins 28 morts à Prylouky, dans le nord du pays"
+    },
+    "published": "Thu, 08 Oct 2026 01:19:21 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      23,
+      19,
+      21,
+      2,
+      280,
+      0
+    ],
+    "summary": "Parmi les victimes d’une frappe de missile sur un immeuble, figurent notamment cinq enfants. Selon Volodymyr Zelensky, 70 missiles et des drones ont été envoyés sur 12 régions ukrainiennes. Moscou a affirmé que l’armée russe avait frappé, à Kiev, Prylouky et Krementchouk, des usines assemblant des missiles de croisière et des drones de longue portée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Parmi les victimes d’une frappe de missile sur un immeuble, figurent notamment cinq enfants. Selon Volodymyr Zelensky, 70 missiles et des drones ont été envoyés sur 12 régions ukrainiennes. Moscou a affirmé que l’armée russe avait frappé, à Kiev, Prylouky et Krementchouk, des usines assemblant des missiles de croisière et des drones de longue portée."
+    },
+    "id": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/58/0/6048/3024/644/322/60/0/472d0e6_ftp-1-1scklk7iobzg-5290324-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Prylouky (Ukraine), après une frappe russe, le 7 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "GENYA SAVILOV/AFP"
+      }
+    ],
+    "credit": "GENYA SAVILOV/AFP"
+  }
+}
