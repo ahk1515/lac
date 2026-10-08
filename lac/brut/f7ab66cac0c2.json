@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T21:02:17.922847+00:00",
+  "_id": "f7ab66cac0c2",
+  "brut": {
+    "title": "Elles ont triché au marathon de Berlin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Elles ont triché au marathon de Berlin"
+    },
+    "summary": "Elles ont triché au marathon de Berlin. Deux athlètes influenceuses, chinoise et belge, ont été disqualifiées après avoir été démasquées par les internautes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Elles ont triché au marathon de Berlin. Deux athlètes influenceuses, chinoise et belge, ont été disqualifiées après avoir été démasquées par les internautes."
+    },
+    "published": "Thu, 08 Oct 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      20,
+      0,
+      2,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sports/elles-ont-triche-au-marathon-de-berlin_8228974.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/S2l3Jx7U1hF4u3z9x9TTRzxdY6k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7e0a08e1e6058979332.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sports/elles-ont-triche-au-marathon-de-berlin_8228974.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sports/elles-ont-triche-au-marathon-de-berlin_8228974.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

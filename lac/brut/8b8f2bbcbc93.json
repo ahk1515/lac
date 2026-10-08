@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T21:02:17.923481+00:00",
+  "_id": "8b8f2bbcbc93",
+  "brut": {
+    "title": "Helgoland, un havre de paix sauvage au large de l'Allemagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Helgoland, un havre de paix sauvage au large de l'Allemagne"
+    },
+    "summary": "Le \"13 Heures découverte\" vous emmène sur l’île allemande d’Helgoland, au beau milieu de la mer du Nord. Un petit caillou d’un peu plus d’un kilomètre carré sans voiture, où le temps semble suspendu, mais aussi un sanctuaire naturel célèbre pour ses phoques gris, ses colonies d'oiseaux et ses falaises de grès rouges. Un territoire désormais atteint par les problèmes environnementaux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le \"13 Heures découverte\" vous emmène sur l’île allemande d’Helgoland, au beau milieu de la mer du Nord. Un petit caillou d’un peu plus d’un kilomètre carré sans voiture, où le temps semble suspendu, mais aussi un sanctuaire naturel célèbre pour ses phoques gris, ses colonies d'oiseaux et ses falaises de grès rouges. Un territoire désormais atteint par les problèmes environnementaux."
+    },
+    "published": "Thu, 08 Oct 2026 17:53:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      15,
+      53,
+      8,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/allemagne/helgoland-un-havre-de-paix-sauvage-au-large-de-l-allemagne_8228680.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/ht9t3siFINJkQ8OKvNx3H4ndPCY/5x0:1399x784/432x243/filters:format(jpg)/2026/10/08/6ac7b980a933e600513837.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/allemagne/helgoland-un-havre-de-paix-sauvage-au-large-de-l-allemagne_8228680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/allemagne/helgoland-un-havre-de-paix-sauvage-au-large-de-l-allemagne_8228680.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

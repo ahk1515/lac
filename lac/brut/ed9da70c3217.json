@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T21:02:17.012290+00:00",
+  "_id": "ed9da70c3217",
+  "brut": {
+    "title": "Les houthistes du Yémen revendiquent une attaque de l’aéroport de Riyad, la troisième de la journée",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les houthistes du Yémen revendiquent une attaque de l’aéroport de Riyad, la troisième de la journée"
+    },
+    "published": "Thu, 08 Oct 2026 18:25:42 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      16,
+      25,
+      42,
+      3,
+      281,
+      0
+    ],
+    "updated": "Thu, 08 Oct 2026 19:00:48 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      8,
+      17,
+      0,
+      48,
+      3,
+      281,
+      0
+    ],
+    "summary": "L’Arabie saoudite a assuré, par un communiqué de sa coalition militaire au Yémen, que ces attaques, qui ont fait trois morts, ne resteraient pas « impunies ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’Arabie saoudite a assuré, par un communiqué de sa coalition militaire au Yémen, que ces attaques, qui ont fait trois morts, ne resteraient pas « impunies »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/08/les-houthistes-du-yemen-revendiquent-une-attaque-sur-l-aeroport-de-riyad-la-troisieme-de-la-journee_6789723_3211.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/08/les-houthistes-du-yemen-revendiquent-une-attaque-sur-l-aeroport-de-riyad-la-troisieme-de-la-journee_6789723_3211.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/08/les-houthistes-du-yemen-revendiquent-une-attaque-sur-l-aeroport-de-riyad-la-troisieme-de-la-journee_6789723_3211.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/333/0/4000/2000/644/322/60/0/680b55e_upload-1-qxmavyjbyble-000-c8rq663.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’aéroport international de Riyad, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AFP"
+      }
+    ],
+    "credit": "AFP"
+  }
+}

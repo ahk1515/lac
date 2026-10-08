@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T21:02:17.012564+00:00",
+  "_id": "40756005f8e1",
+  "brut": {
+    "title": "Ukraine : les images des dégâts à Kramatorsk après l’attaque russe de deux bus",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Ukraine : les images des dégâts à Kramatorsk après l’attaque russe de deux bus"
+    },
+    "published": "Thu, 08 Oct 2026 17:17:04 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      15,
+      17,
+      4,
+      3,
+      281,
+      0
+    ],
+    "summary": "Dans la matinée, une bombe planante russe a touché dans une rue de Kramatorsk deux bus en service et un immeuble résidentiel, ont annoncé les autorités. Et le bilan risque de s’alourdir dans les prochaines heures.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la matinée, une bombe planante russe a touché dans une rue de Kramatorsk deux bus en service et un immeuble résidentiel, ont annoncé les autorités. Et le bilan risque de s’alourdir dans les prochaines heures."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/08/ukraine-les-images-des-degats-a-kramatorsk-apres-l-attaque-russe-de-deux-bus_6790243_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/08/ukraine-les-images-des-degats-a-kramatorsk-apres-l-attaque-russe-de-deux-bus_6790243_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/08/ukraine-les-images-des-degats-a-kramatorsk-apres-l-attaque-russe-de-deux-bus_6790243_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/400/0/3200/1600/644/322/60/0/e707f9b_ftp-1-yknq0bbtm3ej-5297391-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Cette photo fournie par le service d’Etat ukrainien pour les situations d’urgence le 8 octobre 2026 montre des parties de deux bus touchés par des projectiles à Kramatorsk, près de la ligne de front dans l’est de l’Ukraine, en pleine invasion russe. Trente personnes ont été tuées le 8 octobre lorsque la Russie a frappé deux bus de passagers à Kramatorsk, près de la ligne de front dans l’est de l’Ukraine, ont annoncé les autorités locales."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "HANDOUT/AFP"
+      }
+    ],
+    "credit": "HANDOUT/AFP"
+  }
+}

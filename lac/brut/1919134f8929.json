@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T21:02:17.923137+00:00",
+  "_id": "1919134f8929",
+  "brut": {
+    "title": "Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat aux Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat aux Etats-Unis"
+    },
+    "summary": "Cette déclaration survient après que les cours du pétrole ont grimpé jeudi en raison d'informations de presse évoquant justement de nouvelles frappes avant ce scrutin décisif pour le président américain.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette déclaration survient après que les cours du pétrole ont grimpé jeudi en raison d'informations de presse évoquant justement de nouvelles frappes avant ce scrutin décisif pour le président américain."
+    },
+    "published": "Thu, 08 Oct 2026 20:27:47 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      18,
+      27,
+      47,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_8228968.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/dRt57huH_dbwW3koJ5bPs7kpRjM/0x106:1024x682/432x243/filters:format(jpg)/2026/10/08/6ac7e08ee3ed4394191767.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_8228968.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_8228968.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-08T21:02:17.011794+00:00",
+  "_id": "1d48ba293311",
+  "brut": {
+    "title": "Donald Trump exclut d’attaquer l’Iran avant les élections de mi-mandat, le 3 novembre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Donald Trump exclut d’attaquer l’Iran avant les élections de mi-mandat, le 3 novembre"
+    },
+    "published": "Thu, 08 Oct 2026 19:22:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      17,
+      22,
+      8,
+      3,
+      281,
+      0
+    ],
+    "updated": "Thu, 08 Oct 2026 21:35:48 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      8,
+      19,
+      35,
+      48,
+      3,
+      281,
+      0
+    ],
+    "summary": "Cette déclaration survient après que les cours du pétrole ont grimpé, jeudi, en raison d’informations de presse évoquant de nouvelles frappes américaines avant le scrutin, alors que les électeurs américains manifestent un fort mécontentement face à la hausse des prix des carburants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cette déclaration survient après que les cours du pétrole ont grimpé, jeudi, en raison d’informations de presse évoquant de nouvelles frappes américaines avant le scrutin, alors que les électeurs américains manifestent un fort mécontentement face à la hausse des prix des carburants."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/08/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_6790274_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/08/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_6790274_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/08/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_6790274_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/238/0/2861/1430/644/322/60/0/2d66f30_ftp-1-vh0kiayf74of-69aa44e520e543c78c1c5ca41b007db5-1-3394b978879a4e9798cc018a687b4b25.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump, à San Antonio (Texas), le 7 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alex Brandon/AP"
+      }
+    ],
+    "credit": "Alex Brandon/AP"
+  }
+}

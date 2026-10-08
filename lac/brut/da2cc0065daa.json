@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-08T21:02:17.923340+00:00",
+  "_id": "da2cc0065daa",
+  "brut": {
+    "title": "Des images détournées et générées par IA alimentent les soupçons de peste en Russie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Des images détournées et générées par IA alimentent les soupçons de peste en Russie"
+    },
+    "summary": "Entre des photos générées par Intelligence Artificielle, ou des vidéos sorties de leur contexte... le décès en Sibérie de Daria Chipilova, une laborantine de 28 ans alimente de nombreuses rumeurs en ligne.  Nos équipes ont vérifié les images pour démêler le vrai du faux.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Entre des photos générées par Intelligence Artificielle, ou des vidéos sorties de leur contexte... le décès en Sibérie de Daria Chipilova, une laborantine de 28 ans alimente de nombreuses rumeurs en ligne.  Nos équipes ont vérifié les images pour démêler le vrai du faux."
+    },
+    "published": "Thu, 08 Oct 2026 19:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      17,
+      0,
+      2,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/des-images-detournees-et-generees-par-ia-alimentent-les-soupcons-de-peste-en-russie_8228785.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/mH7c7P4x_Yrv81tv7O96Uh0pLUs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7c01d5a7e0380453800.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/des-images-detournees-et-generees-par-ia-alimentent-les-soupcons-de-peste-en-russie_8228785.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/des-images-detournees-et-generees-par-ia-alimentent-les-soupcons-de-peste-en-russie_8228785.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
