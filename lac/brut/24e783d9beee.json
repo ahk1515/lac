@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T20:33:22.054348+00:00",
+  "_id": "24e783d9beee",
+  "brut": {
+    "title": "A Bruxelles, des milliers de manifestants protestent contre la politique du gouvernement fédéral",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Bruxelles, des milliers de manifestants protestent contre la politique du gouvernement fédéral"
+    },
+    "published": "Fri, 09 Oct 2026 17:00:16 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      15,
+      0,
+      16,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 17:06:21 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      15,
+      6,
+      21,
+      4,
+      282,
+      0
+    ],
+    "summary": "A quelques jours de la présentation du budget par l’exécutif, les manifestants se sont mobilisés, vendredi 9 octobre, contre les mesures socio-économiques de la coalition emmenée par le premier ministre Bart De Wever.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A quelques jours de la présentation du budget par l’exécutif, les manifestants se sont mobilisés, vendredi 9 octobre, contre les mesures socio-économiques de la coalition emmenée par le premier ministre Bart De Wever."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/a-bruxelles-des-milliers-de-manifestants-protestent-contre-la-politique-du-gouvernement-federal_6790596_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/a-bruxelles-des-milliers-de-manifestants-protestent-contre-la-politique-du-gouvernement-federal_6790596_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/a-bruxelles-des-milliers-de-manifestants-protestent-contre-la-politique-du-gouvernement-federal_6790596_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/09/500/0/6000/3000/644/322/60/0/b076689_ftp-1-xvdll0flubsg-2026-10-09t084833z-148583648-rc2kznauygyf-rtrmadp-3-belgium-strike-protest.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation contre les mesures d’austérité et les coupes budgétaires, à Bruxelles, le 9 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stephanie Lecocq/REUTERS"
+      }
+    ],
+    "credit": "Stephanie Lecocq/REUTERS"
+  }
+}

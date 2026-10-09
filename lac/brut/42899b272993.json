@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T20:33:22.376943+00:00",
+  "_id": "42899b272993",
+  "brut": {
+    "title": "L'œuf, un superaliment dont le prix a explosé de 150% depuis 2021 en Espagne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'œuf, un superaliment dont le prix a explosé de 150% depuis 2021 en Espagne"
+    },
+    "summary": "L'œuf est l'un des aliments dont le prix a le plus augmenté en Espagne : +150% lors des cinq dernières années, juste derrière les légumes. Les flambées de grippe aviaire, l'augmentation des coûts et une consommation croissante en font grimper le prix. Le média public espagnol RTVE revient sur la flambée des prix de ce superaliment.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'œuf est l'un des aliments dont le prix a le plus augmenté en Espagne : +150% lors des cinq dernières années, juste derrière les légumes. Les flambées de grippe aviaire, l'augmentation des coûts et une consommation croissante en font grimper le prix. Le média public espagnol RTVE revient sur la flambée des prix de ce superaliment."
+    },
+    "published": "Fri, 09 Oct 2026 17:54:15 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      15,
+      54,
+      15,
+      4,
+      282,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/sante/alimentation/l-uf-un-superaliment-dont-le-prix-a-explose-de-150-depuis-2021-en-espagne_8230264.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Z4Rmo_2LwC246XNzRHausMi7hLo/0x0:1562x879/432x243/filters:format(jpg)/2026/10/09/6ac8f5cdbd622544883617.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/sante/alimentation/l-uf-un-superaliment-dont-le-prix-a-explose-de-150-depuis-2021-en-espagne_8230264.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/sante/alimentation/l-uf-un-superaliment-dont-le-prix-a-explose-de-150-depuis-2021-en-espagne_8230264.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

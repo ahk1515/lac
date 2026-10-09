@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T20:33:22.054186+00:00",
+  "_id": "f078b10b87f6",
+  "brut": {
+    "title": "Au Sénégal, Dakar, sous les eaux, se découvre très vulnérable en pleine saison des pluies hors norme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Sénégal, Dakar, sous les eaux, se découvre très vulnérable en pleine saison des pluies hors norme"
+    },
+    "published": "Fri, 09 Oct 2026 18:00:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      16,
+      0,
+      8,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 18:47:26 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      16,
+      47,
+      26,
+      4,
+      282,
+      0
+    ],
+    "summary": "La capitale, touchée par un épisode climatique d’une intensité exceptionnelle, paie le prix de son urbanisation accélérée.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La capitale, touchée par un épisode climatique d’une intensité exceptionnelle, paie le prix de son urbanisation accélérée."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/09/senegal-dakar-sous-les-eaux-se-decouvre-tres-vulnerables-face-a-une-saison-des-pluies-hors-norme_6790613_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/09/senegal-dakar-sous-les-eaux-se-decouvre-tres-vulnerables-face-a-une-saison-des-pluies-hors-norme_6790613_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/09/senegal-dakar-sous-les-eaux-se-decouvre-tres-vulnerables-face-a-une-saison-des-pluies-hors-norme_6790613_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/542/0/6500/3250/644/322/60/0/2c8142c_ftp-1-q1wpxzyjdiwr-2026-10-05t174807z-194845809-rc2ywna36qeg-rtrmadp-3-senegal-weather.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Une rue inondée, à Dakar, le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Misper Apawu/REUTERS"
+      }
+    ],
+    "credit": "Misper Apawu/REUTERS"
+  }
+}

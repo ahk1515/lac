@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T20:33:22.053846+00:00",
+  "_id": "2e4226539310",
+  "brut": {
+    "title": "Le Danemark s’apprête à autoriser le retour de la « force physique » pour maintenir l’ordre à l’école",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Danemark s’apprête à autoriser le retour de la « force physique » pour maintenir l’ordre à l’école"
+    },
+    "published": "Fri, 09 Oct 2026 19:30:04 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      17,
+      30,
+      4,
+      4,
+      282,
+      0
+    ],
+    "summary": "Depuis 1967, les enseignants ne pouvaient contraindre leurs élèves qu’en cas de risque pour leur sécurité ou celle d’autrui. A partir d’août 2027, ils pourront « saisir un élève, le maintenir en place ou le conduire dans une autre pièce » s’il perturbe la classe.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis 1967, les enseignants ne pouvaient contraindre leurs élèves qu’en cas de risque pour leur sécurité ou celle d’autrui. A partir d’août 2027, ils pourront « saisir un élève, le maintenir en place ou le conduire dans une autre pièce » s’il perturbe la classe."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/le-danemark-s-apprete-a-autoriser-le-retour-de-la-force-physique-pour-maintenir-l-ordre-a-l-ecole_6790624_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/le-danemark-s-apprete-a-autoriser-le-retour-de-la-force-physique-pour-maintenir-l-ordre-a-l-ecole_6790624_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/le-danemark-s-apprete-a-autoriser-le-retour-de-la-force-physique-pour-maintenir-l-ordre-a-l-ecole_6790624_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/47/0/8640/4320/644/322/60/0/6aa7b78_ftp-1-mo1lho3zpgpk-5296421-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Mette Frederiksen, première ministre danoise, au Parlement, à Copenhague, le 8 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "THOMAS TRAASDAHL/AFP"
+      }
+    ],
+    "credit": "THOMAS TRAASDAHL/AFP"
+  }
+}

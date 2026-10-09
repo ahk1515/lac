@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T20:33:22.053355+00:00",
+  "_id": "69a3c85b09a0",
+  "brut": {
+    "title": "Le Panama secoué par un puissant séisme ; une alerte tsunami lancée dans l’est du Pacifique par l’agence de sismologie américaine",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le Panama secoué par un puissant séisme ; une alerte tsunami lancée dans l’est du Pacifique par l’agence de sismologie américaine"
+    },
+    "published": "Fri, 09 Oct 2026 20:42:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      18,
+      42,
+      3,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 22:30:40 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      20,
+      30,
+      40,
+      4,
+      282,
+      0
+    ],
+    "summary": "Selon les rapports préliminaires, le tremblement de terre a été ressenti dans tout le Panama. Les autorités ont appelé la population au calme.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Selon les rapports préliminaires, le tremblement de terre a été ressenti dans tout le Panama. Les autorités ont appelé la population au calme."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/10/09/le-panama-secoue-par-un-puissant-seisme-une-alerte-tsunami-lancee-dans-l-est-du-pacifique-par-l-agence-de-sismologie-americaine_6790632_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/10/09/le-panama-secoue-par-un-puissant-seisme-une-alerte-tsunami-lancee-dans-l-est-du-pacifique-par-l-agence-de-sismologie-americaine_6790632_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/10/09/le-panama-secoue-par-un-puissant-seisme-une-alerte-tsunami-lancee-dans-l-est-du-pacifique-par-l-agence-de-sismologie-americaine_6790632_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/09/572/0/6784/3392/644/322/60/0/5c592cb_ftp-1-dzrfpemwa7yl-5310409-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des personnes évacuées d’un hôpital, après qu’un puissant séisme de magnitude 7,6 a frappé le pays, à Panama, le 9 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MARTIN BERNETTI/AFP"
+      }
+    ],
+    "credit": "MARTIN BERNETTI/AFP"
+  }
+}

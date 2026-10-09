@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T20:33:22.377165+00:00",
+  "_id": "6197aba738d2",
+  "brut": {
+    "title": "Une violente tornade ravage la Sicile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Une violente tornade ravage la Sicile"
+    },
+    "summary": "« Les voitures ont volé ». Une violente tornade a touché Marsala et Petrosino en Sicile. Les dégâts sont très importants, il y'a des blessés. Une double trombe marine s'était d’abord formée au large de l'île.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "« Les voitures ont volé ». Une violente tornade a touché Marsala et Petrosino en Sicile. Les dégâts sont très importants, il y'a des blessés. Une double trombe marine s'était d’abord formée au large de l'île."
+    },
+    "published": "Fri, 09 Oct 2026 17:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      15,
+      0,
+      2,
+      4,
+      282,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/une-violente-tornade-ravage-la-sicile_8230255.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/h1iWNei_gq-9pb0tw5elP65Ot-I/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/09/6ac8f4e20c140489617847.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/une-violente-tornade-ravage-la-sicile_8230255.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/une-violente-tornade-ravage-la-sicile_8230255.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

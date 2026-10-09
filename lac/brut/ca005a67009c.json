@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T20:33:22.376587+00:00",
+  "_id": "ca005a67009c",
+  "brut": {
+    "title": "Tornade dévastatrice en Sicile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tornade dévastatrice en Sicile"
+    },
+    "summary": "Est-ce la tornade la plus intense depuis plusieurs décennies en Italie ? C’est ce qu’évoquent les experts sur place, tandis que les images témoignent de l’intensité du phénomène.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Est-ce la tornade la plus intense depuis plusieurs décennies en Italie ? C’est ce qu’évoquent les experts sur place, tandis que les images témoignent de l’intensité du phénomène."
+    },
+    "published": "Fri, 09 Oct 2026 21:09:16 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      19,
+      9,
+      16,
+      4,
+      282,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/tornade-devastatrice-en-sicile_8230714.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/_nn2KKVRNB4uiix4WNmA65CYfWc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/09/6ac93bf5b6773050534562.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/tornade-devastatrice-en-sicile_8230714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/tornade-devastatrice-en-sicile_8230714.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

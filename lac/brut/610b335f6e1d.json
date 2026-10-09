@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T20:33:22.053157+00:00",
+  "_id": "610b335f6e1d",
+  "brut": {
+    "title": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay"
+    },
+    "published": "Fri, 09 Oct 2026 21:34:58 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      19,
+      34,
+      58,
+      4,
+      282,
+      0
+    ],
+    "summary": "Agée de 85 ans, Navi Pillay a notamment été juge et haut-commissaire des Nations unies aux droits de l’homme et présidente du Tribunal pénal international pour le Rwanda.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Agée de 85 ans, Navi Pillay a notamment été juge et haut-commissaire des Nations unies aux droits de l’homme et présidente du Tribunal pénal international pour le Rwanda."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/09/366/0/4400/2200/644/322/60/0/dbbe2e4_ftp-1-xpccgbim1onb-9472714c5da34425af71a58c567f319c-0-917bd669c9fe4a6a9588836749b7413e.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "La juriste sud-africaine et ancienne haut-commissaire des Nations unies aux droits de l’homme, Navanethem « Navi » Pillay (au centre), pose aux côtés de l’ancienne présidente de la Cour pénale internationale (CPI), Silvia Fernandez de Gurmendi, et du directeur de l’Académie internationale des principes de Nuremberg, Christoph Safferling, lors du Forum de Nuremberg, en Allemagne, le vendredi 9 octobre 2026, après l’annonce de l’attribution du prix Nobel de la paix 2026. (Daniel Karmann/dpa via AP)"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Daniel Karmann / Daniel Karmann/DPA via AP"
+      }
+    ],
+    "credit": "Daniel Karmann / Daniel Karmann/DPA via AP"
+  }
+}
