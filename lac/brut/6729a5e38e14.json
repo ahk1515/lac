@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.917163+00:00",
+  "_id": "6729a5e38e14",
+  "brut": {
+    "title": "En Italie, Giorgia Meloni fait voter sa réforme électorale",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Italie, Giorgia Meloni fait voter sa réforme électorale"
+    },
+    "published": "Fri, 09 Oct 2026 05:00:08 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      3,
+      0,
+      8,
+      4,
+      282,
+      0
+    ],
+    "summary": "La cheffe du gouvernement italien a réussi son pari de réintroduire le vote à la proportionnelle. Mais la formation de vastes coalitions pour les prochaines législatives pourrait être difficile.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La cheffe du gouvernement italien a réussi son pari de réintroduire le vote à la proportionnelle. Mais la formation de vastes coalitions pour les prochaines législatives pourrait être difficile."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/en-italie-giorgia-meloni-fait-voter-sa-reforme-electorale_6790491_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/en-italie-giorgia-meloni-fait-voter-sa-reforme-electorale_6790491_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/en-italie-giorgia-meloni-fait-voter-sa-reforme-electorale_6790491_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/57/0/4691/2345/644/322/60/0/fae2a8f_ftp-1-brzekojusozp-5ebf83d5f3ae4a1d9035153755b7faa3-0-9dc8fb0c0dae429a9e3b2c06dc1a36f8.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des élus brandissent des pancartes contre la loi sur la réforme électorale, à la Chambre des députés italienne, le jour du vote final, à Rome, le 8 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Andrew Medichini/AP"
+      }
+    ],
+    "credit": "Andrew Medichini/AP"
+  }
+}

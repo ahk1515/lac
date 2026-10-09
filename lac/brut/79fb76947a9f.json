@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.917538+00:00",
+  "_id": "79fb76947a9f",
+  "brut": {
+    "title": "A New York, l’ICE ouvre le feu sur le conducteur d’une voiture, avec un enfant à l’arrière du véhicule",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A New York, l’ICE ouvre le feu sur le conducteur d’une voiture, avec un enfant à l’arrière du véhicule"
+    },
+    "published": "Fri, 09 Oct 2026 03:10:00 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      1,
+      10,
+      0,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 04:16:41 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      2,
+      16,
+      41,
+      4,
+      282,
+      0
+    ],
+    "summary": "L’homme a été blessé au cou et évacué vers un hôpital ; l’enfant, lui, serait indemne. Il s’agit de la première fusillade dans cette ville impliquant la police fédérale de l’immigration. Le maire, Zohran Mamdani, a dénoncé « une situation inadmissible et d’une gravité exceptionnelle » et appelé à « abolir l’ICE ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’homme a été blessé au cou et évacué vers un hôpital ; l’enfant, lui, serait indemne. Il s’agit de la première fusillade dans cette ville impliquant la police fédérale de l’immigration. Le maire, Zohran Mamdani, a dénoncé « une situation inadmissible et d’une gravité exceptionnelle » et appelé à « abolir l’ICE »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/09/0/0/1155/577/644/322/60/0/268a3fa_ftp-1-jhlenpbhxh4a-2026-10-09t002508z-1201485726-rc2cznahvxbf-rtrmadp-3-usa-migration-new-york.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après une fusillade impliquant des agents de la police fédérale de l’immigration, dans le Bronx, à New York (Etats-Unis), le 8 octobre 2026 ; l’image tirée d’une vidéo provenant des réseaux sociaux."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Pedro Almarez via REUTERS"
+      }
+    ],
+    "credit": "Pedro Almarez via REUTERS"
+  }
+}

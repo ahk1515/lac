@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.917779+00:00",
+  "_id": "98071d47ea0c",
+  "brut": {
+    "title": "A Gaza, de nouvelles frappes israéliennes font sept morts, selon la défense civile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "A Gaza, de nouvelles frappes israéliennes font sept morts, selon la défense civile"
+    },
+    "published": "Fri, 09 Oct 2026 00:38:42 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      22,
+      38,
+      42,
+      3,
+      281,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 01:06:44 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      8,
+      23,
+      6,
+      44,
+      3,
+      281,
+      0
+    ],
+    "summary": "Parmi les victimes figurent « une femme et un enfant », tués « lorsque des avions israéliens ont bombardé un immeuble résidentiel » situé dans la ville de Gaza, ont déclaré les services de secours.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Parmi les victimes figurent « une femme et un enfant », tués « lorsque des avions israéliens ont bombardé un immeuble résidentiel » situé dans la ville de Gaza, ont déclaré les services de secours."
+    },
+    "id": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/10/09/a-gaza-de-nouvelles-frappes-israeliennes-font-sept-morts-selon-la-defense-civile_6790356_6325529.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/10/09/a-gaza-de-nouvelles-frappes-israeliennes-font-sept-morts-selon-la-defense-civile_6790356_6325529.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/10/09/a-gaza-de-nouvelles-frappes-israeliennes-font-sept-morts-selon-la-defense-civile_6790356_6325529.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/720/0/8640/4320/644/322/60/0/9533f41_ftp-1-g0ieuphql2wi-984f1f23eace48f5888d417ef9e26f74-0-10a6d9ac8c154c4dbbead9b739baf464.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Des bâtiments en ruines après des frappes de l’armée israélienne, dans la ville de Gaza, le 8 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jehad Alshrafi/AP Photo/Jehad Alshrafi"
+      }
+    ],
+    "credit": "Jehad Alshrafi/AP Photo/Jehad Alshrafi"
+  }
+}

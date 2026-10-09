@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.917626+00:00",
+  "_id": "5bccd2a91825",
+  "brut": {
+    "title": "Aux Etats-Unis, la mise à mort d’un condamné par peloton d’exécution militaire sera diffusée en direct",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Aux Etats-Unis, la mise à mort d’un condamné par peloton d’exécution militaire sera diffusée en direct"
+    },
+    "published": "Fri, 09 Oct 2026 02:35:56 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      0,
+      35,
+      56,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 02:58:06 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      0,
+      58,
+      6,
+      4,
+      282,
+      0
+    ],
+    "summary": "Nidal Hasan, qui a tué 13 personnes en 2009 dans une base militaire du Texas, « sera fusillé par des soldats, comme il se doit, et nous veillerons à ce que le public puisse y assister, à ce que ce soit public », a déclaré le chef du Pentagone, Pete Hegseth.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Nidal Hasan, qui a tué 13 personnes en 2009 dans une base militaire du Texas, « sera fusillé par des soldats, comme il se doit, et nous veillerons à ce que le public puisse y assister, à ce que ce soit public », a déclaré le chef du Pentagone, Pete Hegseth."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/06/0/0/4286/2143/644/322/60/0/80106f5_ftp-1-cg3qkaysr5l6-f09bca30880e4be9b067e7da19c40036-0-7110394d09c447f4bc6009fadd3209a3.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Photo non datée de Nidal Hasan."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Crédit non mentionné/Service du shérif du comté de Bell via AP"
+      }
+    ],
+    "credit": "Crédit non mentionné/Service du shérif du comté de Bell via AP"
+  }
+}

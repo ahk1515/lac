@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.917408+00:00",
+  "_id": "263801b3cfa2",
+  "brut": {
+    "title": "Des centaines de Britanniques, installés depuis des années, sont priés de quitter la Suède",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des centaines de Britanniques, installés depuis des années, sont priés de quitter la Suède"
+    },
+    "published": "Fri, 09 Oct 2026 03:30:04 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      1,
+      30,
+      4,
+      4,
+      282,
+      0
+    ],
+    "summary": "Sur les 14 200 ressortissants britanniques ayant demandé le statut de résident après le Brexit, près de 4 000 ont été déboutés, soit un peu plus de 27 %, contre 7,6 % en France. Une politique restrictive que les partis de centre gauche, vainqueurs des législatives, ont promis d’assouplir.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Sur les 14 200 ressortissants britanniques ayant demandé le statut de résident après le Brexit, près de 4 000 ont été déboutés, soit un peu plus de 27 %, contre 7,6 % en France. Une politique restrictive que les partis de centre gauche, vainqueurs des législatives, ont promis d’assouplir."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/des-centaines-de-britanniques-installes-depuis-des-annees-sont-pries-de-quitter-la-suede_6790455_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/des-centaines-de-britanniques-installes-depuis-des-annees-sont-pries-de-quitter-la-suede_6790455_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/des-centaines-de-britanniques-installes-depuis-des-annees-sont-pries-de-quitter-la-suede_6790455_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/457/0/4980/2490/644/322/60/0/84ba57c_upload-1-6itii6i7iv9m-2026-09-07t153123z-2135489194-rc2odna6y4e6-rtrmadp-3-sweden-election.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un drapeau suédois flotte au-dessus d’une rue de la vieille ville de Stockholm, le 6 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Tom Little/REUTERS"
+      }
+    ],
+    "credit": "Tom Little/REUTERS"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T04:41:59.098496+00:00",
+  "_id": "e5dee51409be",
+  "brut": {
+    "title": "Sept personnes, dont un enfant, tuées à Gaza par des tirs israéliens, selon la défense civile",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Sept personnes, dont un enfant, tuées à Gaza par des tirs israéliens, selon la défense civile"
+    },
+    "summary": "L'armée israélienne a assuré que trois des victimes étaient des \"agents militaires\".",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'armée israélienne a assuré que trois des victimes étaient des \"agents militaires\"."
+    },
+    "published": "Thu, 08 Oct 2026 23:50:06 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      21,
+      50,
+      6,
+      3,
+      281,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/sept-personnes-dont-un-enfant-tuees-a-gaza-par-des-tirs-israeliens-selon-la-defense-civile_8229076.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0Z54C-0xdi0wXkPpaf14B6HNE1Q/0x53:1024x629/432x243/filters:format(jpg)/2026/10/08/6ac80fe395b7f506028003.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/sept-personnes-dont-un-enfant-tuees-a-gaza-par-des-tirs-israeliens-selon-la-defense-civile_8229076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/sept-personnes-dont-un-enfant-tuees-a-gaza-par-des-tirs-israeliens-selon-la-defense-civile_8229076.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

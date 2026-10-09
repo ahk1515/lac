@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.917325+00:00",
+  "_id": "f0b59236f4cd",
+  "brut": {
+    "title": "Elon Musk reçoit de Donald Trump une médaille scientifique, confirmant son retour en grâce auprès du président américain",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Elon Musk reçoit de Donald Trump une médaille scientifique, confirmant son retour en grâce auprès du président américain"
+    },
+    "published": "Fri, 09 Oct 2026 03:51:33 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      1,
+      51,
+      33,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 04:36:36 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      2,
+      36,
+      36,
+      4,
+      282,
+      0
+    ],
+    "summary": "Après une période de brouille avec le dirigeant républicain, le patron de Tesla et de SpaceX a été qualifié de « trésor national » par son hôte, jeudi, lors d’une cérémonie où il a reçu la « médaille nationale de la science ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Après une période de brouille avec le dirigeant républicain, le patron de Tesla et de SpaceX a été qualifié de « trésor national » par son hôte, jeudi, lors d’une cérémonie où il a reçu la « médaille nationale de la science »."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/elon-musk-recoit-de-donald-trump-une-medaille-scientifique-confirmant-son-retour-en-grace-aupres-du-president-americain_6790488_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/elon-musk-recoit-de-donald-trump-une-medaille-scientifique-confirmant-son-retour-en-grace-aupres-du-president-americain_6790488_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/elon-musk-recoit-de-donald-trump-une-medaille-scientifique-confirmant-son-retour-en-grace-aupres-du-president-americain_6790488_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/140/0/7304/3652/644/322/60/0/a0ae61b_ftp-1-wkxaph6qfp2q-b18da039834043e7997ee647445fb0f3-0-0d2a3a645599465ca7a2599b0666f152.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Donald Trump applaudit les lauréats de la « médaille nationale de la science », dont Elon Musk (troisième en partant de la gauche), à l’Institut américain pour la paix, le 8 octobre 2026, à Washington."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Julia Demaree Nikhinson/AP Photo"
+      }
+    ],
+    "credit": "Julia Demaree Nikhinson/AP Photo"
+  }
+}

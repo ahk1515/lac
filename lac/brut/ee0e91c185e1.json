@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.917946+00:00",
+  "_id": "ee0e91c185e1",
+  "brut": {
+    "title": "La France expulse deux agents des services de renseignement nigériens",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La France expulse deux agents des services de renseignement nigériens"
+    },
+    "published": "Thu, 08 Oct 2026 23:11:18 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      8,
+      21,
+      11,
+      18,
+      3,
+      281,
+      0
+    ],
+    "updated": "Thu, 08 Oct 2026 23:55:55 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      8,
+      21,
+      55,
+      55,
+      3,
+      281,
+      0
+    ],
+    "summary": "Les relations entre Paris et Niamey n’ont cessé de se dégrader depuis l’arrivée au pouvoir d’une junte prorusse, en 2023. Selon une source nigérienne, l’un des agents expulsés était suspecté de se livrer à des activités de surveillance des opposants nigériens sur le sol français.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les relations entre Paris et Niamey n’ont cessé de se dégrader depuis l’arrivée au pouvoir d’une junte prorusse, en 2023. Selon une source nigérienne, l’un des agents expulsés était suspecté de se livrer à des activités de surveillance des opposants nigériens sur le sol français."
+    },
+    "id": "https://www.lemonde.fr/afrique/article/2026/10/08/la-france-expulse-deux-agents-des-services-de-renseignement-nigeriens_6790290_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/08/la-france-expulse-deux-agents-des-services-de-renseignement-nigeriens_6790290_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/article/2026/10/08/la-france-expulse-deux-agents-des-services-de-renseignement-nigeriens_6790290_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/08/29/432/0/5184/2592/644/322/60/0/97937d6_ftp-1-03j5mhfoul7r-2026-08-29t073247z-1559077175-rc2pp8ar8wu7-rtrmadp-3-niger-security.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le chef de la junte nigérienne, le général Abdourahamane Tiani,  assiste au premier sommet de l’Alliance des Etats du Sahel (AES), à Niamey, le 6 juillet 2024."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Mahamadou Hamidou / REUTERS"
+      }
+    ],
+    "credit": "Mahamadou Hamidou / REUTERS"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T04:41:58.916991+00:00",
+  "_id": "6dff542f4c61",
+  "brut": {
+    "title": "Allemagne : après la victoire de l’AfD en Saxe-Anhalt, la CDU et la coalition au pouvoir menacées",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Allemagne : après la victoire de l’AfD en Saxe-Anhalt, la CDU et la coalition au pouvoir menacées"
+    },
+    "published": "Fri, 09 Oct 2026 06:30:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      4,
+      30,
+      10,
+      4,
+      282,
+      0
+    ],
+    "summary": "Plusieurs élus du parti de Friedrich Merz auraient voté en faveur d’un candidat de l’extrême droite pour la présidence du parlement régional. Les sociaux-démocrates du SPD s’indignent et invoquent le contrat de coalition, qui interdit toute collaboration avec l’AfD.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Plusieurs élus du parti de Friedrich Merz auraient voté en faveur d’un candidat de l’extrême droite pour la présidence du parlement régional. Les sociaux-démocrates du SPD s’indignent et invoquent le contrat de coalition, qui interdit toute collaboration avec l’AfD."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/allemagne-apres-la-victoire-de-l-afd-en-saxe-anhalt-la-cdu-et-la-coalition-au-pouvoir-menacees_6790510_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/allemagne-apres-la-victoire-de-l-afd-en-saxe-anhalt-la-cdu-et-la-coalition-au-pouvoir-menacees_6790510_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/allemagne-apres-la-victoire-de-l-afd-en-saxe-anhalt-la-cdu-et-la-coalition-au-pouvoir-menacees_6790510_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/350/0/4206/2103/644/322/60/0/8724f2c_ftp-1-7w61zg94cmee-2026-10-07t132903z-710794828-rc2oxnau3pc4-rtrmadp-3-germany-elections-saxony-anhalt.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Hans-Thomas Tillschneider (à g.) et Tobias Rausch, le nouveau président du parlement régional de Saxe-Anhalt, tous deux membres de l’AfD, à Magdebourg, le 6 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jan Woitas/REUTERS"
+      }
+    ],
+    "credit": "Jan Woitas/REUTERS"
+  }
+}
