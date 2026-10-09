@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T14:58:48.789639+00:00",
+  "_id": "262960e6b64c",
+  "brut": {
+    "title": "\"Nous, les Européens\". Finlande : la défense, l’affaire de tous",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Nous, les Européens\". Finlande : la défense, l’affaire de tous"
+    },
+    "summary": "Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2."
+    },
+    "published": "Fri, 09 Oct 2026 11:38:50 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      9,
+      38,
+      50,
+      4,
+      282,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-finlande-la-defense-l-affaire-de-tous_8205437.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/OCCNcCFNPXTZriNhoYPqdBzPjjI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/07/6ac6539b05595231646548.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-finlande-la-defense-l-affaire-de-tous_8205437.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-finlande-la-defense-l-affaire-de-tous_8205437.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

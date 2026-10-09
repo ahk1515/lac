@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T14:58:48.482979+00:00",
+  "_id": "4f3a58faa9bc",
+  "brut": {
+    "title": "Bosnie-Herzégovine : l’intégration européenne, grande perdante des élections générales du 4 octobre",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Bosnie-Herzégovine : l’intégration européenne, grande perdante des élections générales du 4 octobre"
+    },
+    "published": "Fri, 09 Oct 2026 12:30:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      10,
+      30,
+      5,
+      4,
+      282,
+      0
+    ],
+    "summary": "La victoire des partis nationalistes dans les urnes met en évidence la déception des Bosniens envers une adhésion à l’UE, qui s’éloigne après avoir semblé proche.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La victoire des partis nationalistes dans les urnes met en évidence la déception des Bosniens envers une adhésion à l’UE, qui s’éloigne après avoir semblé proche."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/bosnie-herzegovine-l-integration-europeenne-grande-perdante-des-elections-generales-du-4-octobre_6790553_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/bosnie-herzegovine-l-integration-europeenne-grande-perdante-des-elections-generales-du-4-octobre_6790553_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/bosnie-herzegovine-l-integration-europeenne-grande-perdante-des-elections-generales-du-4-octobre_6790553_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/590/0/4724/2362/644/322/60/0/f72de84_upload-1-e7ztwcqdtogx-agoubau-bosnieelec26-4oct-39.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "A Sarajevo, au lendemain des élections nationales, le 5 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AURELIEN GOUBAU POUR « LE MONDE »"
+      }
+    ],
+    "credit": "AURELIEN GOUBAU POUR « LE MONDE »"
+  }
+}

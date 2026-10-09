@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T14:58:48.480555+00:00",
+  "_id": "501a24e5af96",
+  "brut": {
+    "title": "New York : l’ICE, la police de l’immigration, tire sur une voiture, un enfant de 5 ans sur la banquette arrière",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "New York : l’ICE, la police de l’immigration, tire sur une voiture, un enfant de 5 ans sur la banquette arrière"
+    },
+    "published": "Fri, 09 Oct 2026 16:35:55 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      14,
+      35,
+      55,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 16:38:15 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      14,
+      38,
+      15,
+      4,
+      282,
+      0
+    ],
+    "summary": "Dans cette ville, il s’agit des premiers coups de feu impliquant la police de l’immigration. Le maire, Zohran Mamdani, a dénoncé « une situation d’une gravité exceptionnelle », et a appelé à « abolir l’ICE ».",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans cette ville, il s’agit des premiers coups de feu impliquant la police de l’immigration. Le maire, Zohran Mamdani, a dénoncé « une situation d’une gravité exceptionnelle », et a appelé à « abolir l’ICE »."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/09/new-york-l-ice-tire-sur-une-voiture-un-enfant-de-5-ans-sur-la-banquette-arriere_6790587_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/09/new-york-l-ice-tire-sur-une-voiture-un-enfant-de-5-ans-sur-la-banquette-arriere_6790587_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/09/new-york-l-ice-tire-sur-une-voiture-un-enfant-de-5-ans-sur-la-banquette-arriere_6790587_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/09/357/0/2870/1435/644/322/60/0/6c7cb07_ftp-1-fv8mfvqdxhnp-2026-10-09t092016z-350016722-rc2gznavl3ua-rtrmadp-3-usa-migration-new-york.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un homme a été interpellé à la suite d’une fusillade impliquant, selon les informations rapportées, des agents de l’ICE (Service de l’immigration et des douanes des États-Unis) à New York, le 8 octobre 2026 ; image tirée d’une vidéo publiée sur les réseaux sociaux. Stephanie/via REUTERS"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Stephanie / Stephanie via REUTERS"
+      }
+    ],
+    "credit": "Stephanie / Stephanie via REUTERS"
+  }
+}

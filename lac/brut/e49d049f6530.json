@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T14:58:48.482439+00:00",
+  "_id": "e49d049f6530",
+  "brut": {
+    "title": "Trois Saoudiens tués dans les frappes houthistes de jeudi à l’aéroport de Riyad",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Trois Saoudiens tués dans les frappes houthistes de jeudi à l’aéroport de Riyad"
+    },
+    "published": "Fri, 09 Oct 2026 13:21:15 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      11,
+      21,
+      15,
+      4,
+      282,
+      0
+    ],
+    "updated": "Fri, 09 Oct 2026 14:02:57 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      9,
+      12,
+      2,
+      57,
+      4,
+      282,
+      0
+    ],
+    "summary": "L’aéroport de Riyad a demandé aux passagers devant s’y rendre de vérifier auprès de leur compagnie que leur vol n’était pas annulé. Washington a par ailleurs demandé à ses citoyens une « vigilance accrue » après les attaques.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "L’aéroport de Riyad a demandé aux passagers devant s’y rendre de vérifier auprès de leur compagnie que leur vol n’était pas annulé. Washington a par ailleurs demandé à ses citoyens une « vigilance accrue » après les attaques."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/09/trois-saoudiens-tues-dans-les-frappes-houthistes-de-jeudi-a-l-aeroport-de-riyad_6790565_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/09/trois-saoudiens-tues-dans-les-frappes-houthistes-de-jeudi-a-l-aeroport-de-riyad_6790565_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/09/trois-saoudiens-tues-dans-les-frappes-houthistes-de-jeudi-a-l-aeroport-de-riyad_6790565_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/511/0/794/397/644/322/60/0/2cbce45_ftp-1-rlyyltexiidb-2026-10-08t170517z-1387630975-rc24zna4231i-rtrmadp-3-iran-crisis-saudi-airport.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Incendie à l’aéroport de Riyad, après un bombardement houthiste, le 8 octobre 2026. L’image a été diffusée sur les réseaux sociaux avant d’avoir été vérifiée et diffusée par l’agence Reuters."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "REUTERS"
+      }
+    ],
+    "credit": "REUTERS"
+  }
+}

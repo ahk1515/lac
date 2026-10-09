@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T14:58:48.787604+00:00",
+  "_id": "f39d0d5a6339",
+  "brut": {
+    "title": "Un Français au championnat du monde de tiramisu en Italie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un Français au championnat du monde de tiramisu en Italie"
+    },
+    "summary": "Un jeune Français s’apprête à concourir pour le titre de champion du monde du meilleur tiramisu. Le concours a lieu en Italie, à Trévise, où serait né le tiramisu.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un jeune Français s’apprête à concourir pour le titre de champion du monde du meilleur tiramisu. Le concours a lieu en Italie, à Trévise, où serait né le tiramisu."
+    },
+    "published": "Fri, 09 Oct 2026 16:40:46 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      14,
+      40,
+      46,
+      4,
+      282,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-francais-au-championnat-du-monde-de-tiramisu-en-italie_8230285.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/8naoRJMveatByXWUvIBGxC6ukaA/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/09/6ac8fc07634e4833900338.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-francais-au-championnat-du-monde-de-tiramisu-en-italie_8230285.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-francais-au-championnat-du-monde-de-tiramisu-en-italie_8230285.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

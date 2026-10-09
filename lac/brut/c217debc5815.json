@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T14:58:48.788873+00:00",
+  "_id": "c217debc5815",
+  "brut": {
+    "title": "La France et l'Allemagne assurent que le projet commun MGCS du futur char est bien maintenu",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La France et l'Allemagne assurent que le projet commun MGCS du futur char est bien maintenu"
+    },
+    "summary": "Le chef d'état-major français, le général Fabien Mandon, a pourtant estimé que les Allemands avaient décidé d'abandonner le projet de char, prévu pour 2040.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le chef d'état-major français, le général Fabien Mandon, a pourtant estimé que les Allemands avaient décidé d'abandonner le projet de char, prévu pour 2040."
+    },
+    "published": "Fri, 09 Oct 2026 14:21:28 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      12,
+      21,
+      28,
+      4,
+      282,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/armee-securite-defense/paris-et-berlin-assurent-que-le-projet-mgcs-du-futur-char-franco-allemand-est-bien-maintenu_8230096.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hntPevnxEJhavJLP2biRRoMf7Io/0x0:7492x4214/432x243/filters:format(jpg)/2026/10/09/6ac8dc2b480ef444609742.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/armee-securite-defense/paris-et-berlin-assurent-que-le-projet-mgcs-du-futur-char-franco-allemand-est-bien-maintenu_8230096.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/armee-securite-defense/paris-et-berlin-assurent-que-le-projet-mgcs-du-futur-char-franco-allemand-est-bien-maintenu_8230096.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

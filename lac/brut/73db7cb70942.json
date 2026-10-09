@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-09T14:58:48.484072+00:00",
+  "_id": "73db7cb70942",
+  "brut": {
+    "title": "VIDEO USS Abraham Lincoln : les images du retour de l’équipage après un déploiement polémique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "VIDEO USS Abraham Lincoln : les images du retour de l’équipage après un déploiement polémique"
+    },
+    "published": "Fri, 09 Oct 2026 10:08:41 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      8,
+      8,
+      41,
+      4,
+      282,
+      0
+    ],
+    "summary": "Privés de contacts réguliers avec leurs proches pendant leur mission et confrontés à des conditions difficiles, qui ont conduit à des tentatives de suicide, près de 6 000 soldats ont débarqué aux Etats-Unis, le 8 octobre 2026.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Privés de contacts réguliers avec leurs proches pendant leur mission et confrontés à des conditions difficiles, qui ont conduit à des tentatives de suicide, près de 6 000 soldats ont débarqué aux Etats-Unis, le 8 octobre 2026."
+    },
+    "id": "https://www.lemonde.fr/international/video/2026/10/09/uss-abraham-lincoln-les-images-du-retour-de-l-equipage-apres-un-deploiement-polemique_6790536_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/video/2026/10/09/uss-abraham-lincoln-les-images-du-retour-de-l-equipage-apres-un-deploiement-polemique_6790536_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/video/2026/10/09/uss-abraham-lincoln-les-images-du-retour-de-l-equipage-apres-un-deploiement-polemique_6790536_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/09/638/0/7938/3969/644/322/60/0/31a3e6f_ftp-1-ug9sjwwuia1e-5304357-01-06.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "MARIO TAMA / AFP"
+      }
+    ],
+    "credit": "MARIO TAMA / AFP"
+  }
+}

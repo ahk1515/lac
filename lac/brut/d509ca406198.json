@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-09T14:58:48.789336+00:00",
+  "_id": "d509ca406198",
+  "brut": {
+    "title": "REPORTAGE. À Gaza, un camp de déplacés réservé aux veuves et à leurs enfants",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "REPORTAGE. À Gaza, un camp de déplacés réservé aux veuves et à leurs enfants"
+    },
+    "summary": "Depuis le début de l'opération israélienne à Gaza, une femme sur quatre a été séparée de son mari, selon l'ONU. Ces femmes, qui se retrouvent sans protection, se sont rassemblées pour veiller sur elles et leurs enfants.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis le début de l'opération israélienne à Gaza, une femme sur quatre a été séparée de son mari, selon l'ONU. Ces femmes, qui se retrouvent sans protection, se sont rassemblées pour veiller sur elles et leurs enfants."
+    },
+    "published": "Fri, 09 Oct 2026 12:23:50 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      9,
+      10,
+      23,
+      50,
+      4,
+      282,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/palestine/gaza/reportage-a-gaza-un-camp-de-deplaces-reserve-aux-veuves-et-a-leurs-enfants_8229760.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/Oug1m_R86vodFIlad7gfL4t4Wws/0x285:5472x3363/432x243/filters:format(jpg)/2026/10/09/6ac8b56b6ccff468843879.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/palestine/gaza/reportage-a-gaza-un-camp-de-deplaces-reserve-aux-veuves-et-a-leurs-enfants_8229760.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/palestine/gaza/reportage-a-gaza-un-camp-de-deplaces-reserve-aux-veuves-et-a-leurs-enfants_8229760.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
