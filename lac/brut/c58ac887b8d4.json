@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T04:27:41.914812+00:00",
+  "_id": "c58ac887b8d4",
+  "brut": {
+    "title": "Dans la ville occupée d’Olechky, les Ukrainiens survivent dans des conditions « désespérées »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dans la ville occupée d’Olechky, les Ukrainiens survivent dans des conditions « désespérées »"
+    },
+    "published": "Sat, 10 Oct 2026 06:00:20 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      4,
+      0,
+      20,
+      5,
+      283,
+      0
+    ],
+    "summary": "Coupés du monde et soumis aux bombardements, les habitants de cette commune de la région de Kherson sont confrontés à une pénurie aiguë de nourriture, suscitant une inquiétude croissante au niveau international.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Coupés du monde et soumis aux bombardements, les habitants de cette commune de la région de Kherson sont confrontés à une pénurie aiguë de nourriture, suscitant une inquiétude croissante au niveau international."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/10/dans-la-ville-occupee-d-olechky-les-ukrainiens-survivent-dans-des-conditions-desesperees_6790941_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/10/dans-la-ville-occupee-d-olechky-les-ukrainiens-survivent-dans-des-conditions-desesperees_6790941_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/10/dans-la-ville-occupee-d-olechky-les-ukrainiens-survivent-dans-des-conditions-desesperees_6790941_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/08/107/0/5351/2675/644/322/60/0/2327929_ftp-1-mmh0pocjn8fa-2026-10-08t060039z-1663895973-rc2rxnar97i3-rtrmadp-3-ukraine-crisis-oleshky.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Manifestation à Kiev pour appeler à sauver les habitants d’Olechky, le 6 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Alina Smutko/REUTERS"
+      }
+    ],
+    "credit": "Alina Smutko/REUTERS"
+  }
+}
