@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T14:14:30.204990+00:00",
+  "_id": "910799844302",
+  "brut": {
+    "title": "L'Irlande propose des coupes de 140 milliards d'euros dans le budget de l'Union européenne",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L'Irlande propose des coupes de 140 milliards d'euros dans le budget de l'Union européenne"
+    },
+    "summary": "Le pays, qui assure la présidence tournante de l'UE, cherche à débloquer les discussions entre les Etats-membres, qui défendent des positions parfois éloignées.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le pays, qui assure la présidence tournante de l'UE, cherche à débloquer les discussions entre les Etats-membres, qui défendent des positions parfois éloignées."
+    },
+    "published": "Sat, 10 Oct 2026 11:50:26 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      9,
+      50,
+      26,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/l-irlande-propose-des-coupes-de-140-milliards-d-euros-dans-le-budget-de-l-ue_8231422.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/0JxkgqjQBZpZ8WNAm-C-OaPCbl0/0x260:5000x3072/432x243/filters:format(jpg)/2026/10/10/6aca0a5bcbcef815935914.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/l-irlande-propose-des-coupes-de-140-milliards-d-euros-dans-le-budget-de-l-ue_8231422.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/l-irlande-propose-des-coupes-de-140-milliards-d-euros-dans-le-budget-de-l-ue_8231422.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

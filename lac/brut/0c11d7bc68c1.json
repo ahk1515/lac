@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T14:14:29.844919+00:00",
+  "_id": "0c11d7bc68c1",
+  "brut": {
+    "title": "Au Panama, un premier bilan de plusieurs blessés et d’importants dégâts à la suite du séisme",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Panama, un premier bilan de plusieurs blessés et d’importants dégâts à la suite du séisme"
+    },
+    "published": "Sat, 10 Oct 2026 09:02:48 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      7,
+      2,
+      48,
+      5,
+      283,
+      0
+    ],
+    "updated": "Sat, 10 Oct 2026 14:53:31 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      10,
+      12,
+      53,
+      31,
+      5,
+      283,
+      0
+    ],
+    "summary": "Des centaines de répliques ont secoué le Panama vendredi après le tremblement de terre, forçant la fermeture temporaire de l’aéroport international et la suspension des cours dans tout le pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Des centaines de répliques ont secoué le Panama vendredi après le tremblement de terre, forçant la fermeture temporaire de l’aéroport international et la suspension des cours dans tout le pays."
+    },
+    "id": "https://www.lemonde.fr/planete/article/2026/10/10/au-panama-un-premier-bilan-fait-etat-de-plusieurs-blesses-et-d-importants-degats-apres-le-seisme_6790968_3244.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/planete/article/2026/10/10/au-panama-un-premier-bilan-fait-etat-de-plusieurs-blesses-et-d-importants-degats-apres-le-seisme_6790968_3244.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/planete/article/2026/10/10/au-panama-un-premier-bilan-fait-etat-de-plusieurs-blesses-et-d-importants-degats-apres-le-seisme_6790968_3244.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/10/292/0/3504/1752/644/322/60/0/65c9360_ftp-1-b12fgk6rxgmz-995ba5a29a5146b9b54cead43bed45da-1-39eb7740b99a461bb839c1b30fe7735a.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Bâtiment partiellement détruit par le séisme qui a frappé Penonomé, au Panama, vendredi 9 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Aris Mariota / AP Photo/Aris Mariota"
+      }
+    ],
+    "credit": "Aris Mariota / AP Photo/Aris Mariota"
+  }
+}

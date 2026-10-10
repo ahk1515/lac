@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T14:14:30.205066+00:00",
+  "_id": "97b9bbbb2bff",
+  "brut": {
+    "title": "En Pologne, plusieurs dizaines d'établissements scolaires sont restés fermés vendredi dans la crainte d'une \"journée sanglante\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En Pologne, plusieurs dizaines d'établissements scolaires sont restés fermés vendredi dans la crainte d'une \"journée sanglante\""
+    },
+    "summary": "Cette semaine, deux attaques au couteau perpétrées par des élèves ont fait un mort et douze blessés dans deux écoles polonaises.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cette semaine, deux attaques au couteau perpétrées par des élèves ont fait un mort et douze blessés dans deux écoles polonaises."
+    },
+    "published": "Sat, 10 Oct 2026 10:40:24 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      8,
+      40,
+      24,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/faits-divers/en-pologne-plusieurs-dizaines-d-etablissements-scolaires-fermes-vendredi-dans-la-crainte-d-une-journee-sanglante_8231311.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/hcEs2J8VpmltRrhzITLJED-JGIA/0x237:7411x4406/432x243/filters:format(jpg)/2026/10/10/6ac9ef418ad40706819074.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/faits-divers/en-pologne-plusieurs-dizaines-d-etablissements-scolaires-fermes-vendredi-dans-la-crainte-d-une-journee-sanglante_8231311.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/faits-divers/en-pologne-plusieurs-dizaines-d-etablissements-scolaires-fermes-vendredi-dans-la-crainte-d-une-journee-sanglante_8231311.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

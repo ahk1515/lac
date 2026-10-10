@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T14:14:29.844040+00:00",
+  "_id": "21becffd32a2",
+  "brut": {
+    "title": "Starlink accélère son projet de devenir un opérateur de téléphonie mobile aux Etats-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Starlink accélère son projet de devenir un opérateur de téléphonie mobile aux Etats-Unis"
+    },
+    "published": "Sat, 10 Oct 2026 15:00:10 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      13,
+      0,
+      10,
+      5,
+      283,
+      0
+    ],
+    "summary": "Le groupe d’Elon Musk a acquis des fréquences essentielles au déploiement d’un réseau terrestre de téléphonie mobile, avec l’ambition de mieux couvrir les métropoles, où sa constellation de satellites atteint ses limites.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le groupe d’Elon Musk a acquis des fréquences essentielles au déploiement d’un réseau terrestre de téléphonie mobile, avec l’ambition de mieux couvrir les métropoles, où sa constellation de satellites atteint ses limites."
+    },
+    "id": "https://www.lemonde.fr/economie/article/2026/10/10/starlink-accelere-son-projet-de-devenir-un-operateur-de-telephonie-mobile-aux-etats-unis_6790997_3234.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/economie/article/2026/10/10/starlink-accelere-son-projet-de-devenir-un-operateur-de-telephonie-mobile-aux-etats-unis_6790997_3234.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/economie/article/2026/10/10/starlink-accelere-son-projet-de-devenir-un-operateur-de-telephonie-mobile-aux-etats-unis_6790997_3234.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/28/428/0/4857/2428/644/322/60/0/275cecd_ftp-1-zzo1p6drvx8u-2026-09-28t131913z-1185617274-rc2csnaemw2n-rtrmadp-3-space-spacex-starship.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Lors du 14ᵉ vol d’essai du lanceur Starship de SpaceX, prévu pour déployer 26 satellites Starlink V3, depuis Starbase, à Boca Chica Village (Texas), le 28 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Steve Nesius/REUTERS"
+      }
+    ],
+    "credit": "Steve Nesius/REUTERS"
+  }
+}

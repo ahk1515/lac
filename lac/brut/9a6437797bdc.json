@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T14:14:30.204229+00:00",
+  "_id": "9a6437797bdc",
+  "brut": {
+    "title": "Exécution en direct : Donald Trump réagit à la polémique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Exécution en direct : Donald Trump réagit à la polémique"
+    },
+    "summary": "Donald Trump a affirmé vendredi 9 octobre approuver le projet de diffuser en direct l'exécution de Nidal Hasan, condamné à mort pour avoir tué 13 personnes sur une base militaire au Texas en 2009. Prévue le 3 décembre, cette exécution par peloton d'exécution pourrait être retransmise en direct, une annonce du ministre de la Défense, Pete Hegseth, qui a suscité l'indignation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump a affirmé vendredi 9 octobre approuver le projet de diffuser en direct l'exécution de Nidal Hasan, condamné à mort pour avoir tué 13 personnes sur une base militaire au Texas en 2009. Prévue le 3 décembre, cette exécution par peloton d'exécution pourrait être retransmise en direct, une annonce du ministre de la Défense, Pete Hegseth, qui a suscité l'indignation."
+    },
+    "published": "Sat, 10 Oct 2026 15:54:20 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      13,
+      54,
+      20,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/execution-en-direct-donald-trump-reagit-a-la-polemique_8231653.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/TEK9sRsEeOwuBx2EP3wUir3wuOQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/10/6aca435383820199365435.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/execution-en-direct-donald-trump-reagit-a-la-polemique_8231653.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/execution-en-direct-donald-trump-reagit-a-la-polemique_8231653.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

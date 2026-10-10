@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T14:14:30.204912+00:00",
+  "_id": "d564b52bcf87",
+  "brut": {
+    "title": "Guerre en Ukraine : au moins 15 morts, dont trois enfants, dans des frappes russes sur Zaporijjia",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Guerre en Ukraine : au moins 15 morts, dont trois enfants, dans des frappes russes sur Zaporijjia"
+    },
+    "summary": "Cinq bombes aériennes guidées ont été lâchées sur des quartiers résidentiels, a commenté la police nationale ukrainienne.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Cinq bombes aériennes guidées ont été lâchées sur des quartiers résidentiels, a commenté la police nationale ukrainienne."
+    },
+    "published": "Sat, 10 Oct 2026 15:23:24 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      13,
+      23,
+      24,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dont-trois-enfants-dans-des-frappes-russes-lancees-sur-zaporijjia_8231440.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/r2Uqg5i4FRYaXnCyNN8sYQLTHfk/0x582:5593x3729/432x243/filters:format(jpg)/2026/10/10/6aca07a7965e6493404376.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dont-trois-enfants-dans-des-frappes-russes-lancees-sur-zaporijjia_8231440.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dont-trois-enfants-dans-des-frappes-russes-lancees-sur-zaporijjia_8231440.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

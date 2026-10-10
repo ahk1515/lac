@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T14:14:30.204443+00:00",
+  "_id": "2b1630c42245",
+  "brut": {
+    "title": "Les pickles : au Royaume-Uni, les légumes fermentés se déclinent avec succès",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les pickles : au Royaume-Uni, les légumes fermentés se déclinent avec succès"
+    },
+    "summary": "Le journal de 13 Heures du samedi 10 octobre vous emmène chez nos voisins britanniques pour découvrir une tendance culinaire qui prend de plus en plus de place dans nos assiettes : les pickles. Il s’agit de légumes fermentés, conservés dans du vinaigre, du sel ou une saumure. Une saveur acidulée et piquante qui se décline avec succès.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le journal de 13 Heures du samedi 10 octobre vous emmène chez nos voisins britanniques pour découvrir une tendance culinaire qui prend de plus en plus de place dans nos assiettes : les pickles. Il s’agit de légumes fermentés, conservés dans du vinaigre, du sel ou une saumure. Une saveur acidulée et piquante qui se décline avec succès."
+    },
+    "published": "Sat, 10 Oct 2026 15:36:01 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      13,
+      36,
+      1,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-pickles-au-royaume-uni-les-legumes-fermentes-se-declinent-avec-succes_8231632.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/LOVKuSSwaN9H0fQlsRn_VSXX2wQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca3c20c0bdf331322256.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-pickles-au-royaume-uni-les-legumes-fermentes-se-declinent-avec-succes_8231632.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-pickles-au-royaume-uni-les-legumes-fermentes-se-declinent-avec-succes_8231632.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

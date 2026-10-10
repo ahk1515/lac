@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T14:14:29.844834+00:00",
+  "_id": "ec4aa5c3283c",
+  "brut": {
+    "title": "Dominique Méda, sociologue : « Alors que notre société est de plus en plus régie par la Silicon Valley, l’autoritarisme d’entreprise devient une menace croissante »",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dominique Méda, sociologue : « Alors que notre société est de plus en plus régie par la Silicon Valley, l’autoritarisme d’entreprise devient une menace croissante »"
+    },
+    "published": "Sat, 10 Oct 2026 10:00:11 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      8,
+      0,
+      11,
+      5,
+      283,
+      0
+    ],
+    "summary": "Le fonctionnement de plus en plus autoritaire des fondateurs ou des dirigeants de groupes américains de la Tech, comme Elon Musk ou Peter Thiel, appelle une régulation, estime la sociologue dans sa chronique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Le fonctionnement de plus en plus autoritaire des fondateurs ou des dirigeants de groupes américains de la Tech, comme Elon Musk ou Peter Thiel, appelle une régulation, estime la sociologue dans sa chronique."
+    },
+    "id": "https://www.lemonde.fr/idees/article/2026/10/10/dominique-meda-sociologue-alors-que-notre-societe-est-de-plus-en-plus-regie-par-la-silicon-valley-l-autoritarisme-d-entreprise-devient-une-menace-croissante_6790972_3232.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/idees/article/2026/10/10/dominique-meda-sociologue-alors-que-notre-societe-est-de-plus-en-plus-regie-par-la-silicon-valley-l-autoritarisme-d-entreprise-devient-une-menace-croissante_6790972_3232.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/idees/article/2026/10/10/dominique-meda-sociologue-alors-que-notre-societe-est-de-plus-en-plus-regie-par-la-silicon-valley-l-autoritarisme-d-entreprise-devient-une-menace-croissante_6790972_3232.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2018/06/27/263/0/3000/1500/644/322/60/0/beb992a_6b37195c176b42b68a57b5d3d71e5bec-6b37195c176b42b68a57b5d3d71e5bec-0.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Sur le campus de Google, à Mountain View, en Californie, le 12 novembre 2015."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Jeff Chiu/AP"
+      }
+    ],
+    "credit": "Jeff Chiu/AP"
+  }
+}

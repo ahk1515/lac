@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T14:14:30.205384+00:00",
+  "_id": "4c544ef48c52",
+  "brut": {
+    "title": "Plus de 1 400 Palestiniens ont été tués dans des opérations israéliennes depuis le début du cessez-le-feu dans la bande de Gaza",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Plus de 1 400 Palestiniens ont été tués dans des opérations israéliennes depuis le début du cessez-le-feu dans la bande de Gaza"
+    },
+    "summary": "Malgré l'entrée en vigueur de la trêve avec le Hamas, les opérations militaires se poursuivent dans l'enclave palestinienne et continuent d'y coûter des vies, selon des données rassemblées par l'OMS.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Malgré l'entrée en vigueur de la trêve avec le Hamas, les opérations militaires se poursuivent dans l'enclave palestinienne et continuent d'y coûter des vies, selon des données rassemblées par l'OMS."
+    },
+    "published": "Sat, 10 Oct 2026 06:56:01 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      4,
+      56,
+      1,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/plus-de-1-400-palestiniens-ont-ete-tues-dans-des-operations-israeliennes-depuis-le-debut-du-cessez-le-feu-dans-la-bande-de-gaza_8213186.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/DvnPcgzmpeb8AnS6fQ-Pv0khcTY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/28/6aba66811c163605113586.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/plus-de-1-400-palestiniens-ont-ete-tues-dans-des-operations-israeliennes-depuis-le-debut-du-cessez-le-feu-dans-la-bande-de-gaza_8213186.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/plus-de-1-400-palestiniens-ont-ete-tues-dans-des-operations-israeliennes-depuis-le-debut-du-cessez-le-feu-dans-la-bande-de-gaza_8213186.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T14:14:30.204829+00:00",
+  "_id": "5ba43ac76fc3",
+  "brut": {
+    "title": "L’ouragan Isaias s'abat sur la Floride tandis que la tempête Rachel frappe la côte ouest des États-Unis",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "L’ouragan Isaias s'abat sur la Floride tandis que la tempête Rachel frappe la côte ouest des États-Unis"
+    },
+    "summary": "Les États-Unis sont pris en étau par un ouragan et une tempête. D’un côté, en Floride, l’ouragan Isaias a touché terre vendredi 9 octobre avec des vents dépassant les 165 km/h et de l’autre, en Californie, la tempête tropicale Rachel s’abat avec de puissantes vagues ayant déjà endommagé des habitations.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Les États-Unis sont pris en étau par un ouragan et une tempête. D’un côté, en Floride, l’ouragan Isaias a touché terre vendredi 9 octobre avec des vents dépassant les 165 km/h et de l’autre, en Californie, la tempête tropicale Rachel s’abat avec de puissantes vagues ayant déjà endommagé des habitations."
+    },
+    "published": "Sat, 10 Oct 2026 13:57:31 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      11,
+      57,
+      31,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-ouragan-isaias-s-abat-sur-la-floride-tandis-que-la-tempete-rachel-frappe-la-cote-ouest-des-etats-unis_8231584.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/X0ZrJQbS4Z66YNB9FjZMFBys1eI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca274575836227409071.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-ouragan-isaias-s-abat-sur-la-floride-tandis-que-la-tempete-rachel-frappe-la-cote-ouest-des-etats-unis_8231584.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-ouragan-isaias-s-abat-sur-la-floride-tandis-que-la-tempete-rachel-frappe-la-cote-ouest-des-etats-unis_8231584.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

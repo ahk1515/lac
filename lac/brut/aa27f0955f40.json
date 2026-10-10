@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T14:14:29.845006+00:00",
+  "_id": "aa27f0955f40",
+  "brut": {
+    "title": "En Inde, le chef du Parti du peuple cafard arrêté avant une manifestation contre la commission électorale à New Delhi",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "En Inde, le chef du Parti du peuple cafard arrêté avant une manifestation contre la commission électorale à New Delhi"
+    },
+    "published": "Sat, 10 Oct 2026 08:38:33 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      6,
+      38,
+      33,
+      5,
+      283,
+      0
+    ],
+    "updated": "Sat, 10 Oct 2026 16:06:01 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      10,
+      14,
+      6,
+      1,
+      5,
+      283,
+      0
+    ],
+    "summary": "Dès vendredi, plus de 20 000 policiers ont été déployés dans le centre de la capitale indienne pour la manifestation organisée samedi par l’opposition pour réclamer la démission du président de la commission électorale du pays.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Dès vendredi, plus de 20 000 policiers ont été déployés dans le centre de la capitale indienne pour la manifestation organisée samedi par l’opposition pour réclamer la démission du président de la commission électorale du pays."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/10/en-inde-le-chef-du-parti-du-peuple-cafard-arrete-avant-une-manifestation-contre-la-commission-electorale-a-new-dehli_6790963_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/10/en-inde-le-chef-du-parti-du-peuple-cafard-arrete-avant-une-manifestation-contre-la-commission-electorale-a-new-dehli_6790963_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/10/en-inde-le-chef-du-parti-du-peuple-cafard-arrete-avant-une-manifestation-contre-la-commission-electorale-a-new-dehli_6790963_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/10/450/0/5401/2700/644/322/60/0/e6e7302_ftp-1-33k7axgvpjxt-2a32b4e281564635a245ae41b2dd3b51-0-af633b503ea64d3b9627c74e7ff07013.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Les forces de sécurité dans les rues de New Dehli, le 10 octobre 2026, avant la manifestation organisée par l’opposition pour exiger la démission du président de la commission électorale."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "AP Photo/"
+      }
+    ],
+    "credit": "AP Photo/"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T14:14:29.843758+00:00",
+  "_id": "c06a67a5eff5",
+  "brut": {
+    "title": "Comment la surpêche et l’industrie alimentaire vident les océans et ruinent les populations en Afrique de l’Ouest",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Comment la surpêche et l’industrie alimentaire vident les océans et ruinent les populations en Afrique de l’Ouest"
+    },
+    "published": "Sat, 10 Oct 2026 15:30:03 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      13,
+      30,
+      3,
+      5,
+      283,
+      0
+    ],
+    "summary": "Au Sénégal, en Mauritanie ou au Sahara occidental, des dizaines d’usines exploitent les ressources halieutiques de l’océan pour produire de la farine de poisson. Cette industrie ravage l’économie locale et pousse de plus en plus de personnes sur les dangereuses routes migratoires de l’Atlantique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Au Sénégal, en Mauritanie ou au Sahara occidental, des dizaines d’usines exploitent les ressources halieutiques de l’océan pour produire de la farine de poisson. Cette industrie ravage l’économie locale et pousse de plus en plus de personnes sur les dangereuses routes migratoires de l’Atlantique."
+    },
+    "id": "https://www.lemonde.fr/afrique/video/2026/10/10/comment-la-surpeche-et-l-industrie-alimentaire-vident-les-oceans-et-ruinent-les-populations-en-afrique-de-l-ouest_6791001_3212.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/afrique/video/2026/10/10/comment-la-surpeche-et-l-industrie-alimentaire-vident-les-oceans-et-ruinent-les-populations-en-afrique-de-l-ouest_6791001_3212.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/afrique/video/2026/10/10/comment-la-surpeche-et-l-industrie-alimentaire-vident-les-oceans-et-ruinent-les-populations-en-afrique-de-l-ouest_6791001_3212.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/328/0/8256/4128/644/322/60/0/fa9661f_upload-1-ww8phmx2mlub-000-344k8kl-copie.jpg"
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "ERNESTO BENAVIDES / AFP"
+      }
+    ],
+    "credit": "ERNESTO BENAVIDES / AFP"
+  }
+}
