@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T19:46:34.805935+00:00",
+  "_id": "75429ab5bc9e",
+  "brut": {
+    "title": "Christa Pike, qui a survécu à son exécution aux Etats-Unis, est sortie de l’hôpital et est de retour en prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Christa Pike, qui a survécu à son exécution aux Etats-Unis, est sortie de l’hôpital et est de retour en prison"
+    },
+    "published": "Sat, 10 Oct 2026 19:04:57 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      17,
+      4,
+      57,
+      5,
+      283,
+      0
+    ],
+    "updated": "Sat, 10 Oct 2026 19:16:10 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      10,
+      17,
+      16,
+      10,
+      5,
+      283,
+      0
+    ],
+    "summary": "Si elle a pu remarcher, la condamnée de 50 ans garde les bras « très abîmés » et reste « quelque peu confuse », selon son avocat, qui n’exclut pas des séquelles permanentes.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Si elle a pu remarcher, la condamnée de 50 ans garde les bras « très abîmés » et reste « quelque peu confuse », selon son avocat, qui n’exclut pas des séquelles permanentes."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/10/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-est-sortie-de-l-hopital-et-est-de-retour-en-prison_6791020_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/10/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-est-sortie-de-l-hopital-et-est-de-retour-en-prison_6791020_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/10/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-est-sortie-de-l-hopital-et-est-de-retour-en-prison_6791020_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/07/40/0/5021/2510/644/322/60/0/5a267c1_ftp-1-bd23ugqdt4s1-6a2ba38160944eea8effe43e867ded13-0-24be2e1b23274572b4ff6c324cd6a67c.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Luke Ihnen, l’avocat de la condamnée à mort Christa Pike, lors d’une conférence de presse, mercredi 7 octobre 2026, à Nashville, dans le Tennessee."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "George Walker IV / AP Photo/George Walker IV"
+      }
+    ],
+    "credit": "George Walker IV / AP Photo/George Walker IV"
+  }
+}

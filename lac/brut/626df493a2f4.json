@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T19:46:35.060898+00:00",
+  "_id": "626df493a2f4",
+  "brut": {
+    "title": "Christa Pike, qui a survécu à son exécution dans le Tennessee, est de retour en prison",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Christa Pike, qui a survécu à son exécution dans le Tennessee, est de retour en prison"
+    },
+    "summary": "Selon son avocat, elle n'est pas encore rétablie sur le plan mental alors qu'elle a avalé deux doses d'un puissant barbiturique.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Selon son avocat, elle n'est pas encore rétablie sur le plan mental alors qu'elle a avalé deux doses d'un puissant barbiturique."
+    },
+    "published": "Sat, 10 Oct 2026 18:57:43 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      16,
+      57,
+      43,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/societe/justice/christa-pike-qui-a-survecu-a-son-execution-dans-le-tennessee-est-de-retour-en-prison_8231827.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/E5kxLnkjdwgCqxDm2Fi-eZYiKws/0x13:1200x688/432x243/filters:format(jpg)/2026/10/01/6abde854cdccc668703444.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/societe/justice/christa-pike-qui-a-survecu-a-son-execution-dans-le-tennessee-est-de-retour-en-prison_8231827.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/societe/justice/christa-pike-qui-a-survecu-a-son-execution-dans-le-tennessee-est-de-retour-en-prison_8231827.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

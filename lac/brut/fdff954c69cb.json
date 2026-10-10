@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T19:46:34.806303+00:00",
+  "_id": "fdff954c69cb",
+  "brut": {
+    "title": "Les houthistes au Yémen visent une nouvelle fois l’aéroport de Riyad, faisant de nombreux blessés",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les houthistes au Yémen visent une nouvelle fois l’aéroport de Riyad, faisant de nombreux blessés"
+    },
+    "published": "Sat, 10 Oct 2026 17:53:12 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      15,
+      53,
+      12,
+      5,
+      283,
+      0
+    ],
+    "updated": "Sat, 10 Oct 2026 18:34:21 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      10,
+      16,
+      34,
+      21,
+      5,
+      283,
+      0
+    ],
+    "summary": "Les hostilités entre les combattants pro-iraniens et l’Arabie saoudite, qui soutient le gouvernement yéménite, se sont intensifiées en septembre à la suite de la prise par les houthistes du littoral bordant la mer Rouge à l’issue d’une offensive éclair.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Les hostilités entre les combattants pro-iraniens et l’Arabie saoudite, qui soutient le gouvernement yéménite, se sont intensifiées en septembre à la suite de la prise par les houthistes du littoral bordant la mer Rouge à l’issue d’une offensive éclair."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/10/les-houthiste-du-yemen-vise-une-nouvelle-fois-l-aeroport-de-riyad-faisant-de-nombreux-blesses_6791016_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/10/les-houthiste-du-yemen-vise-une-nouvelle-fois-l-aeroport-de-riyad-faisant-de-nombreux-blesses_6791016_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/10/les-houthiste-du-yemen-vise-une-nouvelle-fois-l-aeroport-de-riyad-faisant-de-nombreux-blesses_6791016_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/10/333/0/4000/2000/644/322/60/0/d34fa1f_upload-1-iahmmaisuvff-000-c8rp6nu.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "L’aéroport de la capitale saoudienne, Riyad, le 19 septembre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "- / AFP"
+      }
+    ],
+    "credit": "- / AFP"
+  }
+}

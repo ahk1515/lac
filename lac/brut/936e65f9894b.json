@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T19:46:34.806699+00:00",
+  "_id": "936e65f9894b",
+  "brut": {
+    "title": "Malacca, le détroit qui voulait devenir une ressource économique",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Malacca, le détroit qui voulait devenir une ressource économique"
+    },
+    "published": "Sat, 10 Oct 2026 17:00:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      15,
+      0,
+      5,
+      5,
+      283,
+      0
+    ],
+    "summary": "La position exceptionnelle du détroit de Malacca, entre la péninsule Malaise et l’île indonésienne de Sumatra, en fait l’un des corridors maritimes les plus stratégiques du monde, vital pour le commerce asiatique, le pétrole du Golfe et l’économie mondiale. Les autorités locales entendent valoriser la situation.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La position exceptionnelle du détroit de Malacca, entre la péninsule Malaise et l’île indonésienne de Sumatra, en fait l’un des corridors maritimes les plus stratégiques du monde, vital pour le commerce asiatique, le pétrole du Golfe et l’économie mondiale. Les autorités locales entendent valoriser la situation."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/10/malacca-le-detroit-qui-voulait-devenir-une-ressource-economique_6791008_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/10/malacca-le-detroit-qui-voulait-devenir-une-ressource-economique_6791008_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/10/malacca-le-detroit-qui-voulait-devenir-une-ressource-economique_6791008_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/09/15/50/0/1600/800/644/322/60/0/7ab8140_upload-1-e0swkyzephtz-gettyimages-1129084678-preview.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Le détroit de Malacca (900 kilomètres de long) met en contact la côte de Sumatra (Indonésie) et celle de la Malaisie et de Singapour."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Getty Images"
+      }
+    ],
+    "credit": "Getty Images"
+  }
+}

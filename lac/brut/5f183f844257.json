@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T19:46:35.060415+00:00",
+  "_id": "5f183f844257",
+  "brut": {
+    "title": "Tremblement de terre, ouragan, coulée de boue : le continent américain touché par plusieurs catastrophes naturelles",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Tremblement de terre, ouragan, coulée de boue : le continent américain touché par plusieurs catastrophes naturelles"
+    },
+    "summary": "Depuis vendredi 9 octobre, le continent américain est frappé par plusieurs catastrophes naturelles. Un ouragan circule entre le Mexique et les États-Unis. Un tremblement de terre a eu lieu au Panama, tandis qu’une coulée de boue a déferlé à Santiago au Chili.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Depuis vendredi 9 octobre, le continent américain est frappé par plusieurs catastrophes naturelles. Un ouragan circule entre le Mexique et les États-Unis. Un tremblement de terre a eu lieu au Panama, tandis qu’une coulée de boue a déferlé à Santiago au Chili."
+    },
+    "published": "Sat, 10 Oct 2026 20:50:27 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      18,
+      50,
+      27,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tremblement-de-terre-ouragan-coulee-de-boue-le-continent-americain-touche-par-plusieurs-catastrophes-naturelles_8231896.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/kSflO6INmOpm3zrWLHa6uE3HXLc/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca860deabdb421356828.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tremblement-de-terre-ouragan-coulee-de-boue-le-continent-americain-touche-par-plusieurs-catastrophes-naturelles_8231896.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tremblement-de-terre-ouragan-coulee-de-boue-le-continent-americain-touche-par-plusieurs-catastrophes-naturelles_8231896.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

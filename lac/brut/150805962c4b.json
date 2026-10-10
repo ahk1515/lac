@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T19:46:35.060163+00:00",
+  "_id": "150805962c4b",
+  "brut": {
+    "title": "Donald Trump est-il en train de lâcher Volodymyr Zelensky ?",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump est-il en train de lâcher Volodymyr Zelensky ?"
+    },
+    "summary": "Un accord surprise d’importation de gasoil russe est intervenu entre Vladimir Poutine et Donald Trump, levant ainsi les sanctions qui pèsent sur Moscou. Volodymyr Zelensky a fait part de son indignation. Donald Trump a répondu ce samedi 10 octobre en affirmant qu’à ses yeux, il est temps que l’Ukraine change de président.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Un accord surprise d’importation de gasoil russe est intervenu entre Vladimir Poutine et Donald Trump, levant ainsi les sanctions qui pèsent sur Moscou. Volodymyr Zelensky a fait part de son indignation. Donald Trump a répondu ce samedi 10 octobre en affirmant qu’à ses yeux, il est temps que l’Ukraine change de président."
+    },
+    "published": "Sat, 10 Oct 2026 20:53:30 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      18,
+      53,
+      30,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-est-il-en-train-de-lacher-volodymyr-zelensky_8231905.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/phJ4ctcgR4MEzoMRmdQOIaRa4GY/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca882ff3121414375478.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-est-il-en-train-de-lacher-volodymyr-zelensky_8231905.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-est-il-en-train-de-lacher-volodymyr-zelensky_8231905.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

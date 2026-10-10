@@ -1,0 +1,78 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T19:46:34.805480+00:00",
+  "_id": "1dfae5103936",
+  "brut": {
+    "title": "Cuba : une nouvelle panne électrique prive de courant l’est de l’île",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Cuba : une nouvelle panne électrique prive de courant l’est de l’île"
+    },
+    "published": "Sat, 10 Oct 2026 20:32:26 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      18,
+      32,
+      26,
+      5,
+      283,
+      0
+    ],
+    "updated": "Sat, 10 Oct 2026 20:39:25 +0200",
+    "updated_parsed": [
+      2026,
+      10,
+      10,
+      18,
+      39,
+      25,
+      5,
+      283,
+      0
+    ],
+    "summary": "Depuis le début de l’année, Cuba a enregistré sept coupures totales du réseau électrique, et une douzaine depuis la fin de 2024.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Depuis le début de l’année, Cuba a enregistré sept coupures totales du réseau électrique, et une douzaine depuis la fin de 2024."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/10/cuba-une-nouvelle-panne-electrique-prive-de-courant-l-est-de-l-ile_6791025_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/10/cuba-une-nouvelle-panne-electrique-prive-de-courant-l-est-de-l-ile_6791025_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/10/cuba-une-nouvelle-panne-electrique-prive-de-courant-l-est-de-l-ile_6791025_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/05/524/0/6000/3000/644/322/60/0/11118e6_ftp-1-42opy7qygtp6-2026-10-05t052127z-797723286-rc2jwnahzq07-rtrmadp-3-cuba-dailylife.JPG"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Un homme marche dans les rues de La Havane, à Cuba, le 4 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "Ricardo Arduengo / REUTERS"
+      }
+    ],
+    "credit": "Ricardo Arduengo / REUTERS"
+  }
+}

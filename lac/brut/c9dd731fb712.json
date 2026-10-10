@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T19:46:35.061536+00:00",
+  "_id": "c9dd731fb712",
+  "brut": {
+    "title": "\"Portobello\" : récit d'une erreur judiciaire historique en Italie",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Portobello\" : récit d'une erreur judiciaire historique en Italie"
+    },
+    "summary": "En 1983, le Michel Drucker italien est arrêté pour trafic de drogue. Il a été dénoncé par un repenti de la Nouvelle Camora. Une erreur judiciaire terrible, racontée avec force par Marco Bellochio.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "En 1983, le Michel Drucker italien est arrêté pour trafic de drogue. Il a été dénoncé par un repenti de la Nouvelle Camora. Une erreur judiciaire terrible, racontée avec force par Marco Bellochio."
+    },
+    "published": "Sat, 10 Oct 2026 17:00:05 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      15,
+      0,
+      5,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/portobello-recit-d-une-erreur-judiciaire-historique-en-italie_8210450.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/u0NKaQ7sGGiw59VFln8HGU3v77s/0x0:1280x720/432x243/filters:format(jpg)/2026/10/09/6ac8fba05aabc300737808.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/portobello-recit-d-une-erreur-judiciaire-historique-en-italie_8210450.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/portobello-recit-d-une-erreur-judiciaire-historique-en-italie_8210450.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
