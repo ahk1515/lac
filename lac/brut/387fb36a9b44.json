@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T23:14:46.924519+00:00",
+  "_id": "387fb36a9b44",
+  "brut": {
+    "title": "Ouragan, séisme : le continent américain frappé de plein fouet",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Ouragan, séisme : le continent américain frappé de plein fouet"
+    },
+    "summary": "Le continent américain a été frappé ces dernières 24 heures par un ouragan, un séisme au Panama et une coulée de boue au Chili.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Le continent américain a été frappé ces dernières 24 heures par un ouragan, un séisme au Panama et une coulée de boue au Chili."
+    },
+    "published": "Sat, 10 Oct 2026 23:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      21,
+      0,
+      2,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/ouragan-seisme-le-continent-americain-frappe-de-plein-fouet_8231944.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/gmjeAhDNszxTn4cSpEUvaAlw1a4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/10/6aca95743d5ca421984936.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/ouragan-seisme-le-continent-americain-frappe-de-plein-fouet_8231944.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/ouragan-seisme-le-continent-americain-frappe-de-plein-fouet_8231944.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

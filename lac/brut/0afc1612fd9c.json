@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T23:14:46.924934+00:00",
+  "_id": "0afc1612fd9c",
+  "brut": {
+    "title": "Donald Trump estime qu’il est \"temps pour l’Ukraine d’avoir un nouveau président\"",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Donald Trump estime qu’il est \"temps pour l’Ukraine d’avoir un nouveau président\""
+    },
+    "summary": "\"Je pense qu'il est temps pour l'Ukraine d'avoir un nouveau président.\" Donald Trump s'en prend à Volodymyr Zelensky, lui reprochant notamment les frappes ukrainiennes contre les raffineries russes, qui aggraveraient, selon lui, la pénurie mondiale de diesel.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "\"Je pense qu'il est temps pour l'Ukraine d'avoir un nouveau président.\" Donald Trump s'en prend à Volodymyr Zelensky, lui reprochant notamment les frappes ukrainiennes contre les raffineries russes, qui aggraveraient, selon lui, la pénurie mondiale de diesel."
+    },
+    "published": "Sat, 10 Oct 2026 21:43:41 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      19,
+      43,
+      41,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-estime-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president_8231941.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/jpeg",
+        "href": "https://www.franceinfo.fr/pictures/xvFzt6ham0Y-qj62ryuO5iiuS9c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/10/6aca952cb1b86870989046.jpg",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-estime-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president_8231941.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-estime-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president_8231941.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_source": "lemonde_intl",
+  "_url_collecte": "https://www.lemonde.fr/international/rss_full.xml",
+  "_capte_le": "2026-10-10T23:14:46.215928+00:00",
+  "_id": "4c7f5b860c1b",
+  "brut": {
+    "title": "La tempête Isaias a balayé le sud des Etats-Unis, faisant trois morts et provoquant de vastes pannes de courant",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "La tempête Isaias a balayé le sud des Etats-Unis, faisant trois morts et provoquant de vastes pannes de courant"
+    },
+    "published": "Sun, 11 Oct 2026 00:11:52 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      22,
+      11,
+      52,
+      5,
+      283,
+      0
+    ],
+    "summary": "Près de 700 000 foyers et commerces étaient toujours privés électricité, samedi à la mi-journée, dont plus de 420 000 rien qu’en Floride, selon le site Internet spécialisé poweroutage.us.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.lemonde.fr/international/rss_full.xml",
+      "value": "Près de 700 000 foyers et commerces étaient toujours privés électricité, samedi à la mi-journée, dont plus de 420 000 rien qu’en Floride, selon le site Internet spécialisé poweroutage.us."
+    },
+    "id": "https://www.lemonde.fr/international/article/2026/10/11/la-tempete-isaias-a-balaye-le-sud-des-etats-unis-faisant-trois-morts-et-provoquant-de-vastes-pannes-de-courant_6791060_3210.html",
+    "guidislink": true,
+    "link": "https://www.lemonde.fr/international/article/2026/10/11/la-tempete-isaias-a-balaye-le-sud-des-etats-unis-faisant-trois-morts-et-provoquant-de-vastes-pannes-de-courant_6791060_3210.html",
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.lemonde.fr/international/article/2026/10/11/la-tempete-isaias-a-balaye-le-sud-des-etats-unis-faisant-trois-morts-et-provoquant-de-vastes-pannes-de-courant_6791060_3210.html"
+      }
+    ],
+    "media_content": [
+      {
+        "width": "644",
+        "height": "322",
+        "url": "https://img.lemde.fr/2026/10/10/458/0/6000/3000/644/322/60/0/aecd7c8_ftp-1-28c53kgzzdpg-5318762-01-06.jpg"
+      }
+    ],
+    "content": [
+      {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.lemonde.fr/international/rss_full.xml",
+        "value": "Après le passage de la tempête Isaias à Milton, en Floride, le 10 octobre 2026."
+      }
+    ],
+    "media_credit": [
+      {
+        "scheme": "urn:ebu",
+        "content": "JOE RAEDLE/AFP"
+      }
+    ],
+    "credit": "JOE RAEDLE/AFP"
+  }
+}

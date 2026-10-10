@@ -1,0 +1,50 @@
+{
+  "_source": "franceinfo_monde",
+  "_url_collecte": "https://www.franceinfo.fr/monde.rss",
+  "_capte_le": "2026-10-10T23:14:46.924765+00:00",
+  "_id": "6128f897a147",
+  "brut": {
+    "title": "La vie sous surveillance du réalisateur russe Pavel Talankin",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "La vie sous surveillance du réalisateur russe Pavel Talankin"
+    },
+    "summary": "Mi-mars, le réalisateur russe Pavel Talankin triomphait à Hollywood avec son documentaire \"Mr Nobody contre Poutine\". Désormais fiché \"agent de l'étranger\" par le Kremlin, il vit exilé à Prague.",
+    "summary_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.franceinfo.fr/monde.rss",
+      "value": "Mi-mars, le réalisateur russe Pavel Talankin triomphait à Hollywood avec son documentaire \"Mr Nobody contre Poutine\". Désormais fiché \"agent de l'étranger\" par le Kremlin, il vit exilé à Prague."
+    },
+    "published": "Sat, 10 Oct 2026 22:00:02 +0200",
+    "published_parsed": [
+      2026,
+      10,
+      10,
+      20,
+      0,
+      2,
+      5,
+      283,
+      0
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.franceinfo.fr/monde/russie/la-vie-sous-surveillance-du-realisateur-russe-pavel-talankin_8230654.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "length": "243",
+        "type": "image/png",
+        "href": "https://www.franceinfo.fr/pictures/Hu7syf4GU3qVq1e6ZkT0JbjEnZU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/09/6ac92638449ed157331872.png",
+        "rel": "enclosure"
+      }
+    ],
+    "link": "https://www.franceinfo.fr/monde/russie/la-vie-sous-surveillance-du-realisateur-russe-pavel-talankin_8230654.html#xtor=RSS-3-%5Bgeneral%5D",
+    "id": "https://www.franceinfo.fr/monde/russie/la-vie-sous-surveillance-du-realisateur-russe-pavel-talankin_8230654.html#xtor=RSS-3-%5Bgeneral%5D",
+    "guidislink": false
+  }
+}
